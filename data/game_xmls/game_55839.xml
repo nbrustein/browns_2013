@@ -1,0 +1,278 @@
+
+<chart>
+   <license>ETAS9P33ESHO.945CWK-2XOI1X0-7L</license>
+   <chart_type>scatter</chart_type>
+   <chart_pref trend_thickness='0' line_thickness='3' point_size='0'/>
+
+   <series_color>
+      <color>ffff00</color>
+   </series_color>
+
+   <chart_rect x='45' y='20' width='630' height='230' positive_color='cacaca'  />
+
+  <chart_border top_thickness='0'
+                 bottom_thickness='0'
+                 left_thickness='0'
+                 right_thickness='0'
+                 color='000000'
+                 />
+
+   <tooltip font='Arial' bold='true' size='11' />
+
+   <chart_note type='flag'
+               color='000000'
+               alpha='90'
+               bold='FALSE'
+               size='10'
+               background_color='ffffe0'
+               background_alpha='50'
+               shadow='shadow2'
+               />
+
+   <chart_grid_h thickness='2' color='ffffff' type='dashed'  />
+   <chart_grid_v thickness='2' color='ffffff'   />
+		>
+
+   <legend layout='hide' />
+
+   <chart_guide horizontal='TRUE'
+             vertical='TRUE'
+             thickness='1'
+             color='006400'
+             alpha='100'
+             type='solid'
+             snap_h='TRUE'
+             snap_v='TRUE'
+             radius='3'
+             fill_color='006400'
+             fill_alpha='100'
+             line_color='006400'
+             line_alpha='80'
+             line_thickness='1'
+             text_h_alpha='50'
+             text_v_alpha='00'
+             suffix_h=' WP'
+             decimals='2'
+             bold='FALSE'
+             size='11'
+             text_color='FFFFFF'
+             background_color='006400'
+             />
+   <filter>
+      <shadow id='shadow1' distance='2' angle='60' blurX='5' blurY='5' alpha='50' />
+      <bevel id='bevel1' angle='45' blurX='5' blurY='5' distance='0' />
+      <glow id='glow1' color='ffffff' alpha='0' blurX='7' blurY='7' strength='6' quality='2' inner='FALSE' knockout='FALSE' />
+      <glow id='winnerglow' color='ffffff' alpha='0' blurX='7' blurY='7' strength='5' quality='2' inner='FALSE' knockout='FALSE' />
+   </filter>
+
+    <axis_value_label>
+         <string></string>
+          <string> </string>
+          <null/>
+          <string> </string>
+          <string></string>
+
+       </axis_value_label>
+		
+	   <axis_ticks category_ticks='false'/>
+
+       <axis_value min='0' max='1' steps='4'  decimals='2' show_min='true' size='13' shadow='shadow2' />     
+            <axis_category
+               min='0'
+               max='60'
+               steps='4'
+               mode='all'
+               decimals='0'
+               size='13'
+               shadow='shadow2'
+               />
+
+       <axis_category_label>
+          <string>Kickoff</string>
+          <string></string>
+          <string>Halftime</string>
+          <string></string>
+          <string>End</string>
+
+       </axis_category_label>
+
+
+        <chart_data>
+       <row>
+	      <null/><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number>
+              <number>x</number><number>y</number>
+              </row><row><string></string>
+
+                     <number shadow='shadow1'>0</number><number>.5</number><number shadow='shadow1' tooltip='15:00 SEA 0 CAR 0 LI: 4-S.Hauschka kicks 65 yards from SEA 35 to end zone Touchback.'>0.09</number><number>0.48</number>
+<number shadow='shadow1' tooltip='14:22 2-5-CAR 25SEA 0 CAR 0 LI: 1.4(Shotgun) 1-C.Newton pass short left to 88-G.Olsen to CAR 31 for 6 yards(29-E.Thomas).'>0.63</number><number>0.46</number>
+<number shadow='shadow1' tooltip='13:41 1-10-CAR 31SEA 0 CAR 0 LI: 1.5(Shotgun) 1-C.Newton pass short left to 89-S.Smith to CAR 37 for 6 yards(29-E.Thomas).'>1.32</number><number>0.46</number>
+<number shadow='shadow1' tooltip='13:00 2-4-CAR 37SEA 0 CAR 0 LI: 1.434-D.Williams right end to CAR 42 for 5 yards(94-D.Smith).'>2</number><number>0.45</number>
+<number shadow='shadow1' tooltip='12:22 1-10-CAR 42SEA 0 CAR 0 LI: 1.434-D.Williams left guard to CAR 48 for 6 yards(31-K.Chancellor).'>2.63</number><number>0.44</number>
+<number shadow='shadow1' tooltip='11:41 2-4-CAR 48SEA 0 CAR 0 LI: 1.335-M.Tolbert left tackle to CAR 48 for no gain (53-M.Smith).'>3.32</number><number>0.46</number>
+<number shadow='shadow1' tooltip='10:59 3-4-CAR 48SEA 0 CAR 0 LI: 1.1(Shotgun) 1-C.Newton pass incomplete short right to 11-B.LaFellPENALTY on SEA-28-W.Thurmond Defensive Pass Interference 3 yards enforced at CAR 48 - No Play.'>4.02</number><number>0.43</number>
+<number shadow='shadow1' tooltip='10:55 1-10-SEA 49SEA 0 CAR 0 LI: 1.3(Shotgun) 1-C.Newton pass incomplete short right to 88-G.Olsen.'>4.08</number><number>0.45</number>
+<number shadow='shadow1' tooltip='10:51 2-10-SEA 49SEA 0 CAR 0 LI: 1.1(Shotgun) 1-C.Newton scrambles right tackle to SEA 41 for 8 yards(29-E.Thomas).'>4.15</number><number>0.44</number>
+<number shadow='shadow1' tooltip='10:07 3-2-SEA 41SEA 0 CAR 0 LI: 1.1(Shotgun) 1-C.Newton pass incomplete short right to 89-S.Smith (25-R.Sherman).'>4.88</number><number>0.5</number>
+<number shadow='shadow1' tooltip='10:01 4-2-SEA 41SEA 0 CAR 0 LI: 0.58-B.Nortman punts 36 yards to SEA 5 Center-44-J.Jansen downed by CAR.'>4.98</number><number>0.5</number>
+<number shadow='shadow1' tooltip='9:50 1-10-SEA 5SEA 0 CAR 0 LI: 1.8(Shotgun) 24-M.Lynch right tackle to SEA 10 for 5 yards(92-D.Edwards).'>5.17</number><number>0.49</number>
+<number shadow='shadow1' tooltip='9:14 2-5-SEA 10SEA 0 CAR 0 LI: 1.63-R.Wilson pass short left to 81-G.Tate to SEA 10 for no gain (41-C.Munnerlyn)PENALTY on SEA Illegal Shift 5 yards enforced at SEA 10 - No Play.'>5.77</number><number>0.47</number>
+<number shadow='shadow1' tooltip='8:52 2-10-SEA 5SEA 0 CAR 0 LI: 1.53-R.Wilson pass incomplete short right to 86-Z.Miller.'>6.13</number><number>0.45</number>
+<number shadow='shadow1' tooltip='8:47 3-10-SEA 5SEA 0 CAR 0 LI: 1.3(Shotgun) 3-R.Wilson pass short right to 24-M.Lynch to SEA 6 for 1 yard(98-S.Lotulelei).'>6.22</number><number>0.42</number>
+<number shadow='shadow1' tooltip='8:07 4-9-SEA 6SEA 0 CAR 0 LI: 19-J.Ryan punts 69 yards to CAR 25 Center-49-C.Gresham19-T.Ginn to CAR 35 for 10 yards(55-H.Farwell; 42-C.Maragos).'>6.88</number><number>0.46</number>
+<number shadow='shadow1' tooltip='7:54 1-10-CAR 35SEA 0 CAR 0 LI: 1.434-D.Williams right guard to CAR 39 for 4 yards(53-M.Smith).'>7.1</number><number>0.46</number>
+<number shadow='shadow1' tooltip='7:16 2-6-CAR 39SEA 0 CAR 0 LI: 1.31-C.Newton sacked at CAR 33 for -6 yards(93-O.Schofield).'>7.73</number><number>0.5</number>
+<number shadow='shadow1' tooltip='6:37 3-12-CAR 33SEA 0 CAR 0 LI: 1.1(Shotgun) 1-C.Newton pass short left to 88-G.Olsen to CAR 41 for 8 yards(28-W.Thurmond).'>8.38</number><number>0.52</number>
+<number shadow='shadow1' tooltip='6:00 4-4-CAR 41SEA 0 CAR 0 LI: 0.78-B.Nortman punts 56 yards to SEA 3 Center-44-J.Jansen81-G.Tate to SEA 25 for 22 yards(44-J.Jansen).'>9</number><number>0.53</number>
+<number shadow='shadow1' tooltip='5:46 1-10-SEA 25SEA 0 CAR 0 LI: 1.6(Shotgun) 3-R.Wilson pass incomplete short left to 24-M.Lynch.'>9.23</number><number>0.51</number>
+<number shadow='shadow1' tooltip='5:41 2-10-SEA 25SEA 0 CAR 0 LI: 1.43-R.Wilson pass incomplete short right to 81-G.TateV75 Mike Person reports as eligible reciever'>9.32</number><number>0.49</number>
+<number shadow='shadow1' tooltip='5:31 3-10-SEA 25SEA 0 CAR 0 LI: 1.2(Shotgun) 3-R.Wilson pass incomplete deep left to 81-G.Tate.'>9.48</number><number>0.46</number>
+<number shadow='shadow1' tooltip='5:26 4-10-SEA 25SEA 0 CAR 0 LI: 0.99-J.Ryan punts 55 yards to CAR 20 Center-49-C.Gresham fair catch by 19-T.Ginn.'>9.57</number><number>0.48</number>
+<number shadow='shadow1' tooltip='5:18 1-10-CAR 20SEA 0 CAR 0 LI: 1.61-C.Newton pass short right to 89-S.Smith ran ob at CAR 35 for 15 yards.'>9.7</number><number>0.46</number>
+<number shadow='shadow1' tooltip='4:56 1-10-CAR 35SEA 0 CAR 0 LI: 1.4(No Huddle Shotgun) 35-M.Tolbert up the middle to CAR 36 for 1 yard(95-B.Mayowa; 92-B.Mebane)CAR-65-G.Williams was injured during the playHe is Out.'>10.07</number><number>0.47</number>
+<number shadow='shadow1' tooltip='4:27 2-9-CAR 36SEA 0 CAR 0 LI: 1.334-D.Williams left guard to CAR 38 for 2 yards(79-R.Bryant).'>10.55</number><number>0.49</number>
+<number shadow='shadow1' tooltip='3:44 3-7-CAR 38SEA 0 CAR 0 LI: 1.1(Shotgun) 1-C.Newton pass incomplete deep left to 88-G.Olsen.'>11.27</number><number>0.53</number>
+<number shadow='shadow1' tooltip='3:36 4-7-CAR 38SEA 0 CAR 0 LI: 0.78-B.Nortman punts 57 yards to SEA 5 Center-44-J.Jansen81-G.Tate to SEA 17 for 12 yards(97-M.Addison; 44-J.Jansen).'>11.4</number><number>0.51</number>
+<number shadow='shadow1' tooltip='3:23 1-10-SEA 17SEA 0 CAR 0 LI: 1.63-R.Wilson pass short right to 81-G.Tate to SEA 23 for 6 yards(22-J.Thomas).'>11.62</number><number>0.52</number>
+<number shadow='shadow1' tooltip='2:45 2-4-SEA 23SEA 0 CAR 0 LI: 1.5(Shotgun) 24-M.Lynch right guard to SEA 28 for 5 yards(98-S.Lotulelei).'>12.25</number><number>0.53</number>
+<number shadow='shadow1' tooltip='2:12 1-10-SEA 28SEA 0 CAR 0 LI: 1.5(Shotgun) 24-M.Lynch up the middle to SEA 35 for 7 yards(30-C.Godfrey).'>12.8</number><number>0.53</number>
+<number shadow='shadow1' tooltip='1:32 2-3-SEA 35SEA 0 CAR 0 LI: 1.322-R.Turbin right guard to SEA 35 for no gain (76-G.Hardy).'>13.47</number><number>0.51</number>
+<number shadow='shadow1' tooltip='0:49 3-3-SEA 35SEA 0 CAR 0 LI: 1.1(Shotgun) 3-R.Wilson pass short left to 89-D.Baldwin to SEA 40 for 5 yards(41-C.Munnerlyn; 59-L.Kuechly).'>14.18</number><number>0.55</number>
+<number shadow='shadow1' tooltip='0:14 1-10-SEA 40SEA 0 CAR 0 LI: 1.4(Shotgun) 24-M.Lynch up the middle to SEA 42 for 2 yards(59-L.Kuechly).'>14.77</number><number>0.54</number>
+<number shadow='shadow1' tooltip='15:00 2-8-SEA 42SEA 0 CAR 0 LI: 1.324-M.Lynch left end to SEA 43 for 1 yard(52-J.Beason; 30-C.Godfrey).'>15</number><number>0.52</number>
+<number shadow='shadow1' tooltip='14:22 3-7-SEA 43SEA 0 CAR 0 LI: 1(Shotgun) 3-R.Wilson pass short right to 18-S.Rice to CAR 43 for 14 yards(20-D.Moore)v75 Mike Person reports as eligible receiver.'>15.63</number><number>0.58</number>
+<number shadow='shadow1' tooltip='13:40 1-10-CAR 43SEA 0 CAR 0 LI: 1.33-R.Wilson pass short left to 40-D.Coleman to CAR 36 for 7 yards(41-C.Munnerlyn).'>16.33</number><number>0.58</number>
+<number shadow='shadow1' tooltip='13:11 2-3-CAR 36SEA 0 CAR 0 LI: 1.224-M.Lynch right tackle to CAR 36 for no gain (98-S.Lotulelei).'>16.82</number><number>0.56</number>
+<number shadow='shadow1' tooltip='12:21 3-3-CAR 36SEA 0 CAR 0 LI: 1(Shotgun) 3-R.Wilson pass deep right to 89-D.Baldwin to CAR 11 for 25 yards(30-C.Godfrey).'>17.65</number><number>0.68</number>
+<number shadow='shadow1' tooltip='11:49 1-10-CAR 11SEA 0 CAR 0 LI: 1.8(Shotgun) 24-M.Lynch right tackle to CAR 14 for -3 yards(98-S.Lotulelei).'>18.18</number><number>0.64</number>
+<number shadow='shadow1' tooltip='11:06 2-13-CAR 14SEA 0 CAR 0 LI: 1.4(Shotgun) 3-R.Wilson pass incomplete short left to 18-S.RicePENALTY on SEA-75-M.Person Offensive Holding 10 yards enforced at CAR 14 - No Play.'>18.9</number><number>0.59</number>
+<number shadow='shadow1' tooltip='10:58 2-23-CAR 24SEA 0 CAR 0 LI: 1.1(Shotgun) 3-R.Wilson pass left to 89-D.Baldwin to CAR 18 for 6 yards(30-C.Godfrey).'>19.03</number><number>0.6</number>
+<number shadow='shadow1' tooltip='10:24 3-17-CAR 18SEA 0 CAR 0 LI: 1.1(Shotgun) 3-R.Wilson pass short middle to 86-Z.Miller to CAR 9 for 9 yards(59-L.Kuechly; 58-T.Davis).'>19.6</number><number>0.59</number>
+<number shadow='shadow1' tooltip='9:40 4-8-CAR 9SEA 0 CAR 0 LI: 0.94-S.Hauschka 27 yard field goal is GOOD Center-49-C.Gresham Holder-9-J.Ryan.'>20.33</number><number>0.59</number>
+<number shadow='shadow1' tooltip='9:40 SEA 3 CAR 0 LI: 4-S.Hauschka kicks 65 yards from SEA 35 to end zone Touchback.'>20.42</number><number>0.61</number>
+<number shadow='shadow1' tooltip='8:56 2-8-CAR 22SEA 3 CAR 0 LI: 11-C.Newton pass deep right to 88-G.Olsen to CAR 49 for 27 yards(31-K.Chancellor).'>21.07</number><number>0.55</number>
+<number shadow='shadow1' tooltip='8:12 1-10-CAR 49SEA 3 CAR 0 LI: 1.21-C.Newton pass short left to 34-D.Williams to SEA 41 for 10 yards(54-B.Wagner).'>21.8</number><number>0.53</number>
+<number shadow='shadow1' tooltip='7:29 1-10-SEA 41SEA 3 CAR 0 LI: 1.2(Shotgun) 1-C.Newton pass short left to 34-D.Williams to SEA 41 for no gain (41-B.Maxwell)FUMBLES (41-B.Maxwell) ball out of bounds at SEA 44.'>22.52</number><number>0.56</number>
+<number shadow='shadow1' tooltip='6:50 2-13-SEA 44SEA 3 CAR 0 LI: 1(Shotgun) 1-C.Newton pass short left to 88-G.Olsen to SEA 37 for 7 yards(31-K.Chancellor).'>23.17</number><number>0.56</number>
+<number shadow='shadow1' tooltip='6:07 3-6-SEA 37SEA 3 CAR 0 LI: 0.9(Shotgun) 1-C.Newton scrambles up the middle to SEA 26 for 11 yards(54-B.Wagner).'>23.88</number><number>0.49</number>
+<number shadow='shadow1' tooltip='5:27 1-10-SEA 26SEA 3 CAR 0 LI: 1.4(Shotgun) 34-D.Williams right tackle to SEA 14 for 12 yards(54-B.Wagner).'>24.55</number><number>0.42</number>
+<number shadow='shadow1' tooltip='4:44 1-10-SEA 14SEA 3 CAR 0 LI: 1.9(Shotgun) 34-D.Williams left guard to SEA 11 for 3 yards(54-B.Wagner; 50-K.Wright).'>25.27</number><number>0.43</number>
+<number shadow='shadow1' tooltip='4:03 2-7-SEA 11SEA 3 CAR 0 LI: 1.8(Shotgun) 1-C.Newton pass incomplete short left to 88-G.Olsen.'>25.95</number><number>0.47</number>
+<number shadow='shadow1' tooltip='3:59 3-7-SEA 11SEA 3 CAR 0 LI: 1.4(Shotgun) 1-C.Newton pass short left to 89-S.Smith to SEA 3 for 8 yards(50-K.Wright).'>26.02</number><number>0.41</number>
+<number shadow='shadow1' tooltip='3:20 1-3-SEA 3SEA 3 CAR 0 LI: 21-C.Newton pass short left to 89-S.Smith for 3 yards TOUCHDOWN.'>26.67</number><number>0.38</number>
+<number shadow='shadow1' tooltip='3:20 SEA 3 CAR 0 LI: 9-G.Gano extra point is GOOD Center-44-J.Jansen Holder-8-B.Nortman.'>26.71</number><number>0.38</number>
+<number shadow='shadow1' tooltip='3:20 SEA 3 CAR 7 LI: 9-G.Gano kicks 65 yards from CAR 35 to end zone Touchback.'>26.76</number><number>0.37</number>
+<number shadow='shadow1' tooltip='3:13 1-10-SEA 20SEA 3 CAR 7 LI: 1.224-M.Lynch left tackle to SEA 22 for 2 yards(52-J.Beason; 58-T.Davis).'>26.78</number><number>0.36</number>
+<number shadow='shadow1' tooltip='2:38 2-8-SEA 22SEA 3 CAR 7 LI: 1.13-R.Wilson pass deep right to 18-S.Rice to SEA 43 for 21 yards(22-J.Thomas).'>27.37</number><number>0.41</number>
+<number shadow='shadow1' tooltip='2:09 1-10-SEA 43SEA 3 CAR 7 LI: 1.3(No Huddle) 3-R.Wilson scrambles right tackle to 50 for 7 yards(52-J.Beason).'>27.85</number><number>0.41</number>
+<number shadow='shadow1' tooltip='2:00 2-3-50SEA 3 CAR 7 LI: 1.2(Shotgun) 24-M.Lynch up the middle to CAR 45 for 5 yards(58-T.Davis).'>28</number><number>0.44</number>
+<number shadow='shadow1' tooltip='1:28 1-10-CAR 45SEA 3 CAR 7 LI: 1.5(Shotgun) 89-D.Baldwin right end to CAR 42 for 3 yards(59-L.Kuechly)Play was end around'>28.53</number><number>0.42</number>
+<number shadow='shadow1' tooltip='1:21 2-7-CAR 42SEA 3 CAR 7 LI: 1.2(Shotgun) 3-R.Wilson sacked at SEA 45 for -13 yards(30-C.Godfrey)PENALTY on CAR-90-F.Alexander Disqualification 15 yards enforced at SEA 45Penalty on CAR-90-F.Alexander Personal Foul declined.'>28.65</number><number>0.45</number>
+<number shadow='shadow1' tooltip='1:06 2-5-CAR 35SEA 3 CAR 7 LI: 1.4(Shotgun) 3-R.Wilson pass deep right to 89-D.Baldwin to CAR 12 for 23 yards(30-C.Godfrey).'>28.9</number><number>0.56</number>
+<number shadow='shadow1' tooltip='0:40 1-10-CAR 12SEA 3 CAR 7 LI: 2.2(No Huddle Shotgun) 3-R.Wilson sacked at CAR 18 for -6 yards(95-C.Johnson)FUMBLES (95-C.Johnson) RECOVERED by CAR-95-C.Johnson at CAR 1995-C.Johnson to CAR 19 for no gain (3-R.Wilson).'>29.33</number><number>0.33</number>
+<number shadow='shadow1' tooltip='0:35 1-10-CAR 19SEA 3 CAR 7 LI: 1.6(Shotgun) 35-M.Tolbert left guard to CAR 26 for 7 yards(95-B.Mayowa).'>29.42</number><number>0.37</number>
+<number shadow='shadow1' tooltip='0:35 SEA 3 CAR 7 LI: 9-G.Gano kicks 65 yards from CAR 35 to end zone Touchback.'>29.51</number><number>0.35</number>
+<number shadow='shadow1' tooltip='15:00 1-10-SEA 20SEA 3 CAR 7 LI: 1.23-R.Wilson pass short right to 15-J.Kearse to SEA 26 for 6 yards(59-L.Kuechly).'>30</number><number>0.35</number>
+<number shadow='shadow1' tooltip='14:24 2-4-SEA 26SEA 3 CAR 7 LI: 1.1PENALTY on SEA-75-M.Person False Start 5 yards enforced at SEA 26 - No Play.'>30.6</number><number>0.33</number>
+<number shadow='shadow1' tooltip='13:59 2-9-SEA 21SEA 3 CAR 7 LI: 1(Shotgun) 3-R.Wilson pass incomplete short right to 18-S.Rice (27-Q.Mikell).'>31.02</number><number>0.32</number>
+<number shadow='shadow1' tooltip='13:56 3-9-SEA 21SEA 3 CAR 7 LI: 0.9(Shotgun) 3-R.Wilson pass short left to 18-S.Rice to SEA 42 for 21 yards(24-J.Norman)PENALTY on SEA-76-R.Okung Offensive Holding 10 yards enforced at SEA 21 - No PlayPenalty on SEA-67-P.McQuistan Offensive Holding declined.'>31.07</number><number>0.29</number>
+<number shadow='shadow1' tooltip='13:26 3-19-SEA 11SEA 3 CAR 7 LI: 1(Shotgun) 3-R.Wilson pass short right to 81-G.Tate to SEA 27 for 16 yards(59-L.Kuechly).'>31.57</number><number>0.3</number>
+<number shadow='shadow1' tooltip='12:49 4-3-SEA 27SEA 3 CAR 7 LI: 0.79-J.Ryan punts 42 yards to CAR 31 Center-49-C.Gresham22-J.Thomas to CAR 31 for no gainFUMBLES RECOVERED by SEA-42-C.Maragos at CAR 34PENALTY on SEA-50-K.Wright Taunting 15 yards enforced at CAR 34.'>32.18</number><number>0.42</number>
+<number shadow='shadow1' tooltip='11:53 2-6-CAR 45SEA 3 CAR 7 LI: 1.3(Shotgun) 3-R.Wilson pass incomplete short right to 89-D.Baldwin (76-G.Hardy).'>33.12</number><number>0.38</number>
+<number shadow='shadow1' tooltip='11:48 3-6-CAR 45SEA 3 CAR 7 LI: 1(Shotgun) 3-R.Wilson scrambles left end to CAR 42 for 3 yards(58-T.Davis).'>33.2</number><number>0.33</number>
+<number shadow='shadow1' tooltip='11:06 4-3-CAR 42SEA 3 CAR 7 LI: 0.59-J.Ryan punts 32 yards to CAR 10 Center-44-S.Ware fair catch by 19-T.Ginn.'>33.9</number><number>0.33</number>
+<number shadow='shadow1' tooltip='10:59 1-10-CAR 10SEA 3 CAR 7 LI: 2.434-D.Williams right tackle to CAR 13 for 3 yards(54-B.Wagner; 92-B.Mebane).'>34.02</number><number>0.34</number>
+<number shadow='shadow1' tooltip='10:21 2-7-CAR 13SEA 3 CAR 7 LI: 2.334-D.Williams up the middle to CAR 15 for 2 yards(31-K.Chancellor).'>34.65</number><number>0.35</number>
+<number shadow='shadow1' tooltip='9:33 3-5-CAR 15SEA 3 CAR 7 LI: 1.6(Shotgun) 1-C.Newton pass short right to 19-T.Ginn to CAR 25 for 10 yards(25-R.Sherman).'>35.45</number><number>0.3</number>
+<number shadow='shadow1' tooltip='8:49 1-10-CAR 25SEA 3 CAR 7 LI: 1.8(Shotgun) 1-C.Newton pass short left to 89-S.Smith ran ob at CAR 33 for 8 yards.'>36.18</number><number>0.29</number>
+<number shadow='shadow1' tooltip='8:14 2-2-CAR 33SEA 3 CAR 7 LI: 1.734-D.Williams right tackle to CAR 34 for 1 yard(99-T.McDaniel).'>36.77</number><number>0.3</number>
+<number shadow='shadow1' tooltip='7:30 3-1-CAR 34SEA 3 CAR 7 LI: 1.534-D.Williams left guard to CAR 34 for no gain (99-T.McDaniel).'>37.5</number><number>0.34</number>
+<number shadow='shadow1' tooltip='6:47 4-1-CAR 34SEA 3 CAR 7 LI: 1.18-B.Nortman punts 46 yards to SEA 20 Center-44-J.Jansen81-G.Tate to SEA 20 for no gain (57-J.Senn)PENALTY on CAR-36-A.Smith Unsportsmanlike Conduct 15 yards enforced at SEA 20.'>38.22</number><number>0.36</number>
+<number shadow='shadow1' tooltip='6:36 1-10-SEA 35SEA 3 CAR 7 LI: 1.3(Shotgun) 3-R.Wilson pass short middle to 86-Z.Miller to 50 for 15 yards(27-Q.Mikell).'>38.4</number><number>0.41</number>
+<number shadow='shadow1' tooltip='6:02 1-10-50SEA 3 CAR 7 LI: 1.5(Shotgun) 24-M.Lynch up the middle to 50 for no gain (22-J.Thomas).'>38.97</number><number>0.38</number>
+<number shadow='shadow1' tooltip='5:22 2-10-50SEA 3 CAR 7 LI: 1.3(Shotgun) 22-R.Turbin right guard to CAR 48 for 2 yards(22-J.Thomas).'>39.63</number><number>0.37</number>
+<number shadow='shadow1' tooltip='4:43 3-8-CAR 48SEA 3 CAR 7 LI: 1.1(Shotgun) 3-R.Wilson pass short left to 89-D.Baldwin to CAR 35 for 13 yardsCarolina challenged the pass completion ruling and the play was Upheld(Timeout #1.)'>40.28</number><number>0.44</number>
+<number shadow='shadow1' tooltip='4:30 1-10-CAR 35SEA 3 CAR 7 LI: 1.63-R.Wilson pass short right to 86-Z.Miller to CAR 17 for 18 yards(52-J.Beason; 30-C.Godfrey).'>40.5</number><number>0.48</number>
+<number shadow='shadow1' tooltip='4:06 1-10-CAR 17SEA 3 CAR 7 LI: 1.6(Shotgun) 3-R.Wilson pass incomplete short left to 81-G.TatePENALTY on SEA-3-R.Wilson Intentional Grounding 21 yards enforced at CAR 17.'>40.9</number><number>0.33</number>
+<number shadow='shadow1' tooltip='3:56 2-31-CAR 38SEA 3 CAR 7 LI: 0.53-R.Wilson pass short middle to 24-M.Lynch to CAR 30 for 8 yards(52-J.Beason).'>41.07</number><number>0.38</number>
+<number shadow='shadow1' tooltip='3:09 3-23-CAR 30SEA 3 CAR 7 LI: 0.9(Shotgun) 3-R.Wilson pass short right to 22-R.Turbin to CAR 22 for 8 yards(58-T.Davis).'>41.85</number><number>0.4</number>
+<number shadow='shadow1' tooltip='2:26 4-15-CAR 22SEA 3 CAR 7 LI: 0.94-S.Hauschka 40 yard field goal is GOOD Center-49-C.Gresham Holder-9-J.Ryan.'>42.57</number><number>0.42</number>
+<number shadow='shadow1' tooltip='2:26 SEA 6 CAR 7 LI: 4-S.Hauschka kicks 65 yards from SEA 35 to end zone Touchback.'>42.66</number><number>0.43</number>
+<number shadow='shadow1' tooltip='1:40 1-10-CAR 31SEA 6 CAR 7 LI: 1.71-C.Newton pass short left to 34-D.Williams to CAR 38 for 7 yards(29-E.Thomas).'>43.33</number><number>0.4</number>
+<number shadow='shadow1' tooltip='0:59 2-3-CAR 38SEA 6 CAR 7 LI: 1.71-C.Newton pass incomplete short right to 88-G.Olsen.'>44.02</number><number>0.42</number>
+<number shadow='shadow1' tooltip='0:52 3-3-CAR 38SEA 6 CAR 7 LI: 1.5(Shotgun) 1-C.Newton up the middle to CAR 42 for 4 yards(99-T.McDaniel).'>44.13</number><number>0.38</number>
+<number shadow='shadow1' tooltip='0:09 1-10-CAR 42SEA 6 CAR 7 LI: 1.8(Shotgun) 1-C.Newton pass incomplete deep right to 11-B.LaFellPENALTY on CAR-75-C.Scott Offensive Holding 10 yards enforced at CAR 42 - No Play.'>44.85</number><number>0.41</number>
+<number shadow='shadow1' tooltip='0:04 1-20-CAR 32SEA 6 CAR 7 LI: 1.71-C.Newton pass incomplete short right to 88-G.Olsen.'>44.93</number><number>0.45</number>
+<number shadow='shadow1' tooltip='15:00 2-20-CAR 32SEA 6 CAR 7 LI: 1.3(Shotgun) 1-C.Newton pass short left to 88-G.Olsen to CAR 40 for 8 yards(54-B.Wagner).'>45</number><number>0.44</number>
+<number shadow='shadow1' tooltip='14:15 3-12-CAR 40SEA 6 CAR 7 LI: 1.3(Shotgun) 1-C.Newton scrambles left end to 50 for 10 yards(50-K.Wright).'>45.75</number><number>0.47</number>
+<number shadow='shadow1' tooltip='13:20 4-2-50SEA 6 CAR 7 LI: 0.88-B.Nortman punts 45 yards to SEA 5 Center-44-J.Jansen81-G.Tate to SEA 10 for 5 yards(36-A.Smith)PENALTY on CAR-36-A.Smith Player Out of Bounds on Punt 6 yards enforced at 50 - No Play.'>46.67</number><number>0.47</number>
+<number shadow='shadow1' tooltip='13:11 4-8-CAR 44SEA 6 CAR 7 LI: 0.98-B.Nortman punts 44 yards to SEA 12 Center-44-J.Jansen81-G.Tate to SEA 26 for 14 yards.'>46.82</number><number>0.49</number>
+<number shadow='shadow1' tooltip='12:58 1-10-SEA 26SEA 6 CAR 7 LI: 1.924-M.Lynch left guard to SEA 25 for -1 yards(76-G.Hardy; 58-T.Davis).'>47.03</number><number>0.45</number>
+<number shadow='shadow1' tooltip='12:23 2-11-SEA 25SEA 6 CAR 7 LI: 1.6(Shotgun) 3-R.Wilson pass short middle to 89-D.Baldwin to SEA 31 for 6 yards(41-C.Munnerlyn).'>47.62</number><number>0.45</number>
+<number shadow='shadow1' tooltip='11:44 3-5-SEA 31SEA 6 CAR 7 LI: 1.6(Shotgun) 3-R.Wilson pass short right to 81-G.Tate to SEA 42 for 11 yards(22-J.Thomas).'>48.27</number><number>0.53</number>
+<number shadow='shadow1' tooltip='11:05 1-10-SEA 42SEA 6 CAR 7 LI: 2.222-R.Turbin up the middle to CAR 43 for 15 yards(30-C.Godfrey).'>48.92</number><number>0.6</number>
+<number shadow='shadow1' tooltip='10:28 1-10-CAR 43SEA 6 CAR 7 LI: 2.6(Shotgun) 3-R.Wilson pass incomplete deep right to 83-S.Williams.'>49.53</number><number>0.54</number>
+<number shadow='shadow1' tooltip='10:21 2-10-CAR 43SEA 6 CAR 7 LI: 2(Shotgun) 3-R.Wilson pass deep right to 15-J.Kearse for 43 yards TOUCHDOWN.'>49.65</number><number>0.74</number>
+<number shadow='shadow1' tooltip='10:21 SEA 12 CAR 7 LI: 4-S.Hauschka kicks 65 yards from SEA 35 to end zone Touchback.'>49.74</number><number>0.76</number>
+<number shadow='shadow1' tooltip='10:13 1-10-CAR 20SEA 12 CAR 7 LI: 1.3(Shotgun) 1-C.Newton pass incomplete short right to 89-S.Smith.'>49.78</number><number>0.77</number>
+<number shadow='shadow1' tooltip='10:07 2-10-CAR 20SEA 12 CAR 7 LI: 1.2(Shotgun) 34-D.Williams right tackle to CAR 23 for 3 yards(29-E.Thomas).'>49.88</number><number>0.78</number>
+<number shadow='shadow1' tooltip='9:25 3-7-CAR 23SEA 12 CAR 7 LI: 1.1(Shotgun) 1-C.Newton pass short left to 35-M.Tolbert to CAR 17 for -6 yards(25-R.Sherman)PENALTY on SEA-72-M.Bennett Personal Foul 15 yards enforced at CAR 17.'>50.58</number><number>0.73</number>
+<number shadow='shadow1' tooltip='8:54 1-10-CAR 32SEA 12 CAR 7 LI: 1.634-D.Williams left guard to CAR 42 for 10 yards(54-B.Wagner; 28-W.Thurmond)PENALTY on SEA-31-K.Chancellor Unnecessary Roughness 15 yards enforced at CAR 42.'>51.1</number><number>0.61</number>
+<number shadow='shadow1' tooltip='8:23 1-10-SEA 43SEA 12 CAR 7 LI: 2.5(Shotgun) 34-D.Williams up the middle to SEA 39 for 4 yards(29-E.Thomas).'>51.62</number><number>0.65</number>
+<number shadow='shadow1' tooltip='7:39 2-6-SEA 39SEA 12 CAR 7 LI: 2(Shotgun) 1-C.Newton left tackle to SEA 34 for 5 yards(31-K.Chancellor).'>52.35</number><number>0.63</number>
+<number shadow='shadow1' tooltip='6:59 3-1-SEA 34SEA 12 CAR 7 LI: 2.135-M.Tolbert left guard to SEA 32 for 2 yards(31-K.Chancellor) Nate Chandler reports as eligible reciever.'>53.02</number><number>0.6</number>
+<number shadow='shadow1' tooltip='6:14 1-10-SEA 32SEA 12 CAR 7 LI: 2.434-D.Williams up the middle to SEA 24 for 8 yards(54-B.Wagner; 29-E.Thomas).'>53.77</number><number>0.51</number>
+<number shadow='shadow1' tooltip='5:34 2-2-SEA 24SEA 12 CAR 7 LI: 3(Shotgun) 34-D.Williams up the middle to SEA 8 for 16 yards(29-E.Thomas)FUMBLES (29-E.Thomas) RECOVERED by SEA-99-T.McDaniel at SEA 899-T.McDaniel to SEA 8 for no gain (34-D.Williams).'>54.43</number><number>0.68</number>
+<number shadow='shadow1' tooltip='5:25 1-10-SEA 8SEA 12 CAR 7 LI: 1.624-M.Lynch right end to SEA 3 for -5 yards(59-L.Kuechly).'>54.58</number><number>0.71</number>
+<number shadow='shadow1' tooltip='4:42 2-15-SEA 3SEA 12 CAR 7 LI: 1.63-R.Wilson pass short left to 40-D.Coleman to SEA 15 for 12 yards(41-C.Munnerlyn).'>55.3</number><number>0.76</number>
+<number shadow='shadow1' tooltip='4:35 3-3-SEA 15SEA 12 CAR 7 LI: 3.6(Shotgun) 3-R.Wilson pass short middle to 89-D.Baldwin to SEA 28 for 13 yards(30-C.Godfrey).'>55.42</number><number>0.86</number>
+<number shadow='shadow1' tooltip='3:57 1-10-SEA 28SEA 12 CAR 7 LI: 2.624-M.Lynch right guard to SEA 30 for 2 yards(58-T.Davis; 59-L.Kuechly).'>56.05</number><number>0.82</number>
+<number shadow='shadow1' tooltip='3:51 2-8-SEA 30SEA 12 CAR 7 LI: 23-R.Wilson pass short left to 81-G.Tate to SEA 48 for 18 yards(97-M.Addison).'>56.15</number><number>0.89</number>
+<number shadow='shadow1' tooltip='3:07 1-10-SEA 48SEA 12 CAR 7 LI: 2.5(Shotgun) 24-M.Lynch left guard to CAR 47 for 5 yards(52-J.Beason).'>56.88</number><number>0.95</number>
+<number shadow='shadow1' tooltip='2:24 2-5-CAR 47SEA 12 CAR 7 LI: 3.13-R.Wilson pass short right to 40-D.Coleman to CAR 36 for 11 yards(58-T.Davis).'>57.6</number><number>0.98</number>
+<number shadow='shadow1' tooltip='2:17 1-10-CAR 36SEA 12 CAR 7 LI: 2.724-M.Lynch right tackle to CAR 36 for no gain (59-L.Kuechly).'>57.72</number><number>0.96</number>
+<number shadow='shadow1' tooltip='2:14 2-10-CAR 36SEA 12 CAR 7 LI: 2.5(Shotgun) 24-M.Lynch up the middle to CAR 22 for 14 yards(20-D.Moore; 76-G.Hardy).'>57.77</number><number>0.99</number>
+<number shadow='shadow1' tooltip='2:00 1-10-CAR 22SEA 12 CAR 7 LI: 1.83-R.Wilson kneels to CAR 23 for -1 yards.'>58</number><number>0.98</number>
+<number shadow='shadow1' tooltip='1:19 2-11-CAR 23SEA 12 CAR 7 LI: 1.33-R.Wilson kneels to CAR 24 for -1 yards.'>58.68</number><number>0.98</number>
+<number shadow='shadow1' tooltip='0:40 3-12-CAR 24SEA 12 CAR 7 LI: 0.43-R.Wilson kneels to CAR 25 for -1 yards.'>59.33</number><number>1</number>
+<number>60</number><number>1</number>
+</row> </chart_data>
+       <draw>
+
+
+
+      <image x='45' y='298'  url='nfllogos/42x50png/SEA.gif'  layer='foreground' glow = 'glow1'/>
+      <image x='45' y='350'  url='nfllogos/42x50png/CAR.gif'     layer='foreground' glow = 'glow1'/>
+
+
+      <rect x='130' y='300' width='250' height='40' fill_color='283e67' bevel='bevel1' />
+      <text x='135' y='300' width='250' height='40' h_align='left' v_align='middle' color='ffffff' shadow='shadow2' glow='winnerglow'>Seattle Seahawks</text>
+
+      <rect x='130' y='350' width='250' height='40' fill_color='008acf' bevel='bevel1'  />
+      <text x='135' y='350' width='250' height='40' h_align='left' v_align='middle' color='ffffff' shadow='shadow2' glow=''>Carolina Panthers</text>
+
+      <rect x='420' y='300' width='60' height='40' fill_color='283e67' bevel='bevel1'  />
+      <text x='420' y='300' width='60' height='40' h_align='center' v_align='middle' color='ffffff' shadow='shadow2' transition='none' glow='winnerglow'>12</text>
+
+      <rect x='420' y='350' width='60' height='40' fill_color='008acf' bevel='bevel1' />
+      <text x='420' y='350' width='60' height='40' h_align='center' v_align='middle' color='ffffff' shadow='shadow2' transition='none' glow=''>7</text>
+
+      <text x='-3' y='12'  width='60' height='40' h_align='center' v_align='middle' size='13' shadow='shadow2'>SEAWin </text>
+      <text x='-3' y='218' width='60' height='40' h_align='center' v_align='middle' size='13' shadow='shadow2'>CARWin </text>
+
+     
+              <rect x='540' y='300' width='100' height='35' fill_color='000000' fill_alpha='50'/>
+              <text x='540' y='300' width='100' height='35' h_align='center' v_align='middle' color='ffffff' size='15' shadow='shadow2' >Final</text>
+
+              <text x='540' y='340' width='40' h_align='center' color='000000' size='12' shadow='shadow2'>CBF</text>
+              <text x='600' y='340' width='40' h_align='center' color='000000' size='12' shadow='shadow2'>EI</text>
+
+              <rect x='540' y='360' width='40' height='30' fill_color='000000' fill_alpha='50' />
+              <text x='540' y='360' width='40' height='30' size='12' h_align='center' v_align='middle' color='FFFFFF' shadow='shadow2'>3</text>
+
+              <rect x='600' y='360' width='40' height='30' fill_color='000000' fill_alpha='50' />
+              <text x='600' y='360' width='40' height='30' size='12' h_align='center' v_align='middle' color='FFFFFF' shadow='shadow2'>4.5</text>
+
+              <text x='20' y='420' width='70' height='25' size='12' h_align='left' v_align='middle' color='000000' >9/8/2013</text>
+              <text x='100' y='420' width='200' height='25' size='12' h_align='left' v_align='middle' color='000000' >Bank of America Stadium</text>
+
+   </draw></chart>

@@ -1,0 +1,297 @@
+
+<chart>
+   <license>ETAS9P33ESHO.945CWK-2XOI1X0-7L</license>
+   <chart_type>scatter</chart_type>
+   <chart_pref trend_thickness='0' line_thickness='3' point_size='0'/>
+
+   <series_color>
+      <color>ffff00</color>
+   </series_color>
+
+   <chart_rect x='45' y='20' width='630' height='230' positive_color='cacaca'  />
+
+  <chart_border top_thickness='0'
+                 bottom_thickness='0'
+                 left_thickness='0'
+                 right_thickness='0'
+                 color='000000'
+                 />
+
+   <tooltip font='Arial' bold='true' size='11' />
+
+   <chart_note type='flag'
+               color='000000'
+               alpha='90'
+               bold='FALSE'
+               size='10'
+               background_color='ffffe0'
+               background_alpha='50'
+               shadow='shadow2'
+               />
+
+   <chart_grid_h thickness='2' color='ffffff' type='dashed'  />
+   <chart_grid_v thickness='2' color='ffffff'   />
+		>
+
+   <legend layout='hide' />
+
+   <chart_guide horizontal='TRUE'
+             vertical='TRUE'
+             thickness='1'
+             color='006400'
+             alpha='100'
+             type='solid'
+             snap_h='TRUE'
+             snap_v='TRUE'
+             radius='3'
+             fill_color='006400'
+             fill_alpha='100'
+             line_color='006400'
+             line_alpha='80'
+             line_thickness='1'
+             text_h_alpha='50'
+             text_v_alpha='00'
+             suffix_h=' WP'
+             decimals='2'
+             bold='FALSE'
+             size='11'
+             text_color='FFFFFF'
+             background_color='006400'
+             />
+   <filter>
+      <shadow id='shadow1' distance='2' angle='60' blurX='5' blurY='5' alpha='50' />
+      <bevel id='bevel1' angle='45' blurX='5' blurY='5' distance='0' />
+      <glow id='glow1' color='ffffff' alpha='0' blurX='7' blurY='7' strength='6' quality='2' inner='FALSE' knockout='FALSE' />
+      <glow id='winnerglow' color='ffffff' alpha='0' blurX='7' blurY='7' strength='5' quality='2' inner='FALSE' knockout='FALSE' />
+   </filter>
+
+    <axis_value_label>
+         <string></string>
+          <string> </string>
+          <null/>
+          <string> </string>
+          <string></string>
+
+       </axis_value_label>
+		
+	   <axis_ticks category_ticks='false'/>
+
+       <axis_value min='0' max='1' steps='4'  decimals='2' show_min='true' size='13' shadow='shadow2' />     
+            <axis_category
+               min='0'
+               max='60'
+               steps='4'
+               mode='all'
+               decimals='0'
+               size='13'
+               shadow='shadow2'
+               />
+
+       <axis_category_label>
+          <string>Kickoff</string>
+          <string></string>
+          <string>Halftime</string>
+          <string></string>
+          <string>End</string>
+
+       </axis_category_label>
+
+
+        <chart_data>
+       <row>
+	      <null/><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number>
+              <number>x</number><number>y</number>
+              </row><row><string></string>
+
+                     <number shadow='shadow1'>0</number><number>.5</number><number shadow='shadow1' tooltip='15:00 SD 0 MIA 0 LI: 9-N.Novak kicks 65 yards from SD 35 to end zone Touchback.'>0.09</number><number>0.48</number>
+<number shadow='shadow1' tooltip='14:28 2-11-MIA 19SD 0 MIA 0 LI: 1.317-R.Tannehill pass deep right to 11-M.Wallace pushed ob at MIA 36 for 17 yards(58-T.Williams).'>0.53</number><number>0.46</number>
+<number shadow='shadow1' tooltip='14:00 1-10-MIA 36SD 0 MIA 0 LI: 1.4(Shotgun) 17-R.Tannehill pass short middle to 82-B.Hartline to SD 48 for 16 yards(32-E.Weddle).'>1</number><number>0.43</number>
+<number shadow='shadow1' tooltip='13:28 1-10-SD 48SD 0 MIA 0 LI: 1.3(Shotgun) 26-L.Miller up the middle to SD 48 for no gain (50-M.Teo)PENALTY on SD-90-T.Keiser Defensive Offside 5 yards enforced at SD 48 - No Play.'>1.53</number><number>0.42</number>
+<number shadow='shadow1' tooltip='13:06 1-5-SD 43SD 0 MIA 0 LI: 1.317-R.Tannehill pass incomplete deep left to 82-B.Hartline.'>1.9</number><number>0.43</number>
+<number shadow='shadow1' tooltip='13:01 2-5-SD 43SD 0 MIA 0 LI: 1.217-R.Tannehill pass short left to 18-R.Matthews to SD 40 for 3 yards(26-J.Patrick).'>1.98</number><number>0.44</number>
+<number shadow='shadow1' tooltip='12:25 3-2-SD 40SD 0 MIA 0 LI: 1.1(Shotgun) 17-R.Tannehill pass short left to 42-C.Clay to SD 22 for 18 yards(32-E.Weddle).'>2.58</number><number>0.36</number>
+<number shadow='shadow1' tooltip='11:44 1-10-SD 22SD 0 MIA 0 LI: 1.6(Shotgun) 17-R.Tannehill pass short right to 11-M.Wallace to SD 9 for 13 yards(29-S.Wright).'>3.27</number><number>0.34</number>
+<number shadow='shadow1' tooltip='10:59 1-9-SD 9SD 0 MIA 0 LI: 1.6(Shotgun) 17-R.Tannehill left tackle to SD 6 for 3 yards(50-M.Teo).'>4.02</number><number>0.33</number>
+<number shadow='shadow1' tooltip='10:28 2-6-SD 6SD 0 MIA 0 LI: 1.7PENALTY on MIA-74-J.Jerry False Start 5 yards enforced at SD 6 - No Play.'>4.53</number><number>0.35</number>
+<number shadow='shadow1' tooltip='9:57 2-11-SD 11SD 0 MIA 0 LI: 1.5(Shotgun) 17-R.Tannehill pass incomplete short middle to 82-B.Hartline.'>5.05</number><number>0.38</number>
+<number shadow='shadow1' tooltip='9:52 3-11-SD 11SD 0 MIA 0 LI: 1.2(Shotgun) 17-R.Tannehill pass short right to 18-R.Matthews to SD 4 for 7 yards(26-J.Patrick).'>5.13</number><number>0.41</number>
+<number shadow='shadow1' tooltip='9:18 4-4-SD 4SD 0 MIA 0 LI: 0.9(Field Goal formation) 9-C.Sturgis 22 yard field goal is GOOD Center-92-J.Denney Holder-2-B.Fields.'>5.7</number><number>0.42</number>
+<number shadow='shadow1' tooltip='9:18 SD 0 MIA 3 LI: 9-C.Sturgis kicks 73 yards from MIA 35 to SD -839-D.Woodhead Touchback.'>5.79</number><number>0.4</number>
+<number shadow='shadow1' tooltip='9:12 1-10-SD 20SD 0 MIA 3 LI: 1.317-P.Rivers pass short left to 24-R.Mathews to SD 25 for 5 yards(52-P.Wheeler).'>5.8</number><number>0.41</number>
+<number shadow='shadow1' tooltip='8:37 2-5-SD 25SD 0 MIA 3 LI: 1.3(Shotgun) 24-R.Mathews up the middle to SD 29 for 4 yards(50-O.Vernon).'>6.38</number><number>0.42</number>
+<number shadow='shadow1' tooltip='8:01 3-1-SD 29SD 0 MIA 3 LI: 1.324-R.Mathews left tackle to SD 38 for 9 yards(59-D.Ellerbe).'>6.98</number><number>0.44</number>
+<number shadow='shadow1' tooltip='7:21 1-10-SD 38SD 0 MIA 3 LI: 1.324-R.Mathews left guard to SD 41 for 3 yards(55-K.Misi).'>7.65</number><number>0.45</number>
+<number shadow='shadow1' tooltip='6:38 2-7-SD 41SD 0 MIA 3 LI: 1.3(Shotgun) 17-P.Rivers pass short left to 24-R.Mathews to MIA 48 for 11 yards(24-D.Patterson).'>8.37</number><number>0.47</number>
+<number shadow='shadow1' tooltip='5:56 1-10-MIA 48SD 0 MIA 3 LI: 1.324-R.Mathews left guard to MIA 40 for 8 yards(27-J.Wilson).'>9.07</number><number>0.49</number>
+<number shadow='shadow1' tooltip='5:24 2-2-MIA 40SD 0 MIA 3 LI: 1.4(No Huddle) 39-D.Woodhead right guard to MIA 33 for 7 yards(30-C.Clemons).'>9.6</number><number>0.52</number>
+<number shadow='shadow1' tooltip='4:37 1-10-MIA 33SD 0 MIA 3 LI: 1.5(Shotgun) 17-P.Rivers pass deep right intended for 86-V.Brown INTERCEPTED by 21-B.Grimes at MIA 1321-B.Grimes to MIA 21 for 8 yards(39-D.Woodhead).'>10.38</number><number>0.39</number>
+<number shadow='shadow1' tooltip='4:26 1-10-MIA 21SD 0 MIA 3 LI: 1.726-L.Miller up the middle to MIA 23 for 2 yards(92-C.Thomas; 50-M.Teo)PENALTY on SD-71-L.Guy Defensive Offside 5 yards enforced at MIA 21 - No Play.'>10.57</number><number>0.38</number>
+<number shadow='shadow1' tooltip='3:49 1-5-MIA 26SD 0 MIA 3 LI: 1.717-R.Tannehill pass short right to 11-M.Wallace to MIA 39 for 13 yards(29-S.Wright).'>11.18</number><number>0.36</number>
+<number shadow='shadow1' tooltip='3:28 1-10-MIA 39SD 0 MIA 3 LI: 1.4(Shotgun) 17-R.Tannehill pass short right to 11-M.Wallace to MIA 35 for -4 yards(38-M.Gilchrist).'>11.53</number><number>0.38</number>
+<number shadow='shadow1' tooltip='2:53 2-14-MIA 35SD 0 MIA 3 LI: 1.4(Shotgun) 17-R.Tannehill pass incomplete short left to 82-B.Hartline (22-D.Cox).'>12.12</number><number>0.4</number>
+<number shadow='shadow1' tooltip='2:48 3-14-MIA 35SD 0 MIA 3 LI: 1.2(Shotgun) 17-R.Tannehill pass short left intended for 82-B.Hartline INTERCEPTED by 26-J.Patrick at MIA 4926-J.Patrick to MIA 49 for no gain (82-B.Hartline).'>12.2</number><number>0.47</number>
+<number shadow='shadow1' tooltip='2:35 1-10-MIA 49SD 0 MIA 3 LI: 1.317-P.Rivers pass deep right to 89-L.Green to MIA 17 for 32 yards(21-B.Grimes).'>12.42</number><number>0.57</number>
+<number shadow='shadow1' tooltip='1:51 1-10-MIA 17SD 0 MIA 3 LI: 1.7(Shotgun) 17-P.Rivers pass short left to 39-D.Woodhead to MIA 12 for 5 yards(53-J.Jenkins) [96-P.Soliai].'>13.15</number><number>0.57</number>
+<number shadow='shadow1' tooltip='1:11 2-5-MIA 12SD 0 MIA 3 LI: 1.624-R.Mathews right tackle to MIA 5 for 7 yards(30-C.Clemons).'>13.82</number><number>0.58</number>
+<number shadow='shadow1' tooltip='0:23 1-5-MIA 5SD 0 MIA 3 LI: 1.8(Shotgun) 17-P.Rivers pass short middle to 85-A.Gates for 5 yards TOUCHDOWN.'>14.62</number><number>0.61</number>
+<number shadow='shadow1' tooltip='0:23 SD 0 MIA 3 LI: 9-N.Novak extra point is GOOD Center-47-M.Windt Holder-5-M.Scifres.'>14.66</number><number>0.61</number>
+<number shadow='shadow1' tooltip='0:23 SD 7 MIA 3 LI: 9-N.Novak kicks 74 yards from SD 35 to MIA -934-M.Thigpen Touchback.'>14.71</number><number>0.63</number>
+<number shadow='shadow1' tooltip='15:00 1-10-MIA 49SD 7 MIA 3 LI: 1.3(Shotgun) 17-R.Tannehill pass incomplete deep left to 11-M.Wallace.'>15</number><number>0.58</number>
+<number shadow='shadow1' tooltip='14:25 2-5-SD 46SD 7 MIA 3 LI: 1.217-R.Tannehill pass short left to 42-C.Clay to SD 43 for 3 yards(50-M.Teo).'>15.58</number><number>0.58</number>
+<number shadow='shadow1' tooltip='13:51 3-2-SD 43SD 7 MIA 3 LI: 1(Shotgun) 17-R.Tannehill pass short middle to 82-B.Hartline to SD 34 for 9 yards(22-D.Cox).'>16.15</number><number>0.53</number>
+<number shadow='shadow1' tooltip='13:09 1-10-SD 34SD 7 MIA 3 LI: 1.4(Shotgun) 33-D.Thomas right guard to SD 25 for 9 yards(94-C.Liuget).'>16.85</number><number>0.52</number>
+<number shadow='shadow1' tooltip='12:29 2-1-SD 25SD 7 MIA 3 LI: 1.434-M.Thigpen left end to SD 16 for 9 yards(32-E.Weddle).'>17.52</number><number>0.5</number>
+<number shadow='shadow1' tooltip='11:48 1-10-SD 16SD 7 MIA 3 LI: 1.433-D.Thomas left tackle to SD 7 for 9 yards(56-D.Butler).'>18.2</number><number>0.42</number>
+<number shadow='shadow1' tooltip='11:10 2-1-SD 7SD 7 MIA 3 LI: 2.1PENALTY on MIA-74-J.Jerry False Start 5 yards enforced at SD 7 - No Play.'>18.83</number><number>0.45</number>
+<number shadow='shadow1' tooltip='10:41 2-6-SD 12SD 7 MIA 3 LI: 1.9(Shotgun) 17-R.Tannehill pass short middle to 82-B.Hartline to SD 1 for 11 yards(32-E.Weddle)FUMBLES (32-E.Weddle) RECOVERED by SD-29-S.Wright at SD 129-S.Wright to SD 3 for 2 yards(42-C.Clay)PENALTY on SD-94-C.Liuget Roughing the Passer 6 yards enforced at SD 12 - No Play.'>19.32</number><number>0.44</number>
+<number shadow='shadow1' tooltip='10:30 1-6-SD 6SD 7 MIA 3 LI: 233-D.Thomas left guard to SD 1 for 5 yards(50-M.Teo).'>19.5</number><number>0.42</number>
+<number shadow='shadow1' tooltip='9:48 2-1-SD 1SD 7 MIA 3 LI: 2.233-D.Thomas left guard for 1 yard TOUCHDOWN.'>20.2</number><number>0.41</number>
+<number shadow='shadow1' tooltip='9:48 SD 7 MIA 3 LI: 9-C.Sturgis extra point is GOOD Center-92-J.Denney Holder-2-B.Fields.'>20.24</number><number>0.41</number>
+<number shadow='shadow1' tooltip='9:48 SD 7 MIA 10 LI: 9-C.Sturgis kicks 73 yards from MIA 35 to SD -839-D.Woodhead Touchback.'>20.29</number><number>0.39</number>
+<number shadow='shadow1' tooltip='8:58 2-10-SD 20SD 7 MIA 10 LI: 1(Shotgun) 39-D.Woodhead left guard to SD 26 for 6 yards(52-P.Wheeler).'>21.03</number><number>0.39</number>
+<number shadow='shadow1' tooltip='8:14 3-4-SD 26SD 7 MIA 10 LI: 0.9(Shotgun) 17-P.Rivers scrambles right tackle to SD 31 for 5 yards(50-O.Vernon).'>21.77</number><number>0.41</number>
+<number shadow='shadow1' tooltip='7:29 1-10-SD 31SD 7 MIA 10 LI: 0.9(No Huddle Shotgun) 17-P.Rivers pass incomplete short left to 86-V.Brown (98-J.Odrick).'>22.52</number><number>0.41</number>
+<number shadow='shadow1' tooltip='7:25 2-10-SD 31SD 7 MIA 10 LI: 0.9(Shotgun) 39-D.Woodhead right guard to SD 34 for 3 yards(91-C.Wake).'>22.58</number><number>0.4</number>
+<number shadow='shadow1' tooltip='6:43 3-7-SD 34SD 7 MIA 10 LI: 0.9(Shotgun) 17-P.Rivers pass incomplete deep left to 13-K.Allen.'>23.28</number><number>0.37</number>
+<number shadow='shadow1' tooltip='6:35 4-7-SD 34SD 7 MIA 10 LI: 0.6(Punt formation) 5-M.Scifres punts 49 yards to MIA 17 Center-47-M.Windt fair catch by 34-M.Thigpen.'>23.42</number><number>0.38</number>
+<number shadow='shadow1' tooltip='6:29 1-10-MIA 17SD 7 MIA 10 LI: 1.433-D.Thomas left guard to MIA 18 for 1 yard(98-S.Lissemore).'>23.52</number><number>0.4</number>
+<number shadow='shadow1' tooltip='5:59 2-9-MIA 18SD 7 MIA 10 LI: 1.217-R.Tannehill pass short right to 42-C.Clay to MIA 34 for 16 yards(26-J.Patrick)SD-26-J.Patrick was injured during the playHe is Out.'>24.02</number><number>0.36</number>
+<number shadow='shadow1' tooltip='5:39 1-10-MIA 34SD 7 MIA 10 LI: 1.317-R.Tannehill right end to MIA 38 for 4 yards(29-S.Wright).'>24.35</number><number>0.36</number>
+<number shadow='shadow1' tooltip='5:10 2-6-MIA 38SD 7 MIA 10 LI: 1.3(Shotgun) 17-R.Tannehill sacked at MIA 32 for -6 yards(32-E.Weddle).'>24.83</number><number>0.38</number>
+<number shadow='shadow1' tooltip='4:28 3-12-MIA 32SD 7 MIA 10 LI: 1.2(Shotgun) 17-R.Tannehill pass short right to 33-D.Thomas to MIA 34 for 2 yards(94-C.Liuget).'>25.53</number><number>0.4</number>
+<number shadow='shadow1' tooltip='3:53 4-10-MIA 34SD 7 MIA 10 LI: 1(Punt formation) 2-B.Fields punts 46 yards to SD 20 Center-92-J.Denney13-K.Allen to SD 41 for 21 yards(2-B.Fields).'>26.12</number><number>0.44</number>
+<number shadow='shadow1' tooltip='3:39 1-10-SD 41SD 7 MIA 10 LI: 1.317-P.Rivers pass incomplete short left to 85-A.GatesPENALTY on MIA-50-O.Vernon Illegal Use of Hands 5 yards enforced at SD 41 - No Play.'>26.35</number><number>0.45</number>
+<number shadow='shadow1' tooltip='3:34 1-10-SD 46SD 7 MIA 10 LI: 1.3(Shotgun) 17-P.Rivers pass short left to 85-A.Gates to MIA 27 for 27 yards(20-R.Jones)PENALTY on SD-85-A.Gates Face Mask (15 Yards) 15 yards enforced at MIA 27.'>26.43</number><number>0.48</number>
+<number shadow='shadow1' tooltip='3:03 1-10-MIA 42SD 7 MIA 10 LI: 1.424-R.Mathews right tackle to MIA 27 for 15 yards(20-R.Jones).'>26.95</number><number>0.52</number>
+<number shadow='shadow1' tooltip='2:30 1-10-MIA 27SD 7 MIA 10 LI: 1.5(Shotgun) 24-R.Mathews right guard to MIA 19 for 8 yards(30-C.Clemons).'>27.5</number><number>0.55</number>
+<number shadow='shadow1' tooltip='2:00 2-2-MIA 19SD 7 MIA 10 LI: 1.717-P.Rivers pass short left to 83-J.Phillips to MIA 6 for 13 yards(55-K.Misi; 96-P.Soliai).'>28</number><number>0.59</number>
+<number shadow='shadow1' tooltip='1:17 1-6-MIA 6SD 7 MIA 10 LI: 2.1(Shotgun) 24-R.Mathews up the middle to MIA 5 for 1 yard(96-P.Soliai).'>28.72</number><number>0.59</number>
+<number shadow='shadow1' tooltip='1:11 2-5-MIA 5SD 7 MIA 10 LI: 2.1(Shotgun) 17-P.Rivers up the middle to MIA 4 for 1 yard17-P.Rivers pass short left to 85-A.Gates for 4 yards TOUCHDOWN NULLIFIED by PenaltyPENALTY on SD-17-P.Rivers Illegal Forward Pass 5 yards enforced at MIA 4.'>28.82</number><number>0.53</number>
+<number shadow='shadow1' tooltip='1:03 3-9-MIA 9SD 7 MIA 10 LI: 1.5(Shotgun) 17-P.Rivers pass incomplete short right to 86-V.Brown (30-C.Clemons).'>28.95</number><number>0.47</number>
+<number shadow='shadow1' tooltip='0:59 4-9-MIA 9SD 7 MIA 10 LI: 0.9(Field Goal formation) 9-N.Novak 27 yard field goal is GOOD Center-47-M.Windt Holder-5-M.Scifres.'>29.02</number><number>0.47</number>
+<number shadow='shadow1' tooltip='0:59 SD 10 MIA 10 LI: 9-N.Novak kicks 68 yards from SD 35 to MIA -334-M.Thigpen to MIA 20 for 23 yards(16-S.Ajirotutu).'>29.11</number><number>0.48</number>
+<number shadow='shadow1' tooltip='0:50 1-10-MIA 20SD 10 MIA 10 LI: 1.6(Shotgun) 17-R.Tannehill pass incomplete short middle to 18-R.Matthews (91-K.Reyes).'>29.17</number><number>0.5</number>
+<number shadow='shadow1' tooltip='0:46 2-10-MIA 20SD 10 MIA 10 LI: 1.417-R.Tannehill pass short left to 82-B.Hartline ran ob at MIA 31 for 11 yards.'>29.23</number><number>0.46</number>
+<number shadow='shadow1' tooltip='0:42 1-10-MIA 31SD 10 MIA 10 LI: 1.5(Shotgun) 17-R.Tannehill pass incomplete short left to 82-B.Hartline.'>29.3</number><number>0.49</number>
+<number shadow='shadow1' tooltip='0:38 2-10-MIA 31SD 10 MIA 10 LI: 1.2(Shotgun) 17-R.Tannehill sacked at MIA 20 for -11 yards(90-T.Keiser).'>29.37</number><number>0.54</number>
+<number shadow='shadow1' tooltip='0:27 3-21-MIA 20SD 10 MIA 10 LI: 1(Shotgun) PENALTY on SD-90-T.Keiser Neutral Zone Infraction 5 yards enforced at MIA 20 - No Play.'>29.55</number><number>0.52</number>
+<number shadow='shadow1' tooltip='0:24 3-16-MIA 25SD 10 MIA 10 LI: 1.126-L.Miller left guard to MIA 33 for 8 yards(32-E.Weddle).'>29.6</number><number>0.53</number>
+<number shadow='shadow1' tooltip='0:24 SD 10 MIA 10 LI: 9-C.Sturgis kicks 68 yards from MIA 35 to SD -339-D.Woodhead to SD 19 for 22 yards(56-J.Freeny).'>29.69</number><number>0.51</number>
+<number shadow='shadow1' tooltip='14:55 1-10-SD 19SD 10 MIA 10 LI: 1.5(Shotgun) 24-R.Mathews left guard to SD 20 for 1 yard(96-P.Soliai).'>30.08</number><number>0.5</number>
+<number shadow='shadow1' tooltip='14:14 2-9-SD 20SD 10 MIA 10 LI: 1.4(Shotgun) 17-P.Rivers pass short right to 13-K.Allen to SD 37 for 17 yards(21-B.Grimes).'>30.77</number><number>0.55</number>
+<number shadow='shadow1' tooltip='13:29 1-10-SD 37SD 10 MIA 10 LI: 1.5(No Huddle Shotgun) 17-P.Rivers pass incomplete deep left to 13-K.Allen.'>31.52</number><number>0.52</number>
+<number shadow='shadow1' tooltip='13:21 2-10-SD 37SD 10 MIA 10 LI: 1.2(Shotgun) 17-P.Rivers pass incomplete deep middle to 85-A.Gates.'>31.65</number><number>0.5</number>
+<number shadow='shadow1' tooltip='13:17 3-10-SD 37SD 10 MIA 10 LI: 117-P.Rivers pass short middle to 13-K.Allen to MIA 48 for 15 yards(20-R.Jones; 21-B.Grimes).'>31.72</number><number>0.57</number>
+<number shadow='shadow1' tooltip='12:43 1-10-MIA 48SD 10 MIA 10 LI: 1.324-R.Mathews up the middle to MIA 45 for 3 yards(94-R.Starks)PENALTY on SD-66-J.Clary Offensive Holding 10 yards enforced at MIA 48 - No Play.'>32.28</number><number>0.55</number>
+<number shadow='shadow1' tooltip='12:20 1-20-SD 42SD 10 MIA 10 LI: 1.3(Shotgun) 17-P.Rivers pass short left to 13-K.Allen to MIA 45 for 13 yards(27-J.Wilson)PENALTY on SD-13-K.Allen Taunting 15 yards enforced at MIA 45.'>32.67</number><number>0.51</number>
+<number shadow='shadow1' tooltip='11:42 2-22-SD 40SD 10 MIA 10 LI: 1(Shotgun) 24-R.Mathews up the middle to SD 43 for 3 yards(59-D.Ellerbe).'>33.3</number><number>0.49</number>
+<number shadow='shadow1' tooltip='11:06 3-19-SD 43SD 10 MIA 10 LI: 0.7(No Huddle Shotgun) 17-P.Rivers pass short middle to 39-D.Woodhead to MIA 46 for 11 yards(95-D.Jordan).'>33.9</number><number>0.49</number>
+<number shadow='shadow1' tooltip='10:29 4-8-MIA 46SD 10 MIA 10 LI: 0.5(Punt formation) 5-M.Scifres punts 46 yards to end zone Center-47-M.Windt Touchback.'>34.52</number><number>0.48</number>
+<number shadow='shadow1' tooltip='10:19 1-10-MIA 20SD 10 MIA 10 LI: 1.6(Shotgun) 17-R.Tannehill pass short right to 42-C.Clay to MIA 27 for 7 yards(29-S.Wright).'>34.68</number><number>0.48</number>
+<number shadow='shadow1' tooltip='9:42 2-3-MIA 27SD 10 MIA 10 LI: 1.417-R.Tannehill pass short left to 42-C.Clay to MIA 34 for 7 yards(90-T.Keiser).'>35.3</number><number>0.46</number>
+<number shadow='shadow1' tooltip='9:17 1-10-MIA 34SD 10 MIA 10 LI: 1.517-R.Tannehill pass incomplete deep right to 11-M.Wallace.'>35.72</number><number>0.48</number>
+<number shadow='shadow1' tooltip='8:57 2-10-MIA 34SD 10 MIA 10 LI: 1.317-R.Tannehill pass short right to 26-L.Miller to SD 44 for 22 yards(38-M.Gilchrist).'>36.05</number><number>0.42</number>
+<number shadow='shadow1' tooltip='8:14 1-10-SD 44SD 10 MIA 10 LI: 1.4(No Huddle Shotgun) 26-L.Miller right tackle to SD 38 for 6 yards(29-S.Wright)PENALTY on SD-94-C.Liuget Defensive Offside 5 yards enforced at SD 44 - No Play.'>36.77</number><number>0.4</number>
+<number shadow='shadow1' tooltip='7:54 1-5-SD 39SD 10 MIA 10 LI: 1.5(Shotgun) 17-R.Tannehill pass short right to 42-C.Clay for 39 yards TOUCHDOWN.'>37.1</number><number>0.25</number>
+<number shadow='shadow1' tooltip='7:54 SD 10 MIA 10 LI: 9-C.Sturgis extra point is GOOD Center-92-J.Denney Holder-2-B.Fields.'>37.14</number><number>0.25</number>
+<number shadow='shadow1' tooltip='7:54 SD 10 MIA 17 LI: 9-C.Sturgis kicks 66 yards from MIA 35 to SD -139-D.Woodhead to SD 20 for 21 yards(22-J.Taylor).'>37.19</number><number>0.23</number>
+<number shadow='shadow1' tooltip='7:38 1-10-SD 20SD 10 MIA 17 LI: 0.9(Shotgun) 17-P.Rivers pass short middle to 85-A.Gates to SD 32 for 12 yards(28-N.Carroll).'>37.37</number><number>0.26</number>
+<number shadow='shadow1' tooltip='7:05 1-10-SD 32SD 10 MIA 17 LI: 124-R.Mathews left end to SD 39 for 7 yards(50-O.Vernon).'>37.92</number><number>0.27</number>
+<number shadow='shadow1' tooltip='6:18 2-3-SD 39SD 10 MIA 17 LI: 1(Shotgun) 17-P.Rivers pass short right to 89-L.Green to SD 49 for 10 yards(21-B.Grimes).'>38.7</number><number>0.29</number>
+<number shadow='shadow1' tooltip='5:40 1-10-SD 49SD 10 MIA 17 LI: 1.1(Shotgun) 17-P.Rivers pass deep right to 11-E.Royal to MIA 35 for 16 yards(52-P.Wheeler).'>39.33</number><number>0.33</number>
+<number shadow='shadow1' tooltip='4:58 1-10-MIA 35SD 10 MIA 17 LI: 1.3(Shotgun) 17-P.Rivers pass incomplete short right to 89-L.Green.'>40.03</number><number>0.31</number>
+<number shadow='shadow1' tooltip='4:53 2-10-MIA 35SD 10 MIA 17 LI: 1.124-R.Mathews left guard to MIA 32 for 3 yards(50-O.Vernon).'>40.12</number><number>0.3</number>
+<number shadow='shadow1' tooltip='4:10 3-7-MIA 32SD 10 MIA 17 LI: 1(Shotgun) 17-P.Rivers pass incomplete deep middle to 11-E.Royal.'>40.83</number><number>0.26</number>
+<number shadow='shadow1' tooltip='4:05 4-7-MIA 32SD 10 MIA 17 LI: 0.6(Field Goal formation) 9-N.Novak 50 yard field goal is GOOD Center-47-M.Windt Holder-5-M.Scifres.'>40.92</number><number>0.3</number>
+<number shadow='shadow1' tooltip='4:05 SD 13 MIA 17 LI: 9-N.Novak kicks 70 yards from SD 35 to MIA -534-M.Thigpen Touchback.'>41.01</number><number>0.31</number>
+<number shadow='shadow1' tooltip='3:27 1-10-MIA 31SD 13 MIA 17 LI: 1.517-R.Tannehill sacked at MIA 25 for -6 yards(98-S.Lissemore).'>41.55</number><number>0.33</number>
+<number shadow='shadow1' tooltip='2:48 2-16-MIA 25SD 13 MIA 17 LI: 1.3(Shotgun) 33-D.Thomas right tackle to MIA 29 for 4 yards(71-L.Guy).'>42.2</number><number>0.33</number>
+<number shadow='shadow1' tooltip='2:14 3-12-MIA 29SD 13 MIA 17 LI: 1.2(Shotgun) 17-R.Tannehill pass short right to 26-L.Miller to MIA 27 for -2 yards(52-R.Walker).'>42.77</number><number>0.36</number>
+<number shadow='shadow1' tooltip='1:33 4-14-MIA 27SD 13 MIA 17 LI: 0.9(Punt formation) 2-B.Fields punts 53 yards to SD 20 Center-92-J.Denney13-K.Allen to SD 33 for 13 yards(56-J.Freeny).'>43.45</number><number>0.36</number>
+<number shadow='shadow1' tooltip='1:22 1-10-SD 33SD 13 MIA 17 LI: 1.524-R.Mathews left end pushed ob at MIA 16 for 51 yards(20-R.Jones).'>43.63</number><number>0.48</number>
+<number shadow='shadow1' tooltip='0:51 1-10-MIA 16SD 13 MIA 17 LI: 1.6(Shotgun) 39-D.Woodhead left tackle to MIA 15 for 1 yard(50-O.Vernon; 52-P.Wheeler).'>44.15</number><number>0.53</number>
+<number shadow='shadow1' tooltip='0:14 2-9-MIA 15SD 13 MIA 17 LI: 2.2(Shotgun) 17-P.Rivers pass short left to 89-L.Green to MIA 11 for 4 yards(52-P.Wheeler).'>44.77</number><number>0.51</number>
+<number shadow='shadow1' tooltip='15:00 3-5-MIA 11SD 13 MIA 17 LI: 1.9(Shotgun) 17-P.Rivers pass incomplete short left to 13-K.Allen (28-N.Carroll).'>45</number><number>0.42</number>
+<number shadow='shadow1' tooltip='14:52 4-5-MIA 11SD 13 MIA 17 LI: 1(Field Goal formation) 9-N.Novak 29 yard field goal is GOOD Center-47-M.Windt Holder-5-M.Scifres.'>45.13</number><number>0.42</number>
+<number shadow='shadow1' tooltip='14:52 SD 16 MIA 17 LI: 9-N.Novak kicks 64 yards from SD 35 to MIA 134-M.Thigpen to MIA 26 for 25 yards(83-J.Phillips).'>45.22</number><number>0.42</number>
+<number shadow='shadow1' tooltip='14:45 1-10-MIA 26SD 16 MIA 17 LI: 1.8(Shotgun) 17-R.Tannehill pass incomplete short left to 82-B.Hartline.'>45.25</number><number>0.44</number>
+<number shadow='shadow1' tooltip='14:41 2-10-MIA 26SD 16 MIA 17 LI: 1.626-L.Miller up the middle to MIA 34 for 8 yards(56-D.Butler).'>45.32</number><number>0.43</number>
+<number shadow='shadow1' tooltip='14:00 3-2-MIA 34SD 16 MIA 17 LI: 1.5(Shotgun) 17-R.Tannehill pass incomplete short left to 18-R.Matthews (31-R.Marshall).'>46</number><number>0.49</number>
+<number shadow='shadow1' tooltip='13:50 4-2-MIA 34SD 16 MIA 17 LI: 0.9(Punt formation) 2-B.Fields punts 49 yards to SD 17 Center-92-J.Denney fair catch by 13-K.Allen.'>46.17</number><number>0.46</number>
+<number shadow='shadow1' tooltip='13:48 1-10-SD 17SD 16 MIA 17 LI: 1.8(Shotgun) 24-R.Mathews right tackle to SD 21 for 4 yards(98-J.Odrick).'>46.2</number><number>0.46</number>
+<number shadow='shadow1' tooltip='13:07 2-6-SD 21SD 16 MIA 17 LI: 1.724-R.Mathews right end to SD 16 for -5 yards(91-C.Wake).'>46.88</number><number>0.4</number>
+<number shadow='shadow1' tooltip='12:25 3-11-SD 16SD 16 MIA 17 LI: 1.3(Shotgun) 17-P.Rivers sacked at SD 11 for -5 yards(98-J.Odrick).'>47.58</number><number>0.35</number>
+<number shadow='shadow1' tooltip='11:55 4-16-SD 11SD 16 MIA 17 LI: 1.5(Punt formation) 5-M.Scifres punts 49 yards to MIA 40 Center-47-M.Windt fair catch by 34-M.Thigpen.'>48.08</number><number>0.37</number>
+<number shadow='shadow1' tooltip='11:51 1-10-MIA 40SD 16 MIA 17 LI: 2.133-D.Thomas right tackle to MIA 48 for 8 yards(38-M.Gilchrist; 56-D.Butler).'>48.15</number><number>0.34</number>
+<number shadow='shadow1' tooltip='11:13 2-2-MIA 48SD 16 MIA 17 LI: 2.3(Shotgun) 33-D.Thomas left tackle to SD 49 for 3 yards(50-M.Teo).'>48.78</number><number>0.31</number>
+<number shadow='shadow1' tooltip='10:37 1-10-SD 49SD 16 MIA 17 LI: 2.6(No Huddle Shotgun) 17-R.Tannehill left end pushed ob at SD 39 for 10 yards(32-E.Weddle).'>49.38</number><number>0.28</number>
+<number shadow='shadow1' tooltip='10:12 1-10-SD 39SD 16 MIA 17 LI: 2.5(Shotgun) 17-R.Tannehill pass short left to 82-B.Hartline to SD 25 for 14 yards(22-D.Cox).'>49.8</number><number>0.24</number>
+<number shadow='shadow1' tooltip='9:28 1-10-SD 25SD 16 MIA 17 LI: 2.3(Shotgun) 17-R.Tannehill pass incomplete deep right to 82-B.Hartline.'>50.53</number><number>0.26</number>
+<number shadow='shadow1' tooltip='9:22 2-10-SD 25SD 16 MIA 17 LI: 2.1(Shotgun) 33-D.Thomas left guard to SD 19 for 6 yards(32-E.Weddle).'>50.63</number><number>0.24</number>
+<number shadow='shadow1' tooltip='8:43 3-4-SD 19SD 16 MIA 17 LI: 2(Shotgun) 17-R.Tannehill pass incomplete short right to 42-C.Clay (32-E.Weddle).'>51.28</number><number>0.31</number>
+<number shadow='shadow1' tooltip='8:39 4-4-SD 19SD 16 MIA 17 LI: 1.3(Field Goal formation) 9-C.Sturgis 37 yard field goal is GOOD Center-92-J.Denney Holder-2-B.Fields.'>51.35</number><number>0.3</number>
+<number shadow='shadow1' tooltip='8:39 SD 16 MIA 20 LI: 9-C.Sturgis kicks 74 yards from MIA 35 to SD -939-D.Woodhead Touchback.'>51.44</number><number>0.27</number>
+<number shadow='shadow1' tooltip='7:50 2-10-SD 20SD 16 MIA 20 LI: 1.4(Shotgun) 17-P.Rivers pass short right to 89-L.Green to MIA 45 for 35 yards(20-R.Jones) [98-J.Odrick].'>52.17</number><number>0.44</number>
+<number shadow='shadow1' tooltip='7:08 1-10-MIA 45SD 16 MIA 20 LI: 2.839-D.Woodhead left guard to MIA 41 for 4 yards(55-K.Misi).'>52.87</number><number>0.43</number>
+<number shadow='shadow1' tooltip='6:32 2-6-MIA 41SD 16 MIA 20 LI: 2.624-R.Mathews left end ran ob at MIA 34 for 7 yards(59-D.Ellerbe).'>53.47</number><number>0.47</number>
+<number shadow='shadow1' tooltip='6:10 1-10-MIA 34SD 16 MIA 20 LI: 2.824-R.Mathews up the middle to MIA 33 for 1 yard(52-P.Wheeler).'>53.83</number><number>0.42</number>
+<number shadow='shadow1' tooltip='5:33 2-9-MIA 33SD 16 MIA 20 LI: 2.4(No Huddle Shotgun) 17-P.Rivers pass short right to 11-E.Royal to MIA 29 for 4 yards(59-D.Ellerbe).'>54.45</number><number>0.37</number>
+<number shadow='shadow1' tooltip='4:36 3-5-MIA 29SD 16 MIA 20 LI: 2.4(No Huddle Shotgun) 17-P.Rivers sacked at MIA 36 for -7 yards(50-O.Vernon).'>55.4</number><number>0.39</number>
+<number shadow='shadow1' tooltip='4:07 4-12-MIA 36SD 16 MIA 20 LI: 2.7(Punt formation) 5-M.Scifres punts 30 yards to MIA 6 Center-47-M.Windt downed by SD-59-A.Gachkar.'>55.88</number><number>0.41</number>
+<number shadow='shadow1' tooltip='3:58 1-10-MIA 6SD 16 MIA 20 LI: 1.617-R.Tannehill pass short left to 82-B.Hartline to MIA 21 for 15 yards(31-R.Marshall).'>56.03</number><number>0.21</number>
+<number shadow='shadow1' tooltip='3:16 1-10-MIA 21SD 16 MIA 20 LI: 2.9(No Huddle Shotgun) 17-R.Tannehill scrambles right end to MIA 25 for 4 yards(29-S.Wright).'>56.73</number><number>0.12</number>
+<number shadow='shadow1' tooltip='2:28 2-6-MIA 25SD 16 MIA 20 LI: 3.4(Shotgun) 17-R.Tannehill pass short middle to 18-R.Matthews to MIA 38 for 13 yards(31-R.Marshall).'>57.53</number><number>0.05</number>
+<number shadow='shadow1' tooltip='2:21 1-10-MIA 38SD 16 MIA 20 LI: 3.8(Shotgun) 26-L.Miller right guard to MIA 40 for 2 yards(94-C.Liuget).'>57.65</number><number>0.1</number>
+<number shadow='shadow1' tooltip='2:17 2-8-MIA 40SD 16 MIA 20 LI: 3.2(Shotgun) 17-R.Tannehill pass incomplete short left to 82-B.Hartline.'>57.72</number><number>0.16</number>
+<number shadow='shadow1' tooltip='2:14 3-8-MIA 40SD 16 MIA 20 LI: 2.6(Shotgun) 17-R.Tannehill sacked ob at MIA 34 for -6 yards(52-R.Walker).'>57.77</number><number>0.25</number>
+<number shadow='shadow1' tooltip='2:08 4-14-MIA 34SD 16 MIA 20 LI: 1.9(Punt formation) 2-B.Fields punts 61 yards to SD 5 Center-92-J.Denney11-E.Royal to SD 17 for 12 yards(33-D.Thomas).'>57.87</number><number>0.2</number>
+<number shadow='shadow1' tooltip='1:54 1-10-SD 17SD 16 MIA 20 LI: 1.9(Shotgun) 17-P.Rivers pass short left to 86-V.Brown to SD 22 for 5 yards(27-J.Wilson).'>58.1</number><number>0.08</number>
+<number shadow='shadow1' tooltip='1:25 2-5-SD 22SD 16 MIA 20 LI: 0.7(No Huddle Shotgun) 17-P.Rivers pass short middle to 86-V.Brown to SD 34 for 12 yards(28-N.Carroll).'>58.58</number><number>0.18</number>
+<number shadow='shadow1' tooltip='1:02 1-10-SD 34SD 16 MIA 20 LI: 1.7(No Huddle Shotgun) 17-P.Rivers pass short right to 85-A.Gates pushed ob at SD 42 for 8 yards(21-B.Grimes).'>58.97</number><number>0.09</number>
+<number shadow='shadow1' tooltip='0:56 2-2-SD 42SD 16 MIA 20 LI: 0.8(Shotgun) 17-P.Rivers sacked at SD 37 for -5 yards(91-C.Wake).'>59.07</number><number>0.07</number>
+<number shadow='shadow1' tooltip='0:49 3-7-SD 37SD 16 MIA 20 LI: 0.6(Shotgun) 17-P.Rivers pass deep middle to 16-S.Ajirotutu to MIA 43 for 20 yards(28-N.Carroll).'>59.18</number><number>0.24</number>
+<number shadow='shadow1' tooltip='0:33 1-10-MIA 43SD 16 MIA 20 LI: 2.3(No Huddle) 17-P.Rivers spiked the ball to stop the clock.'>59.45</number><number>0.09</number>
+<number shadow='shadow1' tooltip='0:11 1-10-MIA 25SD 16 MIA 20 LI: 3.1(No Huddle Shotgun) 17-P.Rivers pass incomplete short left to 85-A.Gates (52-P.Wheeler).'>59.82</number><number>0.17</number>
+<number shadow='shadow1' tooltip='0:07 2-10-MIA 25SD 16 MIA 20 LI: 1.617-P.Rivers pass incomplete deep right to 86-V.Brown (21-B.Grimes) [50-O.Vernon].'>59.88</number><number>0</number>
+<number>60</number><number>0</number>
+</row> </chart_data>
+       <draw>
+
+
+
+      <image x='45' y='298'  url='nfllogos/42x50png/SD.gif'  layer='foreground' glow = 'glow1'/>
+      <image x='45' y='350'  url='nfllogos/42x50png/MIA.gif'     layer='foreground' glow = 'glow1'/>
+
+
+      <rect x='130' y='300' width='250' height='40' fill_color='087ac3' bevel='bevel1' />
+      <text x='135' y='300' width='250' height='40' h_align='left' v_align='middle' color='ffffff' shadow='shadow2' glow=''>San Diego Chargers</text>
+
+      <rect x='130' y='350' width='250' height='40' fill_color='006c76' bevel='bevel1'  />
+      <text x='135' y='350' width='250' height='40' h_align='left' v_align='middle' color='ffffff' shadow='shadow2' glow='winnerglow'>Miami Dolphins</text>
+
+      <rect x='420' y='300' width='60' height='40' fill_color='087ac3' bevel='bevel1'  />
+      <text x='420' y='300' width='60' height='40' h_align='center' v_align='middle' color='ffffff' shadow='shadow2' transition='none' glow=''>16</text>
+
+      <rect x='420' y='350' width='60' height='40' fill_color='006c76' bevel='bevel1' />
+      <text x='420' y='350' width='60' height='40' h_align='center' v_align='middle' color='ffffff' shadow='shadow2' transition='none' glow='winnerglow'>20</text>
+
+      <text x='-3' y='12'  width='60' height='40' h_align='center' v_align='middle' size='13' shadow='shadow2'>SDWin </text>
+      <text x='-3' y='218' width='60' height='40' h_align='center' v_align='middle' size='13' shadow='shadow2'>MIAWin </text>
+
+     
+              <rect x='540' y='300' width='100' height='35' fill_color='000000' fill_alpha='50'/>
+              <text x='540' y='300' width='100' height='35' h_align='center' v_align='middle' color='ffffff' size='15' shadow='shadow2' >Final</text>
+
+              <text x='540' y='340' width='40' h_align='center' color='000000' size='12' shadow='shadow2'>CBF</text>
+              <text x='600' y='340' width='40' h_align='center' color='000000' size='12' shadow='shadow2'>EI</text>
+
+              <rect x='540' y='360' width='40' height='30' fill_color='000000' fill_alpha='50' />
+              <text x='540' y='360' width='40' height='30' size='12' h_align='center' v_align='middle' color='FFFFFF' shadow='shadow2'>3</text>
+
+              <rect x='600' y='360' width='40' height='30' fill_color='000000' fill_alpha='50' />
+              <text x='600' y='360' width='40' height='30' size='12' h_align='center' v_align='middle' color='FFFFFF' shadow='shadow2'>5.4</text>
+
+              <text x='20' y='420' width='70' height='25' size='12' h_align='left' v_align='middle' color='000000' >11/17/2013</text>
+              <text x='100' y='420' width='200' height='25' size='12' h_align='left' v_align='middle' color='000000' >Sun Life Stadium</text>
+
+   </draw></chart>

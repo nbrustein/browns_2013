@@ -1,0 +1,299 @@
+
+<chart>
+   <license>ETAS9P33ESHO.945CWK-2XOI1X0-7L</license>
+   <chart_type>scatter</chart_type>
+   <chart_pref trend_thickness='0' line_thickness='3' point_size='0'/>
+
+   <series_color>
+      <color>ffff00</color>
+   </series_color>
+
+   <chart_rect x='45' y='20' width='630' height='230' positive_color='cacaca'  />
+
+  <chart_border top_thickness='0'
+                 bottom_thickness='0'
+                 left_thickness='0'
+                 right_thickness='0'
+                 color='000000'
+                 />
+
+   <tooltip font='Arial' bold='true' size='11' />
+
+   <chart_note type='flag'
+               color='000000'
+               alpha='90'
+               bold='FALSE'
+               size='10'
+               background_color='ffffe0'
+               background_alpha='50'
+               shadow='shadow2'
+               />
+
+   <chart_grid_h thickness='2' color='ffffff' type='dashed'  />
+   <chart_grid_v thickness='2' color='ffffff'   />
+		>
+
+   <legend layout='hide' />
+
+   <chart_guide horizontal='TRUE'
+             vertical='TRUE'
+             thickness='1'
+             color='006400'
+             alpha='100'
+             type='solid'
+             snap_h='TRUE'
+             snap_v='TRUE'
+             radius='3'
+             fill_color='006400'
+             fill_alpha='100'
+             line_color='006400'
+             line_alpha='80'
+             line_thickness='1'
+             text_h_alpha='50'
+             text_v_alpha='00'
+             suffix_h=' WP'
+             decimals='2'
+             bold='FALSE'
+             size='11'
+             text_color='FFFFFF'
+             background_color='006400'
+             />
+   <filter>
+      <shadow id='shadow1' distance='2' angle='60' blurX='5' blurY='5' alpha='50' />
+      <bevel id='bevel1' angle='45' blurX='5' blurY='5' distance='0' />
+      <glow id='glow1' color='ffffff' alpha='0' blurX='7' blurY='7' strength='6' quality='2' inner='FALSE' knockout='FALSE' />
+      <glow id='winnerglow' color='ffffff' alpha='0' blurX='7' blurY='7' strength='5' quality='2' inner='FALSE' knockout='FALSE' />
+   </filter>
+
+    <axis_value_label>
+         <string></string>
+          <string> </string>
+          <null/>
+          <string> </string>
+          <string></string>
+
+       </axis_value_label>
+		
+	   <axis_ticks category_ticks='false'/>
+
+       <axis_value min='0' max='1' steps='4'  decimals='2' show_min='true' size='13' shadow='shadow2' />     
+            <axis_category
+               min='0'
+               max='60'
+               steps='4'
+               mode='all'
+               decimals='0'
+               size='13'
+               shadow='shadow2'
+               />
+
+       <axis_category_label>
+          <string>Kickoff</string>
+          <string></string>
+          <string>Halftime</string>
+          <string></string>
+          <string>End</string>
+
+       </axis_category_label>
+
+
+        <chart_data>
+       <row>
+	      <null/><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number>
+              <number>x</number><number>y</number>
+              </row><row><string></string>
+
+                     <number shadow='shadow1'>0</number><number>.5</number><number shadow='shadow1' tooltip='15:00 SL 0 DAL 0 LI: 5-D.Bailey kicks 65 yards from DAL 35 to end zone TouchbackBall was kicked out of the end zone.'>0.09</number><number>0.52</number>
+<number shadow='shadow1' tooltip='14:26 2-7-SL 23SL 0 DAL 0 LI: 1.4(Shotgun) 8-S.Bradford pass incomplete short left to 18-A.PettisPass inomplete on a "curl" route; Wilcox closest.'>0.57</number><number>0.49</number>
+<number shadow='shadow1' tooltip='14:20 3-7-SL 23SL 0 DAL 0 LI: 1.2(Shotgun) 8-S.Bradford pass incomplete short right to 89-J.Cook (42-B.Church).'>0.67</number><number>0.45</number>
+<number shadow='shadow1' tooltip='14:07 4-7-SL 23SL 0 DAL 0 LI: 0.8(Punt formation) 6-J.Hekker punts 45 yards to DAL 32 Center-44-J.McQuaide17-D.Harris MUFFS catch RECOVERED by SL-51-W.Witherspoon at DAL 34.'>0.88</number><number>0.61</number>
+<number shadow='shadow1' tooltip='14:03 1-10-DAL 34SL 0 DAL 0 LI: 1.536-B.Cunningham left guard to DAL 33 for 1 yard(94-D.Ware).'>0.95</number><number>0.59</number>
+<number shadow='shadow1' tooltip='13:26 2-9-DAL 33SL 0 DAL 0 LI: 1.3(Shotgun) 8-S.Bradford pass short left to 11-T.Austin to DAL 32 for 1 yard(24-M.Claiborne)Pass complete on "quick sideline route" pattern.'>1.57</number><number>0.57</number>
+<number shadow='shadow1' tooltip='12:48 3-8-DAL 32SL 0 DAL 0 LI: 1.1(Shotgun) 8-S.Bradford sacked at DAL 38 for -6 yards(32-O.Scandrick).'>2.2</number><number>0.5</number>
+<number shadow='shadow1' tooltip='12:05 4-14-DAL 38SL 0 DAL 0 LI: 0.5(Punt formation) 6-J.Hekker pass incomplete deep middle to 12-S.BaileyPass incomplete off fake punt; post pattern.'>2.92</number><number>0.45</number>
+<number shadow='shadow1' tooltip='11:58 1-10-DAL 39SL 0 DAL 0 LI: 1.4(Shotgun) 29-D.Murray left end to SL 47 for 14 yards(21-J.Jenkins).'>3.03</number><number>0.43</number>
+<number shadow='shadow1' tooltip='11:24 1-10-SL 47SL 0 DAL 0 LI: 1.329-D.Murray left tackle to SL 40 for 7 yards(23-R.McLeod).'>3.6</number><number>0.42</number>
+<number shadow='shadow1' tooltip='10:49 2-3-SL 40SL 0 DAL 0 LI: 1.39-T.Romo pass short left to 82-J.Witten pushed ob at SL 30 for 10 yards(31-C.Finnegan)Pass complete off play action; Witten on a "crossing" route.'>4.18</number><number>0.38</number>
+<number shadow='shadow1' tooltip='10:14 1-10-SL 30SL 0 DAL 0 LI: 1.6(Shotgun) 29-D.Murray right end to SL 28 for 2 yards(31-C.Finnegan).'>4.77</number><number>0.39</number>
+<number shadow='shadow1' tooltip='9:28 2-8-SL 28SL 0 DAL 0 LI: 1.4(Shotgun) 9-T.Romo pass incomplete short left to 83-T.Williams (22-T.Johnson)PENALTY on SL-22-T.Johnson Defensive Pass Interference 6 yards enforced at SL 28 - No Play.'>5.53</number><number>0.36</number>
+<number shadow='shadow1' tooltip='9:22 1-10-SL 22SL 0 DAL 0 LI: 1.629-D.Murray up the middle to SL 8 for 14 yards(91-C.Long).'>5.63</number><number>0.33</number>
+<number shadow='shadow1' tooltip='8:35 1-8-SL 8SL 0 DAL 0 LI: 1.729-D.Murray right tackle to SL 2 for 6 yards(21-J.Jenkins).'>6.42</number><number>0.31</number>
+<number shadow='shadow1' tooltip='7:57 2-2-SL 2SL 0 DAL 0 LI: 1.929-D.Murray up the middle to SL 2 for no gain (55-J.Laurinaitis; 25-T.McDonald).'>7.05</number><number>0.34</number>
+<number shadow='shadow1' tooltip='7:07 3-2-SL 2SL 0 DAL 0 LI: 1.69-T.Romo pass short left to 88-D.Bryant for 2 yards TOUCHDOWNPENALTY on DAL-88-D.Bryant Unsportsmanlike Conduct 15 yards enforced between downs3-step drop lofted left corner of the end zone.'>7.88</number><number>0.29</number>
+<number shadow='shadow1' tooltip='7:07 SL 0 DAL 0 LI: 5-D.Bailey extra point is GOOD Center-91-L.Ladouceur Holder-6-C.Jones.'>7.92</number><number>0.29</number>
+<number shadow='shadow1' tooltip='7:07 SL 0 DAL 7 LI: 5-D.Bailey kicks 75 yards from DAL 20 to SL 536-B.Cunningham to SL 30 for 25 yards(55-E.Jones).'>7.97</number><number>0.28</number>
+<number shadow='shadow1' tooltip='6:59 1-10-SL 20SL 0 DAL 7 LI: 1.58-S.Bradford pass short right to 11-T.Austin pushed ob at SL 24 for 4 yards(39-B.Carr)3-step quick out sideline route pass.'>8.02</number><number>0.28</number>
+<number shadow='shadow1' tooltip='6:30 2-6-SL 24SL 0 DAL 7 LI: 1.48-S.Bradford pass incomplete deep left to 13-C.GivensPass incomplete on a "down and out" sideline route; Church closest defender.'>8.5</number><number>0.27</number>
+<number shadow='shadow1' tooltip='6:24 3-6-SL 24SL 0 DAL 7 LI: 1.3(Shotgun) 8-S.Bradford sacked at SL 15 for -9 yards(94-D.Ware).'>8.6</number><number>0.22</number>
+<number shadow='shadow1' tooltip='5:52 4-15-SL 15SL 0 DAL 7 LI: 1(Punt formation) 6-J.Hekker punts 45 yards to DAL 40 Center-44-J.McQuaide17-D.Harris to DAL 41 for 1 yard(53-D.Bates).'>9.13</number><number>0.23</number>
+<number shadow='shadow1' tooltip='5:43 1-10-DAL 41SL 0 DAL 7 LI: 1.1(Shotgun) 29-D.Murray up the middle ran ob at SL 23 for 36 yards.'>9.28</number><number>0.14</number>
+<number shadow='shadow1' tooltip='5:10 1-10-SL 23SL 0 DAL 7 LI: 1.429-D.Murray left tackle to SL 21 for 2 yards(94-R.Quinn; 93-J.Cudjo).'>9.83</number><number>0.16</number>
+<number shadow='shadow1' tooltip='4:26 2-8-SL 21SL 0 DAL 7 LI: 1.2(Shotgun) 9-T.Romo pass incomplete short right to 19-M.AustinRomo forced from the pocket after roll right.'>10.57</number><number>0.17</number>
+<number shadow='shadow1' tooltip='4:21 3-8-SL 21SL 0 DAL 7 LI: 1.1(Shotgun) 9-T.Romo pass short right to 82-J.Witten to SL 6 for 15 yards(23-R.McLeod; 52-A.Ogletree)Pass complete on a "drag" route.'>10.65</number><number>0.12</number>
+<number shadow='shadow1' tooltip='3:35 1-6-SL 6SL 0 DAL 7 LI: 1.529-D.Murray right end to SL 2 for 4 yards(21-J.Jenkins).'>11.42</number><number>0.12</number>
+<number shadow='shadow1' tooltip='2:56 2-2-SL 2SL 0 DAL 7 LI: 1.529-D.Murray up the middle to SL 1 for 1 yard(90-M.Brockers; 98-K.Langford).'>12.07</number><number>0.12</number>
+<number shadow='shadow1' tooltip='2:15 3-1-SL 1SL 0 DAL 7 LI: 1.59-T.Romo pass incomplete short right to 89-G.Escobar (25-T.McDonald)Pass lofted right corner of the end zone.'>12.75</number><number>0.18</number>
+<number shadow='shadow1' tooltip='2:10 4-1-SL 1SL 0 DAL 7 LI: 0.9(Field Goal formation) 5-D.Bailey 19 yard field goal is GOOD Center-91-L.Ladouceur Holder-6-C.Jones.'>12.83</number><number>0.19</number>
+<number shadow='shadow1' tooltip='2:10 SL 0 DAL 10 LI: 5-D.Bailey kicks 68 yards from DAL 35 to SL -336-B.Cunningham to SL 18 for 21 yards(40-D.McCray; 58-K.Bosworth)Return inside the yardline numbers.'>12.92</number><number>0.17</number>
+<number shadow='shadow1' tooltip='1:59 1-10-SL 18SL 0 DAL 10 LI: 0.736-B.Cunningham left tackle to SL 21 for 3 yardsPENALTY on SL-62-H.Dahl Offensive Holding 9 yards enforced at SL 18 - No Play.'>13.02</number><number>0.16</number>
+<number shadow='shadow1' tooltip='1:36 1-19-SL 9SL 0 DAL 10 LI: 0.736-B.Cunningham up the middle to SL 10 for 1 yard(94-D.Ware).'>13.4</number><number>0.17</number>
+<number shadow='shadow1' tooltip='0:58 2-18-SL 10SL 0 DAL 10 LI: 0.8(Shotgun) 8-S.Bradford pass short middle to 11-T.Austin to SL 17 for 7 yards(96-N.Hayden)Pass complete on a "spot" route.'>14.03</number><number>0.17</number>
+<number shadow='shadow1' tooltip='0:16 3-11-SL 17SL 0 DAL 10 LI: 0.6(Shotgun) 8-S.Bradford pass incomplete short middle to 36-B.Cunningham (55-E.Jones).'>14.73</number><number>0.16</number>
+<number shadow='shadow1' tooltip='0:09 4-11-SL 17SL 0 DAL 10 LI: 0.5(Punt formation) 6-J.Hekker punts 43 yards to DAL 40 Center-44-J.McQuaide11-C.Beasley to DAL 43 for 3 yards(50-R.Armstrong)PENALTY on DAL-39-B.Carr Offensive Holding 10 yards enforced at DAL 43.'>14.85</number><number>0.17</number>
+<number shadow='shadow1' tooltip='15:00 1-10-DAL 33SL 0 DAL 10 LI: 0.929-D.Murray left end to DAL 36 for 3 yards(21-J.Jenkins).'>15</number><number>0.17</number>
+<number shadow='shadow1' tooltip='14:27 2-7-DAL 36SL 0 DAL 10 LI: 0.9(Shotgun) 29-D.Murray right end ran ob at DAL 37 for 1 yard(21-J.Jenkins).'>15.55</number><number>0.18</number>
+<number shadow='shadow1' tooltip='13:51 3-6-DAL 37SL 0 DAL 10 LI: 0.7(Shotgun) 9-T.Romo pass short right to 19-M.Austin to SL 49 for 14 yards(21-J.Jenkins)Pass complete on a "seam" route.'>16.15</number><number>0.15</number>
+<number shadow='shadow1' tooltip='13:13 1-10-SL 49SL 0 DAL 10 LI: 0.8(Shotgun) 29-D.Murray right end pushed ob at SL 44 for 5 yards(25-T.McDonald).'>16.78</number><number>0.15</number>
+<number shadow='shadow1' tooltip='12:33 2-5-SL 44SL 0 DAL 10 LI: 0.7(Shotgun) 9-T.Romo pass short left to 29-D.Murray ran ob at SL 27 for 17 yardsPass complete in the flat.'>17.45</number><number>0.13</number>
+<number shadow='shadow1' tooltip='11:53 1-10-SL 27SL 0 DAL 10 LI: 0.69-T.Romo pass short right to 11-C.Beasley to SL 20 for 7 yards(52-A.Ogletree)SL-95-W.Hayes was injured during the playHis return is Questionable Quick sideline out pattern.'>18.12</number><number>0.09</number>
+<number shadow='shadow1' tooltip='11:29 2-3-SL 20SL 0 DAL 10 LI: 0.99-T.Romo pass short right to 29-D.Murray to SL 11 for 9 yards(52-A.Ogletree)Pass complete off "play action" in the flat.'>18.52</number><number>0.08</number>
+<number shadow='shadow1' tooltip='10:37 1-10-SL 11SL 0 DAL 10 LI: 0.929-D.Murray left guard to SL 10 for 1 yard(97-E.Sims).'>19.38</number><number>0.09</number>
+<number shadow='shadow1' tooltip='9:54 2-9-SL 10SL 0 DAL 10 LI: 0.8(Shotgun) 9-T.Romo pass short left to 19-M.Austin to SL 2 for 8 yards(31-C.Finnegan)Pass complete on a "crossing" pattern.'>20.1</number><number>0.08</number>
+<number shadow='shadow1' tooltip='9:15 3-1-SL 2SL 0 DAL 10 LI: 0.929-D.Murray left end for 2 yards TOUCHDOWN.'>20.75</number><number>0.07</number>
+<number shadow='shadow1' tooltip='9:15 SL 0 DAL 10 LI: 5-D.Bailey extra point is GOOD Center-91-L.Ladouceur Holder-6-C.Jones.'>20.79</number><number>0.07</number>
+<number shadow='shadow1' tooltip='9:15 SL 0 DAL 17 LI: 5-D.Bailey kicks 65 yards from DAL 35 to end zone TouchbackBall was kicked out of the end zone.'>20.84</number><number>0.06</number>
+<number shadow='shadow1' tooltip='8:27 1-10-SL 34SL 0 DAL 17 LI: 0.124-I.Pead up the middle to SL 38 for 4 yards(50-S.Lee; 54-B.Carter).'>21.55</number><number>0.1</number>
+<number shadow='shadow1' tooltip='7:42 2-6-SL 38SL 0 DAL 17 LI: 0.38-S.Bradford pass incomplete short right to 46-C.HarkeyPass thrown incomplete in the "flat."'>22.3</number><number>0.1</number>
+<number shadow='shadow1' tooltip='7:36 3-6-SL 38SL 0 DAL 17 LI: 0.3(Shotgun) 8-S.Bradford sacked at SL 31 for -7 yards(99-G.Selvie).'>22.4</number><number>0.09</number>
+<number shadow='shadow1' tooltip='7:07 4-13-SL 31SL 0 DAL 17 LI: 0.2(Punt formation) 6-J.Hekker punts 48 yards to DAL 21 Center-44-J.McQuaide fair catch by 11-C.Beasley.'>22.88</number><number>0.08</number>
+<number shadow='shadow1' tooltip='7:01 1-10-DAL 21SL 0 DAL 17 LI: 0.625-L.Dunbar left end to DAL 22 for 1 yard(55-J.Laurinaitis).'>22.98</number><number>0.08</number>
+<number shadow='shadow1' tooltip='6:23 2-9-DAL 22SL 0 DAL 17 LI: 0.6(Shotgun) 9-T.Romo pass short left to 88-D.Bryant to DAL 31 for 9 yards(31-C.Finnegan)Pass complete on a "slant" pattern.'>23.62</number><number>0.08</number>
+<number shadow='shadow1' tooltip='5:39 1-10-DAL 31SL 0 DAL 17 LI: 0.5(Shotgun) 9-T.Romo sacked at DAL 24 for -7 yards(98-K.Langford).'>24.35</number><number>0.08</number>
+<number shadow='shadow1' tooltip='4:56 2-17-DAL 24SL 0 DAL 17 LI: 0.5(Shotgun) 29-D.Murray up the middle to DAL 20 for -4 yards(94-R.Quinn)FUMBLES (94-R.Quinn) and recovers at DAL 22.'>25.07</number><number>0.09</number>
+<number shadow='shadow1' tooltip='4:11 3-19-DAL 22SL 0 DAL 17 LI: 0.4(Shotgun) 9-T.Romo pass short middle to 82-J.Witten to DAL 35 for 13 yards(25-T.McDonald).'>25.82</number><number>0.08</number>
+<number shadow='shadow1' tooltip='3:40 4-6-DAL 35SL 0 DAL 17 LI: 0.4(Punt formation) 6-C.Jones punts 49 yards to SL 16 Center-91-L.Ladouceur11-T.Austin for 84 yards TOUCHDOWN NULLIFIED by PenaltyPENALTY on SL-32-B.McGee Offensive Holding 10 yards enforced at SL 22Penalty on SL-25-T.McDonald Illegal Blindside Block declined.'>26.33</number><number>0.07</number>
+<number shadow='shadow1' tooltip='3:17 1-10-SL 12SL 0 DAL 17 LI: 0.313-C.Givens left end pushed ob at SL 8 for -4 yards(94-D.Ware).'>26.72</number><number>0.07</number>
+<number shadow='shadow1' tooltip='2:47 2-14-SL 8SL 0 DAL 17 LI: 0.38-S.Bradford pass short right to 24-I.Pead to SL 16 for 8 yards(52-J.Durant).'>27.22</number><number>0.07</number>
+<number shadow='shadow1' tooltip='2:02 3-6-SL 16SL 0 DAL 17 LI: 0.4(Shotgun) 8-S.Bradford pass incomplete deep middle to 18-A.Pettis (42-B.Church)Hayes; Knee injury; return doubtful.'>27.97</number><number>0.05</number>
+<number shadow='shadow1' tooltip='1:56 4-6-SL 16SL 0 DAL 17 LI: 0.2(Punt formation) 6-J.Hekker punts 57 yards to DAL 27 Center-44-J.McQuaide11-C.Beasley to DAL 39 for 12 yards(27-M.Giordano).'>28.07</number><number>0.06</number>
+<number shadow='shadow1' tooltip='1:45 1-10-DAL 39SL 0 DAL 17 LI: 0.5(Shotgun) 9-T.Romo pass short middle to 82-J.Witten to DAL 45 for 6 yards(55-J.Laurinaitis).'>28.25</number><number>0.06</number>
+<number shadow='shadow1' tooltip='1:23 2-4-DAL 45SL 0 DAL 17 LI: 0.4(No Huddle Shotgun) 9-T.Romo pass short middle to 29-D.Murray to DAL 47 for 2 yards(55-J.Laurinaitis).'>28.62</number><number>0.07</number>
+<number shadow='shadow1' tooltip='0:57 3-2-DAL 47SL 0 DAL 17 LI: 0.3(No Huddle Shotgun) 9-T.Romo pass incomplete short left to 19-M.AustinPass incomplete on a "crossing pattern."'>29.05</number><number>0.08</number>
+<number shadow='shadow1' tooltip='0:52 4-2-DAL 47SL 0 DAL 17 LI: 0.2(Punt formation) 6-C.Jones punts 40 yards to SL 13 Center-91-L.Ladouceur downed by DAL-17-D.Harris.'>29.13</number><number>0.07</number>
+<number shadow='shadow1' tooltip='0:41 1-10-SL 13SL 0 DAL 17 LI: 0.3(Shotgun) 8-S.Bradford pass short middle to 89-J.Cook to SL 22 for 9 yards(42-B.Church).'>29.32</number><number>0.09</number>
+<number shadow='shadow1' tooltip='0:20 2-1-SL 22SL 0 DAL 17 LI: 0.5(No Huddle Shotgun) 8-S.Bradford sacked at SL 14 for -8 yards(97-J.Hatcher).'>29.67</number><number>0.07</number>
+<number shadow='shadow1' tooltip='0:20 SL 0 DAL 17 LI: 4-G.Zuerlein kicks 65 yards from SL 35 to end zone TouchbackBall was kicked out of the end zone.'>29.76</number><number>0.07</number>
+<number shadow='shadow1' tooltip='15:00 1-10-DAL 20SL 0 DAL 17 LI: 0.5(Shotgun) 29-D.Murray right guard to DAL 26 for 6 yards(25-T.McDonald).'>30</number><number>0.08</number>
+<number shadow='shadow1' tooltip='14:27 2-4-DAL 26SL 0 DAL 17 LI: 0.329-D.Murray left tackle to SL 33 for 41 yards(23-R.McLeod).'>30.55</number><number>0.04</number>
+<number shadow='shadow1' tooltip='13:38 1-10-SL 33SL 0 DAL 17 LI: 0.5(Shotgun) 25-L.Dunbar right tackle to SL 28 for 5 yards(52-A.Ogletree).'>31.37</number><number>0.04</number>
+<number shadow='shadow1' tooltip='13:00 2-5-SL 28SL 0 DAL 17 LI: 0.5(Shotgun) 9-T.Romo pass short right to 88-D.Bryant to SL 17 for 11 yards(22-T.Johnson).'>32</number><number>0.03</number>
+<number shadow='shadow1' tooltip='12:34 1-10-SL 17SL 0 DAL 17 LI: 0.529-D.Murray right tackle pushed ob at SL 5 for 12 yards(25-T.McDonald)PENALTY on DAL-64-B.Waters Offensive Holding 10 yards enforced at SL 17 - No Play.'>32.43</number><number>0.04</number>
+<number shadow='shadow1' tooltip='12:16 1-20-SL 27SL 0 DAL 17 LI: 0.529-D.Murray left end to SL 24 for 3 yards(52-A.Ogletree).'>32.73</number><number>0.04</number>
+<number shadow='shadow1' tooltip='11:44 2-17-SL 24SL 0 DAL 17 LI: 0.4(Shotgun) 9-T.Romo pass deep right to 89-G.Escobar for 24 yards TOUCHDOWNPass complete on a "seam" route.'>33.27</number><number>0.04</number>
+<number shadow='shadow1' tooltip='11:44 SL 0 DAL 17 LI: 5-D.Bailey extra point is GOOD Center-91-L.Ladouceur Holder-6-C.Jones.'>33.31</number><number>0.04</number>
+<number shadow='shadow1' tooltip='11:44 SL 0 DAL 24 LI: 5-D.Bailey kicks 65 yards from DAL 35 to end zone TouchbackBall was kicked out of the end zone.'>33.36</number><number>0.04</number>
+<number shadow='shadow1' tooltip='11:25 1-10-SL 35SL 0 DAL 24 LI: 0.19-T.Romo pass incomplete short right to 19-M.AustinPass incomplete off play action.'>33.58</number><number>0.02</number>
+<number shadow='shadow1' tooltip='11:17 2-10-SL 35SL 0 DAL 24 LI: 0.2(Shotgun) 9-T.Romo pass incomplete deep right to 19-M.Austin.'>33.72</number><number>0.02</number>
+<number shadow='shadow1' tooltip='11:10 2-10-SL 35SL 0 DAL 24 LI: 0.2(Shotgun) 9-T.Romo pass short middle to 88-D.Bryant to SL 19 for 16 yards(23-R.McLeod)Pass complete on a "slant" route.'>33.83</number><number>0.02</number>
+<number shadow='shadow1' tooltip='10:28 1-10-SL 19SL 0 DAL 24 LI: 0.129-D.Murray right tackle to SL 17 for 2 yards(94-R.Quinn).'>34.53</number><number>0.03</number>
+<number shadow='shadow1' tooltip='9:51 2-8-SL 17SL 0 DAL 24 LI: 0.19-T.Romo pass incomplete deep middle to 82-J.WittenPass incomplete on "seam" route; Laurinaitis closest defender.'>35.15</number><number>0.03</number>
+<number shadow='shadow1' tooltip='9:45 3-8-SL 17SL 0 DAL 24 LI: 0.1(Shotgun) 9-T.Romo pass incomplete short right to 88-D.Bryant.'>35.25</number><number>0.03</number>
+<number shadow='shadow1' tooltip='9:40 4-8-SL 17SL 0 DAL 24 LI: 0.1(Field Goal formation) 5-D.Bailey 35 yard field goal is No Good Wide Right Center-91-L.Ladouceur Holder-6-C.Jones.'>35.33</number><number>0.03</number>
+<number shadow='shadow1' tooltip='9:35 1-10-SL 25SL 0 DAL 24 LI: 0.18-S.Bradford pass deep middle to 13-C.Givens to DAL 46 for 29 yards(50-S.Lee; 27-J.Wilcox) [97-J.Hatcher]Pass complete after avoiding heavy pressure.'>35.42</number><number>0.04</number>
+<number shadow='shadow1' tooltip='8:57 1-10-DAL 46SL 0 DAL 24 LI: 0.124-I.Pead left guard to DAL 35 for 11 yards(50-S.Lee).'>36.05</number><number>0.04</number>
+<number shadow='shadow1' tooltip='8:19 1-10-DAL 35SL 0 DAL 24 LI: 0.1(Shotgun) 8-S.Bradford sacked at DAL 38 for -3 yards(94-D.Ware).'>36.68</number><number>0.04</number>
+<number shadow='shadow1' tooltip='7:36 2-13-DAL 38SL 0 DAL 24 LI: 0.1(Shotgun) 8-S.Bradford pass short right to 11-T.Austin to DAL 37 for 1 yard(27-J.Wilcox; 50-S.Lee).'>37.4</number><number>0.04</number>
+<number shadow='shadow1' tooltip='6:59 3-12-DAL 37SL 0 DAL 24 LI: 0.1(Shotgun) 8-S.Bradford pass short middle to 83-B.Quick to DAL 30 for 7 yards(24-M.Claiborne).'>38.02</number><number>0.03</number>
+<number shadow='shadow1' tooltip='6:22 4-5-DAL 30SL 0 DAL 24 LI: 0.1(Shotgun) 8-S.Bradford pass deep right intended for 89-J.Cook INTERCEPTED by 27-J.Wilcox at DAL 727-J.Wilcox to DAL 30 for 23 yards(11-T.Austin)PENALTY on DAL-97-J.Hatcher Roughing the Passer 15 yards enforced at DAL 30 - No PlayPenalty on DAL-42-B.Church Illegal Block Above the Waist declined.'>38.63</number><number>0.04</number>
+<number shadow='shadow1' tooltip='6:06 1-10-DAL 15SL 0 DAL 24 LI: 0.124-I.Pead up the middle to DAL 12 for 3 yards(99-G.Selvie).'>38.9</number><number>0.04</number>
+<number shadow='shadow1' tooltip='5:30 2-7-DAL 12SL 0 DAL 24 LI: 0.1(Shotgun) 8-S.Bradford pass short right to 24-I.Pead to DAL 6 for 6 yards(54-B.Carter)Pass complete on a "curl" route.'>39.5</number><number>0.04</number>
+<number shadow='shadow1' tooltip='4:49 3-1-DAL 6SL 0 DAL 24 LI: 0.18-S.Bradford pass incomplete short middle to 13-C.GivensPass incomplete on a quick "slant" pattern.'>40.18</number><number>0.03</number>
+<number shadow='shadow1' tooltip='4:44 4-1-DAL 6SL 0 DAL 24 LI: 0.124-I.Pead up the middle to DAL 5 for 1 yard(52-J.Durant).'>40.27</number><number>0.04</number>
+<number shadow='shadow1' tooltip='4:15 1-5-DAL 5SL 0 DAL 24 LI: 0.124-I.Pead up the middle to DAL 4 for 1 yard(27-J.Wilcox).'>40.75</number><number>0.03</number>
+<number shadow='shadow1' tooltip='3:34 2-4-DAL 4SL 0 DAL 24 LI: 0.1(Shotgun) 8-S.Bradford pass incomplete short right to 83-B.Quick (42-B.Church) [97-J.Hatcher]Pass was knocked away 7 yards deep in the end zone.'>41.43</number><number>0.03</number>
+<number shadow='shadow1' tooltip='3:29 3-4-DAL 4SL 0 DAL 24 LI: 0.1(Shotgun) 8-S.Bradford pass incomplete short left to 83-B.QuickPass thrown left back corner of the end zone; Claiborne closest defender.'>41.52</number><number>0.02</number>
+<number shadow='shadow1' tooltip='3:25 4-4-DAL 4SL 0 DAL 24 LI: 0.1(Shotgun) 8-S.Bradford pass short middle to 18-A.Pettis for 4 yards TOUCHDOWNPass caught 2 yards deep end zone on a quick slant.'>41.58</number><number>0.03</number>
+<number shadow='shadow1' tooltip='3:25 SL 0 DAL 24 LI: 4-G.Zuerlein extra point is GOOD Center-44-J.McQuaide Holder-6-J.Hekker.'>41.62</number><number>0.03</number>
+<number shadow='shadow1' tooltip='3:25 SL 7 DAL 24 LI: 4-G.Zuerlein kicks 65 yards from SL 35 to end zone TouchbackBall was kicked out of the end zone.'>41.67</number><number>0.02</number>
+<number shadow='shadow1' tooltip='2:47 1-10-DAL 33SL 7 DAL 24 LI: 0.329-D.Murray left tackle to DAL 41 for 8 yards(25-T.McDonald)Injury update: Miles Austin has a hamstring injuryHis return is questionable.'>42.22</number><number>0.02</number>
+<number shadow='shadow1' tooltip='2:06 2-2-DAL 41SL 7 DAL 24 LI: 0.329-D.Murray up the middle to DAL 45 for 4 yards(25-T.McDonald).'>42.9</number><number>0.02</number>
+<number shadow='shadow1' tooltip='1:21 1-10-DAL 45SL 7 DAL 24 LI: 0.2(Shotgun) 29-D.Murray right guard to DAL 46 for 1 yard(55-J.Laurinaitis).'>43.65</number><number>0.02</number>
+<number shadow='shadow1' tooltip='0:40 2-9-DAL 46SL 7 DAL 24 LI: 0.229-D.Murray right end pushed ob at DAL 49 for 3 yards(52-A.Ogletree)SL-98-K.Langford was injured during the playHis return is Questionable.'>44.33</number><number>0.02</number>
+<number shadow='shadow1' tooltip='15:00 3-6-DAL 49SL 7 DAL 24 LI: 0.2(Shotgun) 9-T.Romo pass incomplete short right to 88-D.BryantPass incomplete on "slant" pattern; Johnson closest defender.'>45</number><number>0.02</number>
+<number shadow='shadow1' tooltip='14:55 4-6-DAL 49SL 7 DAL 24 LI: 0.2(Punt formation) 6-C.Jones punts 51 yards to end zone Center-91-L.Ladouceur Touchback.'>45.08</number><number>0.03</number>
+<number shadow='shadow1' tooltip='14:46 1-10-SL 20SL 7 DAL 24 LI: 0.1(Shotgun) 8-S.Bradford pass short middle to 89-J.Cook to SL 39 for 19 yards(50-S.Lee)Pass complete on a "slant" pattern.'>45.23</number><number>0.03</number>
+<number shadow='shadow1' tooltip='14:15 1-10-SL 39SL 7 DAL 24 LI: 0.18-S.Bradford pass incomplete short right to 36-B.CunninghamPass thrown on a check off in the flat; Carter closest defender; heavy pressure by Ware.'>45.75</number><number>0.03</number>
+<number shadow='shadow1' tooltip='14:09 2-10-SL 39SL 7 DAL 24 LI: 0.1(Shotgun) 8-S.Bradford pass incomplete short middle to 83-B.QuickPass incomplete on a "skinny post."'>45.85</number><number>0.02</number>
+<number shadow='shadow1' tooltip='14:06 3-10-SL 39SL 7 DAL 24 LI: 0.1(Shotgun) 8-S.Bradford pass short right to 89-J.Cook pushed ob at SL 45 for 6 yards(54-B.Carter).'>45.9</number><number>0.01</number>
+<number shadow='shadow1' tooltip='13:25 4-4-SL 45SL 7 DAL 24 LI: 0.1(Shotgun) 8-S.Bradford pass incomplete short left to 13-C.GivensPass incomplete on a "go" route at the Dallas 40; Claiborne closest defender.'>46.58</number><number>0.02</number>
+<number shadow='shadow1' tooltip='13:19 1-10-SL 45SL 7 DAL 24 LI: 0.129-D.Murray left tackle to SL 47 for -2 yards(25-T.McDonald).'>46.68</number><number>0.02</number>
+<number shadow='shadow1' tooltip='12:40 2-12-SL 47SL 7 DAL 24 LI: 0.19-T.Romo pass deep left to 82-J.Witten ran ob at SL 24 for 23 yards(23-R.McLeod)Pass complete on a "drag" route.'>47.33</number><number>0.01</number>
+<number shadow='shadow1' tooltip='12:02 1-10-SL 24SL 7 DAL 24 LI: 0.1(Shotgun) 9-T.Romo pass deep right to 17-D.Harris for 24 yards TOUCHDOWNPass complete on a "seam" route.'>47.97</number><number>0.01</number>
+<number shadow='shadow1' tooltip='12:02 SL 7 DAL 24 LI: 5-D.Bailey extra point is GOOD Center-91-L.Ladouceur Holder-6-C.Jones.'>48.01</number><number>0.01</number>
+<number shadow='shadow1' tooltip='12:02 SL 7 DAL 31 LI: 5-D.Bailey kicks 65 yards from DAL 35 to end zone TouchbackBall hit the crossbar of the goal post.'>48.06</number><number>0.01</number>
+<number shadow='shadow1' tooltip='11:55 1-10-SL 20SL 7 DAL 31 LI: 0.1(Shotgun) 8-S.Bradford pass short right to 24-I.Pead to SL 22 for 2 yards(42-B.Church).'>48.08</number><number>0.01</number>
+<number shadow='shadow1' tooltip='11:25 2-8-SL 22SL 7 DAL 31 LI: 0.1(No Huddle Shotgun) 8-S.Bradford pass short right to 11-T.Austin to SL 31 for 9 yards(54-B.Carter).'>48.58</number><number>0.01</number>
+<number shadow='shadow1' tooltip='11:05 1-10-SL 31SL 7 DAL 31 LI: 0.1(No Huddle Shotgun) 8-S.Bradford pass short right to 18-A.Pettis to SL 47 for 16 yards(42-B.Church).'>48.92</number><number>0.02</number>
+<number shadow='shadow1' tooltip='10:38 1-10-SL 47SL 7 DAL 31 LI: 0.1(No Huddle Shotgun) 8-S.Bradford pass short right to 24-I.Pead to DAL 46 for 7 yards(39-B.Carr).'>49.37</number><number>0.02</number>
+<number shadow='shadow1' tooltip='10:10 2-3-DAL 46SL 7 DAL 31 LI: 0.1(No Huddle Shotgun) 8-S.Bradford pass short middle to 11-T.Austin to DAL 38 for 8 yards(50-S.Lee).'>49.83</number><number>0.02</number>
+<number shadow='shadow1' tooltip='9:46 1-10-DAL 38SL 7 DAL 31 LI: 0.1(No Huddle Shotgun) 24-I.Pead left guard to DAL 38 for no gain (55-E.Jones 94-D.Ware).'>50.23</number><number>0.02</number>
+<number shadow='shadow1' tooltip='9:22 2-10-DAL 38SL 7 DAL 31 LI: 0.1(No Huddle Shotgun) 8-S.Bradford pass incomplete short middle to 13-C.GivensPass incomplete on a "post" pattern; Claiborne closest defender.'>50.63</number><number>0.01</number>
+<number shadow='shadow1' tooltip='9:17 3-10-DAL 38SL 7 DAL 31 LI: 0.1(Shotgun) 8-S.Bradford pass incomplete short left to 13-C.GivensPENALTY on DAL-24-M.Claiborne Defensive Pass Interference 17 yards enforced at DAL 38 - No Play.'>50.72</number><number>0.02</number>
+<number shadow='shadow1' tooltip='9:12 1-10-DAL 21SL 7 DAL 31 LI: 0.1(Shotgun) 8-S.Bradford pass incomplete short middle to 11-T.AustinPass incomplete on a"drag" route.'>50.8</number><number>0.02</number>
+<number shadow='shadow1' tooltip='9:09 2-10-DAL 21SL 7 DAL 31 LI: 0.1(Shotgun) 8-S.Bradford sacked at DAL 31 for -10 yards(51-K.Wilber).'>50.85</number><number>0.01</number>
+<number shadow='shadow1' tooltip='8:32 3-20-DAL 31SL 7 DAL 31 LI: 0.1(Shotgun) 8-S.Bradford pass incomplete deep right to 13-C.GivensPass incomplete on a "deep button hook." Carr closest defender.'>51.47</number><number>0.01</number>
+<number shadow='shadow1' tooltip='8:25 4-20-DAL 31SL 7 DAL 31 LI: 0.1(Shotgun) 8-S.Bradford pass incomplete short middle to 89-J.CookPass incomplete on a "seam" route.'>51.58</number><number>0.01</number>
+<number shadow='shadow1' tooltip='8:20 1-10-DAL 31SL 7 DAL 31 LI: 0.134-P.Tanner left tackle to DAL 35 for 4 yards(90-M.Brockers).'>51.67</number><number>0.01</number>
+<number shadow='shadow1' tooltip='6:47 3-5-DAL 36SL 7 DAL 31 LI: 0.1(Shotgun) 25-L.Dunbar right end to DAL 44 for 8 yards(52-A.Ogletree).'>53.22</number><number>0.01</number>
+<number shadow='shadow1' tooltip='5:58 1-10-DAL 44SL 7 DAL 31 LI: 0.134-P.Tanner left end to DAL 38 for -6 yards(94-R.Quinn).'>54.03</number><number>0.01</number>
+<number shadow='shadow1' tooltip='5:14 2-16-DAL 38SL 7 DAL 31 LI: 0.125-L.Dunbar right tackle to DAL 41 for 3 yards(23-R.McLeod).'>54.77</number><number>0.01</number>
+<number shadow='shadow1' tooltip='4:27 3-13-DAL 41SL 7 DAL 31 LI: 0.125-L.Dunbar up the middle to DAL 43 for 2 yards(90-M.Brockers).'>55.55</number><number>0.01</number>
+<number shadow='shadow1' tooltip='4:21 4-11-DAL 43SL 7 DAL 31 LI: 0.1(Punt formation) 6-C.Jones punts 55 yards to SL 2 Center-91-L.Ladouceur11-T.Austin pushed ob at SL 12 for 10 yards(51-K.Wilber)PENALTY on SL-32-B.McGee Illegal Blindside Block 6 yards enforced at SL 12.'>55.65</number><number>0.01</number>
+<number shadow='shadow1' tooltip='4:08 1-10-SL 6SL 7 DAL 31 LI: 0.136-B.Cunningham up the middle to SL 11 for 5 yards(55-E.Jones).'>55.87</number><number>0.01</number>
+<number shadow='shadow1' tooltip='3:46 2-5-SL 11SL 7 DAL 31 LI: 0.1(Shotgun) 8-S.Bradford pass short middle to 89-J.Cook to SL 17 for 6 yards(57-D.Holloman).'>56.23</number><number>0.01</number>
+<number shadow='shadow1' tooltip='3:27 1-10-SL 17SL 7 DAL 31 LI: 0.1(No Huddle Shotgun) 8-S.Bradford pass short middle to 36-B.Cunningham to SL 23 for 6 yards(52-J.Durant).'>56.55</number><number>0.01</number>
+<number shadow='shadow1' tooltip='3:07 2-4-SL 23SL 7 DAL 31 LI: 0.1(No Huddle Shotgun) 8-S.Bradford pass short right to 89-J.Cook to SL 27 for 4 yards(32-O.Scandrick).'>56.88</number><number>0.01</number>
+<number shadow='shadow1' tooltip='2:35 1-10-SL 27SL 7 DAL 31 LI: 0.1(No Huddle Shotgun) 8-S.Bradford pass short middle to 88-L.Kendricks to SL 32 for 5 yards(57-D.Holloman).'>57.42</number><number>0.01</number>
+<number shadow='shadow1' tooltip='2:14 2-5-SL 32SL 7 DAL 31 LI: 0.1(No Huddle Shotgun) 8-S.Bradford pass short right to 88-L.Kendricks to DAL 50 for 18 yards(38-J.Heath; 20-B.Webb).'>57.77</number><number>0.01</number>
+<number shadow='shadow1' tooltip='2:00 1-10-DAL 50SL 7 DAL 31 LI: 0.1(Shotgun) 8-S.Bradford pass incomplete short leftPass thrown sideline under heavy pressure.'>58</number><number>0.01</number>
+<number shadow='shadow1' tooltip='1:54 2-10-DAL 50SL 7 DAL 31 LI: 0.1(Shotgun) 8-S.Bradford pass short right to 24-I.Pead ran ob at DAL 46 for 4 yards(38-J.Heath).'>58.1</number><number>0.01</number>
+<number shadow='shadow1' tooltip='1:48 3-6-DAL 46SL 7 DAL 31 LI: 0.1(Shotgun) 8-S.Bradford pass incomplete deep middle to 13-C.GivensPENALTY on DAL-32-O.Scandrick Defensive Holding 5 yards enforced at DAL 46 - No Play.'>58.2</number><number>0.01</number>
+<number shadow='shadow1' tooltip='1:43 1-10-DAL 41SL 7 DAL 31 LI: 0.1(Shotgun) 8-S.Bradford pass short right to 24-I.Pead to DAL 39 for 2 yards(52-J.Durant).'>58.28</number><number>0.01</number>
+<number shadow='shadow1' tooltip='1:15 2-8-DAL 39SL 7 DAL 31 LI: 0.1(Shotgun) 8-S.Bradford pass short right to 88-L.Kendricks pushed ob at DAL 36 for 3 yards(38-J.Heath).'>58.75</number><number>0.01</number>
+<number shadow='shadow1' tooltip='1:10 3-5-DAL 36SL 7 DAL 31 LI: 0.1(Shotgun) 8-S.Bradford pass incomplete deep left to 13-C.Givens (24-M.Claiborne)Pass incomplete on a "fly" pattern in the left corner of the end zone.'>58.83</number><number>0.01</number>
+<number shadow='shadow1' tooltip='1:03 4-5-DAL 36SL 7 DAL 31 LI: 0.1(Shotgun) 8-S.Bradford pass short right to 88-L.Kendricks to DAL 30 for 6 yards(32-O.Scandrick).'>58.95</number><number>0.01</number>
+<number shadow='shadow1' tooltip='0:39 1-10-DAL 30SL 7 DAL 31 LI: 0.1(No Huddle Shotgun) 8-S.Bradford pass short middle to 88-L.Kendricks to DAL 26 for 4 yards(57-D.Holloman).'>59.35</number><number>0.01</number>
+<number shadow='shadow1' tooltip='0:11 2-6-DAL 26SL 7 DAL 31 LI: 0.18-S.Bradford pass incomplete deep right to 18-A.PettisPass incomplete out of the end zone.'>59.82</number><number>0.01</number>
+<number shadow='shadow1' tooltip='0:06 3-6-DAL 26SL 7 DAL 31 LI: 0.1(Shotgun) 36-B.Cunningham up the middle to DAL 17 for 9 yards(52-J.Durant).'>59.9</number><number>0</number>
+<number>60</number><number>0</number>
+</row> </chart_data>
+       <draw>
+
+
+
+      <image x='45' y='298'  url='nfllogos/42x50png/SL.gif'  layer='foreground' glow = 'glow1'/>
+      <image x='45' y='350'  url='nfllogos/42x50png/DAL.gif'     layer='foreground' glow = 'glow1'/>
+
+
+      <rect x='130' y='300' width='250' height='40' fill_color='003159' bevel='bevel1' />
+      <text x='135' y='300' width='250' height='40' h_align='left' v_align='middle' color='ffffff' shadow='shadow2' glow=''>St. Louis Rams</text>
+
+      <rect x='130' y='350' width='250' height='40' fill_color='c0c0c0' bevel='bevel1'  />
+      <text x='135' y='350' width='250' height='40' h_align='left' v_align='middle' color='ffffff' shadow='shadow2' glow='winnerglow'>Dallas Cowboys</text>
+
+      <rect x='420' y='300' width='60' height='40' fill_color='003159' bevel='bevel1'  />
+      <text x='420' y='300' width='60' height='40' h_align='center' v_align='middle' color='ffffff' shadow='shadow2' transition='none' glow=''>7</text>
+
+      <rect x='420' y='350' width='60' height='40' fill_color='c0c0c0' bevel='bevel1' />
+      <text x='420' y='350' width='60' height='40' h_align='center' v_align='middle' color='ffffff' shadow='shadow2' transition='none' glow='winnerglow'>31</text>
+
+      <text x='-3' y='12'  width='60' height='40' h_align='center' v_align='middle' size='13' shadow='shadow2'>SLWin </text>
+      <text x='-3' y='218' width='60' height='40' h_align='center' v_align='middle' size='13' shadow='shadow2'>DALWin </text>
+
+     
+              <rect x='540' y='300' width='100' height='35' fill_color='000000' fill_alpha='50'/>
+              <text x='540' y='300' width='100' height='35' h_align='center' v_align='middle' color='ffffff' size='15' shadow='shadow2' >Final</text>
+
+              <text x='540' y='340' width='40' h_align='center' color='000000' size='12' shadow='shadow2'>CBF</text>
+              <text x='600' y='340' width='40' h_align='center' color='000000' size='12' shadow='shadow2'>EI</text>
+
+              <rect x='540' y='360' width='40' height='30' fill_color='000000' fill_alpha='50' />
+              <text x='540' y='360' width='40' height='30' size='12' h_align='center' v_align='middle' color='FFFFFF' shadow='shadow2'>3</text>
+
+              <rect x='600' y='360' width='40' height='30' fill_color='000000' fill_alpha='50' />
+              <text x='600' y='360' width='40' height='30' size='12' h_align='center' v_align='middle' color='FFFFFF' shadow='shadow2'>1.6</text>
+
+              <text x='20' y='420' width='70' height='25' size='12' h_align='left' v_align='middle' color='000000' >9/22/2013</text>
+              <text x='100' y='420' width='200' height='25' size='12' h_align='left' v_align='middle' color='000000' >AT&T Stadium</text>
+
+   </draw></chart>

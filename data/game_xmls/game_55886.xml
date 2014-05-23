@@ -1,0 +1,328 @@
+
+<chart>
+   <license>ETAS9P33ESHO.945CWK-2XOI1X0-7L</license>
+   <chart_type>scatter</chart_type>
+   <chart_pref trend_thickness='0' line_thickness='3' point_size='0'/>
+
+   <series_color>
+      <color>ffff00</color>
+   </series_color>
+
+   <chart_rect x='45' y='20' width='630' height='230' positive_color='cacaca'  />
+
+  <chart_border top_thickness='0'
+                 bottom_thickness='0'
+                 left_thickness='0'
+                 right_thickness='0'
+                 color='000000'
+                 />
+
+   <tooltip font='Arial' bold='true' size='11' />
+
+   <chart_note type='flag'
+               color='000000'
+               alpha='90'
+               bold='FALSE'
+               size='10'
+               background_color='ffffe0'
+               background_alpha='50'
+               shadow='shadow2'
+               />
+
+   <chart_grid_h thickness='2' color='ffffff' type='dashed'  />
+   <chart_grid_v thickness='2' color='ffffff'   />
+		>
+
+   <legend layout='hide' />
+
+   <chart_guide horizontal='TRUE'
+             vertical='TRUE'
+             thickness='1'
+             color='006400'
+             alpha='100'
+             type='solid'
+             snap_h='TRUE'
+             snap_v='TRUE'
+             radius='3'
+             fill_color='006400'
+             fill_alpha='100'
+             line_color='006400'
+             line_alpha='80'
+             line_thickness='1'
+             text_h_alpha='50'
+             text_v_alpha='00'
+             suffix_h=' WP'
+             decimals='2'
+             bold='FALSE'
+             size='11'
+             text_color='FFFFFF'
+             background_color='006400'
+             />
+   <filter>
+      <shadow id='shadow1' distance='2' angle='60' blurX='5' blurY='5' alpha='50' />
+      <bevel id='bevel1' angle='45' blurX='5' blurY='5' distance='0' />
+      <glow id='glow1' color='ffffff' alpha='0' blurX='7' blurY='7' strength='6' quality='2' inner='FALSE' knockout='FALSE' />
+      <glow id='winnerglow' color='ffffff' alpha='0' blurX='7' blurY='7' strength='5' quality='2' inner='FALSE' knockout='FALSE' />
+   </filter>
+
+    <axis_value_label>
+         <string></string>
+          <string> </string>
+          <null/>
+          <string> </string>
+          <string></string>
+
+       </axis_value_label>
+		
+	   <axis_ticks category_ticks='false'/>
+
+       <axis_value min='0' max='1' steps='4'  decimals='2' show_min='true' size='13' shadow='shadow2' />     
+            <axis_category
+               min='0'
+               max='60'
+               steps='4'
+               mode='all'
+               decimals='0'
+               size='13'
+               shadow='shadow2'
+               />
+
+       <axis_category_label>
+          <string>Kickoff</string>
+          <string></string>
+          <string>Halftime</string>
+          <string></string>
+          <string>End</string>
+
+       </axis_category_label>
+
+
+        <chart_data>
+       <row>
+	      <null/><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number>
+              <number>x</number><number>y</number>
+              </row><row><string></string>
+
+                     <number shadow='shadow1'>0</number><number>.5</number><number shadow='shadow1' tooltip='15:00 BLT 0 BUF 0 LI: 2-D.Carpenter kicks 66 yards from BUF 35 to BLT -183-D.Thompson to BLT 17 for 18 yards(81-M.Easley).'>0.09</number><number>0.51</number>
+<number shadow='shadow1' tooltip='14:34 1-19-BLT 8BLT 0 BUF 0 LI: 1.8PENALTY on BLT-27-R.Rice False Start 4 yards enforced at BLT 8 - No Play.'>0.43</number><number>0.5</number>
+<number shadow='shadow1' tooltip='14:15 1-23-BLT 4BLT 0 BUF 0 LI: 1.827-R.Rice left guard to BLT 9 for 5 yards(26-J.Rogers 50-K.Alonso).'>0.75</number><number>0.46</number>
+<number shadow='shadow1' tooltip='13:40 2-18-BLT 9BLT 0 BUF 0 LI: 1.3(Shotgun) 5-J.Flacco pass short left to 14-M.Brown to BLT 14 for 5 yards(52-A.Moats 26-J.Rogers)Slant pass caught at BLT 13.'>1.33</number><number>0.46</number>
+<number shadow='shadow1' tooltip='13:07 3-13-BLT 14BLT 0 BUF 0 LI: 1.3(Shotgun) 5-J.Flacco pass short left to 14-M.Brown to BLT 28 for 14 yards(26-J.Rogers)Caught near sideline at BLT 27.'>1.88</number><number>0.53</number>
+<number shadow='shadow1' tooltip='12:27 1-10-BLT 28BLT 0 BUF 0 LI: 1.55-J.Flacco pass short left to 44-V.Leach pushed ob at BLT 30 for 2 yards(91-M.Lawson)Flat pass caught at BLT 25.'>2.55</number><number>0.51</number>
+<number shadow='shadow1' tooltip='12:01 2-8-BLT 30BLT 0 BUF 0 LI: 1.3(No Huddle) 30-B.Pierce up the middle to BLT 33 for 3 yards(99-M.Dareus 50-K.Alonso).'>2.98</number><number>0.51</number>
+<number shadow='shadow1' tooltip='11:24 3-5-BLT 33BLT 0 BUF 0 LI: 1.2(Shotgun) PENALTY on BLT-73-M.Yanda False Start 5 yards enforced at BLT 33 - No Play.'>3.6</number><number>0.49</number>
+<number shadow='shadow1' tooltip='11:09 3-10-BLT 28BLT 0 BUF 0 LI: 1.1(Shotgun) 5-J.Flacco pass incomplete short right to 17-T.DossThrown wide of receiver along sideline at BLT 35.'>3.85</number><number>0.46</number>
+<number shadow='shadow1' tooltip='11:04 4-10-BLT 28BLT 0 BUF 0 LI: 0.84-S.Koch punts 53 yards to BUF 19 Center-46-M.Cox35-J.Leonhard pushed ob at BUF 27 for 8 yards(50-A.McClellan).'>3.93</number><number>0.47</number>
+<number shadow='shadow1' tooltip='10:54 1-10-BUF 27BLT 0 BUF 0 LI: 1.528-C.Spiller up the middle to BUF 37 for 10 yards(32-J.Ihedigbo).'>4.1</number><number>0.45</number>
+<number shadow='shadow1' tooltip='10:27 1-10-BUF 37BLT 0 BUF 0 LI: 1.5(No Huddle) 28-C.Spiller left end pushed ob at BUF 42 for 5 yards(22-J.Smith).'>4.55</number><number>0.46</number>
+<number shadow='shadow1' tooltip='10:21 2-5-BUF 42BLT 0 BUF 0 LI: 1.328-C.Spiller left guard to BUF 45 for 3 yards(56-J.Bynes 55-T.Suggs).'>4.65</number><number>0.47</number>
+<number shadow='shadow1' tooltip='9:48 3-2-BUF 45BLT 0 BUF 0 LI: 1.1(Shotgun) 3-E.Manuel pass short left to 84-S.Chandler pushed ob at BLT 41 for 14 yards(51-D.Smith)Slant pass caught at BUF 49.'>5.2</number><number>0.41</number>
+<number shadow='shadow1' tooltip='9:22 1-10-BLT 41BLT 0 BUF 0 LI: 1.43-E.Manuel pass incomplete short middle to 13-S.JohnsonThrown behind receiver at BLT 32 slanting from right.'>5.63</number><number>0.43</number>
+<number shadow='shadow1' tooltip='9:18 2-10-BLT 41BLT 0 BUF 0 LI: 1.222-F.Jackson right guard to BLT 40 for 1 yard(32-J.Ihedigbo; 55-T.Suggs).'>5.7</number><number>0.45</number>
+<number shadow='shadow1' tooltip='8:36 3-9-BLT 40BLT 0 BUF 0 LI: 1(Shotgun) 3-E.Manuel pass short middle to 11-T.Graham to BLT 14 for 26 yards(29-M.Huff)Caught at BLT 35 crossing from right.'>6.4</number><number>0.33</number>
+<number shadow='shadow1' tooltip='7:51 1-10-BLT 14BLT 0 BUF 0 LI: 1.728-C.Spiller up the middle to BLT 8 for 6 yards(51-D.Smith).'>7.15</number><number>0.32</number>
+<number shadow='shadow1' tooltip='7:21 2-4-BLT 8BLT 0 BUF 0 LI: 1.828-C.Spiller right guard to BLT 7 for 1 yard(58-E.Dumervil 32-J.Ihedigbo).'>7.65</number><number>0.34</number>
+<number shadow='shadow1' tooltip='6:49 3-3-BLT 7BLT 0 BUF 0 LI: 1.63-E.Manuel sacked at BLT 9 for -2 yards(55-T.Suggs).'>8.18</number><number>0.42</number>
+<number shadow='shadow1' tooltip='6:15 4-5-BLT 9BLT 0 BUF 0 LI: 0.82-D.Carpenter 27 yard field goal is GOOD Center-65-G.Sanborn Holder-6-S.Powell.'>8.75</number><number>0.42</number>
+<number shadow='shadow1' tooltip='6:15 BLT 0 BUF 3 LI: 2-D.Carpenter kicks 65 yards from BUF 35 to end zone TouchbackKick through end zone.'>8.84</number><number>0.4</number>
+<number shadow='shadow1' tooltip='5:43 2-7-BLT 23BLT 0 BUF 3 LI: 1.3(No Huddle) 5-J.Flacco pass incomplete short right to 83-D.ThompsonThrown away under pressure by N.BradhamReceiver along sideline at BLT 35.'>9.28</number><number>0.39</number>
+<number shadow='shadow1' tooltip='5:37 3-7-BLT 23BLT 0 BUF 3 LI: 1.1(Shotgun) 5-J.Flacco pass short right intended for 17-T.Doss INTERCEPTED by 23-A.Williams at BLT 3123-A.Williams to BLT 25 for 6 yards(14-M.Brown).'>9.38</number><number>0.28</number>
+<number shadow='shadow1' tooltip='5:29 1-10-BLT 25BLT 0 BUF 3 LI: 1.328-C.Spiller left tackle to BLT 23 for 2 yards(55-T.Suggs 96-M.Spears).'>9.52</number><number>0.28</number>
+<number shadow='shadow1' tooltip='4:55 2-8-BLT 23BLT 0 BUF 3 LI: 1.33-E.Manuel pass incomplete short left to 13-S.Johnson (22-J.Smith)Receiver and coverage in flat at BLT 17PENALTY on BLT-22-J.Smith Defensive Pass Interference 6 yards enforced at BLT 23 - No Play.'>10.08</number><number>0.27</number>
+<number shadow='shadow1' tooltip='4:50 1-10-BLT 17BLT 0 BUF 3 LI: 1.228-C.Spiller up the middle to BLT 12 for 5 yards(56-J.Bynes 51-D.Smith).'>10.17</number><number>0.23</number>
+<number shadow='shadow1' tooltip='4:19 2-5-BLT 12BLT 0 BUF 3 LI: 1.528-C.Spiller left guard to BLT 14 for -2 yards(97-A.Jones).'>10.68</number><number>0.27</number>
+<number shadow='shadow1' tooltip='3:47 3-7-BLT 14BLT 0 BUF 3 LI: 1.2(Shotgun) 3-E.Manuel scrambles left tackle to BLT 9 for 5 yards(26-M.Elam).'>11.22</number><number>0.32</number>
+<number shadow='shadow1' tooltip='3:07 4-2-BLT 9BLT 0 BUF 3 LI: 0.62-D.Carpenter 27 yard field goal is GOOD Center-65-G.Sanborn Holder-6-S.Powell.'>11.88</number><number>0.33</number>
+<number shadow='shadow1' tooltip='3:07 BLT 0 BUF 6 LI: 2-D.Carpenter kicks 65 yards from BUF 35 to end zone TouchbackKick through end zone.'>11.97</number><number>0.32</number>
+<number shadow='shadow1' tooltip='2:22 2-9-BLT 21BLT 0 BUF 6 LI: 1.5(Shotgun) 30-B.Pierce right guard to BLT 23 for 2 yards(90-A.Branch 99-M.Dareus).'>12.63</number><number>0.3</number>
+<number shadow='shadow1' tooltip='1:40 3-7-BLT 23BLT 0 BUF 6 LI: 1.3(Shotgun) 5-J.Flacco pass short left to 17-T.Doss to BLT 26 for 3 yards(26-J.Rogers)Slant pass caught at BLT 21.'>13.33</number><number>0.28</number>
+<number shadow='shadow1' tooltip='1:05 4-4-BLT 26BLT 0 BUF 6 LI: 14-S.Koch punts 44 yards to BUF 30 Center-46-M.Cox fair catch by 35-J.Leonhard.'>13.92</number><number>0.29</number>
+<number shadow='shadow1' tooltip='0:58 1-10-BUF 30BLT 0 BUF 6 LI: 1.13-E.Manuel pass deep middle to 10-R.Woods to BUF 49 for 19 yards(21-L.Webb)Caught at BUF 47 crossing from right.'>14.03</number><number>0.25</number>
+<number shadow='shadow1' tooltip='0:25 1-10-BUF 49BLT 0 BUF 6 LI: 1.1(No Huddle) 3-E.Manuel pass short left to 22-F.Jackson to BLT 48 for 3 yards(56-J.Bynes)PENALTY on BUF-77-C.Glenn Unnecessary Roughness 15 yards enforced at BUF 49 - No Play.'>14.58</number><number>0.28</number>
+<number shadow='shadow1' tooltip='0:08 1-25-BUF 34BLT 0 BUF 6 LI: 1.13-E.Manuel pass short left to 10-R.Woods to BUF 45 for 11 yards(22-J.Smith 55-T.Suggs) [32-J.Ihedigbo]Caught at BUF 44 slanting from middle.'>14.87</number><number>0.27</number>
+<number shadow='shadow1' tooltip='15:00 2-14-BUF 45BLT 0 BUF 6 LI: 13-E.Manuel sacked at BUF 36 for -9 yards(99-C.Canty)FUMBLES (99-C.Canty) RECOVERED by BLT-98-B.Williams at BUF 2798-B.Williams to BUF 27 for no gain (85-L.Smith).'>15</number><number>0.4</number>
+<number shadow='shadow1' tooltip='14:49 1-10-BUF 27BLT 0 BUF 6 LI: 1(Shotgun) 5-J.Flacco pass incomplete deep right to 14-M.BrownOverthrown receiver along sideline at BUF 10.'>15.18</number><number>0.42</number>
+<number shadow='shadow1' tooltip='14:43 2-10-BUF 27BLT 0 BUF 6 LI: 1.35-J.Flacco pass short right to 87-D.Clark to BUF 10 for 17 yards(91-M.Lawson 26-J.Rogers)Caught along sideline at BUF 15.'>15.28</number><number>0.48</number>
+<number shadow='shadow1' tooltip='14:00 1-10-BUF 10BLT 0 BUF 6 LI: 1.55-J.Flacco pass short middle to 14-M.Brown for 10 yards TOUCHDOWNCaught 5 ydsinto end zone slanting from right.'>16</number><number>0.52</number>
+<number shadow='shadow1' tooltip='14:00 BLT 0 BUF 6 LI: 9-J.Tucker extra point is GOOD Center-46-M.Cox Holder-4-S.Koch.'>16.04</number><number>0.52</number>
+<number shadow='shadow1' tooltip='14:00 BLT 7 BUF 6 LI: 9-J.Tucker kicks 65 yards from BLT 35 to end zone TouchbackKick through end zone.'>16.09</number><number>0.54</number>
+<number shadow='shadow1' tooltip='13:18 1-10-BUF 34BLT 7 BUF 6 LI: 1.2(Shotgun) 3-E.Manuel left tackle to BUF 39 for 5 yards(32-J.Ihedigbo).'>16.7</number><number>0.5</number>
+<number shadow='shadow1' tooltip='12:51 2-5-BUF 39BLT 7 BUF 6 LI: 1.2(No Huddle) 28-C.Spiller left tackle to BUF 43 for 4 yards(90-P.McPhee 51-D.Smith).'>17.15</number><number>0.5</number>
+<number shadow='shadow1' tooltip='12:21 3-1-BUF 43BLT 7 BUF 6 LI: 1.1(No Huddle) 28-C.Spiller up the middle to BUF 43 for no gain (96-M.Spears 90-P.McPhee).'>17.65</number><number>0.54</number>
+<number shadow='shadow1' tooltip='11:37 4-1-BUF 43BLT 7 BUF 6 LI: 0.76-S.Powell punts 38 yards to BLT 19 Center-65-G.Sanborn17-T.Doss to BLT 18 for -1 yards(81-M.Easley 53-N.Bradham).'>18.38</number><number>0.53</number>
+<number shadow='shadow1' tooltip='11:27 1-10-BLT 18BLT 7 BUF 6 LI: 1.35-J.Flacco pass incomplete deep middle to 82-T.Smith (23-A.Williams) [90-A.Branch]BUF-23-A.Williams was injured during the play Receiver and coverage at BUF 39.'>18.55</number><number>0.53</number>
+<number shadow='shadow1' tooltip='11:20 2-10-BLT 18BLT 7 BUF 6 LI: 1.35-J.Flacco pass short right to 83-D.Thompson pushed ob at BLT 26 for 8 yards(26-J.Rogers)Caught near sideline at BLT 26.'>18.67</number><number>0.54</number>
+<number shadow='shadow1' tooltip='10:55 3-2-BLT 26BLT 7 BUF 6 LI: 1.2(Shotgun) 5-J.Flacco pass incomplete short right to 87-D.Clark (25-D.Searcy)Receiver and coverage along sideline at BLT 36.'>19.08</number><number>0.51</number>
+<number shadow='shadow1' tooltip='10:51 4-2-BLT 26BLT 7 BUF 6 LI: 0.94-S.Koch punts 53 yards to BUF 21 Center-46-M.Cox35-J.Leonhard to BUF 30 for 9 yards(29-M.Huff).'>19.15</number><number>0.52</number>
+<number shadow='shadow1' tooltip='10:39 1-10-BUF 30BLT 7 BUF 6 LI: 1.228-C.Spiller right guard to BUF 36 for 6 yards(26-M.Elam).'>19.35</number><number>0.51</number>
+<number shadow='shadow1' tooltip='10:12 2-4-BUF 36BLT 7 BUF 6 LI: 1.128-C.Spiller up the middle to BUF 44 for 8 yards(32-J.Ihedigbo 56-J.Bynes).'>19.8</number><number>0.49</number>
+<number shadow='shadow1' tooltip='9:44 1-10-BUF 44BLT 7 BUF 6 LI: 1.222-F.Jackson left tackle to BLT 48 for 8 yards(22-J.Smith)FUMBLES (22-J.Smith) and recovers at BLT 4822-F.Jackson to BLT 48 for no gain (26-M.Elam).'>20.27</number><number>0.48</number>
+<number shadow='shadow1' tooltip='9:14 2-2-BLT 48BLT 7 BUF 6 LI: 1.122-F.Jackson up the middle to BLT 42 for 6 yards(56-J.Bynes 51-D.Smith).'>20.77</number><number>0.46</number>
+<number shadow='shadow1' tooltip='8:45 1-10-BLT 42BLT 7 BUF 6 LI: 1.23-E.Manuel pass deep middle to 10-R.Woods for 42 yards TOUCHDOWNCaught at BLT 2.'>21.25</number><number>0.32</number>
+<number shadow='shadow1' tooltip='8:45 BLT 7 BUF 6 LI: 2-D.Carpenter extra point is GOOD Center-65-G.Sanborn Holder-6-S.Powell.'>21.29</number><number>0.32</number>
+<number shadow='shadow1' tooltip='8:45 BLT 7 BUF 13 LI: 2-D.Carpenter kicks 69 yards from BUF 35 to BLT -483-D.Thompson to BLT 30 for 34 yards(29-B.Burton 53-N.Bradham).'>21.34</number><number>0.33</number>
+<number shadow='shadow1' tooltip='8:34 1-10-BLT 30BLT 7 BUF 13 LI: 1.327-R.Rice up the middle to BLT 35 for 5 yards(50-K.Alonso 26-J.Rogers)PENALTY on BLT-74-M.Oher Offensive Holding 10 yards enforced at BLT 30 - No Play.'>21.43</number><number>0.31</number>
+<number shadow='shadow1' tooltip='8:14 1-20-BLT 20BLT 7 BUF 13 LI: 1.25-J.Flacco pass short middle intended for 84-E.Dickson INTERCEPTED by 35-J.Leonhard at BLT 2835-J.Leonhard to BLT 28 for no gain (14-M.Brown)Pass tipped by E.Dickson before INT.'>21.77</number><number>0.2</number>
+<number shadow='shadow1' tooltip='8:05 1-10-BLT 28BLT 7 BUF 13 LI: 1.228-C.Spiller right end to BLT 30 for -2 yards(24-C.Graham).'>21.92</number><number>0.21</number>
+<number shadow='shadow1' tooltip='7:33 2-12-BLT 30BLT 7 BUF 13 LI: 1.13-E.Manuel pass incomplete deep right to 13-S.Johnson [55-T.Suggs]Overthrown receiver along sideline at goal line.'>22.45</number><number>0.23</number>
+<number shadow='shadow1' tooltip='7:27 3-12-BLT 30BLT 7 BUF 13 LI: 0.9(Shotgun) 3-E.Manuel pass short right to 84-S.Chandler to BLT 16 for 14 yards(26-M.Elam 29-M.Huff)Caught at BLT 18 crossing from middle.'>22.55</number><number>0.18</number>
+<number shadow='shadow1' tooltip='6:57 1-10-BLT 16BLT 7 BUF 13 LI: 1.222-F.Jackson up the middle for 16 yards TOUCHDOWNKey block: F.Summers.'>23.05</number><number>0.13</number>
+<number shadow='shadow1' tooltip='6:57 BLT 7 BUF 13 LI: 2-D.Carpenter extra point is GOOD Center-65-G.Sanborn Holder-6-S.Powell.'>23.09</number><number>0.13</number>
+<number shadow='shadow1' tooltip='6:57 BLT 7 BUF 20 LI: 2-D.Carpenter kicks 74 yards from BUF 35 to BLT -983-D.Thompson TouchbackD.Thompson stepped out of end zone.'>23.14</number><number>0.12</number>
+<number shadow='shadow1' tooltip='6:19 2-9-BLT 21BLT 7 BUF 20 LI: 0.55-J.Flacco pass incomplete deep middle to 14-M.Brown (26-J.Rogers)Receiver and coverage at BLT 38.'>23.68</number><number>0.11</number>
+<number shadow='shadow1' tooltip='6:13 3-9-BLT 21BLT 7 BUF 20 LI: 0.4(Shotgun) 5-J.Flacco pass incomplete deep middle to 87-D.Clark [27-D.Williams]Overthrown receiver at BLT 40.'>23.78</number><number>0.1</number>
+<number shadow='shadow1' tooltip='6:10 4-9-BLT 21BLT 7 BUF 20 LI: 0.34-S.Koch punts 51 yards to BUF 28 Center-46-M.Cox35-J.Leonhard to BUF 39 for 11 yards(41-A.Levine 56-J.Bynes).'>23.83</number><number>0.1</number>
+<number shadow='shadow1' tooltip='5:58 1-10-BUF 39BLT 7 BUF 20 LI: 0.728-C.Spiller up the middle to BUF 43 for 4 yards(97-A.Jones 99-C.Canty)BUF-60-K.Urbik was injured during the playHis return is Questionable.'>24.03</number><number>0.1</number>
+<number shadow='shadow1' tooltip='5:22 2-6-BUF 43BLT 7 BUF 20 LI: 0.728-C.Spiller left guard to BUF 45 for 2 yards(51-D.Smith 99-C.Canty).'>24.63</number><number>0.1</number>
+<number shadow='shadow1' tooltip='4:48 3-4-BUF 45BLT 7 BUF 20 LI: 0.7(Shotgun) 3-E.Manuel pass incomplete short middle to 13-S.JohnsonOverthrown receiver at 50.'>25.2</number><number>0.12</number>
+<number shadow='shadow1' tooltip='4:45 4-4-BUF 45BLT 7 BUF 20 LI: 0.5(Punt formation) PENALTY on BUF-81-M.Easley False Start 5 yards enforced at BUF 45 - No Play.'>25.25</number><number>0.12</number>
+<number shadow='shadow1' tooltip='4:33 1-10-BLT 11BLT 7 BUF 20 LI: 0.4(Shotgun) 5-J.Flacco pass short middle to 17-T.Doss to BLT 18 for 7 yards(35-J.Leonhard 37-N.Robey)FUMBLES (35-J.Leonhard) RECOVERED by BUF-35-J.Leonhard at BLT 1835-J.Leonhard to BLT 18 for no gain (72-K.Osemele)The Replay Assistant challenged the pass completion ruling and the play was REVERSED(Shotgun) 5-J.Flacco pass incomplete short middle to 17-T.DossReceiver never gained possession of ball.'>25.45</number><number>0.11</number>
+<number shadow='shadow1' tooltip='4:29 2-10-BLT 11BLT 7 BUF 20 LI: 0.427-R.Rice right tackle to BLT 11 for no gain (50-K.Alonso).'>25.52</number><number>0.1</number>
+<number shadow='shadow1' tooltip='3:51 3-10-BLT 11BLT 7 BUF 20 LI: 0.3(Shotgun) 5-J.Flacco sacked at BLT 3 for -8 yards(99-M.Dareus).'>26.15</number><number>0.08</number>
+<number shadow='shadow1' tooltip='3:16 4-18-BLT 3BLT 7 BUF 20 LI: 0.24-S.Koch punts 40 yards to BLT 43 Center-46-M.Cox35-J.Leonhard to BLT 37 for 6 yards(94-J.Simon 84-E.Dickson).'>26.73</number><number>0.07</number>
+<number shadow='shadow1' tooltip='3:04 1-10-BLT 37BLT 7 BUF 20 LI: 0.828-C.Spiller up the middle to BLT 31 for 6 yards(55-T.Suggs 24-C.Graham).'>26.93</number><number>0.07</number>
+<number shadow='shadow1' tooltip='2:34 2-4-BLT 31BLT 7 BUF 20 LI: 0.728-C.Spiller left guard to BLT 28 for 3 yards(55-T.Suggs 58-E.Dumervil).'>27.43</number><number>0.07</number>
+<number shadow='shadow1' tooltip='2:00 3-1-BLT 28BLT 7 BUF 20 LI: 0.622-F.Jackson up the middle to BLT 28 for no gain (55-T.Suggs 97-A.Jones).'>28</number><number>0.11</number>
+<number shadow='shadow1' tooltip='1:24 4-1-BLT 28BLT 7 BUF 20 LI: 0.222-F.Jackson left tackle pushed ob at BLT 15 for 13 yards(22-J.Smith)PENALTY on BUF-70-E.Wood Offensive Holding 10 yards enforced at BLT 28 - No Play.'>28.6</number><number>0.11</number>
+<number shadow='shadow1' tooltip='1:17 4-11-BLT 38BLT 7 BUF 20 LI: 0.3(Punt formation) Penalty on BUF-6-S.Powell Delay of Game declined.'>28.72</number><number>0.11</number>
+<number shadow='shadow1' tooltip='1:10 1-10-BLT 15BLT 7 BUF 20 LI: 0.65-J.Flacco pass short left to 82-T.Smith pushed ob at BLT 38 for 23 yards(35-J.Leonhard)Caught at BLT 17 crossing from middle.'>28.83</number><number>0.14</number>
+<number shadow='shadow1' tooltip='1:01 1-10-BLT 38BLT 7 BUF 20 LI: 0.7(No Huddle Shotgun) 5-J.Flacco pass incomplete short middle to 87-D.ClarkUnderthrown receiver at BLT 40.'>28.98</number><number>0.13</number>
+<number shadow='shadow1' tooltip='0:57 2-10-BLT 38BLT 7 BUF 20 LI: 0.6(Shotgun) 5-J.Flacco pass short right to 14-M.Brown to BLT 43 for 5 yards(26-J.Rogers)Caught at BLT 43 crossing to middle.'>29.05</number><number>0.13</number>
+<number shadow='shadow1' tooltip='0:37 3-5-BLT 43BLT 7 BUF 20 LI: 0.5(No Huddle Shotgun) 5-J.Flacco pass short left to 17-T.Doss to BLT 46 for 3 yards(37-N.Robey 29-B.Burton)Caught in flat at BLT 45.'>29.38</number><number>0.1</number>
+<number shadow='shadow1' tooltip='0:03 4-2-BLT 46BLT 7 BUF 20 LI: 0.2(Shotgun) 5-J.Flacco pass deep right to 17-T.Doss to BUF 30 for 24 yards(37-N.Robey 50-K.Alonso)Caught in flat at BUF 37 slanting to middle.'>29.95</number><number>0.1</number>
+<number shadow='shadow1' tooltip='0:03 BLT 7 BUF 20 LI: 9-J.Tucker kicks 65 yards from BLT 35 to end zone TouchbackKick through end zone.'>30.04</number><number>0.1</number>
+<number shadow='shadow1' tooltip='14:31 2-9-BUF 21BLT 7 BUF 20 LI: 0.928-C.Spiller up the middle to BUF 22 for 1 yard(97-A.Jones 51-D.Smith).'>30.48</number><number>0.12</number>
+<number shadow='shadow1' tooltip='14:02 3-8-BUF 22BLT 7 BUF 20 LI: 0.8(Shotgun) 3-E.Manuel pass short left to 13-S.Johnson to BUF 21 for -1 yards(24-C.Graham 55-T.Suggs)Screen pass caught at BUF 18.'>30.97</number><number>0.14</number>
+<number shadow='shadow1' tooltip='13:22 4-9-BUF 21BLT 7 BUF 20 LI: 0.6(Punt formation) PENALTY on BUF-27-D.Williams False Start 5 yards enforced at BUF 21 - No Play.'>31.63</number><number>0.15</number>
+<number shadow='shadow1' tooltip='13:11 4-14-BUF 16BLT 7 BUF 20 LI: 0.66-S.Powell punts 39 yards to BLT 45 Center-65-G.Sanborn out of bounds.'>31.82</number><number>0.15</number>
+<number shadow='shadow1' tooltip='13:04 1-10-BLT 45BLT 7 BUF 20 LI: 0.7(Shotgun) PENALTY on BLT-84-E.Dickson False Start 5 yards enforced at BLT 45 - No Play.'>31.93</number><number>0.14</number>
+<number shadow='shadow1' tooltip='12:55 2-15-BLT 40BLT 7 BUF 20 LI: 0.6(Shotgun) 5-J.Flacco pass short left to 84-E.Dickson to BLT 44 for 4 yards(25-D.Searcy)Caught near sideline at BLT 44.'>32.08</number><number>0.12</number>
+<number shadow='shadow1' tooltip='12:18 3-11-BLT 44BLT 7 BUF 20 LI: 0.4(No Huddle Shotgun) 5-J.Flacco pass incomplete deep left to 14-M.Brown [55-J.Hughes]Overthrown receiver at BUF 2.'>32.7</number><number>0.1</number>
+<number shadow='shadow1' tooltip='12:06 4-11-BLT 44BLT 7 BUF 20 LI: 0.24-S.Koch punts 44 yards to BUF 12 Center-46-M.Cox fair catch by 35-J.Leonhard.'>32.9</number><number>0.11</number>
+<number shadow='shadow1' tooltip='11:59 1-10-BUF 12BLT 7 BUF 20 LI: 1.228-C.Spiller up the middle to BUF 14 for 2 yards(97-A.Jones 55-T.Suggs).'>33.02</number><number>0.11</number>
+<number shadow='shadow1' tooltip='11:28 2-8-BUF 14BLT 7 BUF 20 LI: 1.23-E.Manuel pass incomplete deep right to 10-R.Woods [55-T.Suggs]Underthrown receiver near sideline at BUF 30.'>33.53</number><number>0.13</number>
+<number shadow='shadow1' tooltip='11:23 3-8-BUF 14BLT 7 BUF 20 LI: 1(Shotgun) 3-E.Manuel pass short middle intended for 13-S.Johnson INTERCEPTED by 51-D.Smith at BUF 1951-D.Smith to BUF 18 for 1 yard(10-R.Woods)Pass tipped by S.Johnson before INT.'>33.62</number><number>0.19</number>
+<number shadow='shadow1' tooltip='11:16 1-10-BUF 18BLT 7 BUF 20 LI: 0.9(Shotgun) 5-J.Flacco pass short left to 30-B.Pierce pushed ob at BUF 16 for 2 yards(91-M.Lawson)Flare pass caught at BUF 19.'>33.73</number><number>0.2</number>
+<number shadow='shadow1' tooltip='11:02 2-8-BUF 16BLT 7 BUF 20 LI: 1(Shotgun) PENALTY on BUF-90-A.Branch Encroachment 5 yards enforced at BUF 16 - No Play.'>33.97</number><number>0.23</number>
+<number shadow='shadow1' tooltip='10:54 2-3-BUF 11BLT 7 BUF 20 LI: 1.3(Shotgun) 5-J.Flacco sacked at BUF 19 for -8 yards(91-M.Lawson).'>34.1</number><number>0.17</number>
+<number shadow='shadow1' tooltip='10:34 3-11-BUF 19BLT 7 BUF 20 LI: 0.8(Shotgun) 5-J.Flacco pass deep right intended for 82-T.Smith INTERCEPTED by 23-A.Williams [55-J.Hughes] at BUF -8TouchbackReceiver and coverage in rear corner of end zone.'>34.43</number><number>0.09</number>
+<number shadow='shadow1' tooltip='10:22 1-10-BUF 20BLT 7 BUF 20 LI: 13-E.Manuel pass short left to 85-L.Smith pushed ob at BUF 48 for 28 yards(22-J.Smith)Caught near sideline at BUF 24.'>34.63</number><number>0.08</number>
+<number shadow='shadow1' tooltip='10:07 1-10-BUF 48BLT 7 BUF 20 LI: 0.728-C.Spiller right tackle to BUF 48 for no gain (97-A.Jones 91-C.Upshaw).'>34.88</number><number>0.07</number>
+<number shadow='shadow1' tooltip='9:34 2-10-BUF 48BLT 7 BUF 20 LI: 0.822-F.Jackson up the middle to BLT 47 for 5 yards(92-H.Ngata 56-J.Bynes).'>35.43</number><number>0.07</number>
+<number shadow='shadow1' tooltip='8:59 3-5-BLT 47BLT 7 BUF 20 LI: 0.73-E.Manuel pass incomplete short left to 13-S.JohnsonThrown behind receiver in flat at BLT 44.'>36.02</number><number>0.09</number>
+<number shadow='shadow1' tooltip='8:57 4-5-BLT 47BLT 7 BUF 20 LI: 0.56-S.Powell punts 47 yards to end zone Center-65-G.Sanborn TouchbackKick into end zone.'>36.05</number><number>0.1</number>
+<number shadow='shadow1' tooltip='8:48 1-10-BLT 20BLT 7 BUF 20 LI: 0.7(Shotgun) 5-J.Flacco pass short middle to 87-D.Clark to BLT 33 for 13 yards(25-D.Searcy)Caught at BLT 29 slanting from right.'>36.2</number><number>0.12</number>
+<number shadow='shadow1' tooltip='8:19 1-10-BLT 33BLT 7 BUF 20 LI: 0.8(No Huddle Shotgun) 5-J.Flacco pass short right to 87-D.Clark to BLT 37 for 4 yards(25-D.Searcy)Caught in flat at BLT 37.'>36.68</number><number>0.1</number>
+<number shadow='shadow1' tooltip='7:49 2-6-BLT 37BLT 7 BUF 20 LI: 0.6(No Huddle Shotgun) 5-J.Flacco pass short right to 82-T.Smith pushed ob at BUF 41 for 22 yards(23-A.Williams)Caught in flat at BLT 40PENALTY on BUF-23-A.Williams Horse Collar Tackle 15 yards enforced at BUF 41.'>37.18</number><number>0.17</number>
+<number shadow='shadow1' tooltip='7:22 1-10-BUF 26BLT 7 BUF 20 LI: 1.1(Shotgun) 5-J.Flacco pass deep right to 82-T.Smith for 26 yards TOUCHDOWN [90-A.Branch]Caught at BUF 8 slanting to middle.'>37.63</number><number>0.25</number>
+<number shadow='shadow1' tooltip='7:22 BLT 7 BUF 20 LI: 9-J.Tucker extra point is GOOD Center-46-M.Cox Holder-4-S.Koch.'>37.67</number><number>0.25</number>
+<number shadow='shadow1' tooltip='7:22 BLT 14 BUF 20 LI: 9-J.Tucker kicks 73 yards from BLT 35 to BUF -881-M.Easley Touchback.'>37.72</number><number>0.26</number>
+<number shadow='shadow1' tooltip='6:59 1-20-BUF 10BLT 14 BUF 20 LI: 23-E.Manuel pass deep right to 84-S.Chandler to BUF 34 for 24 yards(32-J.Ihedigbo)Caught along sideline at BUF 33Baltimore challenged the pass completion ruling and the play was REVERSED3-E.Manuel pass incomplete deep right to 84-S.ChandlerBoth feet of receiver not in bounds along sideline at BUF 33.'>38.02</number><number>0.3</number>
+<number shadow='shadow1' tooltip='6:54 2-20-BUF 10BLT 14 BUF 20 LI: 1.73-E.Manuel pass incomplete deep right to 11-T.Graham (23-Ch.Brown)Thrown behind receiver in coverage at BLT 40.'>38.1</number><number>0.32</number>
+<number shadow='shadow1' tooltip='6:45 3-20-BUF 10BLT 14 BUF 20 LI: 1.5(No Huddle Shotgun) 22-F.Jackson up the middle to BUF 18 for 8 yards(92-H.Ngata 51-D.Smith).'>38.25</number><number>0.31</number>
+<number shadow='shadow1' tooltip='6:07 4-12-BUF 18BLT 14 BUF 20 LI: 16-S.Powell punts 59 yards to BLT 23 Center-65-G.Sanborn17-T.Doss to BLT 33 for 10 yards(81-M.Easley 65-G.Sanborn).'>38.88</number><number>0.28</number>
+<number shadow='shadow1' tooltip='5:55 1-10-BLT 33BLT 14 BUF 20 LI: 1(Shotgun) 5-J.Flacco pass incomplete deep right to 87-D.Clark (25-D.Searcy) [91-M.Lawson]Receiver and coverage along sideline at BLT 49.'>39.08</number><number>0.28</number>
+<number shadow='shadow1' tooltip='5:50 2-10-BLT 33BLT 14 BUF 20 LI: 1(Shotgun) 5-J.Flacco pass short right to 83-D.Thompson to BLT 37 for 4 yards(25-D.Searcy)Screen pass caught at BLT 33.'>39.17</number><number>0.28</number>
+<number shadow='shadow1' tooltip='5:24 3-6-BLT 37BLT 14 BUF 20 LI: 0.9(Shotgun) 5-J.Flacco pass short middle to 17-T.Doss pushed ob at BUF 46 for 17 yards(35-J.Leonhard)Caught at BLT 40 crossing to left.'>39.6</number><number>0.34</number>
+<number shadow='shadow1' tooltip='5:01 1-10-BUF 46BLT 14 BUF 20 LI: 1.3(Shotgun) 5-J.Flacco pass short middle intended for 14-M.Brown INTERCEPTED by 50-K.Alonso at BUF 4650-K.Alonso to BLT 48 for 6 yards(73-M.Yanda).'>39.98</number><number>0.2</number>
+<number shadow='shadow1' tooltip='4:53 1-10-BLT 48BLT 14 BUF 20 LI: 1.2(Shotgun) 22-F.Jackson up the middle to BLT 43 for 5 yards(26-M.Elam 97-A.Jones).'>40.12</number><number>0.19</number>
+<number shadow='shadow1' tooltip='4:23 2-5-BLT 43BLT 14 BUF 20 LI: 1.222-F.Jackson left tackle pushed ob at BLT 38 for 5 yards(58-E.Dumervil).'>40.62</number><number>0.18</number>
+<number shadow='shadow1' tooltip='4:04 1-10-BLT 38BLT 14 BUF 20 LI: 1.1(Shotgun) 20-T.Choice up the middle to BLT 31 for 7 yards(55-T.Suggs).'>40.93</number><number>0.17</number>
+<number shadow='shadow1' tooltip='3:35 2-3-BLT 31BLT 14 BUF 20 LI: 110-R.Woods right end pushed ob at BLT 18 for 13 yards(24-C.Graham)End-around handoff from E.ManuelKey block: S.Chandler.'>41.42</number><number>0.15</number>
+<number shadow='shadow1' tooltip='3:11 1-10-BLT 18BLT 14 BUF 20 LI: 0.922-F.Jackson right tackle pushed ob at BLT 8 for 10 yards(32-J.Ihedigbo).'>41.82</number><number>0.11</number>
+<number shadow='shadow1' tooltip='2:46 1-8-BLT 8BLT 14 BUF 20 LI: 1.13-E.Manuel pass incomplete short right to 85-L.SmithOverthrown receiver fell at goal line.'>42.23</number><number>0.11</number>
+<number shadow='shadow1' tooltip='2:41 2-8-BLT 8BLT 14 BUF 20 LI: 1.1(Shotgun) 22-F.Jackson up the middle to BLT 4 for 4 yards(90-P.McPhee 56-J.Bynes).'>42.32</number><number>0.12</number>
+<number shadow='shadow1' tooltip='2:04 3-4-BLT 4BLT 14 BUF 20 LI: 0.9(Shotgun) 3-E.Manuel pass short right to 10-R.Woods for 4 yards TOUCHDOWNCaught in rear corner of end zoneThe Replay Assistant challenged the pass completion ruling and the play was REVERSED(Shotgun) 3-E.Manuel pass incomplete short right to 10-R.WoodsReceiver bobbled ball in rear corner of end zone.'>42.93</number><number>0.17</number>
+<number shadow='shadow1' tooltip='1:59 4-4-BLT 4BLT 14 BUF 20 LI: 0.42-D.Carpenter 22 yard field goal is GOOD Center-65-G.Sanborn Holder-6-S.Powell.'>43.02</number><number>0.18</number>
+<number shadow='shadow1' tooltip='1:59 BLT 14 BUF 23 LI: 2-D.Carpenter kicks 61 yards from BUF 35 to BLT 483-D.Thompson pushed ob at BLT 25 for 21 yards(53-N.Bradham).'>43.11</number><number>0.18</number>
+<number shadow='shadow1' tooltip='1:50 1-10-BLT 25BLT 14 BUF 23 LI: 1(Shotgun) 5-J.Flacco pass short right to 83-D.Thompson to BLT 30 for 5 yards(26-J.Rogers)Stop route caught at BLT 30.'>43.17</number><number>0.18</number>
+<number shadow='shadow1' tooltip='1:21 2-5-BLT 30BLT 14 BUF 23 LI: 1(No Huddle Shotgun) 5-J.Flacco pass short right to 84-E.Dickson to BLT 38 for 8 yards(25-D.Searcy)Caught in coverage at BLT 38.'>43.65</number><number>0.19</number>
+<number shadow='shadow1' tooltip='0:38 1-10-BLT 38BLT 14 BUF 23 LI: 1(Shotgun) PENALTY on BUF-93-J.Westerman Neutral Zone Infraction 5 yards enforced at BLT 38 - No Play.'>44.37</number><number>0.2</number>
+<number shadow='shadow1' tooltip='0:22 1-5-BLT 43BLT 14 BUF 23 LI: 1(Shotgun) 5-J.Flacco pass incomplete short left to 17-T.Doss [95-K.Williams]Thrown wide of receiver near sideline at BUF 43.'>44.63</number><number>0.18</number>
+<number shadow='shadow1' tooltip='0:17 2-5-BLT 43BLT 14 BUF 23 LI: 0.8(No Huddle Shotgun) 5-J.Flacco pass incomplete deep right to 82-T.Smith (23-A.Williams)Receiver and coverage along sideline at BUF 28.'>44.72</number><number>0.18</number>
+<number shadow='shadow1' tooltip='0:11 3-5-BLT 43BLT 14 BUF 23 LI: 0.8(Shotgun) 5-J.Flacco pass incomplete short middle to 17-T.DossThrough receivers hands at BUF 49 slanting from right.'>44.82</number><number>0.14</number>
+<number shadow='shadow1' tooltip='0:07 4-5-BLT 43BLT 14 BUF 23 LI: 0.44-S.Koch punts 46 yards to BUF 11 Center-46-M.Cox fair catch by 35-J.Leonhard.'>44.88</number><number>0.15</number>
+<number shadow='shadow1' tooltip='15:00 1-10-BUF 11BLT 14 BUF 23 LI: 1.7(Shotgun) 3-E.Manuel right tackle to BUF 23 for 12 yards(24-C.Graham)Rush credited to BUF 14 (spot of foul)PENALTY on BUF-13-S.Johnson Offensive Holding 7 yards enforced at BUF 14.'>45</number><number>0.15</number>
+<number shadow='shadow1' tooltip='14:41 1-14-BUF 7BLT 14 BUF 23 LI: 1.828-C.Spiller up the middle to BUF 17 for 10 yards(24-C.Graham 51-D.Smith).'>45.32</number><number>0.14</number>
+<number shadow='shadow1' tooltip='14:11 2-4-BUF 17BLT 14 BUF 23 LI: 1.422-F.Jackson left tackle to BUF 26 for 9 yards(51-D.Smith 22-J.Smith).'>45.82</number><number>0.12</number>
+<number shadow='shadow1' tooltip='13:38 1-10-BUF 26BLT 14 BUF 23 LI: 1.4PENALTY on BLT-56-J.Bynes Encroachment 5 yards enforced at BUF 26 - No Play.'>46.37</number><number>0.11</number>
+<number shadow='shadow1' tooltip='13:25 1-5-BUF 31BLT 14 BUF 23 LI: 1.320-T.Choice up the middle to BUF 35 for 4 yards(32-J.Ihedigbo).'>46.58</number><number>0.11</number>
+<number shadow='shadow1' tooltip='12:49 2-1-BUF 35BLT 14 BUF 23 LI: 1.2(Shotgun) 20-T.Choice right guard to BUF 35 for no gain (99-C.Canty 56-J.Bynes).'>47.18</number><number>0.1</number>
+<number shadow='shadow1' tooltip='12:13 3-1-BUF 35BLT 14 BUF 23 LI: 1.23-E.Manuel scrambles right end pushed ob at BUF 38 for 3 yards(26-M.Elam).'>47.78</number><number>0.09</number>
+<number shadow='shadow1' tooltip='11:48 1-10-BUF 38BLT 14 BUF 23 LI: 1.3(Shotgun) 28-C.Spiller right tackle to BUF 40 for 2 yards(55-T.Suggs 92-H.Ngata).'>48.2</number><number>0.09</number>
+<number shadow='shadow1' tooltip='11:05 2-8-BUF 40BLT 14 BUF 23 LI: 1.222-F.Jackson right guard to BUF 43 for 3 yards(96-M.Spears 55-T.Suggs).'>48.92</number><number>0.09</number>
+<number shadow='shadow1' tooltip='10:23 3-5-BUF 43BLT 14 BUF 23 LI: 1.1(Shotgun) 3-E.Manuel pass short middle to 10-R.Woods to BLT 49 for 8 yards(23-Ch.Brown)Caught at BUF 45 crossing from right.'>49.62</number><number>0.07</number>
+<number shadow='shadow1' tooltip='9:43 1-10-BLT 49BLT 14 BUF 23 LI: 1.120-T.Choice right tackle to BLT 39 for 10 yards(51-D.Smith)PENALTY on BUF-70-E.Wood Offensive Holding 10 yards enforced at BLT 49 - No Play.'>50.28</number><number>0.07</number>
+<number shadow='shadow1' tooltip='9:14 1-20-BUF 41BLT 14 BUF 23 LI: 1.3(Shotgun) 3-E.Manuel left tackle to BUF 45 for 4 yards(90-P.McPhee).'>50.77</number><number>0.07</number>
+<number shadow='shadow1' tooltip='8:42 2-16-BUF 45BLT 14 BUF 23 LI: 1.33-E.Manuel pass deep middle intended for 10-R.Woods INTERCEPTED by 24-C.Graham [91-C.Upshaw] at BLT 924-C.Graham to BLT 9 for no gain (10-R.Woods)Receiver underthrown.'>51.3</number><number>0.07</number>
+<number shadow='shadow1' tooltip='8:33 1-10-BLT 9BLT 14 BUF 23 LI: 0.4(Shotgun) 5-J.Flacco pass deep middle to 82-T.Smith to BUF 17 for 74 yards(23-A.Williams)Caught at BUF 40.'>51.45</number><number>0.23</number>
+<number shadow='shadow1' tooltip='7:49 1-10-BUF 17BLT 14 BUF 23 LI: 1.65-J.Flacco pass incomplete short right to 44-V.LeachThrown behind receiver at BUF 7.'>52.18</number><number>0.21</number>
+<number shadow='shadow1' tooltip='7:44 2-10-BUF 17BLT 14 BUF 23 LI: 1.4(Shotgun) 5-J.Flacco pass short right to 87-D.Clark pushed ob at BUF 17 for no gain (91-M.Lawson)Out-pattern caught at BUF 19.'>52.27</number><number>0.18</number>
+<number shadow='shadow1' tooltip='7:20 3-10-BUF 17BLT 14 BUF 23 LI: 1.2(No Huddle Shotgun) 5-J.Flacco pass incomplete deep right to 82-T.Smith (29-B.Burton)Receiver and coverage in rear corner of end zone.'>52.67</number><number>0.14</number>
+<number shadow='shadow1' tooltip='7:16 4-10-BUF 17BLT 14 BUF 23 LI: 0.89-J.Tucker 35 yard field goal is GOOD Center-46-M.Cox Holder-4-S.Koch.'>52.73</number><number>0.15</number>
+<number shadow='shadow1' tooltip='7:16 BLT 17 BUF 23 LI: 9-J.Tucker kicks 65 yards from BLT 35 to end zone TouchbackKick through end zone.'>52.82</number><number>0.16</number>
+<number shadow='shadow1' tooltip='6:37 2-9-BUF 21BLT 17 BUF 23 LI: 1.93-E.Manuel pass incomplete deep middle to 10-R.WoodsThrown wide of receiver at BUF 41 crossing from right.'>53.38</number><number>0.2</number>
+<number shadow='shadow1' tooltip='6:31 3-9-BUF 21BLT 17 BUF 23 LI: 1.7(Shotgun) 3-E.Manuel pass short middle to 11-T.Graham to BUF 27 for 6 yards(91-C.Upshaw 51-D.Smith)Caught at BUF 25 crossing to right.'>53.48</number><number>0.23</number>
+<number shadow='shadow1' tooltip='5:49 4-3-BUF 27BLT 17 BUF 23 LI: 1.46-S.Powell punts 29 yards to BLT 44 Center-65-G.Sanborn out of bounds.'>54.18</number><number>0.25</number>
+<number shadow='shadow1' tooltip='5:43 1-10-BLT 44BLT 17 BUF 23 LI: 1.2(Shotgun) 5-J.Flacco pass deep right to 83-D.Thompson to BUF 23 for 33 yards(35-J.Leonhard; 29-B.Burton)Caught near sideline at BUF 23PENALTY on BUF-35-J.Leonhard Personal Foul 12 yards enforced at BUF 23.'>54.28</number><number>0.42</number>
+<number shadow='shadow1' tooltip='5:31 1-10-BUF 11BLT 17 BUF 23 LI: 2.1(Shotgun) 5-J.Flacco sacked at BUF 13 for -2 yards(94-M.Williams).'>54.48</number><number>0.34</number>
+<number shadow='shadow1' tooltip='4:52 2-12-BUF 13BLT 17 BUF 23 LI: 1.2(Shotgun) 27-R.Rice up the middle to BUF 6 for 7 yards(35-J.Leonhard).'>55.13</number><number>0.34</number>
+<number shadow='shadow1' tooltip='4:13 3-5-BUF 6BLT 17 BUF 23 LI: 0.9(Shotgun) 5-J.Flacco pass incomplete short middle to 27-R.Rice (25-D.Searcy)Receiver and coverage 7 ydsinto end zone.'>55.78</number><number>0.19</number>
+<number shadow='shadow1' tooltip='4:08 4-5-BUF 6BLT 17 BUF 23 LI: 0.19-J.Tucker 24 yard field goal is GOOD Center-46-M.Cox Holder-4-S.Koch.'>55.87</number><number>0.17</number>
+<number shadow='shadow1' tooltip='4:08 BLT 20 BUF 23 LI: 9-J.Tucker kicks 65 yards from BLT 35 to end zone TouchbackKick through end zone.'>55.96</number><number>0.2</number>
+<number shadow='shadow1' tooltip='3:22 2-8-BUF 22BLT 20 BUF 23 LI: 2.3(Shotgun) 3-E.Manuel left guard to BUF 22 for no gain (24-C.Graham)FUMBLES (24-C.Graham) recovered by BUF-13-S.Johnson at BUF 1913-S.Johnson to BUF 19 for no gain (24-C.Graham).'>56.63</number><number>0.25</number>
+<number shadow='shadow1' tooltip='2:37 3-11-BUF 19BLT 20 BUF 23 LI: 2.1(Shotgun) 22-F.Jackson right guard to BUF 23 for 4 yards(97-A.Jones 55-T.Suggs).'>57.38</number><number>0.29</number>
+<number shadow='shadow1' tooltip='2:32 4-7-BUF 23BLT 20 BUF 23 LI: 1.66-S.Powell punts 57 yards to BLT 20 Center-65-G.Sanborn17-T.Doss to BLT 37 for 17 yards(81-M.Easley 65-G.Sanborn).'>57.47</number><number>0.28</number>
+<number shadow='shadow1' tooltip='2:20 1-10-BLT 37BLT 20 BUF 23 LI: 2.2(Shotgun) 5-J.Flacco sacked at BLT 29 for -8 yards(99-M.Dareus).'>57.67</number><number>0.12</number>
+<number shadow='shadow1' tooltip='2:00 2-18-BLT 29BLT 20 BUF 23 LI: 1.1(Shotgun) 5-J.Flacco pass incomplete short right to 82-T.SmithOverthrown receiver at BLT 34 slanting from middle.'>58</number><number>0.1</number>
+<number shadow='shadow1' tooltip='1:52 3-18-BLT 29BLT 20 BUF 23 LI: 0.9(Shotgun) 5-J.Flacco pass deep middle to 82-T.Smith to 50 for 21 yards(25-D.Searcy)Caught at 50 slanting from rightThe Replay Assistant challenged the pass completion ruling and the play was Upheld.'>58.13</number><number>0.33</number>
+<number shadow='shadow1' tooltip='1:33 1-10-50BLT 20 BUF 23 LI: 2.8(Shotgun) 27-R.Rice up the middle to BUF 48 for 2 yards(99-M.Dareus).'>58.45</number><number>0.2</number>
+<number shadow='shadow1' tooltip='1:11 2-8-BUF 48BLT 20 BUF 23 LI: 1.7(No Huddle Shotgun) 5-J.Flacco pass incomplete deep left to 82-T.Smith [95-K.Williams]Thrown wide of receiver at BUF 5.'>58.82</number><number>0.15</number>
+<number shadow='shadow1' tooltip='1:04 3-8-BUF 48BLT 20 BUF 23 LI: 1.2(Shotgun) 5-J.Flacco pass short middle intended for 87-D.Clark INTERCEPTED by 50-K.Alonso (25-D.Searcy) at BUF 3650-K.Alonso to BUF 36 for no gain (87-D.Clark)Pass tipped prior to INTThe Replay Assistant challenged the pass completion ruling and the play was Upheld.'>58.93</number><number>0.02</number>
+<number shadow='shadow1' tooltip='0:57 1-10-BUF 36BLT 20 BUF 23 LI: 3.43-E.Manuel kneels to BUF 34 for -2 yards.'>59.05</number><number>0.04</number>
+<number shadow='shadow1' tooltip='0:54 2-12-BUF 34BLT 20 BUF 23 LI: 3.33-E.Manuel kneels to BUF 30 for -4 yards.'>59.1</number><number>0.08</number>
+<number shadow='shadow1' tooltip='0:51 3-16-BUF 30BLT 20 BUF 23 LI: 33-E.Manuel kneels to BUF 24 for -6 yards(55-T.Suggs)PENALTY on BLT-91-C.Upshaw Unnecessary Roughness 15 yards enforced at BUF 24.'>59.15</number><number>0.01</number>
+<number shadow='shadow1' tooltip='0:45 1-10-BUF 39BLT 20 BUF 23 LI: 3.23-E.Manuel kneels to BUF 37 for -2 yards.'>59.25</number><number>0.02</number>
+<number shadow='shadow1' tooltip='0:24 2-12-BUF 37BLT 20 BUF 23 LI: 2.73-E.Manuel kneels to BUF 35 for -2 yards.'>59.6</number><number>0</number>
+<number>60</number><number>0</number>
+</row> </chart_data>
+       <draw>
+
+
+
+      <image x='45' y='298'  url='nfllogos/42x50png/BLT.gif'  layer='foreground' glow = 'glow1'/>
+      <image x='45' y='350'  url='nfllogos/42x50png/BUF.gif'     layer='foreground' glow = 'glow1'/>
+
+
+      <rect x='130' y='300' width='250' height='40' fill_color='023273' bevel='bevel1' />
+      <text x='135' y='300' width='250' height='40' h_align='left' v_align='middle' color='ffffff' shadow='shadow2' glow=''>Baltimore Ravens</text>
+
+      <rect x='130' y='350' width='250' height='40' fill_color='004b86' bevel='bevel1'  />
+      <text x='135' y='350' width='250' height='40' h_align='left' v_align='middle' color='ffffff' shadow='shadow2' glow='winnerglow'>Buffalo Bills</text>
+
+      <rect x='420' y='300' width='60' height='40' fill_color='023273' bevel='bevel1'  />
+      <text x='420' y='300' width='60' height='40' h_align='center' v_align='middle' color='ffffff' shadow='shadow2' transition='none' glow=''>20</text>
+
+      <rect x='420' y='350' width='60' height='40' fill_color='004b86' bevel='bevel1' />
+      <text x='420' y='350' width='60' height='40' h_align='center' v_align='middle' color='ffffff' shadow='shadow2' transition='none' glow='winnerglow'>23</text>
+
+      <text x='-3' y='12'  width='60' height='40' h_align='center' v_align='middle' size='13' shadow='shadow2'>BLTWin </text>
+      <text x='-3' y='218' width='60' height='40' h_align='center' v_align='middle' size='13' shadow='shadow2'>BUFWin </text>
+
+     
+              <rect x='540' y='300' width='100' height='35' fill_color='000000' fill_alpha='50'/>
+              <text x='540' y='300' width='100' height='35' h_align='center' v_align='middle' color='ffffff' size='15' shadow='shadow2' >Final</text>
+
+              <text x='540' y='340' width='40' h_align='center' color='000000' size='12' shadow='shadow2'>CBF</text>
+              <text x='600' y='340' width='40' h_align='center' color='000000' size='12' shadow='shadow2'>EI</text>
+
+              <rect x='540' y='360' width='40' height='30' fill_color='000000' fill_alpha='50' />
+              <text x='540' y='360' width='40' height='30' size='12' h_align='center' v_align='middle' color='FFFFFF' shadow='shadow2'>2</text>
+
+              <rect x='600' y='360' width='40' height='30' fill_color='000000' fill_alpha='50' />
+              <text x='600' y='360' width='40' height='30' size='12' h_align='center' v_align='middle' color='FFFFFF' shadow='shadow2'>5.1</text>
+
+              <text x='20' y='420' width='70' height='25' size='12' h_align='left' v_align='middle' color='000000' >9/29/2013</text>
+              <text x='100' y='420' width='200' height='25' size='12' h_align='left' v_align='middle' color='000000' >Ralph Wilson Stadium</text>
+
+   </draw></chart>

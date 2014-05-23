@@ -1,0 +1,301 @@
+
+<chart>
+   <license>ETAS9P33ESHO.945CWK-2XOI1X0-7L</license>
+   <chart_type>scatter</chart_type>
+   <chart_pref trend_thickness='0' line_thickness='3' point_size='0'/>
+
+   <series_color>
+      <color>ffff00</color>
+   </series_color>
+
+   <chart_rect x='45' y='20' width='630' height='230' positive_color='cacaca'  />
+
+  <chart_border top_thickness='0'
+                 bottom_thickness='0'
+                 left_thickness='0'
+                 right_thickness='0'
+                 color='000000'
+                 />
+
+   <tooltip font='Arial' bold='true' size='11' />
+
+   <chart_note type='flag'
+               color='000000'
+               alpha='90'
+               bold='FALSE'
+               size='10'
+               background_color='ffffe0'
+               background_alpha='50'
+               shadow='shadow2'
+               />
+
+   <chart_grid_h thickness='2' color='ffffff' type='dashed'  />
+   <chart_grid_v thickness='2' color='ffffff'   />
+		>
+
+   <legend layout='hide' />
+
+   <chart_guide horizontal='TRUE'
+             vertical='TRUE'
+             thickness='1'
+             color='006400'
+             alpha='100'
+             type='solid'
+             snap_h='TRUE'
+             snap_v='TRUE'
+             radius='3'
+             fill_color='006400'
+             fill_alpha='100'
+             line_color='006400'
+             line_alpha='80'
+             line_thickness='1'
+             text_h_alpha='50'
+             text_v_alpha='00'
+             suffix_h=' WP'
+             decimals='2'
+             bold='FALSE'
+             size='11'
+             text_color='FFFFFF'
+             background_color='006400'
+             />
+   <filter>
+      <shadow id='shadow1' distance='2' angle='60' blurX='5' blurY='5' alpha='50' />
+      <bevel id='bevel1' angle='45' blurX='5' blurY='5' distance='0' />
+      <glow id='glow1' color='ffffff' alpha='0' blurX='7' blurY='7' strength='6' quality='2' inner='FALSE' knockout='FALSE' />
+      <glow id='winnerglow' color='ffffff' alpha='0' blurX='7' blurY='7' strength='5' quality='2' inner='FALSE' knockout='FALSE' />
+   </filter>
+
+    <axis_value_label>
+         <string></string>
+          <string> </string>
+          <null/>
+          <string> </string>
+          <string></string>
+
+       </axis_value_label>
+		
+	   <axis_ticks category_ticks='false'/>
+
+       <axis_value min='0' max='1' steps='4'  decimals='2' show_min='true' size='13' shadow='shadow2' />     
+            <axis_category
+               min='0'
+               max='60'
+               steps='4'
+               mode='all'
+               decimals='0'
+               size='13'
+               shadow='shadow2'
+               />
+
+       <axis_category_label>
+          <string>Kickoff</string>
+          <string></string>
+          <string>Halftime</string>
+          <string></string>
+          <string>End</string>
+
+       </axis_category_label>
+
+
+        <chart_data>
+       <row>
+	      <null/><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number>
+              <number>x</number><number>y</number>
+              </row><row><string></string>
+
+                     <number shadow='shadow1'>0</number><number>.5</number><number shadow='shadow1' tooltip='15:00 ATL 0 GB 0 LI: 2-M.Crosby kicks 60 yards from GB 35 to ATL 532-J.Rodgers to ATL 23 for 18 yards(54-V.Aiyewa).'>0.09</number><number>0.52</number>
+<number shadow='shadow1' tooltip='14:23 2-8-ATL 25ATL 0 GB 0 LI: 1.439-S.Jackson left guard to ATL 28 for 3 yards(50-A.Hawk; 59-B.Jones).'>0.62</number><number>0.5</number>
+<number shadow='shadow1' tooltip='13:42 3-5-ATL 28ATL 0 GB 0 LI: 1.2(Shotgun) 2-M.Ryan pass short middle to 84-R.White to ATL 34 for 6 yards(33-M.Hyde).'>1.3</number><number>0.54</number>
+<number shadow='shadow1' tooltip='13:05 1-10-ATL 34ATL 0 GB 0 LI: 1.539-S.Jackson right end to ATL 38 for 4 yards(38-T.Williams).'>1.92</number><number>0.53</number>
+<number shadow='shadow1' tooltip='12:27 2-6-ATL 38ATL 0 GB 0 LI: 1.32-M.Ryan pass short right to 84-R.White to ATL 45 for 7 yards(38-T.Williams).'>2.55</number><number>0.56</number>
+<number shadow='shadow1' tooltip='11:49 1-10-ATL 45ATL 0 GB 0 LI: 1.432-J.Rodgers left tackle to 50 for 5 yards(93-J.Boyd).'>3.18</number><number>0.56</number>
+<number shadow='shadow1' tooltip='11:11 2-5-50ATL 0 GB 0 LI: 1.32-M.Ryan pass short right to 84-R.White to GB 43 for 7 yards(42-M.Burnett).'>3.82</number><number>0.58</number>
+<number shadow='shadow1' tooltip='10:34 1-10-GB 43ATL 0 GB 0 LI: 1.332-J.Rodgers up the middle to GB 41 for 2 yards(42-M.Burnett).'>4.43</number><number>0.57</number>
+<number shadow='shadow1' tooltip='10:00 2-8-GB 41ATL 0 GB 0 LI: 1.239-S.Jackson left tackle to GB 35 for 6 yards(59-B.Jones).'>5</number><number>0.58</number>
+<number shadow='shadow1' tooltip='9:22 3-2-GB 35ATL 0 GB 0 LI: 1.22-M.Ryan pass incomplete deep left to 13-D.Johnson.'>5.63</number><number>0.52</number>
+<number shadow='shadow1' tooltip='9:15 4-2-GB 35ATL 0 GB 0 LI: 0.65-M.Bosher punts 25 yards to GB 10 Center-47-J.Harris fair catch by 33-M.Hyde.'>5.75</number><number>0.5</number>
+<number shadow='shadow1' tooltip='9:07 1-10-GB 10ATL 0 GB 0 LI: 1.7(Shotgun) 27-E.Lacy left guard to GB 12 for 2 yards(94-P.Jerry).'>5.88</number><number>0.51</number>
+<number shadow='shadow1' tooltip='8:37 2-8-GB 12ATL 0 GB 0 LI: 1.6(No Huddle) 10-M.Flynn left end to GB 15 for 3 yards(55-P.Worrilow).'>6.38</number><number>0.52</number>
+<number shadow='shadow1' tooltip='7:58 3-5-GB 15ATL 0 GB 0 LI: 1.3(No Huddle Shotgun) 10-M.Flynn pass short left to 81-A.Quarless pushed ob at GB 30 for 15 yards(25-W.Moore).'>7.03</number><number>0.46</number>
+<number shadow='shadow1' tooltip='7:38 1-10-GB 30ATL 0 GB 0 LI: 1.6(No Huddle Shotgun) 27-E.Lacy left guard to GB 34 for 4 yards(55-P.Worrilow; 28-T.DeCoud).'>7.37</number><number>0.47</number>
+<number shadow='shadow1' tooltip='7:11 2-6-GB 34ATL 0 GB 0 LI: 1.4(No Huddle Shotgun) 27-E.Lacy left end to GB 45 for 11 yards(28-T.DeCoud 55-P.Worrilow).'>7.82</number><number>0.44</number>
+<number shadow='shadow1' tooltip='6:39 1-10-GB 45ATL 0 GB 0 LI: 1.4(No Huddle Shotgun) 27-E.Lacy up the middle to GB 49 for 4 yards(27-R.McClain).'>8.35</number><number>0.45</number>
+<number shadow='shadow1' tooltip='6:05 2-6-GB 49ATL 0 GB 0 LI: 1.2(No Huddle) 10-M.Flynn sacked at GB 46 for -3 yards(sack split by 96-J.Massaquoi and 55-P.Worrilow).'>8.92</number><number>0.48</number>
+<number shadow='shadow1' tooltip='5:28 3-9-GB 46ATL 0 GB 0 LI: 1(No Huddle Shotgun) 10-M.Flynn left end to 50 for 4 yards(56-S.Weatherspoon; 96-J.Massaquoi).'>9.53</number><number>0.42</number>
+<number shadow='shadow1' tooltip='5:04 1-10-ATL 45ATL 0 GB 0 LI: 1.4(No Huddle) 44-J.Starks right end to ATL 43 for 2 yards(94-P.Jerry).'>9.93</number><number>0.43</number>
+<number shadow='shadow1' tooltip='4:33 2-8-ATL 43ATL 0 GB 0 LI: 1.2(No Huddle Shotgun) 10-M.Flynn pass short right to 82-R.Taylor to ATL 36 for 7 yards(56-S.Weatherspoon).'>10.45</number><number>0.41</number>
+<number shadow='shadow1' tooltip='3:53 3-1-ATL 36ATL 0 GB 0 LI: 1.344-J.Starks left tackle to ATL 31 for 5 yards(55-P.Worrilow).'>11.12</number><number>0.39</number>
+<number shadow='shadow1' tooltip='3:26 1-10-ATL 31ATL 0 GB 0 LI: 1.5(No Huddle) 27-E.Lacy left tackle to ATL 27 for 4 yards(25-W.Moore 98-C.Matthews).'>11.57</number><number>0.39</number>
+<number shadow='shadow1' tooltip='2:57 2-6-ATL 27ATL 0 GB 0 LI: 1.4(No Huddle Shotgun) 10-M.Flynn pass incomplete short middle to 81-A.Quarless.'>12.05</number><number>0.41</number>
+<number shadow='shadow1' tooltip='2:52 3-6-ATL 27ATL 0 GB 0 LI: 1.2(No Huddle Shotgun) 10-M.Flynn pass short right to 89-J.Jones pushed ob at ATL 19 for 8 yards(27-R.McClain).'>12.13</number><number>0.36</number>
+<number shadow='shadow1' tooltip='2:03 1-15-ATL 24ATL 0 GB 0 LI: 1.5(Shotgun) 10-M.Flynn pass short middle to 27-E.Lacy to ATL 8 for 16 yards(59-J.Bartu).'>12.95</number><number>0.33</number>
+<number shadow='shadow1' tooltip='1:22 1-8-ATL 8ATL 0 GB 0 LI: 1.727-E.Lacy right guard to ATL 7 for 1 yard(91-C.Peters).'>13.63</number><number>0.33</number>
+<number shadow='shadow1' tooltip='0:42 2-7-ATL 7ATL 0 GB 0 LI: 1.7(Shotgun) 10-M.Flynn pass short middle to 27-E.Lacy to ATL 1 for 6 yards(93-M.Goodman; 95-J.Babineaux).'>14.3</number><number>0.32</number>
+<number shadow='shadow1' tooltip='0:01 3-1-ATL 1ATL 0 GB 0 LI: 1.827-E.Lacy right guard for 1 yard TOUCHDOWNATL-28-T.DeCoud was injured during the play.'>14.98</number><number>0.26</number>
+<number shadow='shadow1' tooltip='0:01 ATL 0 GB 0 LI: 2-M.Crosby extra point is GOOD Center-61-B.Goode Holder-8-T.Masthay.'>15.02</number><number>0.26</number>
+<number shadow='shadow1' tooltip='0:01 ATL 0 GB 7 LI: 2-M.Crosby kicks 61 yards from GB 35 to ATL 432-J.Rodgers to ATL 22 for 18 yards(43-M.Jennings).'>15.07</number><number>0.28</number>
+<number shadow='shadow1' tooltip='14:54 1-10-ATL 22ATL 0 GB 7 LI: 1.439-S.Jackson left end to ATL 44 for 22 yards(38-T.Williams 42-M.Burnett).'>15.1</number><number>0.32</number>
+<number shadow='shadow1' tooltip='14:16 1-10-ATL 44ATL 0 GB 7 LI: 1.339-S.Jackson right tackle to ATL 46 for 2 yards(97-J.Jolly 90-B.Raji).'>15.73</number><number>0.31</number>
+<number shadow='shadow1' tooltip='13:40 2-8-ATL 46ATL 0 GB 7 LI: 1.12-M.Ryan pass short middle to 42-P.DiMarco to GB 47 for 7 yards(42-M.Burnett).'>16.33</number><number>0.32</number>
+<number shadow='shadow1' tooltip='12:58 3-1-GB 47ATL 0 GB 7 LI: 1.1(Shotgun) 39-S.Jackson right end to GB 43 for 4 yards(59-B.Jones).'>17.03</number><number>0.33</number>
+<number shadow='shadow1' tooltip='12:22 1-10-GB 43ATL 0 GB 7 LI: 1.1(Shotgun) 2-M.Ryan pass short middle to 84-R.White to GB 35 for 8 yards(38-T.Williams).'>17.63</number><number>0.34</number>
+<number shadow='shadow1' tooltip='11:51 2-2-GB 35ATL 0 GB 7 LI: 132-J.Rodgers left guard to GB 36 for -1 yards(76-M.Daniels 52-C.Matthews).'>18.15</number><number>0.32</number>
+<number shadow='shadow1' tooltip='11:10 3-3-GB 36ATL 0 GB 7 LI: 0.8(Shotgun) 2-M.Ryan pass short middle to 19-Dr.Davis for 36 yards TOUCHDOWN.'>18.83</number><number>0.47</number>
+<number shadow='shadow1' tooltip='11:10 ATL 0 GB 7 LI: 3-M.Bryant extra point is GOOD Center-47-J.Harris Holder-5-M.Bosher.'>18.87</number><number>0.47</number>
+<number shadow='shadow1' tooltip='11:10 ATL 7 GB 7 LI: 5-M.Bosher kicks 57 yards from ATL 35 to GB 833-M.Hyde to GB 23 for 15 yards(96-J.Massaquoi).'>18.92</number><number>0.48</number>
+<number shadow='shadow1' tooltip='10:55 1-10-GB 23ATL 7 GB 7 LI: 1.410-M.Flynn sacked at GB 15 for -8 yards(25-W.Moore)FUMBLES (25-W.Moore) RECOVERED by ATL-93-M.Goodman at GB 1393-M.Goodman to GB 13 for no gain (70-T.Lang).'>19.08</number><number>0.68</number>
+<number shadow='shadow1' tooltip='10:49 1-10-GB 13ATL 7 GB 7 LI: 1.839-S.Jackson up the middle to GB 14 for -1 yards(50-A.Hawk).'>19.18</number><number>0.65</number>
+<number shadow='shadow1' tooltip='10:11 2-11-GB 14ATL 7 GB 7 LI: 1.5(Shotgun) 2-M.Ryan pass short middle to 44-J.Snelling to GB 12 for 2 yards(97-J.Jolly; 43-M.Jennings).'>19.82</number><number>0.64</number>
+<number shadow='shadow1' tooltip='9:25 3-9-GB 12ATL 7 GB 7 LI: 1.4(Shotgun) 2-M.Ryan pass short left to 84-R.White to GB 2 for 10 yards(37-S.Shields).'>20.58</number><number>0.69</number>
+<number shadow='shadow1' tooltip='8:48 1-2-GB 2ATL 7 GB 7 LI: 1.92-M.Ryan pass short right to 88-T.Gonzalez for 2 yards TOUCHDOWN.'>21.2</number><number>0.72</number>
+<number shadow='shadow1' tooltip='8:48 ATL 7 GB 7 LI: 3-M.Bryant extra point is GOOD Center-47-J.Harris Holder-5-M.Bosher.'>21.24</number><number>0.72</number>
+<number shadow='shadow1' tooltip='8:48 ATL 14 GB 7 LI: 5-M.Bosher kicks 57 yards from ATL 35 to GB 833-M.Hyde to GB 38 for 30 yards(96-J.Massaquoi).'>21.29</number><number>0.7</number>
+<number shadow='shadow1' tooltip='8:36 1-10-GB 38ATL 14 GB 7 LI: 1.1(Shotgun) 10-M.Flynn pass short left to 89-J.Jones to GB 36 for -2 yards(21-D.Trufant).'>21.4</number><number>0.72</number>
+<number shadow='shadow1' tooltip='8:07 2-12-GB 36ATL 14 GB 7 LI: 1(No Huddle Shotgun) 10-M.Flynn pass short left to 89-J.Jones to GB 44 for 8 yards(21-D.Trufant).'>21.88</number><number>0.71</number>
+<number shadow='shadow1' tooltip='7:25 3-4-GB 44ATL 14 GB 7 LI: 0.9(No Huddle Shotgun) 10-M.Flynn pass deep middle to 87-J.Nelson to ATL 38 for 18 yards(41-Z.Motta).'>22.58</number><number>0.67</number>
+<number shadow='shadow1' tooltip='7:00 1-10-ATL 38ATL 14 GB 7 LI: 1(No Huddle) 27-E.Lacy right tackle to ATL 38 for no gain (23-R.Alford 41-Z.Motta).'>23</number><number>0.68</number>
+<number shadow='shadow1' tooltip='6:27 2-10-ATL 38ATL 14 GB 7 LI: 0.9(No Huddle Shotgun) 10-M.Flynn pass short left to 87-J.Nelson pushed ob at ATL 25 for 13 yards(27-R.McClain).'>23.55</number><number>0.65</number>
+<number shadow='shadow1' tooltip='6:04 1-10-ATL 25ATL 14 GB 7 LI: 1(No Huddle Shotgun) 10-M.Flynn pass short left to 81-A.Quarless pushed ob at ATL 17 for 8 yards(41-Z.Motta).'>23.93</number><number>0.59</number>
+<number shadow='shadow1' tooltip='5:48 2-2-ATL 17ATL 14 GB 7 LI: 1.5(No Huddle Shotgun) 27-E.Lacy up the middle to ATL 14 for 3 yards(55-P.Worrilow).'>24.2</number><number>0.57</number>
+<number shadow='shadow1' tooltip='5:24 1-10-ATL 14ATL 14 GB 7 LI: 1.6(No Huddle Shotgun) 27-E.Lacy right guard to ATL 13 for 1 yard(95-J.Babineaux 55-P.Worrilow).'>24.6</number><number>0.59</number>
+<number shadow='shadow1' tooltip='4:50 2-9-ATL 13ATL 14 GB 7 LI: 1.5(No Huddle) 10-M.Flynn pass short right to 82-R.Taylor to ATL 13 for no gain (41-Z.Motta).'>25.17</number><number>0.62</number>
+<number shadow='shadow1' tooltip='4:15 3-9-ATL 13ATL 14 GB 7 LI: 1.2(No Huddle Shotgun) 10-M.Flynn sacked at ATL 22 for -9 yards(91-C.Peters).'>25.75</number><number>0.68</number>
+<number shadow='shadow1' tooltip='3:43 4-18-ATL 22ATL 14 GB 7 LI: 0.72-M.Crosby 40 yard field goal is GOOD Center-61-B.Goode Holder-8-T.Masthay.'>26.28</number><number>0.67</number>
+<number shadow='shadow1' tooltip='3:43 ATL 14 GB 10 LI: 2-M.Crosby kicks 65 yards from GB 35 to ATL 032-J.Rodgers to ATL 21 for 21 yards(32-C.Banjo).'>26.37</number><number>0.66</number>
+<number shadow='shadow1' tooltip='3:33 1-10-ATL 21ATL 14 GB 10 LI: 1.42-M.Ryan pass incomplete short right to 88-T.Gonzalez.'>26.45</number><number>0.64</number>
+<number shadow='shadow1' tooltip='3:29 2-10-ATL 21ATL 14 GB 10 LI: 1.2(No Huddle) 39-S.Jackson right tackle to ATL 34 for 13 yards(42-M.Burnett).'>26.52</number><number>0.68</number>
+<number shadow='shadow1' tooltip='2:51 1-10-ATL 34ATL 14 GB 10 LI: 1.42-M.Ryan pass incomplete short middle to 39-S.Jackson.'>27.15</number><number>0.67</number>
+<number shadow='shadow1' tooltip='2:46 2-10-ATL 34ATL 14 GB 10 LI: 1.3(Shotgun) 32-J.Rodgers up the middle to ATL 37 for 3 yards(59-B.Jones).'>27.23</number><number>0.66</number>
+<number shadow='shadow1' tooltip='2:33 3-7-ATL 37ATL 14 GB 10 LI: 1.2(Shotgun) 2-M.Ryan pass incomplete short middle.'>27.45</number><number>0.62</number>
+<number shadow='shadow1' tooltip='2:28 4-12-ATL 32ATL 14 GB 10 LI: 0.95-M.Bosher punts 53 yards to GB 15 Center-47-J.Harris fair catch by 33-M.Hyde.'>27.53</number><number>0.65</number>
+<number shadow='shadow1' tooltip='2:20 1-10-GB 15ATL 14 GB 10 LI: 1.1(Shotgun) 10-M.Flynn pass incomplete short middle to 11-J.Boykin.'>27.67</number><number>0.66</number>
+<number shadow='shadow1' tooltip='2:15 2-10-GB 15ATL 14 GB 10 LI: 1(No Huddle Shotgun) 10-M.Flynn pass short right to 81-A.Quarless to GB 22 for 7 yards(56-S.Weatherspoon).'>27.75</number><number>0.66</number>
+<number shadow='shadow1' tooltip='2:00 3-3-GB 22ATL 14 GB 10 LI: 0.9(Shotgun) 10-M.Flynn pass short middle to 11-J.Boykin to GB 26 for 4 yards(55-P.Worrilow).'>28</number><number>0.63</number>
+<number shadow='shadow1' tooltip='1:38 1-10-GB 26ATL 14 GB 10 LI: 1.2(No Huddle Shotgun) 10-M.Flynn pass short left to 86-B.Bostick pushed ob at GB 45 for 19 yards(25-W.Moore).'>28.37</number><number>0.59</number>
+<number shadow='shadow1' tooltip='1:32 1-10-GB 45ATL 14 GB 10 LI: 1.3(No Huddle Shotgun) 10-M.Flynn up the middle to GB 48 for 3 yards(95-J.Babineaux).'>28.47</number><number>0.6</number>
+<number shadow='shadow1' tooltip='1:06 2-7-GB 48ATL 14 GB 10 LI: 1.2(No Huddle Shotgun) 10-M.Flynn pass incomplete deep middle to 86-B.Bostick (55-P.Worrilow).'>28.9</number><number>0.62</number>
+<number shadow='shadow1' tooltip='1:02 3-7-GB 48ATL 14 GB 10 LI: 1(No Huddle Shotgun) 10-M.Flynn left end to ATL 35 for 17 yards(41-Z.Motta).'>28.97</number><number>0.54</number>
+<number shadow='shadow1' tooltip='0:32 1-10-ATL 35ATL 14 GB 10 LI: 1.5(No Huddle Shotgun) 10-M.Flynn pass short middle intended for 30-J.Kuhn INTERCEPTED by 56-S.Weatherspoon (94-P.Jerry) at ATL 2956-S.Weatherspoon for 71 yards TOUCHDOWN.'>29.47</number><number>0.83</number>
+<number shadow='shadow1' tooltip='0:32 ATL 14 GB 10 LI: 3-M.Bryant extra point is GOOD Center-47-J.Harris Holder-5-M.Bosher.'>29.51</number><number>0.83</number>
+<number shadow='shadow1' tooltip='0:32 ATL 21 GB 10 LI: 5-M.Bosher kicks 64 yards from ATL 35 to GB 133-M.Hyde to GB 32 for 31 yards(13-D.Johnson).'>29.56</number><number>0.82</number>
+<number shadow='shadow1' tooltip='0:14 1-10-GB 32ATL 21 GB 10 LI: 1(Shotgun) 10-M.Flynn pass incomplete short left to 27-E.Lacy.'>29.77</number><number>0.83</number>
+<number shadow='shadow1' tooltip='0:11 2-10-GB 32ATL 21 GB 10 LI: 0.9(Shotgun) 10-M.Flynn pass incomplete short right to 27-E.Lacy.'>29.82</number><number>0.85</number>
+<number shadow='shadow1' tooltip='0:04 3-10-GB 32ATL 21 GB 10 LI: 0.7(No Huddle Shotgun) 27-E.Lacy left end to GB 33 for 1 yard(55-P.Worrilow).'>29.93</number><number>0.87</number>
+<number shadow='shadow1' tooltip='0:04 ATL 21 GB 10 LI: 5-M.Bosher kicks 55 yards from ATL 35 to GB 1030-J.Kuhn to GB 31 for 21 yards(54-S.Nicholas).'>30.02</number><number>0.82</number>
+<number shadow='shadow1' tooltip='14:54 1-10-GB 31ATL 21 GB 10 LI: 1(Shotgun) 44-J.Starks up the middle to GB 31 for no gain (91-C.Peters 27-R.McClain).'>30.1</number><number>0.84</number>
+<number shadow='shadow1' tooltip='14:00 2-15-GB 26ATL 21 GB 10 LI: 0.8(Shotgun) 10-M.Flynn pass incomplete short left to 89-J.Jones.'>31</number><number>0.86</number>
+<number shadow='shadow1' tooltip='13:56 3-15-GB 26ATL 21 GB 10 LI: 0.7(Shotgun) 10-M.Flynn pass short right to 19-M.White to GB 31 for 5 yards(56-S.Weatherspoon).'>31.07</number><number>0.88</number>
+<number shadow='shadow1' tooltip='13:24 4-10-GB 31ATL 21 GB 10 LI: 0.48-T.Masthay punts 47 yards to ATL 22 Center-61-B.Goode downed by GB-42-M.Burnett.'>31.6</number><number>0.86</number>
+<number shadow='shadow1' tooltip='13:12 1-10-ATL 22ATL 21 GB 10 LI: 1.139-S.Jackson right tackle to ATL 25 for 3 yards(50-A.Hawk 38-T.Williams).'>31.8</number><number>0.86</number>
+<number shadow='shadow1' tooltip='12:36 2-7-ATL 25ATL 21 GB 10 LI: 12-M.Ryan pass incomplete short middle to 88-T.Gonzalez (50-A.Hawk).'>32.4</number><number>0.85</number>
+<number shadow='shadow1' tooltip='12:32 3-7-ATL 25ATL 21 GB 10 LI: 0.9(Shotgun) 2-M.Ryan pass incomplete short middle to 83-H.Douglas [95-D.Jones].'>32.47</number><number>0.82</number>
+<number shadow='shadow1' tooltip='12:26 4-7-ATL 25ATL 21 GB 10 LI: 0.65-M.Bosher punts 48 yards to GB 27 Center-47-J.Harris fair catch by 33-M.Hyde.'>32.57</number><number>0.83</number>
+<number shadow='shadow1' tooltip='12:18 1-10-GB 27ATL 21 GB 10 LI: 144-J.Starks left end pushed ob at GB 32 for 5 yards(21-D.Trufant).'>32.7</number><number>0.83</number>
+<number shadow='shadow1' tooltip='11:49 2-5-GB 32ATL 21 GB 10 LI: 110-M.Flynn pass deep right to 87-J.Nelson to ATL 22 for 46 yards(23-R.Alford).'>33.18</number><number>0.75</number>
+<number shadow='shadow1' tooltip='10:59 1-10-ATL 22ATL 21 GB 10 LI: 1.144-J.Starks right end to ATL 17 for 5 yards(96-J.Massaquoi).'>34.02</number><number>0.75</number>
+<number shadow='shadow1' tooltip='10:27 2-5-ATL 17ATL 21 GB 10 LI: 1.1(Shotgun) 10-M.Flynn sacked at ATL 24 for -7 yards(96-J.Massaquoi).'>34.55</number><number>0.79</number>
+<number shadow='shadow1' tooltip='9:52 3-12-ATL 24ATL 21 GB 10 LI: 0.8(Shotgun) 10-M.Flynn pass short middle to 86-B.Bostick to ATL 15 for 9 yards(27-R.McClain).'>35.13</number><number>0.8</number>
+<number shadow='shadow1' tooltip='9:10 4-3-ATL 15ATL 21 GB 10 LI: 0.52-M.Crosby 33 yard field goal is GOOD Center-61-B.Goode Holder-8-T.Masthay.'>35.83</number><number>0.8</number>
+<number shadow='shadow1' tooltip='9:10 ATL 21 GB 13 LI: 2-M.Crosby kicks 64 yards from GB 35 to ATL 132-J.Rodgers to ATL 27 for 26 yards(31-D.House 28-S.Richardson).'>35.92</number><number>0.8</number>
+<number shadow='shadow1' tooltip='8:57 1-10-ATL 27ATL 21 GB 13 LI: 1.239-S.Jackson left guard to ATL 28 for 1 yard(79-R.Pickett).'>36.05</number><number>0.79</number>
+<number shadow='shadow1' tooltip='8:16 2-9-ATL 28ATL 21 GB 13 LI: 1.1(Shotgun) 2-M.Ryan pass incomplete short right to 84-R.White (97-J.Jolly).'>36.73</number><number>0.78</number>
+<number shadow='shadow1' tooltip='8:13 3-9-ATL 28ATL 21 GB 13 LI: 1(Shotgun) 2-M.Ryan pass short middle to 88-T.Gonzalez to ATL 35 for 7 yards(38-T.Williams).'>36.78</number><number>0.77</number>
+<number shadow='shadow1' tooltip='7:37 4-2-ATL 35ATL 21 GB 13 LI: 0.85-M.Bosher punts 52 yards to GB 13 Center-47-J.Harris33-M.Hyde to GB 25 for 12 yards(32-J.Rodgers).'>37.38</number><number>0.77</number>
+<number shadow='shadow1' tooltip='7:26 1-10-GB 25ATL 21 GB 13 LI: 1.110-M.Flynn sacked at GB 18 for -7 yards(55-P.Worrilow).'>37.57</number><number>0.8</number>
+<number shadow='shadow1' tooltip='6:56 2-17-GB 18ATL 21 GB 13 LI: 0.9(Shotgun) 10-M.Flynn pass deep middle to 81-A.Quarless to GB 39 for 21 yards(25-W.Moore).'>38.07</number><number>0.75</number>
+<number shadow='shadow1' tooltip='6:21 1-10-GB 39ATL 21 GB 13 LI: 1.127-E.Lacy left tackle to GB 40 for 1 yard(94-P.Jerry).'>38.65</number><number>0.76</number>
+<number shadow='shadow1' tooltip='5:40 2-9-GB 40ATL 21 GB 13 LI: 1(Shotgun) 10-M.Flynn pass short middle to 11-J.Boykin to ATL 41 for 19 yards(23-R.Alford).'>39.33</number><number>0.72</number>
+<number shadow='shadow1' tooltip='5:00 1-10-ATL 41ATL 21 GB 13 LI: 1.127-E.Lacy right end to ATL 35 for 6 yards(41-Z.Motta; 25-W.Moore).'>40</number><number>0.72</number>
+<number shadow='shadow1' tooltip='4:16 2-4-ATL 35ATL 21 GB 13 LI: 1(Shotgun) 27-E.Lacy right tackle to ATL 27 for 8 yards(96-J.Massaquoi).'>40.73</number><number>0.7</number>
+<number shadow='shadow1' tooltip='3:31 1-10-ATL 27ATL 21 GB 13 LI: 1.244-J.Starks up the middle to ATL 26 for 1 yard(59-J.Bartu).'>41.48</number><number>0.69</number>
+<number shadow='shadow1' tooltip='2:56 2-9-ATL 26ATL 21 GB 13 LI: 1.310-M.Flynn pass short left to 81-A.Quarless to ATL 13 for 13 yards(21-D.Trufant).'>42.07</number><number>0.63</number>
+<number shadow='shadow1' tooltip='2:18 1-10-ATL 13ATL 21 GB 13 LI: 1.727-E.Lacy right tackle to ATL 10 for 3 yards(98-C.Matthews).'>42.7</number><number>0.64</number>
+<number shadow='shadow1' tooltip='1:38 2-7-ATL 10ATL 21 GB 13 LI: 1.6(Shotgun) 10-M.Flynn pass short right to 27-E.Lacy to ATL 7 for 3 yards(91-C.Peters).'>43.37</number><number>0.65</number>
+<number shadow='shadow1' tooltip='0:53 3-4-ATL 7ATL 21 GB 13 LI: 1.6(Shotgun) 10-M.Flynn pass incomplete short right to 86-B.Bostick.'>44.12</number><number>0.74</number>
+<number shadow='shadow1' tooltip='0:49 4-4-ATL 7ATL 21 GB 13 LI: 0.72-M.Crosby 25 yard field goal is GOOD Center-61-B.Goode Holder-8-T.Masthay.'>44.18</number><number>0.75</number>
+<number shadow='shadow1' tooltip='0:49 ATL 21 GB 16 LI: 2-M.Crosby kicks 65 yards from GB 35 to ATL 032-J.Rodgers to ATL 20 for 20 yards(43-M.Jennings).'>44.27</number><number>0.73</number>
+<number shadow='shadow1' tooltip='0:38 1-10-ATL 20ATL 21 GB 16 LI: 1.52-M.Ryan pass short left to 84-R.White to ATL 27 for 7 yards(37-S.Shields).'>44.37</number><number>0.75</number>
+<number shadow='shadow1' tooltip='15:00 2-3-ATL 27ATL 21 GB 16 LI: 1.532-J.Rodgers up the middle to ATL 30 for 3 yards(28-S.Richardson).'>45</number><number>0.76</number>
+<number shadow='shadow1' tooltip='14:18 1-10-ATL 30ATL 21 GB 16 LI: 1.6PENALTY on ATL-76-L.Holmes False Start 5 yards enforced at ATL 30 - No Play.'>45.7</number><number>0.75</number>
+<number shadow='shadow1' tooltip='13:58 1-15-ATL 25ATL 21 GB 16 LI: 1.6(Shotgun) 2-M.Ryan sacked at ATL 21 for -4 yards(96-M.Neal)FUMBLES (96-M.Neal) RECOVERED by GB-97-J.Jolly at ATL 2197-J.Jolly to ATL 21 for no gain (61-J.Hawley).'>46.03</number><number>0.58</number>
+<number shadow='shadow1' tooltip='13:50 1-10-ATL 21ATL 21 GB 16 LI: 1.7(Shotgun) 10-M.Flynn pass short right to 87-J.Nelson to ATL 13 for 8 yards(23-R.Alford).'>46.17</number><number>0.48</number>
+<number shadow='shadow1' tooltip='13:17 2-2-ATL 13ATL 21 GB 16 LI: 2.627-E.Lacy left end to ATL 9 for 4 yards(55-P.Worrilow).'>46.72</number><number>0.51</number>
+<number shadow='shadow1' tooltip='12:40 1-9-ATL 9ATL 21 GB 16 LI: 2.327-E.Lacy right end to ATL 2 for 7 yards(56-S.Weatherspoon).'>47.33</number><number>0.47</number>
+<number shadow='shadow1' tooltip='12:05 2-2-ATL 2ATL 21 GB 16 LI: 2.7(Shotgun) 10-M.Flynn pass short right to 81-A.Quarless for 2 yards TOUCHDOWN.'>47.92</number><number>0.48</number>
+<number shadow='shadow1' tooltip='12:05 ATL 21 GB 22 LI: 2-M.Crosby kicks 57 yards from GB 35 to ATL 832-J.Rodgers pushed ob at ATL 31 for 23 yards(33-M.Hyde).'>48.01</number><number>0.49</number>
+<number shadow='shadow1' tooltip='11:55 1-10-ATL 31ATL 21 GB 22 LI: 1.932-J.Rodgers right guard to ATL 32 for 1 yard(33-M.Hyde 53-N.Perry).'>48.08</number><number>0.49</number>
+<number shadow='shadow1' tooltip='11:16 2-9-ATL 32ATL 21 GB 22 LI: 2(Shotgun) 2-M.Ryan pass short middle to 84-R.White to ATL 40 for 8 yards(33-M.Hyde).'>48.73</number><number>0.52</number>
+<number shadow='shadow1' tooltip='10:38 3-1-ATL 40ATL 21 GB 22 LI: 2.339-S.Jackson up the middle to ATL 42 for 2 yards(53-N.Perry 42-M.Burnett).'>49.37</number><number>0.54</number>
+<number shadow='shadow1' tooltip='9:59 1-10-ATL 42ATL 21 GB 22 LI: 2.62-M.Ryan pass short left to 83-H.Douglas ran ob at GB 43 for 15 yards(37-S.Shields).'>50.02</number><number>0.61</number>
+<number shadow='shadow1' tooltip='9:33 1-10-GB 43ATL 21 GB 22 LI: 2.8(No Huddle Shotgun) 39-S.Jackson right guard to GB 39 for 4 yards(93-J.Boyd; 33-M.Hyde).'>50.45</number><number>0.59</number>
+<number shadow='shadow1' tooltip='8:52 2-6-GB 39ATL 21 GB 22 LI: 2.52-M.Ryan pass short middle to 83-H.Douglas to GB 34 for 5 yards(50-A.Hawk; 59-B.Jones).'>51.13</number><number>0.63</number>
+<number shadow='shadow1' tooltip='8:13 3-1-GB 34ATL 21 GB 22 LI: 2.7(No Huddle Shotgun) 39-S.Jackson right tackle to GB 32 for 2 yards(79-R.Pickett).'>51.78</number><number>0.69</number>
+<number shadow='shadow1' tooltip='7:35 1-10-GB 32ATL 21 GB 22 LI: 3.32-M.Ryan pass incomplete deep left to 84-R.White.'>52.42</number><number>0.59</number>
+<number shadow='shadow1' tooltip='7:28 2-10-GB 32ATL 21 GB 22 LI: 2.344-J.Snelling up the middle to GB 34 for -2 yards(97-J.Jolly).'>52.53</number><number>0.52</number>
+<number shadow='shadow1' tooltip='6:52 3-12-GB 34ATL 21 GB 22 LI: 1.7(Shotgun) 2-M.Ryan pass incomplete short middle to 83-H.Douglas.'>53.13</number><number>0.46</number>
+<number shadow='shadow1' tooltip='6:47 4-12-GB 34ATL 21 GB 22 LI: 1.13-M.Bryant 52 yard field goal is No Good Short Center-47-J.Harris Holder-5-M.Bosher.'>53.22</number><number>0.3</number>
+<number shadow='shadow1' tooltip='6:42 1-10-GB 42ATL 21 GB 22 LI: 3.4(Shotgun) 10-M.Flynn up the middle to GB 44 for 2 yards(59-J.Bartu).'>53.3</number><number>0.33</number>
+<number shadow='shadow1' tooltip='6:06 2-8-GB 44ATL 21 GB 22 LI: 2.844-J.Starks left end to GB 45 for 1 yard(50-O.Umenyiora 56-S.Weatherspoon).'>53.9</number><number>0.36</number>
+<number shadow='shadow1' tooltip='5:24 3-7-GB 45ATL 21 GB 22 LI: 2.1(Shotgun) 10-M.Flynn pass short left to 89-J.Jones to 50 for 5 yards(21-D.Trufant).'>54.6</number><number>0.45</number>
+<number shadow='shadow1' tooltip='4:47 4-2-50ATL 21 GB 22 LI: 0.68-T.Masthay punts 33 yards to ATL 17 Center-61-B.Goode out of bounds.'>55.22</number><number>0.45</number>
+<number shadow='shadow1' tooltip='4:38 1-10-ATL 17ATL 21 GB 22 LI: 3.8(Shotgun) 2-M.Ryan pass short right to 32-J.Rodgers pushed ob at ATL 33 for 16 yards(42-M.Burnett).'>55.37</number><number>0.55</number>
+<number shadow='shadow1' tooltip='3:56 1-10-ATL 33ATL 21 GB 22 LI: 4.52-M.Ryan pass incomplete short left to 39-S.Jackson.'>56.07</number><number>0.35</number>
+<number shadow='shadow1' tooltip='3:51 2-10-ATL 33ATL 21 GB 22 LI: 2.5(Shotgun) 2-M.Ryan pass short middle to 88-T.Gonzalez to ATL 49 for 16 yards(59-B.Jones)GB-59-B.Jones was injured during the play.'>56.15</number><number>0.48</number>
+<number shadow='shadow1' tooltip='3:40 1-10-ATL 49ATL 21 GB 22 LI: 2.9(Shotgun) 39-S.Jackson up the middle to GB 47 for 4 yards(57-J.Lattimore).'>56.33</number><number>0.47</number>
+<number shadow='shadow1' tooltip='3:13 2-6-GB 47ATL 21 GB 22 LI: 3.1(No Huddle Shotgun) 2-M.Ryan pass short middle to 39-S.Jackson to GB 38 for 9 yards(97-J.Jolly)GB-97-J.Jolly was injured during the playGB-57-J.Lattimore was injured during the play.'>56.78</number><number>0.62</number>
+<number shadow='shadow1' tooltip='2:57 1-10-GB 38ATL 21 GB 22 LI: 4.632-J.Rodgers left tackle to GB 37 for 1 yard(52-C.Matthews).'>57.05</number><number>0.46</number>
+<number shadow='shadow1' tooltip='2:23 2-9-GB 37ATL 21 GB 22 LI: 3.6(No Huddle Shotgun) 2-M.Ryan pass incomplete short middle to 83-H.Douglas.'>57.62</number><number>0.33</number>
+<number shadow='shadow1' tooltip='2:19 3-9-GB 37ATL 21 GB 22 LI: 2.3(Shotgun) 2-M.Ryan pass short left to 32-J.Rodgers to GB 33 for 4 yards(95-D.Jones).'>57.68</number><number>0.39</number>
+<number shadow='shadow1' tooltip='2:00 4-5-GB 33ATL 21 GB 22 LI: 3.1(Shotgun) 2-M.Ryan pass incomplete short right to 88-T.Gonzalez (24-J.Bush).'>58</number><number>0.08</number>
+<number shadow='shadow1' tooltip='1:55 1-10-GB 33ATL 21 GB 22 LI: 5.927-E.Lacy right end to GB 34 for 1 yard(55-P.Worrilow; 23-R.Alford).'>58.08</number><number>0.12</number>
+<number shadow='shadow1' tooltip='1:47 2-9-GB 34ATL 21 GB 22 LI: 5.327-E.Lacy left end to GB 35 for 1 yard(56-S.Weatherspoon; 91-C.Peters).'>58.22</number><number>0.19</number>
+<number shadow='shadow1' tooltip='1:42 3-8-GB 35ATL 21 GB 22 LI: 4.427-E.Lacy right end to GB 37 for 2 yards(50-O.Umenyiora).'>58.3</number><number>0.19</number>
+<number shadow='shadow1' tooltip='0:56 4-6-GB 37ATL 21 GB 22 LI: 3.38-T.Masthay punts 62 yards to ATL 1 Center-61-B.Goode27-R.McClain pushed ob at ATL 9 for 8 yards(55-A.Mulumba).'>59.07</number><number>0.04</number>
+<number shadow='shadow1' tooltip='0:44 1-10-ATL 9ATL 21 GB 22 LI: 0.3(Shotgun) 2-M.Ryan pass short middle to 32-J.Rodgers to ATL 22 for 13 yards(52-C.Matthews).'>59.27</number><number>0.08</number>
+<number shadow='shadow1' tooltip='0:26 1-10-ATL 22ATL 21 GB 22 LI: 0.7(No Huddle Shotgun) 2-M.Ryan pass deep left to 84-R.White ran ob at ATL 43 for 21 yards(42-M.Burnett).'>59.57</number><number>0.1</number>
+<number shadow='shadow1' tooltip='0:21 1-10-ATL 43ATL 21 GB 22 LI: 0.9(No Huddle Shotgun) 2-M.Ryan pass incomplete short middle to 32-J.Rodgers.'>59.65</number><number>0.03</number>
+<number shadow='shadow1' tooltip='0:17 2-10-ATL 43ATL 21 GB 22 LI: 0.2(Shotgun) 2-M.Ryan pass incomplete deep left to 83-H.Douglas.'>59.72</number><number>0.05</number>
+<number shadow='shadow1' tooltip='0:11 3-10-ATL 43ATL 21 GB 22 LI: 0.4(Shotgun) 2-M.Ryan pass deep right intended for 83-H.Douglas INTERCEPTED by 24-J.Bush at GB 3724-J.Bush to GB 37 for no gain (83-H.Douglas).'>59.82</number><number>0.01</number>
+<number shadow='shadow1' tooltip='0:04 1-10-GB 37ATL 21 GB 22 LI: 2.610-M.Flynn kneels to GB 36 for -1 yards.'>59.93</number><number>0</number>
+<number>60</number><number>0</number>
+</row> </chart_data>
+       <draw>
+
+
+
+      <image x='45' y='298'  url='nfllogos/42x50png/ATL.gif'  layer='foreground' glow = 'glow1'/>
+      <image x='45' y='350'  url='nfllogos/42x50png/GB.gif'     layer='foreground' glow = 'glow1'/>
+
+
+      <rect x='130' y='300' width='250' height='40' fill_color='cf1534' bevel='bevel1' />
+      <text x='135' y='300' width='250' height='40' h_align='left' v_align='middle' color='ffffff' shadow='shadow2' glow=''>Atlanta Falcons</text>
+
+      <rect x='130' y='350' width='250' height='40' fill_color='00422f' bevel='bevel1'  />
+      <text x='135' y='350' width='250' height='40' h_align='left' v_align='middle' color='ffffff' shadow='shadow2' glow='winnerglow'>Green Bay Packers</text>
+
+      <rect x='420' y='300' width='60' height='40' fill_color='cf1534' bevel='bevel1'  />
+      <text x='420' y='300' width='60' height='40' h_align='center' v_align='middle' color='ffffff' shadow='shadow2' transition='none' glow=''>21</text>
+
+      <rect x='420' y='350' width='60' height='40' fill_color='00422f' bevel='bevel1' />
+      <text x='420' y='350' width='60' height='40' h_align='center' v_align='middle' color='ffffff' shadow='shadow2' transition='none' glow='winnerglow'>22</text>
+
+      <text x='-3' y='12'  width='60' height='40' h_align='center' v_align='middle' size='13' shadow='shadow2'>ATLWin </text>
+      <text x='-3' y='218' width='60' height='40' h_align='center' v_align='middle' size='13' shadow='shadow2'>GBWin </text>
+
+     
+              <rect x='540' y='300' width='100' height='35' fill_color='000000' fill_alpha='50'/>
+              <text x='540' y='300' width='100' height='35' h_align='center' v_align='middle' color='ffffff' size='15' shadow='shadow2' >Final</text>
+
+              <text x='540' y='340' width='40' h_align='center' color='000000' size='12' shadow='shadow2'>CBF</text>
+              <text x='600' y='340' width='40' h_align='center' color='000000' size='12' shadow='shadow2'>EI</text>
+
+              <rect x='540' y='360' width='40' height='30' fill_color='000000' fill_alpha='50' />
+              <text x='540' y='360' width='40' height='30' size='12' h_align='center' v_align='middle' color='FFFFFF' shadow='shadow2'>8</text>
+
+              <rect x='600' y='360' width='40' height='30' fill_color='000000' fill_alpha='50' />
+              <text x='600' y='360' width='40' height='30' size='12' h_align='center' v_align='middle' color='FFFFFF' shadow='shadow2'>5.9</text>
+
+              <text x='20' y='420' width='70' height='25' size='12' h_align='left' v_align='middle' color='000000' >12/8/2013</text>
+              <text x='100' y='420' width='200' height='25' size='12' h_align='left' v_align='middle' color='000000' >Lambeau Field</text>
+
+   </draw></chart>

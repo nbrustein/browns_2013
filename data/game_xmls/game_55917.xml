@@ -1,0 +1,307 @@
+
+<chart>
+   <license>ETAS9P33ESHO.945CWK-2XOI1X0-7L</license>
+   <chart_type>scatter</chart_type>
+   <chart_pref trend_thickness='0' line_thickness='3' point_size='0'/>
+
+   <series_color>
+      <color>ffff00</color>
+   </series_color>
+
+   <chart_rect x='45' y='20' width='630' height='230' positive_color='cacaca'  />
+
+  <chart_border top_thickness='0'
+                 bottom_thickness='0'
+                 left_thickness='0'
+                 right_thickness='0'
+                 color='000000'
+                 />
+
+   <tooltip font='Arial' bold='true' size='11' />
+
+   <chart_note type='flag'
+               color='000000'
+               alpha='90'
+               bold='FALSE'
+               size='10'
+               background_color='ffffe0'
+               background_alpha='50'
+               shadow='shadow2'
+               />
+
+   <chart_grid_h thickness='2' color='ffffff' type='dashed'  />
+   <chart_grid_v thickness='2' color='ffffff'   />
+		>
+
+   <legend layout='hide' />
+
+   <chart_guide horizontal='TRUE'
+             vertical='TRUE'
+             thickness='1'
+             color='006400'
+             alpha='100'
+             type='solid'
+             snap_h='TRUE'
+             snap_v='TRUE'
+             radius='3'
+             fill_color='006400'
+             fill_alpha='100'
+             line_color='006400'
+             line_alpha='80'
+             line_thickness='1'
+             text_h_alpha='50'
+             text_v_alpha='00'
+             suffix_h=' WP'
+             decimals='2'
+             bold='FALSE'
+             size='11'
+             text_color='FFFFFF'
+             background_color='006400'
+             />
+   <filter>
+      <shadow id='shadow1' distance='2' angle='60' blurX='5' blurY='5' alpha='50' />
+      <bevel id='bevel1' angle='45' blurX='5' blurY='5' distance='0' />
+      <glow id='glow1' color='ffffff' alpha='0' blurX='7' blurY='7' strength='6' quality='2' inner='FALSE' knockout='FALSE' />
+      <glow id='winnerglow' color='ffffff' alpha='0' blurX='7' blurY='7' strength='5' quality='2' inner='FALSE' knockout='FALSE' />
+   </filter>
+
+    <axis_value_label>
+         <string></string>
+          <string> </string>
+          <null/>
+          <string> </string>
+          <string></string>
+
+       </axis_value_label>
+		
+	   <axis_ticks category_ticks='false'/>
+
+       <axis_value min='0' max='1' steps='4'  decimals='2' show_min='true' size='13' shadow='shadow2' />     
+            <axis_category
+               min='0'
+               max='60'
+               steps='4'
+               mode='all'
+               decimals='0'
+               size='13'
+               shadow='shadow2'
+               />
+
+       <axis_category_label>
+          <string>Kickoff</string>
+          <string></string>
+          <string>Halftime</string>
+          <string></string>
+          <string>End</string>
+
+       </axis_category_label>
+
+
+        <chart_data>
+       <row>
+	      <null/><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number>
+              <number>x</number><number>y</number>
+              </row><row><string></string>
+
+                     <number shadow='shadow1'>0</number><number>.5</number><number shadow='shadow1' tooltip='15:00 DET 0 CLV 0 LI: 8-B.Cundiff kicks 65 yards from CLV 35 to end zone Touchbackball kicked through endzone'>0.09</number><number>0.52</number>
+<number shadow='shadow1' tooltip='14:29 2-9-DET 21DET 0 CLV 0 LI: 1.49-M.Stafford pass short left to 18-K.Durham to DET 29 for 8 yards(22-B.Skrine).'>0.52</number><number>0.52</number>
+<number shadow='shadow1' tooltip='14:01 3-1-DET 29DET 0 CLV 0 LI: 1.435-J.Bell right guard to DET 31 for 2 yards(43-T.Ward; 71-A.Rubin).'>0.98</number><number>0.54</number>
+<number shadow='shadow1' tooltip='13:25 1-10-DET 31DET 0 CLV 0 LI: 1.5(Shotgun) 21-R.Bush left tackle to DET 33 for 2 yards(99-P.Kruger).'>1.58</number><number>0.52</number>
+<number shadow='shadow1' tooltip='12:46 2-8-DET 33DET 0 CLV 0 LI: 1.3(Shotgun) 9-M.Stafford pass short left to 18-K.Durham to DET 43 for 10 yards(21-C.Owens; 53-C.Robertson).'>2.23</number><number>0.55</number>
+<number shadow='shadow1' tooltip='12:07 1-10-DET 43DET 0 CLV 0 LI: 1.39-M.Stafford pass short right to 35-J.Bell to CLV 49 for 8 yards(43-T.Ward).'>2.88</number><number>0.57</number>
+<number shadow='shadow1' tooltip='11:30 2-2-CLV 49DET 0 CLV 0 LI: 1.321-R.Bush right tackle to CLV 47 for 2 yards(43-T.Ward).'>3.5</number><number>0.57</number>
+<number shadow='shadow1' tooltip='10:52 1-10-CLV 47DET 0 CLV 0 LI: 1.39-M.Stafford pass incomplete short right to 18-K.Durham.'>4.13</number><number>0.55</number>
+<number shadow='shadow1' tooltip='10:48 2-10-CLV 47DET 0 CLV 0 LI: 1.1(Shotgun) 9-M.Stafford pass short left to 18-K.Durham to CLV 39 for 8 yards(21-C.Owens).'>4.2</number><number>0.56</number>
+<number shadow='shadow1' tooltip='10:06 3-2-CLV 39DET 0 CLV 0 LI: 1.1(Shotgun) 9-M.Stafford pass incomplete short middle to 81-C.Johnson [92-D.Bryant].'>4.9</number><number>0.5</number>
+<number shadow='shadow1' tooltip='10:02 4-2-CLV 39DET 0 CLV 0 LI: 0.5(Punt formation) 6-S.Martin punts 34 yards to CLV 5 Center-48-D.Muhlbach downed by DET-30-D.Slay.'>4.97</number><number>0.5</number>
+<number shadow='shadow1' tooltip='9:53 1-10-CLV 5DET 0 CLV 0 LI: 1.826-W.McGahee right guard to CLV 17 for 12 yards(31-R.Mathis).'>5.12</number><number>0.49</number>
+<number shadow='shadow1' tooltip='9:21 1-10-CLV 17DET 0 CLV 0 LI: 1.6(Shotgun) 3-B.Weeden pass short right to 26-W.McGahee to CLV 19 for 2 yards(55-S.Tulloch).'>5.65</number><number>0.5</number>
+<number shadow='shadow1' tooltip='8:47 2-8-CLV 19DET 0 CLV 0 LI: 1.426-W.McGahee right tackle to CLV 19 for no gain (58-A.Palmer; 98-N.Fairley).'>6.22</number><number>0.52</number>
+<number shadow='shadow1' tooltip='8:04 3-8-CLV 19DET 0 CLV 0 LI: 1.2(Shotgun) 3-B.Weeden pass incomplete short middle to 84-J.Cameron (55-S.Tulloch).'>6.93</number><number>0.55</number>
+<number shadow='shadow1' tooltip='8:00 4-8-CLV 19DET 0 CLV 0 LI: 0.9(Punt formation) 5-S.Lanning punts 46 yards to DET 35 Center-57-C.Yount15-M.Spurlock to DET 42 for 7 yards(25-C.Ogbonnaya).'>7</number><number>0.55</number>
+<number shadow='shadow1' tooltip='7:50 1-10-DET 42DET 0 CLV 0 LI: 1.421-R.Bush left tackle to DET 49 for 7 yards(39-T.Gipson; 53-C.Robertson).'>7.17</number><number>0.56</number>
+<number shadow='shadow1' tooltip='7:14 2-3-DET 49DET 0 CLV 0 LI: 1.39-M.Stafford pass incomplete deep middle to 18-K.Durham (22-B.Skrine).'>7.77</number><number>0.54</number>
+<number shadow='shadow1' tooltip='7:07 3-3-DET 49DET 0 CLV 0 LI: 1.1(Shotgun) 9-M.Stafford pass short middle to 87-B.Pettigrew to CLV 43 for 8 yards(39-T.Gipson).'>7.88</number><number>0.58</number>
+<number shadow='shadow1' tooltip='6:33 1-10-CLV 43DET 0 CLV 0 LI: 1.3(Shotgun) 9-M.Stafford pass short right to 11-K.Ogletree to CLV 38 for 5 yards(23-J.Haden).'>8.45</number><number>0.58</number>
+<number shadow='shadow1' tooltip='5:55 2-5-CLV 38DET 0 CLV 0 LI: 1.335-J.Bell left guard to CLV 32 for 6 yards(39-T.Gipson; 71-A.Rubin).'>9.08</number><number>0.61</number>
+<number shadow='shadow1' tooltip='5:13 1-10-CLV 32DET 0 CLV 0 LI: 1.5(Shotgun) 9-M.Stafford pass short left to 81-C.Johnson to CLV 25 for 7 yards(23-J.Haden).'>9.78</number><number>0.62</number>
+<number shadow='shadow1' tooltip='4:30 2-3-CLV 25DET 0 CLV 0 LI: 1.5(Shotgun) 21-R.Bush left guard to CLV 23 for 2 yards(23-J.Haden).'>10.5</number><number>0.62</number>
+<number shadow='shadow1' tooltip='3:43 3-1-CLV 23DET 0 CLV 0 LI: 1.49-M.Stafford pass incomplete deep right to 11-K.OgletreePENALTY on CLV-23-J.Haden Defensive Pass Interference 16 yards enforced at CLV 23 - No Play.'>11.28</number><number>0.68</number>
+<number shadow='shadow1' tooltip='3:37 1-7-CLV 7DET 0 CLV 0 LI: 1.8(Shotgun) 9-M.Stafford pass incomplete short right to 81-C.JohnsonPENALTY on CLV-23-J.Haden Defensive Pass Interference 6 yards enforced at CLV 7 - No Play.'>11.38</number><number>0.7</number>
+<number shadow='shadow1' tooltip='3:33 1-1-CLV 1DET 0 CLV 0 LI: 29-M.Stafford pass incomplete short right to 81-C.Johnson.'>11.45</number><number>0.7</number>
+<number shadow='shadow1' tooltip='3:31 2-1-CLV 1DET 0 CLV 0 LI: 29-M.Stafford pass short right to 80-J.Fauria for 1 yard TOUCHDOWN.'>11.48</number><number>0.71</number>
+<number shadow='shadow1' tooltip='3:31 DET 0 CLV 0 LI: 2-D.Akers extra point is GOOD Center-48-D.Muhlbach Holder-6-S.Martin.'>11.52</number><number>0.71</number>
+<number shadow='shadow1' tooltip='3:31 DET 7 CLV 0 LI: 6-S.Martin kicks 74 yards from DET 35 to CLV -918-G.Little Touchbackkicked through endzone'>11.57</number><number>0.72</number>
+<number shadow='shadow1' tooltip='3:24 2-10-CLV 20DET 7 CLV 0 LI: 1.425-C.Ogbonnaya left tackle to CLV 26 for 6 yards(79-W.Young)pitchout'>11.6</number><number>0.72</number>
+<number shadow='shadow1' tooltip='2:47 3-4-CLV 26DET 7 CLV 0 LI: 1.4(Shotgun) 3-B.Weeden pass incomplete short middle to 15-D.Bess [90-N.Suh].'>12.22</number><number>0.75</number>
+<number shadow='shadow1' tooltip='2:42 4-4-CLV 26DET 7 CLV 0 LI: 1.15-S.Lanning punts 52 yards to DET 22 Center-57-C.Yount15-M.Spurlock to DET 29 for 7 yards(24-J.Bademosi)PENALTY on DET-32-D.Carey Offensive Holding 10 yards enforced at DET 22.'>12.3</number><number>0.69</number>
+<number shadow='shadow1' tooltip='2:32 1-10-DET 12DET 7 CLV 0 LI: 1.3(Shotgun) 9-M.Stafford pass incomplete short left to 84-R.Broylesshovel pass'>12.47</number><number>0.71</number>
+<number shadow='shadow1' tooltip='2:29 2-10-DET 12DET 7 CLV 0 LI: 1.525-M.Leshoure right guard to DET 17 for 5 yards(39-T.Gipson).'>12.52</number><number>0.71</number>
+<number shadow='shadow1' tooltip='1:46 3-5-DET 17DET 7 CLV 0 LI: 0.8(Shotgun) 9-M.Stafford pass incomplete short left to 81-C.Johnson.'>13.23</number><number>0.69</number>
+<number shadow='shadow1' tooltip='1:43 4-5-DET 17DET 7 CLV 0 LI: 0.66-S.Martin punts 49 yards to CLV 34 Center-48-D.Muhlbach80-T.Benjamin to CLV 36 for 2 yards(32-D.Carey)PENALTY on CLV-22-B.Skrine Illegal Block Above the Waist 10 yards enforced at CLV 36.'>13.28</number><number>0.71</number>
+<number shadow='shadow1' tooltip='1:32 1-10-CLV 26DET 7 CLV 0 LI: 1.580-T.Benjamin left end to DET 29 for 45 yards(54-D.Levy)end around to 80 Benjamin'>13.47</number><number>0.64</number>
+<number shadow='shadow1' tooltip='0:53 1-10-DET 29DET 7 CLV 0 LI: 13-B.Weeden pass short right to 15-D.Bess to DET 20 for 9 yards(58-A.Palmer).'>14.12</number><number>0.58</number>
+<number shadow='shadow1' tooltip='0:22 2-1-DET 20DET 7 CLV 0 LI: 1.426-W.McGahee right guard to DET 17 for 3 yards(92-D.Taylor).'>14.63</number><number>0.63</number>
+<number shadow='shadow1' tooltip='15:00 1-10-DET 17DET 7 CLV 0 LI: 0.83-B.Weeden pass incomplete deep right to 82-G.Barnidge.'>15</number><number>0.6</number>
+<number shadow='shadow1' tooltip='14:54 2-10-DET 17DET 7 CLV 0 LI: 1.1(Shotgun) 25-C.Ogbonnaya right guard to DET 15 for 2 yards(94-E.Ansah; 58-A.Palmer)direct snap to 25 Ogbonnaya'>15.1</number><number>0.6</number>
+<number shadow='shadow1' tooltip='14:19 3-8-DET 15DET 7 CLV 0 LI: 1.1(Shotgun) 3-B.Weeden pass short left to 12-J.Gordon to DET 6 for 9 yards(31-R.Mathis; 28-D.Bentley).'>15.68</number><number>0.56</number>
+<number shadow='shadow1' tooltip='13:39 1-6-DET 6DET 7 CLV 0 LI: 1.426-W.McGahee right guard to DET 4 for 2 yards(94-E.Ansah; 27-G.Quin)pitchout'>16.35</number><number>0.56</number>
+<number shadow='shadow1' tooltip='12:57 2-4-DET 4DET 7 CLV 0 LI: 1.43-B.Weeden pass short left to 25-C.Ogbonnaya for 4 yards TOUCHDOWN.'>17.05</number><number>0.53</number>
+<number shadow='shadow1' tooltip='12:57 DET 7 CLV 0 LI: 8-B.Cundiff extra point is GOOD Center-57-C.Yount Holder-5-S.Lanning.'>17.09</number><number>0.53</number>
+<number shadow='shadow1' tooltip='12:57 DET 7 CLV 7 LI: 8-B.Cundiff kicks 74 yards from CLV 35 to DET -915-M.Spurlock Touchbackkicked through endzone'>17.14</number><number>0.52</number>
+<number shadow='shadow1' tooltip='12:16 2-6-DET 24DET 7 CLV 7 LI: 1.39-M.Stafford pass incomplete short left to 11-K.Ogletree.'>17.73</number><number>0.5</number>
+<number shadow='shadow1' tooltip='12:13 3-6-DET 24DET 7 CLV 7 LI: 1.2(Shotgun) 9-M.Stafford pass incomplete short right to 35-J.Bell.'>17.78</number><number>0.46</number>
+<number shadow='shadow1' tooltip='12:09 4-6-DET 24DET 7 CLV 7 LI: 0.8(Punt formation) 6-S.Martin punts 52 yards to CLV 24 Center-48-D.Muhlbach80-T.Benjamin to CLV 15 for -9 yards(32-D.Carey).'>17.85</number><number>0.49</number>
+<number shadow='shadow1' tooltip='11:58 1-10-CLV 15DET 7 CLV 7 LI: 1.5(Shotgun) 3-B.Weeden pass incomplete deep left to 80-T.Benjamin [79-W.Young].'>18.03</number><number>0.51</number>
+<number shadow='shadow1' tooltip='11:53 2-10-CLV 15DET 7 CLV 7 LI: 1.3(Shotgun) 3-B.Weeden pass short left to 25-C.Ogbonnaya to CLV 24 for 9 yards(98-N.Fairley).'>18.12</number><number>0.48</number>
+<number shadow='shadow1' tooltip='11:22 3-1-CLV 24DET 7 CLV 7 LI: 1.43-B.Weeden pass short right to 12-J.Gordon to CLV 40 for 16 yards(26-L.Delmas) [58-A.Palmer].'>18.63</number><number>0.45</number>
+<number shadow='shadow1' tooltip='10:50 1-10-CLV 40DET 7 CLV 7 LI: 1.43-B.Weeden pass short left to 84-J.Cameron to DET 46 for 14 yards(26-L.Delmas).'>19.17</number><number>0.43</number>
+<number shadow='shadow1' tooltip='10:07 1-10-DET 46DET 7 CLV 7 LI: 1.326-W.McGahee left guard to DET 39 for 7 yards(28-D.Bentley).'>19.88</number><number>0.43</number>
+<number shadow='shadow1' tooltip='9:30 2-3-DET 39DET 7 CLV 7 LI: 1.226-W.McGahee right guard to DET 40 for -1 yards(55-S.Tulloch; 30-D.Slay).'>20.5</number><number>0.45</number>
+<number shadow='shadow1' tooltip='8:51 3-4-DET 40DET 7 CLV 7 LI: 1(Shotgun) 3-B.Weeden pass deep right intended for 25-C.Ogbonnaya INTERCEPTED by 54-D.Levy at DET 1754-D.Levy to DET 17 for no gain (25-C.Ogbonnaya).'>21.15</number><number>0.51</number>
+<number shadow='shadow1' tooltip='8:44 1-10-DET 17DET 7 CLV 7 LI: 1.421-R.Bush left guard to DET 16 for -1 yards(43-T.Ward).'>21.27</number><number>0.49</number>
+<number shadow='shadow1' tooltip='8:20 2-11-DET 16DET 7 CLV 7 LI: 1.2(No Huddle Shotgun) 9-M.Stafford pass deep right to 18-K.Durham to DET 40 for 24 yards(43-T.Ward).'>21.67</number><number>0.55</number>
+<number shadow='shadow1' tooltip='7:53 1-10-DET 40DET 7 CLV 7 LI: 1.4(No Huddle) 21-R.Bush left guard to DET 41 for 1 yard(93-J.Hughes).'>22.12</number><number>0.54</number>
+<number shadow='shadow1' tooltip='7:27 2-9-DET 41DET 7 CLV 7 LI: 1.2(No Huddle Shotgun) 9-M.Stafford sacked ob at DET 41 for 0 yards(53-C.Robertson).'>22.55</number><number>0.52</number>
+<number shadow='shadow1' tooltip='6:52 3-9-DET 41DET 7 CLV 7 LI: 1(Shotgun) 9-M.Stafford pass incomplete deep left to 81-C.Johnson (43-T.Ward).'>23.13</number><number>0.48</number>
+<number shadow='shadow1' tooltip='6:46 4-9-DET 41DET 7 CLV 7 LI: 0.6(Punt formation) 6-S.Martin punts 43 yards to CLV 16 Center-48-D.Muhlbach fair catch by 80-T.Benjamin.'>23.23</number><number>0.49</number>
+<number shadow='shadow1' tooltip='6:38 1-10-CLV 16DET 7 CLV 7 LI: 1.53-B.Weeden pass incomplete deep middle to 18-G.LittlePENALTY on DET-30-D.Slay Defensive Pass Interference 23 yards enforced at CLV 16 - No Play.'>23.37</number><number>0.45</number>
+<number shadow='shadow1' tooltip='6:31 1-10-CLV 39DET 7 CLV 7 LI: 1.4(Shotgun) 3-B.Weeden scrambles left end to CLV 48 for 9 yards(54-D.Levy).'>23.48</number><number>0.44</number>
+<number shadow='shadow1' tooltip='5:49 2-1-CLV 48DET 7 CLV 7 LI: 1.326-W.McGahee left tackle to DET 42 for 10 yards(26-L.Delmas).'>24.18</number><number>0.42</number>
+<number shadow='shadow1' tooltip='5:03 1-10-DET 42DET 7 CLV 7 LI: 1.3(Shotgun) 3-B.Weeden pass deep middle to 12-J.Gordon to DET 24 for 18 yards(23-C.Houston).'>24.95</number><number>0.37</number>
+<number shadow='shadow1' tooltip='4:25 1-10-DET 24DET 7 CLV 7 LI: 1.5(Shotgun) 47-M.Gray scrambles up the middle to DET 14 for 10 yards(27-G.Quin; 92-D.Taylor)direct snap to 47 Gray at QB'>25.58</number><number>0.31</number>
+<number shadow='shadow1' tooltip='3:48 1-10-DET 14DET 7 CLV 7 LI: 1.934-B.Rainey left guard to DET 14 for no gain (79-W.Young; 26-L.Delmas).'>26.2</number><number>0.33</number>
+<number shadow='shadow1' tooltip='3:08 2-10-DET 14DET 7 CLV 7 LI: 1.7(Shotgun) 3-B.Weeden pass short left to 82-G.Barnidge to DET 6 for 8 yards(52-R.McIntosh; 23-C.Houston).'>26.87</number><number>0.32</number>
+<number shadow='shadow1' tooltip='2:21 3-2-DET 6DET 7 CLV 7 LI: 1.8(Shotgun) 25-C.Ogbonnaya right guard to DET 4 for 2 yards(55-S.Tulloch).'>27.65</number><number>0.3</number>
+<number shadow='shadow1' tooltip='2:00 1-4-DET 4DET 7 CLV 7 LI: 2PENALTY on DET-90-N.Suh Defensive Offside 2 yards enforced at DET 4 - No Play.'>28</number><number>0.3</number>
+<number shadow='shadow1' tooltip='1:20 2-2-DET 2DET 7 CLV 7 LI: 2.1(Shotgun) 3-B.Weeden pass short right to 18-G.Little for 2 yards TOUCHDOWN.'>28.67</number><number>0.28</number>
+<number shadow='shadow1' tooltip='1:20 DET 7 CLV 7 LI: 8-B.Cundiff extra point is GOOD Center-57-C.Yount Holder-5-S.Lanning.'>28.71</number><number>0.28</number>
+<number shadow='shadow1' tooltip='1:20 DET 7 CLV 14 LI: 8-B.Cundiff kicks 74 yards from CLV 35 to DET -915-M.Spurlock Touchback.'>28.76</number><number>0.26</number>
+<number shadow='shadow1' tooltip='1:10 2-10-DET 20DET 7 CLV 14 LI: 0.9(Shotgun) 9-M.Stafford pass incomplete short right to 18-K.Durham (23-J.Haden).'>28.83</number><number>0.24</number>
+<number shadow='shadow1' tooltip='1:04 3-10-DET 20DET 7 CLV 14 LI: 0.8(Shotgun) 9-M.Stafford pass incomplete deep left to 83-P.Edwards.'>28.93</number><number>0.22</number>
+<number shadow='shadow1' tooltip='0:58 4-10-DET 20DET 7 CLV 14 LI: 0.66-S.Martin punts 51 yards to CLV 29 Center-48-D.Muhlbach80-T.Benjamin ran ob at CLV 26 for -3 yards.'>29.03</number><number>0.23</number>
+<number shadow='shadow1' tooltip='0:50 1-10-CLV 26DET 7 CLV 14 LI: 1.2PENALTY on DET-98-N.Fairley Neutral Zone Infraction 5 yards enforced at CLV 26 - No Play.'>29.17</number><number>0.23</number>
+<number shadow='shadow1' tooltip='0:43 1-10-CLV 39DET 7 CLV 14 LI: 1.1(Shotgun) 3-B.Weeden pass deep right to 12-J.Gordon to DET 25 for 36 yards(55-S.Tulloch).'>29.28</number><number>0.17</number>
+<number shadow='shadow1' tooltip='0:27 1-10-DET 25DET 7 CLV 14 LI: 13-B.Weeden pass incomplete deep right to 18-G.LittlePENALTY on CLV Illegal Shift 5 yards enforced at DET 25 - No Play.'>29.55</number><number>0.17</number>
+<number shadow='shadow1' tooltip='0:23 2-15-DET 30DET 7 CLV 14 LI: 0.9(Shotgun) 3-B.Weeden pass incomplete deep left to 12-J.Gordon.'>29.62</number><number>0.21</number>
+<number shadow='shadow1' tooltip='0:17 3-15-DET 30DET 7 CLV 14 LI: 0.7(Shotgun) 3-B.Weeden pass short left to 25-C.Ogbonnaya to DET 22 for 8 yards(30-D.Slay).'>29.72</number><number>0.21</number>
+<number shadow='shadow1' tooltip='0:08 4-7-DET 22DET 7 CLV 14 LI: 0.5(Field Goal formation) 8-B.Cundiff 40 yard field goal is GOOD Center-57-C.Yount Holder-5-S.Lanning.'>29.87</number><number>0.2</number>
+<number shadow='shadow1' tooltip='0:08 DET 7 CLV 17 LI: 8-B.Cundiff kicks 65 yards from CLV 35 to end zone Touchbackkicked through endzone'>29.96</number><number>0.19</number>
+<number shadow='shadow1' tooltip='15:00 1-10-CLV 20DET 7 CLV 17 LI: 1.2PENALTY on CLV-84-J.Cameron False Start 5 yards enforced at CLV 20 - No Play.'>30</number><number>0.18</number>
+<number shadow='shadow1' tooltip='14:26 2-13-CLV 17DET 7 CLV 17 LI: 1(Shotgun) 3-B.Weeden pass short right to 25-C.Ogbonnaya to CLV 20 for 3 yards(98-N.Fairley).'>30.57</number><number>0.2</number>
+<number shadow='shadow1' tooltip='13:46 3-10-CLV 20DET 7 CLV 17 LI: 0.9(Shotgun) 3-B.Weeden pass short left to 25-C.Ogbonnaya to CLV 29 for 9 yards(28-D.Bentley; 23-C.Houston).'>31.23</number><number>0.21</number>
+<number shadow='shadow1' tooltip='13:04 4-1-CLV 29DET 7 CLV 17 LI: 0.6(Punt formation) 5-S.Lanning punts 50 yards to DET 21 Center-57-C.Yount fair catch by 15-M.Spurlock.'>31.93</number><number>0.19</number>
+<number shadow='shadow1' tooltip='12:56 1-10-DET 21DET 7 CLV 17 LI: 1.1(Shotgun) 9-M.Stafford pass incomplete short left to 21-R.Bush.'>32.07</number><number>0.18</number>
+<number shadow='shadow1' tooltip='12:08 3-6-DET 25DET 7 CLV 17 LI: 1(Shotgun) 9-M.Stafford scrambles up the middle to DET 32 for 7 yards(92-D.Bryant)PENALTY on DET-9-M.Stafford Delay of Game 5 yards enforced between downs.'>32.87</number><number>0.2</number>
+<number shadow='shadow1' tooltip='11:48 1-10-DET 27DET 7 CLV 17 LI: 1.221-R.Bush left guard to CLV 34 for 39 yards(21-C.Owens; 92-D.Bryant).'>33.2</number><number>0.26</number>
+<number shadow='shadow1' tooltip='11:01 1-10-CLV 34DET 7 CLV 17 LI: 1.19-M.Stafford pass short left to 18-K.Durham to CLV 28 for 6 yards(21-C.Owens).'>33.98</number><number>0.26</number>
+<number shadow='shadow1' tooltip='10:24 2-4-CLV 28DET 7 CLV 17 LI: 1(Shotgun) 9-M.Stafford pass short middle to 18-K.Durham to CLV 21 for 7 yards(52-D.Jackson).'>34.6</number><number>0.28</number>
+<number shadow='shadow1' tooltip='9:46 1-10-CLV 21DET 7 CLV 17 LI: 1.1(Shotgun) 35-J.Bell right tackle to CLV 18 for 3 yards(52-D.Jackson; 71-A.Rubin).'>35.23</number><number>0.28</number>
+<number shadow='shadow1' tooltip='9:04 2-7-CLV 18DET 7 CLV 17 LI: 1(Shotgun) 9-M.Stafford pass short left to 21-R.Bush for 18 yards TOUCHDOWN.'>35.93</number><number>0.34</number>
+<number shadow='shadow1' tooltip='9:04 DET 7 CLV 17 LI: 2-D.Akers extra point is GOOD Center-48-D.Muhlbach Holder-6-S.Martin.'>35.97</number><number>0.34</number>
+<number shadow='shadow1' tooltip='9:04 DET 14 CLV 17 LI: 6-S.Martin kicks 72 yards from DET 35 to CLV -718-G.Little Touchback.'>36.02</number><number>0.35</number>
+<number shadow='shadow1' tooltip='8:57 1-10-CLV 20DET 14 CLV 17 LI: 1.9(Shotgun) 3-B.Weeden pass incomplete deep right to 18-G.Little.'>36.05</number><number>0.37</number>
+<number shadow='shadow1' tooltip='8:54 2-10-CLV 20DET 14 CLV 17 LI: 1.7PENALTY on DET-90-N.Suh Neutral Zone Infraction 5 yards enforced at CLV 20 - No Play.'>36.1</number><number>0.35</number>
+<number shadow='shadow1' tooltip='8:14 3-5-CLV 25DET 14 CLV 17 LI: 1.6(Shotgun) 3-B.Weeden scrambles left tackle to CLV 26 for 1 yard(90-N.Suh).'>36.77</number><number>0.4</number>
+<number shadow='shadow1' tooltip='7:34 4-4-CLV 26DET 14 CLV 17 LI: 1.2(Punt formation) 5-S.Lanning punts 44 yards to DET 30 Center-57-C.Yount15-M.Spurlock to DET 41 for 11 yards(58-B.Magee)PENALTY on DET-32-D.Carey Offensive Holding 10 yards enforced at DET 41.'>37.43</number><number>0.39</number>
+<number shadow='shadow1' tooltip='7:24 1-10-DET 31DET 14 CLV 17 LI: 1.321-R.Bush left tackle to DET 29 for -2 yards(51-B.Mingo)pitchout'>37.6</number><number>0.38</number>
+<number shadow='shadow1' tooltip='6:39 2-12-DET 29DET 14 CLV 17 LI: 1.3(Shotgun) 9-M.Stafford pass short left to 21-R.Bush to DET 39 for 10 yards(53-C.Robertson).'>38.35</number><number>0.4</number>
+<number shadow='shadow1' tooltip='6:04 3-2-DET 39DET 14 CLV 17 LI: 1.3(Shotgun) 9-M.Stafford pass short middle to 81-C.Johnson to DET 49 for 10 yards(39-T.Gipson).'>38.93</number><number>0.44</number>
+<number shadow='shadow1' tooltip='5:22 1-10-DET 49DET 14 CLV 17 LI: 1.521-R.Bush right tackle to CLV 45 for 6 yards(39-T.Gipson; 92-D.Bryant).'>39.63</number><number>0.45</number>
+<number shadow='shadow1' tooltip='4:42 2-4-CLV 45DET 14 CLV 17 LI: 1.5(Shotgun) 35-J.Bell right guard to CLV 42 for 3 yards(52-D.Jackson; 71-A.Rubin).'>40.3</number><number>0.45</number>
+<number shadow='shadow1' tooltip='3:59 3-1-CLV 42DET 14 CLV 17 LI: 1.435-J.Bell left guard to CLV 39 for 3 yards(52-D.Jackson).'>41.02</number><number>0.47</number>
+<number shadow='shadow1' tooltip='3:20 1-10-CLV 39DET 14 CLV 17 LI: 1.5(Shotgun) 21-R.Bush right guard to CLV 36 for 3 yards(43-T.Ward).'>41.67</number><number>0.46</number>
+<number shadow='shadow1' tooltip='2:43 2-7-CLV 36DET 14 CLV 17 LI: 1.4(Shotgun) 9-M.Stafford pass incomplete short right to 18-K.Durham.'>42.28</number><number>0.43</number>
+<number shadow='shadow1' tooltip='2:38 3-7-CLV 36DET 14 CLV 17 LI: 1.1(Shotgun) 9-M.Stafford pass short right to 81-C.Johnson to CLV 28 for 8 yards(22-B.Skrine).'>42.37</number><number>0.5</number>
+<number shadow='shadow1' tooltip='1:55 1-10-CLV 28DET 14 CLV 17 LI: 1.6(Shotgun) 9-M.Stafford pass deep middle intended for 83-P.Edwards INTERCEPTED by 39-T.Gipson (22-B.Skrine) at CLV -539-T.Gipson to CLV 30 for 35 yards(78-C.Hilliard)tipped by 22 Skrine'>43.08</number><number>0.33</number>
+<number shadow='shadow1' tooltip='1:40 1-10-CLV 30DET 14 CLV 17 LI: 1.726-W.McGahee left guard to CLV 32 for 2 yards(99-C.Mosley).'>43.33</number><number>0.33</number>
+<number shadow='shadow1' tooltip='1:05 2-8-CLV 32DET 14 CLV 17 LI: 1.6(Shotgun) 3-B.Weeden pass short right to 82-G.Barnidge to CLV 30 for -2 yards(27-G.Quin; 30-D.Slay) [55-S.Tulloch].'>43.92</number><number>0.37</number>
+<number shadow='shadow1' tooltip='15:00 4-19-CLV 21DET 14 CLV 17 LI: 1(Punt formation) 5-S.Lanning punts 48 yards to DET 31 Center-57-C.Yount15-M.Spurlock to DET 33 for 2 yards(59-T.Carder).'>45</number><number>0.4</number>
+<number shadow='shadow1' tooltip='14:49 1-10-DET 33DET 14 CLV 17 LI: 1.6(Shotgun) 35-J.Bell left tackle to DET 36 for 3 yards(51-B.Mingo).'>45.18</number><number>0.4</number>
+<number shadow='shadow1' tooltip='14:11 2-7-DET 36DET 14 CLV 17 LI: 1.5(Shotgun) 9-M.Stafford pass short left to 21-R.Bush to DET 48 for 12 yards(21-C.Owens) [98-P.Taylor].'>45.82</number><number>0.44</number>
+<number shadow='shadow1' tooltip='13:31 1-10-DET 48DET 14 CLV 17 LI: 1.735-J.Bell right guard to CLV 47 for 5 yards(71-A.Rubin; 43-T.Ward).'>46.48</number><number>0.44</number>
+<number shadow='shadow1' tooltip='12:49 2-5-CLV 47DET 14 CLV 17 LI: 1.6(Shotgun) 9-M.Stafford pass short left to 21-R.Bush to CLV 38 for 9 yards(52-D.Jackson).'>47.18</number><number>0.48</number>
+<number shadow='shadow1' tooltip='12:05 1-10-CLV 38DET 14 CLV 17 LI: 1.9(Shotgun) 9-M.Stafford pass short right to 18-K.Durham to CLV 35 for 3 yards(22-B.Skrine).'>47.92</number><number>0.48</number>
+<number shadow='shadow1' tooltip='11:26 2-7-CLV 35DET 14 CLV 17 LI: 1.9(Shotgun) 9-M.Stafford pass incomplete short middle to 84-R.Broyles.'>48.57</number><number>0.43</number>
+<number shadow='shadow1' tooltip='11:24 3-7-CLV 35DET 14 CLV 17 LI: 1.4(Shotgun) 9-M.Stafford pass short left to 87-B.Pettigrew to CLV 23 for 12 yards(53-C.Robertson).'>48.6</number><number>0.54</number>
+<number shadow='shadow1' tooltip='10:41 1-10-CLV 23DET 14 CLV 17 LI: 2.3(Shotgun) 9-M.Stafford pass deep right to 80-J.Fauria for 23 yards TOUCHDOWN.'>49.32</number><number>0.68</number>
+<number shadow='shadow1' tooltip='10:41 DET 14 CLV 17 LI: 2-D.Akers extra point is GOOD Center-48-D.Muhlbach Holder-6-S.Martin.'>49.36</number><number>0.68</number>
+<number shadow='shadow1' tooltip='10:41 DET 21 CLV 17 LI: 6-S.Martin kicks 73 yards from DET 35 to CLV -818-G.Little Touchback.'>49.41</number><number>0.7</number>
+<number shadow='shadow1' tooltip='10:35 1-10-CLV 20DET 21 CLV 17 LI: 1.5(Shotgun) 3-B.Weeden pass short left to 12-J.Gordon to CLV 34 for 14 yards(26-L.Delmas).'>49.42</number><number>0.66</number>
+<number shadow='shadow1' tooltip='9:57 1-10-CLV 34DET 21 CLV 17 LI: 1.93-B.Weeden pass incomplete deep right [98-N.Fairley]PENALTY on CLV-3-B.Weeden Intentional Grounding 10 yards enforced at CLV 34.'>50.05</number><number>0.74</number>
+<number shadow='shadow1' tooltip='9:49 2-25-CLV 19DET 21 CLV 17 LI: 1(Shotgun) 3-B.Weeden pass incomplete deep right to 18-G.LittlePlay Challenged by CLV and Upheld(Timeout #1.)'>50.18</number><number>0.79</number>
+<number shadow='shadow1' tooltip='9:41 3-25-CLV 19DET 21 CLV 17 LI: 0.8(Shotgun) 3-B.Weeden pass short left to 25-C.Ogbonnaya to CLV 32 for 13 yards(23-C.Houston).'>50.32</number><number>0.77</number>
+<number shadow='shadow1' tooltip='9:05 4-12-CLV 32DET 21 CLV 17 LI: 15-S.Lanning punts 44 yards to DET 24 Center-57-C.Yount15-M.Spurlock to DET 26 for 2 yards(96-P.Hazel; 59-T.Carder)PENALTY on CLV-24-J.Bademosi Unsportsmanlike Conduct 15 yards enforced at DET 26.'>50.92</number><number>0.81</number>
+<number shadow='shadow1' tooltip='8:57 1-10-DET 41DET 21 CLV 17 LI: 2.621-R.Bush left tackle to DET 44 for 3 yards(39-T.Gipson).'>51.05</number><number>0.82</number>
+<number shadow='shadow1' tooltip='8:17 2-7-DET 44DET 21 CLV 17 LI: 2.6(Shotgun) 9-M.Stafford pass short middle to 18-K.Durham to CLV 39 for 17 yards(53-C.Robertson).'>51.72</number><number>0.87</number>
+<number shadow='shadow1' tooltip='7:38 1-10-CLV 39DET 21 CLV 17 LI: 2.225-M.Leshoure left guard to CLV 35 for 4 yards(52-D.Jackson; 43-T.Ward).'>52.37</number><number>0.86</number>
+<number shadow='shadow1' tooltip='6:55 2-6-CLV 35DET 21 CLV 17 LI: 1.8(Shotgun) 21-R.Bush right guard to CLV 33 for 2 yards(22-B.Skrine).'>53.08</number><number>0.85</number>
+<number shadow='shadow1' tooltip='6:11 3-4-CLV 33DET 21 CLV 17 LI: 1.3(Shotgun) 9-M.Stafford pass incomplete short middle to 81-C.Johnson (43-T.Ward).'>53.82</number><number>0.79</number>
+<number shadow='shadow1' tooltip='6:04 4-4-CLV 33DET 21 CLV 17 LI: 0.7(Field Goal formation) 2-D.Akers 51 yard field goal is GOOD Center-48-D.Muhlbach Holder-6-S.Martin.'>53.93</number><number>0.86</number>
+<number shadow='shadow1' tooltip='6:04 DET 24 CLV 17 LI: 6-S.Martin kicks 70 yards from DET 35 to CLV -518-G.Little to CLV 16 for 21 yards(30-D.Slay).'>54.02</number><number>0.9</number>
+<number shadow='shadow1' tooltip='5:37 1-10-CLV 31DET 24 CLV 17 LI: 1.1(Shotgun) 3-B.Weeden pass incomplete short right to 80-T.Benjamin (28-D.Bentley).'>54.38</number><number>0.86</number>
+<number shadow='shadow1' tooltip='5:31 2-10-CLV 31DET 24 CLV 17 LI: 1.1(Shotgun) 3-B.Weeden pass short left to 84-J.Cameron to CLV 38 for 7 yards(23-C.Houston).'>54.48</number><number>0.86</number>
+<number shadow='shadow1' tooltip='5:11 3-3-CLV 38DET 24 CLV 17 LI: 1.1(Shotgun) 3-B.Weeden pass short right to 12-J.Gordon to DET 44 for 18 yards(55-S.Tulloch).'>54.82</number><number>0.79</number>
+<number shadow='shadow1' tooltip='4:44 1-10-DET 44DET 24 CLV 17 LI: 1.5(No Huddle Shotgun) 3-B.Weeden pass short left intended for 25-C.Ogbonnaya INTERCEPTED by 54-D.Levy at CLV 4954-D.Levy ran ob at CLV 49 for no gain.'>55.27</number><number>0.96</number>
+<number shadow='shadow1' tooltip='4:36 1-10-CLV 49DET 24 CLV 17 LI: 1.621-R.Bush right guard to CLV 46 for 3 yards(51-B.Mingo; 52-D.Jackson).'>55.4</number><number>0.9</number>
+<number shadow='shadow1' tooltip='3:53 2-7-CLV 46DET 24 CLV 17 LI: 0.8(Shotgun) 9-M.Stafford pass short right to 21-R.Bush to CLV 38 for 8 yards(53-C.Robertson).'>56.12</number><number>0.96</number>
+<number shadow='shadow1' tooltip='3:11 1-10-CLV 38DET 24 CLV 17 LI: 1.1PENALTY on DET-71-R.Reiff False Start 5 yards enforced at CLV 38 - No Play.'>56.82</number><number>0.96</number>
+<number shadow='shadow1' tooltip='3:09 1-15-CLV 43DET 24 CLV 17 LI: 1.3(Shotgun) 9-M.Stafford pass incomplete short left to 18-K.Durham.'>56.85</number><number>0.85</number>
+<number shadow='shadow1' tooltip='3:07 2-15-CLV 43DET 24 CLV 17 LI: 0.2(Shotgun) 9-M.Stafford pass short middle to 87-B.Pettigrew to CLV 31 for 12 yards(43-T.Ward).'>56.88</number><number>0.95</number>
+<number shadow='shadow1' tooltip='3:01 3-3-CLV 31DET 24 CLV 17 LI: 0.8(Shotgun) 9-M.Stafford pass incomplete short middle to 81-C.Johnson (22-B.Skrine) [54-Q.Groves]PENALTY on CLV-54-Q.Groves Roughing the Passer 15 yards enforced at CLV 31 - No Play.'>56.98</number><number>0.99</number>
+<number shadow='shadow1' tooltip='2:58 1-10-CLV 16DET 24 CLV 17 LI: 221-R.Bush right guard to CLV 13 for 3 yards(43-T.Ward).'>57.03</number><number>0.98</number>
+<number shadow='shadow1' tooltip='2:52 2-7-CLV 13DET 24 CLV 17 LI: 2.121-R.Bush right guard to CLV 10 for 3 yards(71-A.Rubin).'>57.13</number><number>0.98</number>
+<number shadow='shadow1' tooltip='2:05 3-4-CLV 10DET 24 CLV 17 LI: 1.4(Shotgun) 9-M.Stafford pass short right to 80-J.Fauria for 10 yards TOUCHDOWN.'>57.92</number><number>0.98</number>
+<number shadow='shadow1' tooltip='2:05 DET 24 CLV 17 LI: 2-D.Akers extra point is GOOD Center-48-D.Muhlbach Holder-6-S.Martin.'>57.96</number><number>0.98</number>
+<number shadow='shadow1' tooltip='2:05 DET 31 CLV 17 LI: 6-S.Martin kicks 72 yards from DET 35 to CLV -735-F.Whittaker Touchback.'>58.01</number><number>0.99</number>
+<number shadow='shadow1' tooltip='1:54 1-10-CLV 30DET 31 CLV 17 LI: 0.1(Shotgun) 3-B.Weeden pass incomplete short right to 25-C.Ogbonnaya.'>58.1</number><number>0.99</number>
+<number shadow='shadow1' tooltip='1:50 2-10-CLV 30DET 31 CLV 17 LI: 0.1(Shotgun) 3-B.Weeden pass incomplete short left to 25-C.Ogbonnaya.'>58.17</number><number>0.99</number>
+<number shadow='shadow1' tooltip='1:45 3-10-CLV 30DET 31 CLV 17 LI: 0.1(Shotgun) 3-B.Weeden pass short right to 84-J.Cameron to CLV 39 for 9 yards(28-D.Bentley; 55-S.Tulloch).'>58.25</number><number>0.99</number>
+<number shadow='shadow1' tooltip='1:17 4-1-CLV 39DET 31 CLV 17 LI: 0.1(No Huddle Shotgun) 25-C.Ogbonnaya right guard to CLV 45 for 6 yards(79-W.Young).'>58.72</number><number>0.99</number>
+<number shadow='shadow1' tooltip='0:57 1-10-CLV 45DET 31 CLV 17 LI: 0.1(No Huddle Shotgun) 3-B.Weeden pass short middle to 25-C.Ogbonnaya to DET 40 for 15 yards(54-D.Levy).'>59.05</number><number>0.99</number>
+<number shadow='shadow1' tooltip='0:41 2-10-DET 40DET 31 CLV 17 LI: 0.1(Shotgun) 3-B.Weeden sacked at CLV 46 for -14 yards(92-D.Taylor)FUMBLES (92-D.Taylor) recovered by CLV at CLV 46.'>59.32</number><number>0.99</number>
+<number shadow='shadow1' tooltip='0:26 3-24-CLV 46DET 31 CLV 17 LI: 0.13-B.Weeden pass short right to 84-J.Cameron to DET 21 for 33 yards(54-D.Levy).'>59.57</number><number>0.99</number>
+<number shadow='shadow1' tooltip='0:17 1-10-DET 21DET 31 CLV 17 LI: 0.1(Shotgun) 3-B.Weeden pass incomplete deep right to 18-G.LittleDET-27-G.Quin was injured during the playHis return is Doubtful.'>59.72</number><number>0.99</number>
+<number shadow='shadow1' tooltip='0:05 1-9-DET 9DET 31 CLV 17 LI: 0.1(Shotgun) 3-B.Weeden pass short left to 84-J.Cameron to DET 8 for 1 yard(54-D.Levy).'>59.92</number><number>1</number>
+<number>60</number><number>1</number>
+</row> </chart_data>
+       <draw>
+
+
+
+      <image x='45' y='298'  url='nfllogos/42x50png/DET.gif'  layer='foreground' glow = 'glow1'/>
+      <image x='45' y='350'  url='nfllogos/42x50png/CLV.gif'     layer='foreground' glow = 'glow1'/>
+
+
+      <rect x='130' y='300' width='250' height='40' fill_color='0064ae' bevel='bevel1' />
+      <text x='135' y='300' width='250' height='40' h_align='left' v_align='middle' color='ffffff' shadow='shadow2' glow='winnerglow'>Detroit Lions</text>
+
+      <rect x='130' y='350' width='250' height='40' fill_color='522b20' bevel='bevel1'  />
+      <text x='135' y='350' width='250' height='40' h_align='left' v_align='middle' color='ffffff' shadow='shadow2' glow=''>Cleveland Browns</text>
+
+      <rect x='420' y='300' width='60' height='40' fill_color='0064ae' bevel='bevel1'  />
+      <text x='420' y='300' width='60' height='40' h_align='center' v_align='middle' color='ffffff' shadow='shadow2' transition='none' glow='winnerglow'>31</text>
+
+      <rect x='420' y='350' width='60' height='40' fill_color='522b20' bevel='bevel1' />
+      <text x='420' y='350' width='60' height='40' h_align='center' v_align='middle' color='ffffff' shadow='shadow2' transition='none' glow=''>17</text>
+
+      <text x='-3' y='12'  width='60' height='40' h_align='center' v_align='middle' size='13' shadow='shadow2'>DETWin </text>
+      <text x='-3' y='218' width='60' height='40' h_align='center' v_align='middle' size='13' shadow='shadow2'>CLVWin </text>
+
+     
+              <rect x='540' y='300' width='100' height='35' fill_color='000000' fill_alpha='50'/>
+              <text x='540' y='300' width='100' height='35' h_align='center' v_align='middle' color='ffffff' size='15' shadow='shadow2' >Final</text>
+
+              <text x='540' y='340' width='40' h_align='center' color='000000' size='12' shadow='shadow2'>CBF</text>
+              <text x='600' y='340' width='40' h_align='center' color='000000' size='12' shadow='shadow2'>EI</text>
+
+              <rect x='540' y='360' width='40' height='30' fill_color='000000' fill_alpha='50' />
+              <text x='540' y='360' width='40' height='30' size='12' h_align='center' v_align='middle' color='FFFFFF' shadow='shadow2'>6</text>
+
+              <rect x='600' y='360' width='40' height='30' fill_color='000000' fill_alpha='50' />
+              <text x='600' y='360' width='40' height='30' size='12' h_align='center' v_align='middle' color='FFFFFF' shadow='shadow2'>4.1</text>
+
+              <text x='20' y='420' width='70' height='25' size='12' h_align='left' v_align='middle' color='000000' >10/13/2013</text>
+              <text x='100' y='420' width='200' height='25' size='12' h_align='left' v_align='middle' color='000000' >FirstEnergy Stadium</text>
+
+   </draw></chart>

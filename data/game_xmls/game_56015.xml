@@ -1,0 +1,299 @@
+
+<chart>
+   <license>ETAS9P33ESHO.945CWK-2XOI1X0-7L</license>
+   <chart_type>scatter</chart_type>
+   <chart_pref trend_thickness='0' line_thickness='3' point_size='0'/>
+
+   <series_color>
+      <color>ffff00</color>
+   </series_color>
+
+   <chart_rect x='45' y='20' width='630' height='230' positive_color='cacaca'  />
+
+  <chart_border top_thickness='0'
+                 bottom_thickness='0'
+                 left_thickness='0'
+                 right_thickness='0'
+                 color='000000'
+                 />
+
+   <tooltip font='Arial' bold='true' size='11' />
+
+   <chart_note type='flag'
+               color='000000'
+               alpha='90'
+               bold='FALSE'
+               size='10'
+               background_color='ffffe0'
+               background_alpha='50'
+               shadow='shadow2'
+               />
+
+   <chart_grid_h thickness='2' color='ffffff' type='dashed'  />
+   <chart_grid_v thickness='2' color='ffffff'   />
+		>
+
+   <legend layout='hide' />
+
+   <chart_guide horizontal='TRUE'
+             vertical='TRUE'
+             thickness='1'
+             color='006400'
+             alpha='100'
+             type='solid'
+             snap_h='TRUE'
+             snap_v='TRUE'
+             radius='3'
+             fill_color='006400'
+             fill_alpha='100'
+             line_color='006400'
+             line_alpha='80'
+             line_thickness='1'
+             text_h_alpha='50'
+             text_v_alpha='00'
+             suffix_h=' WP'
+             decimals='2'
+             bold='FALSE'
+             size='11'
+             text_color='FFFFFF'
+             background_color='006400'
+             />
+   <filter>
+      <shadow id='shadow1' distance='2' angle='60' blurX='5' blurY='5' alpha='50' />
+      <bevel id='bevel1' angle='45' blurX='5' blurY='5' distance='0' />
+      <glow id='glow1' color='ffffff' alpha='0' blurX='7' blurY='7' strength='6' quality='2' inner='FALSE' knockout='FALSE' />
+      <glow id='winnerglow' color='ffffff' alpha='0' blurX='7' blurY='7' strength='5' quality='2' inner='FALSE' knockout='FALSE' />
+   </filter>
+
+    <axis_value_label>
+         <string></string>
+          <string> </string>
+          <null/>
+          <string> </string>
+          <string></string>
+
+       </axis_value_label>
+		
+	   <axis_ticks category_ticks='false'/>
+
+       <axis_value min='0' max='1' steps='4'  decimals='2' show_min='true' size='13' shadow='shadow2' />     
+            <axis_category
+               min='0'
+               max='60'
+               steps='4'
+               mode='all'
+               decimals='0'
+               size='13'
+               shadow='shadow2'
+               />
+
+       <axis_category_label>
+          <string>Kickoff</string>
+          <string></string>
+          <string>Halftime</string>
+          <string></string>
+          <string>End</string>
+
+       </axis_category_label>
+
+
+        <chart_data>
+       <row>
+	      <null/><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number>
+              <number>x</number><number>y</number>
+              </row><row><string></string>
+
+                     <number shadow='shadow1'>0</number><number>.5</number><number shadow='shadow1' tooltip='15:00 PIT 0 BLT 0 LI: 9-J.Tucker kicks 65 yards from BLT 35 to end zone Touchback.'>0.09</number><number>0.52</number>
+<number shadow='shadow1' tooltip='14:20 2-10-PIT 20PIT 0 BLT 0 LI: 1.426-L.Bell right end to PIT 18 for -2 yards(21-L.Webb).'>0.67</number><number>0.47</number>
+<number shadow='shadow1' tooltip='13:45 3-12-PIT 18PIT 0 BLT 0 LI: 1.2(No Huddle) 26-L.Bell right guard to PIT 26 for 8 yards(32-J.Ihedigbo; 24-C.Graham).'>1.25</number><number>0.46</number>
+<number shadow='shadow1' tooltip='12:35 4-4-PIT 26PIT 0 BLT 0 LI: 0.9(Punt formation) 10-M.McBriar punts 56 yards to BLT 18 Center-60-G.Warren12-J.Jones to BLT 29 for 11 yards(41-A.Blake).'>2.42</number><number>0.47</number>
+<number shadow='shadow1' tooltip='12:24 1-10-BLT 29PIT 0 BLT 0 LI: 1.55-J.Flacco pass incomplete deep right to 12-J.Jones (22-W.Gay).'>2.6</number><number>0.49</number>
+<number shadow='shadow1' tooltip='12:15 2-10-BLT 29PIT 0 BLT 0 LI: 1.3(Shotgun) 27-R.Rice left tackle to BLT 32 for 3 yards(93-J.Worilds; 97-C.Heyward).'>2.75</number><number>0.49</number>
+<number shadow='shadow1' tooltip='11:39 3-7-BLT 32PIT 0 BLT 0 LI: 1.2(No Huddle Shotgun) 5-J.Flacco pass short left to 80-B.Stokley to BLT 41 for 9 yards(20-W.Allen).'>3.35</number><number>0.45</number>
+<number shadow='shadow1' tooltip='11:10 1-10-BLT 41PIT 0 BLT 0 LI: 1.4(No Huddle Shotgun) 5-J.Flacco pass short right to 82-T.Smith to BLT 45 for 4 yards(24-I.Taylor).'>3.83</number><number>0.46</number>
+<number shadow='shadow1' tooltip='10:35 2-6-BLT 45PIT 0 BLT 0 LI: 1.2(No Huddle Shotgun) 5-J.Flacco pass deep middle to 82-T.Smith to PIT 1 for 54 yards(28-C.Allen).'>4.42</number><number>0.3</number>
+<number shadow='shadow1' tooltip='10:17 1-1-PIT 1PIT 0 BLT 0 LI: 2No76 Reid reports eligible 27-R.Rice up the middle to PIT 1 for no gain (25-R.Clark; 20-W.Allen).'>4.72</number><number>0.3</number>
+<number shadow='shadow1' tooltip='9:54 2-1-PIT 1PIT 0 BLT 0 LI: 25-J.Flacco sacked at PIT 7 for -6 yards(93-J.Worilds).'>5.1</number><number>0.36</number>
+<number shadow='shadow1' tooltip='9:23 3-7-PIT 7PIT 0 BLT 0 LI: 1.4(Shotgun) 5-J.Flacco pass short middle to 82-T.Smith for 7 yards TOUCHDOWN.'>5.62</number><number>0.29</number>
+<number shadow='shadow1' tooltip='9:23 PIT 0 BLT 0 LI: 9-J.Tucker extra point is GOOD Center-46-M.Cox Holder-4-S.Koch.'>5.66</number><number>0.29</number>
+<number shadow='shadow1' tooltip='9:23 PIT 0 BLT 7 LI: 9-J.Tucker kicks 70 yards from BLT 35 to PIT -588-E.Sanders to PIT 21 for 26 yards(24-C.Graham).'>5.71</number><number>0.28</number>
+<number shadow='shadow1' tooltip='9:11 1-10-PIT 21PIT 0 BLT 7 LI: 1.526-L.Bell left guard to PIT 22 for 1 yard(51-D.Smith; 92-H.Ngata).'>5.82</number><number>0.27</number>
+<number shadow='shadow1' tooltip='8:28 2-9-PIT 22PIT 0 BLT 7 LI: 1.426-L.Bell left guard to PIT 25 for 3 yards(97-A.Jones).'>6.53</number><number>0.27</number>
+<number shadow='shadow1' tooltip='7:44 3-6-PIT 25PIT 0 BLT 7 LI: 1.3(Shotgun) 7-B.Roethlisberger pass short middle to 84-A.Brown to PIT 33 for 8 yards(24-C.Graham).'>7.27</number><number>0.3</number>
+<number shadow='shadow1' tooltip='6:58 1-10-PIT 33PIT 0 BLT 7 LI: 1.47-B.Roethlisberger pass incomplete short middle to 83-H.Miller (99-C.Canty).'>8.03</number><number>0.3</number>
+<number shadow='shadow1' tooltip='6:53 2-10-PIT 33PIT 0 BLT 7 LI: 1.47-B.Roethlisberger pass short right to 88-E.Sanders to PIT 36 for 3 yards(24-C.Graham; 58-E.Dumervil).'>8.12</number><number>0.29</number>
+<number shadow='shadow1' tooltip='6:16 3-7-PIT 36PIT 0 BLT 7 LI: 1.2(Shotgun) 7-B.Roethlisberger pass incomplete deep left to 88-E.Sanders.'>8.73</number><number>0.3</number>
+<number shadow='shadow1' tooltip='6:10 3-2-PIT 41PIT 0 BLT 7 LI: 1.2(Shotgun) 7-B.Roethlisberger pass short middle to 89-J.Cotchery to PIT 46 for 5 yards(58-E.Dumervil).'>8.83</number><number>0.32</number>
+<number shadow='shadow1' tooltip='5:30 1-10-PIT 46PIT 0 BLT 7 LI: 1.3(No Huddle Shotgun) 7-B.Roethlisberger pass short right to 26-L.Bell to PIT 47 for 1 yard(32-J.Ihedigbo; 56-J.Bynes).'>9.5</number><number>0.32</number>
+<number shadow='shadow1' tooltip='4:42 2-9-PIT 47PIT 0 BLT 7 LI: 1.2(No Huddle Shotgun) 7-B.Roethlisberger pass short left to 83-H.Miller to BLT 41 for 12 yards(51-D.Smith).'>10.3</number><number>0.34</number>
+<number shadow='shadow1' tooltip='4:00 1-10-BLT 41PIT 0 BLT 7 LI: 1.1(No Huddle) 26-L.Bell right guard to BLT 37 for 4 yards(21-L.Webb).'>11</number><number>0.34</number>
+<number shadow='shadow1' tooltip='3:19 2-6-BLT 37PIT 0 BLT 7 LI: 1(No Huddle Shotgun) 7-B.Roethlisberger pass incomplete deep right to 84-A.Brown.'>11.68</number><number>0.33</number>
+<number shadow='shadow1' tooltip='3:14 3-6-BLT 37PIT 0 BLT 7 LI: 0.9(Shotgun) 7-B.Roethlisberger pass incomplete short right to 89-J.Cotchery.'>11.77</number><number>0.31</number>
+<number shadow='shadow1' tooltip='3:00 1-10-BLT 11PIT 0 BLT 7 LI: 1.3(Shotgun) 30-B.Pierce left guard to BLT 14 for 3 yards(93-J.Worilds).'>12</number><number>0.29</number>
+<number shadow='shadow1' tooltip='2:23 2-7-BLT 14PIT 0 BLT 7 LI: 1.5(No Huddle Shotgun) 5-J.Flacco pass short right to 12-J.Jones to BLT 20 for 6 yards(28-C.Allen).'>12.62</number><number>0.28</number>
+<number shadow='shadow1' tooltip='1:56 3-1-BLT 20PIT 0 BLT 7 LI: 0.930-B.Pierce right guard to BLT 22 for 2 yards(98-V.Williams).'>13.07</number><number>0.28</number>
+<number shadow='shadow1' tooltip='1:17 1-10-BLT 22PIT 0 BLT 7 LI: 0.9(No Huddle Shotgun) 30-B.Pierce right end ran ob at BLT 34 for 12 yards(57-T.Garvin).'>13.72</number><number>0.24</number>
+<number shadow='shadow1' tooltip='0:52 1-10-BLT 34PIT 0 BLT 7 LI: 1.1(No Huddle Shotgun) 5-J.Flacco pass incomplete short right to 82-T.Smith.'>14.13</number><number>0.25</number>
+<number shadow='shadow1' tooltip='0:48 2-10-BLT 34PIT 0 BLT 7 LI: 1(No Huddle Shotgun) 30-B.Pierce right tackle to BLT 39 for 5 yards(97-C.Heyward).'>14.2</number><number>0.25</number>
+<number shadow='shadow1' tooltip='15:00 3-5-BLT 39PIT 0 BLT 7 LI: 0.9(Shotgun) 5-J.Flacco pass short middle to 80-B.Stokley to PIT 43 for 18 yards(24-I.Taylor).'>15</number><number>0.19</number>
+<number shadow='shadow1' tooltip='14:23 1-10-PIT 43PIT 0 BLT 7 LI: 1.2(No Huddle Shotgun) 27-R.Rice right end to PIT 41 for 2 yards(20-W.Allen).'>15.62</number><number>0.21</number>
+<number shadow='shadow1' tooltip='13:50 2-8-PIT 41PIT 0 BLT 7 LI: 1(No Huddle Shotgun) 5-J.Flacco pass incomplete deep right to 84-E.Dickson [96-E.Hood].'>16.17</number><number>0.23</number>
+<number shadow='shadow1' tooltip='13:44 3-8-PIT 41PIT 0 BLT 7 LI: 0.8(No Huddle Shotgun) 5-J.Flacco pass incomplete short right to 80-B.Stokley.'>16.27</number><number>0.27</number>
+<number shadow='shadow1' tooltip='13:39 4-8-PIT 41PIT 0 BLT 7 LI: 0.4(Punt formation) 4-S.Koch punts 26 yards to PIT 15 Center-46-M.Cox fair catch by 84-A.Brown.'>16.35</number><number>0.27</number>
+<number shadow='shadow1' tooltip='13:32 1-10-PIT 15PIT 0 BLT 7 LI: 1.47-B.Roethlisberger pass short right to 84-A.Brown ran ob at PIT 26 for 11 yards.'>16.47</number><number>0.29</number>
+<number shadow='shadow1' tooltip='12:55 1-10-PIT 26PIT 0 BLT 7 LI: 1.3(Shotgun) 7-B.Roethlisberger pass short right to 88-E.Sanders to PIT 31 for 5 yards(24-C.Graham).'>17.08</number><number>0.29</number>
+<number shadow='shadow1' tooltip='12:22 2-5-PIT 31PIT 0 BLT 7 LI: 1.2(Shotgun) 26-L.Bell left guard to PIT 37 for 6 yards(53-J.McClain; 32-J.Ihedigbo)Direct snap to Bell.'>17.63</number><number>0.3</number>
+<number shadow='shadow1' tooltip='11:38 1-10-PIT 37PIT 0 BLT 7 LI: 1.226-L.Bell right tackle to PIT 37 for no gain (97-A.Jones; 58-E.Dumervil).'>18.37</number><number>0.29</number>
+<number shadow='shadow1' tooltip='10:54 2-10-PIT 37PIT 0 BLT 7 LI: 1.1(Shotgun) 7-B.Roethlisberger scrambles right end to PIT 48 for 11 yards(56-J.Bynes).'>19.1</number><number>0.31</number>
+<number shadow='shadow1' tooltip='10:12 1-10-PIT 48PIT 0 BLT 7 LI: 1.17-B.Roethlisberger pass incomplete short middle to 88-E.Sanders.'>19.8</number><number>0.3</number>
+<number shadow='shadow1' tooltip='10:05 2-10-PIT 48PIT 0 BLT 7 LI: 1(Shotgun) 26-L.Bell left guard to PIT 49 for 1 yard(97-A.Jones; 90-P.McPhee).'>19.92</number><number>0.29</number>
+<number shadow='shadow1' tooltip='9:22 3-9-PIT 49PIT 0 BLT 7 LI: 0.9(Shotgun) 7-B.Roethlisberger pass short middle to 88-E.Sanders to BLT 36 for 15 yards(26-M.Elam).'>20.63</number><number>0.34</number>
+<number shadow='shadow1' tooltip='8:34 1-10-BLT 36PIT 0 BLT 7 LI: 1.1(Shotgun) PENALTY on PIT-66-D.DeCastro False Start 5 yards enforced at BLT 36 - No Play.'>21.43</number><number>0.33</number>
+<number shadow='shadow1' tooltip='8:08 1-15-BLT 41PIT 0 BLT 7 LI: 1.1(Shotgun) 7-B.Roethlisberger pass short left to 26-L.Bell to BLT 32 for 9 yards(91-C.Upshaw).'>21.87</number><number>0.34</number>
+<number shadow='shadow1' tooltip='7:36 2-6-BLT 32PIT 0 BLT 7 LI: 1(Shotgun) 7-B.Roethlisberger pass incomplete short left to 88-E.Sanders.'>22.4</number><number>0.33</number>
+<number shadow='shadow1' tooltip='7:31 3-6-BLT 32PIT 0 BLT 7 LI: 0.9(Shotgun) 7-B.Roethlisberger pass incomplete short left to 88-E.Sanders.'>22.48</number><number>0.3</number>
+<number shadow='shadow1' tooltip='7:27 4-6-BLT 32PIT 0 BLT 7 LI: 0.6(Field Goal formation) 6-S.Suisham right end to BLT 44 for -12 yards(36-J.Miles)Fake field goalMcBriar hands off to Suisham who is tackled for a loss.'>22.55</number><number>0.22</number>
+<number shadow='shadow1' tooltip='7:19 1-10-BLT 44PIT 0 BLT 7 LI: 1(Shotgun) 27-R.Rice left tackle to BLT 47 for 3 yards(93-J.Worilds).'>22.68</number><number>0.22</number>
+<number shadow='shadow1' tooltip='6:50 2-7-BLT 47PIT 0 BLT 7 LI: 1(No Huddle Shotgun) 5-J.Flacco pass incomplete short middle to 12-J.Jones (28-C.Allen)No12 Jones (BLT) injured.'>23.17</number><number>0.24</number>
+<number shadow='shadow1' tooltip='6:45 3-7-BLT 47PIT 0 BLT 7 LI: 0.8(Shotgun) 5-J.Flacco pass incomplete deep left to 82-T.Smith.'>23.25</number><number>0.17</number>
+<number shadow='shadow1' tooltip='6:38 1-10-PIT 27PIT 0 BLT 7 LI: 1.1(No Huddle Shotgun) 27-R.Rice left tackle to PIT 25 for 2 yards(93-J.Worilds).'>23.37</number><number>0.17</number>
+<number shadow='shadow1' tooltip='6:03 2-8-PIT 25PIT 0 BLT 7 LI: 1.1(No Huddle Shotgun) 5-J.Flacco pass incomplete deep left to 82-T.Smith (24-I.Taylor).'>23.95</number><number>0.19</number>
+<number shadow='shadow1' tooltip='5:57 3-8-PIT 25PIT 0 BLT 7 LI: 0.9(No Huddle Shotgun) 5-J.Flacco scrambles up the middle to PIT 16 for 9 yards(95-J.Jones).'>24.05</number><number>0.15</number>
+<number shadow='shadow1' tooltip='5:18 1-10-PIT 16PIT 0 BLT 7 LI: 1.1(Shotgun) PENALTY on BLT-68-A.Shipley False Start 5 yards enforced at PIT 16 - No Play.'>24.7</number><number>0.16</number>
+<number shadow='shadow1' tooltip='4:58 1-15-PIT 21PIT 0 BLT 7 LI: 1.1(Shotgun) 27-R.Rice left guard to PIT 21 for no gain (94-L.Timmons).'>25.03</number><number>0.18</number>
+<number shadow='shadow1' tooltip='4:27 2-15-PIT 21PIT 0 BLT 7 LI: 0.9(No Huddle Shotgun) 5-J.Flacco sacked at PIT 29 for -8 yards(93-J.Worilds)FUMBLES (93-J.Worilds) [93-J.Worilds] recovered by BLT-73-M.Yanda at PIT 2973-M.Yanda to PIT 29 for no gain (97-C.Heyward).'>25.55</number><number>0.22</number>
+<number shadow='shadow1' tooltip='3:45 3-23-PIT 29PIT 0 BLT 7 LI: 0.6(No Huddle Shotgun) 27-R.Rice left guard to PIT 25 for 4 yards(96-E.Hood; 20-W.Allen).'>26.25</number><number>0.22</number>
+<number shadow='shadow1' tooltip='3:06 4-19-PIT 25PIT 0 BLT 7 LI: 0.6(Field Goal formation) 9-J.Tucker 43 yard field goal is GOOD Center-46-M.Cox Holder-4-S.KochTucker has made 23 straight FGA.'>26.9</number><number>0.2</number>
+<number shadow='shadow1' tooltip='3:06 PIT 0 BLT 10 LI: 9-J.Tucker kicks 64 yards from BLT 35 to PIT 127-J.Dwyer to PIT 28 for 27 yards(23-Ch.Brown).'>26.99</number><number>0.2</number>
+<number shadow='shadow1' tooltip='2:54 1-10-PIT 28PIT 0 BLT 10 LI: 1.1(Shotgun) 7-B.Roethlisberger pass short left to 84-A.Brown to PIT 30 for 2 yards(22-J.Smith).'>27.1</number><number>0.19</number>
+<number shadow='shadow1' tooltip='2:11 2-8-PIT 30PIT 0 BLT 10 LI: 1(Shotgun) 7-B.Roethlisberger pass incomplete short right to 84-A.Brown.'>27.82</number><number>0.18</number>
+<number shadow='shadow1' tooltip='2:07 3-8-PIT 30PIT 0 BLT 10 LI: 0.9(Shotgun) 7-B.Roethlisberger pass short middle to 88-E.Sanders to PIT 37 for 7 yards(21-L.Webb) [55-T.Suggs]No58 - Dumervil (BLT) injured on play.'>27.88</number><number>0.16</number>
+<number shadow='shadow1' tooltip='2:00 4-1-PIT 37PIT 0 BLT 10 LI: 0.5(Punt formation) 10-M.McBriar punts 48 yards to BLT 15 Center-60-G.Warren out of bounds.'>28</number><number>0.18</number>
+<number shadow='shadow1' tooltip='1:50 1-10-BLT 15PIT 0 BLT 10 LI: 1.2(Shotgun) 5-J.Flacco pass short right to 27-R.Rice to BLT 16 for 1 yard(96-E.Hood).'>28.17</number><number>0.19</number>
+<number shadow='shadow1' tooltip='1:28 2-9-BLT 16PIT 0 BLT 10 LI: 1.1(No Huddle Shotgun) 5-J.Flacco pass short right to 87-D.Clark to BLT 24 for 8 yards(43-T.Polamalu; 20-W.Allen).'>28.53</number><number>0.17</number>
+<number shadow='shadow1' tooltip='1:04 3-1-BLT 24PIT 0 BLT 10 LI: 1.1(No Huddle) 27-R.Rice right guard to BLT 26 for 2 yards(96-E.Hood; 93-J.Worilds).'>28.93</number><number>0.16</number>
+<number shadow='shadow1' tooltip='0:40 2-3-BLT 33PIT 0 BLT 10 LI: 1.1(No Huddle Shotgun) PENALTY on BLT-74-M.Oher False Start 5 yards enforced at BLT 33 - No Play.'>29.33</number><number>0.17</number>
+<number shadow='shadow1' tooltip='0:26 2-8-BLT 28PIT 0 BLT 10 LI: 1.15-J.Flacco pass short middle to 27-R.Rice to BLT 32 for 4 yards(94-L.Timmons; 93-J.Worilds).'>29.57</number><number>0.2</number>
+<number shadow='shadow1' tooltip='0:26 PIT 0 BLT 10 LI: 6-S.Suisham kicks 64 yards from PIT 35 to BLT 112-J.Jones to BLT 32 for 31 yards(21-R.Golden).'>29.66</number><number>0.15</number>
+<number shadow='shadow1' tooltip='14:51 1-10-BLT 32PIT 0 BLT 10 LI: 1.2(No Huddle Shotgun) 30-B.Pierce left guard to BLT 36 for 4 yards(93-J.Worilds).'>30.15</number><number>0.16</number>
+<number shadow='shadow1' tooltip='14:31 2-6-BLT 36PIT 0 BLT 10 LI: 1(No Huddle Shotgun) 5-J.Flacco pass short right to 12-J.Jones to BLT 46 for 10 yards(28-C.Allen).'>30.48</number><number>0.13</number>
+<number shadow='shadow1' tooltip='14:00 1-10-BLT 46PIT 0 BLT 10 LI: 1.1(No Huddle Shotgun) 30-B.Pierce right guard to BLT 48 for 2 yards(93-J.Worilds; 97-C.Heyward).'>31</number><number>0.14</number>
+<number shadow='shadow1' tooltip='13:33 2-8-BLT 48PIT 0 BLT 10 LI: 1(No Huddle Shotgun) 5-J.Flacco pass incomplete deep right to 12-J.Jones [93-J.Worilds].'>31.45</number><number>0.16</number>
+<number shadow='shadow1' tooltip='13:27 3-8-BLT 48PIT 0 BLT 10 LI: 0.8(No Huddle Shotgun) 5-J.Flacco pass short left to 82-T.Smith to PIT 44 for 8 yards(28-C.Allen).'>31.55</number><number>0.12</number>
+<number shadow='shadow1' tooltip='12:57 1-10-PIT 44PIT 0 BLT 10 LI: 1.1(No Huddle Shotgun) 5-J.Flacco pass short right to 14-M.Brown to PIT 32 for 12 yards(97-C.Heyward; 65-A.Woods).'>32.05</number><number>0.1</number>
+<number shadow='shadow1' tooltip='12:13 1-10-PIT 32PIT 0 BLT 10 LI: 1.1(No Huddle Shotgun) 5-J.Flacco pass short middle to 30-B.Pierce to PIT 30 for 2 yards(94-L.Timmons).'>32.78</number><number>0.1</number>
+<number shadow='shadow1' tooltip='11:43 2-8-PIT 30PIT 0 BLT 10 LI: 1.1(No Huddle Shotgun) 30-B.Pierce left guard to PIT 30 for no gain (94-L.Timmons; 25-R.Clark).'>33.28</number><number>0.12</number>
+<number shadow='shadow1' tooltip='11:07 3-8-PIT 30PIT 0 BLT 10 LI: 0.9(No Huddle Shotgun) 5-J.Flacco pass short right to 82-T.Smith pushed ob at PIT 20 for 10 yards(28-C.Allen).'>33.88</number><number>0.07</number>
+<number shadow='shadow1' tooltip='10:29 1-10-PIT 20PIT 0 BLT 10 LI: 1.2(No Huddle Shotgun) 27-R.Rice up the middle to PIT 11 for 9 yards(25-R.Clark).'>34.52</number><number>0.08</number>
+<number shadow='shadow1' tooltip='9:50 2-1-PIT 11PIT 0 BLT 10 LI: 1(No Huddle Shotgun) PENALTY on BLT-74-M.Oher False Start 5 yards enforced at PIT 11 - No Play.'>35.17</number><number>0.09</number>
+<number shadow='shadow1' tooltip='9:36 2-6-PIT 16PIT 0 BLT 10 LI: 0.9(No Huddle Shotgun) 5-J.Flacco pass incomplete deep left to 82-T.Smith (24-I.Taylor).'>35.4</number><number>0.1</number>
+<number shadow='shadow1' tooltip='9:32 3-6-PIT 16PIT 0 BLT 10 LI: 0.8(No Huddle Shotgun) 5-J.Flacco pass incomplete short left to 27-R.Rice.'>35.47</number><number>0.11</number>
+<number shadow='shadow1' tooltip='9:26 4-6-PIT 16PIT 0 BLT 10 LI: 0.79-J.Tucker 34 yard field goal is GOOD Center-46-M.Cox Holder-4-S.KochTucker has now made 24 straight FGA.'>35.57</number><number>0.11</number>
+<number shadow='shadow1' tooltip='9:26 PIT 0 BLT 13 LI: 9-J.Tucker kicks 65 yards from BLT 35 to end zone Touchback.'>35.66</number><number>0.1</number>
+<number shadow='shadow1' tooltip='8:41 1-10-PIT 41PIT 0 BLT 13 LI: 0.7(No Huddle Shotgun) 26-L.Bell right guard to PIT 47 for 6 yards(56-J.Bynes; 32-J.Ihedigbo).'>36.32</number><number>0.12</number>
+<number shadow='shadow1' tooltip='8:00 2-4-PIT 47PIT 0 BLT 13 LI: 0.6(No Huddle Shotgun) 7-B.Roethlisberger pass short left to 83-H.Miller to PIT 49 for 2 yards(56-J.Bynes).'>37</number><number>0.11</number>
+<number shadow='shadow1' tooltip='7:26 3-2-PIT 49PIT 0 BLT 13 LI: 0.5(No Huddle) 26-L.Bell right guard to BLT 8 for 43 yards(26-M.Elam; 24-C.Graham).'>37.57</number><number>0.22</number>
+<number shadow='shadow1' tooltip='6:44 1-8-BLT 8PIT 0 BLT 13 LI: 1.6(No Huddle Shotgun) 7-B.Roethlisberger pass incomplete short middle to 88-E.Sanders.'>38.27</number><number>0.21</number>
+<number shadow='shadow1' tooltip='6:41 2-8-BLT 8PIT 0 BLT 13 LI: 1.5(No Huddle Shotgun) 7-B.Roethlisberger pass incomplete short left to 89-J.Cotchery (22-J.Smith).'>38.32</number><number>0.19</number>
+<number shadow='shadow1' tooltip='6:33 3-8-BLT 8PIT 0 BLT 13 LI: 1.3(Shotgun) 7-B.Roethlisberger pass short middle to 88-E.Sanders for 8 yards TOUCHDOWN [92-H.Ngata].'>38.45</number><number>0.24</number>
+<number shadow='shadow1' tooltip='6:33 PIT 0 BLT 13 LI: 6-S.Suisham extra point is GOOD Center-60-G.Warren Holder-10-M.McBriar.'>38.49</number><number>0.24</number>
+<number shadow='shadow1' tooltip='6:33 PIT 7 BLT 13 LI: 6-S.Suisham kicks 65 yards from PIT 35 to BLT 012-J.Jones to PIT 27 for 73 yards(28-C.Allen).'>38.54</number><number>0.17</number>
+<number shadow='shadow1' tooltip='6:16 1-10-PIT 27PIT 7 BLT 13 LI: 1(Shotgun) 5-J.Flacco pass short middle to 84-E.Dickson to PIT 11 for 16 yards(25-R.Clark).'>38.73</number><number>0.13</number>
+<number shadow='shadow1' tooltip='5:45 1-10-PIT 11PIT 7 BLT 13 LI: 1(No Huddle Shotgun) 27-R.Rice right tackle to PIT 9 for 2 yards(94-L.Timmons; 25-R.Clark).'>39.25</number><number>0.13</number>
+<number shadow='shadow1' tooltip='5:08 2-8-PIT 9PIT 7 BLT 13 LI: 1(No Huddle Shotgun) 5-J.Flacco pass short middle to 27-R.Rice to PIT 7 for 2 yards(94-L.Timmons).'>39.87</number><number>0.14</number>
+<number shadow='shadow1' tooltip='4:27 3-6-PIT 7PIT 7 BLT 13 LI: 0.8(No Huddle Shotgun) 27-R.Rice up the middle to PIT 5 for 2 yards(94-L.Timmons).'>40.55</number><number>0.2</number>
+<number shadow='shadow1' tooltip='3:54 4-19-PIT 20PIT 7 BLT 13 LI: 0.4(Field Goal formation) 9-J.Tucker 38 yard field goal is GOOD Center-46-M.Cox Holder-4-S.Koch.'>41.1</number><number>0.19</number>
+<number shadow='shadow1' tooltip='3:54 PIT 7 BLT 16 LI: 9-J.Tucker kicks 66 yards from BLT 35 to PIT -188-E.Sanders to PIT 21 for 22 yards(26-M.Elam).'>41.19</number><number>0.18</number>
+<number shadow='shadow1' tooltip='3:43 1-10-PIT 21PIT 7 BLT 16 LI: 1(Shotgun) 7-B.Roethlisberger pass short right to 26-L.Bell to PIT 28 for 7 yards(53-J.McClain).'>41.28</number><number>0.19</number>
+<number shadow='shadow1' tooltip='2:59 2-3-PIT 28PIT 7 BLT 16 LI: 1(No Huddle Shotgun) 26-L.Bell right end to PIT 28 for no gain (24-C.Graham; 32-J.Ihedigbo).'>42.02</number><number>0.17</number>
+<number shadow='shadow1' tooltip='2:16 3-3-PIT 28PIT 7 BLT 16 LI: 0.8(No Huddle Shotgun) 7-B.Roethlisberger pass incomplete deep right to 26-L.Bell.'>42.73</number><number>0.15</number>
+<number shadow='shadow1' tooltip='2:11 4-3-PIT 28PIT 7 BLT 16 LI: 0.6(Punt formation) 10-M.McBriar punts 44 yards to BLT 28 Center-60-G.Warren12-J.Jones to BLT 36 for 8 yards(11-M.Wheaton).'>42.82</number><number>0.14</number>
+<number shadow='shadow1' tooltip='1:59 1-10-BLT 36PIT 7 BLT 16 LI: 1.2(No Huddle Shotgun) 30-B.Pierce right end to BLT 42 for 6 yards(97-C.Heyward; 96-E.Hood).'>43.02</number><number>0.12</number>
+<number shadow='shadow1' tooltip='1:29 2-4-BLT 42PIT 7 BLT 16 LI: 1.2(No Huddle Shotgun) 5-J.Flacco pass short right to 30-B.Pierce to BLT 42 for no gain (43-T.Polamalu).'>43.52</number><number>0.12</number>
+<number shadow='shadow1' tooltip='0:48 3-4-BLT 42PIT 7 BLT 16 LI: 1.1(No Huddle Shotgun) 5-J.Flacco pass deep left to 12-J.Jones to PIT 24 for 34 yards(28-C.Allen).'>44.2</number><number>0.08</number>
+<number shadow='shadow1' tooltip='15:00 1-10-PIT 24PIT 7 BLT 16 LI: 0.8No71 Wagner (BLT) is eligible5-J.Flacco pass incomplete deep right to 82-T.Smith.'>45</number><number>0.07</number>
+<number shadow='shadow1' tooltip='14:53 2-10-PIT 24PIT 7 BLT 16 LI: 0.8(No Huddle Shotgun) PENALTY on BLT-74-M.Oher False Start 5 yards enforced at PIT 24 - No Play.'>45.12</number><number>0.09</number>
+<number shadow='shadow1' tooltip='14:10 3-13-PIT 27PIT 7 BLT 16 LI: 0.5(No Huddle Shotgun) 5-J.Flacco pass incomplete short left to 87-D.Clark.'>45.83</number><number>0.11</number>
+<number shadow='shadow1' tooltip='14:03 4-13-PIT 27PIT 7 BLT 16 LI: 0.4(Field Goal formation) 9-J.Tucker 45 yard field goal is GOOD Center-46-M.Cox Holder-4-S.Koch.'>45.95</number><number>0.09</number>
+<number shadow='shadow1' tooltip='14:03 PIT 7 BLT 19 LI: 9-J.Tucker kicks 25 yards from BLT 35 to PIT 40 out of bounds.'>46.04</number><number>0.11</number>
+<number shadow='shadow1' tooltip='13:53 2-10-PIT 40PIT 7 BLT 19 LI: 0.6(No Huddle Shotgun) 7-B.Roethlisberger pass short middle to 26-L.Bell to PIT 47 for 7 yards(56-J.Bynes; 51-D.Smith).'>46.12</number><number>0.1</number>
+<number shadow='shadow1' tooltip='13:13 3-3-PIT 47PIT 7 BLT 19 LI: 0.6(No Huddle Shotgun) 7-B.Roethlisberger pass short right to 88-E.Sanders to BLT 48 for 5 yards(24-C.Graham).'>46.78</number><number>0.12</number>
+<number shadow='shadow1' tooltip='12:34 1-10-BLT 48PIT 7 BLT 19 LI: 0.7(No Huddle Shotgun) 7-B.Roethlisberger pass short left to 26-L.Bell to BLT 39 for 9 yards(55-T.Suggs).'>47.43</number><number>0.13</number>
+<number shadow='shadow1' tooltip='11:53 2-1-BLT 39PIT 7 BLT 19 LI: 0.8(No Huddle Shotgun) 26-L.Bell right tackle to BLT 37 for 2 yards(90-P.McPhee).'>48.12</number><number>0.13</number>
+<number shadow='shadow1' tooltip='11:19 1-10-BLT 37PIT 7 BLT 19 LI: 0.8(No Huddle Shotgun) 7-B.Roethlisberger pass short left to 83-H.Miller to BLT 35 for 2 yards(51-D.Smith).'>48.68</number><number>0.14</number>
+<number shadow='shadow1' tooltip='10:50 1-10-BLT 32PIT 7 BLT 19 LI: 0.9(No Huddle Shotgun) 7-B.Roethlisberger pass incomplete deep right to 84-A.Brown [92-H.Ngata].'>49.17</number><number>0.15</number>
+<number shadow='shadow1' tooltip='10:45 1-10-BLT 27PIT 7 BLT 19 LI: 1(No Huddle Shotgun) 7-B.Roethlisberger pass incomplete deep middle to 88-E.Sanders.'>49.25</number><number>0.13</number>
+<number shadow='shadow1' tooltip='10:39 2-10-BLT 27PIT 7 BLT 19 LI: 0.8(No Huddle Shotgun) 7-B.Roethlisberger pass incomplete deep right to 26-L.Bell (32-J.Ihedigbo) [97-A.Jones].'>49.35</number><number>0.11</number>
+<number shadow='shadow1' tooltip='10:33 3-10-BLT 27PIT 7 BLT 19 LI: 0.6(Shotgun) 7-B.Roethlisberger pass short right to 84-A.Brown to BLT 8 for 19 yards(24-C.Graham; 21-L.Webb).'>49.45</number><number>0.17</number>
+<number shadow='shadow1' tooltip='10:01 1-8-BLT 8PIT 7 BLT 19 LI: 1.2(No Huddle Shotgun) 7-B.Roethlisberger pass short left to 83-H.Miller to BLT 1 for 7 yards(51-D.Smith).'>49.98</number><number>0.19</number>
+<number shadow='shadow1' tooltip='9:36 2-1-BLT 1PIT 7 BLT 19 LI: 1.4(No Huddle Shotgun) 26-L.Bell right tackle for 1 yard TOUCHDOWN.'>50.4</number><number>0.2</number>
+<number shadow='shadow1' tooltip='9:36 PIT 7 BLT 19 LI: 6-S.Suisham extra point is GOOD Center-60-G.Warren Holder-10-M.McBriar.'>50.44</number><number>0.2</number>
+<number shadow='shadow1' tooltip='9:36 PIT 14 BLT 19 LI: 6-S.Suisham kicks 40 yards from PIT 35 to BLT 2540-K.Juszczyk to BLT 34 for 9 yards(41-A.Blake).'>50.49</number><number>0.18</number>
+<number shadow='shadow1' tooltip='9:28 1-10-BLT 34PIT 14 BLT 19 LI: 2.2(No Huddle Shotgun) 27-R.Rice left guard to BLT 37 for 3 yards(96-E.Hood).'>50.53</number><number>0.17</number>
+<number shadow='shadow1' tooltip='9:04 2-7-BLT 37PIT 14 BLT 19 LI: 2.3(No Huddle Shotgun) 5-J.Flacco pass short left to 12-J.Jones to BLT 40 for 3 yards(96-E.Hood).'>50.93</number><number>0.18</number>
+<number shadow='shadow1' tooltip='8:33 3-4-BLT 40PIT 14 BLT 19 LI: 2.1(No Huddle Shotgun) 5-J.Flacco pass short right to 27-R.Rice to PIT 38 for 22 yards(22-W.Gay).'>51.45</number><number>0.1</number>
+<number shadow='shadow1' tooltip='7:54 1-10-PIT 38PIT 14 BLT 19 LI: 2(No Huddle Shotgun) 30-B.Pierce right tackle to PIT 37 for 1 yard(65-A.Woods; 97-C.Heyward).'>52.1</number><number>0.12</number>
+<number shadow='shadow1' tooltip='7:18 2-9-PIT 37PIT 14 BLT 19 LI: 1.7(No Huddle Shotgun) PENALTY on BLT-82-T.Smith False Start 5 yards enforced at PIT 37 - No Play.'>52.7</number><number>0.13</number>
+<number shadow='shadow1' tooltip='7:02 2-14-PIT 42PIT 14 BLT 19 LI: 1.9(No Huddle Shotgun) 5-J.Flacco pass short right to 30-B.Pierce to PIT 40 for 2 yards(94-L.Timmons).'>52.97</number><number>0.14</number>
+<number shadow='shadow1' tooltip='6:27 3-12-PIT 40PIT 14 BLT 19 LI: 1.5(No Huddle Shotgun) 5-J.Flacco pass short left to 82-T.Smith to PIT 30 for 10 yards(24-I.Taylor).'>53.55</number><number>0.17</number>
+<number shadow='shadow1' tooltip='5:43 4-2-PIT 30PIT 14 BLT 19 LI: 0.7(Field Goal formation) 9-J.Tucker 48 yard field goal is GOOD Center-46-M.Cox Holder-4-S.KochTucker ties Ravens single game record with 5 FGs.'>54.28</number><number>0.11</number>
+<number shadow='shadow1' tooltip='5:43 PIT 14 BLT 22 LI: 9-J.Tucker kicks 71 yards from BLT 35 to PIT -623-F.Jones to PIT 21 for 27 yards(23-Ch.Brown).'>54.37</number><number>0.09</number>
+<number shadow='shadow1' tooltip='5:31 1-10-PIT 21PIT 14 BLT 22 LI: 0.4(No Huddle Shotgun) 7-B.Roethlisberger pass incomplete deep left to 89-J.Cotchery (24-C.Graham).'>54.48</number><number>0.07</number>
+<number shadow='shadow1' tooltip='5:22 2-10-PIT 21PIT 14 BLT 22 LI: 0.3(Shotgun) 7-B.Roethlisberger pass deep right to 84-A.Brown to PIT 40 for 19 yards(32-J.Ihedigbo).'>54.63</number><number>0.1</number>
+<number shadow='shadow1' tooltip='4:53 1-10-PIT 40PIT 14 BLT 22 LI: 0.9(No Huddle Shotgun) 7-B.Roethlisberger pass short middle to 83-H.Miller to PIT 47 for 7 yards(51-D.Smith).'>55.12</number><number>0.08</number>
+<number shadow='shadow1' tooltip='4:11 2-3-PIT 47PIT 14 BLT 22 LI: 0.7(No Huddle Shotgun) 7-B.Roethlisberger pass short left to 83-H.Miller to BLT 48 for 5 yards(32-J.Ihedigbo).'>55.82</number><number>0.09</number>
+<number shadow='shadow1' tooltip='3:28 1-10-BLT 48PIT 14 BLT 22 LI: 0.8(No Huddle Shotgun) 7-B.Roethlisberger pass short middle to 83-H.Miller to BLT 35 for 13 yards(32-J.Ihedigbo; 51-D.Smith).'>56.53</number><number>0.14</number>
+<number shadow='shadow1' tooltip='2:53 1-10-BLT 35PIT 14 BLT 22 LI: 1.3(No Huddle Shotgun) 7-B.Roethlisberger pass short left to 26-L.Bell to BLT 34 for 1 yard(53-J.McClain).'>57.12</number><number>0.12</number>
+<number shadow='shadow1' tooltip='2:41 2-9-BLT 34PIT 14 BLT 22 LI: 1.1(Shotgun) 7-B.Roethlisberger pass incomplete deep right to 88-E.Sanders.'>57.32</number><number>0.04</number>
+<number shadow='shadow1' tooltip='2:34 2-24-BLT 49PIT 14 BLT 22 LI: 0.3(No Huddle Shotgun) 7-B.Roethlisberger pass short middle to 26-L.Bell to BLT 20 for 29 yards(56-J.Bynes).'>57.43</number><number>0.18</number>
+<number shadow='shadow1' tooltip='2:02 1-10-BLT 20PIT 14 BLT 22 LI: 1.7(No Huddle Shotgun) 7-B.Roethlisberger pass incomplete short middle to 89-J.Cotchery (21-L.Webb).'>57.97</number><number>0.1</number>
+<number shadow='shadow1' tooltip='1:57 2-10-BLT 20PIT 14 BLT 22 LI: 0.9(Shotgun) 7-B.Roethlisberger pass deep middle to 83-H.Miller for 20 yards TOUCHDOWN [55-T.Suggs]The Replay Assistant challenged the runner broke the plane ruling and the play was REVERSED(Shotgun) 7-B.Roethlisberger pass deep middle to 83-H.Miller to BLT 1 for 19 yards(32-J.Ihedigbo).'>58.05</number><number>0.14</number>
+<number shadow='shadow1' tooltip='1:39 1-1-BLT 1PIT 14 BLT 22 LI: 1.326-L.Bell right guard to BLT 1 for no gain (21-L.Webb).'>58.35</number><number>0.02</number>
+<number shadow='shadow1' tooltip='1:32 2-1-BLT 1PIT 14 BLT 22 LI: 0.126-L.Bell left tackle for 1 yard TOUCHDOWNNo26 Bell (PIT) and No22 Smith (BAL) injured on playThe Replay Assistant challenged the runner broke the plane ruling and the play was REVERSED26-L.Bell left tackle to BLT 1 for no gain (22-J.Smith)No26 Bell (PIT) and No22 Smith (BAL) injured on play.'>58.47</number><number>0.02</number>
+<number shadow='shadow1' tooltip='1:11 3-1-BLT 1PIT 14 BLT 22 LI: 0.17-B.Roethlisberger pass incomplete short right to 46-W.Johnson (32-J.Ihedigbo)No61 - Velsaco (PIT) injured on playPIT charged timeout.'>58.82</number><number>0.03</number>
+<number shadow='shadow1' tooltip='1:06 4-1-BLT 1PIT 14 BLT 22 LI: 0.2(Shotgun) 7-B.Roethlisberger pass short right to 89-J.Cotchery for 1 yard TOUCHDOWN.'>58.9</number><number>0.04</number>
+<number shadow='shadow1' tooltip='1:06 PIT 20 BLT 22 LI: 6-S.Suisham kicks onside 6 yards from PIT 35 to PIT 41 downed by PIT-89-J.Cotchery.'>58.99</number><number>0.01</number>
+<number shadow='shadow1' tooltip='0:59 2-11-PIT 37PIT 20 BLT 22 LI: 2.15-J.Flacco kneels to PIT 37 for no gain.'>59.02</number><number>0.01</number>
+<number shadow='shadow1' tooltip='0:38 3-11-PIT 37PIT 20 BLT 22 LI: 1.45-J.Flacco kneels to PIT 38 for -1 yards.'>59.37</number><number>0</number>
+<number>60</number><number>0</number>
+</row> </chart_data>
+       <draw>
+
+
+
+      <image x='45' y='298'  url='nfllogos/42x50png/PIT.gif'  layer='foreground' glow = 'glow1'/>
+      <image x='45' y='350'  url='nfllogos/42x50png/BLT.gif'     layer='foreground' glow = 'glow1'/>
+
+
+      <rect x='130' y='300' width='250' height='40' fill_color='ffac2c' bevel='bevel1' />
+      <text x='135' y='300' width='250' height='40' h_align='left' v_align='middle' color='ffffff' shadow='shadow2' glow=''>Pittsburgh Steelers</text>
+
+      <rect x='130' y='350' width='250' height='40' fill_color='023273' bevel='bevel1'  />
+      <text x='135' y='350' width='250' height='40' h_align='left' v_align='middle' color='ffffff' shadow='shadow2' glow='winnerglow'>Baltimore Ravens</text>
+
+      <rect x='420' y='300' width='60' height='40' fill_color='ffac2c' bevel='bevel1'  />
+      <text x='420' y='300' width='60' height='40' h_align='center' v_align='middle' color='ffffff' shadow='shadow2' transition='none' glow=''>20</text>
+
+      <rect x='420' y='350' width='60' height='40' fill_color='023273' bevel='bevel1' />
+      <text x='420' y='350' width='60' height='40' h_align='center' v_align='middle' color='ffffff' shadow='shadow2' transition='none' glow='winnerglow'>22</text>
+
+      <text x='-3' y='12'  width='60' height='40' h_align='center' v_align='middle' size='13' shadow='shadow2'>PITWin </text>
+      <text x='-3' y='218' width='60' height='40' h_align='center' v_align='middle' size='13' shadow='shadow2'>BLTWin </text>
+
+     
+              <rect x='540' y='300' width='100' height='35' fill_color='000000' fill_alpha='50'/>
+              <text x='540' y='300' width='100' height='35' h_align='center' v_align='middle' color='ffffff' size='15' shadow='shadow2' >Final</text>
+
+              <text x='540' y='340' width='40' h_align='center' color='000000' size='12' shadow='shadow2'>CBF</text>
+              <text x='600' y='340' width='40' h_align='center' color='000000' size='12' shadow='shadow2'>EI</text>
+
+              <rect x='540' y='360' width='40' height='30' fill_color='000000' fill_alpha='50' />
+              <text x='540' y='360' width='40' height='30' size='12' h_align='center' v_align='middle' color='FFFFFF' shadow='shadow2'>2</text>
+
+              <rect x='600' y='360' width='40' height='30' fill_color='000000' fill_alpha='50' />
+              <text x='600' y='360' width='40' height='30' size='12' h_align='center' v_align='middle' color='FFFFFF' shadow='shadow2'>3.5</text>
+
+              <text x='20' y='420' width='70' height='25' size='12' h_align='left' v_align='middle' color='000000' >11/28/2013</text>
+              <text x='100' y='420' width='200' height='25' size='12' h_align='left' v_align='middle' color='000000' >M&T Bank Stadium</text>
+
+   </draw></chart>

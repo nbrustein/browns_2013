@@ -1,0 +1,324 @@
+
+<chart>
+   <license>ETAS9P33ESHO.945CWK-2XOI1X0-7L</license>
+   <chart_type>scatter</chart_type>
+   <chart_pref trend_thickness='0' line_thickness='3' point_size='0'/>
+
+   <series_color>
+      <color>ffff00</color>
+   </series_color>
+
+   <chart_rect x='45' y='20' width='630' height='230' positive_color='cacaca'  />
+
+  <chart_border top_thickness='0'
+                 bottom_thickness='0'
+                 left_thickness='0'
+                 right_thickness='0'
+                 color='000000'
+                 />
+
+   <tooltip font='Arial' bold='true' size='11' />
+
+   <chart_note type='flag'
+               color='000000'
+               alpha='90'
+               bold='FALSE'
+               size='10'
+               background_color='ffffe0'
+               background_alpha='50'
+               shadow='shadow2'
+               />
+
+   <chart_grid_h thickness='2' color='ffffff' type='dashed'  />
+   <chart_grid_v thickness='2' color='ffffff'   />
+		>
+
+   <legend layout='hide' />
+
+   <chart_guide horizontal='TRUE'
+             vertical='TRUE'
+             thickness='1'
+             color='006400'
+             alpha='100'
+             type='solid'
+             snap_h='TRUE'
+             snap_v='TRUE'
+             radius='3'
+             fill_color='006400'
+             fill_alpha='100'
+             line_color='006400'
+             line_alpha='80'
+             line_thickness='1'
+             text_h_alpha='50'
+             text_v_alpha='00'
+             suffix_h=' WP'
+             decimals='2'
+             bold='FALSE'
+             size='11'
+             text_color='FFFFFF'
+             background_color='006400'
+             />
+   <filter>
+      <shadow id='shadow1' distance='2' angle='60' blurX='5' blurY='5' alpha='50' />
+      <bevel id='bevel1' angle='45' blurX='5' blurY='5' distance='0' />
+      <glow id='glow1' color='ffffff' alpha='0' blurX='7' blurY='7' strength='6' quality='2' inner='FALSE' knockout='FALSE' />
+      <glow id='winnerglow' color='ffffff' alpha='0' blurX='7' blurY='7' strength='5' quality='2' inner='FALSE' knockout='FALSE' />
+   </filter>
+
+    <axis_value_label>
+         <string></string>
+          <string> </string>
+          <null/>
+          <string> </string>
+          <string></string>
+
+       </axis_value_label>
+		
+	   <axis_ticks category_ticks='false'/>
+
+       <axis_value min='0' max='1' steps='4'  decimals='2' show_min='true' size='13' shadow='shadow2' />     
+            <axis_category
+               min='0'
+               max='60'
+               steps='4'
+               mode='all'
+               decimals='0'
+               size='13'
+               shadow='shadow2'
+               />
+
+       <axis_category_label>
+          <string>Kickoff</string>
+          <string></string>
+          <string>Halftime</string>
+          <string></string>
+          <string>End</string>
+
+       </axis_category_label>
+
+
+        <chart_data>
+       <row>
+	      <null/><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number>
+              <number>x</number><number>y</number>
+              </row><row><string></string>
+
+                     <number shadow='shadow1'>0</number><number>.5</number><number shadow='shadow1' tooltip='15:00 JAX 0 CLV 0 LI: 8-B.Cundiff kicks 65 yards from CLV 35 to end zone Touchback.'>0.09</number><number>0.52</number>
+<number shadow='shadow1' tooltip='14:03 2-3-JAX 27JAX 0 CLV 0 LI: 1.47-C.Henne pass short right to 89-M.Lewis to JAX 31 for 4 yards(52-D.Jackson).'>0.95</number><number>0.54</number>
+<number shadow='shadow1' tooltip='13:30 1-10-JAX 31JAX 0 CLV 0 LI: 1.532-M.Jones-Drew left guard to JAX 31 for no gain (92-D.Bryant; 99-P.Kruger).'>1.5</number><number>0.51</number>
+<number shadow='shadow1' tooltip='12:56 2-10-JAX 31JAX 0 CLV 0 LI: 1.2(Shotgun) 7-C.Henne pass incomplete short right to 32-M.Jones-Drew (22-B.Skrine).'>2.07</number><number>0.49</number>
+<number shadow='shadow1' tooltip='12:51 3-10-JAX 31JAX 0 CLV 0 LI: 1(Shotgun) 7-C.Henne pass short middle to 84-C.Shorts to JAX 38 for 7 yards(95-A.Bryant).'>2.15</number><number>0.47</number>
+<number shadow='shadow1' tooltip='12:13 4-3-JAX 38JAX 0 CLV 0 LI: 0.7(Punt formation) 19-B.Anger punts 47 yards to CLV 15 Center-46-C.Tinker33-J.Poyer to JAX 47 for 38 yards(46-C.Tinker; 42-C.Prosinski).'>2.78</number><number>0.43</number>
+<number shadow='shadow1' tooltip='11:58 1-10-JAX 47JAX 0 CLV 0 LI: 1.33-B.Weeden pass deep right to 12-J.Gordon ran ob at JAX 5 for 42 yards(27-D.Gratz) [58-J.Babin].'>3.03</number><number>0.32</number>
+<number shadow='shadow1' tooltip='11:34 1-5-JAX 5JAX 0 CLV 0 LI: 1.825-C.Ogbonnaya up the middle to JAX 1 for 4 yards(26-J.Evans).'>3.43</number><number>0.3</number>
+<number shadow='shadow1' tooltip='10:57 2-1-JAX 1JAX 0 CLV 0 LI: 226-W.McGahee right guard for 1 yard TOUCHDOWN.'>4.05</number><number>0.29</number>
+<number shadow='shadow1' tooltip='10:57 JAX 0 CLV 0 LI: 8-B.Cundiff extra point is GOOD Center-57-C.Yount Holder-5-S.Lanning.'>4.09</number><number>0.29</number>
+<number shadow='shadow1' tooltip='10:57 JAX 0 CLV 7 LI: 8-B.Cundiff kicks 67 yards from CLV 35 to JAX -230-J.Todman to JAX 20 for 22 yards(58-B.Magee).'>4.14</number><number>0.28</number>
+<number shadow='shadow1' tooltip='10:47 1-10-JAX 20JAX 0 CLV 7 LI: 1.5(Shotgun) 7-C.Henne pass short right to 12-M.Brown to JAX 27 for 7 yards(22-B.Skrine).'>4.22</number><number>0.29</number>
+<number shadow='shadow1' tooltip='10:19 2-3-JAX 27JAX 0 CLV 7 LI: 1.432-M.Jones-Drew left guard to JAX 29 for 2 yards(52-D.Jackson).'>4.68</number><number>0.29</number>
+<number shadow='shadow1' tooltip='9:45 3-1-JAX 29JAX 0 CLV 7 LI: 1.418-A.Sanders left tackle ran ob at JAX 33 for 4 yards(43-T.Ward)pitch out to Ace Sanders (18)'>5.25</number><number>0.3</number>
+<number shadow='shadow1' tooltip='9:16 1-10-JAX 33JAX 0 CLV 7 LI: 1.4(Shotgun) 7-C.Henne pass short left to 18-A.Sanders to JAX 42 for 9 yards(22-B.Skrine).'>5.73</number><number>0.31</number>
+<number shadow='shadow1' tooltip='8:45 2-1-JAX 42JAX 0 CLV 7 LI: 1.330-J.Todman left tackle to JAX 46 for 4 yards(39-T.Gipson).'>6.25</number><number>0.32</number>
+<number shadow='shadow1' tooltip='8:15 1-10-JAX 46JAX 0 CLV 7 LI: 1.332-M.Jones-Drew right tackle ran ob at CLV 36 for 18 yards(39-T.Gipson).'>6.75</number><number>0.35</number>
+<number shadow='shadow1' tooltip='7:50 1-10-CLV 36JAX 0 CLV 7 LI: 1(Shotgun) 7-C.Henne pass incomplete deep right to 86-C.Harbor.'>7.17</number><number>0.35</number>
+<number shadow='shadow1' tooltip='7:45 1-10-CLV 31JAX 0 CLV 7 LI: 0.930-J.Todman left guard to CLV 18 for 13 yards(50-D.Eubanks).'>7.25</number><number>0.37</number>
+<number shadow='shadow1' tooltip='7:10 1-10-CLV 18JAX 0 CLV 7 LI: 0.87-C.Henne pass short left to 86-C.Harbor for 18 yards TOUCHDOWN.'>7.83</number><number>0.47</number>
+<number shadow='shadow1' tooltip='7:10 JAX 0 CLV 7 LI: 10-J.Scobee extra point is GOOD Center-46-C.Tinker Holder-19-B.Anger.'>7.87</number><number>0.47</number>
+<number shadow='shadow1' tooltip='7:10 JAX 7 CLV 7 LI: 10-J.Scobee kicks 65 yards from JAX 35 to end zone Touchback.'>7.92</number><number>0.48</number>
+<number shadow='shadow1' tooltip='7:04 1-10-CLV 20JAX 7 CLV 7 LI: 1.63-B.Weeden pass short right to 12-J.Gordon ran ob at CLV 43 for 23 yards(37-J.Cyprien).'>7.93</number><number>0.45</number>
+<number shadow='shadow1' tooltip='6:42 1-10-CLV 43JAX 7 CLV 7 LI: 1.335-F.Whittaker left tackle to CLV 47 for 4 yards(50-R.Allen)JAX-26-J.Evans was injured during the playHis return is Probable.'>8.3</number><number>0.45</number>
+<number shadow='shadow1' tooltip='6:15 2-6-CLV 47JAX 7 CLV 7 LI: 1.225-C.Ogbonnaya right guard to CLV 46 for -1 yards(93-T.Alualu).'>8.75</number><number>0.48</number>
+<number shadow='shadow1' tooltip='5:35 3-7-CLV 46JAX 7 CLV 7 LI: 1(Shotgun) 3-B.Weeden pass incomplete deep right to 12-J.Gordon.'>9.42</number><number>0.52</number>
+<number shadow='shadow1' tooltip='5:29 4-7-CLV 46JAX 7 CLV 7 LI: 0.6(Punt formation) 5-S.Lanning punts 32 yards to JAX 22 Center-57-C.Yount fair catch by 18-A.Sanders.'>9.52</number><number>0.53</number>
+<number shadow='shadow1' tooltip='5:22 1-10-JAX 27JAX 7 CLV 7 LI: 1.57-C.Henne sacked at JAX 27 for 0 yards(71-A.Rubin).'>9.63</number><number>0.51</number>
+<number shadow='shadow1' tooltip='4:52 2-10-JAX 27JAX 7 CLV 7 LI: 1.332-M.Jones-Drew right guard to JAX 40 for 13 yards(43-T.Ward).'>10.13</number><number>0.55</number>
+<number shadow='shadow1' tooltip='4:27 1-10-JAX 40JAX 7 CLV 7 LI: 1.432-M.Jones-Drew right tackle to JAX 44 for 4 yards(98-P.Taylor).'>10.55</number><number>0.54</number>
+<number shadow='shadow1' tooltip='3:52 2-6-JAX 44JAX 7 CLV 7 LI: 1.27-C.Henne pass short left to 18-A.Sanders to CLV 49 for 7 yards(22-B.Skrine).'>11.13</number><number>0.57</number>
+<number shadow='shadow1' tooltip='3:38 1-10-CLV 49JAX 7 CLV 7 LI: 1.3(No Huddle) 7-C.Henne pass short right to 18-A.Sanders to CLV 37 for 12 yards(21-C.Owens).'>11.37</number><number>0.57</number>
+<number shadow='shadow1' tooltip='3:22 1-10-CLV 49JAX 7 CLV 7 LI: 1.330-J.Todman right tackle to CLV 42 for 7 yards(51-B.Mingo).'>11.63</number><number>0.58</number>
+<number shadow='shadow1' tooltip='3:07 2-3-CLV 42JAX 7 CLV 7 LI: 1.3(No Huddle Shotgun) 7-C.Henne pass incomplete short right to 32-M.Jones-Drew.'>11.88</number><number>0.56</number>
+<number shadow='shadow1' tooltip='3:00 3-3-CLV 42JAX 7 CLV 7 LI: 1.1(Shotgun) 7-C.Henne sacked at CLV 43 for -1 yards(97-J.Sheard).'>12</number><number>0.5</number>
+<number shadow='shadow1' tooltip='2:26 4-4-CLV 43JAX 7 CLV 7 LI: 0.5(Punt formation) 19-B.Anger punts 35 yards to CLV 8 Center-46-C.Tinker fair catch by 15-D.Bess.'>12.57</number><number>0.5</number>
+<number shadow='shadow1' tooltip='2:20 1-10-CLV 8JAX 7 CLV 7 LI: 1.826-W.McGahee left guard to CLV 16 for 8 yards(26-J.Evans).'>12.67</number><number>0.5</number>
+<number shadow='shadow1' tooltip='1:45 2-2-CLV 16JAX 7 CLV 7 LI: 1.526-W.McGahee right guard to CLV 17 for 1 yard(90-A.Branch; 97-R.Miller).'>13.25</number><number>0.5</number>
+<number shadow='shadow1' tooltip='1:07 3-1-CLV 17JAX 7 CLV 7 LI: 1.526-W.McGahee right guard to CLV 23 for 6 yards(55-G.Hayes).'>13.88</number><number>0.48</number>
+<number shadow='shadow1' tooltip='0:31 1-10-CLV 23JAX 7 CLV 7 LI: 1.53-B.Weeden pass short right to 26-W.McGahee to CLV 28 for 5 yards(50-R.Allen; 51-P.Posluszny).'>14.48</number><number>0.48</number>
+<number shadow='shadow1' tooltip='15:00 2-5-CLV 28JAX 7 CLV 7 LI: 1.4(Shotgun) 3-B.Weeden pass incomplete deep middle to 12-J.Gordon.'>15</number><number>0.5</number>
+<number shadow='shadow1' tooltip='14:57 3-5-CLV 28JAX 7 CLV 7 LI: 1.2(Shotgun) 3-B.Weeden pass deep left to 12-J.Gordon to CLV 49 for 21 yards(37-J.Cyprien; 51-P.Posluszny).'>15.05</number><number>0.44</number>
+<number shadow='shadow1' tooltip='14:16 1-10-CLV 49JAX 7 CLV 7 LI: 1.3(Shotgun) 3-B.Weeden pass short right to 12-J.Gordon to JAX 47 for 4 yards(27-D.Gratz).'>15.73</number><number>0.44</number>
+<number shadow='shadow1' tooltip='13:46 2-6-JAX 47JAX 7 CLV 7 LI: 1.23-B.Weeden pass deep right to 84-J.Cameron to JAX 21 for 26 yards(37-J.Cyprien).'>16.23</number><number>0.37</number>
+<number shadow='shadow1' tooltip='13:03 1-10-JAX 21JAX 7 CLV 7 LI: 1.5PENALTY on CLV-84-J.Cameron False Start 5 yards enforced at JAX 21 - No Play.'>16.95</number><number>0.38</number>
+<number shadow='shadow1' tooltip='12:53 1-15-JAX 26JAX 7 CLV 7 LI: 1.5(Shotgun) 3-B.Weeden pass incomplete short right to 18-G.Little (27-D.Gratz).'>17.12</number><number>0.4</number>
+<number shadow='shadow1' tooltip='12:48 2-15-JAX 26JAX 7 CLV 7 LI: 1.335-F.Whittaker right guard to JAX 21 for 5 yards(90-A.Branch).'>17.2</number><number>0.39</number>
+<number shadow='shadow1' tooltip='12:09 3-10-JAX 21JAX 7 CLV 7 LI: 1.3(Shotgun) 3-B.Weeden pass deep right to 12-J.Gordon for 21 yards TOUCHDOWN.'>17.85</number><number>0.29</number>
+<number shadow='shadow1' tooltip='12:09 JAX 7 CLV 7 LI: 8-B.Cundiff extra point is GOOD Center-57-C.Yount Holder-5-S.Lanning.'>17.89</number><number>0.29</number>
+<number shadow='shadow1' tooltip='12:09 JAX 7 CLV 14 LI: 8-B.Cundiff kicks 70 yards from CLV 35 to JAX -530-J.Todman to JAX 23 for 28 yards(58-B.Magee; 56-E.Martin).'>17.94</number><number>0.28</number>
+<number shadow='shadow1' tooltip='11:59 1-10-JAX 23JAX 7 CLV 14 LI: 1.3(Shotgun) 7-C.Henne pass deep left intended for 84-C.Shorts INTERCEPTED by 23-J.Haden at CLV 4023-J.Haden to JAX 47 for 13 yards(65-W.Rackley).'>18.02</number><number>0.2</number>
+<number shadow='shadow1' tooltip='11:45 1-10-JAX 47JAX 7 CLV 14 LI: 1.135-F.Whittaker right tackle to JAX 47 for no gain (37-J.Cyprien).'>18.25</number><number>0.22</number>
+<number shadow='shadow1' tooltip='11:07 2-10-JAX 47JAX 7 CLV 14 LI: 0.93-B.Weeden sacked at CLV 45 for -8 yards(99-S.Marks)FUMBLES (99-S.Marks) recovered by CLV-35-F.Whittaker at CLV 4535-F.Whittaker to CLV 45 for no gain (52-J.Thomas).'>18.88</number><number>0.26</number>
+<number shadow='shadow1' tooltip='10:27 3-18-CLV 45JAX 7 CLV 14 LI: 0.63-B.Weeden pass incomplete short right to 15-D.Bess.'>19.55</number><number>0.28</number>
+<number shadow='shadow1' tooltip='10:23 4-18-CLV 45JAX 7 CLV 14 LI: 0.4(Punt formation) 5-S.Lanning punts 55 yards to end zone Center-57-C.Yount Touchback.'>19.62</number><number>0.28</number>
+<number shadow='shadow1' tooltip='10:15 1-10-JAX 20JAX 7 CLV 14 LI: 1.332-M.Jones-Drew left tackle to JAX 23 for 3 yards(52-D.Jackson).'>19.75</number><number>0.27</number>
+<number shadow='shadow1' tooltip='9:51 2-7-JAX 23JAX 7 CLV 14 LI: 1.232-M.Jones-Drew left tackle to JAX 20 for -3 yards(93-J.Hughes).'>20.15</number><number>0.24</number>
+<number shadow='shadow1' tooltip='9:09 3-10-JAX 20JAX 7 CLV 14 LI: 0.9(Shotgun) 7-C.Henne pass short middle to 18-A.Sanders to JAX 31 for 11 yards(21-C.Owens).'>20.85</number><number>0.29</number>
+<number shadow='shadow1' tooltip='8:40 1-10-JAX 31JAX 7 CLV 14 LI: 1.27-C.Henne pass incomplete short right to 84-C.Shorts.'>21.33</number><number>0.28</number>
+<number shadow='shadow1' tooltip='8:06 3-2-JAX 39JAX 7 CLV 14 LI: 1(Shotgun) 7-C.Henne pass short left to 18-A.Sanders to JAX 42 for 3 yards(43-T.Ward).'>21.9</number><number>0.3</number>
+<number shadow='shadow1' tooltip='7:05 2-9-JAX 43JAX 7 CLV 14 LI: 1.1(No Huddle Shotgun) 30-J.Todman left tackle to CLV 47 for 10 yards(43-T.Ward).'>22.92</number><number>0.32</number>
+<number shadow='shadow1' tooltip='6:36 1-10-CLV 47JAX 7 CLV 14 LI: 1.1(No Huddle Shotgun) 30-J.Todman left guard to 50 for -3 yards(90-B.Winn).'>23.4</number><number>0.29</number>
+<number shadow='shadow1' tooltip='6:02 2-13-50JAX 7 CLV 14 LI: 0.9(Shotgun) 7-C.Henne pass incomplete deep left to 18-A.Sanders.'>23.97</number><number>0.28</number>
+<number shadow='shadow1' tooltip='5:56 3-13-50JAX 7 CLV 14 LI: 0.8(Shotgun) 7-C.Henne pass incomplete short left to 30-J.Todman.'>24.07</number><number>0.26</number>
+<number shadow='shadow1' tooltip='5:52 4-13-50JAX 7 CLV 14 LI: 0.6(Punt formation) 19-B.Anger punts 35 yards to CLV 15 Center-46-C.Tinker fair catch by 15-D.Bess.'>24.13</number><number>0.27</number>
+<number shadow='shadow1' tooltip='5:44 1-10-CLV 15JAX 7 CLV 14 LI: 1(Shotgun) 25-C.Ogbonnaya left guard to CLV 18 for 3 yards(92-B.Deaderick).'>24.27</number><number>0.26</number>
+<number shadow='shadow1' tooltip='5:24 2-7-CLV 18JAX 7 CLV 14 LI: 1(No Huddle Shotgun) 3-B.Weeden pass short middle to 25-C.Ogbonnaya to CLV 27 for 9 yards(20-M.Harris).'>24.6</number><number>0.24</number>
+<number shadow='shadow1' tooltip='5:01 1-10-CLV 27JAX 7 CLV 14 LI: 1.1(No Huddle Shotgun) 3-B.Weeden pass incomplete short middle to 84-J.Cameron (51-P.Posluszny).'>24.98</number><number>0.25</number>
+<number shadow='shadow1' tooltip='4:58 2-10-CLV 27JAX 7 CLV 14 LI: 13-B.Weeden pass incomplete short left to 25-C.Ogbonnaya [99-S.Marks].'>25.03</number><number>0.27</number>
+<number shadow='shadow1' tooltip='4:53 3-10-CLV 27JAX 7 CLV 14 LI: 0.8(Shotgun) 3-B.Weeden pass short right to 84-J.Cameron to CLV 32 for 5 yards(51-P.Posluszny).'>25.12</number><number>0.28</number>
+<number shadow='shadow1' tooltip='4:17 4-5-CLV 32JAX 7 CLV 14 LI: 0.6(Punt formation) 5-S.Lanning punts 36 yards to JAX 32 Center-57-C.Yount fair catch by 18-A.Sanders.'>25.72</number><number>0.29</number>
+<number shadow='shadow1' tooltip='4:10 1-10-JAX 32JAX 7 CLV 14 LI: 1.1(Shotgun) 7-C.Henne pass incomplete short left to 84-C.Shorts (51-B.Mingo).'>25.83</number><number>0.28</number>
+<number shadow='shadow1' tooltip='4:06 2-10-JAX 32JAX 7 CLV 14 LI: 132-M.Jones-Drew left guard to JAX 34 for 2 yards(51-B.Mingo).'>25.9</number><number>0.27</number>
+<number shadow='shadow1' tooltip='3:24 3-8-JAX 34JAX 7 CLV 14 LI: 0.9(Shotgun) 7-C.Henne pass short left to 32-M.Jones-Drew to JAX 34 for no gain (43-T.Ward).'>26.6</number><number>0.24</number>
+<number shadow='shadow1' tooltip='2:58 4-8-JAX 34JAX 7 CLV 14 LI: 0.6(Punt formation) 19-B.Anger punts 47 yards to CLV 19 Center-46-C.Tinker33-J.Poyer to CLV 19 for no gain (54-N.Stupar; 16-D.Robinson).'>27.03</number><number>0.25</number>
+<number shadow='shadow1' tooltip='2:47 1-10-CLV 19JAX 7 CLV 14 LI: 1.13-B.Weeden pass deep right intended for 84-J.Cameron INTERCEPTED by 37-J.Cyprien at CLV 4437-J.Cyprien to CLV 17 for 27 yards(73-J.Thomas).'>27.22</number><number>0.36</number>
+<number shadow='shadow1' tooltip='2:35 1-10-CLV 17JAX 7 CLV 14 LI: 1.132-M.Jones-Drew right guard to CLV 11 for 6 yards(52-D.Jackson).'>27.42</number><number>0.44</number>
+<number shadow='shadow1' tooltip='2:00 2-4-CLV 11JAX 7 CLV 14 LI: 1.832-M.Jones-Drew right tackle to CLV 8 for 3 yards(50-D.Eubanks).'>28</number><number>0.44</number>
+<number shadow='shadow1' tooltip='1:24 3-1-CLV 8JAX 7 CLV 14 LI: 1.932-M.Jones-Drew pass short right to 89-M.Lewis for 8 yards TOUCHDOWNHalfback pass'>28.6</number><number>0.47</number>
+<number shadow='shadow1' tooltip='1:24 JAX 7 CLV 14 LI: 10-J.Scobee extra point is GOOD Center-46-C.Tinker Holder-19-B.Anger.'>28.64</number><number>0.47</number>
+<number shadow='shadow1' tooltip='1:24 JAX 14 CLV 14 LI: 10-J.Scobee kicks 65 yards from JAX 35 to end zone Touchback.'>28.69</number><number>0.48</number>
+<number shadow='shadow1' tooltip='1:14 1-10-CLV 28JAX 14 CLV 14 LI: 1.5(Shotgun) 7-C.Henne pass incomplete deep left to 32-M.Jones-Drew.'>28.77</number><number>0.64</number>
+<number shadow='shadow1' tooltip='1:09 2-10-CLV 28JAX 14 CLV 14 LI: 1.7(Shotgun) 7-C.Henne pass incomplete deep right to 12-M.Brown.'>28.85</number><number>0.61</number>
+<number shadow='shadow1' tooltip='1:04 3-10-CLV 28JAX 14 CLV 14 LI: 1.4(Shotgun) 32-M.Jones-Drew up the middle to CLV 26 for 2 yards(51-B.Mingo; 92-D.Bryant).'>28.93</number><number>0.57</number>
+<number shadow='shadow1' tooltip='0:52 4-8-CLV 26JAX 14 CLV 14 LI: 1(Field Goal formation) 10-J.Scobee 44 yard field goal is GOOD Center-46-C.Tinker Holder-19-B.Anger.'>29.13</number><number>0.61</number>
+<number shadow='shadow1' tooltip='0:52 JAX 17 CLV 14 LI: 10-J.Scobee kicks 65 yards from JAX 35 to end zone Touchback.'>29.22</number><number>0.62</number>
+<number shadow='shadow1' tooltip='0:30 2-5-CLV 25JAX 17 CLV 14 LI: 1.1(Shotgun) 3-B.Weeden pass short left to 12-J.Gordon to CLV 39 for 14 yards(20-M.Harris).'>29.5</number><number>0.58</number>
+<number shadow='shadow1' tooltip='0:24 1-10-CLV 39JAX 17 CLV 14 LI: 1.2(Shotgun) 3-B.Weeden pass short left to 35-F.Whittaker ran ob at CLV 40 for 1 yard(23-A.Ball).'>29.6</number><number>0.58</number>
+<number shadow='shadow1' tooltip='0:18 2-9-CLV 40JAX 17 CLV 14 LI: 1.2(Shotgun) 3-B.Weeden pass short right to 15-D.Bess ran ob at CLV 45 for 5 yards.'>29.7</number><number>0.58</number>
+<number shadow='shadow1' tooltip='0:14 3-4-CLV 45JAX 17 CLV 14 LI: 1.1(Shotgun) 3-B.Weeden sacked at CLV 36 for -9 yards(58-J.Babin)FUMBLES (58-J.Babin) RECOVERED by JAX-99-S.Marks at CLV 3399-S.Marks to CLV 18 for 15 yards(77-J.Greco).'>29.77</number><number>0.74</number>
+<number shadow='shadow1' tooltip='0:05 1-10-CLV 18JAX 17 CLV 14 LI: 1.1(Field Goal formation) 10-J.Scobee 36 yard field goal is GOOD Center-46-C.Tinker Holder-19-B.Anger.'>29.92</number><number>0.7</number>
+<number shadow='shadow1' tooltip='0:05 JAX 20 CLV 14 LI: 10-J.Scobee kicks 65 yards from JAX 35 to end zone Touchback.'>30.01</number><number>0.71</number>
+<number shadow='shadow1' tooltip='14:34 2-6-CLV 24JAX 20 CLV 14 LI: 126-W.McGahee right tackle to CLV 35 for 11 yards(37-J.Cyprien).'>30.43</number><number>0.68</number>
+<number shadow='shadow1' tooltip='13:59 1-10-CLV 35JAX 20 CLV 14 LI: 1.226-W.McGahee left guard to CLV 35 for no gain (97-R.Miller).'>31.02</number><number>0.7</number>
+<number shadow='shadow1' tooltip='13:20 2-10-CLV 35JAX 20 CLV 14 LI: 1(Shotgun) 3-B.Weeden pass deep middle to 12-J.Gordon to JAX 41 for 24 yards(37-J.Cyprien).'>31.67</number><number>0.63</number>
+<number shadow='shadow1' tooltip='12:46 1-10-JAX 41JAX 20 CLV 14 LI: 1.325-C.Ogbonnaya right guard to JAX 40 for 1 yard(51-P.Posluszny).'>32.23</number><number>0.66</number>
+<number shadow='shadow1' tooltip='12:15 2-9-JAX 40JAX 20 CLV 14 LI: 1.13-B.Weeden pass incomplete deep middle to 12-J.Gordon (23-A.Ball).'>32.75</number><number>0.68</number>
+<number shadow='shadow1' tooltip='12:07 3-9-JAX 40JAX 20 CLV 14 LI: 0.9(Shotgun) 3-B.Weeden pass incomplete short right to 18-G.Little.'>32.88</number><number>0.62</number>
+<number shadow='shadow1' tooltip='12:02 1-10-JAX 35JAX 20 CLV 14 LI: 1.4(Shotgun) 3-B.Weeden pass incomplete deep left to 12-J.GordonCLV-12-J.Gordon was injured during the playHis return is Probable.'>32.97</number><number>0.58</number>
+<number shadow='shadow1' tooltip='11:49 1-10-JAX 20JAX 20 CLV 14 LI: 1.635-F.Whittaker left tackle to JAX 18 for 2 yards(99-S.Marks).'>33.18</number><number>0.58</number>
+<number shadow='shadow1' tooltip='11:09 2-8-JAX 18JAX 20 CLV 14 LI: 1.6(Shotgun) 3-B.Weeden pass short middle to 84-J.Cameron to JAX 9 for 9 yards(22-W.Guy).'>33.85</number><number>0.54</number>
+<number shadow='shadow1' tooltip='10:28 1-9-JAX 9JAX 20 CLV 14 LI: 1.925-C.Ogbonnaya right guard to JAX 4 for 5 yards(51-P.Posluszny).'>34.53</number><number>0.51</number>
+<number shadow='shadow1' tooltip='9:49 2-4-JAX 4JAX 20 CLV 14 LI: 2.2(Shotgun) 3-B.Weeden pass short right to 18-G.Little for 4 yards TOUCHDOWN.'>35.18</number><number>0.47</number>
+<number shadow='shadow1' tooltip='9:49 JAX 20 CLV 14 LI: 8-B.Cundiff extra point is GOOD Center-57-C.Yount Holder-5-S.Lanning.'>35.22</number><number>0.47</number>
+<number shadow='shadow1' tooltip='9:49 JAX 20 CLV 21 LI: 8-B.Cundiff kicks 60 yards from CLV 40 to end zone Touchback.'>35.27</number><number>0.45</number>
+<number shadow='shadow1' tooltip='9:40 2-10-JAX 20JAX 20 CLV 21 LI: 1.3(Shotgun) 32-M.Jones-Drew up the middle to JAX 17 for -3 yards(43-T.Ward; 39-T.Gipson).'>35.33</number><number>0.42</number>
+<number shadow='shadow1' tooltip='9:04 3-13-JAX 17JAX 20 CLV 21 LI: 1(Shotgun) 7-C.Henne pass incomplete deep left to 84-C.Shorts.'>35.93</number><number>0.4</number>
+<number shadow='shadow1' tooltip='8:58 4-13-JAX 17JAX 20 CLV 21 LI: 0.8(Punt formation) 19-B.Anger punts 58 yards to CLV 25 Center-46-C.Tinker33-J.Poyer to CLV 36 for 11 yards(35-D.McCray).'>36.03</number><number>0.41</number>
+<number shadow='shadow1' tooltip='8:48 1-10-CLV 36JAX 20 CLV 21 LI: 1.526-W.McGahee left guard to CLV 43 for 7 yards(37-J.Cyprien).'>36.2</number><number>0.4</number>
+<number shadow='shadow1' tooltip='8:15 2-3-CLV 43JAX 20 CLV 21 LI: 1.426-W.McGahee right guard to CLV 47 for 4 yards(97-R.Miller).'>36.75</number><number>0.39</number>
+<number shadow='shadow1' tooltip='7:38 1-10-CLV 47JAX 20 CLV 21 LI: 1.426-W.McGahee right tackle to JAX 45 for 8 yards(55-G.Hayes).'>37.37</number><number>0.37</number>
+<number shadow='shadow1' tooltip='7:09 2-2-JAX 45JAX 20 CLV 21 LI: 1.426-W.McGahee right guard to JAX 41 for 4 yards(22-W.Guy).'>37.85</number><number>0.36</number>
+<number shadow='shadow1' tooltip='6:31 1-10-JAX 41JAX 20 CLV 21 LI: 1.53-B.Weeden pass short middle to 25-C.Ogbonnaya to JAX 36 for 5 yards(55-G.Hayes).'>38.48</number><number>0.37</number>
+<number shadow='shadow1' tooltip='5:49 2-5-JAX 36JAX 20 CLV 21 LI: 1.3(Shotgun) 3-B.Weeden pass short middle to 84-J.Cameron to JAX 33 for 3 yards(55-G.Hayes).'>39.18</number><number>0.36</number>
+<number shadow='shadow1' tooltip='5:24 3-2-JAX 33JAX 20 CLV 21 LI: 1.325-C.Ogbonnaya up the middle to JAX 31 for 2 yards(99-S.Marks).'>39.6</number><number>0.34</number>
+<number shadow='shadow1' tooltip='4:45 1-10-JAX 31JAX 20 CLV 21 LI: 1.53-B.Weeden scrambles right end to JAX 26 for 5 yards(58-J.Babin).'>40.25</number><number>0.33</number>
+<number shadow='shadow1' tooltip='4:09 2-5-JAX 26JAX 20 CLV 21 LI: 1.526-W.McGahee right guard to JAX 27 for -1 yards(51-P.Posluszny).'>40.85</number><number>0.35</number>
+<number shadow='shadow1' tooltip='3:29 3-6-JAX 27JAX 20 CLV 21 LI: 1.3(Shotgun) 3-B.Weeden sacked at JAX 35 for -8 yards(sack split by 58-J.Babin and 51-P.Posluszny).'>41.52</number><number>0.43</number>
+<number shadow='shadow1' tooltip='2:52 4-14-JAX 35JAX 20 CLV 21 LI: 0.78-B.Cundiff 53 yard field goal is No Good Wide Right Center-57-C.Yount Holder-5-S.Lanning.'>42.13</number><number>0.52</number>
+<number shadow='shadow1' tooltip='2:47 1-10-JAX 43JAX 20 CLV 21 LI: 1.732-M.Jones-Drew right guard to JAX 49 for 6 yards(50-D.Eubanks).'>42.22</number><number>0.52</number>
+<number shadow='shadow1' tooltip='2:21 2-4-JAX 49JAX 20 CLV 21 LI: 1.632-M.Jones-Drew right guard to CLV 49 for 2 yards(93-J.Hughes).'>42.65</number><number>0.51</number>
+<number shadow='shadow1' tooltip='1:39 3-2-CLV 49JAX 20 CLV 21 LI: 1.47-C.Henne pass incomplete short left to 32-M.Jones-Drew (43-T.Ward).'>43.35</number><number>0.44</number>
+<number shadow='shadow1' tooltip='1:33 4-2-CLV 49JAX 20 CLV 21 LI: 0.7(Punt formation) 19-B.Anger punts 49 yards to end zone Center-46-C.Tinker Touchback.'>43.45</number><number>0.43</number>
+<number shadow='shadow1' tooltip='1:27 1-10-CLV 20JAX 20 CLV 21 LI: 1.835-F.Whittaker right tackle to CLV 19 for -1 yards(51-P.Posluszny).'>43.55</number><number>0.46</number>
+<number shadow='shadow1' tooltip='0:50 2-11-CLV 19JAX 20 CLV 21 LI: 1.5(Shotgun) 3-B.Weeden pass short right to 12-J.Gordon ran ob at CLV 29 for 10 yards(27-D.Gratz).'>44.17</number><number>0.43</number>
+<number shadow='shadow1' tooltip='0:20 3-1-CLV 29JAX 20 CLV 21 LI: 1.626-W.McGahee right guard to CLV 31 for 2 yards(51-P.Posluszny)pitchout'>44.67</number><number>0.41</number>
+<number shadow='shadow1' tooltip='15:00 1-10-CLV 31JAX 20 CLV 21 LI: 1.735-F.Whittaker right tackle to CLV 31 for no gain (37-J.Cyprien).'>45</number><number>0.43</number>
+<number shadow='shadow1' tooltip='14:23 2-10-CLV 31JAX 20 CLV 21 LI: 1.5(Shotgun) 3-B.Weeden pass short right to 12-J.Gordon to CLV 38 for 7 yards(50-R.Allen).'>45.62</number><number>0.41</number>
+<number shadow='shadow1' tooltip='13:47 3-3-CLV 38JAX 20 CLV 21 LI: 1.6(Shotgun) 25-C.Ogbonnaya left guard to CLV 44 for 6 yards(90-A.Branch).'>46.22</number><number>0.37</number>
+<number shadow='shadow1' tooltip='13:12 1-10-CLV 44JAX 20 CLV 21 LI: 1.93-B.Weeden pass short right to 26-W.McGahee to JAX 47 for 9 yards(51-P.Posluszny; 50-R.Allen).'>46.8</number><number>0.34</number>
+<number shadow='shadow1' tooltip='12:40 2-1-JAX 47JAX 20 CLV 21 LI: 226-W.McGahee up the middle to JAX 45 for 2 yards(37-J.Cyprien).'>47.33</number><number>0.33</number>
+<number shadow='shadow1' tooltip='11:57 1-10-JAX 45JAX 20 CLV 21 LI: 2.13-B.Weeden pass incomplete short right [93-T.Alualu].'>48.05</number><number>0.36</number>
+<number shadow='shadow1' tooltip='11:50 2-15-50JAX 20 CLV 21 LI: 1.6(Shotgun) 3-B.Weeden pass incomplete short middle to 25-C.Ogbonnaya (99-S.Marks).'>48.17</number><number>0.41</number>
+<number shadow='shadow1' tooltip='11:47 3-15-50JAX 20 CLV 21 LI: 1.4(Shotgun) 3-B.Weeden pass incomplete deep left to 84-J.Cameron [90-A.Branch].'>48.22</number><number>0.46</number>
+<number shadow='shadow1' tooltip='11:41 4-15-50JAX 20 CLV 21 LI: 0.9(Punt formation) 5-S.Lanning punts 35 yards to JAX 15 Center-57-C.Yount fair catch by 18-A.Sanders.'>48.32</number><number>0.45</number>
+<number shadow='shadow1' tooltip='11:34 1-10-JAX 15JAX 20 CLV 21 LI: 1.9(Shotgun) 7-C.Henne pass incomplete short right to 32-M.Jones-Drew (52-D.Jackson).'>48.43</number><number>0.42</number>
+<number shadow='shadow1' tooltip='11:29 2-10-JAX 15JAX 20 CLV 21 LI: 1.7(Shotgun) 7-C.Henne pass incomplete deep right to 86-C.Harbor [92-D.Bryant].'>48.52</number><number>0.39</number>
+<number shadow='shadow1' tooltip='11:22 3-10-JAX 15JAX 20 CLV 21 LI: 1.4(Shotgun) 7-C.Henne pass short middle to 30-J.Todman to JAX 27 for 12 yards(52-D.Jackson).'>48.63</number><number>0.48</number>
+<number shadow='shadow1' tooltip='10:51 1-10-JAX 27JAX 20 CLV 21 LI: 2.1(Shotgun) 7-C.Henne pass short right to 84-C.Shorts to JAX 34 for 7 yards(99-P.Kruger).'>49.15</number><number>0.5</number>
+<number shadow='shadow1' tooltip='10:18 2-3-JAX 34JAX 20 CLV 21 LI: 2.3(Shotgun) 7-C.Henne pass short left to 84-C.Shorts ran ob at JAX 40 for 6 yards(22-B.Skrine).'>49.7</number><number>0.53</number>
+<number shadow='shadow1' tooltip='9:59 1-10-JAX 40JAX 20 CLV 21 LI: 2.5(Shotgun) 32-M.Jones-Drew right tackle to JAX 43 for 3 yards(52-D.Jackson).'>50.02</number><number>0.54</number>
+<number shadow='shadow1' tooltip='9:25 2-7-JAX 43JAX 20 CLV 21 LI: 2.6(Shotgun) 7-C.Henne pass short middle to 18-A.Sanders to CLV 49 for 8 yards(51-B.Mingo; 50-D.Eubanks).'>50.58</number><number>0.59</number>
+<number shadow='shadow1' tooltip='8:38 1-15-JAX 46JAX 20 CLV 21 LI: 3.1(Shotgun) 32-M.Jones-Drew right guard to CLV 49 for 5 yards(92-D.Bryant).'>51.37</number><number>0.55</number>
+<number shadow='shadow1' tooltip='8:05 2-10-CLV 49JAX 20 CLV 21 LI: 2.8(Shotgun) 7-C.Henne pass incomplete short left to 84-C.Shorts [51-B.Mingo].'>51.92</number><number>0.5</number>
+<number shadow='shadow1' tooltip='8:00 3-10-CLV 49JAX 20 CLV 21 LI: 2.3(Shotgun) 7-C.Henne pass incomplete short right to 32-M.Jones-Drew.'>52</number><number>0.42</number>
+<number shadow='shadow1' tooltip='7:54 4-10-CLV 49JAX 20 CLV 21 LI: 1.5(Punt formation) 19-B.Anger punts 35 yards to CLV 14 Center-46-C.Tinker fair catch by 15-D.Bess.'>52.1</number><number>0.42</number>
+<number shadow='shadow1' tooltip='7:47 1-10-CLV 14JAX 20 CLV 21 LI: 3.2(Shotgun) 3-B.Weeden Aborted55-A.Mack FUMBLES at CLV 0 touched at CLV 0 ball out of bounds in End Zone SAFETY NULLIFIED by Penalty.'>52.22</number><number>0.61</number>
+<number shadow='shadow1' tooltip='7:47 JAX 22 CLV 21 LI: 5-S.Lanning kicks 54 yards from CLV 20 to JAX 2618-A.Sanders to CLV 43 for 31 yards(5-S.Lanning).'>52.31</number><number>0.76</number>
+<number shadow='shadow1' tooltip='7:04 2-7-CLV 40JAX 22 CLV 21 LI: 2.632-M.Jones-Drew up the middle to CLV 41 for -1 yards(98-P.Taylor).'>52.93</number><number>0.8</number>
+<number shadow='shadow1' tooltip='6:44 1-10-CLV 26JAX 22 CLV 21 LI: 2.57-C.Henne pass short right to 89-M.Lewis to CLV 12 for 14 yards(23-J.Haden).'>53.27</number><number>0.85</number>
+<number shadow='shadow1' tooltip='6:13 1-10-CLV 12JAX 22 CLV 21 LI: 2.532-M.Jones-Drew up the middle to CLV 9 for 3 yards(43-T.Ward).'>53.78</number><number>0.85</number>
+<number shadow='shadow1' tooltip='5:38 2-7-CLV 9JAX 22 CLV 21 LI: 2.432-M.Jones-Drew up the middle to CLV 10 for -1 yards(97-J.Sheard; 71-A.Rubin).'>54.37</number><number>0.82</number>
+<number shadow='shadow1' tooltip='4:59 3-8-CLV 10JAX 22 CLV 21 LI: 2.17-C.Henne pass short left to 18-A.Sanders to CLV 7 for 3 yards(50-D.Eubanks; 21-C.Owens).'>55.02</number><number>0.75</number>
+<number shadow='shadow1' tooltip='4:17 4-5-CLV 7JAX 22 CLV 21 LI: 1.4(Field Goal formation) 10-J.Scobee 25 yard field goal is GOOD Center-46-C.Tinker Holder-19-B.Anger.'>55.72</number><number>0.76</number>
+<number shadow='shadow1' tooltip='4:17 JAX 25 CLV 21 LI: 10-J.Scobee kicks 65 yards from JAX 35 to CLV 035-F.Whittaker to CLV 29 for 29 yards(37-J.Cyprien).'>55.81</number><number>0.77</number>
+<number shadow='shadow1' tooltip='4:09 1-10-CLV 5JAX 25 CLV 21 LI: 1.53-B.Weeden pass deep right to 12-J.Gordon for 95 yards TOUCHDOWN#12 JGordon set team record single game receiving yards(261 yards).'>55.85</number><number>0.32</number>
+<number shadow='shadow1' tooltip='4:09 JAX 25 CLV 21 LI: 8-B.Cundiff extra point is GOOD Center-57-C.Yount Holder-5-S.Lanning.'>55.89</number><number>0.32</number>
+<number shadow='shadow1' tooltip='4:09 JAX 25 CLV 28 LI: 5-S.Lanning kicks 65 yards from CLV 35 to end zone Touchback.'>55.94</number><number>0.25</number>
+<number shadow='shadow1' tooltip='3:54 1-10-JAX 20JAX 25 CLV 28 LI: 2.1(Shotgun) 7-C.Henne pass incomplete short right to 18-A.Sanders (22-B.Skrine).'>56.1</number><number>0.23</number>
+<number shadow='shadow1' tooltip='3:48 2-10-JAX 20JAX 25 CLV 28 LI: 1.9(Shotgun) 7-C.Henne pass incomplete to 88-D.Noble [97-J.Sheard].'>56.2</number><number>0.25</number>
+<number shadow='shadow1' tooltip='3:44 2-5-JAX 25JAX 25 CLV 28 LI: 27-C.Henne pass deep left to 18-A.Sanders to 50 for 25 yards(39-T.Gipson).'>56.27</number><number>0.36</number>
+<number shadow='shadow1' tooltip='3:38 1-10-50JAX 25 CLV 28 LI: 2(Shotgun) 7-C.Henne pass short left to 84-C.Shorts to CLV 34 for 16 yards(23-J.Haden).'>56.37</number><number>0.41</number>
+<number shadow='shadow1' tooltip='2:57 1-10-CLV 34JAX 25 CLV 28 LI: 2.8(Shotgun) 7-C.Henne pass short left to 32-M.Jones-Drew to CLV 30 for 4 yards(39-T.Gipson).'>57.05</number><number>0.42</number>
+<number shadow='shadow1' tooltip='2:19 2-6-CLV 30JAX 25 CLV 28 LI: 3.232-M.Jones-Drew left tackle to CLV 25 for 5 yards(21-C.Owens; 71-A.Rubin)CLV-21-C.Owens was injured during the playHis return is Probable Pitch out'>57.68</number><number>0.44</number>
+<number shadow='shadow1' tooltip='2:00 3-1-CLV 25JAX 25 CLV 28 LI: 3.532-M.Jones-Drew right guard to CLV 21 for 4 yards(50-D.Eubanks).'>58</number><number>0.49</number>
+<number shadow='shadow1' tooltip='1:28 1-10-CLV 21JAX 25 CLV 28 LI: 4.3(Shotgun) 7-C.Henne pass short left to 18-A.Sanders to CLV 20 for 1 yard(23-J.Haden).'>58.53</number><number>0.6</number>
+<number shadow='shadow1' tooltip='0:50 2-9-CLV 20JAX 25 CLV 28 LI: 5.8(Shotgun) 7-C.Henne pass incomplete short right to 18-A.Sanders [92-D.Bryant].'>59.17</number><number>0.52</number>
+<number shadow='shadow1' tooltip='0:45 3-9-CLV 20JAX 25 CLV 28 LI: 5(Shotgun) 7-C.Henne pass short left to 84-C.Shorts for 20 yards TOUCHDOWN.'>59.25</number><number>0.91</number>
+<number shadow='shadow1' tooltip='0:45 JAX 25 CLV 28 LI: 10-J.Scobee extra point is GOOD Center-46-C.Tinker Holder-19-B.Anger.'>59.29</number><number>0.91</number>
+<number shadow='shadow1' tooltip='0:45 JAX 32 CLV 28 LI: 10-J.Scobee kicks 65 yards from JAX 35 to end zone Touchback.'>59.34</number><number>0.95</number>
+<number shadow='shadow1' tooltip='0:36 2-10-CLV 20JAX 32 CLV 28 LI: 0.1(Shotgun) 3-B.Weeden pass incomplete deep left to 12-J.Gordon.'>59.4</number><number>0.98</number>
+<number shadow='shadow1' tooltip='0:30 3-10-CLV 20JAX 32 CLV 28 LI: 0.1(Shotgun) 3-B.Weeden pass short left to 18-G.Little ran ob at CLV 25 for 5 yards(23-A.Ball).'>59.5</number><number>0.99</number>
+<number shadow='shadow1' tooltip='0:22 4-5-CLV 25JAX 32 CLV 28 LI: 0.1(Shotgun) 3-B.Weeden pass short left to 15-D.Bess to CLV 38 for 13 yards(20-M.Harris).'>59.63</number><number>0.93</number>
+<number shadow='shadow1' tooltip='0:17 1-10-CLV 38JAX 32 CLV 28 LI: 0.6(Shotgun) 3-B.Weeden pass incomplete short left to 25-C.Ogbonnaya.'>59.72</number><number>0.98</number>
+<number shadow='shadow1' tooltip='0:12 2-5-CLV 43JAX 32 CLV 28 LI: 0.1(Shotgun) 3-B.Weeden pass short right to 15-D.Bess to JAX 47 for 10 yards.'>59.8</number><number>0.89</number>
+<number shadow='shadow1' tooltip='0:06 1-10-JAX 47JAX 32 CLV 28 LI: 1(Shotgun) PENALTY on CLV-15-D.Bess False Start 5 yards enforced at JAX 47 - No Play.'>59.9</number><number>0.92</number>
+<number shadow='shadow1' tooltip='0:03 1-15-CLV 48JAX 32 CLV 28 LI: 0.7(Shotgun) 3-B.Weeden pass incomplete deep right to 12-J.Gordon (42-C.Prosinski).'>59.95</number><number>1</number>
+<number>60</number><number>1</number>
+</row> </chart_data>
+       <draw>
+
+
+
+      <image x='45' y='298'  url='nfllogos/42x50png/JAX.gif'  layer='foreground' glow = 'glow1'/>
+      <image x='45' y='350'  url='nfllogos/42x50png/CLV.gif'     layer='foreground' glow = 'glow1'/>
+
+
+      <rect x='130' y='300' width='250' height='40' fill_color='01687f' bevel='bevel1' />
+      <text x='135' y='300' width='250' height='40' h_align='left' v_align='middle' color='ffffff' shadow='shadow2' glow='winnerglow'>Jacksonville Jaguars</text>
+
+      <rect x='130' y='350' width='250' height='40' fill_color='522b20' bevel='bevel1'  />
+      <text x='135' y='350' width='250' height='40' h_align='left' v_align='middle' color='ffffff' shadow='shadow2' glow=''>Cleveland Browns</text>
+
+      <rect x='420' y='300' width='60' height='40' fill_color='01687f' bevel='bevel1'  />
+      <text x='420' y='300' width='60' height='40' h_align='center' v_align='middle' color='ffffff' shadow='shadow2' transition='none' glow='winnerglow'>32</text>
+
+      <rect x='420' y='350' width='60' height='40' fill_color='522b20' bevel='bevel1' />
+      <text x='420' y='350' width='60' height='40' h_align='center' v_align='middle' color='ffffff' shadow='shadow2' transition='none' glow=''>28</text>
+
+      <text x='-3' y='12'  width='60' height='40' h_align='center' v_align='middle' size='13' shadow='shadow2'>JAXWin </text>
+      <text x='-3' y='218' width='60' height='40' h_align='center' v_align='middle' size='13' shadow='shadow2'>CLVWin </text>
+
+     
+              <rect x='540' y='300' width='100' height='35' fill_color='000000' fill_alpha='50'/>
+              <text x='540' y='300' width='100' height='35' h_align='center' v_align='middle' color='ffffff' size='15' shadow='shadow2' >Final</text>
+
+              <text x='540' y='340' width='40' h_align='center' color='000000' size='12' shadow='shadow2'>CBF</text>
+              <text x='600' y='340' width='40' h_align='center' color='000000' size='12' shadow='shadow2'>EI</text>
+
+              <rect x='540' y='360' width='40' height='30' fill_color='000000' fill_alpha='50' />
+              <text x='540' y='360' width='40' height='30' size='12' h_align='center' v_align='middle' color='FFFFFF' shadow='shadow2'>5</text>
+
+              <rect x='600' y='360' width='40' height='30' fill_color='000000' fill_alpha='50' />
+              <text x='600' y='360' width='40' height='30' size='12' h_align='center' v_align='middle' color='FFFFFF' shadow='shadow2'>6.3</text>
+
+              <text x='20' y='420' width='70' height='25' size='12' h_align='left' v_align='middle' color='000000' >12/1/2013</text>
+              <text x='100' y='420' width='200' height='25' size='12' h_align='left' v_align='middle' color='000000' >FirstEnergy Stadium</text>
+
+   </draw></chart>

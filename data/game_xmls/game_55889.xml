@@ -1,0 +1,329 @@
+
+<chart>
+   <license>ETAS9P33ESHO.945CWK-2XOI1X0-7L</license>
+   <chart_type>scatter</chart_type>
+   <chart_pref trend_thickness='0' line_thickness='3' point_size='0'/>
+
+   <series_color>
+      <color>ffff00</color>
+   </series_color>
+
+   <chart_rect x='45' y='20' width='630' height='230' positive_color='cacaca'  />
+
+  <chart_border top_thickness='0'
+                 bottom_thickness='0'
+                 left_thickness='0'
+                 right_thickness='0'
+                 color='000000'
+                 />
+
+   <tooltip font='Arial' bold='true' size='11' />
+
+   <chart_note type='flag'
+               color='000000'
+               alpha='90'
+               bold='FALSE'
+               size='10'
+               background_color='ffffe0'
+               background_alpha='50'
+               shadow='shadow2'
+               />
+
+   <chart_grid_h thickness='2' color='ffffff' type='dashed'  />
+   <chart_grid_v thickness='2' color='ffffff'   />
+		>
+
+   <legend layout='hide' />
+
+   <chart_guide horizontal='TRUE'
+             vertical='TRUE'
+             thickness='1'
+             color='006400'
+             alpha='100'
+             type='solid'
+             snap_h='TRUE'
+             snap_v='TRUE'
+             radius='3'
+             fill_color='006400'
+             fill_alpha='100'
+             line_color='006400'
+             line_alpha='80'
+             line_thickness='1'
+             text_h_alpha='50'
+             text_v_alpha='00'
+             suffix_h=' WP'
+             decimals='2'
+             bold='FALSE'
+             size='11'
+             text_color='FFFFFF'
+             background_color='006400'
+             />
+   <filter>
+      <shadow id='shadow1' distance='2' angle='60' blurX='5' blurY='5' alpha='50' />
+      <bevel id='bevel1' angle='45' blurX='5' blurY='5' distance='0' />
+      <glow id='glow1' color='ffffff' alpha='0' blurX='7' blurY='7' strength='6' quality='2' inner='FALSE' knockout='FALSE' />
+      <glow id='winnerglow' color='ffffff' alpha='0' blurX='7' blurY='7' strength='5' quality='2' inner='FALSE' knockout='FALSE' />
+   </filter>
+
+    <axis_value_label>
+         <string></string>
+          <string> </string>
+          <null/>
+          <string> </string>
+          <string></string>
+
+       </axis_value_label>
+		
+	   <axis_ticks category_ticks='false'/>
+
+       <axis_value min='0' max='1' steps='4'  decimals='2' show_min='true' size='13' shadow='shadow2' />            
+        <axis_category
+               min='0'
+               max='75'
+               steps='5'
+               mode='trim'
+               decimals='0'
+               size='13'
+               shadow='shadow2'
+               />
+
+       <axis_category_label>
+          <string>Kickoff</string>
+          <string></string>
+          <string>Halftime</string>
+          <string></string>
+          <string>Regulation</string>
+          <string>OT</string>
+       </axis_category_label>
+
+
+         <chart_data>
+       <row>
+	      <null/><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number>
+              <number>x</number><number>y</number>
+              </row><row><string></string>
+
+                     <number shadow='shadow1'>0</number><number>.5</number><number shadow='shadow1' tooltip='15:00 SEA 0 HST 0 LI: 4-S.Hauschka kicks 72 yards from SEA 35 to HST -782-K.Martin Touchback.'>0.09</number><number>0.48</number>
+<number shadow='shadow1' tooltip='14:22 2-9-HST 21SEA 0 HST 0 LI: 1.423-A.Foster left end pushed ob at HST 37 for 16 yards(29-E.Thomas).'>0.63</number><number>0.45</number>
+<number shadow='shadow1' tooltip='13:49 1-10-HST 37SEA 0 HST 0 LI: 1.58-M.Schaub pass incomplete short middle to 84-R.Griffin (79-R.Bryant).'>1.18</number><number>0.48</number>
+<number shadow='shadow1' tooltip='13:43 2-10-HST 37SEA 0 HST 0 LI: 1.223-A.Foster right guard to HST 39 for 2 yards(92-B.Mebane).'>1.28</number><number>0.49</number>
+<number shadow='shadow1' tooltip='13:03 3-8-HST 39SEA 0 HST 0 LI: 1(Shotgun) 8-M.Schaub pass incomplete deep right to 82-K.Martin [91-C.Clemons].'>1.95</number><number>0.52</number>
+<number shadow='shadow1' tooltip='12:56 4-8-HST 39SEA 0 HST 0 LI: 0.79-S.Lechler punts 43 yards to SEA 18 Center-46-J.Weeks81-G.Tate to SEA 30 for 12 yards(50-B.Braman)(The punt hang time was 4.1 seconds.)'>2.07</number><number>0.54</number>
+<number shadow='shadow1' tooltip='12:45 1-10-SEA 30SEA 0 HST 0 LI: 1.63-R.Wilson pass incomplete deep right to 18-S.RicePENALTY on HST-24-J.Joseph Defensive Pass Interference 33 yards enforced at SEA 30 - No Play.'>2.25</number><number>0.6</number>
+<number shadow='shadow1' tooltip='12:37 1-10-HST 37SEA 0 HST 0 LI: 1.5(Shotgun) 24-M.Lynch up the middle to HST 33 for 4 yards(58-B.Reed).'>2.38</number><number>0.6</number>
+<number shadow='shadow1' tooltip='12:03 2-6-HST 33SEA 0 HST 0 LI: 1.424-M.Lynch left tackle to HST 30 for 3 yards(94-A.Smith 59-W.Mercilus).'>2.95</number><number>0.6</number>
+<number shadow='shadow1' tooltip='11:20 3-3-HST 30SEA 0 HST 0 LI: 1.4(Shotgun) 3-R.Wilson pass incomplete short left to 89-D.Baldwin [99-J.Watt].'>3.67</number><number>0.54</number>
+<number shadow='shadow1' tooltip='11:15 4-3-HST 30SEA 0 HST 0 LI: 0.84-S.Hauschka 48 yard field goal is GOOD Center-49-C.Gresham Holder-9-J.Ryan.'>3.75</number><number>0.58</number>
+<number shadow='shadow1' tooltip='11:15 SEA 3 HST 0 LI: 4-S.Hauschka kicks 70 yards from SEA 35 to HST -582-K.Martin to HST 19 for 24 yards(53-M.Smith).'>3.84</number><number>0.6</number>
+<number shadow='shadow1' tooltip='11:05 1-10-HST 19SEA 3 HST 0 LI: 1.38-M.Schaub pass short left to 80-A.Johnson to HST 31 for 12 yards(53-M.Smith) [72-M.Bennett].'>3.92</number><number>0.57</number>
+<number shadow='shadow1' tooltip='10:28 1-10-HST 31SEA 3 HST 0 LI: 1.344-B.Tate left guard to HST 42 for 11 yards(29-E.Thomas).'>4.53</number><number>0.55</number>
+<number shadow='shadow1' tooltip='9:49 1-10-HST 42SEA 3 HST 0 LI: 1.344-B.Tate right end to HST 43 for 1 yard(54-B.Wagner).'>5.18</number><number>0.55</number>
+<number shadow='shadow1' tooltip='9:09 2-9-HST 43SEA 3 HST 0 LI: 1.38-M.Schaub pass short right to 88-G.Graham to SEA 40 for 17 yards(31-K.Chancellor).'>5.85</number><number>0.5</number>
+<number shadow='shadow1' tooltip='8:26 1-10-SEA 40SEA 3 HST 0 LI: 1.58-M.Schaub pass short middle to 80-A.Johnson to SEA 23 for 17 yards(25-R.Sherman).'>6.57</number><number>0.44</number>
+<number shadow='shadow1' tooltip='7:50 1-10-SEA 23SEA 3 HST 0 LI: 1.723-A.Foster left tackle to SEA 21 for 2 yards(79-R.Bryant).'>7.17</number><number>0.48</number>
+<number shadow='shadow1' tooltip='7:11 2-8-SEA 21SEA 3 HST 0 LI: 1.344-B.Tate up the middle to SEA 18 for 3 yards(31-K.Chancellor).'>7.82</number><number>0.49</number>
+<number shadow='shadow1' tooltip='6:30 3-5-SEA 18SEA 3 HST 0 LI: 1.1(Shotgun) 8-M.Schaub pass short left intended for 81-O.Daniels INTERCEPTED by 29-E.Thomas at SEA 929-E.Thomas to SEA 9 for no gain (80-A.Johnson).'>8.5</number><number>0.59</number>
+<number shadow='shadow1' tooltip='6:22 1-10-SEA 9SEA 3 HST 0 LI: 1.624-M.Lynch left guard to SEA 12 for 3 yards(99-J.Watt)PENALTY on SEA-87-K.Davis Offensive Holding 4 yards enforced at SEA 9 - No Play.'>8.63</number><number>0.59</number>
+<number shadow='shadow1' tooltip='5:33 1-17-SEA 2SEA 3 HST 0 LI: 1.624-M.Lynch right tackle to SEA 45 for 43 yards(99-J.Watt).'>9.45</number><number>0.66</number>
+<number shadow='shadow1' tooltip='4:44 1-10-SEA 45SEA 3 HST 0 LI: 1.422-R.Turbin right tackle to HST 48 for 7 yards(25-K.Jackson 51-D.Sharpton).'>10.27</number><number>0.67</number>
+<number shadow='shadow1' tooltip='4:10 2-3-HST 48SEA 3 HST 0 LI: 1.322-R.Turbin up the middle to SEA 48 for -4 yards(99-J.Watt).'>10.83</number><number>0.64</number>
+<number shadow='shadow1' tooltip='3:28 3-7-SEA 48SEA 3 HST 0 LI: 1.1(Shotgun) 3-R.Wilson sacked at SEA 41 for -7 yards(sack split by 94-A.Smith and 99-J.Watt).'>11.53</number><number>0.59</number>
+<number shadow='shadow1' tooltip='2:59 4-14-SEA 41SEA 3 HST 0 LI: 0.99-J.Ryan punts 49 yards to HST 10 Center-49-C.Gresham downed by SEA-20-J.Lane(The punt hang time was 4.7 seconds.)'>12.02</number><number>0.62</number>
+<number shadow='shadow1' tooltip='2:47 1-10-HST 10SEA 3 HST 0 LI: 1.523-A.Foster left tackle to HST 10 for no gain (54-B.Wagner).'>12.22</number><number>0.63</number>
+<number shadow='shadow1' tooltip='2:09 2-10-HST 10SEA 3 HST 0 LI: 1.48-M.Schaub pass short middle to 23-A.Foster to HST 41 for 31 yards(29-E.Thomas)SEA-50-K.Wright was injured during the playHis return is Questionable.'>12.85</number><number>0.55</number>
+<number shadow='shadow1' tooltip='1:28 1-10-HST 41SEA 3 HST 0 LI: 1.38-M.Schaub pass short right to 80-A.Johnson to SEA 43 for 16 yards(25-R.Sherman).'>13.53</number><number>0.51</number>
+<number shadow='shadow1' tooltip='0:43 1-10-SEA 43SEA 3 HST 0 LI: 1.423-A.Foster left guard to SEA 43 for no gain (72-M.Bennett; 92-B.Mebane).'>14.28</number><number>0.53</number>
+<number shadow='shadow1' tooltip='0:12 2-10-SEA 43SEA 3 HST 0 LI: 1.28-M.Schaub pass short middle to 88-G.Graham to SEA 31 for 12 yards(29-E.Thomas).'>14.8</number><number>0.48</number>
+<number shadow='shadow1' tooltip='15:00 1-10-SEA 31SEA 3 HST 0 LI: 1.58-M.Schaub pass deep middle to 88-G.Graham for 31 yards TOUCHDOWN.'>15</number><number>0.39</number>
+<number shadow='shadow1' tooltip='15:00 SEA 3 HST 0 LI: 4-R.Bullock extra point is GOOD Center-46-J.Weeks Holder-9-S.Lechler.'>15.04</number><number>0.39</number>
+<number shadow='shadow1' tooltip='15:00 SEA 3 HST 7 LI: 4-R.Bullock kicks 73 yards from HST 35 to SEA -820-J.Lane to SEA 17 for 25 yards(51-D.Sharpton)FUMBLES (51-D.Sharpton) recovered by SEA-69-C.McDonald at SEA 2469-C.McDonald to SEA 24 for no gain (84-R.Griffin).'>15.09</number><number>0.38</number>
+<number shadow='shadow1' tooltip='14:45 1-10-SEA 24SEA 3 HST 7 LI: 1.324-M.Lynch left tackle to SEA 28 for 4 yards(56-B.Cushing).'>15.25</number><number>0.38</number>
+<number shadow='shadow1' tooltip='14:03 2-6-SEA 28SEA 3 HST 7 LI: 1.23-R.Wilson pass short right to 81-G.Tate to SEA 34 for 6 yards(25-K.Jackson 53-J.Mays).'>15.95</number><number>0.4</number>
+<number shadow='shadow1' tooltip='13:21 1-10-SEA 34SEA 3 HST 7 LI: 1.33-R.Wilson sacked at SEA 34 for 0 yards(59-W.Mercilus).'>16.65</number><number>0.39</number>
+<number shadow='shadow1' tooltip='12:37 2-10-SEA 34SEA 3 HST 7 LI: 1.1(Shotgun) PENALTY on HST-99-J.Watt Neutral Zone Infraction 5 yards enforced at SEA 34 - No Play.'>17.38</number><number>0.4</number>
+<number shadow='shadow1' tooltip='12:16 2-5-SEA 39SEA 3 HST 7 LI: 1.1(Shotgun) 3-R.Wilson pass short right to 81-G.Tate to SEA 40 for 1 yard(56-B.Cushing).'>17.73</number><number>0.39</number>
+<number shadow='shadow1' tooltip='11:37 3-4-SEA 40SEA 3 HST 7 LI: 1(Shotgun) 3-R.Wilson pass incomplete short right to 18-S.Rice (24-J.Joseph) [56-B.Cushing].'>18.38</number><number>0.35</number>
+<number shadow='shadow1' tooltip='11:31 4-4-SEA 40SEA 3 HST 7 LI: 0.69-J.Ryan punts 60 yards to end zone Center-49-C.Gresham Touchback(The punt hang time was 5.1 seconds.)'>18.48</number><number>0.35</number>
+<number shadow='shadow1' tooltip='11:21 1-10-HST 20SEA 3 HST 7 LI: 1.48-M.Schaub pass incomplete short right to 81-O.Daniels.'>18.65</number><number>0.37</number>
+<number shadow='shadow1' tooltip='11:15 2-10-HST 20SEA 3 HST 7 LI: 1.223-A.Foster right guard to HST 22 for 2 yards(79-R.Bryant 54-B.Wagner).'>18.75</number><number>0.37</number>
+<number shadow='shadow1' tooltip='10:31 3-8-HST 22SEA 3 HST 7 LI: 1.1(Shotgun) 8-M.Schaub pass short right to 80-A.Johnson pushed ob at HST 32 for 10 yards.'>19.48</number><number>0.33</number>
+<number shadow='shadow1' tooltip='9:57 1-10-HST 32SEA 3 HST 7 LI: 1.38-M.Schaub pass short middle to 23-A.Foster to HST 46 for 14 yards(53-M.Smith; 54-B.Wagner).'>20.05</number><number>0.31</number>
+<number shadow='shadow1' tooltip='9:19 1-10-HST 46SEA 3 HST 7 LI: 1.244-B.Tate up the middle pushed ob at SEA 32 for 22 yards(28-W.Thurmond).'>20.68</number><number>0.28</number>
+<number shadow='shadow1' tooltip='8:50 1-10-SEA 32SEA 3 HST 7 LI: 144-B.Tate right tackle to SEA 29 for 3 yards(91-C.Clemons).'>21.17</number><number>0.28</number>
+<number shadow='shadow1' tooltip='8:14 2-7-SEA 29SEA 3 HST 7 LI: 0.98-M.Schaub pass short left to 44-B.Tate to SEA 28 for 1 yard(53-M.Smith).'>21.77</number><number>0.29</number>
+<number shadow='shadow1' tooltip='7:27 3-6-SEA 28SEA 3 HST 7 LI: 0.8(Shotgun) 8-M.Schaub pass deep left to 81-O.Daniels to SEA 7 for 21 yards(41-B.Maxwell) [72-M.Bennett].'>22.55</number><number>0.2</number>
+<number shadow='shadow1' tooltip='6:57 1-7-SEA 7SEA 3 HST 7 LI: 1.423-A.Foster up the middle to SEA 5 for 2 yards(99-T.McDaniel; 79-R.Bryant).'>23.05</number><number>0.2</number>
+<number shadow='shadow1' tooltip='6:18 2-5-SEA 5SEA 3 HST 7 LI: 1.48-M.Schaub pass short right to 23-A.Foster for 5 yards TOUCHDOWN.'>23.7</number><number>0.17</number>
+<number shadow='shadow1' tooltip='6:18 SEA 3 HST 7 LI: 4-R.Bullock extra point is GOOD Center-46-J.Weeks Holder-9-S.Lechler.'>23.74</number><number>0.17</number>
+<number shadow='shadow1' tooltip='6:18 SEA 3 HST 14 LI: 4-R.Bullock kicks 72 yards from HST 35 to SEA -715-J.Kearse Touchback.'>23.79</number><number>0.16</number>
+<number shadow='shadow1' tooltip='6:11 1-10-SEA 20SEA 3 HST 14 LI: 0.924-M.Lynch up the middle to SEA 19 for -1 yards(56-B.Cushing)FUMBLES (56-B.Cushing) RECOVERED by HST-97-T.McClain at SEA 1997-T.McClain to SEA 19 for no gain (24-M.Lynch).'>23.82</number><number>0.07</number>
+<number shadow='shadow1' tooltip='6:04 1-10-SEA 19SEA 3 HST 14 LI: 0.98-M.Schaub pass incomplete deep right to 80-A.Johnson (25-R.Sherman).'>23.93</number><number>0.09</number>
+<number shadow='shadow1' tooltip='5:58 2-10-SEA 19SEA 3 HST 14 LI: 0.723-A.Foster left guard to SEA 13 for 6 yards(92-B.Mebane).'>24.03</number><number>0.09</number>
+<number shadow='shadow1' tooltip='5:20 3-4-SEA 13SEA 3 HST 14 LI: 0.6(Shotgun) 8-M.Schaub pass short middle to 88-G.Graham to SEA 5 for 8 yards(54-B.Wagner).'>24.67</number><number>0.08</number>
+<number shadow='shadow1' tooltip='4:46 1-5-SEA 5SEA 3 HST 14 LI: 0.78-M.Schaub pass incomplete short right to 23-A.Foster.'>25.23</number><number>0.08</number>
+<number shadow='shadow1' tooltip='4:40 2-5-SEA 5SEA 3 HST 14 LI: 0.723-A.Foster right guard to SEA 4 for 1 yard(91-C.Clemons).'>25.33</number><number>0.08</number>
+<number shadow='shadow1' tooltip='4:01 3-4-SEA 4SEA 3 HST 14 LI: 0.7(Shotgun) 8-M.Schaub pass incomplete short left to 82-K.Martin [54-B.Wagner].'>25.98</number><number>0.1</number>
+<number shadow='shadow1' tooltip='3:54 4-4-SEA 4SEA 3 HST 14 LI: 0.54-R.Bullock 22 yard field goal is GOOD Center-46-J.Weeks Holder-9-S.Lechler.'>26.1</number><number>0.1</number>
+<number shadow='shadow1' tooltip='3:54 SEA 3 HST 17 LI: 4-R.Bullock kicks 74 yards from HST 35 to SEA -915-J.Kearse Touchback.'>26.19</number><number>0.1</number>
+<number shadow='shadow1' tooltip='2:39 2-3-HST 49SEA 3 HST 17 LI: 0.4(Shotgun) 22-R.Turbin up the middle to HST 48 for 1 yard(99-J.Watt; 56-B.Cushing).'>27.35</number><number>0.12</number>
+<number shadow='shadow1' tooltip='2:00 3-2-HST 48SEA 3 HST 17 LI: 0.4(Shotgun) 24-M.Lynch up the middle to HST 48 for no gain (56-B.Cushing; 58-B.Reed).'>28</number><number>0.1</number>
+<number shadow='shadow1' tooltip='1:22 4-2-HST 48SEA 3 HST 17 LI: 0.29-J.Ryan punts 39 yards to HST 9 Center-49-C.Gresham fair catch by 82-K.Martin(The punt hang time was 4.7 seconds.)'>28.63</number><number>0.1</number>
+<number shadow='shadow1' tooltip='1:13 1-10-HST 9SEA 3 HST 17 LI: 1.123-A.Foster up the middle to HST 13 for 4 yards(25-R.Sherman).'>28.78</number><number>0.11</number>
+<number shadow='shadow1' tooltip='1:07 2-6-HST 13SEA 3 HST 17 LI: 123-A.Foster right guard to HST 15 for 2 yards(69-C.McDonald).'>28.88</number><number>0.11</number>
+<number shadow='shadow1' tooltip='1:02 3-4-HST 15SEA 3 HST 17 LI: 0.58-M.Schaub pass incomplete short middle to 88-G.Graham [56-C.Avril]PENALTY on SEA-31-K.Chancellor Defensive Pass Interference 10 yards enforced at HST 15 - No Play.'>28.97</number><number>0.1</number>
+<number shadow='shadow1' tooltip='0:56 1-10-HST 25SEA 3 HST 17 LI: 0.5(Shotgun) 8-M.Schaub pass incomplete short right to 82-K.Martin.'>29.07</number><number>0.1</number>
+<number shadow='shadow1' tooltip='0:51 2-10-HST 25SEA 3 HST 17 LI: 0.5(Shotgun) 23-A.Foster up the middle pushed ob at HST 40 for 15 yards(39-B.Browner).'>29.15</number><number>0.09</number>
+<number shadow='shadow1' tooltip='0:44 1-10-HST 40SEA 3 HST 17 LI: 0.4(Shotgun) 8-M.Schaub pass short left to 81-O.Daniels pushed ob at SEA 49 for 11 yards(41-B.Maxwell).'>29.27</number><number>0.08</number>
+<number shadow='shadow1' tooltip='0:38 1-10-SEA 49SEA 3 HST 17 LI: 0.4(Shotgun) 8-M.Schaub pass short middle to 81-O.Daniels to SEA 41 for 8 yards(41-B.Maxwell).'>29.37</number><number>0.07</number>
+<number shadow='shadow1' tooltip='0:32 2-2-SEA 41SEA 3 HST 17 LI: 0.4(Shotgun) 8-M.Schaub pass incomplete deep left to 10-D.Hopkins [91-C.Clemons].'>29.47</number><number>0.07</number>
+<number shadow='shadow1' tooltip='0:27 3-2-SEA 41SEA 3 HST 17 LI: 0.4(Shotgun) 8-M.Schaub pass short left to 80-A.Johnson pushed ob at SEA 30 for 11 yards(39-B.Browner).'>29.55</number><number>0.07</number>
+<number shadow='shadow1' tooltip='0:23 1-10-SEA 30SEA 3 HST 17 LI: 0.3(Shotgun) 8-M.Schaub pass incomplete short middle to 81-O.Daniels.'>29.62</number><number>0.07</number>
+<number shadow='shadow1' tooltip='0:18 2-10-SEA 30SEA 3 HST 17 LI: 0.3(Shotgun) 8-M.Schaub pass short left to 88-G.Graham to SEA 29 for 1 yard(29-E.Thomas) [72-M.Bennett]FUMBLES (29-E.Thomas) ball out of bounds at SEA 29SEA-72-M.Bennett was injured during the playHe is Out.'>29.7</number><number>0.08</number>
+<number shadow='shadow1' tooltip='0:10 3-9-SEA 29SEA 3 HST 17 LI: 0.2(Shotgun) 23-A.Foster up the middle to SEA 24 for 5 yards(29-E.Thomas).'>29.83</number><number>0.09</number>
+<number shadow='shadow1' tooltip='0:06 4-4-SEA 24SEA 3 HST 17 LI: 0.14-R.Bullock 42 yard field goal is GOOD Center-46-J.Weeks Holder-9-S.Lechler.'>29.9</number><number>0.09</number>
+<number shadow='shadow1' tooltip='0:06 SEA 3 HST 20 LI: 4-R.Bullock kicks 28 yards from HST 35 to SEA 3740-D.Coleman (didn t try to advance) to SEA 37 for no gain (34-A.Bouye).'>29.99</number><number>0.09</number>
+<number shadow='shadow1' tooltip='14:55 1-10-SEA 25SEA 3 HST 20 LI: 0.53-R.Wilson sacked at SEA 19 for -6 yards(sack split by 59-W.Mercilus and 94-A.Smith).'>30.08</number><number>0.08</number>
+<number shadow='shadow1' tooltip='14:16 2-16-SEA 19SEA 3 HST 20 LI: 0.5(Shotgun) PENALTY on SEA-64-J.Sweezy False Start 5 yards enforced at SEA 19 - No Play.'>30.73</number><number>0.07</number>
+<number shadow='shadow1' tooltip='13:59 2-21-SEA 14SEA 3 HST 20 LI: 0.3(Shotgun) 3-R.Wilson pass short right to 24-M.Lynch to SEA 22 for 8 yards(56-B.Cushing).'>31.02</number><number>0.07</number>
+<number shadow='shadow1' tooltip='13:16 3-13-SEA 22SEA 3 HST 20 LI: 0.4(Shotgun) 3-R.Wilson scrambles up the middle to SEA 23 for 1 yard(59-W.Mercilus).'>31.73</number><number>0.07</number>
+<number shadow='shadow1' tooltip='12:36 4-12-SEA 23SEA 3 HST 20 LI: 0.49-J.Ryan punts 52 yards to HST 25 Center-49-C.Gresham82-K.Martin to HST 26 for 1 yard(20-J.Lane)PENALTY on HST-35-E.Pleasant Unnecessary Roughness 13 yards enforced at HST 26(The penalty was for a head-butt.)'>32.4</number><number>0.08</number>
+<number shadow='shadow1' tooltip='12:25 1-10-HST 13SEA 3 HST 20 LI: 0.78-M.Schaub pass deep left to 81-O.Daniels to HST 34 for 21 yards(31-K.Chancellor).'>32.58</number><number>0.08</number>
+<number shadow='shadow1' tooltip='11:49 1-10-HST 34SEA 3 HST 20 LI: 0.223-A.Foster up the middle to HST 40 for 6 yards(39-B.Browner).'>33.18</number><number>0.06</number>
+<number shadow='shadow1' tooltip='11:09 2-4-HST 40SEA 3 HST 20 LI: 0.323-A.Foster right end to HST 43 for 3 yards(99-T.McDaniel; 91-C.Clemons).'>33.85</number><number>0.06</number>
+<number shadow='shadow1' tooltip='10:31 3-1-HST 43SEA 3 HST 20 LI: 0.3(Shotgun) 23-A.Foster right tackle to SEA 47 for 10 yards(29-E.Thomas).'>34.48</number><number>0.05</number>
+<number shadow='shadow1' tooltip='9:54 1-10-SEA 47SEA 3 HST 20 LI: 0.38-M.Schaub sacked at SEA 49 for -2 yards(99-T.McDaniel).'>35.1</number><number>0.05</number>
+<number shadow='shadow1' tooltip='9:20 2-12-SEA 49SEA 3 HST 20 LI: 0.323-A.Foster left tackle to HST 48 for -3 yards(69-C.McDonald).'>35.67</number><number>0.05</number>
+<number shadow='shadow1' tooltip='8:40 3-15-HST 48SEA 3 HST 20 LI: 0.3(Shotgun) 8-M.Schaub pass incomplete short right to 88-G.Graham [92-B.Mebane]PENALTY on SEA-91-C.Clemons Defensive Offside 5 yards enforced at HST 48 - No Play.'>36.33</number><number>0.05</number>
+<number shadow='shadow1' tooltip='8:35 3-10-SEA 47SEA 3 HST 20 LI: 0.3(Shotgun) 8-M.Schaub pass incomplete short right to 23-A.Foster.'>36.42</number><number>0.06</number>
+<number shadow='shadow1' tooltip='8:28 4-10-SEA 47SEA 3 HST 20 LI: 0.29-S.Lechler punts 27 yards to SEA 20 Center-46-J.Weeks downed by HST-35-E.Pleasant(The punt hang time was 4.7 seconds.)'>36.53</number><number>0.07</number>
+<number shadow='shadow1' tooltip='8:17 1-10-SEA 20SEA 3 HST 20 LI: 0.53-R.Wilson pass incomplete deep right to 18-S.Rice.'>36.72</number><number>0.06</number>
+<number shadow='shadow1' tooltip='8:11 2-10-SEA 20SEA 3 HST 20 LI: 0.4(Shotgun) 24-M.Lynch right guard to SEA 19 for -1 yards(56-B.Cushing; 99-J.Watt).'>36.82</number><number>0.04</number>
+<number shadow='shadow1' tooltip='7:37 3-11-SEA 19SEA 3 HST 20 LI: 0.2(Shotgun) 3-R.Wilson pass short middle to 18-S.Rice to SEA 30 for 11 yards(56-B.Cushing).'>37.38</number><number>0.07</number>
+<number shadow='shadow1' tooltip='7:01 1-10-SEA 30SEA 3 HST 20 LI: 0.4(Shotgun) 3-R.Wilson pass short right to 86-Z.Miller to SEA 37 for 7 yards(38-D.Manning).'>37.98</number><number>0.05</number>
+<number shadow='shadow1' tooltip='6:28 2-3-SEA 37SEA 3 HST 20 LI: 0.2(Shotgun) 3-R.Wilson right end to SEA 39 for 2 yards(53-J.Mays).'>38.53</number><number>0.05</number>
+<number shadow='shadow1' tooltip='5:50 3-1-SEA 39SEA 3 HST 20 LI: 0.224-M.Lynch right tackle to SEA 39 for no gain (99-J.Watt).'>39.17</number><number>0.03</number>
+<number shadow='shadow1' tooltip='5:02 4-1-SEA 39SEA 3 HST 20 LI: 0.19-J.Ryan punts 44 yards to HST 17 Center-49-C.Gresham fair catch by 82-K.Martin.'>39.97</number><number>0.02</number>
+<number shadow='shadow1' tooltip='4:26 2-6-HST 21SEA 3 HST 20 LI: 0.344-B.Tate left end to HST 20 for -1 yards(53-M.Smith)FUMBLES (53-M.Smith) RECOVERED by SEA-54-B.Wagner at HST 2154-B.Wagner to HST 21 for no gain (44-B.Tate).'>40.57</number><number>0.07</number>
+<number shadow='shadow1' tooltip='4:19 1-10-HST 21SEA 3 HST 20 LI: 0.53-R.Wilson pass incomplete short middle to 18-S.Rice.'>40.68</number><number>0.08</number>
+<number shadow='shadow1' tooltip='4:13 2-10-HST 21SEA 3 HST 20 LI: 0.63-R.Wilson pass incomplete deep left to 18-S.Rice.'>40.78</number><number>0.06</number>
+<number shadow='shadow1' tooltip='4:06 3-10-HST 21SEA 3 HST 20 LI: 0.4(Shotgun) 3-R.Wilson pass incomplete deep left to 86-Z.Miller [99-J.Watt].'>40.9</number><number>0.04</number>
+<number shadow='shadow1' tooltip='3:58 4-10-HST 21SEA 3 HST 20 LI: 0.24-S.Hauschka 39 yard field goal is GOOD Center-49-C.Gresham Holder-9-J.Ryan.'>41.03</number><number>0.05</number>
+<number shadow='shadow1' tooltip='3:58 SEA 6 HST 20 LI: 4-S.Hauschka kicks 73 yards from SEA 35 to HST -882-K.Martin to HST 20 for 28 yards(53-M.Smith).'>41.12</number><number>0.04</number>
+<number shadow='shadow1' tooltip='3:49 1-10-HST 20SEA 6 HST 20 LI: 0.78-M.Schaub pass short right to 23-A.Foster pushed ob at HST 32 for 12 yards(53-M.Smith).'>41.18</number><number>0.05</number>
+<number shadow='shadow1' tooltip='3:14 1-10-HST 32SEA 6 HST 20 LI: 0.58-M.Schaub pass short right to 23-A.Foster to HST 34 for 2 yards(79-R.Bryant).'>41.77</number><number>0.04</number>
+<number shadow='shadow1' tooltip='2:34 2-8-HST 34SEA 6 HST 20 LI: 0.523-A.Foster right end to HST 46 for 12 yards(91-C.Clemons; 50-K.Wright).'>42.43</number><number>0.04</number>
+<number shadow='shadow1' tooltip='1:50 1-10-HST 46SEA 6 HST 20 LI: 0.323-A.Foster right tackle to HST 44 for -2 yards(92-B.Mebane).'>43.17</number><number>0.04</number>
+<number shadow='shadow1' tooltip='1:08 2-12-HST 44SEA 6 HST 20 LI: 0.4(Shotgun) 8-M.Schaub pass incomplete short left to 82-K.Martin.'>43.87</number><number>0.04</number>
+<number shadow='shadow1' tooltip='1:03 3-12-HST 44SEA 6 HST 20 LI: 0.4(Shotgun) 8-M.Schaub pass short right to 81-O.Daniels to HST 49 for 5 yards(31-K.Chancellor).'>43.95</number><number>0.04</number>
+<number shadow='shadow1' tooltip='0:21 4-7-HST 49SEA 6 HST 20 LI: 0.39-S.Lechler punts 48 yards to SEA 3 Center-46-J.Weeks81-G.Tate ran ob at SEA 3 for no gainPENALTY on SEA-87-K.Davis Offensive Holding 1 yard enforced at SEA 3(The punt hang time was 4.3 seconds.)'>44.65</number><number>0.03</number>
+<number shadow='shadow1' tooltip='0:11 1-10-SEA 2SEA 6 HST 20 LI: 0.13-R.Wilson FUMBLES (Aborted) at SEA 2 and recovers at SEA 13-R.Wilson to SEA 1 for no gain (94-A.Smith).'>44.82</number><number>0.03</number>
+<number shadow='shadow1' tooltip='15:00 2-11-SEA 1SEA 6 HST 20 LI: 0.13-R.Wilson pass short left to 40-D.Coleman to SEA 5 for 4 yards(24-J.Joseph).'>45</number><number>0.03</number>
+<number shadow='shadow1' tooltip='14:17 3-7-SEA 5SEA 6 HST 20 LI: 0.1(Shotgun) 3-R.Wilson pass incomplete deep left to 89-D.Baldwin (25-K.Jackson)Seattle challenged the incomplete pass ruling and the play was REVERSED(Shotgun) 3-R.Wilson pass deep left to 89-D.Baldwin pushed ob at SEA 29 for 24 yards(25-K.Jackson).'>45.72</number><number>0.04</number>
+<number shadow='shadow1' tooltip='13:52 1-10-SEA 29SEA 6 HST 20 LI: 0.13-R.Wilson scrambles up the middle pushed ob at HST 46 for 25 yards(58-B.Reed).'>46.13</number><number>0.06</number>
+<number shadow='shadow1' tooltip='13:21 1-10-HST 46SEA 6 HST 20 LI: 0.324-M.Lynch up the middle to HST 42 for 4 yards(53-J.Mays 92-E.Mitchell).'>46.65</number><number>0.06</number>
+<number shadow='shadow1' tooltip='12:51 2-6-HST 42SEA 6 HST 20 LI: 0.324-M.Lynch left guard to HST 25 for 17 yards(24-J.Joseph).'>47.15</number><number>0.08</number>
+<number shadow='shadow1' tooltip='12:19 1-10-HST 25SEA 6 HST 20 LI: 0.43-R.Wilson pass deep right to 15-J.Kearse for 25 yards TOUCHDOWN NULLIFIED by PenaltyPENALTY on SEA-15-J.Kearse Offensive Pass Interference 10 yards enforced at HST 25 - No Play.'>47.68</number><number>0.08</number>
+<number shadow='shadow1' tooltip='12:12 1-20-HST 35SEA 6 HST 20 LI: 0.43-R.Wilson pass incomplete deep right to 81-G.Tate.'>47.8</number><number>0.07</number>
+<number shadow='shadow1' tooltip='12:04 2-20-HST 35SEA 6 HST 20 LI: 0.3(Shotgun) 3-R.Wilson scrambles up the middle to HST 22 for 13 yards(36-D.Swearinger).'>47.93</number><number>0.08</number>
+<number shadow='shadow1' tooltip='11:17 3-7-HST 22SEA 6 HST 20 LI: 0.5(Shotgun) 3-R.Wilson pass short left to 89-D.Baldwin to HST 14 for 8 yards(38-D.Manning).'>48.72</number><number>0.12</number>
+<number shadow='shadow1' tooltip='10:42 1-10-HST 14SEA 6 HST 20 LI: 0.9PENALTY on SEA False Start 5 yards enforced at HST 14 - No Play.'>49.3</number><number>0.08</number>
+<number shadow='shadow1' tooltip='10:23 1-15-HST 19SEA 6 HST 20 LI: 0.5(Shotgun) 3-R.Wilson sacked at HST 28 for -9 yards(59-W.Mercilus).'>49.62</number><number>0.05</number>
+<number shadow='shadow1' tooltip='9:43 2-24-HST 28SEA 6 HST 20 LI: 0.2(Shotgun) 3-R.Wilson left end to HST 17 for 11 yards(38-D.Manning).'>50.28</number><number>0.06</number>
+<number shadow='shadow1' tooltip='9:03 3-13-HST 17SEA 6 HST 20 LI: 0.4(Shotgun) 3-R.Wilson pass short left to 81-G.Tate to HST 7 for 10 yards(51-D.Sharpton 54-W.Jefferson).'>50.95</number><number>0.05</number>
+<number shadow='shadow1' tooltip='8:24 4-3-HST 7SEA 6 HST 20 LI: 0.43-R.Wilson scrambles right end pushed ob at HST 3 for 4 yards(57-J.Tuggle).'>51.6</number><number>0.11</number>
+<number shadow='shadow1' tooltip='7:48 1-3-HST 3SEA 6 HST 20 LI: 1(Shotgun) 24-M.Lynch left end for 3 yards TOUCHDOWN.'>52.2</number><number>0.12</number>
+<number shadow='shadow1' tooltip='7:48 SEA 6 HST 20 LI: 4-S.Hauschka extra point is GOOD Center-49-C.Gresham Holder-9-J.Ryan.'>52.24</number><number>0.12</number>
+<number shadow='shadow1' tooltip='7:48 SEA 13 HST 20 LI: 4-S.Hauschka kicks 74 yards from SEA 35 to HST -982-K.Martin Touchback.'>52.29</number><number>0.13</number>
+<number shadow='shadow1' tooltip='7:37 2-10-HST 20SEA 13 HST 20 LI: 1.78-M.Schaub sacked at HST 11 for -9 yards(91-C.Clemons).'>52.38</number><number>0.22</number>
+<number shadow='shadow1' tooltip='6:59 3-19-HST 11SEA 13 HST 20 LI: 1.78-M.Schaub pass short middle to 82-K.Martin to HST 17 for 6 yards(28-W.Thurmond).'>53.02</number><number>0.22</number>
+<number shadow='shadow1' tooltip='6:05 1-10-HST 47SEA 13 HST 20 LI: 1.63-R.Wilson pass incomplete short middle to 86-Z.Miller.'>53.92</number><number>0.14</number>
+<number shadow='shadow1' tooltip='6:01 2-10-HST 47SEA 13 HST 20 LI: 0.824-M.Lynch up the middle to HST 45 for 2 yards(53-J.Mays; 92-E.Mitchell).'>53.98</number><number>0.12</number>
+<number shadow='shadow1' tooltip='5:20 3-8-HST 45SEA 13 HST 20 LI: 0.6(Shotgun) 3-R.Wilson pass short middle intended for 15-J.Kearse INTERCEPTED by 24-J.Joseph at HST 4224-J.Joseph to HST 43 for 1 yard(15-J.Kearse).'>54.67</number><number>0.06</number>
+<number shadow='shadow1' tooltip='5:13 1-10-HST 43SEA 13 HST 20 LI: 1.423-A.Foster up the middle to HST 49 for 6 yards(50-K.Wright).'>54.78</number><number>0.08</number>
+<number shadow='shadow1' tooltip='4:27 2-4-HST 49SEA 13 HST 20 LI: 1.323-A.Foster right guard to SEA 46 for 5 yards(31-K.Chancellor).'>55.55</number><number>0.04</number>
+<number shadow='shadow1' tooltip='3:43 1-10-SEA 46SEA 13 HST 20 LI: 1.323-A.Foster left tackle to SEA 41 for 5 yards(69-C.McDonald).'>56.28</number><number>0.07</number>
+<number shadow='shadow1' tooltip='2:58 2-5-SEA 41SEA 13 HST 20 LI: 123-A.Foster right guard to SEA 40 for 1 yard(54-B.Wagner).'>57.03</number><number>0.13</number>
+<number shadow='shadow1' tooltip='2:51 3-4-SEA 40SEA 13 HST 20 LI: 0.38-M.Schaub pass short right intended for 81-O.Daniels INTERCEPTED by 25-R.Sherman [31-K.Chancellor] at SEA 4225-R.Sherman for 58 yards TOUCHDOWN.'>57.15</number><number>0.33</number>
+<number shadow='shadow1' tooltip='2:51 SEA 13 HST 20 LI: 4-S.Hauschka extra point is GOOD Center-49-C.Gresham Holder-9-J.Ryan.'>57.19</number><number>0.33</number>
+<number shadow='shadow1' tooltip='2:51 SEA 20 HST 20 LI: 4-S.Hauschka kicks 74 yards from SEA 35 to HST -982-K.Martin Touchback.'>57.24</number><number>0.4</number>
+<number shadow='shadow1' tooltip='2:40 1-10-HST 20SEA 20 HST 20 LI: 4.38-M.Schaub pass deep right to 80-A.Johnson to HST 37 for 17 yards(25-R.Sherman).'>57.33</number><number>0.3</number>
+<number shadow='shadow1' tooltip='2:03 1-10-HST 37SEA 20 HST 20 LI: 4.8(Shotgun) 8-M.Schaub pass short right to 80-A.Johnson pushed ob at HST 45 for 8 yards(41-B.Maxwell).'>57.95</number><number>0.34</number>
+<number shadow='shadow1' tooltip='1:57 2-2-HST 45SEA 20 HST 20 LI: 423-A.Foster right guard to HST 45 for no gain (50-K.Wright).'>58.05</number><number>0.39</number>
+<number shadow='shadow1' tooltip='1:21 3-2-HST 45SEA 20 HST 20 LI: 3.7(Shotgun) 8-M.Schaub pass short middle to 81-O.Daniels to SEA 49 for 6 yards(50-K.Wright).'>58.65</number><number>0.28</number>
+<number shadow='shadow1' tooltip='0:52 1-10-SEA 49SEA 20 HST 20 LI: 4.2(Shotgun) 8-M.Schaub sacked at HST 41 for -10 yards(56-C.Avril).'>59.13</number><number>0.45</number>
+<number shadow='shadow1' tooltip='0:44 2-20-HST 41SEA 20 HST 20 LI: 3.6(Shotgun) 8-M.Schaub pass short left to 10-D.Hopkins to SEA 43 for 16 yards(39-B.Browner).'>59.27</number><number>0.35</number>
+<number shadow='shadow1' tooltip='0:34 3-4-SEA 43SEA 20 HST 20 LI: 3(Shotgun) 8-M.Schaub pass incomplete short left to 81-O.Daniels (29-E.Thomas) [99-T.McDaniel].'>59.43</number><number>0.51</number>
+<number shadow='shadow1' tooltip='0:28 4-4-SEA 43SEA 20 HST 20 LI: 1.39-S.Lechler punts 32 yards to SEA 11 Center-46-J.Weeks fair catch by 81-G.Tate(The punt hang time was 4.4 seconds.)'>59.53</number><number>0.5</number>
+<number shadow='shadow1' tooltip='0:20 1-10-SEA 11SEA 20 HST 20 LI: 4.23-R.Wilson kneels to SEA 10 for -1 yards.'>59.67</number><number>0.46</number>
+<number shadow='shadow1' tooltip='0:20 SEA 20 HST 20 LI: 4-S.Hauschka kicks 74 yards from SEA 35 to HST -982-K.Martin Touchback.'>59.76</number><number>0.53</number>
+<number shadow='shadow1' tooltip='15:00 1-10-HST 20SEA 20 HST 20 LI: 3.523-A.Foster up the middle to HST 21 for 1 yard(50-K.Wright).'>60</number><number>0.5</number>
+<number shadow='shadow1' tooltip='14:27 2-9-HST 21SEA 20 HST 20 LI: 3.78-M.Schaub pass short left to 80-A.Johnson to HST 34 for 13 yards(31-K.Chancellor).'>60.55</number><number>0.4</number>
+<number shadow='shadow1' tooltip='13:51 1-10-HST 34SEA 20 HST 20 LI: 48-M.Schaub pass short right to 33-G.Jones to HST 35 for 1 yard(31-K.Chancellor).'>61.15</number><number>0.41</number>
+<number shadow='shadow1' tooltip='13:10 2-9-HST 35SEA 20 HST 20 LI: 3.88-M.Schaub pass short left to 23-A.Foster pushed ob at HST 40 for 5 yards(39-B.Browner).'>61.83</number><number>0.4</number>
+<number shadow='shadow1' tooltip='12:42 3-4-HST 40SEA 20 HST 20 LI: 3.6(Shotgun) 8-M.Schaub pass incomplete deep left to 80-A.Johnson (39-B.Browner).'>62.3</number><number>0.5</number>
+<number shadow='shadow1' tooltip='12:36 4-4-HST 40SEA 20 HST 20 LI: 2.69-S.Lechler punts 60 yards to end zone Center-46-J.Weeks Touchback(The punt hang time was 4.8 seconds.)'>62.4</number><number>0.47</number>
+<number shadow='shadow1' tooltip='12:27 1-10-SEA 20SEA 20 HST 20 LI: 3.5(Shotgun) 3-R.Wilson pass short right to 24-M.Lynch to SEA 33 for 13 yards(51-D.Sharpton)PENALTY on HST-51-D.Sharpton Horse Collar Tackle 15 yards enforced at SEA 33.'>62.55</number><number>0.69</number>
+<number shadow='shadow1' tooltip='12:03 1-10-SEA 48SEA 20 HST 20 LI: 4.13-R.Wilson sacked at SEA 38 for -10 yards(58-B.Reed).'>62.95</number><number>0.56</number>
+<number shadow='shadow1' tooltip='11:24 2-20-SEA 38SEA 20 HST 20 LI: 3.3(Shotgun) 3-R.Wilson pass incomplete short left to 83-S.Williams.'>63.6</number><number>0.51</number>
+<number shadow='shadow1' tooltip='11:21 3-20-SEA 38SEA 20 HST 20 LI: 2.8(Shotgun) 3-R.Wilson scrambles up the middle to HST 47 for 15 yards(20-E.Reed).'>63.65</number><number>0.57</number>
+<number shadow='shadow1' tooltip='10:38 4-5-HST 47SEA 20 HST 20 LI: 2.69-J.Ryan punts 34 yards to HST 13 Center-49-C.Gresham fair catch by 82-K.Martin(The punt hang time was 4.6 seconds.)'>64.37</number><number>0.61</number>
+<number shadow='shadow1' tooltip='10:30 1-10-HST 13SEA 20 HST 20 LI: 3.18-M.Schaub pass incomplete deep middle to 88-G.Graham (50-K.Wright).'>64.5</number><number>0.57</number>
+<number shadow='shadow1' tooltip='10:24 2-10-HST 13SEA 20 HST 20 LI: 3.5(Shotgun) 8-M.Schaub pass short left to 10-D.Hopkins ran ob at HST 24 for 11 yards.'>64.6</number><number>0.49</number>
+<number shadow='shadow1' tooltip='9:56 1-10-HST 24SEA 20 HST 20 LI: 3.623-A.Foster right tackle to HST 24 for no gain (56-C.Avril).'>65.07</number><number>0.49</number>
+<number shadow='shadow1' tooltip='9:18 2-10-HST 24SEA 20 HST 20 LI: 3.68-M.Schaub pass short left to 80-A.Johnson to HST 30 for 6 yards(54-B.Wagner).'>65.7</number><number>0.47</number>
+<number shadow='shadow1' tooltip='8:36 3-4-HST 30SEA 20 HST 20 LI: 3.5(Shotgun) 8-M.Schaub pass incomplete deep left to 80-A.JohnsonPENALTY on SEA-39-B.Browner Defensive Pass Interference 19 yards enforced at HST 30 - No Play.'>66.4</number><number>0.3</number>
+<number shadow='shadow1' tooltip='8:30 1-10-HST 49SEA 20 HST 20 LI: 4.18-M.Schaub sacked at HST 40 for -9 yards(69-C.McDonald).'>66.5</number><number>0.42</number>
+<number shadow='shadow1' tooltip='7:51 2-19-HST 40SEA 20 HST 20 LI: 3.4(Shotgun) 8-M.Schaub pass incomplete short right to 82-K.Martin (56-C.Avril).'>67.15</number><number>0.47</number>
+<number shadow='shadow1' tooltip='7:47 3-19-HST 40SEA 20 HST 20 LI: 2.9(Shotgun) 8-M.Schaub scrambles up the middle to HST 45 for 5 yards(69-C.McDonald).'>67.22</number><number>0.47</number>
+<number shadow='shadow1' tooltip='7:15 4-14-HST 45SEA 20 HST 20 LI: 2.69-S.Lechler punts 50 yards to SEA 5 Center-46-J.Weeks81-G.Tate to SEA 7 for 2 yards(50-B.Braman)PENALTY on HST Player Out of Bounds on Punt 5 yards enforced at HST 45 - No Play.'>67.75</number><number>0.5</number>
+<number shadow='shadow1' tooltip='7:02 4-19-HST 40SEA 20 HST 20 LI: 2.69-S.Lechler punts 61 yards to SEA -1 Center-46-J.Weeks81-G.Tate to SEA 31 for 32 yards(9-S.Lechler).'>67.97</number><number>0.57</number>
+<number shadow='shadow1' tooltip='6:46 1-10-SEA 31SEA 20 HST 20 LI: 3.824-M.Lynch left tackle pushed ob at SEA 37 for 6 yards(20-E.Reed).'>68.23</number><number>0.62</number>
+<number shadow='shadow1' tooltip='6:16 2-4-SEA 37SEA 20 HST 20 LI: 4(Shotgun) 3-R.Wilson scrambles left end pushed ob at SEA 44 for 7 yards(51-D.Sharpton).'>68.73</number><number>0.67</number>
+<number shadow='shadow1' tooltip='5:42 1-10-SEA 44SEA 20 HST 20 LI: 4.124-M.Lynch right guard to SEA 42 for -2 yards(99-J.Watt).'>69.3</number><number>0.63</number>
+<number shadow='shadow1' tooltip='5:00 2-12-SEA 42SEA 20 HST 20 LI: 3.8(Shotgun) 3-R.Wilson pass short right to 89-D.Baldwin to SEA 49 for 7 yards(25-K.Jackson)PENALTY on HST-25-K.Jackson Unnecessary Roughness 15 yards enforced at SEA 49.'>70</number><number>0.78</number>
+<number shadow='shadow1' tooltip='4:52 1-10-HST 36SEA 20 HST 20 LI: 3.924-M.Lynch left tackle to HST 33 for 3 yards(53-J.Mays 99-J.Watt).'>70.13</number><number>0.81</number>
+<number shadow='shadow1' tooltip='4:16 2-7-HST 33SEA 20 HST 20 LI: 424-M.Lynch up the middle to HST 27 for 6 yards(59-W.Mercilus 51-D.Sharpton).'>70.73</number><number>0.85</number>
+<number shadow='shadow1' tooltip='3:28 3-1-HST 27SEA 20 HST 20 LI: 3.93-R.Wilson pass incomplete short right to 81-G.Tate (24-J.Joseph).'>71.53</number><number>0.81</number>
+<number shadow='shadow1' tooltip='3:23 4-1-HST 27SEA 20 HST 20 LI: 3.54-S.Hauschka 45 yard field goal is GOOD Center-49-C.Gresham Holder-9-J.Ryan.'>71.62</number><number>1</number>
+<number>71.62</number><number>1</number>
+</row> </chart_data>
+       <draw>
+
+
+
+      <image x='45' y='298'  url='nfllogos/42x50png/SEA.gif'  layer='foreground' glow = 'glow1'/>
+      <image x='45' y='350'  url='nfllogos/42x50png/HST.gif'     layer='foreground' glow = 'glow1'/>
+
+
+      <rect x='130' y='300' width='250' height='40' fill_color='283e67' bevel='bevel1' />
+      <text x='135' y='300' width='250' height='40' h_align='left' v_align='middle' color='ffffff' shadow='shadow2' glow='winnerglow'>Seattle Seahawks</text>
+
+      <rect x='130' y='350' width='250' height='40' fill_color='002c44' bevel='bevel1'  />
+      <text x='135' y='350' width='250' height='40' h_align='left' v_align='middle' color='ffffff' shadow='shadow2' glow=''>Houston Texans</text>
+
+      <rect x='420' y='300' width='60' height='40' fill_color='283e67' bevel='bevel1'  />
+      <text x='420' y='300' width='60' height='40' h_align='center' v_align='middle' color='ffffff' shadow='shadow2' transition='none' glow='winnerglow'>23</text>
+
+      <rect x='420' y='350' width='60' height='40' fill_color='002c44' bevel='bevel1' />
+      <text x='420' y='350' width='60' height='40' h_align='center' v_align='middle' color='ffffff' shadow='shadow2' transition='none' glow=''>20</text>
+
+      <text x='-3' y='12'  width='60' height='40' h_align='center' v_align='middle' size='13' shadow='shadow2'>SEAWin </text>
+      <text x='-3' y='218' width='60' height='40' h_align='center' v_align='middle' size='13' shadow='shadow2'>HSTWin </text>
+
+     
+              <rect x='540' y='300' width='100' height='35' fill_color='000000' fill_alpha='50'/>
+              <text x='540' y='300' width='100' height='35' h_align='center' v_align='middle' color='ffffff' size='15' shadow='shadow2' >Final</text>
+
+              <text x='540' y='340' width='40' h_align='center' color='000000' size='12' shadow='shadow2'>CBF</text>
+              <text x='600' y='340' width='40' h_align='center' color='000000' size='12' shadow='shadow2'>EI</text>
+
+              <rect x='540' y='360' width='40' height='30' fill_color='000000' fill_alpha='50' />
+              <text x='540' y='360' width='40' height='30' size='12' h_align='center' v_align='middle' color='FFFFFF' shadow='shadow2'>50</text>
+
+              <rect x='600' y='360' width='40' height='30' fill_color='000000' fill_alpha='50' />
+              <text x='600' y='360' width='40' height='30' size='12' h_align='center' v_align='middle' color='FFFFFF' shadow='shadow2'>5.8</text>
+
+              <text x='20' y='420' width='70' height='25' size='12' h_align='left' v_align='middle' color='000000' >9/29/2013</text>
+              <text x='100' y='420' width='200' height='25' size='12' h_align='left' v_align='middle' color='000000' >Reliant Stadium</text>
+
+   </draw></chart>

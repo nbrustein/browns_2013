@@ -1,0 +1,343 @@
+
+<chart>
+   <license>ETAS9P33ESHO.945CWK-2XOI1X0-7L</license>
+   <chart_type>scatter</chart_type>
+   <chart_pref trend_thickness='0' line_thickness='3' point_size='0'/>
+
+   <series_color>
+      <color>ffff00</color>
+   </series_color>
+
+   <chart_rect x='45' y='20' width='630' height='230' positive_color='cacaca'  />
+
+  <chart_border top_thickness='0'
+                 bottom_thickness='0'
+                 left_thickness='0'
+                 right_thickness='0'
+                 color='000000'
+                 />
+
+   <tooltip font='Arial' bold='true' size='11' />
+
+   <chart_note type='flag'
+               color='000000'
+               alpha='90'
+               bold='FALSE'
+               size='10'
+               background_color='ffffe0'
+               background_alpha='50'
+               shadow='shadow2'
+               />
+
+   <chart_grid_h thickness='2' color='ffffff' type='dashed'  />
+   <chart_grid_v thickness='2' color='ffffff'   />
+		>
+
+   <legend layout='hide' />
+
+   <chart_guide horizontal='TRUE'
+             vertical='TRUE'
+             thickness='1'
+             color='006400'
+             alpha='100'
+             type='solid'
+             snap_h='TRUE'
+             snap_v='TRUE'
+             radius='3'
+             fill_color='006400'
+             fill_alpha='100'
+             line_color='006400'
+             line_alpha='80'
+             line_thickness='1'
+             text_h_alpha='50'
+             text_v_alpha='00'
+             suffix_h=' WP'
+             decimals='2'
+             bold='FALSE'
+             size='11'
+             text_color='FFFFFF'
+             background_color='006400'
+             />
+   <filter>
+      <shadow id='shadow1' distance='2' angle='60' blurX='5' blurY='5' alpha='50' />
+      <bevel id='bevel1' angle='45' blurX='5' blurY='5' distance='0' />
+      <glow id='glow1' color='ffffff' alpha='0' blurX='7' blurY='7' strength='6' quality='2' inner='FALSE' knockout='FALSE' />
+      <glow id='winnerglow' color='ffffff' alpha='0' blurX='7' blurY='7' strength='5' quality='2' inner='FALSE' knockout='FALSE' />
+   </filter>
+
+    <axis_value_label>
+         <string></string>
+          <string> </string>
+          <null/>
+          <string> </string>
+          <string></string>
+
+       </axis_value_label>
+		
+	   <axis_ticks category_ticks='false'/>
+
+       <axis_value min='0' max='1' steps='4'  decimals='2' show_min='true' size='13' shadow='shadow2' />     
+            <axis_category
+               min='0'
+               max='60'
+               steps='4'
+               mode='all'
+               decimals='0'
+               size='13'
+               shadow='shadow2'
+               />
+
+       <axis_category_label>
+          <string>Kickoff</string>
+          <string></string>
+          <string>Halftime</string>
+          <string></string>
+          <string>End</string>
+
+       </axis_category_label>
+
+
+        <chart_data>
+       <row>
+	      <null/><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number>
+              <number>x</number><number>y</number>
+              </row><row><string></string>
+
+                     <number shadow='shadow1'>0</number><number>.5</number><number shadow='shadow1' tooltip='15:00 BLT 0 DEN 0 LI: 5-M.Prater kicks 65 yards from DEN 35 to end zone Touchback.'>0.09</number><number>0.52</number>
+<number shadow='shadow1' tooltip='14:14 2-11-BLT 19BLT 0 DEN 0 LI: 1.327-R.Rice left tackle to BLT 22 for 3 yards(33-D.Ihenacho).'>0.77</number><number>0.48</number>
+<number shadow='shadow1' tooltip='13:38 3-8-BLT 22BLT 0 DEN 0 LI: 1.2(Shotgun) 5-J.Flacco pass short left to 80-B.Stokley to BLT 28 for 6 yards(25-C.Harris).'>1.37</number><number>0.46</number>
+<number shadow='shadow1' tooltip='13:18 4-2-BLT 28BLT 0 DEN 0 LI: 0.84-S.Koch punts 49 yards to DEN 23 Center-46-M.Cox out of bounds.'>1.7</number><number>0.48</number>
+<number shadow='shadow1' tooltip='13:10 1-10-DEN 23BLT 0 DEN 0 LI: 1.5(Shotgun) 18-P.Manning pass incomplete short right to 80-J.Thomas (32-J.Ihedigbo).'>1.83</number><number>0.5</number>
+<number shadow='shadow1' tooltip='13:05 2-10-DEN 23BLT 0 DEN 0 LI: 1.3(No Huddle Shotgun) 27-K.Moreno right guard to DEN 24 for 1 yard(55-T.Suggs; 56-J.Bynes).'>1.92</number><number>0.51</number>
+<number shadow='shadow1' tooltip='12:25 3-9-DEN 24BLT 0 DEN 0 LI: 1.2(No Huddle Shotgun) 18-P.Manning pass short left to 83-W.Welker pushed ob at DEN 34 for 10 yards(24-C.Graham).'>2.58</number><number>0.46</number>
+<number shadow='shadow1' tooltip='12:04 1-10-DEN 34BLT 0 DEN 0 LI: 1.5(No Huddle Shotgun) 18-P.Manning pass incomplete deep right to 87-E.Decker (21-L.Webb).'>2.93</number><number>0.48</number>
+<number shadow='shadow1' tooltip='11:58 2-10-DEN 34BLT 0 DEN 0 LI: 1.3(No Huddle Shotgun) 27-K.Moreno up the middle to DEN 41 for 7 yards(24-C.Graham).'>3.03</number><number>0.48</number>
+<number shadow='shadow1' tooltip='11:24 3-3-DEN 41BLT 0 DEN 0 LI: 1.1(No Huddle Shotgun) 18-P.Manning pass incomplete short left to 88-D.Thomas (22-J.Smith).'>3.6</number><number>0.52</number>
+<number shadow='shadow1' tooltip='11:19 4-3-DEN 41BLT 0 DEN 0 LI: 0.74-B.Colquitt punts 59 yards to end zone Center-46-A.Brewer Touchback.'>3.68</number><number>0.52</number>
+<number shadow='shadow1' tooltip='11:09 1-10-BLT 20BLT 0 DEN 0 LI: 1.630-B.Pierce left guard to BLT 34 for 14 yards(33-D.Ihenacho).'>3.85</number><number>0.54</number>
+<number shadow='shadow1' tooltip='10:35 1-10-BLT 34BLT 0 DEN 0 LI: 1.5(Shotgun) 5-J.Flacco pass incomplete short left to 82-T.Smith (32-T.Carter).'>4.42</number><number>0.52</number>
+<number shadow='shadow1' tooltip='10:31 2-10-BLT 34BLT 0 DEN 0 LI: 1.35-J.Flacco pass short left to 44-V.Leach pushed ob at BLT 38 for 4 yards(59-D.Trevathan).'>4.48</number><number>0.51</number>
+<number shadow='shadow1' tooltip='10:03 3-6-BLT 38BLT 0 DEN 0 LI: 1.1(Shotgun) 5-J.Flacco pass deep right to 82-T.Smith to DEN 33 for 29 yards(25-C.Harris).'>4.95</number><number>0.61</number>
+<number shadow='shadow1' tooltip='9:26 1-10-DEN 33BLT 0 DEN 0 LI: 1.527-R.Rice left guard to DEN 26 for 7 yards(33-D.Ihenacho; 52-W.Woodyard).'>5.57</number><number>0.62</number>
+<number shadow='shadow1' tooltip='8:42 2-3-DEN 26BLT 0 DEN 0 LI: 1.5(Shotgun) 5-J.Flacco pass short right to 12-J.Jones to DEN 13 for 13 yards(33-D.Ihenacho).'>6.3</number><number>0.67</number>
+<number shadow='shadow1' tooltip='8:04 1-10-DEN 13BLT 0 DEN 0 LI: 1.730-B.Pierce right tackle to DEN 13 for no gain (33-D.Ihenacho).'>6.93</number><number>0.65</number>
+<number shadow='shadow1' tooltip='7:30 2-10-DEN 13BLT 0 DEN 0 LI: 1.5(No Huddle Shotgun) 5-J.Flacco pass incomplete short left to 87-D.Clark (33-D.Ihenacho).'>7.5</number><number>0.63</number>
+<number shadow='shadow1' tooltip='7:24 3-10-DEN 13BLT 0 DEN 0 LI: 1.3(Shotgun) 5-J.Flacco pass short left to 82-T.Smith pushed ob at DEN 2 for 11 yards(32-T.Carter).'>7.6</number><number>0.69</number>
+<number shadow='shadow1' tooltip='7:17 1-2-DEN 2BLT 0 DEN 0 LI: 1.95-J.Flacco pass short right to 44-V.Leach for 2 yards TOUCHDOWN.'>7.72</number><number>0.71</number>
+<number shadow='shadow1' tooltip='7:17 BLT 0 DEN 0 LI: 9-J.Tucker extra point is GOOD Center-46-M.Cox Holder-4-S.Koch.'>7.76</number><number>0.71</number>
+<number shadow='shadow1' tooltip='7:17 BLT 7 DEN 0 LI: 9-J.Tucker kicks 65 yards from BLT 35 to end zone Touchback.'>7.81</number><number>0.72</number>
+<number shadow='shadow1' tooltip='7:11 1-10-DEN 20BLT 7 DEN 0 LI: 1.5(Shotgun) 18-P.Manning pass short left to 83-W.Welker to DEN 22 for 2 yards(22-J.Smith).'>7.82</number><number>0.72</number>
+<number shadow='shadow1' tooltip='6:46 2-8-DEN 22BLT 7 DEN 0 LI: 1.5(No Huddle Shotgun) 27-K.Moreno left tackle to DEN 28 for 6 yards(56-J.Bynes).'>8.23</number><number>0.72</number>
+<number shadow='shadow1' tooltip='6:14 3-2-DEN 28BLT 7 DEN 0 LI: 1.3(No Huddle Shotgun) 18-P.Manning pass short middle to 83-W.Welker to DEN 40 for 12 yards(29-M.Huff).'>8.77</number><number>0.69</number>
+<number shadow='shadow1' tooltip='5:42 1-10-DEN 40BLT 7 DEN 0 LI: 1.3(No Huddle Shotgun) 18-P.Manning pass short left to 83-W.Welker to BLT 45 for 15 yards(24-C.Graham) [55-T.Suggs].'>9.3</number><number>0.67</number>
+<number shadow='shadow1' tooltip='5:05 1-10-BLT 45BLT 7 DEN 0 LI: 1.1(No Huddle Shotgun) 21-R.Hillman left tackle to BLT 44 for 1 yard(92-H.Ngata; 58-E.Dumervil).'>9.92</number><number>0.67</number>
+<number shadow='shadow1' tooltip='4:33 2-9-BLT 44BLT 7 DEN 0 LI: 1.1(No Huddle Shotgun) 18-P.Manning pass short right to 87-E.Decker to BLT 39 for 5 yards(56-J.Bynes).'>10.45</number><number>0.66</number>
+<number shadow='shadow1' tooltip='3:51 3-4-BLT 39BLT 7 DEN 0 LI: 1(No Huddle Shotgun) 18-P.Manning pass incomplete short middle to 88-D.Thomas.'>11.15</number><number>0.69</number>
+<number shadow='shadow1' tooltip='3:46 4-4-BLT 39BLT 7 DEN 0 LI: 0.74-B.Colquitt punts 29 yards to BLT 10 Center-46-A.Brewer fair catch by 21-L.Webb.'>11.23</number><number>0.69</number>
+<number shadow='shadow1' tooltip='3:39 1-10-BLT 10BLT 7 DEN 0 LI: 1.35-J.Flacco pass incomplete short left to 12-J.Jones.'>11.35</number><number>0.7</number>
+<number shadow='shadow1' tooltip='3:32 2-10-BLT 10BLT 7 DEN 0 LI: 1.427-R.Rice up the middle to BLT 19 for 9 yards(26-R.Moore).'>11.47</number><number>0.71</number>
+<number shadow='shadow1' tooltip='2:51 3-1-BLT 19BLT 7 DEN 0 LI: 0.8(Shotgun) 5-J.Flacco pass short right to 27-R.Rice to BLT 26 for 7 yards(59-D.Trevathan).'>12.15</number><number>0.73</number>
+<number shadow='shadow1' tooltip='2:14 1-10-BLT 26BLT 7 DEN 0 LI: 0.9(No Huddle) 30-B.Pierce left guard to BLT 25 for -1 yards(99-K.Vickerson).'>12.77</number><number>0.73</number>
+<number shadow='shadow1' tooltip='1:35 2-11-BLT 25BLT 7 DEN 0 LI: 0.95-J.Flacco pass short right to 12-J.Jones to BLT 38 for 13 yards(25-C.Harris).'>13.42</number><number>0.77</number>
+<number shadow='shadow1' tooltip='0:57 1-10-BLT 38BLT 7 DEN 0 LI: 1.1(No Huddle Shotgun) 5-J.Flacco pass short left to 27-R.Rice to BLT 38 for no gain (52-W.Woodyard; 56-N.Irving).'>14.05</number><number>0.76</number>
+<number shadow='shadow1' tooltip='0:21 2-10-BLT 38BLT 7 DEN 0 LI: 1(No Huddle) 5-J.Flacco pass short left to 12-J.Jones to BLT 36 for -2 yards(33-D.Ihenacho).'>14.65</number><number>0.73</number>
+<number shadow='shadow1' tooltip='15:00 3-12-BLT 36BLT 7 DEN 0 LI: 0.8(Shotgun) PENALTY on BLT-82-T.Smith False Start 5 yards enforced at BLT 36 - No Play.'>15</number><number>0.72</number>
+<number shadow='shadow1' tooltip='14:55 4-17-BLT 31BLT 7 DEN 0 LI: 0.54-S.Koch punts 45 yards to DEN 24 Center-46-M.Cox11-T.Holliday pushed ob at DEN 29 for 5 yards(50-A.McClellan).'>15.08</number><number>0.71</number>
+<number shadow='shadow1' tooltip='14:45 1-10-DEN 29BLT 7 DEN 0 LI: 1.327-K.Moreno up the middle to DEN 32 for 3 yards(55-T.Suggs).'>15.25</number><number>0.7</number>
+<number shadow='shadow1' tooltip='14:16 2-7-DEN 32BLT 7 DEN 0 LI: 1.3(No Huddle Shotgun) 27-K.Moreno up the middle to DEN 31 for -1 yards(92-H.Ngata).'>15.73</number><number>0.72</number>
+<number shadow='shadow1' tooltip='13:35 3-8-DEN 31BLT 7 DEN 0 LI: 1.1(Shotgun) 18-P.Manning pass incomplete short left to 83-W.Welker (24-C.Graham)PENALTY on BLT-24-C.Graham Illegal Contact 5 yards enforced at DEN 31 - No Play.'>16.42</number><number>0.7</number>
+<number shadow='shadow1' tooltip='13:30 1-10-DEN 36BLT 7 DEN 0 LI: 1.2(No Huddle Shotgun) 18-P.Manning pass incomplete short left to 87-E.Decker (51-D.Smith).'>16.5</number><number>0.7</number>
+<number shadow='shadow1' tooltip='13:25 2-10-DEN 36BLT 7 DEN 0 LI: 1.2(No Huddle Shotgun) 18-P.Manning pass short left to 80-J.Thomas pushed ob at DEN 42 for 6 yards(32-J.Ihedigbo).'>16.58</number><number>0.7</number>
+<number shadow='shadow1' tooltip='13:13 3-4-DEN 42BLT 7 DEN 0 LI: 1.1(No Huddle Shotgun) 18-P.Manning pass incomplete short middle to 80-J.Thomas (51-D.Smith).'>16.78</number><number>0.73</number>
+<number shadow='shadow1' tooltip='13:08 4-4-DEN 42BLT 7 DEN 0 LI: 0.84-B.Colquitt punts 43 yards to BLT 15 Center-46-A.Brewer downed by DEN-30-D.BrutonBLT-12-J.Jones was injured during the playBLT-28-B.Trawick was injured during the play.'>16.87</number><number>0.71</number>
+<number shadow='shadow1' tooltip='12:57 1-10-BLT 15BLT 7 DEN 0 LI: 0.827-R.Rice up the middle to BLT 16 for 1 yard(95-D.Wolfe).'>17.05</number><number>0.72</number>
+<number shadow='shadow1' tooltip='12:23 2-9-BLT 16BLT 7 DEN 0 LI: 0.927-R.Rice right tackle to BLT 16 for no gain (99-K.Vickerson).'>17.62</number><number>0.71</number>
+<number shadow='shadow1' tooltip='11:47 3-9-BLT 16BLT 7 DEN 0 LI: 0.8(Shotgun) 5-J.Flacco pass short right intended for 80-B.Stokley INTERCEPTED by 25-C.Harris [90-S.Phillips] at BLT 2425-C.Harris to BLT 24 for no gain (80-B.Stokley).'>18.22</number><number>0.65</number>
+<number shadow='shadow1' tooltip='11:40 1-10-BLT 24BLT 7 DEN 0 LI: 0.8(Shotgun) 18-P.Manning pass deep middle to 80-J.Thomas for 24 yards TOUCHDOWN [99-C.Canty].'>18.33</number><number>0.53</number>
+<number shadow='shadow1' tooltip='11:40 BLT 7 DEN 0 LI: 5-M.Prater extra point is GOOD Center-46-A.Brewer Holder-4-B.Colquitt.'>18.37</number><number>0.53</number>
+<number shadow='shadow1' tooltip='11:40 BLT 7 DEN 7 LI: 5-M.Prater kicks 65 yards from DEN 35 to end zone Touchback.'>18.42</number><number>0.52</number>
+<number shadow='shadow1' tooltip='11:01 2-12-BLT 18BLT 7 DEN 7 LI: 1.35-J.Flacco pass incomplete deep left to 84-E.Dickson.'>18.98</number><number>0.47</number>
+<number shadow='shadow1' tooltip='10:56 3-12-BLT 18BLT 7 DEN 7 LI: 1.1(Shotgun) 5-J.Flacco pass short left to 87-D.Clark to BLT 49 for 31 yards(26-R.Moore).'>19.07</number><number>0.56</number>
+<number shadow='shadow1' tooltip='10:16 1-10-BLT 49BLT 7 DEN 7 LI: 1.330-B.Pierce right tackle to 50 for 1 yard(56-N.Irving).'>19.73</number><number>0.55</number>
+<number shadow='shadow1' tooltip='9:42 2-9-50BLT 7 DEN 7 LI: 1.25-J.Flacco pass incomplete deep middle to 14-M.BrownPENALTY on DEN-33-D.Ihenacho Defensive Holding 5 yards enforced at 50 - No Play.'>20.3</number><number>0.58</number>
+<number shadow='shadow1' tooltip='9:35 1-10-DEN 45BLT 7 DEN 7 LI: 1.4PENALTY on BLT-72-K.Osemele False Start 5 yards enforced at DEN 45 - No Play.'>20.42</number><number>0.57</number>
+<number shadow='shadow1' tooltip='8:58 2-5-DEN 40BLT 7 DEN 7 LI: 1.227-R.Rice up the middle to DEN 40 for no gain (52-W.Woodyard).'>21.03</number><number>0.55</number>
+<number shadow='shadow1' tooltip='8:24 3-5-DEN 40BLT 7 DEN 7 LI: 1(Shotgun) 5-J.Flacco pass incomplete deep right to 14-M.Brown.'>21.6</number><number>0.5</number>
+<number shadow='shadow1' tooltip='8:18 4-5-DEN 40BLT 7 DEN 7 LI: 0.54-S.Koch punts 38 yards to DEN 2 Center-46-M.Cox83-W.Welker MUFFS catch touched at DEN 2 RECOVERED by BLT-46-M.Cox at DEN 246-M.Cox to DEN 2 for no gain (83-W.Welker).'>21.7</number><number>0.71</number>
+<number shadow='shadow1' tooltip='8:08 1-1-DEN 1BLT 7 DEN 7 LI: 2.1Direction Change27-R.Rice right end for 1 yard TOUCHDOWN.'>21.87</number><number>0.72</number>
+<number shadow='shadow1' tooltip='8:08 BLT 7 DEN 7 LI: 9-J.Tucker extra point is GOOD Center-46-M.Cox Holder-4-S.Koch.'>21.91</number><number>0.72</number>
+<number shadow='shadow1' tooltip='8:08 BLT 14 DEN 7 LI: 9-J.Tucker kicks 65 yards from BLT 35 to end zone Touchback.'>21.96</number><number>0.72</number>
+<number shadow='shadow1' tooltip='7:46 1-10-DEN 33BLT 14 DEN 7 LI: 1.127-K.Moreno left guard to DEN 35 for 2 yards(92-H.Ngata).'>22.23</number><number>0.71</number>
+<number shadow='shadow1' tooltip='7:12 2-8-DEN 35BLT 14 DEN 7 LI: 1.1(Shotgun) 18-P.Manning pass short middle to 27-K.Moreno to DEN 41 for 6 yards(51-D.Smith).'>22.8</number><number>0.72</number>
+<number shadow='shadow1' tooltip='6:32 3-2-DEN 41BLT 14 DEN 7 LI: 0.927-K.Moreno left tackle to DEN 43 for 2 yards(55-T.Suggs).'>23.47</number><number>0.7</number>
+<number shadow='shadow1' tooltip='6:03 1-10-DEN 43BLT 14 DEN 7 LI: 1.118-P.Manning pass incomplete deep right to 87-E.DeckerPENALTY on DEN-87-E.Decker Offensive Pass Interference 10 yards enforced at DEN 43 - No Play.'>23.95</number><number>0.71</number>
+<number shadow='shadow1' tooltip='5:57 1-20-DEN 33BLT 14 DEN 7 LI: 1.1(Shotgun) 18-P.Manning pass short left to 80-J.Thomas to BLT 23 for 44 yards(32-J.Ihedigbo).'>24.05</number><number>0.64</number>
+<number shadow='shadow1' tooltip='5:41 1-10-BLT 23BLT 14 DEN 7 LI: 1.1(No Huddle Shotgun) 18-P.Manning pass deep left to 80-J.Thomas for 23 yards TOUCHDOWN.'>24.32</number><number>0.53</number>
+<number shadow='shadow1' tooltip='5:41 BLT 14 DEN 7 LI: 5-M.Prater extra point is GOOD Center-46-A.Brewer Holder-4-B.Colquitt.'>24.36</number><number>0.53</number>
+<number shadow='shadow1' tooltip='5:41 BLT 14 DEN 14 LI: 5-M.Prater kicks 65 yards from DEN 35 to end zone Touchback.'>24.41</number><number>0.52</number>
+<number shadow='shadow1' tooltip='5:34 1-10-BLT 20BLT 14 DEN 14 LI: 1.5(Shotgun) 5-J.Flacco sacked at BLT 11 for -9 yards(91-R.Ayers).'>24.43</number><number>0.47</number>
+<number shadow='shadow1' tooltip='5:01 2-19-BLT 11BLT 14 DEN 14 LI: 1.6(Shotgun) 30-B.Pierce up the middle to BLT 16 for 5 yards(96-M.Unrein; 52-W.Woodyard).'>24.98</number><number>0.46</number>
+<number shadow='shadow1' tooltip='4:24 3-14-BLT 16BLT 14 DEN 14 LI: 1(Shotgun) 5-J.Flacco pass incomplete short left to 80-B.Stokley.'>25.6</number><number>0.44</number>
+<number shadow='shadow1' tooltip='4:18 4-14-BLT 16BLT 14 DEN 14 LI: 0.84-S.Koch punts 51 yards to DEN 33 Center-46-M.Cox11-T.Holliday to DEN 36 for 3 yards(50-A.McClellan)Penalty on BLT-32-J.Ihedigbo Offensive Holding declinedPENALTY on BLT-50-A.McClellan Unnecessary Roughness 15 yards enforced at DEN 36.'>25.7</number><number>0.43</number>
+<number shadow='shadow1' tooltip='4:07 1-10-BLT 49BLT 14 DEN 14 LI: 1.3(No Huddle Shotgun) 18-P.Manning pass short left to 88-D.Thomas to BLT 44 for 5 yards(24-C.Graham)Baltimore challenged the pass completion ruling and the play was REVERSED(No Huddle Shotgun) 18-P.Manning pass incomplete short left to 88-D.Thomas.'>25.88</number><number>0.45</number>
+<number shadow='shadow1' tooltip='4:05 2-10-BLT 49BLT 14 DEN 14 LI: 1.1(Shotgun) PENALTY on DEN-78-R.Clady False Start 5 yards enforced at BLT 49 - No Play.'>25.92</number><number>0.47</number>
+<number shadow='shadow1' tooltip='4:00 3-15-DEN 46BLT 14 DEN 14 LI: 0.9(No Huddle Shotgun) 18-P.Manning sacked at DEN 40 for -6 yards(55-T.Suggs).'>26</number><number>0.52</number>
+<number shadow='shadow1' tooltip='3:27 4-21-DEN 40BLT 14 DEN 14 LI: 0.74-B.Colquitt punts 44 yards to BLT 16 Center-46-A.Brewer fair catch by 21-L.Webb.'>26.55</number><number>0.51</number>
+<number shadow='shadow1' tooltip='3:19 1-10-BLT 16BLT 14 DEN 14 LI: 1.55-J.Flacco pass incomplete short left to 82-T.Smith [94-T.Knighton].'>26.68</number><number>0.49</number>
+<number shadow='shadow1' tooltip='3:14 2-10-BLT 16BLT 14 DEN 14 LI: 1.3(Shotgun) 27-R.Rice left guard to BLT 22 for 6 yards(33-D.Ihenacho).'>26.77</number><number>0.5</number>
+<number shadow='shadow1' tooltip='2:36 3-4-BLT 22BLT 14 DEN 14 LI: 1.3(Shotgun) 5-J.Flacco pass short right to 14-M.Brown to BLT 29 for 7 yards(36-K.Webster).'>27.4</number><number>0.53</number>
+<number shadow='shadow1' tooltip='2:00 1-10-BLT 29BLT 14 DEN 14 LI: 1.5(Shotgun) 5-J.Flacco pass short right to 14-M.Brown to DEN 48 for 23 yards(33-D.Ihenacho).'>28</number><number>0.57</number>
+<number shadow='shadow1' tooltip='1:33 1-10-DEN 48BLT 14 DEN 14 LI: 1.3(No Huddle Shotgun) 5-J.Flacco pass short left to 87-D.Clark to DEN 43 for 5 yards(26-R.Moore)DEN-25-C.Harris was injured during the play.'>28.45</number><number>0.57</number>
+<number shadow='shadow1' tooltip='1:18 2-5-DEN 43BLT 14 DEN 14 LI: 1.2(Shotgun) 5-J.Flacco pass incomplete short left to 87-D.Clark (59-D.Trevathan).'>28.7</number><number>0.55</number>
+<number shadow='shadow1' tooltip='1:14 3-5-DEN 43BLT 14 DEN 14 LI: 1(Shotgun) 5-J.Flacco pass short left to 87-D.Clark to DEN 36 for 7 yards(20-M.Adams 32-T.Carter).'>28.77</number><number>0.6</number>
+<number shadow='shadow1' tooltip='0:44 1-10-DEN 36BLT 14 DEN 14 LI: 1.4(Shotgun) 5-J.Flacco pass deep left to 82-T.Smith pushed ob at DEN 18 for 18 yards(20-M.Adams).'>29.27</number><number>0.64</number>
+<number shadow='shadow1' tooltip='0:39 1-10-DEN 18BLT 14 DEN 14 LI: 1.5(Shotgun) 27-R.Rice up the middle to DEN 6 for 12 yards(33-D.Ihenacho).'>29.35</number><number>0.7</number>
+<number shadow='shadow1' tooltip='0:33 1-6-DEN 6BLT 14 DEN 14 LI: 2(Shotgun) 5-J.Flacco pass incomplete short right to 80-B.Stokley (36-K.Webster).'>29.45</number><number>0.7</number>
+<number shadow='shadow1' tooltip='0:28 2-6-DEN 6BLT 14 DEN 14 LI: 2(Shotgun) 27-R.Rice up the middle to DEN 7 for -1 yards(95-D.Wolfe).'>29.53</number><number>0.67</number>
+<number shadow='shadow1' tooltip='0:15 3-7-DEN 7BLT 14 DEN 14 LI: 1.7(Shotgun) 5-J.Flacco pass incomplete short left to 87-D.Clark.'>29.75</number><number>0.62</number>
+<number shadow='shadow1' tooltip='0:10 4-7-DEN 7BLT 14 DEN 14 LI: 1.29-J.Tucker 25 yard field goal is GOOD Center-46-M.Cox Holder-4-S.Koch.'>29.83</number><number>0.61</number>
+<number shadow='shadow1' tooltip='0:10 BLT 17 DEN 14 LI: 9-J.Tucker kicks 65 yards from BLT 35 to end zone Touchback.'>29.92</number><number>0.63</number>
+<number shadow='shadow1' tooltip='0:07 BLT 17 DEN 14 LI: 9-J.Tucker kicks 65 yards from BLT 35 to end zone Touchback.'>29.97</number><number>0.63</number>
+<number shadow='shadow1' tooltip='15:00 1-10-DEN 20BLT 17 DEN 14 LI: 1(Shotgun) 18-P.Manning sacked at DEN 13 for -7 yards(58-E.Dumervil).'>30</number><number>0.65</number>
+<number shadow='shadow1' tooltip='14:42 2-17-DEN 13BLT 17 DEN 14 LI: 1.2(No Huddle Shotgun) 18-P.Manning pass short right to 27-K.Moreno to DEN 21 for 8 yards(21-L.Webb).'>30.3</number><number>0.64</number>
+<number shadow='shadow1' tooltip='14:13 3-9-DEN 21BLT 17 DEN 14 LI: 0.9(No Huddle Shotgun) 18-P.Manning pass short left to 83-W.Welker to DEN 31 for 10 yards(22-J.Smith).'>30.78</number><number>0.61</number>
+<number shadow='shadow1' tooltip='13:45 1-10-DEN 31BLT 17 DEN 14 LI: 1.1(No Huddle Shotgun) 18-P.Manning pass short left to 88-D.Thomas pushed ob at BLT 35 for 34 yards(51-D.Smith).'>31.25</number><number>0.51</number>
+<number shadow='shadow1' tooltip='13:09 1-10-BLT 35BLT 17 DEN 14 LI: 1.5(No Huddle) 21-R.Hillman right guard to BLT 28 for 7 yards(56-J.Bynes).'>31.85</number><number>0.49</number>
+<number shadow='shadow1' tooltip='12:37 2-3-BLT 28BLT 17 DEN 14 LI: 1.6(No Huddle Shotgun) 18-P.Manning pass deep left to 12-A.Caldwell for 28 yards TOUCHDOWN.'>32.38</number><number>0.35</number>
+<number shadow='shadow1' tooltip='12:37 BLT 17 DEN 14 LI: 5-M.Prater extra point is GOOD Center-46-A.Brewer Holder-4-B.Colquitt.'>32.42</number><number>0.35</number>
+<number shadow='shadow1' tooltip='12:37 BLT 17 DEN 21 LI: 5-M.Prater kicks 65 yards from DEN 35 to end zone Touchback.'>32.47</number><number>0.33</number>
+<number shadow='shadow1' tooltip='12:30 1-10-BLT 20BLT 17 DEN 21 LI: 1.127-R.Rice left guard to BLT 18 for -2 yards(56-N.Irving).'>32.5</number><number>0.32</number>
+<number shadow='shadow1' tooltip='11:55 2-12-BLT 18BLT 17 DEN 21 LI: 1(Shotgun) 5-J.Flacco pass incomplete short middle to 84-E.Dickson.'>33.08</number><number>0.3</number>
+<number shadow='shadow1' tooltip='11:50 3-12-BLT 18BLT 17 DEN 21 LI: 0.8(Shotgun) 5-J.Flacco sacked at BLT 14 for -4 yards(90-S.Phillips).'>33.17</number><number>0.27</number>
+<number shadow='shadow1' tooltip='11:17 4-16-BLT 14BLT 17 DEN 21 LI: 0.84-S.Koch punt is BLOCKED by 30-D.Bruton Center-46-M.Cox recovered by BLT-4-S.Koch at BLT 104-S.Koch to BLT 10 for no gain (51-P.Lenon).'>33.72</number><number>0.19</number>
+<number shadow='shadow1' tooltip='11:08 1-10-BLT 10BLT 17 DEN 21 LI: 1.1(Shotgun) 18-P.Manning pass short right to 83-W.Welker to BLT 5 for 5 yards(24-C.Graham).'>33.87</number><number>0.19</number>
+<number shadow='shadow1' tooltip='10:34 2-5-BLT 5BLT 17 DEN 21 LI: 1.1(Shotgun) 18-P.Manning pass short left to 83-W.Welker for 5 yards TOUCHDOWN.'>34.43</number><number>0.17</number>
+<number shadow='shadow1' tooltip='10:34 BLT 17 DEN 21 LI: 5-M.Prater extra point is GOOD Center-46-A.Brewer Holder-4-B.Colquitt.'>34.47</number><number>0.17</number>
+<number shadow='shadow1' tooltip='10:34 BLT 17 DEN 28 LI: 5-M.Prater kicks 65 yards from DEN 35 to end zone Touchback.'>34.52</number><number>0.16</number>
+<number shadow='shadow1' tooltip='10:28 1-10-BLT 20BLT 17 DEN 28 LI: 1.130-B.Pierce up the middle to BLT 20 for no gain (94-T.Knighton).'>34.53</number><number>0.15</number>
+<number shadow='shadow1' tooltip='10:00 2-10-BLT 20BLT 17 DEN 28 LI: 130-B.Pierce left end to BLT 23 for 3 yards(52-W.Woodyard).'>35</number><number>0.14</number>
+<number shadow='shadow1' tooltip='9:20 3-7-BLT 23BLT 17 DEN 28 LI: 0.9(Shotgun) 5-J.Flacco pass incomplete short middle to 87-D.Clark (26-R.Moore).'>35.67</number><number>0.11</number>
+<number shadow='shadow1' tooltip='9:14 4-7-BLT 23BLT 17 DEN 28 LI: 0.64-S.Koch punts 40 yards to DEN 37 Center-46-M.Cox out of bounds.'>35.77</number><number>0.11</number>
+<number shadow='shadow1' tooltip='9:06 1-10-DEN 37BLT 17 DEN 28 LI: 1.1(Shotgun) 21-R.Hillman up the middle to DEN 40 for 3 yards(56-J.Bynes)PENALTY on BLT-55-T.Suggs Illegal Use of Hands 5 yards enforced at DEN 40.'>35.9</number><number>0.1</number>
+<number shadow='shadow1' tooltip='8:58 1-10-DEN 45BLT 17 DEN 28 LI: 1.1(Shotgun) 18-P.Manning pass short right to 21-R.Hillman to BLT 38 for 17 yards(24-C.Graham; 56-J.Bynes).'>36.03</number><number>0.08</number>
+<number shadow='shadow1' tooltip='8:30 1-10-BLT 38BLT 17 DEN 28 LI: 1(No Huddle) 18-P.Manning pass short right to 21-R.Hillman pushed ob at BLT 28 for 10 yards(56-J.Bynes).'>36.5</number><number>0.06</number>
+<number shadow='shadow1' tooltip='8:15 1-10-BLT 28BLT 17 DEN 28 LI: 1.1(No Huddle Shotgun) 18-P.Manning pass short right to 80-J.Thomas to BLT 15 for 13 yards(24-C.Graham).'>36.75</number><number>0.04</number>
+<number shadow='shadow1' tooltip='7:51 1-10-BLT 15BLT 17 DEN 28 LI: 1.1(No Huddle Shotgun) 18-P.Manning pass incomplete short right to 88-D.Thomas.'>37.15</number><number>0.06</number>
+<number shadow='shadow1' tooltip='7:45 2-10-BLT 15BLT 17 DEN 28 LI: 0.9(No Huddle Shotgun) 28-M.Ball up the middle to BLT 6 for 9 yards(91-C.Upshaw).'>37.25</number><number>0.05</number>
+<number shadow='shadow1' tooltip='7:13 3-1-BLT 6BLT 17 DEN 28 LI: 0.9(No Huddle Shotgun) 28-M.Ball left end pushed ob at BLT 2 for 4 yards(22-J.Smith).'>37.78</number><number>0.05</number>
+<number shadow='shadow1' tooltip='6:46 1-2-BLT 2BLT 17 DEN 28 LI: 0.918-P.Manning pass incomplete short left to 87-E.Decker.'>38.23</number><number>0.05</number>
+<number shadow='shadow1' tooltip='6:42 2-2-BLT 2BLT 17 DEN 28 LI: 0.9(No Huddle Shotgun) 18-P.Manning pass short right to 83-W.Welker for 2 yards TOUCHDOWN.'>38.3</number><number>0.05</number>
+<number shadow='shadow1' tooltip='6:42 BLT 17 DEN 28 LI: 5-M.Prater extra point is GOOD Center-46-A.Brewer Holder-4-B.Colquitt.'>38.34</number><number>0.05</number>
+<number shadow='shadow1' tooltip='6:42 BLT 17 DEN 35 LI: 5-M.Prater kicks 65 yards from DEN 35 to end zone Touchback.'>38.39</number><number>0.05</number>
+<number shadow='shadow1' tooltip='6:30 2-10-BLT 20BLT 17 DEN 35 LI: 0.2(Shotgun) 5-J.Flacco pass short right to 80-B.Stokley pushed ob at BLT 29 for 9 yards(33-D.Ihenacho).'>38.5</number><number>0.04</number>
+<number shadow='shadow1' tooltip='5:58 3-1-BLT 29BLT 17 DEN 35 LI: 0.127-R.Rice up the middle to BLT 29 for no gain (94-T.Knighton; 95-D.Wolfe).'>39.03</number><number>0.03</number>
+<number shadow='shadow1' tooltip='5:09 4-1-BLT 29BLT 17 DEN 35 LI: 0.14-S.Koch punts 59 yards to DEN 12 Center-46-M.Cox11-T.Holliday to DEN 26 for 14 yards(32-J.Ihedigbo).'>39.85</number><number>0.03</number>
+<number shadow='shadow1' tooltip='4:55 1-10-DEN 26BLT 17 DEN 35 LI: 0.318-P.Manning pass to 83-W.Welker to DEN 40 for 14 yards(21-L.Webb)PENALTY on DEN-27-K.Moreno Offensive Holding 10 yards enforced at DEN 26 - No Play.'>40.08</number><number>0.03</number>
+<number shadow='shadow1' tooltip='4:42 1-20-DEN 16BLT 17 DEN 35 LI: 0.418-P.Manning pass short left to 27-K.Moreno pushed ob at DEN 39 for 23 yards(22-J.Smith).'>40.3</number><number>0.03</number>
+<number shadow='shadow1' tooltip='4:27 1-10-DEN 39BLT 17 DEN 35 LI: 0.3(No Huddle) 27-K.Moreno left tackle to DEN 40 for 1 yard(90-P.McPhee).'>40.55</number><number>0.03</number>
+<number shadow='shadow1' tooltip='4:02 2-9-DEN 40BLT 17 DEN 35 LI: 0.2(No Huddle) 18-P.Manning sacked at DEN 36 for -4 yards(99-C.Canty).'>40.97</number><number>0.03</number>
+<number shadow='shadow1' tooltip='3:25 3-13-DEN 36BLT 17 DEN 35 LI: 0.2(Shotgun) 18-P.Manning pass incomplete short right to 83-W.Welker.'>41.58</number><number>0.04</number>
+<number shadow='shadow1' tooltip='3:18 4-13-DEN 36BLT 17 DEN 35 LI: 0.14-B.Colquitt punts 47 yards to BLT 17 Center-46-A.Brewer fair catch by 21-L.WebbPENALTY on BLT-22-J.Smith Unnecessary Roughness 8 yards enforced at BLT 17.'>41.7</number><number>0.03</number>
+<number shadow='shadow1' tooltip='3:09 1-10-BLT 9BLT 17 DEN 35 LI: 0.1(Shotgun) 5-J.Flacco pass incomplete deep left to 82-T.Smith.'>41.85</number><number>0.03</number>
+<number shadow='shadow1' tooltip='3:04 2-10-BLT 9BLT 17 DEN 35 LI: 0.1(Shotgun) 5-J.Flacco pass short left to 87-D.Clark to BLT 12 for 3 yards(59-D.Trevathan).'>41.93</number><number>0.03</number>
+<number shadow='shadow1' tooltip='2:45 3-7-BLT 12BLT 17 DEN 35 LI: 0.1(Shotgun) 5-J.Flacco pass short left to 87-D.Clark to BLT 21 for 9 yards(52-W.Woodyard).'>42.25</number><number>0.03</number>
+<number shadow='shadow1' tooltip='2:12 1-10-BLT 21BLT 17 DEN 35 LI: 0.1(No Huddle Shotgun) 5-J.Flacco pass incomplete short left to 87-D.Clark (33-D.Ihenacho).'>42.8</number><number>0.03</number>
+<number shadow='shadow1' tooltip='2:07 2-10-BLT 21BLT 17 DEN 35 LI: 0.1(No Huddle Shotgun) 5-J.Flacco pass incomplete deep right to 14-M.Brown (32-T.Carter).'>42.88</number><number>0.02</number>
+<number shadow='shadow1' tooltip='2:01 3-10-BLT 21BLT 17 DEN 35 LI: 0.1(No Huddle Shotgun) 5-J.Flacco pass incomplete short middle to 80-B.Stokley [30-D.Bruton]PENALTY on BLT-66-G.Gradkowski Unnecessary Roughness 10 yards enforced at BLT 21.'>42.98</number><number>0.02</number>
+<number shadow='shadow1' tooltip='1:53 4-20-BLT 11BLT 17 DEN 35 LI: 0.14-S.Koch punts 61 yards to DEN 28 Center-46-M.Cox11-T.Holliday to DEN 42 for 14 yards(40-K.Juszczyk; 32-J.Ihedigbo)DEN-30-D.Bruton was injured during the play.'>43.12</number><number>0.02</number>
+<number shadow='shadow1' tooltip='1:40 1-10-DEN 42BLT 17 DEN 35 LI: 0.221-R.Hillman up the middle to DEN 46 for 4 yards(51-D.Smith).'>43.33</number><number>0.02</number>
+<number shadow='shadow1' tooltip='1:16 2-6-DEN 46BLT 17 DEN 35 LI: 0.2(No Huddle Shotgun) 18-P.Manning pass incomplete short left to 87-E.Decker.'>43.73</number><number>0.03</number>
+<number shadow='shadow1' tooltip='1:11 3-6-DEN 46BLT 17 DEN 35 LI: 0.1(No Huddle Shotgun) 18-P.Manning pass incomplete short right to 88-D.Thomas [55-T.Suggs].'>43.82</number><number>0.03</number>
+<number shadow='shadow1' tooltip='1:04 4-6-DEN 46BLT 17 DEN 35 LI: 0.14-B.Colquitt punts 42 yards to BLT 12 Center-46-A.Brewer fair catch by 21-L.Webb.'>43.93</number><number>0.02</number>
+<number shadow='shadow1' tooltip='0:55 1-10-BLT 12BLT 17 DEN 35 LI: 0.1(Shotgun) 5-J.Flacco pass short middle to 14-M.Brown to BLT 34 for 22 yards(26-R.Moore).'>44.08</number><number>0.03</number>
+<number shadow='shadow1' tooltip='0:26 1-10-BLT 34BLT 17 DEN 35 LI: 0.1(No Huddle Shotgun) 5-J.Flacco pass incomplete deep left to 80-B.Stokley (32-T.Carter).'>44.57</number><number>0.03</number>
+<number shadow='shadow1' tooltip='0:20 2-10-BLT 34BLT 17 DEN 35 LI: 0.1(No Huddle Shotgun) 5-J.Flacco pass incomplete deep right to 80-B.Stokley.'>44.67</number><number>0.02</number>
+<number shadow='shadow1' tooltip='0:15 3-10-BLT 34BLT 17 DEN 35 LI: 0.1(No Huddle Shotgun) 5-J.Flacco sacked at BLT 26 for -8 yards(sack split by 90-S.Phillips and 52-W.Woodyard).'>44.75</number><number>0.02</number>
+<number shadow='shadow1' tooltip='15:00 4-18-BLT 26BLT 17 DEN 35 LI: 0.14-S.Koch punts 57 yards to DEN 17 Center-46-M.Cox83-W.Welker to DEN 44 for 27 yards(28-B.Trawick).'>45</number><number>0.02</number>
+<number shadow='shadow1' tooltip='14:46 1-10-DEN 44BLT 17 DEN 35 LI: 0.1PENALTY on DEN-83-W.Welker False Start 5 yards enforced at DEN 44 - No Play.'>45.23</number><number>0.02</number>
+<number shadow='shadow1' tooltip='14:27 2-9-DEN 45BLT 17 DEN 35 LI: 0.118-P.Manning pass short right to 87-E.Decker to BLT 28 for 27 yards(22-J.Smith)FUMBLES (22-J.Smith) ball out of bounds at BLT 28.'>45.55</number><number>0.02</number>
+<number shadow='shadow1' tooltip='14:05 1-10-BLT 28BLT 17 DEN 35 LI: 0.118-P.Manning pass incomplete deep left to 83-W.Welker.'>45.92</number><number>0.01</number>
+<number shadow='shadow1' tooltip='14:00 2-10-BLT 28BLT 17 DEN 35 LI: 0.1(No Huddle Shotgun) PENALTY on DEN-65-L.Vasquez False Start 5 yards enforced at BLT 28 - No Play.'>46</number><number>0.02</number>
+<number shadow='shadow1' tooltip='13:19 3-8-BLT 26BLT 17 DEN 35 LI: 0.1(No Huddle Shotgun) 18-P.Manning pass deep right to 88-D.Thomas for 26 yards TOUCHDOWN.'>46.68</number><number>0.01</number>
+<number shadow='shadow1' tooltip='13:19 BLT 17 DEN 35 LI: 5-M.Prater extra point is GOOD Center-46-A.Brewer Holder-4-B.Colquitt.'>46.72</number><number>0.01</number>
+<number shadow='shadow1' tooltip='13:19 BLT 17 DEN 42 LI: 5-M.Prater kicks 65 yards from DEN 35 to end zone Touchback.'>46.77</number><number>0.01</number>
+<number shadow='shadow1' tooltip='13:13 1-10-BLT 20BLT 17 DEN 42 LI: 0.1(Shotgun) 5-J.Flacco pass incomplete deep middle to 84-E.Dickson (33-D.Ihenacho).'>46.78</number><number>0.01</number>
+<number shadow='shadow1' tooltip='13:07 2-10-BLT 20BLT 17 DEN 42 LI: 0.1(No Huddle Shotgun) 30-B.Pierce right guard to BLT 22 for 2 yards(52-W.Woodyard; 97-M.Jackson).'>46.88</number><number>0.01</number>
+<number shadow='shadow1' tooltip='12:32 3-8-BLT 22BLT 17 DEN 42 LI: 0.1(Shotgun) 5-J.Flacco pass short right to 80-B.Stokley pushed ob at BLT 29 for 7 yards(33-D.Ihenacho).'>47.47</number><number>0.01</number>
+<number shadow='shadow1' tooltip='12:13 4-1-BLT 29BLT 17 DEN 42 LI: 0.1(Shotgun) 5-J.Flacco pass short right intended for 27-R.Rice INTERCEPTED by 59-D.Trevathan at BLT 3059-D.Trevathan to BLT 1 for 29 yardsFUMBLES ball out of bounds in End Zone Touchback.'>47.78</number><number>0.01</number>
+<number shadow='shadow1' tooltip='12:06 1-10-BLT 20BLT 17 DEN 42 LI: 0.1(Shotgun) 5-J.Flacco pass short right to 27-R.Rice to BLT 28 for 8 yards(51-P.Lenon).'>47.9</number><number>0.01</number>
+<number shadow='shadow1' tooltip='11:48 2-2-BLT 28BLT 17 DEN 42 LI: 0.1(No Huddle Shotgun) 5-J.Flacco pass short right to 84-E.Dickson ran ob at BLT 41 for 13 yards.'>48.2</number><number>0.02</number>
+<number shadow='shadow1' tooltip='11:19 1-10-BLT 41BLT 17 DEN 42 LI: 0.1(No Huddle Shotgun) 5-J.Flacco pass short middle to 87-D.Clark to DEN 32 for 27 yards(26-R.Moore)PENALTY on DEN-26-R.Moore Face Mask (15 Yards) 15 yards enforced at DEN 32.'>48.68</number><number>0.03</number>
+<number shadow='shadow1' tooltip='11:06 1-10-DEN 17BLT 17 DEN 42 LI: 0.25-J.Flacco pass short middle to 27-R.Rice to DEN 13 for 4 yards(56-N.Irving).'>48.9</number><number>0.02</number>
+<number shadow='shadow1' tooltip='10:32 2-6-DEN 13BLT 17 DEN 42 LI: 0.15-J.Flacco pass short left to 14-M.Brown for 13 yards TOUCHDOWN.'>49.47</number><number>0.01</number>
+<number shadow='shadow1' tooltip='10:32 BLT 17 DEN 42 LI: 9-J.Tucker extra point is GOOD Center-46-M.Cox Holder-4-S.Koch.'>49.51</number><number>0.01</number>
+<number shadow='shadow1' tooltip='10:32 BLT 24 DEN 42 LI: 9-J.Tucker kicks 65 yards from BLT 35 to end zone Touchback.'>49.56</number><number>0.01</number>
+<number shadow='shadow1' tooltip='9:46 2-8-DEN 22BLT 24 DEN 42 LI: 0.228-M.Ball right tackle to DEN 29 for 7 yards(26-M.Elam).'>50.23</number><number>0.01</number>
+<number shadow='shadow1' tooltip='9:02 3-1-DEN 29BLT 24 DEN 42 LI: 0.228-M.Ball right tackle to DEN 27 for -2 yards(55-T.Suggs; 92-H.Ngata).'>50.97</number><number>0.01</number>
+<number shadow='shadow1' tooltip='8:21 4-3-DEN 27BLT 24 DEN 42 LI: 0.24-B.Colquitt punts 55 yards to BLT 18 Center-46-A.Brewer21-L.Webb to BLT 31 for 13 yards(46-A.Brewer).'>51.65</number><number>0.01</number>
+<number shadow='shadow1' tooltip='8:07 1-10-BLT 31BLT 24 DEN 42 LI: 0.1(Shotgun) 5-J.Flacco pass short left to 87-D.Clark to BLT 36 for 5 yards(26-R.Moore).'>51.88</number><number>0.02</number>
+<number shadow='shadow1' tooltip='7:35 2-5-BLT 36BLT 24 DEN 42 LI: 0.1(No Huddle Shotgun) 5-J.Flacco pass incomplete short left to 30-B.Pierce.'>52.42</number><number>0.01</number>
+<number shadow='shadow1' tooltip='7:30 3-5-BLT 36BLT 24 DEN 42 LI: 0.1(No Huddle Shotgun) 5-J.Flacco pass deep right to 82-T.Smith to DEN 30 for 34 yards(32-T.Carter).'>52.5</number><number>0.02</number>
+<number shadow='shadow1' tooltip='6:54 1-10-DEN 30BLT 24 DEN 42 LI: 0.1(No Huddle Shotgun) 5-J.Flacco pass short right to 80-B.Stokley pushed ob at DEN 18 for 12 yards(32-T.Carter).'>53.1</number><number>0.02</number>
+<number shadow='shadow1' tooltip='6:19 1-10-DEN 18BLT 24 DEN 42 LI: 0.1(No Huddle Shotgun) 5-J.Flacco pass incomplete short left to 27-R.Rice.'>53.68</number><number>0.02</number>
+<number shadow='shadow1' tooltip='6:15 2-10-DEN 18BLT 24 DEN 42 LI: 0.1(No Huddle Shotgun) 5-J.Flacco pass incomplete short right to 27-R.Rice.'>53.75</number><number>0.01</number>
+<number shadow='shadow1' tooltip='6:09 3-10-DEN 18BLT 24 DEN 42 LI: 0.1(No Huddle Shotgun) 5-J.Flacco pass short right to 44-V.Leach to DEN 12 for 6 yards(52-W.Woodyard).'>53.85</number><number>0.01</number>
+<number shadow='shadow1' tooltip='5:33 4-4-DEN 12BLT 24 DEN 42 LI: 0.19-J.Tucker 30 yard field goal is GOOD Center-46-M.Cox Holder-4-S.Koch.'>54.45</number><number>0.01</number>
+<number shadow='shadow1' tooltip='5:33 BLT 27 DEN 42 LI: 9-J.Tucker kicks 65 yards from BLT 35 to end zone Touchback.'>54.54</number><number>0.01</number>
+<number shadow='shadow1' tooltip='4:47 2-8-DEN 22BLT 27 DEN 42 LI: 0.918-P.Manning pass incomplete short right to 87-E.Decker.'>55.22</number><number>0.02</number>
+<number shadow='shadow1' tooltip='4:42 3-8-DEN 22BLT 27 DEN 42 LI: 0.8(Shotgun) 18-P.Manning pass short left to 88-D.Thomas for 78 yards TOUCHDOWN.'>55.3</number><number>0.01</number>
+<number shadow='shadow1' tooltip='4:42 BLT 27 DEN 42 LI: 5-M.Prater extra point is GOOD Center-46-A.Brewer Holder-4-B.Colquitt.'>55.34</number><number>0.01</number>
+<number shadow='shadow1' tooltip='4:42 BLT 27 DEN 49 LI: 5-M.Prater kicks 65 yards from DEN 35 to end zone Touchback.'>55.39</number><number>0.01</number>
+<number shadow='shadow1' tooltip='4:30 1-10-BLT 20BLT 27 DEN 49 LI: 0.1(Shotgun) 5-J.Flacco pass short middle to 27-R.Rice to BLT 28 for 8 yards(59-D.Trevathan).'>55.5</number><number>0.01</number>
+<number shadow='shadow1' tooltip='4:06 2-2-BLT 28BLT 27 DEN 49 LI: 0.1(No Huddle Shotgun) 5-J.Flacco pass incomplete deep right to 82-T.Smith (32-T.Carter).'>55.9</number><number>0.01</number>
+<number shadow='shadow1' tooltip='4:00 3-2-BLT 28BLT 27 DEN 49 LI: 0.1(No Huddle Shotgun) 5-J.Flacco pass incomplete short right to 82-T.Smith (32-T.Carter)PENALTY on DEN-32-T.Carter Defensive Pass Interference 6 yards enforced at BLT 28 - No Play.'>56</number><number>0.01</number>
+<number shadow='shadow1' tooltip='3:56 1-10-BLT 34BLT 27 DEN 49 LI: 0.1(No Huddle Shotgun) 5-J.Flacco pass incomplete short right to 44-V.Leach (52-W.Woodyard).'>56.07</number><number>0.01</number>
+<number shadow='shadow1' tooltip='3:51 2-10-BLT 34BLT 27 DEN 49 LI: 0.1(No Huddle Shotgun) 5-J.Flacco pass short right to 27-R.Rice to BLT 33 for -1 yards(92-S.Williams).'>56.15</number><number>0.01</number>
+<number shadow='shadow1' tooltip='3:11 3-11-BLT 33BLT 27 DEN 49 LI: 0.1(No Huddle Shotgun) 5-J.Flacco sacked at BLT 27 for -6 yards(90-S.Phillips)FUMBLES (90-S.Phillips) recovered by BLT-71-R.Wagner at BLT 2771-R.Wagner to BLT 27 for no gain (95-D.Wolfe).'>56.82</number><number>0.01</number>
+<number shadow='shadow1' tooltip='2:26 4-17-BLT 27BLT 27 DEN 49 LI: 0.14-S.Koch punts 56 yards to DEN 17 Center-46-M.Cox fair catch by 83-W.Welker.'>57.57</number><number>0.01</number>
+<number shadow='shadow1' tooltip='2:19 1-10-DEN 17BLT 27 DEN 49 LI: 0.128-M.Ball right tackle to DEN 18 for 1 yard(99-C.Canty).'>57.68</number><number>0.01</number>
+<number shadow='shadow1' tooltip='2:00 2-9-DEN 18BLT 27 DEN 49 LI: 0.128-M.Ball up the middle to DEN 19 for 1 yard(96-M.Spears).'>58</number><number>0.01</number>
+<number shadow='shadow1' tooltip='1:16 3-8-DEN 19BLT 27 DEN 49 LI: 0.118-P.Manning pass short left to 88-D.Thomas to DEN 29 for 10 yards(29-M.Huff).'>58.73</number><number>0.01</number>
+<number shadow='shadow1' tooltip='0:39 1-10-DEN 29BLT 27 DEN 49 LI: 0.118-P.Manning kneels to DEN 28 for -1 yards.'>59.35</number><number>0</number>
+<number>60</number><number>0</number>
+</row> </chart_data>
+       <draw>
+
+
+
+      <image x='45' y='298'  url='nfllogos/42x50png/BLT.gif'  layer='foreground' glow = 'glow1'/>
+      <image x='45' y='350'  url='nfllogos/42x50png/DEN.gif'     layer='foreground' glow = 'glow1'/>
+
+
+      <rect x='130' y='300' width='250' height='40' fill_color='023273' bevel='bevel1' />
+      <text x='135' y='300' width='250' height='40' h_align='left' v_align='middle' color='ffffff' shadow='shadow2' glow=''>Baltimore Ravens</text>
+
+      <rect x='130' y='350' width='250' height='40' fill_color='ff652b' bevel='bevel1'  />
+      <text x='135' y='350' width='250' height='40' h_align='left' v_align='middle' color='ffffff' shadow='shadow2' glow='winnerglow'>Denver Broncos</text>
+
+      <rect x='420' y='300' width='60' height='40' fill_color='023273' bevel='bevel1'  />
+      <text x='420' y='300' width='60' height='40' h_align='center' v_align='middle' color='ffffff' shadow='shadow2' transition='none' glow=''>27</text>
+
+      <rect x='420' y='350' width='60' height='40' fill_color='ff652b' bevel='bevel1' />
+      <text x='420' y='350' width='60' height='40' h_align='center' v_align='middle' color='ffffff' shadow='shadow2' transition='none' glow='winnerglow'>49</text>
+
+      <text x='-3' y='12'  width='60' height='40' h_align='center' v_align='middle' size='13' shadow='shadow2'>BLTWin </text>
+      <text x='-3' y='218' width='60' height='40' h_align='center' v_align='middle' size='13' shadow='shadow2'>DENWin </text>
+
+     
+              <rect x='540' y='300' width='100' height='35' fill_color='000000' fill_alpha='50'/>
+              <text x='540' y='300' width='100' height='35' h_align='center' v_align='middle' color='ffffff' size='15' shadow='shadow2' >Final</text>
+
+              <text x='540' y='340' width='40' h_align='center' color='000000' size='12' shadow='shadow2'>CBF</text>
+              <text x='600' y='340' width='40' h_align='center' color='000000' size='12' shadow='shadow2'>EI</text>
+
+              <rect x='540' y='360' width='40' height='30' fill_color='000000' fill_alpha='50' />
+              <text x='540' y='360' width='40' height='30' size='12' h_align='center' v_align='middle' color='FFFFFF' shadow='shadow2'>4</text>
+
+              <rect x='600' y='360' width='40' height='30' fill_color='000000' fill_alpha='50' />
+              <text x='600' y='360' width='40' height='30' size='12' h_align='center' v_align='middle' color='FFFFFF' shadow='shadow2'>3.3</text>
+
+              <text x='20' y='420' width='70' height='25' size='12' h_align='left' v_align='middle' color='000000' >9/5/2013</text>
+              <text x='100' y='420' width='200' height='25' size='12' h_align='left' v_align='middle' color='000000' >Sports Authority Field at Mile High</text>
+
+   </draw></chart>

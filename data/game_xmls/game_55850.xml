@@ -1,0 +1,315 @@
+
+<chart>
+   <license>ETAS9P33ESHO.945CWK-2XOI1X0-7L</license>
+   <chart_type>scatter</chart_type>
+   <chart_pref trend_thickness='0' line_thickness='3' point_size='0'/>
+
+   <series_color>
+      <color>ffff00</color>
+   </series_color>
+
+   <chart_rect x='45' y='20' width='630' height='230' positive_color='cacaca'  />
+
+  <chart_border top_thickness='0'
+                 bottom_thickness='0'
+                 left_thickness='0'
+                 right_thickness='0'
+                 color='000000'
+                 />
+
+   <tooltip font='Arial' bold='true' size='11' />
+
+   <chart_note type='flag'
+               color='000000'
+               alpha='90'
+               bold='FALSE'
+               size='10'
+               background_color='ffffe0'
+               background_alpha='50'
+               shadow='shadow2'
+               />
+
+   <chart_grid_h thickness='2' color='ffffff' type='dashed'  />
+   <chart_grid_v thickness='2' color='ffffff'   />
+		>
+
+   <legend layout='hide' />
+
+   <chart_guide horizontal='TRUE'
+             vertical='TRUE'
+             thickness='1'
+             color='006400'
+             alpha='100'
+             type='solid'
+             snap_h='TRUE'
+             snap_v='TRUE'
+             radius='3'
+             fill_color='006400'
+             fill_alpha='100'
+             line_color='006400'
+             line_alpha='80'
+             line_thickness='1'
+             text_h_alpha='50'
+             text_v_alpha='00'
+             suffix_h=' WP'
+             decimals='2'
+             bold='FALSE'
+             size='11'
+             text_color='FFFFFF'
+             background_color='006400'
+             />
+   <filter>
+      <shadow id='shadow1' distance='2' angle='60' blurX='5' blurY='5' alpha='50' />
+      <bevel id='bevel1' angle='45' blurX='5' blurY='5' distance='0' />
+      <glow id='glow1' color='ffffff' alpha='0' blurX='7' blurY='7' strength='6' quality='2' inner='FALSE' knockout='FALSE' />
+      <glow id='winnerglow' color='ffffff' alpha='0' blurX='7' blurY='7' strength='5' quality='2' inner='FALSE' knockout='FALSE' />
+   </filter>
+
+    <axis_value_label>
+         <string></string>
+          <string> </string>
+          <null/>
+          <string> </string>
+          <string></string>
+
+       </axis_value_label>
+		
+	   <axis_ticks category_ticks='false'/>
+
+       <axis_value min='0' max='1' steps='4'  decimals='2' show_min='true' size='13' shadow='shadow2' />     
+            <axis_category
+               min='0'
+               max='60'
+               steps='4'
+               mode='all'
+               decimals='0'
+               size='13'
+               shadow='shadow2'
+               />
+
+       <axis_category_label>
+          <string>Kickoff</string>
+          <string></string>
+          <string>Halftime</string>
+          <string></string>
+          <string>End</string>
+
+       </axis_category_label>
+
+
+        <chart_data>
+       <row>
+	      <null/><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number>
+              <number>x</number><number>y</number>
+              </row><row><string></string>
+
+                     <number shadow='shadow1'>0</number><number>.5</number><number shadow='shadow1' tooltip='15:00 NYG 0 DAL 0 LI: 5-D.Bailey kicks 65 yards from DAL 35 to end zone TouchbackBall was kicked out of the end zone.'>0.09</number><number>0.52</number>
+<number shadow='shadow1' tooltip='14:53 1-10-NYG 15NYG 0 DAL 0 LI: 1.6(Shotgun) 29-D.Murray left end to NYG 12 for 3 yards(20-P.Amukamara 91-J.Tuck).'>0.12</number><number>0.33</number>
+<number shadow='shadow1' tooltip='14:00 2-12-NYG 17NYG 0 DAL 0 LI: 1.3(Shotgun) 9-T.Romo pass short left to 29-D.Murray to NYG 12 for 5 yards(26-A.Rolle)Pass complete in the flat.'>1</number><number>0.36</number>
+<number shadow='shadow1' tooltip='13:15 3-7-NYG 12NYG 0 DAL 0 LI: 1.4(Shotgun) 9-T.Romo pass incomplete short left to 29-D.MurrayPass incomplete left corner of end zone; Paysinger closest defender.'>1.75</number><number>0.42</number>
+<number shadow='shadow1' tooltip='13:07 4-7-NYG 12NYG 0 DAL 0 LI: 0.8(Field Goal formation) 5-D.Bailey 30 yard field goal is GOOD Center-91-L.Ladouceur Holder-6-C.Jones.'>1.88</number><number>0.42</number>
+<number shadow='shadow1' tooltip='13:07 NYG 0 DAL 3 LI: 5-D.Bailey kicks 65 yards from DAL 35 to end zone TouchbackBall was kicked out of the end zone.'>1.97</number><number>0.4</number>
+<number shadow='shadow1' tooltip='12:33 1-10-DAL 23NYG 0 DAL 3 LI: 1.710-E.Manning pass incomplete short middle to 80-V.CruzPass incomplete on a slant: Durant closest defender.'>2.45</number><number>0.51</number>
+<number shadow='shadow1' tooltip='12:28 2-10-DAL 23NYG 0 DAL 3 LI: 1.210-E.Manning pass incomplete short middle to 83-B.Myers (26-W.Allen)Pass incomplete on a "seam" route.'>2.53</number><number>0.49</number>
+<number shadow='shadow1' tooltip='12:23 3-10-DAL 23NYG 0 DAL 3 LI: 1(Shotgun) 10-E.Manning pass short middle to 82-R.Randle to DAL 8 for 15 yards(26-W.Allen)Pass complete on a "curl" route.'>2.62</number><number>0.57</number>
+<number shadow='shadow1' tooltip='11:41 1-8-DAL 8NYG 0 DAL 3 LI: 1.622-D.Wilson left end to DAL 10 for -2 yards(42-B.Church)FUMBLES (42-B.Church) RECOVERED by DAL-99-G.Selvie at DAL 799-G.Selvie to DAL 7 for no gain (77-K.Boothe).'>3.32</number><number>0.41</number>
+<number shadow='shadow1' tooltip='11:33 1-10-DAL 7NYG 0 DAL 3 LI: 1.69-T.Romo pass incomplete short middle to 88-D.BryantPass incomplete on a "crossing" pattern; Webster closest defender.'>3.45</number><number>0.43</number>
+<number shadow='shadow1' tooltip='11:27 2-10-DAL 7NYG 0 DAL 3 LI: 1.429-D.Murray left tackle to DAL 10 for 3 yards(21-R.Mundy).'>3.55</number><number>0.44</number>
+<number shadow='shadow1' tooltip='10:44 3-7-DAL 10NYG 0 DAL 3 LI: 1.3(Shotgun) 9-T.Romo pass short right to 82-J.Witten ran ob at DAL 12 for 2 yards.'>4.27</number><number>0.46</number>
+<number shadow='shadow1' tooltip='10:23 4-5-DAL 12NYG 0 DAL 3 LI: 1.1(Punt formation) 6-C.Jones punts 48 yards to NYG 40 Center-91-L.Ladouceur82-R.Randle to NYG 38 for -2 yards(17-D.Harris).'>4.62</number><number>0.44</number>
+<number shadow='shadow1' tooltip='10:14 1-10-NYG 38NYG 0 DAL 3 LI: 1.322-D.Wilson left end to DAL 49 for 13 yards(52-J.Durant; 54-B.Carter).'>4.77</number><number>0.47</number>
+<number shadow='shadow1' tooltip='9:38 1-10-DAL 49NYG 0 DAL 3 LI: 1.322-D.Wilson left end to DAL 49 for no gain (96-N.Hayden).'>5.37</number><number>0.46</number>
+<number shadow='shadow1' tooltip='9:04 2-10-DAL 49NYG 0 DAL 3 LI: 1.210-E.Manning pass incomplete short right to 45-H.Hynoski.'>5.93</number><number>0.44</number>
+<number shadow='shadow1' tooltip='8:58 3-10-DAL 49NYG 0 DAL 3 LI: 1(Shotgun) 10-E.Manning pass short left intended for 82-R.Randle INTERCEPTED by 26-W.Allen at DAL 3526-W.Allen pushed ob at DAL 48 for 13 yards(12-J.Jernigan).'>6.03</number><number>0.34</number>
+<number shadow='shadow1' tooltip='8:50 1-10-DAL 48NYG 0 DAL 3 LI: 1.329-D.Murray left end to NYG 41 for 11 yards(21-R.Mundy; 91-J.Tuck).'>6.17</number><number>0.32</number>
+<number shadow='shadow1' tooltip='8:09 1-10-NYG 41NYG 0 DAL 3 LI: 1.3(Shotgun) 29-D.Murray right end to NYG 34 for 7 yards(24-T.Thomas).'>6.85</number><number>0.31</number>
+<number shadow='shadow1' tooltip='7:36 2-3-NYG 34NYG 0 DAL 3 LI: 1.29-T.Romo pass short left to 19-M.Austin to NYG 26 for 8 yards(20-P.Amukamara)Pass complete on a "slant" pattern.'>7.4</number><number>0.29</number>
+<number shadow='shadow1' tooltip='6:57 1-10-NYG 26NYG 0 DAL 3 LI: 1.3(Shotgun) 9-T.Romo pass short left to 19-M.Austin to NYG 24 for 2 yards(91-J.Tuck)PENALTY on DAL-84-J.Hanna Offensive Holding 10 yards enforced at NYG 24.'>8.05</number><number>0.3</number>
+<number shadow='shadow1' tooltip='6:30 1-18-NYG 34NYG 0 DAL 3 LI: 1.3(Shotgun) 9-T.Romo pass short left to 89-G.Escobar to NYG 27 for 7 yards(52-S.Paysinger)Pass complete on a "curl" route.'>8.5</number><number>0.3</number>
+<number shadow='shadow1' tooltip='5:46 2-11-NYG 27NYG 0 DAL 3 LI: 1.2(Shotgun) 9-T.Romo pass incomplete short right to 19-M.AustinPass incomplete on a "skinny" post.'>9.23</number><number>0.32</number>
+<number shadow='shadow1' tooltip='5:41 3-11-NYG 27NYG 0 DAL 3 LI: 1(Shotgun) 9-T.Romo pass short right to 82-J.Witten to NYG 13 for 14 yards(99-C.Jenkins)Pass complete on a "button hook."'>9.32</number><number>0.23</number>
+<number shadow='shadow1' tooltip='5:03 1-10-NYG 13NYG 0 DAL 3 LI: 1.59-T.Romo FUMBLES (Aborted) at NYG 13 and recovers at NYG 149-T.Romo to NYG 14 for no gain (99-C.Jenkins).'>9.95</number><number>0.26</number>
+<number shadow='shadow1' tooltip='4:22 2-11-NYG 14NYG 0 DAL 3 LI: 1.3(Shotgun) 9-T.Romo pass incomplete short left to 89-G.EscobarPass incomplete at the goalline.'>10.63</number><number>0.29</number>
+<number shadow='shadow1' tooltip='4:17 3-11-NYG 14NYG 0 DAL 3 LI: 1(Shotgun) 9-T.Romo pass short left intended for 83-T.Williams INTERCEPTED by 21-R.Mundy (20-P.Amukamara) at NYG 821-R.Mundy to DAL 1 for 91 yards(29-D.Murray).'>10.72</number><number>0.6</number>
+<number shadow='shadow1' tooltip='4:00 1-1-DAL 1NYG 0 DAL 3 LI: 1.922-D.Wilson up the middle to DAL 1 for no gain (50-S.Lee; 52-J.Durant).'>11</number><number>0.6</number>
+<number shadow='shadow1' tooltip='3:25 2-1-DAL 1NYG 0 DAL 3 LI: 1.910-E.Manning sacked at DAL 11 for -10 yards(99-G.Selvie).'>11.58</number><number>0.51</number>
+<number shadow='shadow1' tooltip='2:45 3-11-DAL 11NYG 0 DAL 3 LI: 1(Shotgun) 10-E.Manning pass short middle to 83-B.Myers to DAL 2 for 9 yards(54-B.Carter).'>12.25</number><number>0.48</number>
+<number shadow='shadow1' tooltip='2:07 4-2-DAL 2NYG 0 DAL 3 LI: 0.7(Field Goal formation) 3-J.Brown 20 yard field goal is GOOD Center-51-Z.DeOssie Holder-5-S.Weatherford.'>12.88</number><number>0.47</number>
+<number shadow='shadow1' tooltip='2:07 NYG 3 DAL 3 LI: 3-J.Brown kicks 74 yards from NYG 35 to DAL -917-D.Harris Touchback.'>12.97</number><number>0.48</number>
+<number shadow='shadow1' tooltip='1:13 2-6-DAL 24NYG 3 DAL 3 LI: 1.4(Shotgun) 9-T.Romo pass short middle to 19-M.Austin to DAL 29 for 5 yards(24-T.Thomas)Pass complete on a "slant."'>13.78</number><number>0.48</number>
+<number shadow='shadow1' tooltip='0:32 3-1-DAL 29NYG 3 DAL 3 LI: 1.49-T.Romo pass short left to 88-D.Bryant to DAL 36 for 7 yards(23-C.Webster 26-A.Rolle)Pass complete on a "slant" pattern.'>14.47</number><number>0.46</number>
+<number shadow='shadow1' tooltip='15:00 1-10-DAL 36NYG 3 DAL 3 LI: 1.429-D.Murray right guard to DAL 38 for 2 yards(55-K.Rivers).'>15</number><number>0.47</number>
+<number shadow='shadow1' tooltip='14:25 2-8-DAL 38NYG 3 DAL 3 LI: 1.39-T.Romo pass short left to 19-M.Austin to NYG 44 for 18 yards(91-J.Tuck)Pass complete on a "slant" pattern.'>15.58</number><number>0.42</number>
+<number shadow='shadow1' tooltip='13:46 1-10-NYG 44NYG 3 DAL 3 LI: 1.429-D.Murray left tackle to NYG 39 for 5 yards(53-D.Connor; 58-M.Herzlich).'>16.23</number><number>0.43</number>
+<number shadow='shadow1' tooltip='13:13 2-5-NYG 39NYG 3 DAL 3 LI: 1.2(Shotgun) 9-T.Romo pass short left to 29-D.Murray ran ob at NYG 33 for 6 yards(58-M.Herzlich)Pass complete in the "flat."'>16.78</number><number>0.4</number>
+<number shadow='shadow1' tooltip='12:52 1-10-NYG 33NYG 3 DAL 3 LI: 1.4(Shotgun) 9-T.Romo pass short middle to 82-J.Witten to NYG 28 for 5 yards(52-S.Paysinger)Pass complete on a "drag" route.'>17.13</number><number>0.39</number>
+<number shadow='shadow1' tooltip='12:16 2-5-NYG 28NYG 3 DAL 3 LI: 1.429-D.Murray left tackle to NYG 27 for 1 yard(93-M.Patterson).'>17.73</number><number>0.4</number>
+<number shadow='shadow1' tooltip='11:35 3-4-NYG 27NYG 3 DAL 3 LI: 1.3(Shotgun) 9-T.Romo pass short right to 19-M.Austin pushed ob at NYG 22 for 5 yards(24-T.Thomas).'>18.42</number><number>0.37</number>
+<number shadow='shadow1' tooltip='10:59 1-10-NYG 22NYG 3 DAL 3 LI: 1.5(Shotgun) 9-T.Romo pass incomplete short middle to 19-M.Austin (24-T.Thomas)Pass incomplete "3-step" drop back.'>19.02</number><number>0.37</number>
+<number shadow='shadow1' tooltip='10:55 2-10-NYG 22NYG 3 DAL 3 LI: 1.5(Shotgun) 29-D.Murray left tackle to NYG 20 for 2 yards(97-L.Joseph).'>19.08</number><number>0.39</number>
+<number shadow='shadow1' tooltip='10:13 3-8-NYG 20NYG 3 DAL 3 LI: 1.3(Shotgun) 9-T.Romo pass incomplete deep middle to 82-J.WittenPass incomplete on a "post" pattern.'>19.78</number><number>0.43</number>
+<number shadow='shadow1' tooltip='10:07 4-8-NYG 20NYG 3 DAL 3 LI: 0.9(Field Goal formation) 5-D.Bailey 38 yard field goal is GOOD Center-91-L.Ladouceur Holder-6-C.Jones.'>19.88</number><number>0.41</number>
+<number shadow='shadow1' tooltip='10:07 NYG 3 DAL 6 LI: 5-D.Bailey kicks 72 yards from DAL 35 to NYG -729-M.Cox to NYG 19 for 26 yards(17-D.Harris)Return right side of the field outside the yardline numbers...'>19.97</number><number>0.39</number>
+<number shadow='shadow1' tooltip='9:55 1-10-NYG 19NYG 3 DAL 6 LI: 145-H.Hynoski left end to NYG 24 for 5 yards(54-B.Carter)PENALTY on NYG-45-H.Hynoski Illegal Shift 5 yards enforced at NYG 19 - No Play.'>20.08</number><number>0.38</number>
+<number shadow='shadow1' tooltip='9:32 1-15-NYG 14NYG 3 DAL 6 LI: 1.510-E.Manning pass incomplete short left to 80-V.CruzPass incomplete on a "go" route; Claiborne closest defender.'>20.47</number><number>0.37</number>
+<number shadow='shadow1' tooltip='9:26 2-15-NYG 14NYG 3 DAL 6 LI: 1.422-D.Wilson left end to NYG 16 for 2 yards(54-B.Carter; 52-J.Durant).'>20.57</number><number>0.36</number>
+<number shadow='shadow1' tooltip='8:45 3-13-NYG 16NYG 3 DAL 6 LI: 0.8(Shotgun) 10-E.Manning scrambles up the middle to NYG 25 for 9 yards(50-S.Lee).'>21.25</number><number>0.36</number>
+<number shadow='shadow1' tooltip='8:05 4-4-NYG 25NYG 3 DAL 6 LI: 0.6(Punt formation) 5-S.Weatherford punts 60 yards to DAL 15 Center-51-Z.DeOssie17-D.Harris to DAL 29 for 14 yards(57-J.Williams; 84-L.Donnell).'>21.92</number><number>0.37</number>
+<number shadow='shadow1' tooltip='7:52 1-10-DAL 29NYG 3 DAL 6 LI: 1.3(Shotgun) 9-T.Romo pass short right to 19-M.Austin pushed ob at DAL 35 for 6 yards(23-C.Webster).'>22.13</number><number>0.36</number>
+<number shadow='shadow1' tooltip='7:18 2-4-DAL 35NYG 3 DAL 6 LI: 1.3(Shotgun) 9-T.Romo pass short left to 88-D.Bryant to DAL 41 for 6 yards(20-P.Amukamara)Pass complete on slant.'>22.7</number><number>0.35</number>
+<number shadow='shadow1' tooltip='6:39 1-10-DAL 41NYG 3 DAL 6 LI: 1.2(No Huddle Shotgun) PENALTY on DAL-82-J.Witten False Start 5 yards enforced at DAL 41 - No Play.'>23.35</number><number>0.36</number>
+<number shadow='shadow1' tooltip='6:12 1-15-DAL 36NYG 3 DAL 6 LI: 1.3(No Huddle Shotgun) 9-T.Romo pass short middle to 34-P.Tanner to DAL 45 for 9 yards(52-S.Paysinger).'>23.8</number><number>0.35</number>
+<number shadow='shadow1' tooltip='5:46 2-6-DAL 45NYG 3 DAL 6 LI: 1.2(No Huddle) 34-P.Tanner right tackle to DAL 47 for 2 yards(97-L.Joseph)FUMBLES (97-L.Joseph) recovered by DAL-89-G.Escobar at DAL 4789-G.Escobar to DAL 47 for no gain (23-C.Webster)NYG-53-D.Connor was injured during the playHis return is Questionable.'>24.23</number><number>0.36</number>
+<number shadow='shadow1' tooltip='5:07 3-4-DAL 47NYG 3 DAL 6 LI: 1(Shotgun) 9-T.Romo pass short left to 82-J.Witten to NYG 48 for 5 yards(57-J.Williams)NYG-99-C.Jenkins was injured during the playHis return is Questionable.'>24.88</number><number>0.33</number>
+<number shadow='shadow1' tooltip='4:36 1-10-NYG 48NYG 3 DAL 6 LI: 1.229-D.Murray left end to NYG 47 for 1 yard(26-A.Rolle).'>25.4</number><number>0.34</number>
+<number shadow='shadow1' tooltip='4:09 2-9-NYG 47NYG 3 DAL 6 LI: 1.1(Shotgun) 9-T.Romo pass short middle to 29-D.Murray to NYG 36 for 11 yards(91-J.Tuck).'>25.85</number><number>0.31</number>
+<number shadow='shadow1' tooltip='3:40 1-10-NYG 36NYG 3 DAL 6 LI: 1.1(No Huddle Shotgun) 9-T.Romo pass short middle to 82-J.Witten to NYG 15 for 21 yards(21-R.Mundy; 23-C.Webster).'>26.33</number><number>0.27</number>
+<number shadow='shadow1' tooltip='3:02 1-10-NYG 15NYG 3 DAL 6 LI: 1.1(No Huddle Shotgun) 9-T.Romo pass short middle to 82-J.Witten for 15 yards TOUCHDOWNPass complete down the seam in the middle of the end zoneThe pass reception puts Witten with more than 9.000 career yards becoming the second Cowboys player and third tight end in the NFL to surpass 9000 yards.'>26.97</number><number>0.2</number>
+<number shadow='shadow1' tooltip='3:02 NYG 3 DAL 6 LI: 5-D.Bailey extra point is GOOD Center-91-L.Ladouceur Holder-6-C.Jones.'>27.01</number><number>0.2</number>
+<number shadow='shadow1' tooltip='3:02 NYG 3 DAL 13 LI: 5-D.Bailey kicks 74 yards from DAL 35 to NYG -929-M.Cox Touchback.'>27.06</number><number>0.19</number>
+<number shadow='shadow1' tooltip='2:55 1-10-NYG 20NYG 3 DAL 13 LI: 1.1(Shotgun) PENALTY on NYG-65-W.Beatty False Start 5 yards enforced at NYG 20 - No Play.'>27.08</number><number>0.18</number>
+<number shadow='shadow1' tooltip='2:28 2-1-NYG 29NYG 3 DAL 13 LI: 1.1(No Huddle Shotgun) 22-D.Wilson up the middle to NYG 30 for 1 yard(96-N.Hayden).'>27.53</number><number>0.21</number>
+<number shadow='shadow1' tooltip='2:01 1-10-NYG 30NYG 3 DAL 13 LI: 1.2(No Huddle Shotgun) 10-E.Manning pass deep left to 80-V.Cruz for 70 yards TOUCHDOWNPass complete on a "fly" pattern.'>27.98</number><number>0.36</number>
+<number shadow='shadow1' tooltip='2:01 NYG 3 DAL 13 LI: 3-J.Brown extra point is GOOD Center-51-Z.DeOssie Holder-5-S.Weatherford.'>28.02</number><number>0.36</number>
+<number shadow='shadow1' tooltip='2:01 NYG 10 DAL 13 LI: 3-J.Brown kicks 74 yards from NYG 35 to DAL -917-D.Harris Touchback.'>28.07</number><number>0.37</number>
+<number shadow='shadow1' tooltip='1:50 1-10-DAL 20NYG 10 DAL 13 LI: 1.7(Shotgun) 9-T.Romo pass short left to 29-D.Murray pushed ob at DAL 20 for no gain (52-S.Paysinger).'>28.17</number><number>0.39</number>
+<number shadow='shadow1' tooltip='1:44 2-10-DAL 20NYG 10 DAL 13 LI: 1.5(No Huddle Shotgun) 9-T.Romo pass short right to 19-M.Austin ran ob at DAL 31 for 11 yards(21-R.Mundy).'>28.27</number><number>0.35</number>
+<number shadow='shadow1' tooltip='1:37 1-10-DAL 31NYG 10 DAL 13 LI: 1.6(No Huddle Shotgun) 9-T.Romo pass short left to 19-M.Austin to DAL 37 for 6 yards(24-T.Thomas).'>28.38</number><number>0.34</number>
+<number shadow='shadow1' tooltip='1:09 2-4-DAL 37NYG 10 DAL 13 LI: 1.6(No Huddle Shotgun) 9-T.Romo pass short left to 83-T.Williams to DAL 46 for 9 yards(20-P.Amukamara)NYG-20-P.Amukamara was injured during the playHis return is QuestionableNYG-23-C.Webster was injured during the playHis return is Questionable.'>28.85</number><number>0.33</number>
+<number shadow='shadow1' tooltip='1:01 1-10-DAL 46NYG 10 DAL 13 LI: 1.4(Shotgun) 9-T.Romo pass incomplete deep middle to 83-T.WilliamsPass incomplete on a "crossing pattern." PENALTY on DAL-65-R.Leary Offensive Holding 10 yards enforced at DAL 46 - No Play.'>28.98</number><number>0.34</number>
+<number shadow='shadow1' tooltip='0:55 1-20-DAL 36NYG 10 DAL 13 LI: 1.6(Shotgun) 9-T.Romo pass short right to 29-D.Murray to DAL 37 for 1 yard(94-M.Kiwanuka)Screen pass.'>29.08</number><number>0.36</number>
+<number shadow='shadow1' tooltip='0:46 2-19-DAL 37NYG 10 DAL 13 LI: 1.3(Shotgun) 9-T.Romo pass incomplete deep middle to 83-T.Williams [94-M.Kiwanuka]DAL-9-T.Romo was injured during the playHis return is Questionable Pass incomplete on a "crossing pattern."'>29.23</number><number>0.38</number>
+<number shadow='shadow1' tooltip='0:38 3-19-DAL 37NYG 10 DAL 13 LI: 1.1(Shotgun) 29-D.Murray up the middle to DAL 45 for 8 yards(23-C.Webster).'>29.37</number><number>0.38</number>
+<number shadow='shadow1' tooltip='0:32 4-11-DAL 45NYG 10 DAL 13 LI: 0.9(Punt formation) 6-C.Jones punts 30 yards to NYG 25 Center-91-L.Ladouceur82-R.Randle to NYG 25 for no gain (55-E.Jones; 38-J.Heath)PENALTY on NYG-38-T.McBride Offensive Holding 10 yards enforced at NYG 25.'>29.47</number><number>0.36</number>
+<number shadow='shadow1' tooltip='0:14 1-10-NYG 15NYG 10 DAL 13 LI: 110-E.Manning kneels to NYG 14 for -1 yards.'>29.77</number><number>0.36</number>
+<number shadow='shadow1' tooltip='0:14 NYG 10 DAL 13 LI: 3-J.Brown kicks 74 yards from NYG 35 to DAL -917-D.Harris Touchback.'>29.86</number><number>0.37</number>
+<number shadow='shadow1' tooltip='15:00 1-10-DAL 20NYG 10 DAL 13 LI: 1.729-D.Murray right tackle to DAL 20 for no gain (93-M.Patterson).'>30</number><number>0.38</number>
+<number shadow='shadow1' tooltip='14:17 2-10-DAL 20NYG 10 DAL 13 LI: 1.6(Shotgun) 29-D.Murray left guard to DAL 23 for 3 yards(91-J.Tuck; 94-M.Kiwanuka).'>30.72</number><number>0.38</number>
+<number shadow='shadow1' tooltip='13:36 3-7-DAL 23NYG 10 DAL 13 LI: 1.5(Shotgun) 9-T.Romo pass incomplete deep left to 88-D.Bryant [91-J.Tuck]Pass incomplete on a "deep down and out." Rolle closest defenderInjury update: Amukamara is out with a concussion.'>31.4</number><number>0.41</number>
+<number shadow='shadow1' tooltip='13:27 4-7-DAL 23NYG 10 DAL 13 LI: 1.2(Punt formation) 6-C.Jones punts 56 yards to NYG 21 Center-91-L.Ladouceur82-R.Randle to NYG 29 for 8 yards(17-D.Harris).'>31.55</number><number>0.38</number>
+<number shadow='shadow1' tooltip='13:13 1-10-NYG 29NYG 10 DAL 13 LI: 1.1(Shotgun) 10-E.Manning sacked at NYG 24 for -5 yards(54-B.Carter).'>31.78</number><number>0.37</number>
+<number shadow='shadow1' tooltip='12:42 2-15-NYG 24NYG 10 DAL 13 LI: 1.1(Shotgun) 22-D.Wilson up the middle to NYG 27 for 3 yards(96-N.Hayden)FUMBLES (96-N.Hayden) RECOVERED by DAL-42-B.Church at NYG 2742-B.Church for 27 yards TOUCHDOWNChurch returned fumble along right side of the field for the touchdown.'>32.3</number><number>0.2</number>
+<number shadow='shadow1' tooltip='12:42 NYG 10 DAL 13 LI: 5-D.Bailey extra point is GOOD Center-91-L.Ladouceur Holder-6-C.Jones.'>32.34</number><number>0.2</number>
+<number shadow='shadow1' tooltip='12:42 NYG 10 DAL 20 LI: 5-D.Bailey kicks 65 yards from DAL 35 to end zone Touchback.'>32.39</number><number>0.19</number>
+<number shadow='shadow1' tooltip='12:30 1-10-NYG 20NYG 10 DAL 20 LI: 1.233-D.Scott right end to NYG 23 for 3 yards(50-S.Lee).'>32.5</number><number>0.18</number>
+<number shadow='shadow1' tooltip='11:52 2-7-NYG 23NYG 10 DAL 20 LI: 1(Shotgun) 33-D.Scott left guard to NYG 23 for no gain (92-L.Cohen).'>33.13</number><number>0.17</number>
+<number shadow='shadow1' tooltip='11:10 3-7-NYG 23NYG 10 DAL 20 LI: 1(Shotgun) 10-E.Manning pass short middle to 88-H.Nicks to NYG 38 for 15 yards(42-B.Church; 26-W.Allen)Pass complete on a "curl" route.'>33.83</number><number>0.22</number>
+<number shadow='shadow1' tooltip='10:29 1-10-NYG 38NYG 10 DAL 20 LI: 1.2(Shotgun) 10-E.Manning pass short middle to 80-V.Cruz to NYG 43 for 5 yards(32-O.Scandrick).'>34.52</number><number>0.22</number>
+<number shadow='shadow1' tooltip='9:51 2-5-NYG 43NYG 10 DAL 20 LI: 1.1(Shotgun) 33-D.Scott right guard to NYG 47 for 4 yards(42-B.Church).'>35.15</number><number>0.22</number>
+<number shadow='shadow1' tooltip='9:15 3-1-NYG 47NYG 10 DAL 20 LI: 133-D.Scott up the middle to NYG 47 for no gain (26-W.Allen 54-B.Carter)Time out for a measurement; did not make the first down.'>35.75</number><number>0.18</number>
+<number shadow='shadow1' tooltip='8:49 4-1-NYG 47NYG 10 DAL 20 LI: 0.6(Punt formation) 5-S.Weatherford punts 53 yards to end zone Center-51-Z.DeOssie TouchbackBall bounced at the 3-yard line before rolling into the endzone.'>36.18</number><number>0.17</number>
+<number shadow='shadow1' tooltip='8:38 1-10-DAL 20NYG 10 DAL 20 LI: 1.19-T.Romo pass incomplete deep middle to 88-D.Bryant (23-C.Webster)Pass thrown incomplete on a "crossing" pattern.'>36.37</number><number>0.18</number>
+<number shadow='shadow1' tooltip='8:31 2-10-DAL 20NYG 10 DAL 20 LI: 1(Shotgun) 29-D.Murray right end to DAL 20 for no gain (24-T.Thomas; 91-J.Tuck).'>36.48</number><number>0.19</number>
+<number shadow='shadow1' tooltip='8:01 3-10-DAL 20NYG 10 DAL 20 LI: 0.9(No Huddle Shotgun) 9-T.Romo pass deep middle to 83-T.Williams to DAL 43 for 23 yards(57-J.Williams).'>36.98</number><number>0.13</number>
+<number shadow='shadow1' tooltip='7:09 1-10-DAL 43NYG 10 DAL 20 LI: 1.1(No Huddle) 29-D.Murray right tackle to DAL 46 for 3 yards(58-M.Herzlich)PENALTY on DAL-77-T.Smith Offensive Holding 10 yards enforced at DAL 46.'>37.85</number><number>0.14</number>
+<number shadow='shadow1' tooltip='6:46 1-17-DAL 36NYG 10 DAL 20 LI: 1.1(Shotgun) 9-T.Romo pass incomplete short left to 17-D.Harris.'>38.23</number><number>0.15</number>
+<number shadow='shadow1' tooltip='6:45 2-17-DAL 36NYG 10 DAL 20 LI: 1(No Huddle Shotgun) 9-T.Romo pass short right to 19-M.Austin to DAL 43 for 7 yards(24-T.Thomas) [97-L.Joseph].'>38.25</number><number>0.15</number>
+<number shadow='shadow1' tooltip='6:02 3-10-DAL 43NYG 10 DAL 20 LI: 0.9(No Huddle Shotgun) 9-T.Romo pass incomplete short left to 88-D.Bryant (31-A.Ross)Pass incomplete on a "curl" route sideline.'>38.97</number><number>0.18</number>
+<number shadow='shadow1' tooltip='5:54 4-10-DAL 43NYG 10 DAL 20 LI: 0.6(Punt formation) 6-C.Jones punts 34 yards to NYG 23 Center-91-L.Ladouceur38-T.McBride MUFFS catch RECOVERED by DAL-57-D.Holloman at NYG 16The Replay Assistant challenged the kick touched ruling and the play was Upheld.'>39.1</number><number>0.05</number>
+<number shadow='shadow1' tooltip='5:44 1-10-NYG 16NYG 10 DAL 20 LI: 1.29-T.Romo pass short right to 17-D.Harris pushed ob at NYG 4 for 12 yards(23-C.Webster)Pass complete off "play action."'>39.27</number><number>0.06</number>
+<number shadow='shadow1' tooltip='5:03 1-4-NYG 4NYG 10 DAL 20 LI: 0.9(Shotgun) 9-T.Romo pass short middle to 82-J.Witten for 4 yards TOUCHDOWNPass complete on a "crossing pattern."'>39.95</number><number>0.05</number>
+<number shadow='shadow1' tooltip='5:03 NYG 10 DAL 20 LI: 5-D.Bailey extra point is GOOD Center-91-L.Ladouceur Holder-6-C.Jones.'>39.99</number><number>0.05</number>
+<number shadow='shadow1' tooltip='5:03 NYG 10 DAL 27 LI: 5-D.Bailey kicks 66 yards from DAL 35 to NYG -129-M.Cox Touchback.'>40.04</number><number>0.05</number>
+<number shadow='shadow1' tooltip='4:55 1-10-NYG 20NYG 10 DAL 27 LI: 0.310-E.Manning pass short right to 80-V.Cruz pushed ob at NYG 35 for 15 yards(39-B.Carr)Pass complete off "play action and roll right."'>40.08</number><number>0.05</number>
+<number shadow='shadow1' tooltip='4:23 1-10-NYG 35NYG 10 DAL 27 LI: 0.2(Shotgun) 10-E.Manning pass short left to 82-R.Randle ran ob at DAL 47 for 18 yards(24-M.Claiborne).'>40.62</number><number>0.06</number>
+<number shadow='shadow1' tooltip='3:51 1-10-DAL 47NYG 10 DAL 27 LI: 0.3(Shotgun) 10-E.Manning pass short left to 83-B.Myers pushed ob at DAL 45 for 2 yards(24-M.Claiborne) [94-D.Ware]DAL-24-M.Claiborne was injured during the playHis return is Questionable.'>41.15</number><number>0.04</number>
+<number shadow='shadow1' tooltip='3:15 2-8-DAL 45NYG 10 DAL 27 LI: 0.1(Shotgun) 10-E.Manning pass short left to 88-H.Nicks to DAL 34 for 11 yards(32-O.Scandrick)Pass complete on a "slant route."'>41.75</number><number>0.06</number>
+<number shadow='shadow1' tooltip='2:38 1-10-DAL 34NYG 10 DAL 27 LI: 0.3(Shotgun) 33-D.Scott left tackle to DAL 18 for 16 yards(42-B.Church).'>42.37</number><number>0.06</number>
+<number shadow='shadow1' tooltip='2:03 1-10-DAL 18NYG 10 DAL 27 LI: 0.4(Shotgun) 10-E.Manning pass incomplete short middle to 88-H.Nicks (32-O.Scandrick)Pass incomplete on a "slant route."'>42.95</number><number>0.07</number>
+<number shadow='shadow1' tooltip='1:57 2-10-DAL 18NYG 10 DAL 27 LI: 0.5(Shotgun) 10-E.Manning pass incomplete short left [99-G.Selvie]Pass thrown short.'>43.05</number><number>0.06</number>
+<number shadow='shadow1' tooltip='1:51 3-10-DAL 18NYG 10 DAL 27 LI: 0.4(Shotgun) 10-E.Manning pass deep middle to 80-V.Cruz for 18 yards TOUCHDOWN.'>43.15</number><number>0.13</number>
+<number shadow='shadow1' tooltip='1:51 NYG 10 DAL 27 LI: 3-J.Brown extra point is GOOD Center-51-Z.DeOssie Holder-5-S.Weatherford.'>43.19</number><number>0.13</number>
+<number shadow='shadow1' tooltip='1:51 NYG 17 DAL 27 LI: 3-J.Brown kicks 65 yards from NYG 35 to end zone TouchbackBall was kicked out of the end zone.'>43.24</number><number>0.14</number>
+<number shadow='shadow1' tooltip='1:44 1-10-DAL 20NYG 17 DAL 27 LI: 1.229-D.Murray left tackle to DAL 25 for 5 yards(57-J.Williams; 97-L.Joseph).'>43.27</number><number>0.13</number>
+<number shadow='shadow1' tooltip='1:08 2-5-DAL 25NYG 17 DAL 27 LI: 1.19-T.Romo pass short left to 88-D.Bryant to DAL 32 for 7 yards(31-A.Ross)PENALTY on NYG-97-L.Joseph Roughing the Passer 15 yards enforced at DAL 32.'>43.87</number><number>0.1</number>
+<number shadow='shadow1' tooltip='0:39 1-10-DAL 47NYG 17 DAL 27 LI: 19-T.Romo pass short right to 29-D.Murray to NYG 49 for 4 yards(95-S.Rogers).'>44.35</number><number>0.09</number>
+<number shadow='shadow1' tooltip='15:00 2-6-NYG 49NYG 17 DAL 27 LI: 1(Shotgun) 29-D.Murray left end to NYG 36 for 13 yards(26-A.Rolle).'>45</number><number>0.07</number>
+<number shadow='shadow1' tooltip='14:20 1-10-NYG 36NYG 17 DAL 27 LI: 0.99-T.Romo pass short right to 19-M.Austin to NYG 32 for 4 yards(26-A.Rolle).'>45.67</number><number>0.07</number>
+<number shadow='shadow1' tooltip='13:41 2-6-NYG 32NYG 17 DAL 27 LI: 0.729-D.Murray left end to NYG 31 for 1 yard(95-S.Rogers).'>46.32</number><number>0.07</number>
+<number shadow='shadow1' tooltip='12:54 3-5-NYG 31NYG 17 DAL 27 LI: 0.6(Shotgun) 9-T.Romo pass short left to 82-J.Witten to NYG 27 for 4 yards(21-R.Mundy).'>47.1</number><number>0.08</number>
+<number shadow='shadow1' tooltip='12:16 4-1-NYG 27NYG 17 DAL 27 LI: 0.4(Field Goal formation) 5-D.Bailey 45 yard field goal is GOOD Center-91-L.Ladouceur Holder-6-C.Jones.'>47.73</number><number>0.06</number>
+<number shadow='shadow1' tooltip='12:16 NYG 17 DAL 30 LI: 5-D.Bailey kicks 74 yards from DAL 35 to NYG -929-M.Cox Touchback.'>47.82</number><number>0.05</number>
+<number shadow='shadow1' tooltip='12:10 1-10-NYG 10NYG 17 DAL 30 LI: 0.3(Shotgun) 10-E.Manning pass short middle to 82-R.Randle to NYG 30 for 20 yards(39-B.Carr)Pass complete on a "post" pattern.'>47.83</number><number>0.07</number>
+<number shadow='shadow1' tooltip='11:35 1-10-NYG 30NYG 17 DAL 30 LI: 0.6(Shotgun) 10-E.Manning pass short middle to 88-H.Nicks to NYG 47 for 17 yards(32-O.Scandrick 97-J.Hatcher)Pass complete on a "slant route."'>48.42</number><number>0.09</number>
+<number shadow='shadow1' tooltip='10:49 1-10-NYG 47NYG 17 DAL 30 LI: 0.6(Shotgun) 10-E.Manning pass short middle to 82-R.Randle to DAL 31 for 22 yards(39-B.Carr)Pass complete on a "slant pattern."'>49.18</number><number>0.11</number>
+<number shadow='shadow1' tooltip='10:17 1-10-DAL 31NYG 17 DAL 30 LI: 0.8(Shotgun) 10-E.Manning pass short middle to 83-B.Myers to DAL 18 for 13 yards(39-B.Carr).'>49.72</number><number>0.12</number>
+<number shadow='shadow1' tooltip='9:44 1-10-DAL 18NYG 17 DAL 30 LI: 0.9(Shotgun) 10-E.Manning pass incomplete short right to 88-H.NicksPass incomplete on a deep sideline route; Carr closest defender.'>50.27</number><number>0.1</number>
+<number shadow='shadow1' tooltip='9:38 2-10-DAL 18NYG 17 DAL 30 LI: 0.7(Shotgun) 10-E.Manning pass short right to 33-D.Scott to DAL 10 for 8 yards(54-B.Carter)Screen pass.'>50.37</number><number>0.12</number>
+<number shadow='shadow1' tooltip='8:54 3-2-DAL 10NYG 17 DAL 30 LI: 0.9(Shotgun) 10-E.Manning pass short left to 80-V.Cruz for 10 yards TOUCHDOWNPass complete on a "corner" route.'>51.1</number><number>0.16</number>
+<number shadow='shadow1' tooltip='8:54 NYG 17 DAL 30 LI: 3-J.Brown extra point is GOOD Center-51-Z.DeOssie Holder-5-S.Weatherford.'>51.14</number><number>0.16</number>
+<number shadow='shadow1' tooltip='8:54 NYG 24 DAL 30 LI: 3-J.Brown kicks 74 yards from NYG 35 to DAL -983-T.Williams Touchback.'>51.19</number><number>0.17</number>
+<number shadow='shadow1' tooltip='8:47 1-10-DAL 20NYG 24 DAL 30 LI: 2.19-T.Romo pass incomplete short left to 29-D.MurrayTuck with heavy pressure on Romo.'>51.22</number><number>0.2</number>
+<number shadow='shadow1' tooltip='8:42 2-10-DAL 20NYG 24 DAL 30 LI: 1.89-T.Romo pass short middle to 29-D.Murray to DAL 28 for 8 yards(58-M.Herzlich).'>51.3</number><number>0.16</number>
+<number shadow='shadow1' tooltip='7:56 3-2-DAL 28NYG 24 DAL 30 LI: 2.1(No Huddle Shotgun) 9-T.Romo pass incomplete short right to 88-D.BryantPENALTY on NYG-31-A.Ross Defensive Pass Interference 7 yards enforced at DAL 28 - No Play.'>52.07</number><number>0.14</number>
+<number shadow='shadow1' tooltip='7:52 1-10-DAL 35NYG 24 DAL 30 LI: 2.2(No Huddle Shotgun) 9-T.Romo pass short right to 17-D.Harris to DAL 35 for no gain (24-T.Thomas)"Bubble screen."'>52.13</number><number>0.14</number>
+<number shadow='shadow1' tooltip='7:08 2-10-DAL 35NYG 24 DAL 30 LI: 2.1(Shotgun) 9-T.Romo sacked at DAL 27 for -8 yards(sack split by 91-J.Tuck and 97-L.Joseph).'>52.87</number><number>0.21</number>
+<number shadow='shadow1' tooltip='6:27 3-18-DAL 27NYG 24 DAL 30 LI: 1.5(Shotgun) 9-T.Romo sacked at DAL 16 for -11 yards(90-J.Pierre-Paul).'>53.55</number><number>0.26</number>
+<number shadow='shadow1' tooltip='6:03 4-29-DAL 16NYG 24 DAL 30 LI: 2(Punt formation) 6-C.Jones punts 53 yards to NYG 31 Center-91-L.Ladouceur82-R.Randle to NYG 45 for 14 yards(27-J.Wilcox; 58-K.Bosworth)Return middle inside the yardline markers.'>53.95</number><number>0.26</number>
+<number shadow='shadow1' tooltip='5:49 1-10-NYG 45NYG 24 DAL 30 LI: 1.3(Shotgun) 10-E.Manning pass incomplete short right to 33-D.ScottPass thrown "flat;" Carter closest defender.'>54.18</number><number>0.23</number>
+<number shadow='shadow1' tooltip='5:44 2-10-NYG 45NYG 24 DAL 30 LI: 1(Shotgun) 10-E.Manning pass incomplete short right to 88-H.NicksPass thrown incomplete at the Dallas 45; Carr closest defender.'>54.27</number><number>0.21</number>
+<number shadow='shadow1' tooltip='5:38 3-10-NYG 45NYG 24 DAL 30 LI: 0.7(Shotgun) 10-E.Manning sacked at NYG 38 for -7 yards(97-J.Hatcher).'>54.37</number><number>0.15</number>
+<number shadow='shadow1' tooltip='5:20 4-17-NYG 38NYG 24 DAL 30 LI: 0.7(Punt formation) 5-S.Weatherford punts 51 yards to DAL 11 Center-51-Z.DeOssie17-D.Harris to DAL 16 for 5 yards(51-Z.DeOssie).'>54.67</number><number>0.2</number>
+<number shadow='shadow1' tooltip='5:07 1-10-DAL 16NYG 24 DAL 30 LI: 3.629-D.Murray left end to DAL 28 for 12 yards(58-M.Herzlich).'>54.88</number><number>0.14</number>
+<number shadow='shadow1' tooltip='4:25 1-10-DAL 28NYG 24 DAL 30 LI: 1.829-D.Murray right end to DAL 30 for 2 yards(58-M.Herzlich).'>55.58</number><number>0.19</number>
+<number shadow='shadow1' tooltip='3:42 2-8-DAL 30NYG 24 DAL 30 LI: 129-D.Murray left end to DAL 34 for 4 yards(94-M.Kiwanuka).'>56.3</number><number>0.18</number>
+<number shadow='shadow1' tooltip='2:54 3-4-DAL 34NYG 24 DAL 30 LI: 1.2(Shotgun) 9-T.Romo pass short left to 88-D.Bryant to DAL 36 for 2 yards(21-R.Mundy)DAL-88-D.Bryant was injured during the playHis return is Questionable.'>57.1</number><number>0.26</number>
+<number shadow='shadow1' tooltip='2:49 4-2-DAL 36NYG 24 DAL 30 LI: 0.4(Punt formation) 6-C.Jones punts 47 yards to NYG 17 Center-91-L.Ladouceur fair catch by 82-R.Randle.'>57.18</number><number>0.25</number>
+<number shadow='shadow1' tooltip='2:41 1-10-NYG 17NYG 24 DAL 30 LI: 2.4(Shotgun) 10-E.Manning pass short middle to 33-D.Scott to NYG 22 for 5 yards(42-B.Church).'>57.32</number><number>0.19</number>
+<number shadow='shadow1' tooltip='2:19 2-5-NYG 22NYG 24 DAL 30 LI: 1.8(No Huddle Shotgun) 10-E.Manning pass incomplete short middle to 33-D.Scott.'>57.68</number><number>0.15</number>
+<number shadow='shadow1' tooltip='2:14 3-5-NYG 22NYG 24 DAL 30 LI: 1.4(Shotgun) 10-E.Manning pass deep middle to 82-R.Randle to NYG 48 for 26 yards(42-B.Church)Pass complete on a "post pattern."'>57.77</number><number>0.34</number>
+<number shadow='shadow1' tooltip='2:00 1-10-NYG 48NYG 24 DAL 30 LI: 2.8(Shotgun) 10-E.Manning pass short right intended for 33-D.Scott INTERCEPTED by 39-B.Carr at NYG 4939-B.Carr for 49 yards TOUCHDOWN.'>58</number><number>0.03</number>
+<number shadow='shadow1' tooltip='2:00 NYG 24 DAL 36 LI: 5-D.Bailey kicks 65 yards from DAL 35 to end zone TouchbackBall was kicked out of the end zone.'>58.09</number><number>0.01</number>
+<number shadow='shadow1' tooltip='1:50 1-10-NYG 20NYG 24 DAL 36 LI: 0.1(Shotgun) 10-E.Manning pass short right to 33-D.Scott pushed ob at NYG 26 for 6 yards(54-B.Carter).'>58.17</number><number>0.02</number>
+<number shadow='shadow1' tooltip='1:44 2-4-NYG 26NYG 24 DAL 36 LI: 0.1(Shotgun) 10-E.Manning pass short middle to 83-B.Myers to NYG 36 for 10 yards(54-B.Carter).'>58.27</number><number>0.02</number>
+<number shadow='shadow1' tooltip='1:27 1-10-NYG 36NYG 24 DAL 36 LI: 0.1(No Huddle Shotgun) 10-E.Manning pass short middle to 83-B.Myers to NYG 45 for 9 yards(50-S.Lee).'>58.55</number><number>0.01</number>
+<number shadow='shadow1' tooltip='1:04 2-1-NYG 45NYG 24 DAL 36 LI: 0.1(No Huddle Shotgun) 10-E.Manning pass short right to 83-B.Myers to DAL 36 for 19 yards(42-B.Church).'>58.93</number><number>0.01</number>
+<number shadow='shadow1' tooltip='0:56 1-10-DAL 36NYG 24 DAL 36 LI: 0.1(Shotgun) 10-E.Manning pass incomplete short left to 80-V.CruzShuffle pass; Scandrick closest defender; heavy pressure by Wilber'>59.07</number><number>0.01</number>
+<number shadow='shadow1' tooltip='0:48 2-10-DAL 36NYG 24 DAL 36 LI: 0.1(Shotgun) 10-E.Manning pass short right to 33-D.Scott to DAL 13 for 23 yards(42-B.Church).'>59.2</number><number>0.01</number>
+<number shadow='shadow1' tooltip='0:40 1-10-DAL 13NYG 24 DAL 36 LI: 0.1(Shotgun) 10-E.Manning pass short right to 33-D.Scott to DAL 4 for 9 yards(54-B.Carter).'>59.33</number><number>0.01</number>
+<number shadow='shadow1' tooltip='0:18 2-1-DAL 4NYG 24 DAL 36 LI: 0.1(No Huddle Shotgun) 10-E.Manning pass incomplete short middle to 83-B.Myers (50-S.Lee).'>59.7</number><number>0.01</number>
+<number shadow='shadow1' tooltip='0:16 3-1-DAL 4NYG 24 DAL 36 LI: 0.1(Shotgun) 10-E.Manning pass short middle to 83-B.Myers for 4 yards TOUCHDOWN.'>59.73</number><number>0.01</number>
+<number shadow='shadow1' tooltip='0:16 NYG 24 DAL 36 LI: 3-J.Brown extra point is GOOD Center-51-Z.DeOssie Holder-5-S.Weatherford.'>59.77</number><number>0.01</number>
+<number shadow='shadow1' tooltip='0:16 NYG 31 DAL 36 LI: 3-J.Brown kicks onside 11 yards from NYG 35 to NYG 4650-S.Lee (didn t try to advance) to NYG 46 for no gain.'>59.82</number><number>0.01</number>
+<number shadow='shadow1' tooltip='0:10 1-10-NYG 46NYG 31 DAL 36 LI: 1.19-T.Romo kneels to NYG 47 for -1 yards.'>59.83</number><number>0</number>
+<number>60</number><number>0</number>
+</row> </chart_data>
+       <draw>
+
+
+
+      <image x='45' y='298'  url='nfllogos/42x50png/NYG.gif'  layer='foreground' glow = 'glow1'/>
+      <image x='45' y='350'  url='nfllogos/42x50png/DAL.gif'     layer='foreground' glow = 'glow1'/>
+
+
+      <rect x='130' y='300' width='250' height='40' fill_color='003462' bevel='bevel1' />
+      <text x='135' y='300' width='250' height='40' h_align='left' v_align='middle' color='ffffff' shadow='shadow2' glow=''>New York Giants</text>
+
+      <rect x='130' y='350' width='250' height='40' fill_color='c0c0c0' bevel='bevel1'  />
+      <text x='135' y='350' width='250' height='40' h_align='left' v_align='middle' color='ffffff' shadow='shadow2' glow='winnerglow'>Dallas Cowboys</text>
+
+      <rect x='420' y='300' width='60' height='40' fill_color='003462' bevel='bevel1'  />
+      <text x='420' y='300' width='60' height='40' h_align='center' v_align='middle' color='ffffff' shadow='shadow2' transition='none' glow=''>31</text>
+
+      <rect x='420' y='350' width='60' height='40' fill_color='c0c0c0' bevel='bevel1' />
+      <text x='420' y='350' width='60' height='40' h_align='center' v_align='middle' color='ffffff' shadow='shadow2' transition='none' glow='winnerglow'>36</text>
+
+      <text x='-3' y='12'  width='60' height='40' h_align='center' v_align='middle' size='13' shadow='shadow2'>NYGWin </text>
+      <text x='-3' y='218' width='60' height='40' h_align='center' v_align='middle' size='13' shadow='shadow2'>DALWin </text>
+
+     
+              <rect x='540' y='300' width='100' height='35' fill_color='000000' fill_alpha='50'/>
+              <text x='540' y='300' width='100' height='35' h_align='center' v_align='middle' color='ffffff' size='15' shadow='shadow2' >Final</text>
+
+              <text x='540' y='340' width='40' h_align='center' color='000000' size='12' shadow='shadow2'>CBF</text>
+              <text x='600' y='340' width='40' h_align='center' color='000000' size='12' shadow='shadow2'>EI</text>
+
+              <rect x='540' y='360' width='40' height='30' fill_color='000000' fill_alpha='50' />
+              <text x='540' y='360' width='40' height='30' size='12' h_align='center' v_align='middle' color='FFFFFF' shadow='shadow2'>3</text>
+
+              <rect x='600' y='360' width='40' height='30' fill_color='000000' fill_alpha='50' />
+              <text x='600' y='360' width='40' height='30' size='12' h_align='center' v_align='middle' color='FFFFFF' shadow='shadow2'>4.8</text>
+
+              <text x='20' y='420' width='70' height='25' size='12' h_align='left' v_align='middle' color='000000' >9/8/2013</text>
+              <text x='100' y='420' width='200' height='25' size='12' h_align='left' v_align='middle' color='000000' >AT&T Stadium</text>
+
+   </draw></chart>

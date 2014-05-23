@@ -1,0 +1,292 @@
+
+<chart>
+   <license>ETAS9P33ESHO.945CWK-2XOI1X0-7L</license>
+   <chart_type>scatter</chart_type>
+   <chart_pref trend_thickness='0' line_thickness='3' point_size='0'/>
+
+   <series_color>
+      <color>ffff00</color>
+   </series_color>
+
+   <chart_rect x='45' y='20' width='630' height='230' positive_color='cacaca'  />
+
+  <chart_border top_thickness='0'
+                 bottom_thickness='0'
+                 left_thickness='0'
+                 right_thickness='0'
+                 color='000000'
+                 />
+
+   <tooltip font='Arial' bold='true' size='11' />
+
+   <chart_note type='flag'
+               color='000000'
+               alpha='90'
+               bold='FALSE'
+               size='10'
+               background_color='ffffe0'
+               background_alpha='50'
+               shadow='shadow2'
+               />
+
+   <chart_grid_h thickness='2' color='ffffff' type='dashed'  />
+   <chart_grid_v thickness='2' color='ffffff'   />
+		>
+
+   <legend layout='hide' />
+
+   <chart_guide horizontal='TRUE'
+             vertical='TRUE'
+             thickness='1'
+             color='006400'
+             alpha='100'
+             type='solid'
+             snap_h='TRUE'
+             snap_v='TRUE'
+             radius='3'
+             fill_color='006400'
+             fill_alpha='100'
+             line_color='006400'
+             line_alpha='80'
+             line_thickness='1'
+             text_h_alpha='50'
+             text_v_alpha='00'
+             suffix_h=' WP'
+             decimals='2'
+             bold='FALSE'
+             size='11'
+             text_color='FFFFFF'
+             background_color='006400'
+             />
+   <filter>
+      <shadow id='shadow1' distance='2' angle='60' blurX='5' blurY='5' alpha='50' />
+      <bevel id='bevel1' angle='45' blurX='5' blurY='5' distance='0' />
+      <glow id='glow1' color='ffffff' alpha='0' blurX='7' blurY='7' strength='6' quality='2' inner='FALSE' knockout='FALSE' />
+      <glow id='winnerglow' color='ffffff' alpha='0' blurX='7' blurY='7' strength='5' quality='2' inner='FALSE' knockout='FALSE' />
+   </filter>
+
+    <axis_value_label>
+         <string></string>
+          <string> </string>
+          <null/>
+          <string> </string>
+          <string></string>
+
+       </axis_value_label>
+		
+	   <axis_ticks category_ticks='false'/>
+
+       <axis_value min='0' max='1' steps='4'  decimals='2' show_min='true' size='13' shadow='shadow2' />     
+            <axis_category
+               min='0'
+               max='60'
+               steps='4'
+               mode='all'
+               decimals='0'
+               size='13'
+               shadow='shadow2'
+               />
+
+       <axis_category_label>
+          <string>Kickoff</string>
+          <string></string>
+          <string>Halftime</string>
+          <string></string>
+          <string>End</string>
+
+       </axis_category_label>
+
+
+        <chart_data>
+       <row>
+	      <null/><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number>
+              <number>x</number><number>y</number>
+              </row><row><string></string>
+
+                     <number shadow='shadow1'>0</number><number>.5</number><number shadow='shadow1' tooltip='15:00 SEA 0 SF 0 LI: 9-P.Dawson kicks 74 yards from SF 35 to SEA -922-R.Turbin Touchback.'>0.09</number><number>0.52</number>
+<number shadow='shadow1' tooltip='14:34 1-10-SEA 36SEA 0 SF 0 LI: 1.424-M.Lynch right guard to SEA 38 for 2 yards(91-R.McDonald 90-G.Dorsey).'>0.43</number><number>0.53</number>
+<number shadow='shadow1' tooltip='13:50 2-8-SEA 38SEA 0 SF 0 LI: 1.324-M.Lynch left tackle to SEA 44 for 6 yards(52-P.Willis).'>1.17</number><number>0.53</number>
+<number shadow='shadow1' tooltip='13:11 3-2-SEA 44SEA 0 SF 0 LI: 1.1(Shotgun) 3-R.Wilson sacked at SEA 36 for -8 yards(53-N.Bowman)FUMBLES (53-N.Bowman) ball out of bounds at SEA 32N.Bowman credited with 12-yd sack.'>1.82</number><number>0.47</number>
+<number shadow='shadow1' tooltip='12:52 4-14-SEA 32SEA 0 SF 0 LI: 0.89-J.Ryan punts 37 yards to SF 31 Center-49-C.Gresham fair catch by 23-L.James.'>2.13</number><number>0.46</number>
+<number shadow='shadow1' tooltip='12:44 1-10-SF 31SEA 0 SF 0 LI: 1.521-F.Gore up the middle to SF 31 for no gain (54-B.Wagner).'>2.27</number><number>0.49</number>
+<number shadow='shadow1' tooltip='12:04 2-10-SF 31SEA 0 SF 0 LI: 1.27-C.Kaepernick pass incomplete short left to 15-M.Crabtree.'>2.93</number><number>0.51</number>
+<number shadow='shadow1' tooltip='11:59 3-10-SF 31SEA 0 SF 0 LI: 1(Shotgun) 7-C.Kaepernick pass incomplete deep left to 82-M.Manningham (20-J.Lane).'>3.02</number><number>0.54</number>
+<number shadow='shadow1' tooltip='11:53 4-10-SF 31SEA 0 SF 0 LI: 0.74-A.Lee punts 54 yards to SEA 15 Center-47-K.McDermott81-G.Tate to SEA 27 for 12 yards(51-D.Skuta 35-E.Reid).'>3.12</number><number>0.53</number>
+<number shadow='shadow1' tooltip='11:43 1-10-SEA 27SEA 0 SF 0 LI: 1.5(Shotgun) 3-R.Wilson pass short left to 81-G.Tate to SEA 31 for 4 yards(52-P.Willis)Caught at SEA 30 1-yd YAC'>3.28</number><number>0.52</number>
+<number shadow='shadow1' tooltip='11:04 2-6-SEA 31SEA 0 SF 0 LI: 1.324-M.Lynch left end pushed ob at SEA 35 for 4 yards(31-D.Whitner).'>3.93</number><number>0.5</number>
+<number shadow='shadow1' tooltip='10:32 2-12-SEA 25SEA 0 SF 0 LI: 1.3(Shotgun) 3-R.Wilson pass short left to 24-M.Lynch to SEA 25 for no gain (35-E.Reid).'>4.47</number><number>0.52</number>
+<number shadow='shadow1' tooltip='10:07 2-7-SEA 30SEA 0 SF 0 LI: 1.43-R.Wilson pass incomplete short right to 82-L.Willson (30-E.Wright).'>4.88</number><number>0.5</number>
+<number shadow='shadow1' tooltip='10:01 3-7-SEA 30SEA 0 SF 0 LI: 1.2(Shotgun) 3-R.Wilson sacked at SEA 25 for -5 yards(94-J.Smith).'>4.98</number><number>0.48</number>
+<number shadow='shadow1' tooltip='9:56 4-12-SEA 25SEA 0 SF 0 LI: 0.99-J.Ryan punts 36 yards to SF 39 Center-49-C.Gresham fair catch by 23-L.James.'>5.07</number><number>0.45</number>
+<number shadow='shadow1' tooltip='9:48 1-10-SF 39SEA 0 SF 0 LI: 1.47-C.Kaepernick pass short right to 49-B.Miller to SF 46 for 7 yards(51-B.Irvin) [56-C.Avril]Caught at SF 40 6-yds YAC'>5.2</number><number>0.45</number>
+<number shadow='shadow1' tooltip='9:21 2-3-SF 46SEA 0 SF 0 LI: 1.332-K.Hunter right end to SEA 47 for 7 yards(31-K.Chancellor).'>5.65</number><number>0.43</number>
+<number shadow='shadow1' tooltip='8:41 1-10-SEA 47SEA 0 SF 0 LI: 1.37-C.Kaepernick pass short left to 81-A.Boldin to SEA 38 for 9 yards(41-B.Maxwell)Caught at SEA 38 0-yds YAC'>6.32</number><number>0.41</number>
+<number shadow='shadow1' tooltip='8:03 2-1-SEA 38SEA 0 SF 0 LI: 1.421-F.Gore right guard to SEA 31 for 7 yards(54-B.Wagner 91-C.Clemons).'>6.95</number><number>0.39</number>
+<number shadow='shadow1' tooltip='7:25 1-10-SEA 31SEA 0 SF 0 LI: 1.5(Shotgun) 7-C.Kaepernick pass incomplete short middle to 81-A.Boldin.'>7.58</number><number>0.41</number>
+<number shadow='shadow1' tooltip='7:21 2-10-SEA 31SEA 0 SF 0 LI: 1.37-C.Kaepernick pass deep left to 15-M.Crabtree to SEA 14 for 17 yards(41-B.Maxwell)Caught at SEA 15 1-yds YAC'>7.65</number><number>0.33</number>
+<number shadow='shadow1' tooltip='6:34 1-10-SEA 14SEA 0 SF 0 LI: 1.7D.Kilgore reported as eligible7-C.Kaepernick pass incomplete short left to 49-B.Miller.'>8.43</number><number>0.35</number>
+<number shadow='shadow1' tooltip='6:29 2-10-SEA 14SEA 0 SF 0 LI: 1.5(Shotgun) 7-C.Kaepernick scrambles left end to SEA 5 for 9 yards(54-B.Wagner).'>8.52</number><number>0.32</number>
+<number shadow='shadow1' tooltip='5:48 3-1-SEA 5SEA 0 SF 0 LI: 1.849-B.Miller up the middle to SEA 5 for no gain (92-B.Mebane 79-R.Bryant).'>9.2</number><number>0.41</number>
+<number shadow='shadow1' tooltip='5:07 4-1-SEA 5SEA 0 SF 0 LI: 0.99-P.Dawson 23 yard field goal is GOOD Center-47-K.McDermott Holder-4-A.Lee.'>9.88</number><number>0.42</number>
+<number shadow='shadow1' tooltip='5:07 SEA 0 SF 3 LI: 9-P.Dawson kicks 69 yards from SF 35 to SEA -422-R.Turbin to SEA 18 for 22 yards(27-C.Spillman 54-N.Moody).'>9.97</number><number>0.4</number>
+<number shadow='shadow1' tooltip='4:59 1-10-SEA 18SEA 0 SF 3 LI: 1.33-R.Wilson pass short right to 86-Z.Miller to SEA 31 for 13 yards(52-P.Willis)Caught at SEA 22 9-yds YAC'>10.02</number><number>0.43</number>
+<number shadow='shadow1' tooltip='4:24 1-10-SEA 31SEA 0 SF 3 LI: 1.3(Shotgun) 24-M.Lynch up the middle to SEA 35 for 4 yards(63-T.Jerod-Eddie 31-D.Whitner).'>10.6</number><number>0.43</number>
+<number shadow='shadow1' tooltip='3:50 2-6-SEA 35SEA 0 SF 3 LI: 1.3A.Bailey reported as eligible24-M.Lynch right end to SEA 36 for 1 yard(53-N.Bowman).'>11.17</number><number>0.42</number>
+<number shadow='shadow1' tooltip='3:05 3-5-SEA 36SEA 0 SF 3 LI: 1.1(Shotgun) 3-R.Wilson pass deep right to 81-G.Tate to SF 48 for 16 yards(30-E.Wright).'>11.92</number><number>0.39</number>
+<number shadow='shadow1' tooltip='2:33 3-15-SEA 26SEA 0 SF 3 LI: 1(Shotgun) 3-R.Wilson sacked at SEA 17 for -9 yards(91-R.McDonald).'>12.45</number><number>0.35</number>
+<number shadow='shadow1' tooltip='2:03 4-24-SEA 17SEA 0 SF 3 LI: 0.89-J.Ryan punt is BLOCKED by 14-K.Osgood Center-49-C.Gresham ball out of bounds at SEA 34.'>12.95</number><number>0.3</number>
+<number shadow='shadow1' tooltip='1:52 1-10-SEA 34SEA 0 SF 3 LI: 1.3(Shotgun) 21-F.Gore up the middle to SEA 30 for 4 yards(29-E.Thomas 50-K.Wright).'>13.13</number><number>0.31</number>
+<number shadow='shadow1' tooltip='1:14 2-6-SEA 30SEA 0 SF 3 LI: 1.2(Shotgun) 7-C.Kaepernick pass incomplete short right to 15-M.Crabtree.'>13.77</number><number>0.33</number>
+<number shadow='shadow1' tooltip='1:06 3-6-SEA 30SEA 0 SF 3 LI: 1(Shotgun) 7-C.Kaepernick pass incomplete short left to 82-M.Manningham (20-J.Lane).'>13.9</number><number>0.37</number>
+<number shadow='shadow1' tooltip='0:58 4-6-SEA 30SEA 0 SF 3 LI: 0.69-P.Dawson 48 yard field goal is GOOD Center-47-K.McDermott Holder-4-A.Lee.'>14.03</number><number>0.33</number>
+<number shadow='shadow1' tooltip='0:58 SEA 0 SF 6 LI: 9-P.Dawson kicks 74 yards from SF 35 to SEA -922-R.Turbin Touchback.'>14.12</number><number>0.32</number>
+<number shadow='shadow1' tooltip='0:22 2-6-SEA 24SEA 0 SF 6 LI: 1.3(Shotgun) 24-M.Lynch right tackle to SEA 26 for 2 yards(91-R.McDonald 90-G.Dorsey).'>14.63</number><number>0.31</number>
+<number shadow='shadow1' tooltip='15:00 3-4-SEA 26SEA 0 SF 6 LI: 1.3(Shotgun) 3-R.Wilson pass deep right to 82-L.Willson to SF 45 for 29 yards(31-D.Whitner)Caught at SEA 44 11-yds YAC'>15</number><number>0.37</number>
+<number shadow='shadow1' tooltip='14:23 1-10-SF 45SEA 0 SF 6 LI: 1.224-M.Lynch left tackle to SF 42 for 3 yards(53-N.Bowman).'>15.62</number><number>0.37</number>
+<number shadow='shadow1' tooltip='13:42 2-7-SF 42SEA 0 SF 6 LI: 1.13-R.Wilson pass incomplete deep right to 86-Z.Miller.'>16.3</number><number>0.35</number>
+<number shadow='shadow1' tooltip='13:35 3-7-SF 42SEA 0 SF 6 LI: 0.9(Shotgun) 3-R.Wilson pass short right to 81-G.Tate to SF 17 for 25 yards(52-P.Willis).'>16.42</number><number>0.41</number>
+<number shadow='shadow1' tooltip='12:59 1-10-SF 17SEA 0 SF 6 LI: 1(Shotgun) 24-M.Lynch up the middle to SF 11 for 6 yards(55-A.Brooks 22-C.Rogers).'>17.02</number><number>0.5</number>
+<number shadow='shadow1' tooltip='12:22 2-4-SF 11SEA 0 SF 6 LI: 1.824-M.Lynch left guard for 11 yards TOUCHDOWN.'>17.63</number><number>0.52</number>
+<number shadow='shadow1' tooltip='12:22 SEA 0 SF 6 LI: 4-S.Hauschka extra point is GOOD Center-49-C.Gresham Holder-9-J.Ryan.'>17.67</number><number>0.52</number>
+<number shadow='shadow1' tooltip='12:22 SEA 7 SF 6 LI: 4-S.Hauschka kicks 66 yards from SEA 35 to SF -123-L.James pushed ob at SF 26 for 27 yards(29-E.Thomas).'>17.72</number><number>0.53</number>
+<number shadow='shadow1' tooltip='12:11 1-10-SF 26SEA 7 SF 6 LI: 1.121-F.Gore right guard to SF 34 for 8 yards(25-R.Sherman 29-E.Thomas).'>17.82</number><number>0.51</number>
+<number shadow='shadow1' tooltip='11:36 2-2-SF 34SEA 7 SF 6 LI: 1.221-F.Gore left tackle to SF 35 for 1 yard(50-K.Wright)Officials call for measurement.'>18.4</number><number>0.51</number>
+<number shadow='shadow1' tooltip='11:06 3-1-SF 35SEA 7 SF 6 LI: 1.249-B.Miller up the middle to SF 39 for 4 yards(50-K.Wright 54-B.Wagner).'>18.9</number><number>0.5</number>
+<number shadow='shadow1' tooltip='10:28 1-10-SF 39SEA 7 SF 6 LI: 1.2(Shotgun) 7-C.Kaepernick pass incomplete short left to 82-M.Manningham (41-B.Maxwell).'>19.53</number><number>0.5</number>
+<number shadow='shadow1' tooltip='10:23 2-10-SF 39SEA 7 SF 6 LI: 1.2(Shotgun) 21-F.Gore right guard to SF 38 for -1 yards(79-R.Bryant).'>19.62</number><number>0.53</number>
+<number shadow='shadow1' tooltip='9:44 3-11-SF 38SEA 7 SF 6 LI: 0.9(Shotgun) 7-C.Kaepernick pass incomplete short right to 15-M.Crabtree [51-B.Irvin].'>20.27</number><number>0.49</number>
+<number shadow='shadow1' tooltip='9:37 1-10-SF 43SEA 7 SF 6 LI: 1.27-C.Kaepernick pass deep left to 81-A.Boldin to SEA 37 for 20 yards(41-B.Maxwell)Caught at SEA 39 2-yds YAC'>20.38</number><number>0.45</number>
+<number shadow='shadow1' tooltip='8:53 1-10-SEA 37SEA 7 SF 6 LI: 1.2(Shotgun) 7-C.Kaepernick scrambles left end to SEA 34 for 3 yards(91-C.Clemons).'>21.12</number><number>0.44</number>
+<number shadow='shadow1' tooltip='8:11 2-7-SEA 34SEA 7 SF 6 LI: 1.27-C.Kaepernick pass incomplete deep left to 15-M.Crabtree (41-B.Maxwell).'>21.82</number><number>0.46</number>
+<number shadow='shadow1' tooltip='8:05 3-7-SEA 34SEA 7 SF 6 LI: 1(Shotgun) 7-C.Kaepernick pass incomplete short right to 82-M.Manningham (20-J.Lane).'>21.92</number><number>0.5</number>
+<number shadow='shadow1' tooltip='8:01 4-7-SEA 34SEA 7 SF 6 LI: 0.69-P.Dawson 52 yard field goal is GOOD Center-47-K.McDermott Holder-4-A.Lee.'>21.98</number><number>0.44</number>
+<number shadow='shadow1' tooltip='8:01 SEA 7 SF 9 LI: 9-P.Dawson kicks 64 yards from SF 35 to SEA 122-R.Turbin to SEA 28 for 27 yards(32-K.Hunter)SEA-32-J.Johnson was injured during the play.'>22.07</number><number>0.44</number>
+<number shadow='shadow1' tooltip='7:48 1-10-SEA 28SEA 7 SF 9 LI: 1.1(Shotgun) 24-M.Lynch left tackle to SEA 33 for 5 yards(53-N.Bowman).'>22.2</number><number>0.45</number>
+<number shadow='shadow1' tooltip='7:08 2-5-SEA 33SEA 7 SF 9 LI: 1.1(Shotgun) 3-R.Wilson pass short right to 89-D.Baldwin to SEA 47 for 14 yards(22-C.Rogers)Caught at SEA 40 7-yds YAC'>22.87</number><number>0.48</number>
+<number shadow='shadow1' tooltip='6:27 1-10-SEA 47SEA 7 SF 9 LI: 1.222-R.Turbin left tackle to SF 45 for 8 yards(55-A.Brooks 31-D.Whitner).'>23.55</number><number>0.5</number>
+<number shadow='shadow1' tooltip='5:50 2-2-SF 45SEA 7 SF 9 LI: 1.3(Shotgun) 24-M.Lynch right guard to SF 45 for no gain (53-N.Bowman).'>24.17</number><number>0.48</number>
+<number shadow='shadow1' tooltip='5:10 3-2-SF 45SEA 7 SF 9 LI: 1.1(Shotgun) 3-R.Wilson pass short middle to 81-G.Tate to SF 41 for 4 yards(35-E.Reid)Caught at SF 43 2-yds YAC'>24.83</number><number>0.52</number>
+<number shadow='shadow1' tooltip='4:33 1-10-SF 41SEA 7 SF 9 LI: 1.424-M.Lynch left tackle to SF 39 for 2 yards(51-D.Skuta).'>25.45</number><number>0.51</number>
+<number shadow='shadow1' tooltip='3:55 2-8-SF 39SEA 7 SF 9 LI: 1.33-R.Wilson pass deep right to 82-L.Willson for 39 yards TOUCHDOWNCaught at SF 20 20-yds YAC'>26.08</number><number>0.66</number>
+<number shadow='shadow1' tooltip='3:55 SEA 7 SF 9 LI: 4-S.Hauschka extra point is GOOD Center-49-C.Gresham Holder-9-J.Ryan.'>26.12</number><number>0.66</number>
+<number shadow='shadow1' tooltip='3:55 SEA 14 SF 9 LI: 4-S.Hauschka kicks 68 yards from SEA 35 to SF -323-L.James to SF 28 for 31 yards(42-C.Maragos 20-J.Lane).'>26.17</number><number>0.66</number>
+<number shadow='shadow1' tooltip='3:39 1-10-SF 28SEA 14 SF 9 LI: 1.17-C.Kaepernick scrambles left end to SF 30 for 2 yards.'>26.35</number><number>0.67</number>
+<number shadow='shadow1' tooltip='2:57 2-8-SF 30SEA 14 SF 9 LI: 17-C.Kaepernick pass incomplete deep left to 15-M.Crabtree.'>27.05</number><number>0.64</number>
+<number shadow='shadow1' tooltip='2:51 1-10-SF 35SEA 14 SF 9 LI: 1.221-F.Gore left tackle to SF 38 for 3 yards(53-M.Smith).'>27.15</number><number>0.65</number>
+<number shadow='shadow1' tooltip='2:13 2-7-SF 38SEA 14 SF 9 LI: 1.17-C.Kaepernick pass short right to 81-A.Boldin to SF 48 for 10 yards(29-E.Thomas)Caught at SF 48 0-yds YAC'>27.78</number><number>0.62</number>
+<number shadow='shadow1' tooltip='2:00 1-10-SF 48SEA 14 SF 9 LI: 1.2PENALTY on SF-75-A.Boone False Start 5 yards enforced at SF 48 - No Play.'>28</number><number>0.63</number>
+<number shadow='shadow1' tooltip='1:21 2-4-SEA 46SEA 14 SF 9 LI: 1.27-C.Kaepernick pass deep right to 81-A.Boldin to SEA 19 for 27 yards(25-R.Sherman).'>28.65</number><number>0.55</number>
+<number shadow='shadow1' tooltip='1:13 1-10-SEA 19SEA 14 SF 9 LI: 1.57-C.Kaepernick pass short left to 85-V.Davis to SEA 6 for 13 yards(51-B.Irvin)Caught at SEA 15 6-yds YAC'>28.78</number><number>0.48</number>
+<number shadow='shadow1' tooltip='1:04 1-6-SEA 6SEA 14 SF 9 LI: 2.17-C.Kaepernick pass incomplete short left to 85-V.Davis.'>28.93</number><number>0.48</number>
+<number shadow='shadow1' tooltip='0:57 2-6-SEA 6SEA 14 SF 9 LI: 2.1(Shotgun) 7-C.Kaepernick pass incomplete short right to 15-M.Crabtree.'>29.05</number><number>0.56</number>
+<number shadow='shadow1' tooltip='0:53 2-16-SEA 16SEA 14 SF 9 LI: 1.3(Shotgun) 21-F.Gore up the middle to SEA 8 for 8 yards(69-C.McDonald).'>29.12</number><number>0.53</number>
+<number shadow='shadow1' tooltip='0:10 3-8-SEA 8SEA 14 SF 9 LI: 1.6(Shotgun) 7-C.Kaepernick pass short left to 85-V.Davis for 8 yards TOUCHDOWNCaught at SEA 2 2-yds YAC'>29.83</number><number>0.43</number>
+<number shadow='shadow1' tooltip='0:10 SEA 14 SF 9 LI: 9-P.Dawson extra point is GOOD Center-47-K.McDermott Holder-4-A.Lee.'>29.87</number><number>0.43</number>
+<number shadow='shadow1' tooltip='0:10 SEA 14 SF 16 LI: 9-P.Dawson kicks 45 yards from SF 35 to SEA 2082-L.Willson to SEA 35 for 15 yards(41-R.Ventrone).'>29.92</number><number>0.43</number>
+<number shadow='shadow1' tooltip='14:55 1-10-SF 18SEA 14 SF 16 LI: 1.67-C.Kaepernick pass incomplete short left to 49-B.Miller.'>30.08</number><number>0.43</number>
+<number shadow='shadow1' tooltip='14:52 2-10-SF 18SEA 14 SF 16 LI: 1.521-F.Gore right guard to SF 26 for 8 yards(79-R.Bryant).'>30.13</number><number>0.41</number>
+<number shadow='shadow1' tooltip='14:07 3-2-SF 26SEA 14 SF 16 LI: 1.5(Shotgun) 7-C.Kaepernick pass short left to 15-M.Crabtree to SF 39 for 13 yards(20-J.Lane)Caught at SF 28 11-yds YAC'>30.88</number><number>0.37</number>
+<number shadow='shadow1' tooltip='13:11 1-10-SF 39SEA 14 SF 16 LI: 1.57-C.Kaepernick scrambles right end to SF 45 for 6 yards(54-B.Wagner).'>31.82</number><number>0.36</number>
+<number shadow='shadow1' tooltip='12:32 2-4-SF 45SEA 14 SF 16 LI: 1.421-F.Gore up the middle to SF 47 for 2 yards(54-B.Wagner).'>32.47</number><number>0.36</number>
+<number shadow='shadow1' tooltip='11:52 3-2-SF 47SEA 14 SF 16 LI: 1.3(Shotgun) 7-C.Kaepernick left end to SF 40 for -7 yards(53-M.Smith).'>33.13</number><number>0.4</number>
+<number shadow='shadow1' tooltip='11:19 4-9-SF 40SEA 14 SF 16 LI: 1.14-A.Lee punts 42 yards to SEA 18 Center-47-K.McDermott fair catch by 81-G.Tate.'>33.68</number><number>0.39</number>
+<number shadow='shadow1' tooltip='11:11 1-10-SEA 18SEA 14 SF 16 LI: 1.1(Shotgun) 3-R.Wilson pass incomplete short left to 86-Z.Miller.'>33.82</number><number>0.4</number>
+<number shadow='shadow1' tooltip='11:07 2-10-SEA 18SEA 14 SF 16 LI: 1.2(Shotgun) 24-M.Lynch up the middle to SEA 25 for 7 yards(91-R.McDonald).'>33.88</number><number>0.4</number>
+<number shadow='shadow1' tooltip='10:27 3-3-SEA 25SEA 14 SF 16 LI: 1.1(Shotgun) 3-R.Wilson pass short left to 15-J.Kearse to SEA 31 for 6 yards(22-C.Rogers)Caught at SEA 30 1-yd YAC'>34.55</number><number>0.43</number>
+<number shadow='shadow1' tooltip='9:45 1-10-SEA 31SEA 14 SF 16 LI: 1.2(Shotgun) 3-R.Wilson pass short right to 89-D.Baldwin pushed ob at SEA 45 for 14 yards(35-E.Reid)Caught at SEA 39 6-yds YAC'>35.25</number><number>0.47</number>
+<number shadow='shadow1' tooltip='9:13 1-10-SEA 45SEA 14 SF 16 LI: 1.422-R.Turbin left guard to SEA 49 for 4 yards(55-A.Brooks).'>35.78</number><number>0.47</number>
+<number shadow='shadow1' tooltip='8:31 2-6-SEA 49SEA 14 SF 16 LI: 1.4(Shotgun) 24-M.Lynch right guard to SF 48 for 3 yards(51-D.Skuta 53-N.Bowman).'>36.48</number><number>0.46</number>
+<number shadow='shadow1' tooltip='7:48 3-3-SF 48SEA 14 SF 16 LI: 1.2(Shotgun) 3-R.Wilson pass incomplete short left to 81-G.Tate (26-T.Brock).'>37.2</number><number>0.4</number>
+<number shadow='shadow1' tooltip='7:43 4-3-SF 48SEA 14 SF 16 LI: 0.69-J.Ryan punts 31 yards to SF 17 Center-49-C.Gresham fair catch by 23-L.James.'>37.28</number><number>0.37</number>
+<number shadow='shadow1' tooltip='7:35 1-10-SF 32SEA 14 SF 16 LI: 1.6(Shotgun) 32-K.Hunter up the middle to SF 34 for 2 yards(69-C.McDonald).'>37.42</number><number>0.38</number>
+<number shadow='shadow1' tooltip='6:58 2-8-SF 34SEA 14 SF 16 LI: 1.57-C.Kaepernick pass short left to 81-A.Boldin pushed ob at SF 43 for 9 yards(41-B.Maxwell)Caught at SF 43 0-yds YAC'>38.03</number><number>0.35</number>
+<number shadow='shadow1' tooltip='6:27 1-10-SF 43SEA 14 SF 16 LI: 1.57-C.Kaepernick pass short right to 15-M.Crabtree ran ob at SF 47 for 4 yardsCaught at SF 47 0-yds YAC'>38.55</number><number>0.35</number>
+<number shadow='shadow1' tooltip='5:51 2-6-SF 47SEA 14 SF 16 LI: 1.421-F.Gore right guard to SEA 38 for 15 yards(51-B.Irvin).'>39.15</number><number>0.31</number>
+<number shadow='shadow1' tooltip='5:06 1-10-SEA 38SEA 14 SF 16 LI: 1.57-C.Kaepernick pass short left to 81-A.Boldin to SEA 20 for 18 yards(54-B.Wagner)Caught at SEA25  5-yds YAC'>39.9</number><number>0.26</number>
+<number shadow='shadow1' tooltip='4:16 1-10-SEA 20SEA 14 SF 16 LI: 1.67-C.Kaepernick pass deep left intended for 15-M.Crabtree INTERCEPTED by 41-B.Maxwell at SEA 141-B.Maxwell to SEA 3 for 2 yards(49-B.Miller).'>40.73</number><number>0.4</number>
+<number shadow='shadow1' tooltip='4:07 1-10-SEA 3SEA 14 SF 16 LI: 1.824-M.Lynch right end to SEA 7 for 4 yards(22-C.Rogers).'>40.88</number><number>0.43</number>
+<number shadow='shadow1' tooltip='3:40 1-10-SEA 22SEA 14 SF 16 LI: 1.63-R.Wilson pass short right to 81-G.Tate to SEA 30 for 8 yards(22-C.Rogers)Caught at SEA 30 0-yds YAC'>41.33</number><number>0.44</number>
+<number shadow='shadow1' tooltip='2:53 2-2-SEA 30SEA 14 SF 16 LI: 1.6(Shotgun) 3-R.Wilson pass short right to 89-D.Baldwin to SEA 38 for 8 yards(22-C.Rogers)Caught at SEA 38 0-yds YAC'>42.12</number><number>0.47</number>
+<number shadow='shadow1' tooltip='2:10 1-10-SEA 38SEA 14 SF 16 LI: 1.724-M.Lynch left end to SF 42 for 20 yards(35-E.Reid).'>42.83</number><number>0.43</number>
+<number shadow='shadow1' tooltip='1:38 1-25-SEA 23SEA 14 SF 16 LI: 1.6(Shotgun) 3-R.Wilson pass incomplete short middle to 22-R.Turbin (55-A.Brooks).'>43.37</number><number>0.37</number>
+<number shadow='shadow1' tooltip='1:31 2-25-SEA 23SEA 14 SF 16 LI: 1(Shotgun) 3-R.Wilson scrambles up the middle to SEA 25 for 2 yards.'>43.48</number><number>0.36</number>
+<number shadow='shadow1' tooltip='0:49 3-23-SEA 25SEA 14 SF 16 LI: 0.93-R.Wilson pass short right to 81-G.Tate to SEA 33 for 8 yards(53-N.Bowman)SF-30-E.Wright was injured during the playHis return is Questionable Caught at SEA 24 9-yds YAC'>44.18</number><number>0.37</number>
+<number shadow='shadow1' tooltip='0:30 4-15-SEA 33SEA 14 SF 16 LI: 0.99-J.Ryan punts 35 yards to SF 32 Center-49-C.Gresham fair catch by 23-L.James.'>44.5</number><number>0.33</number>
+<number shadow='shadow1' tooltip='0:23 1-10-SF 47SEA 14 SF 16 LI: 1.77-C.Kaepernick pass incomplete short left to 21-F.Gore.'>44.62</number><number>0.35</number>
+<number shadow='shadow1' tooltip='0:18 2-10-SF 47SEA 14 SF 16 LI: 1.521-F.Gore up the middle to SF 46 for -1 yards(56-C.Avril).'>44.7</number><number>0.38</number>
+<number shadow='shadow1' tooltip='15:00 3-11-SF 46SEA 14 SF 16 LI: 1.3(Shotgun) 7-C.Kaepernick sacked at SF 35 for -11 yards(91-C.Clemons).'>45</number><number>0.44</number>
+<number shadow='shadow1' tooltip='14:25 4-22-SF 35SEA 14 SF 16 LI: 0.94-A.Lee punts 49 yards to SEA 16 Center-47-K.McDermott81-G.Tate to SEA 15 for -1 yards(35-E.Reid).'>45.58</number><number>0.45</number>
+<number shadow='shadow1' tooltip='14:15 1-10-SEA 30SEA 14 SF 16 LI: 1.8(Shotgun) 24-M.Lynch right guard to SEA 33 for 3 yards(53-N.Bowman 52-P.Willis).'>45.75</number><number>0.43</number>
+<number shadow='shadow1' tooltip='13:36 2-7-SEA 33SEA 14 SF 16 LI: 1.63-R.Wilson pass short left to 82-L.Willson to SEA 35 for 2 yards(22-C.Rogers)Caught at SEA 33 2-yds YAC'>46.4</number><number>0.42</number>
+<number shadow='shadow1' tooltip='12:56 3-5-SEA 35SEA 14 SF 16 LI: 1.4(Shotgun) 3-R.Wilson pass incomplete short left to 81-G.Tate.'>47.07</number><number>0.36</number>
+<number shadow='shadow1' tooltip='12:47 4-5-SEA 35SEA 14 SF 16 LI: 0.8(Punt formation) PENALTY on SEA-55-H.Farwell False Start 5 yards enforced at SEA 35 - No Play.'>47.22</number><number>0.36</number>
+<number shadow='shadow1' tooltip='12:36 1-10-SF 13SEA 14 SF 16 LI: 2.67-C.Kaepernick scrambles left end pushed ob at SF 21 for 8 yards(51-B.Irvin).'>47.4</number><number>0.38</number>
+<number shadow='shadow1' tooltip='12:06 2-2-SF 21SEA 14 SF 16 LI: 1.932-K.Hunter up the middle to SF 27 for 6 yards(31-K.Chancellor).'>47.9</number><number>0.35</number>
+<number shadow='shadow1' tooltip='11:29 1-10-SF 27SEA 14 SF 16 LI: 2.27-C.Kaepernick pass incomplete short left to 81-A.Boldin.'>48.52</number><number>0.37</number>
+<number shadow='shadow1' tooltip='11:22 2-10-SF 27SEA 14 SF 16 LI: 27-C.Kaepernick pass short left to 49-B.Miller to SF 30 for 3 yards(51-B.Irvin)Caught at SF 28 2-yds YAC'>48.63</number><number>0.38</number>
+<number shadow='shadow1' tooltip='10:43 3-7-SF 30SEA 14 SF 16 LI: 1.9(Shotgun) 7-C.Kaepernick pass short right to 81-A.Boldin to SF 45 for 15 yards(29-E.Thomas).'>49.28</number><number>0.45</number>
+<number shadow='shadow1' tooltip='10:08 3-17-SF 20SEA 14 SF 16 LI: 1.5(Shotgun) 7-C.Kaepernick sacked at SF 11 for -9 yards(69-C.McDonald).'>49.87</number><number>0.53</number>
+<number shadow='shadow1' tooltip='9:34 4-26-SF 11SEA 14 SF 16 LI: 1.54-A.Lee punts 54 yards to SEA 35 Center-47-K.McDermott81-G.Tate to SF 27 for 38 yards(41-R.Ventrone 14-K.Osgood).'>50.43</number><number>0.6</number>
+<number shadow='shadow1' tooltip='9:17 1-10-SF 27SEA 14 SF 16 LI: 2.6(Shotgun) 3-R.Wilson pass incomplete deep right to 15-J.Kearse (31-D.Whitner).'>50.72</number><number>0.58</number>
+<number shadow='shadow1' tooltip='9:12 2-10-SF 27SEA 14 SF 16 LI: 2.424-M.Lynch up the middle to SF 24 for 3 yards(90-G.Dorsey).'>50.8</number><number>0.57</number>
+<number shadow='shadow1' tooltip='8:30 3-7-SF 24SEA 14 SF 16 LI: 2.3(Shotgun) 3-R.Wilson pass short right to 15-J.Kearse to SF 15 for 9 yards(55-A.Brooks 40-D.Morris)Caught at SF 17 2-yds YAC'>51.5</number><number>0.64</number>
+<number shadow='shadow1' tooltip='7:55 1-10-SF 15SEA 14 SF 16 LI: 2.824-M.Lynch up the middle to SF 13 for 2 yards(55-A.Brooks).'>52.08</number><number>0.69</number>
+<number shadow='shadow1' tooltip='7:16 2-8-SF 13SEA 14 SF 16 LI: 3.3(Shotgun) 24-M.Lynch up the middle to SF 13 for no gain (99-A.Smith 35-E.Reid).'>52.73</number><number>0.64</number>
+<number shadow='shadow1' tooltip='6:32 3-8-SF 13SEA 14 SF 16 LI: 2.83-R.Wilson pass incomplete short left to 15-J.Kearse.'>53.47</number><number>0.54</number>
+<number shadow='shadow1' tooltip='6:25 4-8-SF 13SEA 14 SF 16 LI: 1.84-S.Hauschka 31 yard field goal is GOOD Center-49-C.Gresham Holder-9-J.Ryan.'>53.58</number><number>0.54</number>
+<number shadow='shadow1' tooltip='6:25 SEA 17 SF 16 LI: 4-S.Hauschka kicks 65 yards from SEA 35 to end zone Touchback.'>53.67</number><number>0.57</number>
+<number shadow='shadow1' tooltip='5:39 2-7-SF 23SEA 17 SF 16 LI: 2.87-C.Kaepernick pass short left to 15-M.Crabtree to SF 29 for 6 yards(41-B.Maxwell 51-B.Irvin)Caught at SF 28 1-yd YAC'>54.35</number><number>0.53</number>
+<number shadow='shadow1' tooltip='4:58 3-1-SF 29SEA 17 SF 16 LI: 3.449-B.Miller right guard to SF 31 for 2 yards(31-K.Chancellor).'>55.03</number><number>0.45</number>
+<number shadow='shadow1' tooltip='4:21 1-10-SF 31SEA 17 SF 16 LI: 4.621-F.Gore left tackle pushed ob at SEA 18 for 51 yards(25-R.Sherman).'>55.65</number><number>0.18</number>
+<number shadow='shadow1' tooltip='3:37 1-10-SEA 18SEA 17 SF 16 LI: 6.132-K.Hunter right guard to SEA 17 for 1 yard(31-K.Chancellor 53-M.Smith).'>56.38</number><number>0.26</number>
+<number shadow='shadow1' tooltip='3:30 2-9-SEA 17SEA 17 SF 16 LI: 5.421-F.Gore right guard to SEA 15 for 2 yards(92-B.Mebane).'>56.5</number><number>0.39</number>
+<number shadow='shadow1' tooltip='3:24 3-7-SEA 15SEA 17 SF 16 LI: 4.3(Shotgun) 7-C.Kaepernick left end to SEA 7 for 8 yards(54-B.Wagner).'>56.6</number><number>0.13</number>
+<number shadow='shadow1' tooltip='2:39 1-7-SEA 7SEA 17 SF 16 LI: 7.321-F.Gore right guard to SEA 8 for -1 yards(31-K.Chancellor).'>57.35</number><number>0.19</number>
+<number shadow='shadow1' tooltip='2:00 2-8-SEA 8SEA 17 SF 16 LI: 7.221-F.Gore up the middle to SEA 6 for 2 yards(53-M.Smith 54-B.Wagner).'>58</number><number>0.14</number>
+<number shadow='shadow1' tooltip='1:15 3-6-SEA 6SEA 17 SF 16 LI: 8.221-F.Gore up the middle to SEA 4 for 2 yards(29-E.Thomas).'>58.75</number><number>0.1</number>
+<number shadow='shadow1' tooltip='0:31 4-4-SEA 4SEA 17 SF 16 LI: 8.99-P.Dawson 22 yard field goal is GOOD Center-47-K.McDermott Holder-4-A.Lee.'>59.48</number><number>0.13</number>
+<number shadow='shadow1' tooltip='0:31 SEA 17 SF 19 LI: 9-P.Dawson kicks 64 yards from SF 35 to SEA 181-G.Tate to SEA 16 for 15 yards(41-R.Ventrone).'>59.57</number><number>0.04</number>
+<number shadow='shadow1' tooltip='0:21 1-10-SEA 16SEA 17 SF 19 LI: 0.3(Shotgun) 3-R.Wilson pass deep right intended for 15-J.Kearse INTERCEPTED by 30-E.Wright at SF 2030-E.Wright to SF 20 for no gain (15-J.Kearse).'>59.65</number><number>0.01</number>
+<number shadow='shadow1' tooltip='0:09 1-10-SF 20SEA 17 SF 19 LI: 6.77-C.Kaepernick kneels to SF 19 for -1 yards.'>59.85</number><number>0</number>
+<number>60</number><number>0</number>
+</row> </chart_data>
+       <draw>
+
+
+
+      <image x='45' y='298'  url='nfllogos/42x50png/SEA.gif'  layer='foreground' glow = 'glow1'/>
+      <image x='45' y='350'  url='nfllogos/42x50png/SF.gif'     layer='foreground' glow = 'glow1'/>
+
+
+      <rect x='130' y='300' width='250' height='40' fill_color='283e67' bevel='bevel1' />
+      <text x='135' y='300' width='250' height='40' h_align='left' v_align='middle' color='ffffff' shadow='shadow2' glow=''>Seattle Seahawks</text>
+
+      <rect x='130' y='350' width='250' height='40' fill_color='a9293d' bevel='bevel1'  />
+      <text x='135' y='350' width='250' height='40' h_align='left' v_align='middle' color='ffffff' shadow='shadow2' glow='winnerglow'>San Francisco 49ers</text>
+
+      <rect x='420' y='300' width='60' height='40' fill_color='283e67' bevel='bevel1'  />
+      <text x='420' y='300' width='60' height='40' h_align='center' v_align='middle' color='ffffff' shadow='shadow2' transition='none' glow=''>17</text>
+
+      <rect x='420' y='350' width='60' height='40' fill_color='a9293d' bevel='bevel1' />
+      <text x='420' y='350' width='60' height='40' h_align='center' v_align='middle' color='ffffff' shadow='shadow2' transition='none' glow='winnerglow'>19</text>
+
+      <text x='-3' y='12'  width='60' height='40' h_align='center' v_align='middle' size='13' shadow='shadow2'>SEAWin </text>
+      <text x='-3' y='218' width='60' height='40' h_align='center' v_align='middle' size='13' shadow='shadow2'>SFWin </text>
+
+     
+              <rect x='540' y='300' width='100' height='35' fill_color='000000' fill_alpha='50'/>
+              <text x='540' y='300' width='100' height='35' h_align='center' v_align='middle' color='ffffff' size='15' shadow='shadow2' >Final</text>
+
+              <text x='540' y='340' width='40' h_align='center' color='000000' size='12' shadow='shadow2'>CBF</text>
+              <text x='600' y='340' width='40' h_align='center' color='000000' size='12' shadow='shadow2'>EI</text>
+
+              <rect x='540' y='360' width='40' height='30' fill_color='000000' fill_alpha='50' />
+              <text x='540' y='360' width='40' height='30' size='12' h_align='center' v_align='middle' color='FFFFFF' shadow='shadow2'>3</text>
+
+              <rect x='600' y='360' width='40' height='30' fill_color='000000' fill_alpha='50' />
+              <text x='600' y='360' width='40' height='30' size='12' h_align='center' v_align='middle' color='FFFFFF' shadow='shadow2'>5.0</text>
+
+              <text x='20' y='420' width='70' height='25' size='12' h_align='left' v_align='middle' color='000000' >12/8/2013</text>
+              <text x='100' y='420' width='200' height='25' size='12' h_align='left' v_align='middle' color='000000' >Candlestick Park</text>
+
+   </draw></chart>

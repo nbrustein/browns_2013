@@ -1,0 +1,319 @@
+
+<chart>
+   <license>ETAS9P33ESHO.945CWK-2XOI1X0-7L</license>
+   <chart_type>scatter</chart_type>
+   <chart_pref trend_thickness='0' line_thickness='3' point_size='0'/>
+
+   <series_color>
+      <color>ffff00</color>
+   </series_color>
+
+   <chart_rect x='45' y='20' width='630' height='230' positive_color='cacaca'  />
+
+  <chart_border top_thickness='0'
+                 bottom_thickness='0'
+                 left_thickness='0'
+                 right_thickness='0'
+                 color='000000'
+                 />
+
+   <tooltip font='Arial' bold='true' size='11' />
+
+   <chart_note type='flag'
+               color='000000'
+               alpha='90'
+               bold='FALSE'
+               size='10'
+               background_color='ffffe0'
+               background_alpha='50'
+               shadow='shadow2'
+               />
+
+   <chart_grid_h thickness='2' color='ffffff' type='dashed'  />
+   <chart_grid_v thickness='2' color='ffffff'   />
+		>
+
+   <legend layout='hide' />
+
+   <chart_guide horizontal='TRUE'
+             vertical='TRUE'
+             thickness='1'
+             color='006400'
+             alpha='100'
+             type='solid'
+             snap_h='TRUE'
+             snap_v='TRUE'
+             radius='3'
+             fill_color='006400'
+             fill_alpha='100'
+             line_color='006400'
+             line_alpha='80'
+             line_thickness='1'
+             text_h_alpha='50'
+             text_v_alpha='00'
+             suffix_h=' WP'
+             decimals='2'
+             bold='FALSE'
+             size='11'
+             text_color='FFFFFF'
+             background_color='006400'
+             />
+   <filter>
+      <shadow id='shadow1' distance='2' angle='60' blurX='5' blurY='5' alpha='50' />
+      <bevel id='bevel1' angle='45' blurX='5' blurY='5' distance='0' />
+      <glow id='glow1' color='ffffff' alpha='0' blurX='7' blurY='7' strength='6' quality='2' inner='FALSE' knockout='FALSE' />
+      <glow id='winnerglow' color='ffffff' alpha='0' blurX='7' blurY='7' strength='5' quality='2' inner='FALSE' knockout='FALSE' />
+   </filter>
+
+    <axis_value_label>
+         <string></string>
+          <string> </string>
+          <null/>
+          <string> </string>
+          <string></string>
+
+       </axis_value_label>
+		
+	   <axis_ticks category_ticks='false'/>
+
+       <axis_value min='0' max='1' steps='4'  decimals='2' show_min='true' size='13' shadow='shadow2' />     
+            <axis_category
+               min='0'
+               max='60'
+               steps='4'
+               mode='all'
+               decimals='0'
+               size='13'
+               shadow='shadow2'
+               />
+
+       <axis_category_label>
+          <string>Kickoff</string>
+          <string></string>
+          <string>Halftime</string>
+          <string></string>
+          <string>End</string>
+
+       </axis_category_label>
+
+
+        <chart_data>
+       <row>
+	      <null/><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number>
+              <number>x</number><number>y</number>
+              </row><row><string></string>
+
+                     <number shadow='shadow1'>0</number><number>.5</number><number shadow='shadow1' tooltip='15:00 HST 0 JAX 0 LI: 4-R.Bullock kicks 65 yards from HST 35 to end zone Touchback.'>0.09</number><number>0.48</number>
+<number shadow='shadow1' tooltip='14:19 3-2-JAX 28HST 0 JAX 0 LI: 1.3(Shotgun) 7-C.Henne pass short left to 18-A.Sanders pushed ob at JAX 39 for 11 yards(25-K.Jackson).'>0.68</number><number>0.45</number>
+<number shadow='shadow1' tooltip='13:51 1-10-JAX 39HST 0 JAX 0 LI: 1.4(Shotgun) 7-C.Henne pass incomplete deep left to 84-C.Shorts [53-J.Mays].'>1.15</number><number>0.44</number>
+<number shadow='shadow1' tooltip='13:43 1-10-JAX 44HST 0 JAX 0 LI: 1.432-M.Jones-Drew up the middle to JAX 48 for 4 yards(99-J.Watt).'>1.28</number><number>0.45</number>
+<number shadow='shadow1' tooltip='13:21 2-6-JAX 48HST 0 JAX 0 LI: 1.2(No Huddle) 32-M.Jones-Drew up the middle to HST 43 for 9 yards(25-K.Jackson).'>1.65</number><number>0.42</number>
+<number shadow='shadow1' tooltip='12:46 1-10-HST 43HST 0 JAX 0 LI: 1.37-C.Henne scrambles up the middle to HST 29 for 14 yards.'>2.23</number><number>0.38</number>
+<number shadow='shadow1' tooltip='12:10 1-10-HST 29HST 0 JAX 0 LI: 1.5(No Huddle) 30-J.Todman left end to HST 16 for 13 yards(31-S.Keo).'>2.83</number><number>0.35</number>
+<number shadow='shadow1' tooltip='11:28 1-10-HST 16HST 0 JAX 0 LI: 1.6(Shotgun) 7-C.Henne pass incomplete deep left to 12-M.Brown.'>3.53</number><number>0.37</number>
+<number shadow='shadow1' tooltip='11:22 2-10-HST 16HST 0 JAX 0 LI: 1.432-M.Jones-Drew right end pushed ob at HST 12 for 4 yards(36-D.Swearinger).'>3.63</number><number>0.36</number>
+<number shadow='shadow1' tooltip='10:51 3-6-HST 12HST 0 JAX 0 LI: 1.4(Shotgun) 7-C.Henne pass short left to 12-M.Brown to HST 6 for 6 yards(21-B.McCain; 25-K.Jackson).'>4.15</number><number>0.32</number>
+<number shadow='shadow1' tooltip='10:05 1-6-HST 6HST 0 JAX 0 LI: 1.87-C.Henne pass short middle to 32-M.Jones-Drew to HST 1 for 5 yards(46-J.Weeks; 51-D.Sharpton).'>4.92</number><number>0.3</number>
+<number shadow='shadow1' tooltip='9:29 2-1-HST 1HST 0 JAX 0 LI: 232-M.Jones-Drew up the middle to HST 1 for no gain (36-D.Swearinger).'>5.52</number><number>0.32</number>
+<number shadow='shadow1' tooltip='8:53 3-1-HST 1HST 0 JAX 0 LI: 1.87-C.Henne pass short left to 89-M.Lewis for 1 yard TOUCHDOWN.'>6.12</number><number>0.29</number>
+<number shadow='shadow1' tooltip='8:53 HST 0 JAX 0 LI: 10-J.Scobee extra point is GOOD Center-46-C.Tinker Holder-19-B.Anger.'>6.16</number><number>0.29</number>
+<number shadow='shadow1' tooltip='8:53 HST 0 JAX 7 LI: 10-J.Scobee kicks 67 yards from JAX 35 to HST -282-K.Martin to HST 22 for 24 yards(37-J.Cyprien).'>6.21</number><number>0.27</number>
+<number shadow='shadow1' tooltip='8:43 1-10-HST 7HST 0 JAX 7 LI: 1.4(Shotgun) 44-B.Tate up the middle to HST 11 for 4 yards(99-S.Marks).'>6.28</number><number>0.25</number>
+<number shadow='shadow1' tooltip='8:05 2-6-HST 11HST 0 JAX 7 LI: 1.27-C.Keenum pass deep left to 10-D.Hopkins pushed ob at HST 27 for 16 yards(22-W.Guy).'>6.92</number><number>0.29</number>
+<number shadow='shadow1' tooltip='7:36 1-10-HST 27HST 0 JAX 7 LI: 1.4(Shotgun) 7-C.Keenum pass incomplete short right to 80-A.Johnson.'>7.4</number><number>0.29</number>
+<number shadow='shadow1' tooltip='7:31 2-10-HST 27HST 0 JAX 7 LI: 1.4(Shotgun) 7-C.Keenum pass short left to 88-G.Graham pushed ob at HST 31 for 4 yards(23-A.Ball).'>7.48</number><number>0.28</number>
+<number shadow='shadow1' tooltip='6:58 3-6-HST 31HST 0 JAX 7 LI: 1.2(Shotgun) 7-C.Keenum pass incomplete short right to 82-K.Martin [51-P.Posluszny].'>8.03</number><number>0.26</number>
+<number shadow='shadow1' tooltip='6:52 4-6-HST 31HST 0 JAX 7 LI: 19-S.Lechler punts 59 yards to JAX 10 Center-46-J.Weeks18-A.Sanders ran ob at JAX 27 for 17 yards(33-G.Jones).'>8.13</number><number>0.27</number>
+<number shadow='shadow1' tooltip='6:39 1-10-JAX 27HST 0 JAX 7 LI: 0.932-M.Jones-Drew up the middle to JAX 33 for 6 yards(93-J.Crick).'>8.35</number><number>0.25</number>
+<number shadow='shadow1' tooltip='6:00 2-4-JAX 33HST 0 JAX 7 LI: 17-C.Henne pass short right to 84-C.Shorts pushed ob at JAX 43 for 10 yards(24-J.Joseph).'>9</number><number>0.27</number>
+<number shadow='shadow1' tooltip='5:33 2-14-JAX 23HST 0 JAX 7 LI: 1(Shotgun) 7-C.Henne scrambles up the middle to JAX 32 for 9 yards.'>9.45</number><number>0.26</number>
+<number shadow='shadow1' tooltip='4:52 3-5-JAX 32HST 0 JAX 7 LI: 0.9(Shotgun) 7-C.Henne pass incomplete short left to 89-M.Lewis (36-D.Swearinger).'>10.13</number><number>0.29</number>
+<number shadow='shadow1' tooltip='4:47 4-5-JAX 32HST 0 JAX 7 LI: 0.619-B.Anger punts 46 yards to HST 22 Center-46-C.Tinker downed by JAX-45-W.Taufoou.'>10.22</number><number>0.28</number>
+<number shadow='shadow1' tooltip='4:34 1-10-HST 22HST 0 JAX 7 LI: 1.5(Shotgun) 44-B.Tate up the middle to HST 29 for 7 yards(50-R.Allen).'>10.43</number><number>0.3</number>
+<number shadow='shadow1' tooltip='3:54 2-3-HST 29HST 0 JAX 7 LI: 1.544-B.Tate left end to HST 31 for 2 yards(93-T.Alualu).'>11.1</number><number>0.3</number>
+<number shadow='shadow1' tooltip='3:21 3-1-HST 31HST 0 JAX 7 LI: 1.444-B.Tate up the middle to HST 34 for 3 yards(93-T.Alualu).'>11.65</number><number>0.3</number>
+<number shadow='shadow1' tooltip='2:50 1-10-HST 34HST 0 JAX 7 LI: 1.428-D.Johnson right end to HST 40 for 6 yards(51-P.Posluszny).'>12.17</number><number>0.31</number>
+<number shadow='shadow1' tooltip='2:14 2-4-HST 40HST 0 JAX 7 LI: 1.3(Shotgun) 7-C.Keenum pass short left to 80-A.Johnson to HST 46 for 6 yards(37-J.Cyprien).'>12.77</number><number>0.32</number>
+<number shadow='shadow1' tooltip='1:34 1-10-HST 46HST 0 JAX 7 LI: 1.3(Shotgun) 7-C.Keenum pass incomplete short right to 44-B.Tate.'>13.43</number><number>0.31</number>
+<number shadow='shadow1' tooltip='1:29 2-10-HST 46HST 0 JAX 7 LI: 1.144-B.Tate left end to HST 48 for 2 yards(91-A.Jones).'>13.52</number><number>0.3</number>
+<number shadow='shadow1' tooltip='0:50 3-8-HST 48HST 0 JAX 7 LI: 1(Shotgun) 7-C.Keenum sacked at HST 42 for -6 yards(58-J.Babin)FUMBLES (58-J.Babin) recovered by HST-79-B.Brooks at HST 4279-B.Brooks to HST 42 for no gain (59-R.Davis).'>14.17</number><number>0.27</number>
+<number shadow='shadow1' tooltip='0:11 4-14-HST 42HST 0 JAX 7 LI: 0.89-S.Lechler punts 44 yards to JAX 14 Center-46-J.Weeks fair catch by 18-A.Sanders.'>14.82</number><number>0.29</number>
+<number shadow='shadow1' tooltip='15:00 1-10-HST 45HST 0 JAX 7 LI: 1.37-C.Henne pass incomplete deep middle to 84-C.Shorts.'>15</number><number>0.13</number>
+<number shadow='shadow1' tooltip='14:51 1-10-HST 12HST 0 JAX 7 LI: 1.432-M.Jones-Drew left end to HST 11 for 1 yard(24-J.Joseph).'>15.15</number><number>0.14</number>
+<number shadow='shadow1' tooltip='14:18 2-9-HST 11HST 0 JAX 7 LI: 1.3PENALTY on HST-59-W.Mercilus Neutral Zone Infraction 5 yards enforced at HST 11 - No Play.'>15.7</number><number>0.12</number>
+<number shadow='shadow1' tooltip='13:52 2-4-HST 6HST 0 JAX 7 LI: 1.57-C.Henne pass incomplete short left to 84-C.Shorts.'>16.13</number><number>0.14</number>
+<number shadow='shadow1' tooltip='13:46 3-4-HST 6HST 0 JAX 7 LI: 1.3(No Huddle) 7-C.Henne pass short left to 84-C.Shorts for 6 yards TOUCHDOWN [99-J.Watt].'>16.23</number><number>0.1</number>
+<number shadow='shadow1' tooltip='13:46 HST 0 JAX 7 LI: 10-J.Scobee extra point is GOOD Center-46-C.Tinker Holder-19-B.Anger.'>16.27</number><number>0.1</number>
+<number shadow='shadow1' tooltip='13:46 HST 0 JAX 14 LI: 10-J.Scobee kicks 65 yards from JAX 35 to end zone Touchback.'>16.32</number><number>0.1</number>
+<number shadow='shadow1' tooltip='13:35 2-10-HST 20HST 0 JAX 14 LI: 0.2(Shotgun) 7-C.Keenum pass short left to 44-B.Tate to HST 18 for -2 yards(53-J.Lotulelei).'>16.42</number><number>0.12</number>
+<number shadow='shadow1' tooltip='12:48 3-12-HST 18HST 0 JAX 14 LI: 0.2(Shotgun) 7-C.Keenum scrambles up the middle to HST 31 for 13 yards(37-J.Cyprien).'>17.2</number><number>0.1</number>
+<number shadow='shadow1' tooltip='12:12 1-10-HST 31HST 0 JAX 14 LI: 0.1(Shotgun) 44-B.Tate left end to HST 36 for 5 yards(51-P.Posluszny).'>17.8</number><number>0.12</number>
+<number shadow='shadow1' tooltip='11:29 2-5-HST 36HST 0 JAX 14 LI: 0.144-B.Tate left end to HST 37 for 1 yard(51-P.Posluszny; 94-J.Mincey).'>18.52</number><number>0.12</number>
+<number shadow='shadow1' tooltip='10:55 3-19-HST 22HST 0 JAX 14 LI: 0.2(Shotgun) PENALTY on HST-55-C.Myers False Start 5 yards enforced at HST 22 - No Play.'>19.08</number><number>0.11</number>
+<number shadow='shadow1' tooltip='10:29 3-24-HST 17HST 0 JAX 14 LI: 0.2(Shotgun) 7-C.Keenum pass incomplete short right to 44-B.Tate.'>19.52</number><number>0.11</number>
+<number shadow='shadow1' tooltip='10:24 4-24-HST 17HST 0 JAX 14 LI: 0.2(Punt formation) 9-S.Lechler punts 37 yards to JAX 46 Center-46-J.Weeks downed by HST.'>19.6</number><number>0.1</number>
+<number shadow='shadow1' tooltip='10:11 1-10-HST 39HST 0 JAX 14 LI: 0.17-C.Henne pass incomplete short left to 84-C.Shorts (99-J.Watt).'>19.82</number><number>0.09</number>
+<number shadow='shadow1' tooltip='10:06 2-10-HST 39HST 0 JAX 14 LI: 0.232-M.Jones-Drew up the middle to HST 39 for no gain (53-J.Mays).'>19.9</number><number>0.09</number>
+<number shadow='shadow1' tooltip='9:04 3-15-HST 44HST 0 JAX 14 LI: 0.3(Shotgun) 7-C.Henne pass incomplete short right to 12-M.Brown.'>20.93</number><number>0.09</number>
+<number shadow='shadow1' tooltip='8:56 4-15-HST 44HST 0 JAX 14 LI: 0.3(Punt formation) 19-B.Anger punts 35 yards to HST 9 Center-46-C.Tinker fair catch by 82-K.Martin.'>21.07</number><number>0.09</number>
+<number shadow='shadow1' tooltip='8:50 1-10-HST 9HST 0 JAX 14 LI: 0.228-D.Johnson left end to HST 10 for 1 yard(50-R.Allen).'>21.17</number><number>0.1</number>
+<number shadow='shadow1' tooltip='8:11 2-9-HST 10HST 0 JAX 14 LI: 0.37-C.Keenum pass deep middle to 88-G.Graham to HST 32 for 22 yards(22-W.Guy) [58-J.Babin].'>21.82</number><number>0.1</number>
+<number shadow='shadow1' tooltip='7:32 1-10-HST 32HST 0 JAX 14 LI: 0.17-C.Keenum pass short left to 28-D.Johnson to HST 36 for 4 yards(22-W.Guy).'>22.47</number><number>0.11</number>
+<number shadow='shadow1' tooltip='6:53 2-6-HST 36HST 0 JAX 14 LI: 0.2(Shotgun) 7-C.Keenum pass short middle to 88-G.Graham to HST 42 for 6 yards(50-R.Allen; 52-J.Thomas).'>23.12</number><number>0.11</number>
+<number shadow='shadow1' tooltip='6:34 2-16-HST 26HST 0 JAX 14 LI: 0.37-C.Keenum pass short middle to 11-D.Posey to HST 35 for 9 yards(51-P.Posluszny).'>23.43</number><number>0.11</number>
+<number shadow='shadow1' tooltip='5:56 3-7-HST 35HST 0 JAX 14 LI: 0.3(Shotgun) 7-C.Keenum pass short middle to 80-A.Johnson to HST 43 for 8 yards(51-P.Posluszny; 37-J.Cyprien).'>24.07</number><number>0.11</number>
+<number shadow='shadow1' tooltip='5:10 1-10-HST 43HST 0 JAX 14 LI: 0.2(Shotgun) 7-C.Keenum pass short right to 88-G.Graham to JAX 42 for 15 yards(51-P.Posluszny).'>24.83</number><number>0.13</number>
+<number shadow='shadow1' tooltip='4:29 1-10-JAX 42HST 0 JAX 14 LI: 0.47-C.Keenum pass short middle to 84-R.Griffin to JAX 32 for 10 yards(51-P.Posluszny).'>25.52</number><number>0.15</number>
+<number shadow='shadow1' tooltip='3:48 1-10-JAX 32HST 0 JAX 14 LI: 0.57-C.Keenum pass incomplete short right to 80-A.Johnson.'>26.2</number><number>0.16</number>
+<number shadow='shadow1' tooltip='3:42 1-10-JAX 25HST 0 JAX 14 LI: 0.6(Shotgun) 44-B.Tate right end to JAX 21 for 4 yards(51-P.Posluszny).'>26.3</number><number>0.18</number>
+<number shadow='shadow1' tooltip='2:56 2-6-JAX 21HST 0 JAX 14 LI: 0.944-B.Tate left end to JAX 12 for 9 yards(22-W.Guy).'>27.07</number><number>0.21</number>
+<number shadow='shadow1' tooltip='2:13 1-10-JAX 12HST 0 JAX 14 LI: 1.244-B.Tate up the middle to JAX 8 for 4 yards(37-J.Cyprien; 22-W.Guy).'>27.78</number><number>0.2</number>
+<number shadow='shadow1' tooltip='2:00 2-6-JAX 8HST 0 JAX 14 LI: 1.17-C.Keenum pass incomplete short left to 80-A.Johnson [99-S.Marks].'>28</number><number>0.18</number>
+<number shadow='shadow1' tooltip='1:56 3-6-JAX 8HST 0 JAX 14 LI: 0.9(Shotgun) 7-C.Keenum pass short left to 82-K.Martin for 8 yards TOUCHDOWN.'>28.07</number><number>0.24</number>
+<number shadow='shadow1' tooltip='1:56 HST 0 JAX 14 LI: 4-R.Bullock extra point is GOOD Center-46-J.Weeks Holder-9-S.Lechler.'>28.11</number><number>0.24</number>
+<number shadow='shadow1' tooltip='1:56 HST 7 JAX 14 LI: 4-R.Bullock kicks 65 yards from HST 35 to end zone Touchback.'>28.16</number><number>0.25</number>
+<number shadow='shadow1' tooltip='1:49 2-10-JAX 20HST 7 JAX 14 LI: 1(Shotgun) 7-C.Henne scrambles up the middle to JAX 32 for 12 yards.'>28.18</number><number>0.29</number>
+<number shadow='shadow1' tooltip='1:42 2-20-JAX 10HST 7 JAX 14 LI: 1.4(Shotgun) 7-C.Henne pass incomplete short right to 89-M.Lewis.'>28.3</number><number>0.31</number>
+<number shadow='shadow1' tooltip='1:37 3-20-JAX 10HST 7 JAX 14 LI: 1.2(Shotgun) 7-C.Henne pass short right to 18-A.Sanders to JAX 18 for 8 yards(31-S.Keo; 36-D.Swearinger).'>28.38</number><number>0.3</number>
+<number shadow='shadow1' tooltip='1:30 4-12-JAX 18HST 7 JAX 14 LI: 0.7(Punt formation) 19-B.Anger punts 47 yards to HST 35 Center-46-C.Tinker82-K.Martin to HST 32 for -3 yards(35-D.McCray).'>28.5</number><number>0.29</number>
+<number shadow='shadow1' tooltip='1:20 1-10-HST 32HST 7 JAX 14 LI: 1.1(Shotgun) 7-C.Keenum pass short middle to 88-G.Graham to HST 41 for 9 yards(51-P.Posluszny; 37-J.Cyprien).'>28.67</number><number>0.3</number>
+<number shadow='shadow1' tooltip='1:03 2-1-HST 41HST 7 JAX 14 LI: 1.1(No Huddle Shotgun) 7-C.Keenum pass deep left intended for 80-A.Johnson INTERCEPTED by 23-A.Ball at JAX 4123-A.Ball pushed ob at JAX 41 for no gain (80-A.Johnson).'>28.95</number><number>0.22</number>
+<number shadow='shadow1' tooltip='0:54 1-10-JAX 41HST 7 JAX 14 LI: 1.1(Shotgun) 7-C.Henne pass incomplete deep middle to 84-C.Shorts.'>29.1</number><number>0.22</number>
+<number shadow='shadow1' tooltip='0:47 2-10-JAX 41HST 7 JAX 14 LI: 1.1(Shotgun) 7-C.Henne pass short left to 12-M.Brown to JAX 49 for 8 yards(25-K.Jackson).'>29.22</number><number>0.22</number>
+<number shadow='shadow1' tooltip='0:38 3-2-JAX 49HST 7 JAX 14 LI: 1(Shotgun) 7-C.Henne pass incomplete short middle to 12-M.Brown (25-K.Jackson).'>29.37</number><number>0.18</number>
+<number shadow='shadow1' tooltip='0:34 1-10-HST 36HST 7 JAX 14 LI: 1.1(Shotgun) 7-C.Henne pass short middle intended for 89-M.Lewis INTERCEPTED by 35-E.Pleasant at HST 2135-E.Pleasant to JAX 48 for 31 yards(12-M.Brown).'>29.43</number><number>0.18</number>
+<number shadow='shadow1' tooltip='0:12 1-10-HST 31HST 7 JAX 14 LI: 1(Shotgun) 7-C.Henne sacked at HST 37 for -6 yards(58-B.Reed).'>29.8</number><number>0.21</number>
+<number shadow='shadow1' tooltip='0:07 3-1-HST 22HST 7 JAX 14 LI: 0.910-J.Scobee 40 yard field goal is GOOD Center-46-C.Tinker Holder-19-B.Anger.'>29.88</number><number>0.2</number>
+<number shadow='shadow1' tooltip='0:07 HST 7 JAX 17 LI: 10-J.Scobee kicks 39 yards from JAX 35 to HST 2693-J.Crick MUFFS catch and recovers at HST 3093-J.Crick to HST 30 for no gain (42-C.Prosinski).'>29.97</number><number>0.2</number>
+<number shadow='shadow1' tooltip='14:39 1-10-HST 40HST 7 JAX 17 LI: 1.144-B.Tate left end to HST 41 for 1 yard(58-J.Babin).'>30.35</number><number>0.21</number>
+<number shadow='shadow1' tooltip='14:20 2-9-HST 41HST 7 JAX 17 LI: 1(Shotgun) 7-C.Keenum pass short middle to 44-B.Tate to HST 46 for 5 yards(51-P.Posluszny) [93-T.Alualu].'>30.67</number><number>0.21</number>
+<number shadow='shadow1' tooltip='13:44 3-4-HST 46HST 7 JAX 17 LI: 0.9(Shotgun) 7-C.Keenum pass short right to 80-A.Johnson to JAX 40 for 14 yards(22-W.Guy; 27-D.Gratz).'>31.27</number><number>0.25</number>
+<number shadow='shadow1' tooltip='13:05 1-10-JAX 40HST 7 JAX 17 LI: 1.1(Shotgun) 28-D.Johnson left end to JAX 37 for 3 yards(90-A.Branch).'>31.92</number><number>0.24</number>
+<number shadow='shadow1' tooltip='12:26 2-7-JAX 37HST 7 JAX 17 LI: 17-C.Keenum pass incomplete deep left to 80-A.Johnson.'>32.57</number><number>0.22</number>
+<number shadow='shadow1' tooltip='12:19 3-7-JAX 37HST 7 JAX 17 LI: 0.8(Shotgun) 7-C.Keenum pass incomplete short left to 82-K.Martin.'>32.68</number><number>0.19</number>
+<number shadow='shadow1' tooltip='12:15 4-7-JAX 37HST 7 JAX 17 LI: 0.5(Punt formation) 9-S.Lechler punts 33 yards to JAX 4 Center-46-J.Weeks downed by HST-43-E.Mack.'>32.75</number><number>0.19</number>
+<number shadow='shadow1' tooltip='12:06 1-10-JAX 4HST 7 JAX 17 LI: 1.232-M.Jones-Drew up the middle to JAX 3 for -1 yards(36-D.Swearinger).'>32.9</number><number>0.22</number>
+<number shadow='shadow1' tooltip='11:24 2-11-JAX 3HST 7 JAX 17 LI: 0.932-M.Jones-Drew up the middle to JAX 4 for 1 yard(59-W.Mercilus; 92-E.Mitchell).'>33.6</number><number>0.23</number>
+<number shadow='shadow1' tooltip='10:39 3-10-JAX 4HST 7 JAX 17 LI: 0.8(Shotgun) 7-C.Henne pass short left to 84-C.Shorts to JAX 11 for 7 yards(21-B.McCain).'>34.35</number><number>0.23</number>
+<number shadow='shadow1' tooltip='10:02 4-3-JAX 11HST 7 JAX 17 LI: 0.8(Punt formation) 19-B.Anger punts 51 yards to HST 38 Center-46-C.Tinker82-K.Martin to JAX 46 for 16 yards(50-R.Allen).'>34.97</number><number>0.24</number>
+<number shadow='shadow1' tooltip='9:49 1-10-JAX 46HST 7 JAX 17 LI: 1.17-C.Keenum pass short left to 80-A.Johnson to JAX 19 for 27 yards(23-A.Ball; 90-A.Branch)JAX-23-A.Ball was injured during the play.'>35.18</number><number>0.28</number>
+<number shadow='shadow1' tooltip='9:24 1-10-JAX 19HST 7 JAX 17 LI: 1(Shotgun) 7-C.Keenum pass incomplete short left to 80-A.Johnson.'>35.6</number><number>0.27</number>
+<number shadow='shadow1' tooltip='9:15 2-10-JAX 19HST 7 JAX 17 LI: 0.9(Shotgun) 44-B.Tate up the middle to JAX 16 for 3 yards(51-P.Posluszny).'>35.75</number><number>0.26</number>
+<number shadow='shadow1' tooltip='8:37 3-7-JAX 16HST 7 JAX 17 LI: 0.8(Shotgun) 7-C.Keenum pass incomplete deep left to 10-D.Hopkins.'>36.38</number><number>0.23</number>
+<number shadow='shadow1' tooltip='8:33 4-7-JAX 16HST 7 JAX 17 LI: 0.5(Field Goal formation) 4-R.Bullock 34 yard field goal is GOOD Center-46-J.Weeks Holder-9-S.Lechler.'>36.45</number><number>0.23</number>
+<number shadow='shadow1' tooltip='8:33 HST 10 JAX 17 LI: 4-R.Bullock kicks 62 yards from HST 35 to JAX 330-J.Todman to JAX 22 for 19 yards(50-B.Braman).'>36.54</number><number>0.25</number>
+<number shadow='shadow1' tooltip='8:24 1-10-JAX 12HST 10 JAX 17 LI: 1.7(Shotgun) 7-C.Henne pass incomplete deep right to 18-A.Sanders [99-J.Watt].'>36.6</number><number>0.26</number>
+<number shadow='shadow1' tooltip='8:18 2-10-JAX 12HST 10 JAX 17 LI: 1.6(No Huddle Shotgun) 32-M.Jones-Drew up the middle to JAX 15 for 3 yards(99-J.Watt).'>36.7</number><number>0.27</number>
+<number shadow='shadow1' tooltip='7:40 3-7-JAX 15HST 10 JAX 17 LI: 1.1(Shotgun) 7-C.Henne pass incomplete short right to 18-A.Sanders.'>37.33</number><number>0.24</number>
+<number shadow='shadow1' tooltip='7:35 1-10-JAX 17HST 10 JAX 17 LI: 1.4(Shotgun) 7-C.Henne scrambles left end to JAX 18 for 1 yard.'>37.42</number><number>0.24</number>
+<number shadow='shadow1' tooltip='7:08 2-9-JAX 18HST 10 JAX 17 LI: 1.4(No Huddle Shotgun) 32-M.Jones-Drew right end to HST 34 for 48 yards(21-B.McCain).'>37.87</number><number>0.16</number>
+<number shadow='shadow1' tooltip='6:29 1-10-HST 34HST 10 JAX 17 LI: 1(No Huddle Shotgun) 30-J.Todman right end to HST 36 for -2 yards(36-D.Swearinger).'>38.52</number><number>0.14</number>
+<number shadow='shadow1' tooltip='6:18 1-10-HST 21HST 10 JAX 17 LI: 0.9(No Huddle) 18-A.Sanders pass deep right to 30-J.Todman for 21 yards TOUCHDOWNBP to JJ18 prior to TD pass.'>38.7</number><number>0.07</number>
+<number shadow='shadow1' tooltip='6:18 HST 10 JAX 17 LI: 10-J.Scobee extra point is GOOD Center-46-C.Tinker Holder-19-B.Anger.'>38.74</number><number>0.07</number>
+<number shadow='shadow1' tooltip='6:18 HST 10 JAX 24 LI: 10-J.Scobee kicks 73 yards from JAX 35 to HST -882-K.Martin Touchback.'>38.79</number><number>0.06</number>
+<number shadow='shadow1' tooltip='6:12 1-10-HST 20HST 10 JAX 24 LI: 0.3(Shotgun) 7-C.Keenum pass incomplete short right to 84-R.Griffin [93-T.Alualu].'>38.8</number><number>0.06</number>
+<number shadow='shadow1' tooltip='6:06 2-10-HST 20HST 10 JAX 24 LI: 0.3(Shotgun) 7-C.Keenum pass incomplete short right to 88-G.Graham.'>38.9</number><number>0.06</number>
+<number shadow='shadow1' tooltip='5:58 3-10-HST 20HST 10 JAX 24 LI: 0.3(Shotgun) 7-C.Keenum pass short right to 80-A.Johnson to HST 24 for 4 yards(37-J.Cyprien).'>39.03</number><number>0.05</number>
+<number shadow='shadow1' tooltip='5:26 4-6-HST 24HST 10 JAX 24 LI: 0.19-S.Lechler punts 46 yards to JAX 30 Center-46-J.Weeks18-A.Sanders to JAX 38 for 8 yards(50-B.Braman).'>39.57</number><number>0.05</number>
+<number shadow='shadow1' tooltip='5:18 1-10-JAX 38HST 10 JAX 24 LI: 0.518-A.Sanders left end pushed ob at JAX 38 for no gain (25-K.Jackson).'>39.7</number><number>0.05</number>
+<number shadow='shadow1' tooltip='5:02 2-10-JAX 38HST 10 JAX 24 LI: 0.5(No Huddle Shotgun) 7-C.Henne pass short right to 12-M.Brown to JAX 40 for 2 yards(25-K.Jackson).'>39.97</number><number>0.05</number>
+<number shadow='shadow1' tooltip='4:26 3-8-JAX 40HST 10 JAX 24 LI: 0.4(Shotgun) 7-C.Henne pass incomplete short left to 18-A.Sanders.'>40.57</number><number>0.05</number>
+<number shadow='shadow1' tooltip='4:22 4-8-JAX 40HST 10 JAX 24 LI: 0.4(Punt formation) 19-B.Anger punts 44 yards to HST 16 Center-46-C.Tinker82-K.Martin to HST 24 for 8 yards(30-J.Todman).'>40.63</number><number>0.05</number>
+<number shadow='shadow1' tooltip='4:10 1-10-HST 24HST 10 JAX 24 LI: 0.1(Shotgun) 8-M.Schaub pass short middle to 80-A.Johnson to HST 32 for 8 yards(90-A.Branch).'>40.83</number><number>0.06</number>
+<number shadow='shadow1' tooltip='3:42 2-2-HST 32HST 10 JAX 24 LI: 0.2(No Huddle Shotgun) 8-M.Schaub pass short left to 10-D.Hopkins to JAX 22 for 46 yards(27-D.Gratz).'>41.3</number><number>0.1</number>
+<number shadow='shadow1' tooltip='3:10 1-10-JAX 22HST 10 JAX 24 LI: 0.6(No Huddle Shotgun) 8-M.Schaub pass short right to 82-K.Martin to JAX 19 for 3 yards(37-J.Cyprien).'>41.83</number><number>0.14</number>
+<number shadow='shadow1' tooltip='2:44 2-7-JAX 19HST 10 JAX 24 LI: 1(No Huddle Shotgun) 8-M.Schaub pass short left to 88-G.Graham to JAX 12 for 7 yards(37-J.Cyprien).'>42.27</number><number>0.17</number>
+<number shadow='shadow1' tooltip='1:57 1-10-JAX 12HST 10 JAX 24 LI: 1.3(Shotgun) 8-M.Schaub pass incomplete short right to 10-D.Hopkins.'>43.05</number><number>0.15</number>
+<number shadow='shadow1' tooltip='1:12 3-3-JAX 5HST 10 JAX 24 LI: 1.2(Shotgun) 8-M.Schaub pass short middle to 88-G.Graham for 5 yards TOUCHDOWN.'>43.8</number><number>0.19</number>
+<number shadow='shadow1' tooltip='1:12 HST 10 JAX 24 LI: 4-R.Bullock extra point is GOOD Center-46-J.Weeks Holder-9-S.Lechler.'>43.84</number><number>0.19</number>
+<number shadow='shadow1' tooltip='1:12 HST 17 JAX 24 LI: 4-R.Bullock kicks 62 yards from HST 35 to JAX 330-J.Todman to JAX 32 for 29 yards(54-M.Mohamed).'>43.89</number><number>0.18</number>
+<number shadow='shadow1' tooltip='0:54 1-15-JAX 27HST 17 JAX 24 LI: 1.47-C.Henne pass incomplete short right to 32-M.Jones-Drew.'>44.1</number><number>0.2</number>
+<number shadow='shadow1' tooltip='0:15 3-10-JAX 32HST 17 JAX 24 LI: 1.2(Shotgun) 7-C.Henne scrambles up the middle to JAX 41 for 9 yards(58-B.Reed).'>44.75</number><number>0.2</number>
+<number shadow='shadow1' tooltip='15:00 4-1-JAX 41HST 17 JAX 24 LI: 0.9(Run formation) PENALTY on JAX-7-C.Henne Delay of Game 5 yards enforced at JAX 41 - No Play.'>45</number><number>0.21</number>
+<number shadow='shadow1' tooltip='14:52 1-10-HST 32HST 17 JAX 24 LI: 0.9(Shotgun) 8-M.Schaub pass short right to 80-A.Johnson to HST 40 for 8 yards(51-P.Posluszny).'>45.13</number><number>0.23</number>
+<number shadow='shadow1' tooltip='14:27 2-2-HST 40HST 17 JAX 24 LI: 1(No Huddle Shotgun) 8-M.Schaub pass short right to 88-G.Graham to HST 45 for 5 yards(27-D.Gratz).'>45.55</number><number>0.25</number>
+<number shadow='shadow1' tooltip='14:08 1-10-HST 45HST 17 JAX 24 LI: 1.1(No Huddle Shotgun) 8-M.Schaub pass deep right to 80-A.Johnson to JAX 33 for 22 yards(22-W.Guy).'>45.87</number><number>0.3</number>
+<number shadow='shadow1' tooltip='13:38 1-10-JAX 33HST 17 JAX 24 LI: 1.4(No Huddle Shotgun) 8-M.Schaub pass incomplete short right to 80-A.Johnson.'>46.37</number><number>0.29</number>
+<number shadow='shadow1' tooltip='13:30 2-10-JAX 33HST 17 JAX 24 LI: 1.3(Shotgun) 8-M.Schaub pass incomplete short right to 88-G.Graham.'>46.5</number><number>0.27</number>
+<number shadow='shadow1' tooltip='13:22 3-10-JAX 33HST 17 JAX 24 LI: 1.1(Shotgun) 8-M.Schaub pass incomplete deep right to 10-D.Hopkins.'>46.63</number><number>0.23</number>
+<number shadow='shadow1' tooltip='13:17 4-10-JAX 33HST 17 JAX 24 LI: 0.7(Field Goal formation) PENALTY on JAX Defensive 12 On-field 5 yards enforced at JAX 33 - No Play.'>46.72</number><number>0.25</number>
+<number shadow='shadow1' tooltip='12:50 1-10-JAX 14HST 17 JAX 24 LI: 2.3(Shotgun) 8-M.Schaub pass incomplete short middle to 88-G.Graham.'>47.17</number><number>0.38</number>
+<number shadow='shadow1' tooltip='12:46 2-10-JAX 14HST 17 JAX 24 LI: 2(Shotgun) 8-M.Schaub pass short right to 84-R.Griffin to JAX 7 for 7 yards(51-P.Posluszny).'>47.23</number><number>0.29</number>
+<number shadow='shadow1' tooltip='12:22 2-20-JAX 24HST 17 JAX 24 LI: 1.3(Shotgun) 8-M.Schaub pass incomplete short middle to 88-G.Graham.'>47.63</number><number>0.27</number>
+<number shadow='shadow1' tooltip='12:14 3-20-JAX 24HST 17 JAX 24 LI: 1.1(Shotgun) 8-M.Schaub pass short middle to 80-A.Johnson to JAX 13 for 11 yards(55-G.Hayes; 23-A.Ball).'>47.77</number><number>0.27</number>
+<number shadow='shadow1' tooltip='11:34 4-9-JAX 13HST 17 JAX 24 LI: 14-R.Bullock 31 yard field goal is GOOD Center-46-J.Weeks Holder-9-S.Lechler.'>48.43</number><number>0.27</number>
+<number shadow='shadow1' tooltip='11:34 HST 20 JAX 24 LI: 4-R.Bullock kicks 65 yards from HST 35 to end zone Touchback.'>48.52</number><number>0.29</number>
+<number shadow='shadow1' tooltip='10:53 1-10-JAX 35HST 20 JAX 24 LI: 2.130-J.Todman right end to JAX 36 for 1 yard(94-A.Smith).'>49.12</number><number>0.23</number>
+<number shadow='shadow1' tooltip='10:17 2-9-JAX 36HST 20 JAX 24 LI: 2.27-C.Henne pass incomplete short middle to 30-J.Todman.'>49.72</number><number>0.26</number>
+<number shadow='shadow1' tooltip='10:11 3-9-JAX 36HST 20 JAX 24 LI: 1.9(Shotgun) 7-C.Henne pass short middle to 18-A.Sanders to JAX 43 for 7 yards(21-B.McCain).'>49.82</number><number>0.29</number>
+<number shadow='shadow1' tooltip='9:30 4-2-JAX 43HST 20 JAX 24 LI: 1.519-B.Anger punts 57 yards to end zone Center-46-C.Tinker Touchback.'>50.5</number><number>0.28</number>
+<number shadow='shadow1' tooltip='9:22 1-10-HST 20HST 20 JAX 24 LI: 1.5(Shotgun) 8-M.Schaub pass short right to 88-G.Graham to HST 26 for 6 yards(37-J.Cyprien).'>50.63</number><number>0.3</number>
+<number shadow='shadow1' tooltip='9:00 2-4-HST 26HST 20 JAX 24 LI: 1.7(No Huddle Shotgun) 8-M.Schaub pass short right to 10-D.Hopkins to HST 40 for 14 yards(27-D.Gratz).'>51</number><number>0.37</number>
+<number shadow='shadow1' tooltip='8:37 1-10-HST 40HST 20 JAX 24 LI: 2.3(No Huddle Shotgun) 8-M.Schaub pass short middle to 82-K.Martin to HST 43 for 3 yards(20-M.Harris).'>51.38</number><number>0.36</number>
+<number shadow='shadow1' tooltip='8:09 2-7-HST 43HST 20 JAX 24 LI: 2.2(No Huddle Shotgun) 8-M.Schaub pass short left to 80-A.Johnson to JAX 46 for 11 yards(23-A.Ball).'>51.85</number><number>0.44</number>
+<number shadow='shadow1' tooltip='7:36 1-10-JAX 46HST 20 JAX 24 LI: 2.8(No Huddle Shotgun) 8-M.Schaub pass incomplete short left to 88-G.Graham.'>52.4</number><number>0.36</number>
+<number shadow='shadow1' tooltip='7:30 2-10-JAX 46HST 20 JAX 24 LI: 2(Shotgun) 8-M.Schaub scrambles up the middle to JAX 39 for 7 yards.'>52.5</number><number>0.38</number>
+<number shadow='shadow1' tooltip='6:47 3-3-JAX 39HST 20 JAX 24 LI: 2(Shotgun) 8-M.Schaub pass short right to 80-A.Johnson to JAX 33 for 6 yards(27-D.Gratz).'>53.22</number><number>0.48</number>
+<number shadow='shadow1' tooltip='6:14 1-10-JAX 33HST 20 JAX 24 LI: 2.9(Shotgun) 8-M.Schaub pass incomplete deep left to 10-D.Hopkins.'>53.77</number><number>0.43</number>
+<number shadow='shadow1' tooltip='6:08 2-10-JAX 33HST 20 JAX 24 LI: 2.4(Shotgun) 8-M.Schaub sacked at JAX 43 for -10 yards(90-A.Branch).'>53.87</number><number>0.39</number>
+<number shadow='shadow1' tooltip='5:28 3-20-JAX 43HST 20 JAX 24 LI: 2.2(Shotgun) 8-M.Schaub pass deep left to 80-A.Johnson to JAX 21 for 22 yards(22-W.Guy).'>54.53</number><number>0.54</number>
+<number shadow='shadow1' tooltip='4:46 1-10-JAX 21HST 20 JAX 24 LI: 2.7(Shotgun) 44-B.Tate left end to JAX 12 for 9 yards(93-T.Alualu).'>55.23</number><number>0.65</number>
+<number shadow='shadow1' tooltip='4:37 2-1-JAX 12HST 20 JAX 24 LI: 2.28-M.Schaub pass incomplete short right to 33-G.Jones.'>55.38</number><number>0.59</number>
+<number shadow='shadow1' tooltip='4:28 3-1-JAX 12HST 20 JAX 24 LI: 1.644-B.Tate right end to JAX 13 for -1 yards(51-P.Posluszny).'>55.53</number><number>0.23</number>
+<number shadow='shadow1' tooltip='3:45 4-2-JAX 13HST 20 JAX 24 LI: 0.1(Shotgun) 8-M.Schaub pass incomplete short right to 80-A.Johnson.'>56.25</number><number>0.33</number>
+<number shadow='shadow1' tooltip='3:37 1-10-JAX 13HST 20 JAX 24 LI: 2.430-J.Todman up the middle to JAX 15 for 2 yards(92-E.Mitchell)JAX-30-J.Todman was injured during the play.'>56.38</number><number>0.21</number>
+<number shadow='shadow1' tooltip='3:32 2-8-JAX 15HST 20 JAX 24 LI: 3.37-C.Henne pass incomplete deep middle to 12-M.Brown.'>56.47</number><number>0.1</number>
+<number shadow='shadow1' tooltip='3:23 1-10-50HST 20 JAX 24 LI: 2.816-D.Robinson left end to JAX 47 for -3 yards(51-D.Sharpton).'>56.62</number><number>0.17</number>
+<number shadow='shadow1' tooltip='3:18 2-13-JAX 47HST 20 JAX 24 LI: 2.216-D.Robinson up the middle to JAX 49 for 2 yards(92-E.Mitchell).'>56.7</number><number>0.17</number>
+<number shadow='shadow1' tooltip='2:32 3-11-JAX 49HST 20 JAX 24 LI: 2.4(Shotgun) 7-C.Henne pass incomplete short left to 12-M.Brown.'>57.47</number><number>0.25</number>
+<number shadow='shadow1' tooltip='2:27 4-11-JAX 49HST 20 JAX 24 LI: 1.519-B.Anger punts 29 yards to HST 22 Center-46-C.Tinker fair catch by 82-K.Martin.'>57.55</number><number>0.25</number>
+<number shadow='shadow1' tooltip='2:21 1-10-HST 22HST 20 JAX 24 LI: 2.4(Shotgun) 8-M.Schaub pass incomplete short left to 88-G.Graham [59-R.Davis].'>57.65</number><number>0.16</number>
+<number shadow='shadow1' tooltip='2:16 2-10-HST 22HST 20 JAX 24 LI: 1.5(Shotgun) 8-M.Schaub pass short left intended for 80-A.Johnson INTERCEPTED by 55-G.Hayes at HST 3255-G.Hayes to HST 21 for 11 yards.'>57.73</number><number>0.01</number>
+<number shadow='shadow1' tooltip='2:08 1-10-HST 21HST 20 JAX 24 LI: 2.230-J.Todman up the middle to HST 20 for 1 yard(92-E.Mitchell).'>57.87</number><number>0.05</number>
+<number shadow='shadow1' tooltip='2:00 2-9-HST 20HST 20 JAX 24 LI: 1.730-J.Todman up the middle to HST 20 for no gain (99-J.Watt).'>58</number><number>0.04</number>
+<number shadow='shadow1' tooltip='1:16 3-9-HST 20HST 20 JAX 24 LI: 1.130-J.Todman up the middle to HST 21 for -1 yards(94-A.Smith).'>58.73</number><number>0.03</number>
+<number shadow='shadow1' tooltip='0:30 4-10-HST 21HST 20 JAX 24 LI: 0.110-J.Scobee 39 yard field goal is GOOD Center-46-C.Tinker Holder-19-B.Anger.'>59.5</number><number>0.03</number>
+<number shadow='shadow1' tooltip='0:30 HST 20 JAX 27 LI: 10-J.Scobee kicks 66 yards from JAX 35 to HST -182-K.Martin to HST 23 for 24 yards(20-M.Harris).'>59.59</number><number>0.02</number>
+<number shadow='shadow1' tooltip='0:20 1-10-HST 23HST 20 JAX 27 LI: 0.1(Shotgun) 8-M.Schaub sacked at HST 5 for -18 yards(59-R.Davis).'>59.67</number><number>0</number>
+<number>60</number><number>0</number>
+</row> </chart_data>
+       <draw>
+
+
+
+      <image x='45' y='298'  url='nfllogos/42x50png/HST.gif'  layer='foreground' glow = 'glow1'/>
+      <image x='45' y='350'  url='nfllogos/42x50png/JAX.gif'     layer='foreground' glow = 'glow1'/>
+
+
+      <rect x='130' y='300' width='250' height='40' fill_color='002c44' bevel='bevel1' />
+      <text x='135' y='300' width='250' height='40' h_align='left' v_align='middle' color='ffffff' shadow='shadow2' glow=''>Houston Texans</text>
+
+      <rect x='130' y='350' width='250' height='40' fill_color='01687f' bevel='bevel1'  />
+      <text x='135' y='350' width='250' height='40' h_align='left' v_align='middle' color='ffffff' shadow='shadow2' glow='winnerglow'>Jacksonville Jaguars</text>
+
+      <rect x='420' y='300' width='60' height='40' fill_color='002c44' bevel='bevel1'  />
+      <text x='420' y='300' width='60' height='40' h_align='center' v_align='middle' color='ffffff' shadow='shadow2' transition='none' glow=''>20</text>
+
+      <rect x='420' y='350' width='60' height='40' fill_color='01687f' bevel='bevel1' />
+      <text x='420' y='350' width='60' height='40' h_align='center' v_align='middle' color='ffffff' shadow='shadow2' transition='none' glow='winnerglow'>27</text>
+
+      <text x='-3' y='12'  width='60' height='40' h_align='center' v_align='middle' size='13' shadow='shadow2'>HSTWin </text>
+      <text x='-3' y='218' width='60' height='40' h_align='center' v_align='middle' size='13' shadow='shadow2'>JAXWin </text>
+
+     
+              <rect x='540' y='300' width='100' height='35' fill_color='000000' fill_alpha='50'/>
+              <text x='540' y='300' width='100' height='35' h_align='center' v_align='middle' color='ffffff' size='15' shadow='shadow2' >Final</text>
+
+              <text x='540' y='340' width='40' h_align='center' color='000000' size='12' shadow='shadow2'>CBF</text>
+              <text x='600' y='340' width='40' h_align='center' color='000000' size='12' shadow='shadow2'>EI</text>
+
+              <rect x='540' y='360' width='40' height='30' fill_color='000000' fill_alpha='50' />
+              <text x='540' y='360' width='40' height='30' size='12' h_align='center' v_align='middle' color='FFFFFF' shadow='shadow2'>3</text>
+
+              <rect x='600' y='360' width='40' height='30' fill_color='000000' fill_alpha='50' />
+              <text x='600' y='360' width='40' height='30' size='12' h_align='center' v_align='middle' color='FFFFFF' shadow='shadow2'>4.7</text>
+
+              <text x='20' y='420' width='70' height='25' size='12' h_align='left' v_align='middle' color='000000' >12/5/2013</text>
+              <text x='100' y='420' width='200' height='25' size='12' h_align='left' v_align='middle' color='000000' >EverBank Field</text>
+
+   </draw></chart>

@@ -1,0 +1,304 @@
+
+<chart>
+   <license>ETAS9P33ESHO.945CWK-2XOI1X0-7L</license>
+   <chart_type>scatter</chart_type>
+   <chart_pref trend_thickness='0' line_thickness='3' point_size='0'/>
+
+   <series_color>
+      <color>ffff00</color>
+   </series_color>
+
+   <chart_rect x='45' y='20' width='630' height='230' positive_color='cacaca'  />
+
+  <chart_border top_thickness='0'
+                 bottom_thickness='0'
+                 left_thickness='0'
+                 right_thickness='0'
+                 color='000000'
+                 />
+
+   <tooltip font='Arial' bold='true' size='11' />
+
+   <chart_note type='flag'
+               color='000000'
+               alpha='90'
+               bold='FALSE'
+               size='10'
+               background_color='ffffe0'
+               background_alpha='50'
+               shadow='shadow2'
+               />
+
+   <chart_grid_h thickness='2' color='ffffff' type='dashed'  />
+   <chart_grid_v thickness='2' color='ffffff'   />
+		>
+
+   <legend layout='hide' />
+
+   <chart_guide horizontal='TRUE'
+             vertical='TRUE'
+             thickness='1'
+             color='006400'
+             alpha='100'
+             type='solid'
+             snap_h='TRUE'
+             snap_v='TRUE'
+             radius='3'
+             fill_color='006400'
+             fill_alpha='100'
+             line_color='006400'
+             line_alpha='80'
+             line_thickness='1'
+             text_h_alpha='50'
+             text_v_alpha='00'
+             suffix_h=' WP'
+             decimals='2'
+             bold='FALSE'
+             size='11'
+             text_color='FFFFFF'
+             background_color='006400'
+             />
+   <filter>
+      <shadow id='shadow1' distance='2' angle='60' blurX='5' blurY='5' alpha='50' />
+      <bevel id='bevel1' angle='45' blurX='5' blurY='5' distance='0' />
+      <glow id='glow1' color='ffffff' alpha='0' blurX='7' blurY='7' strength='6' quality='2' inner='FALSE' knockout='FALSE' />
+      <glow id='winnerglow' color='ffffff' alpha='0' blurX='7' blurY='7' strength='5' quality='2' inner='FALSE' knockout='FALSE' />
+   </filter>
+
+    <axis_value_label>
+         <string></string>
+          <string> </string>
+          <null/>
+          <string> </string>
+          <string></string>
+
+       </axis_value_label>
+		
+	   <axis_ticks category_ticks='false'/>
+
+       <axis_value min='0' max='1' steps='4'  decimals='2' show_min='true' size='13' shadow='shadow2' />     
+            <axis_category
+               min='0'
+               max='60'
+               steps='4'
+               mode='all'
+               decimals='0'
+               size='13'
+               shadow='shadow2'
+               />
+
+       <axis_category_label>
+          <string>Kickoff</string>
+          <string></string>
+          <string>Halftime</string>
+          <string></string>
+          <string>End</string>
+
+       </axis_category_label>
+
+
+        <chart_data>
+       <row>
+	      <null/><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number>
+              <number>x</number><number>y</number>
+              </row><row><string></string>
+
+                     <number shadow='shadow1'>0</number><number>.5</number><number shadow='shadow1' tooltip='15:00 WAS 0 DAL 0 LI: 2-K.Forbath kicks 74 yards from WAS 35 to DAL -917-D.Harris Touchback.'>0.09</number><number>0.48</number>
+<number shadow='shadow1' tooltip='14:25 1-10-DAL 31WAS 0 DAL 0 LI: 1.529-D.Murray up the middle to DAL 32 for 1 yard(72-S.Bowen).'>0.58</number><number>0.48</number>
+<number shadow='shadow1' tooltip='13:49 2-9-DAL 32WAS 0 DAL 0 LI: 1.3(Shotgun) 9-T.Romo pass short left to 82-J.Witten pushed ob at DAL 40 for 8 yards(59-L.Fletcher).'>1.18</number><number>0.46</number>
+<number shadow='shadow1' tooltip='13:14 3-1-DAL 40WAS 0 DAL 0 LI: 1.329-D.Murray left tackle to DAL 41 for 1 yard(59-L.Fletcher).'>1.77</number><number>0.45</number>
+<number shadow='shadow1' tooltip='12:48 1-10-DAL 41WAS 0 DAL 0 LI: 1.49-T.Romo pass short middle to 29-D.Murray to WAS 43 for 16 yards(59-L.Fletcher).'>2.2</number><number>0.42</number>
+<number shadow='shadow1' tooltip='12:02 1-10-WAS 43WAS 0 DAL 0 LI: 1.3(Shotgun) 9-T.Romo pass incomplete to 83-T.WilliamsPENALTY on WAS-39-D.Amerson Defensive Holding 5 yards enforced at WAS 43 - No Play.'>2.97</number><number>0.4</number>
+<number shadow='shadow1' tooltip='11:57 1-10-WAS 38WAS 0 DAL 0 LI: 1.59-T.Romo pass incomplete short right to 82-J.WittenPass incomplete off play action flat; Kerrigan closest defender.'>3.05</number><number>0.43</number>
+<number shadow='shadow1' tooltip='11:51 2-10-WAS 38WAS 0 DAL 0 LI: 1.2(Shotgun) 29-D.Murray right guard to WAS 34 for 4 yards(56-P.Riley).'>3.15</number><number>0.43</number>
+<number shadow='shadow1' tooltip='11:05 3-6-WAS 34WAS 0 DAL 0 LI: 1.1(Shotgun) 9-T.Romo pass short left to 82-J.Witten to WAS 20 for 14 yards(26-J.Wilson).'>3.92</number><number>0.36</number>
+<number shadow='shadow1' tooltip='10:15 1-10-WAS 20WAS 0 DAL 0 LI: 1.6(Shotgun) 9-T.Romo pass short right to 83-T.Williams to WAS 8 for 12 yards(39-D.Amerson)Pass complete on a "comeback" route.'>4.75</number><number>0.33</number>
+<number shadow='shadow1' tooltip='9:27 1-8-WAS 8WAS 0 DAL 0 LI: 1.7(Shotgun) 29-D.Murray up the middle to WAS 6 for 2 yards(59-L.Fletcher)PENALTY on WAS-50-R.Jackson Illegal Use of Hands 4 yards enforced at WAS 8 - No Play.'>5.55</number><number>0.31</number>
+<number shadow='shadow1' tooltip='8:57 1-4-WAS 4WAS 0 DAL 0 LI: 1.9(Shotgun) 29-D.Murray up the middle for 4 yards TOUCHDOWN.'>6.05</number><number>0.29</number>
+<number shadow='shadow1' tooltip='8:57 WAS 0 DAL 0 LI: 5-D.Bailey extra point is GOOD Center-91-L.Ladouceur Holder-6-C.Jones.'>6.09</number><number>0.29</number>
+<number shadow='shadow1' tooltip='8:57 WAS 0 DAL 7 LI: 5-D.Bailey kicks 65 yards from DAL 35 to end zone TouchbackBall was kicked out of the end zone.'>6.14</number><number>0.28</number>
+<number shadow='shadow1' tooltip='8:29 1-10-WAS 39WAS 0 DAL 7 LI: 1.3(No Huddle Shotgun) 10-R.Griffin scrambles left end pushed ob at DAL 46 for 15 yards(39-B.Carr).'>6.52</number><number>0.33</number>
+<number shadow='shadow1' tooltip='7:56 1-10-DAL 46WAS 0 DAL 7 LI: 1.1(No Huddle Shotgun) 46-A.Morris left tackle to DAL 43 for 3 yards(94-D.Ware).'>7.07</number><number>0.33</number>
+<number shadow='shadow1' tooltip='7:24 2-7-DAL 43WAS 0 DAL 7 LI: 1(No Huddle Shotgun) 46-A.Morris right end to DAL 43 for no gain (50-S.Lee).'>7.6</number><number>0.32</number>
+<number shadow='shadow1' tooltip='6:42 3-7-DAL 43WAS 0 DAL 7 LI: 0.9(Shotgun) 10-R.Griffin pass short middle to 86-J.Reed to DAL 32 for 11 yards(27-J.Wilcox)Pass complete on a "crossing" pattern.'>8.3</number><number>0.35</number>
+<number shadow='shadow1' tooltip='6:06 1-10-DAL 32WAS 0 DAL 7 LI: 0.9(Shotgun) 89-S.Moss right end to DAL 35 for -3 yards(99-G.Selvie)Backward pass to Moss.'>8.9</number><number>0.33</number>
+<number shadow='shadow1' tooltip='5:21 2-13-DAL 35WAS 0 DAL 7 LI: 0.8(Shotgun) 10-R.Griffin pass short right to 86-J.Reed to DAL 20 for 15 yards(42-B.Church 54-B.Carter)Pass complete in the flat.'>9.65</number><number>0.37</number>
+<number shadow='shadow1' tooltip='4:42 1-10-DAL 20WAS 0 DAL 7 LI: 0.8(Shotgun) 46-A.Morris up the middle to DAL 17 for 3 yards(50-S.Lee).'>10.3</number><number>0.41</number>
+<number shadow='shadow1' tooltip='3:55 2-7-DAL 17WAS 0 DAL 7 LI: 1.146-A.Morris left end to DAL 9 for 8 yards(42-B.Church).'>11.08</number><number>0.43</number>
+<number shadow='shadow1' tooltip='3:16 1-9-DAL 9WAS 0 DAL 7 LI: 1.210-R.Griffin pass incomplete short right to 46-A.Morris [94-D.Ware]Pass incomplete in the flat; Wilcox closest defender.'>11.73</number><number>0.43</number>
+<number shadow='shadow1' tooltip='3:11 2-9-DAL 9WAS 0 DAL 7 LI: 1.2(Shotgun) 46-A.Morris right guard to DAL 9 for no gain (94-D.Ware).'>11.82</number><number>0.4</number>
+<number shadow='shadow1' tooltip='2:27 3-9-DAL 9WAS 0 DAL 7 LI: 0.9(Shotgun) 10-R.Griffin up the middle to DAL 2 for 7 yards(50-S.Lee)Quarterback draw.'>12.55</number><number>0.36</number>
+<number shadow='shadow1' tooltip='1:42 4-2-DAL 2WAS 0 DAL 7 LI: 0.5(Field Goal formation) 2-K.Forbath 20 yard field goal is GOOD Center-57-N.Sundberg Holder-6-S.Rocca.'>13.3</number><number>0.35</number>
+<number shadow='shadow1' tooltip='1:42 WAS 3 DAL 7 LI: 2-K.Forbath kicks 72 yards from WAS 35 to DAL -717-D.Harris to DAL 16 for 23 yards(53-B.Kehl).'>13.39</number><number>0.37</number>
+<number shadow='shadow1' tooltip='1:33 1-10-DAL 16WAS 3 DAL 7 LI: 1.69-T.Romo pass short middle to 29-D.Murray to DAL 21 for 5 yards(59-L.Fletcher).'>13.45</number><number>0.36</number>
+<number shadow='shadow1' tooltip='0:59 2-5-DAL 21WAS 3 DAL 7 LI: 1.59-T.Romo pass short left to 88-D.Bryant to DAL 26 for 5 yards(23-D.Hall).'>14.02</number><number>0.35</number>
+<number shadow='shadow1' tooltip='0:19 1-10-DAL 26WAS 3 DAL 7 LI: 1.4(Shotgun) 9-T.Romo pass short left to 88-D.Bryant to DAL 33 for 7 yards(23-D.Hall) [56-P.Riley]PENALTY on WAS-56-P.Riley Roughing the Passer 15 yards enforced at DAL 33Pass complete on a "quick slant."'>14.68</number><number>0.31</number>
+<number shadow='shadow1' tooltip='15:00 1-10-DAL 48WAS 3 DAL 7 LI: 1.39-T.Romo pass short left to 88-D.Bryant pushed ob at WAS 50 for 2 yards(23-D.Hall).'>15</number><number>0.31</number>
+<number shadow='shadow1' tooltip='14:27 2-8-WAS 50WAS 3 DAL 7 LI: 1.3(Shotgun) 9-T.Romo pass short left to 11-C.Beasley to WAS 43 for 7 yards(72-S.Bowen)Pass complete on a "bubble screen."'>15.55</number><number>0.3</number>
+<number shadow='shadow1' tooltip='13:46 3-1-WAS 43WAS 3 DAL 7 LI: 1.229-D.Murray right guard to WAS 41 for 2 yards(59-L.Fletcher).'>16.23</number><number>0.29</number>
+<number shadow='shadow1' tooltip='13:08 1-10-WAS 41WAS 3 DAL 7 LI: 1.229-D.Murray right end to WAS 35 for 6 yards(37-R.Doughty).'>16.87</number><number>0.29</number>
+<number shadow='shadow1' tooltip='12:25 2-4-WAS 35WAS 3 DAL 7 LI: 1.1(Shotgun) 9-T.Romo pass incomplete short middle to 19-M.AustinPass incomplete on a "drag" route; Wilson closest defender.'>17.58</number><number>0.3</number>
+<number shadow='shadow1' tooltip='12:20 3-4-WAS 35WAS 3 DAL 7 LI: 1(Shotgun) 9-T.Romo pass short middle INTERCEPTED by 50-R.Jackson (26-J.Wilson) at WAS 3350-R.Jackson to WAS 37 for 4 yards(21-J.Randle)Pass tipped by Wilson at line of scrimmage.'>17.67</number><number>0.4</number>
+<number shadow='shadow1' tooltip='12:14 1-10-WAS 37WAS 3 DAL 7 LI: 1.1(Shotgun) 10-R.Griffin pass short right to 88-P.Garcon to WAS 46 for 9 yards(97-J.Hatcher 99-G.Selvie)Bubble screen.'>17.77</number><number>0.42</number>
+<number shadow='shadow1' tooltip='11:31 2-1-WAS 46WAS 3 DAL 7 LI: 1.246-A.Morris right tackle to WAS 49 for 3 yards(50-S.Lee; 94-D.Ware).'>18.48</number><number>0.42</number>
+<number shadow='shadow1' tooltip='10:47 1-10-WAS 49WAS 3 DAL 7 LI: 1.246-A.Morris left end to WAS 45 for -4 yards(97-J.Hatcher).'>19.22</number><number>0.39</number>
+<number shadow='shadow1' tooltip='10:07 2-14-WAS 45WAS 3 DAL 7 LI: 0.9(Shotgun) 46-A.Morris up the middle to WAS 45 for no gain (97-J.Hatcher; 99-G.Selvie).'>19.88</number><number>0.37</number>
+<number shadow='shadow1' tooltip='9:31 3-14-WAS 45WAS 3 DAL 7 LI: 0.7(Shotgun) 10-R.Griffin pass incomplete short middle to 86-J.Reed.'>20.48</number><number>0.35</number>
+<number shadow='shadow1' tooltip='9:26 4-14-WAS 45WAS 3 DAL 7 LI: 0.5(Punt formation) 6-S.Rocca punts 31 yards to DAL 24 Center-57-N.Sundberg downed by WAS-37-R.DoughtyThe ball was ruled down because of Dallas player being blocked into the ball.'>20.57</number><number>0.34</number>
+<number shadow='shadow1' tooltip='9:16 1-10-DAL 24WAS 3 DAL 7 LI: 1.39-T.Romo pass short middle to 21-J.Randle to DAL 28 for 4 yards(59-L.Fletcher; 56-P.Riley).'>20.73</number><number>0.34</number>
+<number shadow='shadow1' tooltip='8:38 2-6-DAL 28WAS 3 DAL 7 LI: 1.29-T.Romo pass short right to 88-D.Bryant to DAL 33 for 5 yards(23-D.Hall).'>21.37</number><number>0.33</number>
+<number shadow='shadow1' tooltip='8:00 3-1-DAL 33WAS 3 DAL 7 LI: 1.234-P.Tanner right guard to DAL 35 for 2 yards(23-D.Hall; 59-L.Fletcher)Injury update: Dallas DeMarco Murray taken to locker room with sprained left knee.'>22</number><number>0.33</number>
+<number shadow='shadow1' tooltip='7:18 1-10-DAL 35WAS 3 DAL 7 LI: 1.2(Shotgun) 9-T.Romo pass incomplete short middle to 82-J.WittenPENALTY on DAL-72-T.Frederick Illegal Use of Hands 10 yards enforced at DAL 35 - No Play.'>22.7</number><number>0.34</number>
+<number shadow='shadow1' tooltip='7:12 1-20-DAL 25WAS 3 DAL 7 LI: 1.3(Shotgun) 9-T.Romo pass short right to 21-J.Randle to DAL 36 for 11 yards(23-D.Hall)Screen pass.'>22.8</number><number>0.33</number>
+<number shadow='shadow1' tooltip='6:29 2-9-DAL 36WAS 3 DAL 7 LI: 1.1(Shotgun) 9-T.Romo pass incomplete short middle to 82-J.WittenPass incomplete on a "curl"; Riley closest defender.'>23.52</number><number>0.34</number>
+<number shadow='shadow1' tooltip='6:22 3-9-DAL 36WAS 3 DAL 7 LI: 1(Shotgun) 9-T.Romo pass incomplete deep middle to 19-M.AustinPass incomplete on a "deep post pattern"; Biggers closest.'>23.63</number><number>0.37</number>
+<number shadow='shadow1' tooltip='6:16 4-9-DAL 36WAS 3 DAL 7 LI: 0.7(Punt formation) 6-C.Jones punts 50 yards to WAS 14 Center-91-L.Ladouceur15-J.Morgan to WAS 23 for 9 yards(38-J.Heath).'>23.73</number><number>0.36</number>
+<number shadow='shadow1' tooltip='6:03 1-10-WAS 23WAS 3 DAL 7 LI: 110-R.Griffin pass deep middle to 85-L.Hankerson to WAS 44 for 21 yards(50-S.Lee)PENALTY on WAS-66-C.Chester Offensive Holding 10 yards enforced at WAS 23 - No Play.'>23.95</number><number>0.34</number>
+<number shadow='shadow1' tooltip='5:28 1-20-WAS 13WAS 3 DAL 7 LI: 1.4(Shotgun) 10-R.Griffin pass incomplete short right to 88-P.GarconPass incomplete sideline at the Washington 15; Carr closest defender.'>24.53</number><number>0.33</number>
+<number shadow='shadow1' tooltip='5:22 2-20-WAS 13WAS 3 DAL 7 LI: 1.3(Shotgun) 10-R.Griffin pass short middle to 88-P.Garcon to WAS 28 for 15 yards(42-B.Church 50-S.Lee).'>24.63</number><number>0.36</number>
+<number shadow='shadow1' tooltip='4:38 3-5-WAS 28WAS 3 DAL 7 LI: 1(Shotgun) 10-R.Griffin pass short middle to 88-P.Garcon to WAS 37 for 9 yards(50-S.Lee)Pass complete on a "drag" route.'>25.37</number><number>0.4</number>
+<number shadow='shadow1' tooltip='3:56 1-10-WAS 37WAS 3 DAL 7 LI: 1.2(Shotgun) 46-A.Morris left tackle to WAS 40 for 3 yards(54-B.Carter).'>26.07</number><number>0.4</number>
+<number shadow='shadow1' tooltip='3:11 2-7-WAS 40WAS 3 DAL 7 LI: 1.2(Shotgun) 10-R.Griffin pass incomplete short middle to 88-P.Garcon (39-B.Carr)Pass incomplete on a "skinny post."'>26.82</number><number>0.38</number>
+<number shadow='shadow1' tooltip='3:03 3-7-WAS 40WAS 3 DAL 7 LI: 1(Shotgun) 10-R.Griffin pass incomplete deep middle to 88-P.Garcon (42-B.Church) [50-S.Lee]Pass incomplete at the Dallas 45.Injury update: Dallas DeMarcus Ware has right quad injury; taken to locker room.'>26.95</number><number>0.34</number>
+<number shadow='shadow1' tooltip='2:56 4-7-WAS 40WAS 3 DAL 7 LI: 0.6(Punt formation) 6-S.Rocca punts 44 yards to DAL 16 Center-57-N.Sundberg downed by WAS-84-N.PaulPENALTY on WAS-45-J.Murphy Illegal Motion 5 yards enforced at WAS 40 - No Play.'>27.07</number><number>0.33</number>
+<number shadow='shadow1' tooltip='2:45 4-12-WAS 35WAS 3 DAL 7 LI: 0.6(Punt formation) 6-S.Rocca punts 51 yards to DAL 14 Center-57-N.Sundberg17-D.Harris for 86 yards TOUCHDOWNPENALTY on WAS Unsportsmanlike Conduct 15 yards enforced between downsThe penalty was on the Washington bench.'>27.25</number><number>0.17</number>
+<number shadow='shadow1' tooltip='2:45 WAS 3 DAL 7 LI: 5-D.Bailey extra point is GOOD Center-91-L.Ladouceur Holder-6-C.Jones.'>27.29</number><number>0.17</number>
+<number shadow='shadow1' tooltip='2:45 WAS 3 DAL 14 LI: 5-D.Bailey kicks 41 yards from DAL 50 to WAS 984-N.Paul to WAS 18 for 9 yards(27-J.Wilcox)Pooch kickInjury update:Washington s Bryan Kehl has left knee sprain; return is questionable.'>27.34</number><number>0.16</number>
+<number shadow='shadow1' tooltip='2:23 1-10-WAS 18WAS 3 DAL 14 LI: 1(Shotgun) 10-R.Griffin pass short right to 89-S.Moss to WAS 34 for 16 yards(54-B.Carter).'>27.62</number><number>0.18</number>
+<number shadow='shadow1' tooltip='2:01 1-10-WAS 34WAS 3 DAL 14 LI: 1(No Huddle Shotgun) 10-R.Griffin pass short right to 29-R.Helu to WAS 42 for 8 yards(70-D.Nevis).'>27.98</number><number>0.19</number>
+<number shadow='shadow1' tooltip='1:54 2-2-WAS 42WAS 3 DAL 14 LI: 1(Shotgun) 10-R.Griffin scrambles left end ran ob at WAS 46 for 4 yards(24-M.Claiborne).'>28.1</number><number>0.21</number>
+<number shadow='shadow1' tooltip='1:48 1-10-WAS 46WAS 3 DAL 14 LI: 1.2(Shotgun) 10-R.Griffin pass incomplete short right to 89-S.Moss [97-J.Hatcher]The Replay Assistant challenged the runner was down by contact ruling and the play was REVERSED(Shotgun) 10-R.Griffin sacked at WAS 36 for -10 yards(97-J.Hatcher)PENALTY on DAL Unsportsmanlike Conduct 15 yards enforced at WAS 36Penalty was called on the Dallas bench.'>28.2</number><number>0.22</number>
+<number shadow='shadow1' tooltip='1:36 1-10-DAL 49WAS 3 DAL 14 LI: 1.2(Shotgun) 10-R.Griffin pass incomplete short left to 89-S.Moss (32-O.Scandrick)Pass incomplete sideline at Dallas 46.'>28.4</number><number>0.19</number>
+<number shadow='shadow1' tooltip='1:29 2-10-DAL 49WAS 3 DAL 14 LI: 0.9(Shotgun) 10-R.Griffin pass short middle to 86-J.Reed to DAL 46 for 3 yards(54-B.Carter).'>28.52</number><number>0.19</number>
+<number shadow='shadow1' tooltip='0:44 3-7-DAL 46WAS 3 DAL 14 LI: 0.9(Shotgun) 10-R.Griffin pass short middle to 86-J.Reed to DAL 17 for 29 yards(42-B.Church; 27-J.Wilcox).'>29.27</number><number>0.26</number>
+<number shadow='shadow1' tooltip='0:20 1-10-DAL 17WAS 3 DAL 14 LI: 1.2(No Huddle Shotgun) 10-R.Griffin pass incomplete deep left to 88-P.Garcon.'>29.67</number><number>0.25</number>
+<number shadow='shadow1' tooltip='0:15 2-10-DAL 17WAS 3 DAL 14 LI: 1.1(Shotgun) 10-R.Griffin pass incomplete short middle to 85-L.Hankerson (24-M.Claiborne)Pass incomplete on a "slant" pattern; Claiborne closest defender.'>29.75</number><number>0.24</number>
+<number shadow='shadow1' tooltip='0:09 3-10-DAL 17WAS 3 DAL 14 LI: 1(Shotgun) 10-R.Griffin up the middle to DAL 14 for 3 yards(96-N.Hayden)Delayed quarterback keeper.'>29.85</number><number>0.21</number>
+<number shadow='shadow1' tooltip='0:01 4-7-DAL 14WAS 3 DAL 14 LI: 0.6(Field Goal formation) 2-K.Forbath 32 yard field goal is GOOD Center-57-N.Sundberg Holder-6-S.Rocca.'>29.98</number><number>0.21</number>
+<number shadow='shadow1' tooltip='0:01 WAS 6 DAL 14 LI: 5-D.Bailey kicks 65 yards from DAL 35 to end zone Touchback.'>30.07</number><number>0.24</number>
+<number shadow='shadow1' tooltip='14:51 2-10-WAS 20WAS 6 DAL 14 LI: 1(Shotgun) 10-R.Griffin left end to WAS 27 for 7 yards(54-B.Carter).'>30.15</number><number>0.23</number>
+<number shadow='shadow1' tooltip='14:12 3-3-WAS 27WAS 6 DAL 14 LI: 0.9(Shotgun) 10-R.Griffin pass short right to 88-P.Garcon to WAS 31 for 4 yards(32-O.Scandrick).'>30.8</number><number>0.26</number>
+<number shadow='shadow1' tooltip='13:36 1-10-WAS 31WAS 6 DAL 14 LI: 1.146-A.Morris right tackle to WAS 36 for 5 yards(99-G.Selvie).'>31.4</number><number>0.26</number>
+<number shadow='shadow1' tooltip='12:53 2-5-WAS 36WAS 6 DAL 14 LI: 1.110-R.Griffin pass incomplete deep left to 88-P.GarconPass incomplete "deep out" at the Dallas 35.'>32.12</number><number>0.24</number>
+<number shadow='shadow1' tooltip='12:46 3-5-WAS 36WAS 6 DAL 14 LI: 0.9(Shotgun) 10-R.Griffin up the middle to DAL 38 for 26 yards(42-B.Church)PENALTY on DAL-42-B.Church Unnecessary Roughness 15 yards enforced at DAL 38.'>32.23</number><number>0.33</number>
+<number shadow='shadow1' tooltip='12:17 1-10-DAL 23WAS 6 DAL 14 LI: 1.1(Shotgun) 29-R.Helu left tackle to DAL 20 for 3 yards(50-S.Lee).'>32.72</number><number>0.35</number>
+<number shadow='shadow1' tooltip='11:36 2-7-DAL 20WAS 6 DAL 14 LI: 1.346-A.Morris up the middle to DAL 22 for -2 yards(50-S.Lee; 92-D.Carter).'>33.4</number><number>0.31</number>
+<number shadow='shadow1' tooltip='10:50 3-9-DAL 22WAS 6 DAL 14 LI: 1(Shotgun) 10-R.Griffin pass short left to 88-P.Garcon to DAL 15 for 7 yards(50-S.Lee).'>34.17</number><number>0.28</number>
+<number shadow='shadow1' tooltip='10:08 4-2-DAL 15WAS 6 DAL 14 LI: 0.6(Field Goal formation) 2-K.Forbath 33 yard field goal is GOOD Center-57-N.Sundberg Holder-6-S.Rocca.'>34.87</number><number>0.28</number>
+<number shadow='shadow1' tooltip='10:08 WAS 9 DAL 14 LI: 2-K.Forbath kicks 70 yards from WAS 35 to DAL -517-D.Harris to WAS 15 for 90 yards(30-E.Biggers)Return outside the yardline markers.'>34.96</number><number>0.19</number>
+<number shadow='shadow1' tooltip='9:50 1-10-WAS 15WAS 9 DAL 14 LI: 0.921-J.Randle left tackle to WAS 15 for no gain (26-J.Wilson).'>35.17</number><number>0.18</number>
+<number shadow='shadow1' tooltip='9:12 2-10-WAS 15WAS 9 DAL 14 LI: 1(Shotgun) 9-T.Romo pass short right to 83-T.Williams for 15 yards TOUCHDOWN [56-P.Riley]Pass caught after Romo escapes pressure and ball caught back corner of the end zone.'>35.8</number><number>0.14</number>
+<number shadow='shadow1' tooltip='9:12 WAS 9 DAL 14 LI: 5-D.Bailey extra point is GOOD Center-91-L.Ladouceur Holder-6-C.Jones.'>35.84</number><number>0.14</number>
+<number shadow='shadow1' tooltip='9:12 WAS 9 DAL 21 LI: 5-D.Bailey kicks 65 yards from DAL 35 to end zone TouchbackBall was kicked out of the end zone.'>35.89</number><number>0.13</number>
+<number shadow='shadow1' tooltip='9:03 1-10-WAS 20WAS 9 DAL 21 LI: 0.9(Shotgun) 46-A.Morris left tackle to WAS 26 for 6 yards(32-O.Scandrick 27-J.Wilcox).'>35.95</number><number>0.12</number>
+<number shadow='shadow1' tooltip='8:26 2-4-WAS 26WAS 9 DAL 21 LI: 0.8(Shotgun) 46-A.Morris right tackle to WAS 28 for 2 yards(51-K.Wilber).'>36.57</number><number>0.11</number>
+<number shadow='shadow1' tooltip='7:40 3-2-WAS 28WAS 9 DAL 21 LI: 0.7(Shotgun) 29-R.Helu up the middle to WAS 30 for 2 yards(54-B.Carter).'>37.33</number><number>0.14</number>
+<number shadow='shadow1' tooltip='6:56 1-10-WAS 30WAS 9 DAL 21 LI: 110-R.Griffin sacked at WAS 20 for -10 yards(97-J.Hatcher)FUMBLES (97-J.Hatcher) [97-J.Hatcher] recovered by WAS-78-K.Lichtensteiger at WAS 1878-K.Lichtensteiger to WAS 18 for no gain (51-K.Wilber).'>38.07</number><number>0.09</number>
+<number shadow='shadow1' tooltip='6:07 2-22-WAS 18WAS 9 DAL 21 LI: 0.6(Shotgun) 10-R.Griffin pass incomplete short middle to 29-R.Helu.'>38.88</number><number>0.08</number>
+<number shadow='shadow1' tooltip='6:01 3-22-WAS 18WAS 9 DAL 21 LI: 0.5(Shotgun) 10-R.Griffin pass short right to 29-R.Helu to WAS 36 for 18 yards(42-B.Church 95-C.Rayford).'>38.98</number><number>0.09</number>
+<number shadow='shadow1' tooltip='5:29 4-4-WAS 36WAS 9 DAL 21 LI: 0.4(Punt formation) 6-S.Rocca punts 59 yards to DAL 5 Center-57-N.Sundberg17-D.Harris pushed ob at DAL 28 for 23 yards(57-N.Sundberg)PENALTY on DAL-24-M.Claiborne Offensive Holding 10 yards enforced at DAL 28.'>39.52</number><number>0.09</number>
+<number shadow='shadow1' tooltip='5:16 1-10-DAL 18WAS 9 DAL 21 LI: 1.121-J.Randle left tackle to DAL 18 for no gain (92-C.Baker).'>39.73</number><number>0.1</number>
+<number shadow='shadow1' tooltip='4:41 2-10-DAL 18WAS 9 DAL 21 LI: 0.99-T.Romo pass incomplete short right to 88-D.BryantPass incomplete on a "slant" pattern; Hall closest defender.'>40.32</number><number>0.12</number>
+<number shadow='shadow1' tooltip='4:37 3-10-DAL 18WAS 9 DAL 21 LI: 0.7(Shotgun) 9-T.Romo pass incomplete deep middle to 88-D.BryantPass incomplete at the Dallas 35; Hall closest defender.'>40.38</number><number>0.14</number>
+<number shadow='shadow1' tooltip='4:30 4-10-DAL 18WAS 9 DAL 21 LI: 0.5(Punt formation) 6-C.Jones punts 43 yards to WAS 39 Center-91-L.Ladouceur45-J.Murphy to WAS 39 for no gain (58-K.Bosworth)PENALTY on WAS-30-E.Biggers Offensive Holding 10 yards enforced at WAS 39.'>40.5</number><number>0.12</number>
+<number shadow='shadow1' tooltip='4:20 1-10-WAS 29WAS 9 DAL 21 LI: 0.8(Shotgun) 10-R.Griffin pass incomplete deep middle to 88-P.Garcon (39-B.Carr)Pass incomplete on a "quick slant."'>40.67</number><number>0.11</number>
+<number shadow='shadow1' tooltip='4:14 2-10-WAS 29WAS 9 DAL 21 LI: 0.7(Shotgun) 10-R.Griffin left end ran ob at WAS 40 for 11 yards(42-B.Church)PENALTY on DAL-42-B.Church Unnecessary Roughness 15 yards enforced at WAS 40.'>40.77</number><number>0.15</number>
+<number shadow='shadow1' tooltip='3:53 1-10-DAL 45WAS 9 DAL 21 LI: 0.946-A.Morris up the middle for 45 yards TOUCHDOWN.'>41.12</number><number>0.26</number>
+<number shadow='shadow1' tooltip='3:53 WAS 9 DAL 21 LI: 2-K.Forbath extra point is GOOD Center-57-N.Sundberg Holder-6-S.RoccaPENALTY on WAS-74-T.Polumbus False Start 5 yards enforced at DAL 2 - No Play.'>41.16</number><number>0.26</number>
+<number shadow='shadow1' tooltip='3:53 WAS 16 DAL 21 LI: 2-K.Forbath kicks 65 yards from WAS 35 to end zone Touchback.'>41.21</number><number>0.28</number>
+<number shadow='shadow1' tooltip='3:43 1-10-DAL 20WAS 16 DAL 21 LI: 1.59-T.Romo sacked at DAL 15 for -5 yards(56-P.Riley).'>41.28</number><number>0.31</number>
+<number shadow='shadow1' tooltip='3:10 2-15-DAL 15WAS 16 DAL 21 LI: 1.3(Shotgun) 9-T.Romo pass incomplete short middle to 88-D.Bryant [26-J.Wilson]Pass incomplete at the Dallas 25; Hall closest defender.'>41.83</number><number>0.32</number>
+<number shadow='shadow1' tooltip='3:04 3-15-DAL 15WAS 16 DAL 21 LI: 1.2(Shotgun) 9-T.Romo pass incomplete short left to 19-M.AustinPass incomplete sideline at the Dallas 30; Wilson closest defender.'>41.93</number><number>0.34</number>
+<number shadow='shadow1' tooltip='2:58 4-15-DAL 15WAS 16 DAL 21 LI: 1(Punt formation) 6-C.Jones punts 52 yards to WAS 33 Center-91-L.Ladouceur15-J.Morgan pushed ob at WAS 39 for 6 yards(38-J.Heath).'>42.03</number><number>0.33</number>
+<number shadow='shadow1' tooltip='2:47 1-10-WAS 39WAS 16 DAL 21 LI: 1.3(Shotgun) 46-A.Morris up the middle to WAS 42 for 3 yards(97-J.Hatcher).'>42.22</number><number>0.33</number>
+<number shadow='shadow1' tooltip='2:11 2-7-WAS 42WAS 16 DAL 21 LI: 1.210-R.Griffin pass incomplete short middle to 88-P.Garcon (39-B.Carr)Pass incomplete at the Dallas 45 on a "curl" route.'>42.82</number><number>0.31</number>
+<number shadow='shadow1' tooltip='2:04 3-7-WAS 42WAS 16 DAL 21 LI: 1(Shotgun) 10-R.Griffin pass short right to 85-L.Hankerson to DAL 41 for 17 yards(24-M.Claiborne)Pass complete on a "button hook" pattern.'>42.93</number><number>0.37</number>
+<number shadow='shadow1' tooltip='1:22 1-10-DAL 41WAS 16 DAL 21 LI: 1.446-A.Morris up the middle to DAL 35 for 6 yards(42-B.Church).'>43.63</number><number>0.38</number>
+<number shadow='shadow1' tooltip='0:41 2-4-DAL 35WAS 16 DAL 21 LI: 1.4(Shotgun) 10-R.Griffin left end ran ob at DAL 30 for 5 yards(39-B.Carr).'>44.32</number><number>0.4</number>
+<number shadow='shadow1' tooltip='0:06 1-10-DAL 30WAS 16 DAL 21 LI: 1.6(Shotgun) 10-R.Griffin left end to DAL 31 for -1 yards(39-B.Carr).'>44.9</number><number>0.37</number>
+<number shadow='shadow1' tooltip='15:00 2-11-DAL 31WAS 16 DAL 21 LI: 1.3(Shotgun) 10-R.Griffin pass incomplete short middle to 85-L.Hankerson (24-M.Claiborne)Pass incomplete on a "quick slant pattern."'>45</number><number>0.35</number>
+<number shadow='shadow1' tooltip='14:54 3-11-DAL 31WAS 16 DAL 21 LI: 1.1(Shotgun) 10-R.Griffin pass incomplete deep left to 88-P.GarconPass incomplete at the Dallas 3 on a "flag" pattern.'>45.1</number><number>0.32</number>
+<number shadow='shadow1' tooltip='14:48 4-11-DAL 31WAS 16 DAL 21 LI: 0.8(Field Goal formation) 2-K.Forbath 49 yard field goal is No Good Wide Left Center-57-N.Sundberg Holder-6-S.Rocca.'>45.2</number><number>0.23</number>
+<number shadow='shadow1' tooltip='14:42 1-10-DAL 39WAS 16 DAL 21 LI: 1.4(Shotgun) 9-T.Romo pass short right to 11-C.Beasley to WAS 47 for 14 yards(48-J.Gumbs)Romo pass complete after escaping pressure; comeback route by Beasley.'>45.3</number><number>0.19</number>
+<number shadow='shadow1' tooltip='13:53 1-10-WAS 47WAS 16 DAL 21 LI: 1.5(Shotgun) 9-T.Romo pass short left to 88-D.Bryant to WAS 30 for 17 yards(26-J.Wilson)Pass complete on a "crossing" pattern.'>46.12</number><number>0.16</number>
+<number shadow='shadow1' tooltip='13:08 1-10-WAS 30WAS 16 DAL 21 LI: 1.3(Shotgun) 9-T.Romo pass short left to 82-J.Witten to WAS 25 for 5 yards(59-L.Fletcher)Pass complete on a "drag" route.'>46.87</number><number>0.14</number>
+<number shadow='shadow1' tooltip='12:24 2-5-WAS 25WAS 16 DAL 21 LI: 1.3(Shotgun) 9-T.Romo pass incomplete short left to 11-C.BeasleyPass incomplete sideline at the Washington 20.'>47.6</number><number>0.16</number>
+<number shadow='shadow1' tooltip='12:19 3-5-WAS 25WAS 16 DAL 21 LI: 1.1(Shotgun) 9-T.Romo pass short left to 11-C.Beasley pushed ob at WAS 16 for 9 yards(31-B.Meriweather)Pass complete on an "up and out" pattern.'>47.68</number><number>0.13</number>
+<number shadow='shadow1' tooltip='11:41 1-10-WAS 16WAS 16 DAL 21 LI: 1.1(Shotgun) 9-T.Romo pass incomplete short right to 84-J.HannaHeavy pressure by Stephen Bowen'>48.32</number><number>0.12</number>
+<number shadow='shadow1' tooltip='11:36 2-10-WAS 16WAS 16 DAL 21 LI: 1.2(Shotgun) 9-T.Romo pass incomplete short right to 82-J.WittenPass incomplete on a "crossing pattern" Riley closest defenderPENALTY on DAL-83-T.Williams Offensive Pass Interference 10 yards enforced at WAS 16 - No Play.'>48.4</number><number>0.15</number>
+<number shadow='shadow1' tooltip='11:31 2-20-WAS 26WAS 16 DAL 21 LI: 1.2(Shotgun) 9-T.Romo pass incomplete deep left to 19-M.Austin (23-D.Hall)Pass incomplete "go" route; back of the end zone.'>48.48</number><number>0.16</number>
+<number shadow='shadow1' tooltip='11:24 3-20-WAS 26WAS 16 DAL 21 LI: 1(Shotgun) 9-T.Romo pass short left to 11-C.Beasley to WAS 12 for 14 yards(56-P.Riley).'>48.6</number><number>0.14</number>
+<number shadow='shadow1' tooltip='10:40 4-6-WAS 12WAS 16 DAL 21 LI: 0.8(Field Goal formation) 5-D.Bailey 30 yard field goal is GOOD Center-91-L.Ladouceur Holder-6-C.Jones.'>49.33</number><number>0.14</number>
+<number shadow='shadow1' tooltip='10:40 WAS 16 DAL 24 LI: 5-D.Bailey kicks 65 yards from DAL 35 to end zone TouchbackBall was kicked out of the end zone.'>49.42</number><number>0.13</number>
+<number shadow='shadow1' tooltip='10:17 2-4-WAS 26WAS 16 DAL 24 LI: 0.7(No Huddle Shotgun) PENALTY on WAS-46-A.Morris False Start 5 yards enforced at WAS 26 - No Play.'>49.72</number><number>0.13</number>
+<number shadow='shadow1' tooltip='9:56 2-9-WAS 21WAS 16 DAL 24 LI: 0.7(Shotgun) 10-R.Griffin pass incomplete deep right to 15-J.MorganPENALTY on WAS-78-K.Lichtensteiger Offensive Holding 10 yards enforced at WAS 21 - No Play.'>50.07</number><number>0.1</number>
+<number shadow='shadow1' tooltip='9:47 2-19-WAS 11WAS 16 DAL 24 LI: 0.5(Shotgun) 10-R.Griffin sacked at WAS 4 for -7 yards(51-K.Wilber)FUMBLES (51-K.Wilber) [51-K.Wilber] RECOVERED by DAL-51-K.Wilber at WAS 451-K.Wilber to WAS 3 for 1 yard(10-R.Griffin).'>50.22</number><number>0.04</number>
+<number shadow='shadow1' tooltip='9:36 1-3-WAS 3WAS 16 DAL 24 LI: 0.621-J.Randle right tackle to WAS 1 for 2 yards(72-S.Bowen).'>50.4</number><number>0.04</number>
+<number shadow='shadow1' tooltip='8:56 2-1-WAS 1WAS 16 DAL 24 LI: 0.521-J.Randle left tackle for 1 yard TOUCHDOWN.'>51.07</number><number>0.03</number>
+<number shadow='shadow1' tooltip='8:56 WAS 16 DAL 24 LI: 5-D.Bailey extra point is GOOD Center-91-L.Ladouceur Holder-6-C.Jones.'>51.11</number><number>0.03</number>
+<number shadow='shadow1' tooltip='8:56 WAS 16 DAL 31 LI: 5-D.Bailey kicks 71 yards from DAL 35 to WAS -615-J.Morgan to WAS 14 for 20 yards(34-P.Tanner)Sundberg of Washington Right Knee injury; he is out for the game.'>51.16</number><number>0.02</number>
+<number shadow='shadow1' tooltip='8:44 1-10-WAS 14WAS 16 DAL 31 LI: 0.1(Shotgun) 29-R.Helu left end to WAS 16 for 2 yards(96-N.Hayden).'>51.27</number><number>0.02</number>
+<number shadow='shadow1' tooltip='7:59 2-8-WAS 16WAS 16 DAL 31 LI: 0.1(Shotgun) 10-R.Griffin pass incomplete deep middle to 88-P.GarconPass incomplete on a "slant" patternPENALTY on DAL-96-N.Hayden Illegal Use of Hands 5 yards enforced at WAS 16 - No Play.'>52.02</number><number>0.03</number>
+<number shadow='shadow1' tooltip='7:53 1-10-WAS 21WAS 16 DAL 31 LI: 0.210-R.Griffin pass deep right to 89-S.Moss to WAS 47 for 26 yards(32-O.Scandrick)Pass complete off play action on a "go" route.'>52.12</number><number>0.04</number>
+<number shadow='shadow1' tooltip='7:15 1-10-WAS 47WAS 16 DAL 31 LI: 0.3(Shotgun) 10-R.Griffin pass incomplete short right to 29-R.HeluPass incomplete in the "flat"; Carter closest defender.'>52.75</number><number>0.03</number>
+<number shadow='shadow1' tooltip='7:11 2-10-WAS 47WAS 16 DAL 31 LI: 0.2(Shotgun) 10-R.Griffin pass short left to 29-R.Helu pushed ob at DAL 45 for 8 yards(39-B.Carr).'>52.82</number><number>0.04</number>
+<number shadow='shadow1' tooltip='6:34 3-2-DAL 45WAS 16 DAL 31 LI: 0.336-D.Young up the middle to DAL 26 for 19 yards(27-J.Wilcox; 59-E.Sims).'>53.43</number><number>0.07</number>
+<number shadow='shadow1' tooltip='6:00 1-10-DAL 26WAS 16 DAL 31 LI: 0.6(Shotgun) 29-R.Helu left end to DAL 23 for 3 yards(39-B.Carr).'>54</number><number>0.03</number>
+<number shadow='shadow1' tooltip='5:16 2-7-DAL 23WAS 16 DAL 31 LI: 0.2(Shotgun) 10-R.Griffin pass deep right INTERCEPTED by 32-O.Scandrick at DAL -9Touchback.'>54.73</number><number>0.01</number>
+<number shadow='shadow1' tooltip='5:08 1-10-DAL 20WAS 16 DAL 31 LI: 0.821-J.Randle left tackle to DAL 34 for 14 yards(37-R.Doughty).'>54.87</number><number>0.01</number>
+<number shadow='shadow1' tooltip='4:22 1-10-DAL 34WAS 16 DAL 31 LI: 0.821-J.Randle left tackle to DAL 37 for 3 yards(91-R.Kerrigan).'>55.63</number><number>0.01</number>
+<number shadow='shadow1' tooltip='3:30 2-7-DAL 37WAS 16 DAL 31 LI: 0.721-J.Randle right tackle to DAL 40 for 3 yards(91-R.Kerrigan).'>56.5</number><number>0.01</number>
+<number shadow='shadow1' tooltip='3:25 3-4-DAL 40WAS 16 DAL 31 LI: 0.521-J.Randle left end to DAL 37 for -3 yards(56-P.Riley).'>56.58</number><number>0.02</number>
+<number shadow='shadow1' tooltip='3:20 4-7-DAL 37WAS 16 DAL 31 LI: 0.4(Punt formation) 6-C.Jones punts 45 yards to WAS 18 Center-91-L.Ladouceur15-J.Morgan to WAS 16 for -2 yards(17-D.Harris).'>56.67</number><number>0.01</number>
+<number shadow='shadow1' tooltip='3:06 1-10-WAS 16WAS 16 DAL 31 LI: 0.1(Shotgun) 10-R.Griffin pass deep middle to 88-P.Garcon to WAS 41 for 25 yards(39-B.Carr).'>56.9</number><number>0.01</number>
+<number shadow='shadow1' tooltip='2:43 1-10-WAS 41WAS 16 DAL 31 LI: 0.1(No Huddle Shotgun) 10-R.Griffin pass incomplete short middle to 86-J.Reed (50-S.Lee)Pass incomplete at the Dallas 48.'>57.28</number><number>0.01</number>
+<number shadow='shadow1' tooltip='2:36 2-10-WAS 41WAS 16 DAL 31 LI: 0.1(Shotgun) 10-R.Griffin pass incomplete deep right to 85-L.HankersonPass incomplete at the Dallas 40 on a "flag" pattern.'>57.4</number><number>0.01</number>
+<number shadow='shadow1' tooltip='2:31 3-10-WAS 41WAS 16 DAL 31 LI: 0.1(Shotgun) 10-R.Griffin pass short left to 29-R.Helu to WAS 42 for 1 yard(50-S.Lee; 96-N.Hayden)Pass complete in the flat.'>57.48</number><number>0.01</number>
+<number shadow='shadow1' tooltip='2:16 4-9-WAS 42WAS 16 DAL 31 LI: 0.1(Shotgun) 10-R.Griffin pass incomplete deep middle to 85-L.Hankerson (24-M.Claiborne).'>57.73</number><number>0.01</number>
+<number shadow='shadow1' tooltip='2:10 1-10-WAS 42WAS 16 DAL 31 LI: 0.121-J.Randle right tackle to WAS 40 for 2 yards(26-J.Wilson).'>57.83</number><number>0.01</number>
+<number shadow='shadow1' tooltip='2:00 2-8-WAS 40WAS 16 DAL 31 LI: 0.121-J.Randle up the middle to WAS 40 for no gain (64-K.Golston; 37-R.Doughty).'>58</number><number>0.01</number>
+<number shadow='shadow1' tooltip='1:15 3-8-WAS 40WAS 16 DAL 31 LI: 0.121-J.Randle right end to WAS 45 for -5 yards(64-K.Golston).'>58.75</number><number>0.01</number>
+<number shadow='shadow1' tooltip='0:23 4-13-WAS 45WAS 16 DAL 31 LI: 0.1(Punt formation) 6-C.Jones punts 36 yards to WAS 9 Center-91-L.Ladouceur15-J.Morgan to WAS 13 for 4 yards(91-L.Ladouceur)PENALTY on WAS-48-J.Gumbs Offensive Holding 10 yards enforced at WAS 13.'>59.62</number><number>0.01</number>
+<number shadow='shadow1' tooltip='0:14 1-10-WAS 3WAS 16 DAL 31 LI: 0.129-R.Helu left end to WAS 18 for 15 yards(20-B.Webb)PENALTY on WAS-74-T.Polumbus Offensive Holding 10 yards enforced at WAS 18.'>59.77</number><number>0.01</number>
+<number>60</number><number>0</number>
+</row> </chart_data>
+       <draw>
+
+
+
+      <image x='45' y='298'  url='nfllogos/42x50png/WAS.gif'  layer='foreground' glow = 'glow1'/>
+      <image x='45' y='350'  url='nfllogos/42x50png/DAL.gif'     layer='foreground' glow = 'glow1'/>
+
+
+      <rect x='130' y='300' width='250' height='40' fill_color='920001' bevel='bevel1' />
+      <text x='135' y='300' width='250' height='40' h_align='left' v_align='middle' color='ffffff' shadow='shadow2' glow=''>Washington Redskins</text>
+
+      <rect x='130' y='350' width='250' height='40' fill_color='c0c0c0' bevel='bevel1'  />
+      <text x='135' y='350' width='250' height='40' h_align='left' v_align='middle' color='ffffff' shadow='shadow2' glow='winnerglow'>Dallas Cowboys</text>
+
+      <rect x='420' y='300' width='60' height='40' fill_color='920001' bevel='bevel1'  />
+      <text x='420' y='300' width='60' height='40' h_align='center' v_align='middle' color='ffffff' shadow='shadow2' transition='none' glow=''>16</text>
+
+      <rect x='420' y='350' width='60' height='40' fill_color='c0c0c0' bevel='bevel1' />
+      <text x='420' y='350' width='60' height='40' h_align='center' v_align='middle' color='ffffff' shadow='shadow2' transition='none' glow='winnerglow'>31</text>
+
+      <text x='-3' y='12'  width='60' height='40' h_align='center' v_align='middle' size='13' shadow='shadow2'>WASWin </text>
+      <text x='-3' y='218' width='60' height='40' h_align='center' v_align='middle' size='13' shadow='shadow2'>DALWin </text>
+
+     
+              <rect x='540' y='300' width='100' height='35' fill_color='000000' fill_alpha='50'/>
+              <text x='540' y='300' width='100' height='35' h_align='center' v_align='middle' color='ffffff' size='15' shadow='shadow2' >Final</text>
+
+              <text x='540' y='340' width='40' h_align='center' color='000000' size='12' shadow='shadow2'>CBF</text>
+              <text x='600' y='340' width='40' h_align='center' color='000000' size='12' shadow='shadow2'>EI</text>
+
+              <rect x='540' y='360' width='40' height='30' fill_color='000000' fill_alpha='50' />
+              <text x='540' y='360' width='40' height='30' size='12' h_align='center' v_align='middle' color='FFFFFF' shadow='shadow2'>2</text>
+
+              <rect x='600' y='360' width='40' height='30' fill_color='000000' fill_alpha='50' />
+              <text x='600' y='360' width='40' height='30' size='12' h_align='center' v_align='middle' color='FFFFFF' shadow='shadow2'>3.1</text>
+
+              <text x='20' y='420' width='70' height='25' size='12' h_align='left' v_align='middle' color='000000' >10/13/2013</text>
+              <text x='100' y='420' width='200' height='25' size='12' h_align='left' v_align='middle' color='000000' >AT&T Stadium</text>
+
+   </draw></chart>

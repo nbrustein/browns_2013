@@ -1,0 +1,293 @@
+
+<chart>
+   <license>ETAS9P33ESHO.945CWK-2XOI1X0-7L</license>
+   <chart_type>scatter</chart_type>
+   <chart_pref trend_thickness='0' line_thickness='3' point_size='0'/>
+
+   <series_color>
+      <color>ffff00</color>
+   </series_color>
+
+   <chart_rect x='45' y='20' width='630' height='230' positive_color='cacaca'  />
+
+  <chart_border top_thickness='0'
+                 bottom_thickness='0'
+                 left_thickness='0'
+                 right_thickness='0'
+                 color='000000'
+                 />
+
+   <tooltip font='Arial' bold='true' size='11' />
+
+   <chart_note type='flag'
+               color='000000'
+               alpha='90'
+               bold='FALSE'
+               size='10'
+               background_color='ffffe0'
+               background_alpha='50'
+               shadow='shadow2'
+               />
+
+   <chart_grid_h thickness='2' color='ffffff' type='dashed'  />
+   <chart_grid_v thickness='2' color='ffffff'   />
+		>
+
+   <legend layout='hide' />
+
+   <chart_guide horizontal='TRUE'
+             vertical='TRUE'
+             thickness='1'
+             color='006400'
+             alpha='100'
+             type='solid'
+             snap_h='TRUE'
+             snap_v='TRUE'
+             radius='3'
+             fill_color='006400'
+             fill_alpha='100'
+             line_color='006400'
+             line_alpha='80'
+             line_thickness='1'
+             text_h_alpha='50'
+             text_v_alpha='00'
+             suffix_h=' WP'
+             decimals='2'
+             bold='FALSE'
+             size='11'
+             text_color='FFFFFF'
+             background_color='006400'
+             />
+   <filter>
+      <shadow id='shadow1' distance='2' angle='60' blurX='5' blurY='5' alpha='50' />
+      <bevel id='bevel1' angle='45' blurX='5' blurY='5' distance='0' />
+      <glow id='glow1' color='ffffff' alpha='0' blurX='7' blurY='7' strength='6' quality='2' inner='FALSE' knockout='FALSE' />
+      <glow id='winnerglow' color='ffffff' alpha='0' blurX='7' blurY='7' strength='5' quality='2' inner='FALSE' knockout='FALSE' />
+   </filter>
+
+    <axis_value_label>
+         <string></string>
+          <string> </string>
+          <null/>
+          <string> </string>
+          <string></string>
+
+       </axis_value_label>
+		
+	   <axis_ticks category_ticks='false'/>
+
+       <axis_value min='0' max='1' steps='4'  decimals='2' show_min='true' size='13' shadow='shadow2' />     
+            <axis_category
+               min='0'
+               max='60'
+               steps='4'
+               mode='all'
+               decimals='0'
+               size='13'
+               shadow='shadow2'
+               />
+
+       <axis_category_label>
+          <string>Kickoff</string>
+          <string></string>
+          <string>Halftime</string>
+          <string></string>
+          <string>End</string>
+
+       </axis_category_label>
+
+
+        <chart_data>
+       <row>
+	      <null/><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number>
+              <number>x</number><number>y</number>
+              </row><row><string></string>
+
+                     <number shadow='shadow1'>0</number><number>.5</number><number shadow='shadow1' tooltip='15:00 CIN 0 SD 0 LI: 2-M.Nugent kicks 74 yards from CIN 35 to SD -910-L.Hawkins Touchback.'>0.09</number><number>0.48</number>
+<number shadow='shadow1' tooltip='14:24 2-6-SD 24CIN 0 SD 0 LI: 1.4(Shotgun) 17-P.Rivers pass short right to 13-K.Allen to SD 30 for 6 yards(94-D.Peko 43-G.Iloka).'>0.6</number><number>0.46</number>
+<number shadow='shadow1' tooltip='13:50 1-10-SD 30CIN 0 SD 0 LI: 1.6(Shotgun) 23-R.Brown up the middle to SD 33 for 3 yards(55-V.Burfict).'>1.17</number><number>0.47</number>
+<number shadow='shadow1' tooltip='13:19 2-7-SD 33CIN 0 SD 0 LI: 1.4(Shotgun) 17-P.Rivers pass short middle to 85-A.Gates to SD 42 for 9 yards(32-C.Crocker 58-R.Maualuga).'>1.68</number><number>0.45</number>
+<number shadow='shadow1' tooltip='12:44 1-10-SD 42CIN 0 SD 0 LI: 1.424-R.Mathews right end to SD 45 for 3 yards(43-G.Iloka).'>2.27</number><number>0.46</number>
+<number shadow='shadow1' tooltip='12:01 2-7-SD 45CIN 0 SD 0 LI: 1.2(Shotgun) 17-P.Rivers pass short middle to 85-A.Gates to 50 for 5 yards(58-R.Maualuga).'>2.98</number><number>0.46</number>
+<number shadow='shadow1' tooltip='11:16 3-2-50CIN 0 SD 0 LI: 1.1(Shotgun) 17-P.Rivers pass incomplete deep left to 89-L.Green.'>3.73</number><number>0.46</number>
+<number shadow='shadow1' tooltip='11:08 3-2-50CIN 0 SD 0 LI: 1.1(Shotgun) 17-P.Rivers scrambles right end to CIN 46 for 4 yards(92-J.Harrison).'>3.87</number><number>0.39</number>
+<number shadow='shadow1' tooltip='10:36 1-10-CIN 31CIN 0 SD 0 LI: 1.5(Shotgun) 17-P.Rivers pass incomplete short middle to 89-L.Green [55-V.Burfict].'>4.4</number><number>0.41</number>
+<number shadow='shadow1' tooltip='10:32 2-10-CIN 31CIN 0 SD 0 LI: 1.3(Shotgun) 39-D.Woodhead right tackle to CIN 31 for no gain (96-C.Dunlap).'>4.47</number><number>0.43</number>
+<number shadow='shadow1' tooltip='9:49 3-10-CIN 31CIN 0 SD 0 LI: 1.1(Shotgun) 17-P.Rivers pass short left to 85-A.Gates to CIN 18 for 13 yards(20-R.Nelson) [92-J.Harrison]FUMBLES (20-R.Nelson) RECOVERED by CIN-43-G.Iloka at CIN 1843-G.Iloka to CIN 18 for no gain (85-A.Gates).'>5.18</number><number>0.51</number>
+<number shadow='shadow1' tooltip='9:42 1-10-CIN 18CIN 0 SD 0 LI: 1.642-B.Green-Ellis up the middle to CIN 23 for 5 yards(94-C.Liuget 50-M.Teo).'>5.3</number><number>0.51</number>
+<number shadow='shadow1' tooltip='9:08 2-5-CIN 23CIN 0 SD 0 LI: 1.425-G.Bernard right tackle to CIN 21 for -2 yards(50-M.Teo).'>5.87</number><number>0.49</number>
+<number shadow='shadow1' tooltip='8:25 3-7-CIN 21CIN 0 SD 0 LI: 1.3(Shotgun) 14-A.Dalton pass incomplete short middle to 18-A.Green.'>6.58</number><number>0.45</number>
+<number shadow='shadow1' tooltip='8:19 4-7-CIN 21CIN 0 SD 0 LI: 0.910-K.Huber punts 75 yards to SD 4 Center-46-C.Harris downed by CIN-51-J.DiManche.'>6.68</number><number>0.5</number>
+<number shadow='shadow1' tooltip='8:06 1-10-SD 4CIN 0 SD 0 LI: 1.824-R.Mathews left tackle to SD 8 for 4 yards(58-R.Maualuga 43-G.Iloka).'>6.9</number><number>0.52</number>
+<number shadow='shadow1' tooltip='7:33 2-6-SD 8CIN 0 SD 0 LI: 1.624-R.Mathews up the middle to SD 17 for 9 yards(43-G.Iloka).'>7.45</number><number>0.49</number>
+<number shadow='shadow1' tooltip='6:48 1-10-SD 17CIN 0 SD 0 LI: 1.6(Shotgun) 17-P.Rivers sacked at SD 17 for 0 yards(58-R.Maualuga).'>8.2</number><number>0.5</number>
+<number shadow='shadow1' tooltip='6:02 2-10-SD 17CIN 0 SD 0 LI: 1.524-R.Mathews right end to SD 23 for 6 yards(55-V.Burfict).'>8.97</number><number>0.5</number>
+<number shadow='shadow1' tooltip='5:14 3-4-SD 23CIN 0 SD 0 LI: 1.3(Shotgun) 17-P.Rivers sacked at SD 14 for -9 yards(95-W.Gilberry).'>9.77</number><number>0.56</number>
+<number shadow='shadow1' tooltip='4:49 4-13-SD 14CIN 0 SD 0 LI: 1.15-M.Scifres punts 56 yards to CIN 30 Center-47-M.Windt24-A.Jones to CIN 33 for 3 yards(59-A.Gachkar).'>10.18</number><number>0.54</number>
+<number shadow='shadow1' tooltip='4:36 1-10-CIN 33CIN 0 SD 0 LI: 1.514-A.Dalton pass short left to 12-M.Sanu to CIN 42 for 9 yards(56-D.Butler).'>10.4</number><number>0.55</number>
+<number shadow='shadow1' tooltip='3:56 2-1-CIN 42CIN 0 SD 0 LI: 1.442-B.Green-Ellis up the middle to CIN 46 for 4 yards(92-C.Thomas 50-M.Teo)CIN-65-C.Boling was injured during the play.'>11.07</number><number>0.56</number>
+<number shadow='shadow1' tooltip='3:29 1-10-CIN 46CIN 0 SD 0 LI: 1.414-A.Dalton pass short right to 42-B.Green-Ellis to CIN 49 for 3 yards(31-R.Marshall).'>11.52</number><number>0.55</number>
+<number shadow='shadow1' tooltip='2:56 2-7-CIN 49CIN 0 SD 0 LI: 1.2(Shotgun) 42-B.Green-Ellis up the middle to SD 38 for 13 yards(94-C.Liuget 90-T.Keiser).'>12.07</number><number>0.6</number>
+<number shadow='shadow1' tooltip='2:17 1-10-SD 38CIN 0 SD 0 LI: 1.514-A.Dalton pass short right to 18-A.Green to SD 30 for 8 yards(31-R.Marshall).'>12.72</number><number>0.61</number>
+<number shadow='shadow1' tooltip='1:44 2-2-SD 30CIN 0 SD 0 LI: 1.525-G.Bernard up the middle to SD 25 for 5 yards(92-C.Thomas).'>13.27</number><number>0.63</number>
+<number shadow='shadow1' tooltip='0:57 1-10-SD 25CIN 0 SD 0 LI: 1.6(Shotgun) 14-A.Dalton pass incomplete short middle to 85-T.Eifert.'>14.05</number><number>0.61</number>
+<number shadow='shadow1' tooltip='0:51 2-10-SD 25CIN 0 SD 0 LI: 1.4(Shotgun) 25-G.Bernard right tackle to SD 12 for 13 yards(56-D.Butler 31-R.Marshall).'>14.15</number><number>0.67</number>
+<number shadow='shadow1' tooltip='0:09 1-10-SD 12CIN 0 SD 0 LI: 1.742-B.Green-Ellis left guard to SD 4 for 8 yards(56-D.Butler).'>14.85</number><number>0.69</number>
+<number shadow='shadow1' tooltip='15:00 2-2-SD 4CIN 0 SD 0 LI: 1.942-B.Green-Ellis right tackle for 4 yards TOUCHDOWN.'>15</number><number>0.71</number>
+<number shadow='shadow1' tooltip='15:00 CIN 0 SD 0 LI: 2-M.Nugent extra point is GOOD Center-46-C.Harris Holder-10-K.Huber.'>15.04</number><number>0.71</number>
+<number shadow='shadow1' tooltip='15:00 CIN 7 SD 0 LI: 2-M.Nugent kicks 59 yards from CIN 35 to SD 639-D.Woodhead to SD 22 for 16 yards(40-S.Williams).'>15.09</number><number>0.72</number>
+<number shadow='shadow1' tooltip='14:50 1-10-SD 22CIN 7 SD 0 LI: 1.4(Shotgun) 17-P.Rivers pass incomplete short right to 85-A.Gates.'>15.17</number><number>0.73</number>
+<number shadow='shadow1' tooltip='14:44 2-10-SD 22CIN 7 SD 0 LI: 1.3(Shotgun) 17-P.Rivers pass short left to 24-R.Mathews pushed ob at SD 39 for 17 yards(24-A.Jones).'>15.27</number><number>0.69</number>
+<number shadow='shadow1' tooltip='14:12 1-10-SD 39CIN 7 SD 0 LI: 1.3(Shotgun) PENALTY on SD-76-D.Fluker False Start 5 yards enforced at SD 39 - No Play.'>15.8</number><number>0.7</number>
+<number shadow='shadow1' tooltip='13:59 1-15-SD 34CIN 7 SD 0 LI: 1.3(Shotgun) 24-R.Mathews up the middle to SD 35 for 1 yard(55-V.Burfict).'>16.02</number><number>0.71</number>
+<number shadow='shadow1' tooltip='13:23 2-14-SD 35CIN 7 SD 0 LI: 1.2(Shotgun) 17-P.Rivers pass deep middle to 86-V.Brown to CIN 49 for 16 yards(43-G.Iloka).'>16.62</number><number>0.67</number>
+<number shadow='shadow1' tooltip='12:41 1-10-CIN 49CIN 7 SD 0 LI: 1.2(Shotgun) 24-R.Mathews up the middle to CIN 49 for no gain (93-M.Johnson).'>17.32</number><number>0.69</number>
+<number shadow='shadow1' tooltip='12:09 2-10-CIN 49CIN 7 SD 0 LI: 1(Shotgun) 17-P.Rivers pass incomplete short right to 13-K.Allen.'>17.85</number><number>0.7</number>
+<number shadow='shadow1' tooltip='12:03 3-10-CIN 49CIN 7 SD 0 LI: 0.9(Shotgun) 17-P.Rivers pass short left to 13-K.Allen to CIN 30 for 19 yards(20-R.Nelson).'>17.95</number><number>0.65</number>
+<number shadow='shadow1' tooltip='11:17 1-10-CIN 30CIN 7 SD 0 LI: 1(Shotgun) 17-P.Rivers pass short middle to 89-L.Green for 30 yards TOUCHDOWN.'>18.72</number><number>0.53</number>
+<number shadow='shadow1' tooltip='11:17 CIN 7 SD 0 LI: 9-N.Novak extra point is GOOD Center-47-M.Windt Holder-5-M.Scifres.'>18.76</number><number>0.53</number>
+<number shadow='shadow1' tooltip='11:17 CIN 7 SD 7 LI: 9-N.Novak kicks 68 yards from SD 35 to CIN -319-B.Tate to CIN 14 for 17 yards(59-A.Gachkar).'>18.81</number><number>0.5</number>
+<number shadow='shadow1' tooltip='11:05 1-10-CIN 14CIN 7 SD 7 LI: 1.8(Shotgun) 14-A.Dalton pass incomplete short middle to 84-J.Gresham (50-M.Teo).'>18.92</number><number>0.49</number>
+<number shadow='shadow1' tooltip='11:00 2-10-CIN 14CIN 7 SD 7 LI: 1.725-G.Bernard right end to CIN 13 for -1 yards(98-S.Lissemore).'>19</number><number>0.47</number>
+<number shadow='shadow1' tooltip='10:14 3-11-CIN 13CIN 7 SD 7 LI: 1.5(Shotgun) 14-A.Dalton pass incomplete short right to 25-G.Bernard.'>19.77</number><number>0.44</number>
+<number shadow='shadow1' tooltip='10:09 4-11-CIN 13CIN 7 SD 7 LI: 1.210-K.Huber punts 56 yards to SD 31 Center-46-C.Harris13-K.Allen to SD 38 for 7 yards(57-V.Rey).'>19.85</number><number>0.48</number>
+<number shadow='shadow1' tooltip='9:55 1-10-SD 21CIN 7 SD 7 LI: 1.5(Shotgun) 24-R.Mathews right end to SD 25 for 4 yards(94-D.Peko 55-V.Burfict).'>20.08</number><number>0.49</number>
+<number shadow='shadow1' tooltip='9:20 2-6-SD 25CIN 7 SD 7 LI: 1.3(Shotgun) 17-P.Rivers pass short left to 85-A.Gates to SD 28 for 3 yards(58-R.Maualuga).'>20.67</number><number>0.5</number>
+<number shadow='shadow1' tooltip='8:41 3-3-SD 28CIN 7 SD 7 LI: 1.1(Shotgun) 17-P.Rivers pass deep left to 13-K.Allen to 50 for 22 yards(24-A.Jones).'>21.32</number><number>0.43</number>
+<number shadow='shadow1' tooltip='8:07 1-10-50CIN 7 SD 7 LI: 1.424-R.Mathews left end to CIN 46 for 4 yards(55-V.Burfict).'>21.88</number><number>0.44</number>
+<number shadow='shadow1' tooltip='7:25 2-6-CIN 46CIN 7 SD 7 LI: 1.224-R.Mathews left end to CIN 42 for 4 yards(94-D.Peko).'>22.58</number><number>0.44</number>
+<number shadow='shadow1' tooltip='6:36 3-2-CIN 42CIN 7 SD 7 LI: 1.1(Shotgun) 17-P.Rivers pass incomplete short left to 86-V.Brown.'>23.4</number><number>0.5</number>
+<number shadow='shadow1' tooltip='6:30 4-2-CIN 42CIN 7 SD 7 LI: 0.55-M.Scifres punts 37 yards to CIN 5 Center-47-M.Windt downed by SD-25-D.Stuckey.'>23.5</number><number>0.5</number>
+<number shadow='shadow1' tooltip='6:23 1-10-CIN 5CIN 7 SD 7 LI: 1.942-B.Green-Ellis left tackle to CIN 11 for 6 yards(98-S.Lissemore 38-M.Gilchrist).'>23.62</number><number>0.5</number>
+<number shadow='shadow1' tooltip='5:49 2-4-CIN 11CIN 7 SD 7 LI: 1.942-B.Green-Ellis right tackle to CIN 12 for 1 yard(52-R.Walker).'>24.18</number><number>0.48</number>
+<number shadow='shadow1' tooltip='5:11 3-3-CIN 12CIN 7 SD 7 LI: 1.716-A.Hawkins left end to CIN 18 for 6 yards(50-M.Teo 37-J.Addae).'>24.82</number><number>0.51</number>
+<number shadow='shadow1' tooltip='4:27 1-10-CIN 18CIN 7 SD 7 LI: 1.514-A.Dalton pass short right to 18-A.Green pushed ob at CIN 35 for 17 yards(38-M.Gilchrist).'>25.55</number><number>0.54</number>
+<number shadow='shadow1' tooltip='3:50 1-10-CIN 35CIN 7 SD 7 LI: 1.414-A.Dalton pass deep right intended for 18-A.Green INTERCEPTED by 32-E.Weddle at SD 2432-E.Weddle to SD 45 for 21 yards(25-G.Bernard).'>26.17</number><number>0.44</number>
+<number shadow='shadow1' tooltip='3:36 1-10-SD 45CIN 7 SD 7 LI: 1.424-R.Mathews left end to 50 for 5 yards(93-M.Johnson).'>26.4</number><number>0.44</number>
+<number shadow='shadow1' tooltip='2:57 2-5-50CIN 7 SD 7 LI: 1.3(Shotgun) 17-P.Rivers pass short left to 24-R.Mathews to CIN 46 for 4 yards(24-A.Jones 32-C.Crocker).'>27.05</number><number>0.44</number>
+<number shadow='shadow1' tooltip='2:12 3-1-CIN 46CIN 7 SD 7 LI: 1.233-L.McClain up the middle to CIN 45 for 1 yard(58-R.Maualuga 55-V.Burfict).'>27.8</number><number>0.42</number>
+<number shadow='shadow1' tooltip='2:00 1-10-CIN 45CIN 7 SD 7 LI: 1.4(Shotgun) PENALTY on SD-24-R.Mathews False Start 5 yards enforced at CIN 45 - No Play.'>28</number><number>0.43</number>
+<number shadow='shadow1' tooltip='1:57 2-15-50CIN 7 SD 7 LI: 1.1(Shotgun) 17-P.Rivers pass short left to 24-R.Mathews to CIN 49 for 1 yard(55-V.Burfict).'>28.05</number><number>0.48</number>
+<number shadow='shadow1' tooltip='1:07 3-14-CIN 49CIN 7 SD 7 LI: 0.8(Shotgun) 17-P.Rivers pass incomplete short middle to 39-D.Woodhead (95-W.Gilberry).'>28.88</number><number>0.51</number>
+<number shadow='shadow1' tooltip='1:01 4-14-CIN 49CIN 7 SD 7 LI: 0.55-M.Scifres punts 35 yards to CIN 14 Center-47-M.Windt19-B.Tate to CIN 16 for 2 yards(32-E.Weddle 83-J.Phillips).'>28.98</number><number>0.51</number>
+<number shadow='shadow1' tooltip='0:52 1-10-CIN 16CIN 7 SD 7 LI: 1.525-G.Bernard left end to CIN 16 for no gain (32-E.Weddle).'>29.13</number><number>0.49</number>
+<number shadow='shadow1' tooltip='0:45 2-10-CIN 16CIN 7 SD 7 LI: 1.325-G.Bernard up the middle to CIN 17 for 1 yard(58-T.Williams 91-K.Reyes).'>29.25</number><number>0.48</number>
+<number shadow='shadow1' tooltip='0:38 3-9-CIN 17CIN 7 SD 7 LI: 1.2(Shotgun) 14-A.Dalton pass short middle to 16-A.Hawkins to CIN 21 for 4 yards(37-J.Addae 52-R.Walker).'>29.37</number><number>0.45</number>
+<number shadow='shadow1' tooltip='0:31 4-5-CIN 21CIN 7 SD 7 LI: 0.810-K.Huber punts 53 yards to SD 26 Center-46-C.Harris fair catch by 13-K.Allen.'>29.48</number><number>0.47</number>
+<number shadow='shadow1' tooltip='0:22 1-10-SD 26CIN 7 SD 7 LI: 1.5(Shotgun) 39-D.Woodhead up the middle to SD 31 for 5 yards(55-V.Burfict).'>29.63</number><number>0.53</number>
+<number shadow='shadow1' tooltip='0:22 CIN 7 SD 7 LI: 9-N.Novak kicks 70 yards from SD 35 to CIN -519-B.Tate to CIN 21 for 26 yards(83-J.Phillips).'>29.72</number><number>0.52</number>
+<number shadow='shadow1' tooltip='14:53 1-10-CIN 21CIN 7 SD 7 LI: 1.525-G.Bernard left end to CIN 23 for 2 yards(91-K.Reyes).'>30.12</number><number>0.5</number>
+<number shadow='shadow1' tooltip='14:27 2-8-CIN 23CIN 7 SD 7 LI: 1.314-A.Dalton pass short middle to 25-G.Bernard to CIN 32 for 9 yards(58-T.Williams 56-D.Butler).'>30.55</number><number>0.54</number>
+<number shadow='shadow1' tooltip='13:53 1-10-CIN 32CIN 7 SD 7 LI: 1.514-A.Dalton pass short left to 82-M.Jones to CIN 35 for 3 yards(31-R.Marshall).'>31.12</number><number>0.53</number>
+<number shadow='shadow1' tooltip='13:15 2-7-CIN 35CIN 7 SD 7 LI: 1.3(Shotgun) 14-A.Dalton scrambles up the middle to CIN 46 for 11 yards(56-D.Butler).'>31.75</number><number>0.56</number>
+<number shadow='shadow1' tooltip='12:43 1-10-CIN 46CIN 7 SD 7 LI: 1.325-G.Bernard up the middle to CIN 45 for -1 yards(32-E.Weddle).'>32.28</number><number>0.53</number>
+<number shadow='shadow1' tooltip='12:01 2-11-CIN 45CIN 7 SD 7 LI: 1.1(Shotgun) 14-A.Dalton pass short middle to 82-M.Jones to SD 46 for 9 yards(29-S.Wright).'>32.98</number><number>0.55</number>
+<number shadow='shadow1' tooltip='11:22 3-2-SD 46CIN 7 SD 7 LI: 1.114-A.Dalton pass incomplete short left.'>33.63</number><number>0.48</number>
+<number shadow='shadow1' tooltip='11:16 4-12-CIN 44CIN 7 SD 7 LI: 0.610-K.Huber punts 38 yards to SD 18 Center-46-C.Harris fair catch by 13-K.Allen.'>33.73</number><number>0.49</number>
+<number shadow='shadow1' tooltip='11:07 1-10-SD 18CIN 7 SD 7 LI: 1.5(Shotgun) 24-R.Mathews up the middle to SD 31 for 13 yards(20-R.Nelson).'>33.88</number><number>0.46</number>
+<number shadow='shadow1' tooltip='10:41 1-10-SD 31CIN 7 SD 7 LI: 1.5(Shotgun) 24-R.Mathews up the middle to SD 34 for 3 yards(55-V.Burfict).'>34.32</number><number>0.47</number>
+<number shadow='shadow1' tooltip='10:04 2-7-SD 34CIN 7 SD 7 LI: 1.4(Shotgun) 17-P.Rivers pass short right to 89-L.Green to SD 49 for 15 yards(20-R.Nelson).'>34.93</number><number>0.44</number>
+<number shadow='shadow1' tooltip='9:21 1-10-SD 49CIN 7 SD 7 LI: 1.3(Shotgun) 17-P.Rivers pass short left to 13-K.Allen to CIN 45 for 6 yards(24-A.Jones).'>35.65</number><number>0.43</number>
+<number shadow='shadow1' tooltip='8:41 2-4-CIN 45CIN 7 SD 7 LI: 1.3(Shotgun) 17-P.Rivers pass short right to 85-A.Gates to CIN 34 for 11 yards(20-R.Nelson).'>36.32</number><number>0.39</number>
+<number shadow='shadow1' tooltip='8:01 1-10-CIN 34CIN 7 SD 7 LI: 1.5(Shotgun) 17-P.Rivers pass incomplete short right to 89-L.Green.'>36.98</number><number>0.41</number>
+<number shadow='shadow1' tooltip='7:54 2-10-CIN 34CIN 7 SD 7 LI: 1.3(Shotgun) 39-D.Woodhead up the middle to CIN 30 for 4 yards(58-R.Maualuga).'>37.1</number><number>0.4</number>
+<number shadow='shadow1' tooltip='7:14 3-6-CIN 30CIN 7 SD 7 LI: 1.4(Shotgun) 17-P.Rivers pass short middle intended for 85-A.Gates INTERCEPTED by 27-D.Kirkpatrick [93-M.Johnson] at CIN 2527-D.Kirkpatrick to CIN 25 for no gain (85-A.Gates)The Replay Assistant challenged the incomplete pass ruling and the play was Upheld.'>37.77</number><number>0.53</number>
+<number shadow='shadow1' tooltip='7:03 1-10-CIN 25CIN 7 SD 7 LI: 1.614-A.Dalton pass incomplete deep middle to 84-J.Gresham.'>37.95</number><number>0.51</number>
+<number shadow='shadow1' tooltip='6:58 2-10-CIN 25CIN 7 SD 7 LI: 1.425-G.Bernard left end to CIN 33 for 8 yards(32-E.Weddle).'>38.03</number><number>0.52</number>
+<number shadow='shadow1' tooltip='6:13 3-2-CIN 33CIN 7 SD 7 LI: 1.325-G.Bernard left end to CIN 36 for 3 yards(71-L.Guy).'>38.78</number><number>0.55</number>
+<number shadow='shadow1' tooltip='5:31 1-10-CIN 36CIN 7 SD 7 LI: 1.6(Shotgun) 14-A.Dalton pass short left to 85-T.Eifert to CIN 45 for 9 yards(31-R.Marshall).'>39.48</number><number>0.56</number>
+<number shadow='shadow1' tooltip='4:51 2-1-CIN 45CIN 7 SD 7 LI: 1.542-B.Green-Ellis up the middle to CIN 45 for no gain (56-D.Butler 71-L.Guy).'>40.15</number><number>0.55</number>
+<number shadow='shadow1' tooltip='4:10 3-1-CIN 45CIN 7 SD 7 LI: 1.442-B.Green-Ellis up the middle to CIN 47 for 2 yards(52-R.Walker).'>40.83</number><number>0.58</number>
+<number shadow='shadow1' tooltip='3:34 1-10-CIN 47CIN 7 SD 7 LI: 1.7(Shotgun) 14-A.Dalton pass short left to 16-A.Hawkins to SD 42 for 11 yards(56-D.Butler).'>41.43</number><number>0.6</number>
+<number shadow='shadow1' tooltip='2:57 1-10-SD 42CIN 7 SD 7 LI: 1.725-G.Bernard up the middle to SD 23 for 19 yards(38-M.Gilchrist).'>42.05</number><number>0.64</number>
+<number shadow='shadow1' tooltip='2:27 1-10-SD 23CIN 7 SD 7 LI: 1.625-G.Bernard up the middle to SD 21 for 2 yards(56-D.Butler).'>42.55</number><number>0.68</number>
+<number shadow='shadow1' tooltip='1:47 2-8-SD 21CIN 7 SD 7 LI: 2(Shotgun) 14-A.Dalton pass deep middle to 18-A.Green for 21 yards TOUCHDOWN.'>43.22</number><number>0.78</number>
+<number shadow='shadow1' tooltip='1:47 CIN 7 SD 7 LI: 2-M.Nugent extra point is GOOD Center-46-C.Harris Holder-10-K.Huber.'>43.26</number><number>0.78</number>
+<number shadow='shadow1' tooltip='1:47 CIN 14 SD 7 LI: 2-M.Nugent kicks 67 yards from CIN 35 to SD -210-L.Hawkins to SD 18 for 20 yards(40-S.Williams).'>43.31</number><number>0.8</number>
+<number shadow='shadow1' tooltip='1:35 1-10-SD 18CIN 14 SD 7 LI: 0.8(Shotgun) 17-P.Rivers pass short right to 24-R.Mathews to SD 22 for 4 yards(55-V.Burfict).'>43.42</number><number>0.8</number>
+<number shadow='shadow1' tooltip='1:06 2-6-SD 22CIN 14 SD 7 LI: 0.8(Shotgun) 24-R.Mathews right end to SD 23 for 1 yard(58-R.Maualuga).'>43.9</number><number>0.81</number>
+<number shadow='shadow1' tooltip='0:25 3-5-SD 23CIN 14 SD 7 LI: 0.8(Shotgun) 17-P.Rivers pass short right to 13-K.Allen to SD 38 for 15 yards(23-T.Newman).'>44.58</number><number>0.76</number>
+<number shadow='shadow1' tooltip='0:03 1-10-SD 38CIN 14 SD 7 LI: 139-D.Woodhead up the middle to SD 45 for 7 yards(96-C.Dunlap).'>44.95</number><number>0.75</number>
+<number shadow='shadow1' tooltip='15:00 2-3-SD 45CIN 14 SD 7 LI: 1.1(Shotgun) 39-D.Woodhead up the middle to SD 46 for 1 yard(58-R.Maualuga).'>45</number><number>0.76</number>
+<number shadow='shadow1' tooltip='14:21 3-2-SD 46CIN 14 SD 7 LI: 1(Shotgun) 17-P.Rivers pass short middle to 39-D.Woodhead to 50 for 4 yards(57-V.Rey).'>45.65</number><number>0.74</number>
+<number shadow='shadow1' tooltip='13:44 1-10-50CIN 14 SD 7 LI: 1.2(Shotgun) 17-P.Rivers pass short middle to 13-K.Allen to CIN 39 for 11 yards(20-R.Nelson).'>46.27</number><number>0.72</number>
+<number shadow='shadow1' tooltip='13:08 1-10-CIN 39CIN 14 SD 7 LI: 1.3(Shotgun) 17-P.Rivers pass incomplete deep right to 13-K.Allen.'>46.87</number><number>0.75</number>
+<number shadow='shadow1' tooltip='13:02 2-10-CIN 39CIN 14 SD 7 LI: 1(Shotgun) 17-P.Rivers pass incomplete deep right to 89-L.Green.'>46.97</number><number>0.77</number>
+<number shadow='shadow1' tooltip='12:57 3-10-CIN 39CIN 14 SD 7 LI: 0.8(Shotgun) 17-P.Rivers pass incomplete short left to 89-L.Green.'>47.05</number><number>0.82</number>
+<number shadow='shadow1' tooltip='12:51 4-10-CIN 39CIN 14 SD 7 LI: 0.35-M.Scifres punts 29 yards to CIN 10 Center-47-M.Windt fair catch by 19-B.Tate.'>47.15</number><number>0.81</number>
+<number shadow='shadow1' tooltip='12:43 1-10-CIN 10CIN 14 SD 7 LI: 2.242-B.Green-Ellis up the middle to CIN 10 for no gain (50-M.Teo).'>47.28</number><number>0.82</number>
+<number shadow='shadow1' tooltip='12:22 1-15-CIN 5CIN 14 SD 7 LI: 2.314-A.Dalton pass short left to 18-A.Green to CIN 14 for 9 yards(91-K.Reyes).'>47.63</number><number>0.82</number>
+<number shadow='shadow1' tooltip='11:36 2-6-CIN 14CIN 14 SD 7 LI: 2.2(Shotgun) 42-B.Green-Ellis right guard to CIN 18 for 4 yards(98-S.Lissemore).'>48.4</number><number>0.82</number>
+<number shadow='shadow1' tooltip='10:48 3-2-CIN 18CIN 14 SD 7 LI: 1.5(Shotgun) 14-A.Dalton pass short middle to 16-A.Hawkins pushed ob at SD 32 for 50 yards(38-M.Gilchrist).'>49.2</number><number>0.92</number>
+<number shadow='shadow1' tooltip='10:15 1-10-SD 32CIN 14 SD 7 LI: 1.142-B.Green-Ellis up the middle to SD 28 for 4 yards(56-D.Butler).'>49.75</number><number>0.91</number>
+<number shadow='shadow1' tooltip='9:31 2-6-SD 28CIN 14 SD 7 LI: 0.8(Shotgun) 14-A.Dalton pass incomplete short left to 12-M.Sanu.'>50.48</number><number>0.9</number>
+<number shadow='shadow1' tooltip='9:26 3-6-SD 28CIN 14 SD 7 LI: 0.714-A.Dalton pass incomplete deep right to 82-M.Jones (31-R.Marshall).'>50.57</number><number>0.88</number>
+<number shadow='shadow1' tooltip='9:20 4-6-SD 28CIN 14 SD 7 LI: 0.52-M.Nugent 46 yard field goal is GOOD Center-46-C.Harris Holder-10-K.Huber.'>50.67</number><number>0.9</number>
+<number shadow='shadow1' tooltip='9:20 CIN 17 SD 7 LI: 2-M.Nugent kicks 65 yards from CIN 35 to end zone Touchback.'>50.76</number><number>0.92</number>
+<number shadow='shadow1' tooltip='8:53 1-20-SD 10CIN 17 SD 7 LI: 0.3(Shotgun) 17-P.Rivers pass short right to 24-R.Mathews to SD 15 for 5 yards(55-V.Burfict).'>51.12</number><number>0.94</number>
+<number shadow='shadow1' tooltip='8:24 2-15-SD 15CIN 17 SD 7 LI: 0.4(Shotgun) 17-P.Rivers pass short left to 13-K.Allen to SD 29 for 14 yards(43-G.Iloka 24-A.Jones)Play Challenged by CIN and REVERSED(Shotgun) 17-P.Rivers pass short left to 13-K.Allen to SD 29 for 14 yards(43-G.Iloka 24-A.Jones)FUMBLES (43-G.Iloka) RECOVERED by CIN-57-V.Rey at SD 34.'>51.6</number><number>0.97</number>
+<number shadow='shadow1' tooltip='8:17 1-10-SD 34CIN 17 SD 7 LI: 0.842-B.Green-Ellis right tackle to SD 30 for 4 yards(52-R.Walker).'>51.72</number><number>0.96</number>
+<number shadow='shadow1' tooltip='7:41 2-6-SD 30CIN 17 SD 7 LI: 0.542-B.Green-Ellis up the middle to SD 25 for 5 yards(50-M.Teo 31-R.Marshall).'>52.32</number><number>0.97</number>
+<number shadow='shadow1' tooltip='7:00 3-1-SD 25CIN 17 SD 7 LI: 0.542-B.Green-Ellis up the middle to SD 20 for 5 yards(38-M.Gilchrist)FUMBLES (38-M.Gilchrist) RECOVERED by SD-32-E.Weddle at SD 1632-E.Weddle to SD 43 for 27 yards(14-A.Dalton).'>53</number><number>0.88</number>
+<number shadow='shadow1' tooltip='6:50 1-10-SD 43CIN 17 SD 7 LI: 1(Shotgun) 39-D.Woodhead up the middle to SD 46 for 3 yards(93-M.Johnson).'>53.17</number><number>0.89</number>
+<number shadow='shadow1' tooltip='6:23 2-7-SD 46CIN 17 SD 7 LI: 0.8(Shotgun) 17-P.Rivers pass short left to 13-K.Allen to CIN 41 for 13 yards(32-C.Crocker 24-A.Jones).'>53.62</number><number>0.86</number>
+<number shadow='shadow1' tooltip='5:47 1-10-CIN 41CIN 17 SD 7 LI: 1(Shotgun) 17-P.Rivers pass short left to 39-D.Woodhead to CIN 32 for 9 yards(55-V.Burfict).'>54.22</number><number>0.85</number>
+<number shadow='shadow1' tooltip='5:21 2-1-CIN 32CIN 17 SD 7 LI: 0.939-D.Woodhead right guard to CIN 30 for 2 yards(55-V.Burfict).'>54.65</number><number>0.81</number>
+<number shadow='shadow1' tooltip='5:05 1-10-CIN 30CIN 17 SD 7 LI: 1.3(Shotgun) 17-P.Rivers pass incomplete short middle (75-D.Still).'>54.92</number><number>0.89</number>
+<number shadow='shadow1' tooltip='4:59 2-10-CIN 30CIN 17 SD 7 LI: 0.5(Shotgun) 17-P.Rivers pass incomplete short left to 85-A.Gates.'>55.02</number><number>0.91</number>
+<number shadow='shadow1' tooltip='4:54 3-10-CIN 30CIN 17 SD 7 LI: 0.3(Shotgun) 17-P.Rivers pass incomplete short left to 85-A.Gates (32-C.Crocker).'>55.1</number><number>0.94</number>
+<number shadow='shadow1' tooltip='4:48 4-10-CIN 30CIN 17 SD 7 LI: 0.19-N.Novak 48 yard field goal is GOOD Center-47-M.Windt Holder-5-M.Scifres.'>55.2</number><number>0.92</number>
+<number shadow='shadow1' tooltip='4:48 CIN 17 SD 10 LI: 9-N.Novak kicks 70 yards from SD 20 to CIN 1019-B.Tate to CIN 34 for 24 yards(59-A.Gachkar).'>55.29</number><number>0.92</number>
+<number shadow='shadow1' tooltip='4:35 1-10-CIN 34CIN 17 SD 10 LI: 1.514-A.Dalton pass deep right to 18-A.Green ran ob at SD 38 for 28 yards(32-E.Weddle).'>55.42</number><number>0.96</number>
+<number shadow='shadow1' tooltip='4:30 1-10-SD 38CIN 17 SD 10 LI: 1.425-G.Bernard right end to SD 39 for -1 yards(52-R.Walker 98-S.Lissemore).'>55.5</number><number>0.87</number>
+<number shadow='shadow1' tooltip='3:52 2-11-SD 39CIN 17 SD 10 LI: 0.3(Shotgun) 25-G.Bernard right tackle to SD 30 for 9 yards(52-R.Walker).'>56.13</number><number>0.95</number>
+<number shadow='shadow1' tooltip='3:08 3-2-SD 30CIN 17 SD 10 LI: 0.842-B.Green-Ellis right tackle to SD 28 for 2 yards(56-D.Butler).'>56.87</number><number>0.97</number>
+<number shadow='shadow1' tooltip='3:02 1-10-SD 28CIN 17 SD 10 LI: 1.142-B.Green-Ellis up the middle to SD 22 for 6 yards(71-L.Guy).'>56.97</number><number>0.98</number>
+<number shadow='shadow1' tooltip='2:57 2-4-SD 22CIN 17 SD 10 LI: 1.642-B.Green-Ellis up the middle to SD 14 for 8 yards(31-R.Marshall).'>57.05</number><number>0.99</number>
+<number shadow='shadow1' tooltip='2:50 1-10-SD 14CIN 17 SD 10 LI: 2.142-B.Green-Ellis right end to SD 8 for 6 yards(31-R.Marshall).'>57.17</number><number>0.99</number>
+<number shadow='shadow1' tooltip='2:09 2-4-SD 8CIN 17 SD 10 LI: 1.742-B.Green-Ellis up the middle to SD 8 for no gain (94-C.Liuget 32-E.Weddle).'>57.85</number><number>0.99</number>
+<number shadow='shadow1' tooltip='1:59 3-4-SD 8CIN 17 SD 10 LI: 1.342-B.Green-Ellis right end to SD 3 for 5 yards(32-E.Weddle).'>58.02</number><number>0.99</number>
+<number shadow='shadow1' tooltip='1:15 1-3-SD 3CIN 17 SD 10 LI: 0.214-A.Dalton kneels dead ball declared at SD 4 for -1 yards.'>58.75</number><number>0.99</number>
+<number shadow='shadow1' tooltip='0:38 2-4-SD 4CIN 17 SD 10 LI: 0.114-A.Dalton kneels dead ball declared at SD 5 for -1 yards.'>59.37</number><number>1</number>
+<number>60</number><number>1</number>
+</row> </chart_data>
+       <draw>
+
+
+
+      <image x='45' y='298'  url='nfllogos/42x50png/CIN.gif'  layer='foreground' glow = 'glow1'/>
+      <image x='45' y='350'  url='nfllogos/42x50png/SD.gif'     layer='foreground' glow = 'glow1'/>
+
+
+      <rect x='130' y='300' width='250' height='40' fill_color='ff652b' bevel='bevel1' />
+      <text x='135' y='300' width='250' height='40' h_align='left' v_align='middle' color='ffffff' shadow='shadow2' glow='winnerglow'>Cincinnati Bengals</text>
+
+      <rect x='130' y='350' width='250' height='40' fill_color='087ac3' bevel='bevel1'  />
+      <text x='135' y='350' width='250' height='40' h_align='left' v_align='middle' color='ffffff' shadow='shadow2' glow=''>San Diego Chargers</text>
+
+      <rect x='420' y='300' width='60' height='40' fill_color='ff652b' bevel='bevel1'  />
+      <text x='420' y='300' width='60' height='40' h_align='center' v_align='middle' color='ffffff' shadow='shadow2' transition='none' glow='winnerglow'>17</text>
+
+      <rect x='420' y='350' width='60' height='40' fill_color='087ac3' bevel='bevel1' />
+      <text x='420' y='350' width='60' height='40' h_align='center' v_align='middle' color='ffffff' shadow='shadow2' transition='none' glow=''>10</text>
+
+      <text x='-3' y='12'  width='60' height='40' h_align='center' v_align='middle' size='13' shadow='shadow2'>CINWin </text>
+      <text x='-3' y='218' width='60' height='40' h_align='center' v_align='middle' size='13' shadow='shadow2'>SDWin </text>
+
+     
+              <rect x='540' y='300' width='100' height='35' fill_color='000000' fill_alpha='50'/>
+              <text x='540' y='300' width='100' height='35' h_align='center' v_align='middle' color='ffffff' size='15' shadow='shadow2' >Final</text>
+
+              <text x='540' y='340' width='40' h_align='center' color='000000' size='12' shadow='shadow2'>CBF</text>
+              <text x='600' y='340' width='40' h_align='center' color='000000' size='12' shadow='shadow2'>EI</text>
+
+              <rect x='540' y='360' width='40' height='30' fill_color='000000' fill_alpha='50' />
+              <text x='540' y='360' width='40' height='30' size='12' h_align='center' v_align='middle' color='FFFFFF' shadow='shadow2'>3</text>
+
+              <rect x='600' y='360' width='40' height='30' fill_color='000000' fill_alpha='50' />
+              <text x='600' y='360' width='40' height='30' size='12' h_align='center' v_align='middle' color='FFFFFF' shadow='shadow2'>3.7</text>
+
+              <text x='20' y='420' width='70' height='25' size='12' h_align='left' v_align='middle' color='000000' >12/1/2013</text>
+              <text x='100' y='420' width='200' height='25' size='12' h_align='left' v_align='middle' color='000000' >Qualcomm Stadium</text>
+
+   </draw></chart>

@@ -1,0 +1,312 @@
+
+<chart>
+   <license>ETAS9P33ESHO.945CWK-2XOI1X0-7L</license>
+   <chart_type>scatter</chart_type>
+   <chart_pref trend_thickness='0' line_thickness='3' point_size='0'/>
+
+   <series_color>
+      <color>ffff00</color>
+   </series_color>
+
+   <chart_rect x='45' y='20' width='630' height='230' positive_color='cacaca'  />
+
+  <chart_border top_thickness='0'
+                 bottom_thickness='0'
+                 left_thickness='0'
+                 right_thickness='0'
+                 color='000000'
+                 />
+
+   <tooltip font='Arial' bold='true' size='11' />
+
+   <chart_note type='flag'
+               color='000000'
+               alpha='90'
+               bold='FALSE'
+               size='10'
+               background_color='ffffe0'
+               background_alpha='50'
+               shadow='shadow2'
+               />
+
+   <chart_grid_h thickness='2' color='ffffff' type='dashed'  />
+   <chart_grid_v thickness='2' color='ffffff'   />
+		>
+
+   <legend layout='hide' />
+
+   <chart_guide horizontal='TRUE'
+             vertical='TRUE'
+             thickness='1'
+             color='006400'
+             alpha='100'
+             type='solid'
+             snap_h='TRUE'
+             snap_v='TRUE'
+             radius='3'
+             fill_color='006400'
+             fill_alpha='100'
+             line_color='006400'
+             line_alpha='80'
+             line_thickness='1'
+             text_h_alpha='50'
+             text_v_alpha='00'
+             suffix_h=' WP'
+             decimals='2'
+             bold='FALSE'
+             size='11'
+             text_color='FFFFFF'
+             background_color='006400'
+             />
+   <filter>
+      <shadow id='shadow1' distance='2' angle='60' blurX='5' blurY='5' alpha='50' />
+      <bevel id='bevel1' angle='45' blurX='5' blurY='5' distance='0' />
+      <glow id='glow1' color='ffffff' alpha='0' blurX='7' blurY='7' strength='6' quality='2' inner='FALSE' knockout='FALSE' />
+      <glow id='winnerglow' color='ffffff' alpha='0' blurX='7' blurY='7' strength='5' quality='2' inner='FALSE' knockout='FALSE' />
+   </filter>
+
+    <axis_value_label>
+         <string></string>
+          <string> </string>
+          <null/>
+          <string> </string>
+          <string></string>
+
+       </axis_value_label>
+		
+	   <axis_ticks category_ticks='false'/>
+
+       <axis_value min='0' max='1' steps='4'  decimals='2' show_min='true' size='13' shadow='shadow2' />     
+            <axis_category
+               min='0'
+               max='60'
+               steps='4'
+               mode='all'
+               decimals='0'
+               size='13'
+               shadow='shadow2'
+               />
+
+       <axis_category_label>
+          <string>Kickoff</string>
+          <string></string>
+          <string>Halftime</string>
+          <string></string>
+          <string>End</string>
+
+       </axis_category_label>
+
+
+        <chart_data>
+       <row>
+	      <null/><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number>
+              <number>x</number><number>y</number>
+              </row><row><string></string>
+
+                     <number shadow='shadow1'>0</number><number>.5</number><number shadow='shadow1' tooltip='15:00 GB 0 BLT 0 LI: 9-J.Tucker kicks 65 yards from BLT 35 to end zone Touchback.'>0.09</number><number>0.52</number>
+<number shadow='shadow1' tooltip='14:34 1-10-GB 30GB 0 BLT 0 LI: 1.6(No Huddle) 27-E.Lacy left guard to BLT 33 for 37 yards(22-J.Smith).'>0.43</number><number>0.61</number>
+<number shadow='shadow1' tooltip='14:03 1-10-BLT 33GB 0 BLT 0 LI: 1.5(No Huddle Shotgun) 12-A.Rodgers pass short right to 87-J.Nelson pushed ob at BLT 27 for 6 yards(24-C.Graham).'>0.95</number><number>0.62</number>
+<number shadow='shadow1' tooltip='13:25 2-4-BLT 27GB 0 BLT 0 LI: 1.5(No Huddle Shotgun) 12-A.Rodgers pass incomplete short middle to 87-J.Nelson.'>1.58</number><number>0.6</number>
+<number shadow='shadow1' tooltip='13:20 3-4-BLT 27GB 0 BLT 0 LI: 1.3(Shotgun) 12-A.Rodgers pass incomplete short right to 88-J.Finley (56-J.Bynes).'>1.67</number><number>0.55</number>
+<number shadow='shadow1' tooltip='13:16 4-4-BLT 27GB 0 BLT 0 LI: 0.8(Field Goal formation) 2-M.Crosby 45 yard field goal is GOOD Center-61-B.Goode Holder-8-T.Masthay.'>1.73</number><number>0.58</number>
+<number shadow='shadow1' tooltip='13:16 GB 3 BLT 0 LI: 8-T.Masthay kicks 63 yards from GB 35 to BLT 212-J.Jones pushed ob at BLT 32 for 30 yards(86-B.Bostick).'>1.82</number><number>0.57</number>
+<number shadow='shadow1' tooltip='13:02 1-10-BLT 32GB 3 BLT 0 LI: 1.327-R.Rice right guard to BLT 34 for 2 yards(50-A.Hawk).'>1.97</number><number>0.57</number>
+<number shadow='shadow1' tooltip='12:31 2-8-BLT 34GB 3 BLT 0 LI: 1.35-J.Flacco pass short left to 27-R.Rice to BLT 32 for -2 yards(57-J.Lattimore).'>2.48</number><number>0.59</number>
+<number shadow='shadow1' tooltip='11:52 3-10-BLT 32GB 3 BLT 0 LI: 1.1(No Huddle Shotgun) 5-J.Flacco sacked at BLT 22 for -10 yards(50-A.Hawk).'>3.13</number><number>0.64</number>
+<number shadow='shadow1' tooltip='11:17 4-20-BLT 22GB 3 BLT 0 LI: 0.8(Punt formation) 4-S.Koch punts 46 yards to GB 32 Center-46-M.Cox33-M.Hyde to GB 34 for 2 yards(23-Ch.Brown).'>3.72</number><number>0.63</number>
+<number shadow='shadow1' tooltip='11:07 1-10-GB 34GB 3 BLT 0 LI: 1.5(Shotgun) 27-E.Lacy left guard to GB 36 for 2 yards.'>3.88</number><number>0.63</number>
+<number shadow='shadow1' tooltip='10:38 2-8-GB 36GB 3 BLT 0 LI: 1.4(Shotgun) 12-A.Rodgers pass short right to 89-J.Jones to GB 46 for 10 yards(21-L.Webb).'>4.37</number><number>0.66</number>
+<number shadow='shadow1' tooltip='10:02 1-10-GB 46GB 3 BLT 0 LI: 1.4(No Huddle Shotgun) 27-E.Lacy right end to GB 46 for no gain (21-L.Webb; 56-J.Bynes)No89 - James Jones (GB) injured on play.'>4.97</number><number>0.65</number>
+<number shadow='shadow1' tooltip='9:40 2-10-GB 46GB 3 BLT 0 LI: 1.312-A.Rodgers sacked at GB 40 for -6 yards(97-A.Jones).'>5.33</number><number>0.61</number>
+<number shadow='shadow1' tooltip='9:00 3-16-GB 40GB 3 BLT 0 LI: 1.1(No Huddle Shotgun) 12-A.Rodgers pass short right to 27-E.Lacy to GB 45 for 5 yards(21-L.Webb; 91-C.Upshaw).'>6</number><number>0.6</number>
+<number shadow='shadow1' tooltip='8:27 4-11-GB 45GB 3 BLT 0 LI: 0.8(Punt formation) 8-T.Masthay punts 55 yards to end zone Center-61-B.Goode Touchback.'>6.55</number><number>0.6</number>
+<number shadow='shadow1' tooltip='8:17 1-10-BLT 20GB 3 BLT 0 LI: 1.35-J.Flacco pass short middle to 27-R.Rice pushed ob at BLT 31 for 11 yards(53-N.Perry).'>6.72</number><number>0.57</number>
+<number shadow='shadow1' tooltip='7:52 1-10-BLT 31GB 3 BLT 0 LI: 1.3(No Huddle) 27-R.Rice right tackle to BLT 31 for no gain (53-N.Perry).'>7.13</number><number>0.58</number>
+<number shadow='shadow1' tooltip='7:18 2-10-BLT 31GB 3 BLT 0 LI: 1.2(No Huddle Shotgun) 5-J.Flacco pass incomplete deep right to 14-M.Brown (31-D.House).'>7.7</number><number>0.6</number>
+<number shadow='shadow1' tooltip='7:12 3-10-BLT 31GB 3 BLT 0 LI: 1(No Huddle Shotgun) 5-J.Flacco pass deep middle to 12-J.Jones to GB 38 for 31 yards(22-J.McMillian).'>7.8</number><number>0.49</number>
+<number shadow='shadow1' tooltip='6:38 1-10-GB 38GB 3 BLT 0 LI: 1.5(No Huddle) 27-R.Rice right guard to GB 37 for 1 yard(53-N.Perry; 55-A.Mulumba).'>8.37</number><number>0.51</number>
+<number shadow='shadow1' tooltip='6:08 2-9-GB 37GB 3 BLT 0 LI: 1.3(No Huddle) 5-J.Flacco pass short left to 86-B.Bajema to GB 37 for no gain (50-A.Hawk).'>8.87</number><number>0.54</number>
+<number shadow='shadow1' tooltip='5:29 3-9-GB 37GB 3 BLT 0 LI: 1(No Huddle Shotgun) 5-J.Flacco pass incomplete short right to 14-M.Brown (31-D.House).'>9.52</number><number>0.59</number>
+<number shadow='shadow1' tooltip='5:23 4-9-GB 37GB 3 BLT 0 LI: 0.5(Punt formation) 4-S.Koch punts 37 yards to end zone Center-46-M.Cox Touchback.'>9.62</number><number>0.61</number>
+<number shadow='shadow1' tooltip='5:14 1-10-GB 20GB 3 BLT 0 LI: 1.8(Shotgun) 12-A.Rodgers pass incomplete short right to 87-J.NelsonPressure by No51 - Daryl Smith'>9.77</number><number>0.6</number>
+<number shadow='shadow1' tooltip='5:06 2-10-GB 20GB 3 BLT 0 LI: 1.7(No Huddle Shotgun) 12-A.Rodgers pass short middle to 18-R.Cobb to GB 38 for 18 yards(26-M.Elam).'>9.9</number><number>0.64</number>
+<number shadow='shadow1' tooltip='4:42 1-10-GB 38GB 3 BLT 0 LI: 1.5(No Huddle Shotgun) 27-E.Lacy right end pushed ob at GB 46 for 8 yards(21-L.Webb; 32-J.Ihedigbo).'>10.3</number><number>0.65</number>
+<number shadow='shadow1' tooltip='4:16 2-2-GB 46GB 3 BLT 0 LI: 1.3(Shotgun) 12-A.Rodgers pass incomplete deep right to 88-J.Finley.'>10.73</number><number>0.64</number>
+<number shadow='shadow1' tooltip='4:08 3-2-GB 46GB 3 BLT 0 LI: 1.2(No Huddle Shotgun) 12-A.Rodgers sacked at GB 40 for -6 yards(58-E.Dumervil)FUMBLES (58-E.Dumervil) recovered by GB-67-D.Barclay at GB 4067-D.Barclay to GB 40 for no gain (92-H.Ngata).'>10.87</number><number>0.59</number>
+<number shadow='shadow1' tooltip='3:33 4-8-GB 40GB 3 BLT 0 LI: 0.9(Punt formation) 8-T.Masthay punts 60 yards to end zone Center-61-B.Goode Touchback.'>11.45</number><number>0.6</number>
+<number shadow='shadow1' tooltip='3:26 1-10-BLT 20GB 3 BLT 0 LI: 1.330-B.Pierce left tackle to BLT 17 for -3 yards(90-B.Raji).'>11.57</number><number>0.61</number>
+<number shadow='shadow1' tooltip='2:50 2-13-BLT 17GB 3 BLT 0 LI: 1.25-J.Flacco pass incomplete deep right to 14-M.Brown (31-D.House).'>12.17</number><number>0.63</number>
+<number shadow='shadow1' tooltip='2:44 3-13-BLT 17GB 3 BLT 0 LI: 15-J.Flacco pass short middle to 17-T.Doss to BLT 23 for 6 yards(42-M.Burnett; 38-T.Williams).'>12.27</number><number>0.64</number>
+<number shadow='shadow1' tooltip='2:06 4-7-BLT 23GB 3 BLT 0 LI: 0.8(Punt formation) 4-S.Koch punts 54 yards to GB 23 Center-46-M.Cox33-M.Hyde to GB 30 for 7 yards(86-B.Bajema).'>12.9</number><number>0.63</number>
+<number shadow='shadow1' tooltip='1:52 1-10-GB 30GB 3 BLT 0 LI: 1.730-J.Kuhn right guard to GB 32 for 2 yards(55-T.Suggs).'>13.13</number><number>0.63</number>
+<number shadow='shadow1' tooltip='1:28 2-8-GB 32GB 3 BLT 0 LI: 1.6(No Huddle Shotgun) 12-A.Rodgers pass short middle to 23-J.Franklin to GB 39 for 7 yards(24-C.Graham; 51-D.Smith).'>13.53</number><number>0.64</number>
+<number shadow='shadow1' tooltip='0:40 3-1-GB 39GB 3 BLT 0 LI: 1.4(Shotgun) 23-J.Franklin right end to GB 36 for -3 yards(32-J.Ihedigbo).'>14.33</number><number>0.58</number>
+<number shadow='shadow1' tooltip='15:00 4-4-GB 36GB 3 BLT 0 LI: 0.9(Punt formation) 8-T.Masthay punts 61 yards to BLT 3 Center-61-B.Goode17-T.Doss to BLT 41 for 38 yards(23-J.Franklin).'>15</number><number>0.55</number>
+<number shadow='shadow1' tooltip='14:45 1-10-BLT 41GB 3 BLT 0 LI: 1.3(Shotgun) 5-J.Flacco pass incomplete short left to 87-D.Clark.'>15.25</number><number>0.56</number>
+<number shadow='shadow1' tooltip='14:41 2-10-BLT 41GB 3 BLT 0 LI: 1.2PENALTY on BLT-86-B.Bajema False Start 5 yards enforced at BLT 41 - No Play.'>15.32</number><number>0.58</number>
+<number shadow='shadow1' tooltip='14:24 2-25-BLT 26GB 3 BLT 0 LI: 1(Shotgun) 5-J.Flacco pass short left to 30-B.Pierce to BLT 34 for 8 yards(31-D.House; 70-T.Lang).'>15.6</number><number>0.6</number>
+<number shadow='shadow1' tooltip='13:53 3-17-BLT 34GB 3 BLT 0 LI: 0.9(No Huddle Shotgun) 5-J.Flacco pass short left to 30-B.Pierce to BLT 48 for 14 yards(43-M.Jennings).'>16.12</number><number>0.61</number>
+<number shadow='shadow1' tooltip='13:09 4-3-BLT 48GB 3 BLT 0 LI: 0.6(Punt formation) 4-S.Koch punts 46 yards to GB 6 Center-46-M.Cox downed by BLT-32-J.Ihedigbo.'>16.85</number><number>0.6</number>
+<number shadow='shadow1' tooltip='12:57 1-10-GB 6GB 3 BLT 0 LI: 1.827-E.Lacy right guard to GB 11 for 5 yards(55-T.Suggs; 58-E.Dumervil).'>17.05</number><number>0.59</number>
+<number shadow='shadow1' tooltip='12:21 2-5-GB 11GB 3 BLT 0 LI: 1.7(No Huddle Shotgun) 12-A.Rodgers sacked at GB 6 for -5 yards(58-E.Dumervil)FUMBLES (58-E.Dumervil) recovered by GB-11-J.Boykin at GB 611-J.Boykin to GB 6 for no gain (24-C.Graham).'>17.65</number><number>0.56</number>
+<number shadow='shadow1' tooltip='11:35 3-10-GB 6GB 3 BLT 0 LI: 1.4(No Huddle Shotgun) 12-A.Rodgers pass short right to 18-R.Cobb to GB 19 for 13 yards(51-D.Smith).'>18.42</number><number>0.61</number>
+<number shadow='shadow1' tooltip='11:09 1-10-GB 19GB 3 BLT 0 LI: 1.4(No Huddle) 12-A.Rodgers pass incomplete short right to 87-J.Nelson [90-P.McPhee].'>18.85</number><number>0.6</number>
+<number shadow='shadow1' tooltip='11:04 2-10-GB 19GB 3 BLT 0 LI: 1.3(No Huddle Shotgun) 27-E.Lacy left guard to GB 22 for 3 yards(55-T.Suggs; 51-D.Smith).'>18.93</number><number>0.6</number>
+<number shadow='shadow1' tooltip='10:18 3-7-GB 22GB 3 BLT 0 LI: 1.2(Shotgun) 12-A.Rodgers pass incomplete short right to 11-J.Boykin.'>19.7</number><number>0.57</number>
+<number shadow='shadow1' tooltip='10:14 4-7-GB 22GB 3 BLT 0 LI: 0.9(Punt formation) 8-T.Masthay punts 45 yards to BLT 33 Center-61-B.Goode12-J.Jones to BLT 33 for no gain (32-C.Banjo).'>19.77</number><number>0.58</number>
+<number shadow='shadow1' tooltip='10:02 1-10-BLT 33GB 3 BLT 0 LI: 1.127-R.Rice right tackle to BLT 30 for -3 yards(50-A.Hawk).'>19.97</number><number>0.6</number>
+<number shadow='shadow1' tooltip='9:31 2-13-BLT 30GB 3 BLT 0 LI: 1(Shotgun) 5-J.Flacco pass incomplete deep left to 82-T.Smith.'>20.48</number><number>0.62</number>
+<number shadow='shadow1' tooltip='9:25 3-13-BLT 30GB 3 BLT 0 LI: 0.8(Shotgun) 5-J.Flacco pass incomplete deep right to 82-T.Smith (37-S.Shields).'>20.58</number><number>0.64</number>
+<number shadow='shadow1' tooltip='9:13 4-13-BLT 30GB 3 BLT 0 LI: 0.6(Punt formation) 4-S.Koch punts 6 yards to BLT 36 Center-46-M.Cox30-J.Kuhn MUFFS catch RECOVERED by BLT-32-J.Ihedigbo at BLT 4132-J.Ihedigbo to BLT 41 for no gain (86-B.Bostick)GB 82 Deflected the punt'>20.78</number><number>0.56</number>
+<number shadow='shadow1' tooltip='8:30 2-10-BLT 41GB 3 BLT 0 LI: 1.15-J.Flacco pass incomplete short left to 44-V.Leach.'>21.5</number><number>0.59</number>
+<number shadow='shadow1' tooltip='8:23 3-10-BLT 41GB 3 BLT 0 LI: 0.9(Shotgun) 5-J.Flacco pass short left to 87-D.Clark to GB 14 for 45 yards(42-M.Burnett).'>21.62</number><number>0.42</number>
+<number shadow='shadow1' tooltip='7:54 1-10-GB 14GB 3 BLT 0 LI: 1.9(No Huddle Shotgun) 5-J.Flacco scrambles right end to GB 8 for 6 yards(33-M.Hyde).'>22.1</number><number>0.4</number>
+<number shadow='shadow1' tooltip='7:04 2-4-GB 8GB 3 BLT 0 LI: 2.1(No Huddle Shotgun) 5-J.Flacco pass incomplete short left to 82-T.SmithPENALTY on GB-37-S.Shields Defensive Holding 4 yards enforced at GB 8 - No Play.'>22.93</number><number>0.4</number>
+<number shadow='shadow1' tooltip='6:57 1-4-GB 4GB 3 BLT 0 LI: 2.127-R.Rice right guard to GB 2 for 2 yards(42-M.Burnett; 97-J.Jolly).'>23.05</number><number>0.4</number>
+<number shadow='shadow1' tooltip='6:19 2-2-GB 2GB 3 BLT 0 LI: 2.127-R.Rice right tackle to GB 1 for 1 yard(42-M.Burnett; 55-A.Mulumba).'>23.68</number><number>0.4</number>
+<number shadow='shadow1' tooltip='5:37 3-1-GB 1GB 3 BLT 0 LI: 2.127-R.Rice right end to GB 1 for no gain (42-M.Burnett; 53-N.Perry).'>24.38</number><number>0.52</number>
+<number shadow='shadow1' tooltip='5:22 4-1-GB 1GB 3 BLT 0 LI: 0.930-B.Pierce left guard to GB 1 for no gain (76-M.Daniels; 33-M.Hyde).'>24.63</number><number>0.61</number>
+<number shadow='shadow1' tooltip='5:16 1-10-GB 1GB 3 BLT 0 LI: 2PENALTY on GB-70-T.Lang False Start 0 yards enforced at GB 1 - No Play.'>24.73</number><number>0.61</number>
+<number shadow='shadow1' tooltip='4:36 2-10-GB 1GB 3 BLT 0 LI: 1.512-A.Rodgers pass incomplete short right to 11-J.Boykin.'>25.4</number><number>0.55</number>
+<number shadow='shadow1' tooltip='4:33 3-10-GB 1GB 3 BLT 0 LI: 1.4(Shotgun) 12-A.Rodgers pass incomplete deep middle to 11-J.Boykin.'>25.45</number><number>0.52</number>
+<number shadow='shadow1' tooltip='4:24 4-10-GB 1GB 3 BLT 0 LI: 1(Punt formation) 8-T.Masthay punts 52 yards to BLT 47 Center-61-B.Goode fair catch by 17-T.Doss.'>25.6</number><number>0.55</number>
+<number shadow='shadow1' tooltip='4:22 1-10-BLT 47GB 3 BLT 0 LI: 1.230-B.Pierce left end to GB 48 for 5 yards(33-M.Hyde).'>25.63</number><number>0.55</number>
+<number shadow='shadow1' tooltip='3:50 2-5-GB 48GB 3 BLT 0 LI: 1.2(No Huddle) 5-J.Flacco pass incomplete short right to 44-V.Leach.'>26.17</number><number>0.57</number>
+<number shadow='shadow1' tooltip='3:44 3-5-GB 48GB 3 BLT 0 LI: 1(Shotgun) 5-J.Flacco sacked at GB 49 for -1 yards(50-A.Hawk).'>26.27</number><number>0.62</number>
+<number shadow='shadow1' tooltip='3:16 4-6-GB 49GB 3 BLT 0 LI: 0.5(Punt formation) 4-S.Koch punts 37 yards to GB 12 Center-46-M.Cox fair catch by 18-R.Cobb.'>26.73</number><number>0.61</number>
+<number shadow='shadow1' tooltip='3:10 1-10-GB 12GB 3 BLT 0 LI: 1.9(Shotgun) 12-A.Rodgers pass incomplete short right to 11-J.Boykin.'>26.83</number><number>0.59</number>
+<number shadow='shadow1' tooltip='3:06 2-10-GB 12GB 3 BLT 0 LI: 1.7(No Huddle Shotgun) 27-E.Lacy right guard to GB 15 for 3 yards(58-E.Dumervil; 51-D.Smith)PENALTY on GB-71-J.Sitton Offensive Holding 6 yards enforced at GB 12 - No Play.'>26.9</number><number>0.57</number>
+<number shadow='shadow1' tooltip='2:40 2-16-GB 6GB 3 BLT 0 LI: 1.5(No Huddle Shotgun) 12-A.Rodgers pass short left to 18-R.Cobb to GB 13 for 7 yards(32-J.Ihedigbo; 51-D.Smith).'>27.33</number><number>0.58</number>
+<number shadow='shadow1' tooltip='2:00 3-9-GB 13GB 3 BLT 0 LI: 1.612-A.Rodgers pass incomplete short right to 11-J.Boykin (90-P.McPhee).'>28</number><number>0.54</number>
+<number shadow='shadow1' tooltip='1:56 4-9-GB 13GB 3 BLT 0 LI: 1.2(Punt formation) 8-T.Masthay punts 56 yards to BLT 31 Center-61-B.Goode downed by GB-30-J.Kuhn.'>28.07</number><number>0.59</number>
+<number shadow='shadow1' tooltip='1:42 1-10-BLT 31GB 3 BLT 0 LI: 1.2(Shotgun) 5-J.Flacco pass incomplete short right to 87-D.Clark.'>28.3</number><number>0.6</number>
+<number shadow='shadow1' tooltip='1:38 2-10-BLT 31GB 3 BLT 0 LI: 1.1(Shotgun) 5-J.Flacco pass incomplete deep middle to 17-T.Doss.'>28.37</number><number>0.62</number>
+<number shadow='shadow1' tooltip='1:34 3-10-BLT 31GB 3 BLT 0 LI: 0.9(No Huddle Shotgun) PENALTY on BLT-87-D.Clark False Start 5 yards enforced at BLT 31 - No Play.'>28.43</number><number>0.63</number>
+<number shadow='shadow1' tooltip='1:27 4-5-BLT 36GB 3 BLT 0 LI: 0.6(Punt formation) 4-S.Koch punts 38 yards to GB 26 Center-46-M.Cox33-M.Hyde to GB 49 for 23 yards(36-J.Miles).'>28.55</number><number>0.68</number>
+<number shadow='shadow1' tooltip='1:17 1-10-GB 49GB 3 BLT 0 LI: 1.5(No Huddle Shotgun) 12-A.Rodgers pass deep middle to 87-J.Nelson pushed ob at BLT 17 for 34 yards(22-J.Smith).'>28.72</number><number>0.73</number>
+<number shadow='shadow1' tooltip='1:09 1-10-BLT 17GB 3 BLT 0 LI: 1.1(No Huddle Shotgun) 12-A.Rodgers pass short left to 30-J.Kuhn to BLT 16 for 1 yard(32-J.Ihedigbo).'>28.85</number><number>0.74</number>
+<number shadow='shadow1' tooltip='0:47 2-9-BLT 16GB 3 BLT 0 LI: 1.1(No Huddle Shotgun) 12-A.Rodgers pass incomplete deep right to 88-J.FinleyPENALTY on GB-69-D.Bakhtiari Offensive Holding 10 yards enforced at BLT 16 - No Play.'>29.22</number><number>0.71</number>
+<number shadow='shadow1' tooltip='0:39 2-19-BLT 26GB 3 BLT 0 LI: 1(No Huddle Shotgun) 12-A.Rodgers pass incomplete short middle to 88-J.Finley (51-D.Smith).'>29.35</number><number>0.69</number>
+<number shadow='shadow1' tooltip='0:34 3-19-BLT 26GB 3 BLT 0 LI: 0.8(Shotgun) 12-A.Rodgers pass short right to 18-R.Cobb to BLT 11 for 15 yards(26-M.Elam)PENALTY on GB-70-T.Lang Personal Foul 15 yards enforced between downs.'>29.43</number><number>0.68</number>
+<number shadow='shadow1' tooltip='0:26 4-19-BLT 26GB 3 BLT 0 LI: 0.7(Field Goal formation) 2-M.Crosby 44 yard field goal is No Good Wide Right Center-61-B.Goode Holder-8-T.Masthay.'>29.57</number><number>0.59</number>
+<number shadow='shadow1' tooltip='0:20 1-10-BLT 34GB 3 BLT 0 LI: 1.2(Shotgun) 5-J.Flacco pass incomplete deep right to 82-T.Smith.'>29.67</number><number>0.6</number>
+<number shadow='shadow1' tooltip='0:12 2-10-BLT 34GB 3 BLT 0 LI: 1.1(Shotgun) 5-J.Flacco sacked at BLT 33 for -1 yards(53-N.Perry)FUMBLES (53-N.Perry) RECOVERED by GB-95-D.Jones at BLT 3395-D.Jones to BLT 13 for 20 yards(66-G.Gradkowski).'>29.8</number><number>0.77</number>
+<number shadow='shadow1' tooltip='0:02 1-10-BLT 13GB 3 BLT 0 LI: 1.3(Field Goal formation) 2-M.Crosby 31 yard field goal is GOOD Center-61-B.Goode Holder-8-T.Masthay.'>29.97</number><number>0.7</number>
+<number shadow='shadow1' tooltip='0:02 GB 6 BLT 0 LI: 8-T.Masthay kicks 68 yards from GB 35 to BLT -312-J.Jones to BLT 16 for 19 yards(86-B.Bostick).'>30.06</number><number>0.72</number>
+<number shadow='shadow1' tooltip='14:55 1-10-BLT 16GB 6 BLT 0 LI: 130-B.Pierce right tackle to BLT 13 for -3 yards(57-J.Lattimore).'>30.08</number><number>0.74</number>
+<number shadow='shadow1' tooltip='14:24 2-13-BLT 13GB 6 BLT 0 LI: 1.1(No Huddle Shotgun) 5-J.Flacco pass short middle to 87-D.Clark to BLT 19 for 6 yards(42-M.Burnett; 50-A.Hawk).'>30.6</number><number>0.73</number>
+<number shadow='shadow1' tooltip='13:49 3-7-BLT 19GB 6 BLT 0 LI: 0.9(Shotgun) 5-J.Flacco sacked at BLT 9 for -10 yards(33-M.Hyde)FUMBLES (33-M.Hyde) recovered by BLT-44-V.Leach at BLT 944-V.Leach to BLT 9 for no gain (50-A.Hawk).'>31.18</number><number>0.78</number>
+<number shadow='shadow1' tooltip='13:04 4-17-BLT 9GB 6 BLT 0 LI: 0.7(Punt formation) 4-S.Koch punts 45 yards to GB 46 Center-46-M.Cox33-M.Hyde to BLT 34 for 20 yards(46-M.Cox).'>31.93</number><number>0.8</number>
+<number shadow='shadow1' tooltip='12:54 1-10-BLT 34GB 6 BLT 0 LI: 1.112-A.Rodgers pass short left to 88-J.Finley to BLT 30 for 4 yards(26-M.Elam; 22-J.Smith).'>32.1</number><number>0.79</number>
+<number shadow='shadow1' tooltip='12:13 2-6-BLT 30GB 6 BLT 0 LI: 0.927-E.Lacy right guard to BLT 28 for 2 yards(55-T.Suggs).'>32.78</number><number>0.79</number>
+<number shadow='shadow1' tooltip='11:34 3-4-BLT 28GB 6 BLT 0 LI: 0.8(Shotgun) 12-A.Rodgers pass deep left intended for 87-J.Nelson INTERCEPTED by 22-J.Smith [58-E.Dumervil] at BLT -5Touchback.'>33.43</number><number>0.73</number>
+<number shadow='shadow1' tooltip='11:27 1-10-BLT 20GB 6 BLT 0 LI: 0.9(Shotgun) 27-R.Rice right guard to BLT 20 for no gain (90-B.Raji; 55-A.Mulumba).'>33.55</number><number>0.73</number>
+<number shadow='shadow1' tooltip='10:53 2-10-BLT 20GB 6 BLT 0 LI: 0.9PENALTY on BLT-73-M.Yanda False Start 5 yards enforced at BLT 20 - No Play.'>34.12</number><number>0.75</number>
+<number shadow='shadow1' tooltip='10:38 2-15-BLT 15GB 6 BLT 0 LI: 0.8PENALTY on BLT-72-K.Osemele False Start 5 yards enforced at BLT 15 - No Play.'>34.37</number><number>0.77</number>
+<number shadow='shadow1' tooltip='10:20 2-20-BLT 10GB 6 BLT 0 LI: 0.9(Shotgun) 27-R.Rice left guard to BLT 15 for 5 yards(57-J.Lattimore).'>34.67</number><number>0.76</number>
+<number shadow='shadow1' tooltip='9:46 3-15-BLT 15GB 6 BLT 0 LI: 0.7(No Huddle Shotgun) 5-J.Flacco pass short middle to 17-T.Doss to BLT 25 for 10 yards(43-M.Jennings).'>35.23</number><number>0.76</number>
+<number shadow='shadow1' tooltip='9:23 4-5-BLT 25GB 6 BLT 0 LI: 0.6(Punt formation) 4-S.Koch punts 61 yards to GB 14 Center-46-M.Cox33-M.Hyde to GB 30 for 16 yards(36-J.Miles).'>35.62</number><number>0.76</number>
+<number shadow='shadow1' tooltip='9:10 1-10-GB 30GB 6 BLT 0 LI: 1.527-E.Lacy right guard to GB 32 for 2 yards(97-A.Jones; 51-D.Smith).'>35.83</number><number>0.76</number>
+<number shadow='shadow1' tooltip='8:29 2-8-GB 32GB 6 BLT 0 LI: 1.412-A.Rodgers pass short left to 11-J.Boykin to BLT 25 for 43 yards(26-M.Elam; 51-D.Smith).'>36.52</number><number>0.82</number>
+<number shadow='shadow1' tooltip='7:37 1-10-BLT 25GB 6 BLT 0 LI: 0.927-E.Lacy left end to BLT 20 for 5 yards(26-M.Elam)PENALTY on GB-88-J.Finley Offensive Holding 10 yards enforced at BLT 25 - No Play.'>37.38</number><number>0.81</number>
+<number shadow='shadow1' tooltip='7:10 1-20-BLT 35GB 6 BLT 0 LI: 1.112-A.Rodgers pass incomplete deep right to 87-J.Nelson (21-L.Webb).'>37.83</number><number>0.78</number>
+<number shadow='shadow1' tooltip='7:03 2-20-BLT 35GB 6 BLT 0 LI: 0.727-E.Lacy left tackle to BLT 32 for 3 yards(55-T.Suggs; 91-C.Upshaw).'>37.95</number><number>0.78</number>
+<number shadow='shadow1' tooltip='6:16 3-17-BLT 32GB 6 BLT 0 LI: 0.6(Shotgun) 12-A.Rodgers pass incomplete deep right to 88-J.Finley.'>38.73</number><number>0.76</number>
+<number shadow='shadow1' tooltip='6:11 4-17-BLT 32GB 6 BLT 0 LI: 0.4(Field Goal formation) 2-M.Crosby 50 yard field goal is GOOD Center-61-B.Goode Holder-8-T.Masthay.'>38.82</number><number>0.79</number>
+<number shadow='shadow1' tooltip='6:11 GB 9 BLT 0 LI: 8-T.Masthay kicks 65 yards from GB 35 to BLT 012-J.Jones to BLT 35 for 35 yards(33-M.Hyde).'>38.91</number><number>0.78</number>
+<number shadow='shadow1' tooltip='5:58 1-10-BLT 35GB 9 BLT 0 LI: 1.15-J.Flacco pass short middle to 14-M.Brown to GB 6 for 59 yards(43-M.Jennings).'>39.03</number><number>0.65</number>
+<number shadow='shadow1' tooltip='5:19 1-6-GB 6GB 9 BLT 0 LI: 1.5(No Huddle Shotgun) 5-J.Flacco pass incomplete short left to 17-T.Doss.'>39.68</number><number>0.66</number>
+<number shadow='shadow1' tooltip='5:13 2-6-GB 6GB 9 BLT 0 LI: 1.45-J.Flacco pass short left to 14-M.Brown to GB 5 for 1 yard(33-M.Hyde).'>39.78</number><number>0.68</number>
+<number shadow='shadow1' tooltip='4:48 3-5-GB 5GB 9 BLT 0 LI: 1.2(No Huddle Shotgun) 5-J.Flacco pass incomplete short left to 14-M.Brown.'>40.2</number><number>0.75</number>
+<number shadow='shadow1' tooltip='4:48 GB 9 BLT 3 LI: 9-J.Tucker kicks 65 yards from BLT 35 to end zone Touchback.'>40.29</number><number>0.75</number>
+<number shadow='shadow1' tooltip='4:34 1-10-GB 20GB 9 BLT 3 LI: 1.527-E.Lacy right guard to GB 25 for 5 yards(51-D.Smith; 56-J.Bynes).'>40.43</number><number>0.76</number>
+<number shadow='shadow1' tooltip='3:52 2-5-GB 25GB 9 BLT 3 LI: 1.527-E.Lacy right guard to GB 24 for -1 yards(55-T.Suggs).'>41.13</number><number>0.75</number>
+<number shadow='shadow1' tooltip='3:07 3-6-GB 24GB 9 BLT 3 LI: 1.4(Shotgun) 12-A.Rodgers scrambles up the middle to GB 36 for 12 yards(24-C.Graham).'>41.88</number><number>0.79</number>
+<number shadow='shadow1' tooltip='2:22 1-10-GB 36GB 9 BLT 3 LI: 1.412-A.Rodgers pass deep middle to 87-J.Nelson for 64 yards TOUCHDOWN.'>42.63</number><number>0.92</number>
+<number shadow='shadow1' tooltip='2:22 GB 9 BLT 3 LI: 2-M.Crosby extra point is GOOD Center-61-B.Goode Holder-8-T.Masthay.'>42.67</number><number>0.92</number>
+<number shadow='shadow1' tooltip='2:22 GB 16 BLT 3 LI: 8-T.Masthay kicks 65 yards from GB 35 to end zone Touchback.'>42.72</number><number>0.93</number>
+<number shadow='shadow1' tooltip='2:12 1-10-BLT 20GB 16 BLT 3 LI: 0.55-J.Flacco pass short left to 82-T.Smith to BLT 32 for 12 yards(37-S.Shields).'>42.8</number><number>0.91</number>
+<number shadow='shadow1' tooltip='1:53 1-10-BLT 32GB 16 BLT 3 LI: 0.6(No Huddle) 30-B.Pierce left tackle to BLT 42 for 10 yards(98-C.Wilson).'>43.12</number><number>0.9</number>
+<number shadow='shadow1' tooltip='1:22 1-10-BLT 42GB 16 BLT 3 LI: 0.614-M.Brown left end to BLT 40 for -2 yards(33-M.Hyde)End around'>43.63</number><number>0.93</number>
+<number shadow='shadow1' tooltip='0:39 2-12-BLT 40GB 16 BLT 3 LI: 0.3(No Huddle Shotgun) 30-B.Pierce left guard to BLT 47 for 7 yardsPENALTY on GB-96-M.Neal Defensive Offside 5 yards enforced at BLT 40 - No Play.'>44.35</number><number>0.92</number>
+<number shadow='shadow1' tooltip='0:18 2-7-BLT 45GB 16 BLT 3 LI: 0.430-B.Pierce left tackle to BLT 45 for no gain (42-M.Burnett).'>44.7</number><number>0.93</number>
+<number shadow='shadow1' tooltip='15:00 3-7-BLT 45GB 16 BLT 3 LI: 0.3(Shotgun) 5-J.Flacco pass incomplete short right to 17-T.DossPENALTY on GB-38-T.Williams Defensive Holding 5 yards enforced at BLT 45 - No Play.'>45</number><number>0.89</number>
+<number shadow='shadow1' tooltip='14:55 1-10-50GB 16 BLT 3 LI: 0.627-R.Rice left tackle to GB 39 for 11 yards(97-J.Jolly).'>45.08</number><number>0.88</number>
+<number shadow='shadow1' tooltip='14:22 1-10-GB 39GB 16 BLT 3 LI: 0.8(Shotgun) 5-J.Flacco pass short left to 14-M.Brown to GB 28 for 11 yards(32-C.Banjo; 42-M.Burnett).'>45.63</number><number>0.87</number>
+<number shadow='shadow1' tooltip='13:43 1-10-GB 28GB 16 BLT 3 LI: 0.9(No Huddle Shotgun) 27-R.Rice left tackle to GB 22 for 6 yards(98-C.Wilson; 50-A.Hawk).'>46.28</number><number>0.85</number>
+<number shadow='shadow1' tooltip='13:10 2-4-GB 22GB 16 BLT 3 LI: 1.1(Shotgun) 5-J.Flacco pass short middle to 87-D.Clark to GB 10 for 12 yards(98-C.Wilson; 32-C.Banjo).'>46.83</number><number>0.83</number>
+<number shadow='shadow1' tooltip='12:33 1-10-GB 10GB 16 BLT 3 LI: 1.327-R.Rice right tackle to GB 11 for -1 yards(76-M.Daniels).'>47.45</number><number>0.86</number>
+<number shadow='shadow1' tooltip='11:58 2-11-GB 11GB 16 BLT 3 LI: 1(No Huddle Shotgun) 5-J.Flacco pass short left to 12-J.Jones for 11 yards TOUCHDOWN.'>48.03</number><number>0.81</number>
+<number shadow='shadow1' tooltip='11:58 GB 16 BLT 3 LI: 9-J.Tucker extra point is GOOD Center-46-M.Cox Holder-5-J.Flacco.'>48.07</number><number>0.81</number>
+<number shadow='shadow1' tooltip='11:58 GB 16 BLT 10 LI: 9-J.Tucker kicks 68 yards from BLT 35 to GB -334-M.Hill to GB 16 for 19 yards(59-A.Brown).'>48.12</number><number>0.79</number>
+<number shadow='shadow1' tooltip='11:46 1-10-GB 16GB 16 BLT 10 LI: 1.727-E.Lacy right guard to GB 17 for 1 yard(97-A.Jones; 98-B.Williams).'>48.23</number><number>0.78</number>
+<number shadow='shadow1' tooltip='11:03 2-9-GB 17GB 16 BLT 10 LI: 1.6(Shotgun) 12-A.Rodgers pass short right to 30-J.Kuhn to GB 25 for 8 yards(21-L.Webb).'>48.95</number><number>0.81</number>
+<number shadow='shadow1' tooltip='10:13 3-1-GB 25GB 16 BLT 10 LI: 1.8(Shotgun) 12-A.Rodgers pass short right to 87-J.Nelson to GB 34 for 9 yards(21-L.Webb).'>49.78</number><number>0.84</number>
+<number shadow='shadow1' tooltip='9:48 1-10-GB 34GB 16 BLT 10 LI: 1.927-E.Lacy left guard to BLT 49 for 17 yards(32-J.Ihedigbo; 26-M.Elam).'>50.2</number><number>0.89</number>
+<number shadow='shadow1' tooltip='9:03 1-10-BLT 49GB 16 BLT 10 LI: 1.927-E.Lacy right guard to BLT 46 for 3 yards(98-B.Williams; 56-J.Bynes).'>50.95</number><number>0.9</number>
+<number shadow='shadow1' tooltip='8:17 2-7-BLT 46GB 16 BLT 10 LI: 1.9(Shotgun) 12-A.Rodgers scrambles up the middle to BLT 41 for 5 yards(99-C.Canty).'>51.72</number><number>0.9</number>
+<number shadow='shadow1' tooltip='7:29 3-2-BLT 41GB 16 BLT 10 LI: 1.627-E.Lacy right tackle to BLT 38 for 3 yards(26-M.Elam; 55-T.Suggs).'>52.52</number><number>0.93</number>
+<number shadow='shadow1' tooltip='6:45 1-10-BLT 38GB 16 BLT 10 LI: 1.712-A.Rodgers pass short left to 88-J.Finley to BLT 19 for 19 yards(55-T.Suggs; 32-J.Ihedigbo).'>53.25</number><number>0.98</number>
+<number shadow='shadow1' tooltip='5:52 1-10-BLT 19GB 16 BLT 10 LI: 1.627-E.Lacy left tackle to BLT 14 for 5 yards(55-T.Suggs; 51-D.Smith).'>54.13</number><number>0.94</number>
+<number shadow='shadow1' tooltip='5:13 2-5-BLT 14GB 16 BLT 10 LI: 1.227-E.Lacy right guard to BLT 12 for 2 yards(56-J.Bynes; 32-J.Ihedigbo).'>54.78</number><number>0.93</number>
+<number shadow='shadow1' tooltip='4:26 3-3-BLT 12GB 16 BLT 10 LI: 1.4(Shotgun) 12-A.Rodgers pass incomplete short right to 87-J.Nelson.'>55.57</number><number>0.88</number>
+<number shadow='shadow1' tooltip='4:20 4-3-BLT 12GB 16 BLT 10 LI: 0.9(Field Goal formation) 2-M.Crosby 31 yard field goal is GOOD Center-61-B.Goode Holder-8-T.Masthay.'>55.67</number><number>0.89</number>
+<number shadow='shadow1' tooltip='4:20 GB 19 BLT 10 LI: 8-T.Masthay kicks 73 yards from GB 35 to BLT -812-J.Jones to BLT 10 for 18 yards(32-C.Banjo).'>55.76</number><number>0.88</number>
+<number shadow='shadow1' tooltip='4:13 1-10-BLT 10GB 19 BLT 10 LI: 1(Shotgun) 5-J.Flacco pass deep middle to 17-T.Doss to BLT 30 for 20 yards(50-A.Hawk).'>55.78</number><number>0.91</number>
+<number shadow='shadow1' tooltip='3:55 1-10-BLT 30GB 19 BLT 10 LI: 0.8(Shotgun) 5-J.Flacco pass incomplete short left to 27-R.Rice.'>56.08</number><number>0.97</number>
+<number shadow='shadow1' tooltip='3:47 2-10-BLT 30GB 19 BLT 10 LI: 0.2(No Huddle Shotgun) 5-J.Flacco sacked at BLT 23 for -7 yards(50-A.Hawk).'>56.22</number><number>0.98</number>
+<number shadow='shadow1' tooltip='3:30 3-17-BLT 23GB 19 BLT 10 LI: 0.1(Shotgun) 5-J.Flacco pass short middle to 17-T.Doss to BLT 34 for 11 yards(43-M.Jennings)PENALTY on BLT-66-G.Gradkowski Offensive Holding 10 yards enforced at BLT 23 - No Play.'>56.5</number><number>0.99</number>
+<number shadow='shadow1' tooltip='3:15 3-27-BLT 13GB 19 BLT 10 LI: 0.1(Shotgun) 5-J.Flacco pass short left to 27-R.Rice to BLT 19 for 6 yards(55-A.Mulumba).'>56.75</number><number>0.99</number>
+<number shadow='shadow1' tooltip='2:40 4-21-BLT 19GB 19 BLT 10 LI: 0.1(No Huddle Shotgun) 5-J.Flacco pass deep middle to 17-T.Doss to GB 18 for 63 yards(38-T.Williams).'>57.33</number><number>0.95</number>
+<number shadow='shadow1' tooltip='2:07 1-10-GB 18GB 19 BLT 10 LI: 0.4(No Huddle Shotgun) 5-J.Flacco pass deep left to 87-D.Clark for 18 yards TOUCHDOWN.'>57.88</number><number>0.89</number>
+<number shadow='shadow1' tooltip='2:07 GB 19 BLT 10 LI: 9-J.Tucker extra point is GOOD Center-46-M.Cox Holder-5-J.Flacco.'>57.92</number><number>0.89</number>
+<number shadow='shadow1' tooltip='2:07 GB 19 BLT 17 LI: 9-J.Tucker kicks 65 yards from BLT 35 to end zone Touchback.'>57.97</number><number>0.87</number>
+<number shadow='shadow1' tooltip='2:00 2-9-GB 21GB 19 BLT 17 LI: 6.312-A.Rodgers left end to GB 27 for 6 yards(32-J.Ihedigbo).'>58</number><number>0.82</number>
+<number shadow='shadow1' tooltip='1:53 3-3-GB 27GB 19 BLT 17 LI: 5.6(Shotgun) 12-A.Rodgers pass short middle to 88-J.Finley to BLT 21 for 52 yards(32-J.Ihedigbo).'>58.12</number><number>0.99</number>
+<number shadow='shadow1' tooltip='1:42 1-10-BLT 21GB 19 BLT 17 LI: 2.827-E.Lacy left end to BLT 22 for -1 yards(90-P.McPhee).'>58.3</number><number>0.93</number>
+<number shadow='shadow1' tooltip='1:38 2-11-BLT 22GB 19 BLT 17 LI: 2.227-E.Lacy right guard to BLT 13 for 9 yards(51-D.Smith; 26-M.Elam).'>58.37</number><number>0.93</number>
+<number shadow='shadow1' tooltip='1:32 3-2-BLT 13GB 19 BLT 17 LI: 1.427-E.Lacy left end to BLT 9 for 4 yards(32-J.Ihedigbo).'>58.47</number><number>0.99</number>
+<number shadow='shadow1' tooltip='0:46 1-9-BLT 9GB 19 BLT 17 LI: 0.412-A.Rodgers kneels to BLT 10 for -1 yards.'>59.23</number><number>0.99</number>
+<number shadow='shadow1' tooltip='0:28 2-10-BLT 10GB 19 BLT 17 LI: 0.112-A.Rodgers kneels to BLT 11 for -1 yards.'>59.53</number><number>1</number>
+<number>60</number><number>1</number>
+</row> </chart_data>
+       <draw>
+
+
+
+      <image x='45' y='298'  url='nfllogos/42x50png/GB.gif'  layer='foreground' glow = 'glow1'/>
+      <image x='45' y='350'  url='nfllogos/42x50png/BLT.gif'     layer='foreground' glow = 'glow1'/>
+
+
+      <rect x='130' y='300' width='250' height='40' fill_color='00422f' bevel='bevel1' />
+      <text x='135' y='300' width='250' height='40' h_align='left' v_align='middle' color='ffffff' shadow='shadow2' glow='winnerglow'>Green Bay Packers</text>
+
+      <rect x='130' y='350' width='250' height='40' fill_color='023273' bevel='bevel1'  />
+      <text x='135' y='350' width='250' height='40' h_align='left' v_align='middle' color='ffffff' shadow='shadow2' glow=''>Baltimore Ravens</text>
+
+      <rect x='420' y='300' width='60' height='40' fill_color='00422f' bevel='bevel1'  />
+      <text x='420' y='300' width='60' height='40' h_align='center' v_align='middle' color='ffffff' shadow='shadow2' transition='none' glow='winnerglow'>19</text>
+
+      <rect x='420' y='350' width='60' height='40' fill_color='023273' bevel='bevel1' />
+      <text x='420' y='350' width='60' height='40' h_align='center' v_align='middle' color='ffffff' shadow='shadow2' transition='none' glow=''>17</text>
+
+      <text x='-3' y='12'  width='60' height='40' h_align='center' v_align='middle' size='13' shadow='shadow2'>GBWin </text>
+      <text x='-3' y='218' width='60' height='40' h_align='center' v_align='middle' size='13' shadow='shadow2'>BLTWin </text>
+
+     
+              <rect x='540' y='300' width='100' height='35' fill_color='000000' fill_alpha='50'/>
+              <text x='540' y='300' width='100' height='35' h_align='center' v_align='middle' color='ffffff' size='15' shadow='shadow2' >Final</text>
+
+              <text x='540' y='340' width='40' h_align='center' color='000000' size='12' shadow='shadow2'>CBF</text>
+              <text x='600' y='340' width='40' h_align='center' color='000000' size='12' shadow='shadow2'>EI</text>
+
+              <rect x='540' y='360' width='40' height='30' fill_color='000000' fill_alpha='50' />
+              <text x='540' y='360' width='40' height='30' size='12' h_align='center' v_align='middle' color='FFFFFF' shadow='shadow2'>3</text>
+
+              <rect x='600' y='360' width='40' height='30' fill_color='000000' fill_alpha='50' />
+              <text x='600' y='360' width='40' height='30' size='12' h_align='center' v_align='middle' color='FFFFFF' shadow='shadow2'>4.6</text>
+
+              <text x='20' y='420' width='70' height='25' size='12' h_align='left' v_align='middle' color='000000' >10/13/2013</text>
+              <text x='100' y='420' width='200' height='25' size='12' h_align='left' v_align='middle' color='000000' >M&T Bank Stadium</text>
+
+   </draw></chart>

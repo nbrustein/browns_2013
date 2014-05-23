@@ -1,0 +1,293 @@
+
+<chart>
+   <license>ETAS9P33ESHO.945CWK-2XOI1X0-7L</license>
+   <chart_type>scatter</chart_type>
+   <chart_pref trend_thickness='0' line_thickness='3' point_size='0'/>
+
+   <series_color>
+      <color>ffff00</color>
+   </series_color>
+
+   <chart_rect x='45' y='20' width='630' height='230' positive_color='cacaca'  />
+
+  <chart_border top_thickness='0'
+                 bottom_thickness='0'
+                 left_thickness='0'
+                 right_thickness='0'
+                 color='000000'
+                 />
+
+   <tooltip font='Arial' bold='true' size='11' />
+
+   <chart_note type='flag'
+               color='000000'
+               alpha='90'
+               bold='FALSE'
+               size='10'
+               background_color='ffffe0'
+               background_alpha='50'
+               shadow='shadow2'
+               />
+
+   <chart_grid_h thickness='2' color='ffffff' type='dashed'  />
+   <chart_grid_v thickness='2' color='ffffff'   />
+		>
+
+   <legend layout='hide' />
+
+   <chart_guide horizontal='TRUE'
+             vertical='TRUE'
+             thickness='1'
+             color='006400'
+             alpha='100'
+             type='solid'
+             snap_h='TRUE'
+             snap_v='TRUE'
+             radius='3'
+             fill_color='006400'
+             fill_alpha='100'
+             line_color='006400'
+             line_alpha='80'
+             line_thickness='1'
+             text_h_alpha='50'
+             text_v_alpha='00'
+             suffix_h=' WP'
+             decimals='2'
+             bold='FALSE'
+             size='11'
+             text_color='FFFFFF'
+             background_color='006400'
+             />
+   <filter>
+      <shadow id='shadow1' distance='2' angle='60' blurX='5' blurY='5' alpha='50' />
+      <bevel id='bevel1' angle='45' blurX='5' blurY='5' distance='0' />
+      <glow id='glow1' color='ffffff' alpha='0' blurX='7' blurY='7' strength='6' quality='2' inner='FALSE' knockout='FALSE' />
+      <glow id='winnerglow' color='ffffff' alpha='0' blurX='7' blurY='7' strength='5' quality='2' inner='FALSE' knockout='FALSE' />
+   </filter>
+
+    <axis_value_label>
+         <string></string>
+          <string> </string>
+          <null/>
+          <string> </string>
+          <string></string>
+
+       </axis_value_label>
+		
+	   <axis_ticks category_ticks='false'/>
+
+       <axis_value min='0' max='1' steps='4'  decimals='2' show_min='true' size='13' shadow='shadow2' />     
+            <axis_category
+               min='0'
+               max='60'
+               steps='4'
+               mode='all'
+               decimals='0'
+               size='13'
+               shadow='shadow2'
+               />
+
+       <axis_category_label>
+          <string>Kickoff</string>
+          <string></string>
+          <string>Halftime</string>
+          <string></string>
+          <string>End</string>
+
+       </axis_category_label>
+
+
+        <chart_data>
+       <row>
+	      <null/><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number>
+              <number>x</number><number>y</number>
+              </row><row><string></string>
+
+                     <number shadow='shadow1'>0</number><number>.5</number><number shadow='shadow1' tooltip='15:00 SF 0 NO 0 LI: 6-T.Morstead kicks 65 yards from NO 35 to end zone Touchback.'>0.09</number><number>0.52</number>
+<number shadow='shadow1' tooltip='14:17 3-9-SF 21SF 0 NO 0 LI: 1.2(Shotgun) 7-C.Kaepernick pass short right to 85-V.Davis to SF 26 for 5 yards(31-C.Carr)Pass -1 YAC 6'>0.72</number><number>0.46</number>
+<number shadow='shadow1' tooltip='13:43 4-4-SF 26SF 0 NO 0 LI: 0.94-A.Lee punts 55 yards to NO 19 Center-47-K.McDermott43-D.Sproles to NO 24 for 5 yards(53-N.Bowman).'>1.28</number><number>0.48</number>
+<number shadow='shadow1' tooltip='13:32 1-10-NO 24SF 0 NO 0 LI: 1.523-P.Thomas right guard to NO 28 for 4 yards(53-N.Bowman; 90-G.Dorsey).'>1.47</number><number>0.48</number>
+<number shadow='shadow1' tooltip='12:56 2-6-NO 28SF 0 NO 0 LI: 1.4(Shotgun) 9-D.Brees pass short left to 80-J.Graham to NO 34 for 6 yards(52-P.Willis; 53-N.Bowman)Pass 6 YAC 0'>2.07</number><number>0.46</number>
+<number shadow='shadow1' tooltip='12:16 1-10-NO 34SF 0 NO 0 LI: 1.5(Shotgun) 9-D.Brees pass short right to 43-D.Sproles to NO 33 for -1 yards(53-N.Bowman)Pass -6 YAC 5'>2.73</number><number>0.49</number>
+<number shadow='shadow1' tooltip='11:41 2-11-NO 33SF 0 NO 0 LI: 1.29-D.Brees pass incomplete short left to 22-M.Ingram.'>3.32</number><number>0.5</number>
+<number shadow='shadow1' tooltip='11:36 3-11-NO 33SF 0 NO 0 LI: 1.1(Shotgun) 9-D.Brees pass short right to 23-P.Thomas to NO 42 for 9 yards(52-P.Willis)Pass 5 YAC 4'>3.4</number><number>0.52</number>
+<number shadow='shadow1' tooltip='10:58 4-2-NO 42SF 0 NO 0 LI: 0.76-T.Morstead punts 42 yards to SF 16 Center-47-J.Drescher downed by NO-54-W.HerringPENALTY on NO-24-C.White Interference with Opportunity to Catch 15 yards enforced at SF 16.'>4.03</number><number>0.54</number>
+<number shadow='shadow1' tooltip='10:46 1-10-SF 31SF 0 NO 0 LI: 1.521-F.Gore right end to SF 31 for no gain (57-D.Hawthorne).'>4.23</number><number>0.51</number>
+<number shadow='shadow1' tooltip='10:17 2-10-SF 31SF 0 NO 0 LI: 1.27-C.Kaepernick pass short right to 21-F.Gore pushed ob at SF 37 for 6 yards(53-R.Humber)Pass 6 YAC 0'>4.72</number><number>0.52</number>
+<number shadow='shadow1' tooltip='9:38 3-4-SF 37SF 0 NO 0 LI: 1.2(Shotgun) 7-C.Kaepernick pass incomplete short right to 82-M.Manningham (94-C.Jordan).'>5.37</number><number>0.47</number>
+<number shadow='shadow1' tooltip='9:33 4-4-SF 37SF 0 NO 0 LI: 0.74-A.Lee punts 54 yards to NO 9 Center-47-K.McDermott fair catch by 43-D.Sproles.'>5.45</number><number>0.5</number>
+<number shadow='shadow1' tooltip='9:25 1-10-NO 9SF 0 NO 0 LI: 1.7(Shotgun) 23-P.Thomas right guard to NO 15 for 6 yards(53-N.Bowman).'>5.58</number><number>0.5</number>
+<number shadow='shadow1' tooltip='8:50 2-4-NO 15SF 0 NO 0 LI: 1.522-M.Ingram right guard to NO 17 for 2 yards(90-G.Dorsey).'>6.17</number><number>0.51</number>
+<number shadow='shadow1' tooltip='8:11 3-2-NO 17SF 0 NO 0 LI: 1.4(Shotgun) 9-D.Brees pass incomplete short right to 16-L.Moore (26-T.Brock).'>6.82</number><number>0.55</number>
+<number shadow='shadow1' tooltip='8:07 4-2-NO 17SF 0 NO 0 LI: 16-T.Morstead punts 53 yards to SF 30 Center-47-J.Drescher23-L.James to SF 42 for 12 yards(52-K.Reddick).'>6.88</number><number>0.55</number>
+<number shadow='shadow1' tooltip='7:55 1-10-SF 42SF 0 NO 0 LI: 1.47-C.Kaepernick pass incomplete short right to 81-A.Boldin (28-K.Lewis).'>7.08</number><number>0.53</number>
+<number shadow='shadow1' tooltip='7:50 2-10-SF 42SF 0 NO 0 LI: 1.27-C.Kaepernick pass incomplete short left to 81-A.Boldin (94-C.Jordan) [94-C.Jordan].'>7.17</number><number>0.51</number>
+<number shadow='shadow1' tooltip='7:46 3-10-SF 42SF 0 NO 0 LI: 1(Shotgun) 7-C.Kaepernick pass incomplete deep right to 84-J.Baldwin (33-J.Greer)NO-33-J.Greer was injured during the playHe is Out.'>7.23</number><number>0.48</number>
+<number shadow='shadow1' tooltip='7:40 4-10-SF 42SF 0 NO 0 LI: 0.74-A.Lee punts 55 yards to NO 3 Center-47-K.McDermott downed by SF-14-K.Osgood.'>7.33</number><number>0.5</number>
+<number shadow='shadow1' tooltip='7:28 1-10-NO 3SF 0 NO 0 LI: 1.89-D.Brees pass short right to 45-J.Collins to NO 6 for 3 yards(22-C.Rogers)Pass -1 YAC 4 INJURY UPDATE: NO# 33 J.Greer knee OUT for the game.'>7.53</number><number>0.52</number>
+<number shadow='shadow1' tooltip='6:58 2-7-NO 6SF 0 NO 0 LI: 1.69-D.Brees pass short middle to 89-J.Hill to NO 11 for 5 yards(52-P.Willis)PENALTY on SF-94-J.Smith Defensive Holding 5 yards enforced at NO 6 - No Play.'>8.03</number><number>0.5</number>
+<number shadow='shadow1' tooltip='6:28 1-10-NO 11SF 0 NO 0 LI: 1.722-M.Ingram right guard to NO 26 for 15 yards(35-E.Reid).'>8.53</number><number>0.47</number>
+<number shadow='shadow1' tooltip='5:46 1-10-NO 26SF 0 NO 0 LI: 1.69-D.Brees pass short left to 23-P.Thomas to NO 31 for 5 yards(51-D.Skuta; 52-P.Willis)Pass -4 YAC 9'>9.23</number><number>0.48</number>
+<number shadow='shadow1' tooltip='5:05 2-5-NO 31SF 0 NO 0 LI: 1.3(Shotgun) 9-D.Brees pass incomplete short left to 80-J.Graham.'>9.92</number><number>0.5</number>
+<number shadow='shadow1' tooltip='5:02 3-5-NO 31SF 0 NO 0 LI: 1.1(Shotgun) 9-D.Brees pass short left to 17-R.Meachem pushed ob at SF 25 for 44 yards(22-C.Rogers)Pass 10 YAC 34'>9.97</number><number>0.37</number>
+<number shadow='shadow1' tooltip='4:22 1-10-SF 25SF 0 NO 0 LI: 1.6(Shotgun) 9-D.Brees pass short right to 43-D.Sproles pushed ob at SF 17 for 8 yards(35-E.Reid)San Francisco challenged the illegal forward pass ruling and the play was Upheld(Timeout #2.)'>10.63</number><number>0.35</number>
+<number shadow='shadow1' tooltip='3:33 2-2-SF 17SF 0 NO 0 LI: 1.623-P.Thomas right end to SF 13 for 4 yards(52-P.Willis).'>11.45</number><number>0.33</number>
+<number shadow='shadow1' tooltip='2:51 1-10-SF 13SF 0 NO 0 LI: 1.79-D.Brees pass short middle to 23-P.Thomas to SF 10 for 3 yards(52-P.Willis)Pass 3 YAC 0'>12.15</number><number>0.33</number>
+<number shadow='shadow1' tooltip='2:14 2-7-SF 10SF 0 NO 0 LI: 1.7(Shotgun) 23-P.Thomas right tackle to SF 5 for 5 yards(55-A.Brooks).'>12.77</number><number>0.34</number>
+<number shadow='shadow1' tooltip='1:37 3-2-SF 5SF 0 NO 0 LI: 1.69-D.Brees pass short right to 80-J.Graham to SF 3 for 2 yards(22-C.Rogers)Pass 2 YAC 0'>13.38</number><number>0.31</number>
+<number shadow='shadow1' tooltip='0:49 1-3-SF 3SF 0 NO 0 LI: 1.9(Shotgun) 9-D.Brees pass short right to 89-J.Hill for 3 yards TOUCHDOWNPass 1 YAC 2'>14.18</number><number>0.29</number>
+<number shadow='shadow1' tooltip='0:49 SF 0 NO 0 LI: 5-G.Hartley extra point is GOOD Center-47-J.Drescher Holder-7-L.McCown.'>14.22</number><number>0.29</number>
+<number shadow='shadow1' tooltip='0:49 SF 0 NO 7 LI: 6-T.Morstead kicks 65 yards from NO 35 to end zone Touchback.'>14.27</number><number>0.28</number>
+<number shadow='shadow1' tooltip='0:12 2-6-SF 24SF 0 NO 7 LI: 1.3(Shotgun) 7-C.Kaepernick pass short right to 21-F.Gore to SF 26 for 2 yards(50-C.Lofton) [96-T.Johnson]Pass 2 YAC 0'>14.8</number><number>0.27</number>
+<number shadow='shadow1' tooltip='15:00 3-4-SF 26SF 0 NO 7 LI: 1.2(Shotgun) 7-C.Kaepernick pass short left to 81-A.Boldin to SF 32 for 6 yards(57-D.Hawthorne)Pass 5 YAC 1'>15</number><number>0.3</number>
+<number shadow='shadow1' tooltip='14:20 1-10-SF 32SF 0 NO 7 LI: 1.332-K.Hunter left end to SF 37 for 5 yards(76-A.Hicks).'>15.67</number><number>0.3</number>
+<number shadow='shadow1' tooltip='13:47 2-5-SF 37SF 0 NO 7 LI: 1.221-F.Gore right tackle to SF 39 for 2 yards(50-C.Lofton).'>16.22</number><number>0.3</number>
+<number shadow='shadow1' tooltip='13:05 3-3-SF 39SF 0 NO 7 LI: 1.2(Shotgun) 32-K.Hunter left end to SF 44 for 5 yards(24-C.White).'>16.92</number><number>0.32</number>
+<number shadow='shadow1' tooltip='12:31 1-10-SF 44SF 0 NO 7 LI: 1.37-C.Kaepernick pass short right to 85-V.Davis to SF 48 for 4 yards(25-R.Bush)Pass 1 YAC 3'>17.48</number><number>0.31</number>
+<number shadow='shadow1' tooltip='11:54 2-6-SF 48SF 0 NO 7 LI: 1.17-C.Kaepernick scrambles left end ran ob at NO 48 for 4 yards(57-D.Hawthorne).'>18.1</number><number>0.31</number>
+<number shadow='shadow1' tooltip='11:14 3-2-NO 48SF 0 NO 7 LI: 1(Shotgun) 23-L.James left guard to NO 48 for no gain (76-A.Hicks; 77-B.Bunkley).'>18.77</number><number>0.28</number>
+<number shadow='shadow1' tooltip='10:36 4-2-NO 48SF 0 NO 7 LI: 0.74-A.Lee punts 37 yards to NO 11 Center-47-K.McDermott16-L.Moore MUFFS catch RECOVERED by SF-41-R.Ventrone at NO 1141-R.Ventrone to NO 11 for no gain (16-L.Moore).'>19.4</number><number>0.43</number>
+<number shadow='shadow1' tooltip='10:26 1-10-NO 11SF 0 NO 7 LI: 1.47-C.Kaepernick pass incomplete short right to 84-J.BaldwinSan Francisco challenged the pass completion ruling and the play was Upheld(Timeout #3.)'>19.57</number><number>0.41</number>
+<number shadow='shadow1' tooltip='10:21 2-10-NO 11SF 0 NO 7 LI: 1.27-C.Kaepernick pass short left to 81-A.Boldin for 11 yards TOUCHDOWNPass 10 YAC 1'>19.65</number><number>0.47</number>
+<number shadow='shadow1' tooltip='10:21 SF 0 NO 7 LI: 9-P.Dawson extra point is GOOD Center-47-K.McDermott Holder-4-A.Lee.'>19.69</number><number>0.47</number>
+<number shadow='shadow1' tooltip='10:21 SF 7 NO 7 LI: 9-P.Dawson kicks 65 yards from SF 35 to end zone Touchback.'>19.74</number><number>0.48</number>
+<number shadow='shadow1' tooltip='9:47 2-5-NO 25SF 7 NO 7 LI: 1.39-D.Brees pass incomplete short middle to 80-J.Graham (31-D.Whitner).'>20.22</number><number>0.5</number>
+<number shadow='shadow1' tooltip='9:41 3-5-NO 25SF 7 NO 7 LI: 1.2(Shotgun) 9-D.Brees pass incomplete short left to 12-M.Colston (35-E.Reid).'>20.32</number><number>0.54</number>
+<number shadow='shadow1' tooltip='9:35 4-5-NO 25SF 7 NO 7 LI: 0.86-T.Morstead punts 59 yards to SF 16 Center-47-J.Drescher23-L.James to SF 27 for 11 yards(42-I.Abdul-Quddus).'>20.42</number><number>0.53</number>
+<number shadow='shadow1' tooltip='9:22 1-10-SF 27SF 7 NO 7 LI: 1.4(Shotgun) 32-K.Hunter right end to SF 24 for -3 yards(50-C.Lofton).'>20.63</number><number>0.5</number>
+<number shadow='shadow1' tooltip='8:32 2-13-SF 24SF 7 NO 7 LI: 1.2PENALTY on SF-7-C.Kaepernick Delay of Game 5 yards enforced at SF 24 - No Play.'>21.47</number><number>0.48</number>
+<number shadow='shadow1' tooltip='7:50 3-8-SF 29SF 7 NO 7 LI: 1(Shotgun) 7-C.Kaepernick pass short right to 82-M.Manningham to SF 37 for 8 yards(31-C.Carr)Pass 4 YAC 4'>22.17</number><number>0.55</number>
+<number shadow='shadow1' tooltip='7:14 1-10-SF 37SF 7 NO 7 LI: 1.421-F.Gore right tackle to SF 36 for -1 yards(93-J.Galette; 57-D.Hawthorne).'>22.77</number><number>0.52</number>
+<number shadow='shadow1' tooltip='6:35 2-11-SF 36SF 7 NO 7 LI: 1.17-C.Kaepernick pass short left intended for 82-M.Manningham INTERCEPTED by 24-C.White at SF 4424-C.White to SF 1 for 43 yardsFUMBLES ball out of bounds in End Zone TouchbackThe Replay Assistant challenged the runner was down by contact ruling and the play was Upheld.'>23.42</number><number>0.52</number>
+<number shadow='shadow1' tooltip='6:25 1-10-SF 20SF 7 NO 7 LI: 1.57-C.Kaepernick sacked at SF 19 for -1 yards(76-A.Hicks).'>23.58</number><number>0.49</number>
+<number shadow='shadow1' tooltip='5:49 2-11-SF 19SF 7 NO 7 LI: 1.221-F.Gore left tackle pushed ob at SF 43 for 24 yards(25-R.Bush).'>24.18</number><number>0.55</number>
+<number shadow='shadow1' tooltip='5:15 1-10-SF 43SF 7 NO 7 LI: 1.37-C.Kaepernick pass incomplete short left to 82-M.ManninghamPENALTY on NO-24-C.White Defensive Pass Interference 12 yards enforced at SF 43 - No Play.'>24.75</number><number>0.58</number>
+<number shadow='shadow1' tooltip='5:10 1-10-NO 45SF 7 NO 7 LI: 1.421-F.Gore left tackle to NO 42 for 3 yards(76-A.Hicks; 92-J.Jenkins).'>24.83</number><number>0.57</number>
+<number shadow='shadow1' tooltip='4:30 2-7-NO 42SF 7 NO 7 LI: 1.27-C.Kaepernick scrambles right end to NO 37 for 5 yards(94-C.Jordan).'>25.5</number><number>0.57</number>
+<number shadow='shadow1' tooltip='3:43 3-2-NO 37SF 7 NO 7 LI: 1.2(Shotgun) 7-C.Kaepernick pass incomplete short left to 89-V.McDonald (27-M.Jenkins).'>26.28</number><number>0.5</number>
+<number shadow='shadow1' tooltip='3:39 4-2-NO 37SF 7 NO 7 LI: 0.59-P.Dawson 55 yard field goal is GOOD Center-47-K.McDermott Holder-4-A.Lee.'>26.35</number><number>0.6</number>
+<number shadow='shadow1' tooltip='3:39 SF 10 NO 7 LI: 9-P.Dawson kicks 68 yards from SF 35 to NO -339-T.Cadet pushed ob at SF 21 for 82 yards(26-T.Brock).'>26.44</number><number>0.47</number>
+<number shadow='shadow1' tooltip='3:23 1-10-SF 21SF 10 NO 7 LI: 1.59-D.Brees pass short right to 23-P.Thomas to SF 11 for 10 yards(35-E.Reid) [51-D.Skuta]Pass 4 YAC 6'>26.62</number><number>0.42</number>
+<number shadow='shadow1' tooltip='2:43 1-10-SF 11SF 10 NO 7 LI: 1.923-P.Thomas right guard to SF 1 for 10 yards(25-T.Brown)SF-25-T.Brown was injured during the playHis return is Questionable.'>27.28</number><number>0.38</number>
+<number shadow='shadow1' tooltip='2:00 1-1-SF 1SF 10 NO 7 LI: 2.345-J.Collins left guard for 1 yard TOUCHDOWN.'>28</number><number>0.37</number>
+<number shadow='shadow1' tooltip='2:00 SF 10 NO 7 LI: 5-G.Hartley extra point is GOOD Center-47-J.Drescher Holder-7-L.McCown.'>28.04</number><number>0.37</number>
+<number shadow='shadow1' tooltip='2:00 SF 10 NO 14 LI: 6-T.Morstead kicks 65 yards from NO 35 to end zone Touchback.'>28.09</number><number>0.36</number>
+<number shadow='shadow1' tooltip='1:33 2-6-SF 24SF 10 NO 14 LI: 1.1(Shotgun) 7-C.Kaepernick pass short middle to 81-A.Boldin to SF 32 for 8 yards(31-C.Carr)Pass 6 YAC 2'>28.45</number><number>0.38</number>
+<number shadow='shadow1' tooltip='1:09 1-10-SF 32SF 10 NO 14 LI: 1.2(Shotgun) 7-C.Kaepernick pass incomplete short right to 81-A.Boldin (31-C.Carr).'>28.85</number><number>0.37</number>
+<number shadow='shadow1' tooltip='1:06 2-10-SF 32SF 10 NO 14 LI: 1.1(Shotgun) 7-C.Kaepernick sacked at SF 30 for -2 yards(94-C.Jordan).'>28.9</number><number>0.34</number>
+<number shadow='shadow1' tooltip='0:59 3-12-SF 30SF 10 NO 14 LI: 0.9(Shotgun) 23-L.James left tackle to SF 37 for 7 yards(41-R.Harper).'>29.02</number><number>0.32</number>
+<number shadow='shadow1' tooltip='0:12 4-10-SF 32SF 10 NO 14 LI: 0.74-A.Lee punts 46 yards to NO 22 Center-47-K.McDermott16-L.Moore to NO 22 for no gain (14-K.Osgood).'>29.8</number><number>0.33</number>
+<number shadow='shadow1' tooltip='0:02 1-10-NO 22SF 10 NO 14 LI: 1.69-D.Brees kneels to NO 21 for -1 yards.'>29.97</number><number>0.36</number>
+<number shadow='shadow1' tooltip='0:02 SF 10 NO 14 LI: 9-P.Dawson kicks 65 yards from SF 35 to end zone Touchback.'>30.06</number><number>0.33</number>
+<number shadow='shadow1' tooltip='14:25 2-11-NO 19SF 10 NO 14 LI: 1.5(Shotgun) 9-D.Brees pass short left to 43-D.Sproles to NO 27 for 8 yards(53-N.Bowman)Pass 5 YAC 3'>30.58</number><number>0.33</number>
+<number shadow='shadow1' tooltip='13:48 3-3-NO 27SF 10 NO 14 LI: 1.4(Shotgun) 9-D.Brees pass short left to 80-J.Graham to NO 40 for 13 yards(53-N.Bowman)Pass 4 YAC 9'>31.2</number><number>0.29</number>
+<number shadow='shadow1' tooltip='13:06 1-10-NO 40SF 10 NO 14 LI: 1.59-D.Brees pass incomplete deep left to 80-J.Graham.'>31.9</number><number>0.29</number>
+<number shadow='shadow1' tooltip='12:59 2-10-NO 40SF 10 NO 14 LI: 1.5(Shotgun) 23-P.Thomas right guard to NO 46 for 6 yards(63-T.Jerod-Eddie; 94-J.Smith).'>32.02</number><number>0.29</number>
+<number shadow='shadow1' tooltip='12:23 3-4-NO 46SF 10 NO 14 LI: 1.3(Shotgun) 9-D.Brees pass short right INTERCEPTED by 55-A.Brooks at NO 4455-A.Brooks to NO 22 for 22 yards(64-Z.Strief)FUMBLES (64-Z.Strief) and recovers at NO 2255-A.Brooks to NO 22 for no gain (80-J.Graham).'>32.62</number><number>0.49</number>
+<number shadow='shadow1' tooltip='12:07 1-10-NO 22SF 10 NO 14 LI: 1.721-F.Gore left end pushed ob at NO 11 for 11 yards(27-M.Jenkins).'>32.88</number><number>0.57</number>
+<number shadow='shadow1' tooltip='11:31 1-10-NO 11SF 10 NO 14 LI: 2.432-K.Hunter left end to NO 17 for -6 yards(57-D.Hawthorne).'>33.48</number><number>0.48</number>
+<number shadow='shadow1' tooltip='10:58 2-16-NO 17SF 10 NO 14 LI: 1.6(Shotgun) 7-C.Kaepernick pass deep right to 85-V.Davis for 17 yards TOUCHDOWNPass 17 YAC 0'>34.03</number><number>0.62</number>
+<number shadow='shadow1' tooltip='10:58 SF 10 NO 14 LI: 9-P.Dawson extra point is GOOD Center-47-K.McDermott Holder-4-A.Lee.'>34.07</number><number>0.62</number>
+<number shadow='shadow1' tooltip='10:58 SF 17 NO 14 LI: 9-P.Dawson kicks 65 yards from SF 35 to end zone Touchback.'>34.12</number><number>0.64</number>
+<number shadow='shadow1' tooltip='10:52 1-10-NO 20SF 17 NO 14 LI: 1.1(Shotgun) 23-P.Thomas right tackle to NO 20 for no gain (30-E.Wright).'>34.13</number><number>0.64</number>
+<number shadow='shadow1' tooltip='10:13 2-10-NO 20SF 17 NO 14 LI: 1.2(Shotgun) 9-D.Brees pass short right to 88-N.Toon to NO 28 for 8 yards(30-E.Wright)Pass 7 YAC 1'>34.78</number><number>0.63</number>
+<number shadow='shadow1' tooltip='9:37 3-2-NO 28SF 17 NO 14 LI: 1.143-D.Sproles right guard to NO 31 for 3 yards(99-A.Smith)PENALTY on NO-66-B.Grubbs Offensive Holding 10 yards enforced at NO 28 - No Play.'>35.38</number><number>0.67</number>
+<number shadow='shadow1' tooltip='9:14 3-12-NO 18SF 17 NO 14 LI: 0.9(Shotgun) 9-D.Brees pass short right to 12-M.Colston to NO 32 for 14 yards(35-E.Reid)Pass 12 YAC 2'>35.77</number><number>0.61</number>
+<number shadow='shadow1' tooltip='8:32 1-10-NO 32SF 17 NO 14 LI: 1.29-D.Brees pass short middle to 22-M.Ingram to NO 36 for 4 yards(53-N.Bowman)Pass 4 YAC 0'>36.47</number><number>0.6</number>
+<number shadow='shadow1' tooltip='8:00 2-6-NO 36SF 17 NO 14 LI: 1.322-M.Ingram right guard to NO 41 for 5 yards(31-D.Whitner).'>37</number><number>0.59</number>
+<number shadow='shadow1' tooltip='7:29 3-1-NO 41SF 17 NO 14 LI: 1.345-J.Collins left guard to NO 43 for 2 yards(53-N.Bowman).'>37.52</number><number>0.58</number>
+<number shadow='shadow1' tooltip='6:48 1-10-NO 43SF 17 NO 14 LI: 1.49-D.Brees pass short right to 84-K.Stills to SF 46 for 11 yards(30-E.Wright)Pass 10 YAC 1'>38.2</number><number>0.54</number>
+<number shadow='shadow1' tooltip='6:01 1-10-SF 46SF 17 NO 14 LI: 1.6(Shotgun) 9-D.Brees pass short left to 16-L.Moore to SF 44 for 2 yards(22-C.Rogers)Pass 2 YAC 0'>38.98</number><number>0.56</number>
+<number shadow='shadow1' tooltip='5:24 2-8-SF 44SF 17 NO 14 LI: 1.3(Shotgun) 9-D.Brees pass short left to 43-D.Sproles to SF 40 for 4 yards(51-D.Skuta)Pass 4 YAC 0'>39.6</number><number>0.57</number>
+<number shadow='shadow1' tooltip='4:46 3-4-SF 40SF 17 NO 14 LI: 1.2(Shotgun) 9-D.Brees pass incomplete short left to 80-J.Graham [99-A.Smith].'>40.23</number><number>0.63</number>
+<number shadow='shadow1' tooltip='4:41 4-4-SF 40SF 17 NO 14 LI: 0.6(Shotgun) 9-D.Brees pass incomplete short left to 89-J.Hill (31-D.Whitner).'>40.32</number><number>0.69</number>
+<number shadow='shadow1' tooltip='4:34 1-10-SF 40SF 17 NO 14 LI: 1.621-F.Gore left guard to SF 40 for no gain (77-B.Bunkley)SF-77-M.Iupati was injured during the playHis return is Doubtful.'>40.43</number><number>0.67</number>
+<number shadow='shadow1' tooltip='4:02 2-10-SF 40SF 17 NO 14 LI: 1.4(Shotgun) 7-C.Kaepernick pass short right to 85-V.Davis to SF 47 for 7 yards(57-D.Hawthorne; 50-C.Lofton)Pass 7 YAC 0'>40.97</number><number>0.68</number>
+<number shadow='shadow1' tooltip='3:17 3-3-SF 47SF 17 NO 14 LI: 1.3(Shotgun) 7-C.Kaepernick pass short left to 81-A.Boldin pushed ob at NO 41 for 12 yards(28-K.Lewis)Pass 5 YAC 7'>41.72</number><number>0.73</number>
+<number shadow='shadow1' tooltip='2:48 1-10-NO 41SF 17 NO 14 LI: 1.621-F.Gore right tackle to NO 41 for no gain (76-A.Hicks).'>42.2</number><number>0.7</number>
+<number shadow='shadow1' tooltip='2:10 2-10-NO 41SF 17 NO 14 LI: 1.37-C.Kaepernick pass short left to 49-B.Miller pushed ob at NO 34 for 7 yards(57-D.Hawthorne)Pass -2 YAC 9'>42.83</number><number>0.73</number>
+<number shadow='shadow1' tooltip='1:31 3-3-NO 34SF 17 NO 14 LI: 1.4(Shotgun) 7-C.Kaepernick pass short right to 81-A.Boldin pushed ob at NO 29 for 5 yards(28-K.Lewis)Pass 4 YAC 1'>43.48</number><number>0.76</number>
+<number shadow='shadow1' tooltip='1:06 1-10-NO 29SF 17 NO 14 LI: 1.621-F.Gore right tackle to NO 28 for 1 yard(76-A.Hicks).'>43.9</number><number>0.78</number>
+<number shadow='shadow1' tooltip='0:24 2-9-NO 28SF 17 NO 14 LI: 1.7(Shotgun) 21-F.Gore right guard to NO 26 for 2 yards(50-C.Lofton; 76-A.Hicks).'>44.6</number><number>0.76</number>
+<number shadow='shadow1' tooltip='15:00 3-7-NO 26SF 17 NO 14 LI: 1.5(Shotgun) 7-C.Kaepernick pass short right to 81-A.Boldin to NO 12 for 14 yards(28-K.Lewis)Pass 14 YAC 0'>45</number><number>0.83</number>
+<number shadow='shadow1' tooltip='14:15 1-10-NO 12SF 17 NO 14 LI: 1.921-F.Gore right tackle to NO 11 for 1 yard(57-D.Hawthorne).'>45.75</number><number>0.84</number>
+<number shadow='shadow1' tooltip='13:39 2-9-NO 11SF 17 NO 14 LI: 1.97-C.Kaepernick pass incomplete short left [94-C.Jordan].'>46.35</number><number>0.81</number>
+<number shadow='shadow1' tooltip='13:31 3-9-NO 11SF 17 NO 14 LI: 1.6(Shotgun) 7-C.Kaepernick pass incomplete short right to 85-V.Davis (25-R.Bush).'>46.48</number><number>0.77</number>
+<number shadow='shadow1' tooltip='13:27 4-9-NO 11SF 17 NO 14 LI: 1.29-P.Dawson 29 yard field goal is GOOD Center-47-K.McDermott Holder-4-A.Lee.'>46.55</number><number>0.76</number>
+<number shadow='shadow1' tooltip='13:27 SF 20 NO 14 LI: 9-P.Dawson kicks 65 yards from SF 35 to end zone Touchback.'>46.64</number><number>0.78</number>
+<number shadow='shadow1' tooltip='12:47 2-5-NO 25SF 20 NO 14 LI: 19-D.Brees pass deep right to 17-R.Meachem to SF 41 for 34 yards(35-E.Reid)Pass 32 YAC 2'>47.22</number><number>0.68</number>
+<number shadow='shadow1' tooltip='11:59 1-10-SF 41SF 20 NO 14 LI: 1.5(Shotgun) 43-D.Sproles right tackle to SF 34 for 7 yards(53-N.Bowman).'>48.02</number><number>0.67</number>
+<number shadow='shadow1' tooltip='11:14 2-3-SF 34SF 20 NO 14 LI: 1.622-M.Ingram left guard to SF 32 for 2 yards(90-G.Dorsey).'>48.77</number><number>0.67</number>
+<number shadow='shadow1' tooltip='10:38 3-1-SF 32SF 20 NO 14 LI: 1.69-D.Brees pass deep right to 12-M.Colston to SF 6 for 26 yards(30-E.Wright)Pass 22 YAC 4'>49.37</number><number>0.53</number>
+<number shadow='shadow1' tooltip='9:50 1-6-SF 6SF 20 NO 14 LI: 2.723-P.Thomas right guard to SF 2 for 4 yards(63-T.Jerod-Eddie).'>50.17</number><number>0.51</number>
+<number shadow='shadow1' tooltip='9:13 2-2-SF 2SF 20 NO 14 LI: 3(Shotgun) 9-D.Brees pass short right to 80-J.Graham to SF 3 for -1 yards(31-D.Whitner)Pass -1 YAC 0'>50.78</number><number>0.57</number>
+<number shadow='shadow1' tooltip='8:34 3-3-SF 3SF 20 NO 14 LI: 2.423-P.Thomas left guard to SF 3 for no gain (94-J.Smith).'>51.43</number><number>0.72</number>
+<number shadow='shadow1' tooltip='7:53 4-3-SF 3SF 20 NO 14 LI: 15-G.Hartley 21 yard field goal is GOOD Center-47-J.Drescher Holder-7-L.McCown.'>52.12</number><number>0.73</number>
+<number shadow='shadow1' tooltip='7:53 SF 20 NO 17 LI: 6-T.Morstead kicks 65 yards from NO 35 to end zone Touchback.'>52.21</number><number>0.71</number>
+<number shadow='shadow1' tooltip='7:07 2-9-SF 21SF 20 NO 17 LI: 2.5(Shotgun) 7-C.Kaepernick pass incomplete short left to 21-F.Gore.'>52.88</number><number>0.67</number>
+<number shadow='shadow1' tooltip='7:00 3-9-SF 21SF 20 NO 17 LI: 2.1(Shotgun) 7-C.Kaepernick pass incomplete deep right to 84-J.Baldwin.'>53</number><number>0.61</number>
+<number shadow='shadow1' tooltip='6:55 4-9-SF 21SF 20 NO 17 LI: 1.54-A.Lee punts 51 yards to NO 28 Center-47-K.McDermott fair catch by 43-D.Sproles.'>53.08</number><number>0.67</number>
+<number shadow='shadow1' tooltip='6:48 1-10-NO 28SF 20 NO 17 LI: 2(Shotgun) 9-D.Brees pass short left to 23-P.Thomas to NO 36 for 8 yards(53-N.Bowman)Pass -3 YAC 11'>53.2</number><number>0.67</number>
+<number shadow='shadow1' tooltip='6:05 2-2-NO 36SF 20 NO 17 LI: 2.1(Shotgun) 23-P.Thomas right guard to NO 41 for 5 yards(53-N.Bowman).'>53.92</number><number>0.62</number>
+<number shadow='shadow1' tooltip='5:25 1-10-NO 41SF 20 NO 17 LI: 2.7(Shotgun) 9-D.Brees pass incomplete short middle to 80-J.Graham.'>54.58</number><number>0.71</number>
+<number shadow='shadow1' tooltip='5:20 2-10-NO 41SF 20 NO 17 LI: 1.89-D.Brees pass deep left to 16-L.Moore to SF 43 for 16 yards(26-T.Brock)Pass 16 YAC 0'>54.67</number><number>0.61</number>
+<number shadow='shadow1' tooltip='4:37 1-10-SF 43SF 20 NO 17 LI: 2.322-M.Ingram right tackle to SF 41 for 2 yards(94-J.Smith).'>55.38</number><number>0.67</number>
+<number shadow='shadow1' tooltip='3:56 2-8-SF 41SF 20 NO 17 LI: 1.8(Shotgun) 9-D.Brees pass short middle to 12-M.Colston to SF 35 for 6 yards(53-N.Bowman)Pass 3 YAC 3'>56.07</number><number>0.64</number>
+<number shadow='shadow1' tooltip='3:18 3-2-SF 35SF 20 NO 17 LI: 2.2(Shotgun) 9-D.Brees sacked at SF 45 for -10 yards(55-A.Brooks)FUMBLES (55-A.Brooks) declared dead at SF 45PENALTY on SF-55-A.Brooks Personal Foul 15 yards enforced at SF 45On the play SF# 52 PWillis recovered the ball but on the penalty for a blow to the head and neck area of a quarterback the 49ers were not allowed to retain possession The penalty was marked from the point of the sack.'>56.7</number><number>0.59</number>
+<number shadow='shadow1' tooltip='3:12 1-10-SF 30SF 20 NO 17 LI: 2.8(Shotgun) 9-D.Brees pass short left to 12-M.Colston to SF 16 for 14 yards(53-N.Bowman)Pass 11 YAC 3'>56.8</number><number>0.53</number>
+<number shadow='shadow1' tooltip='2:35 1-10-SF 16SF 20 NO 17 LI: 3.39-D.Brees pass incomplete short right to 12-M.ColstonPENALTY on NO-9-D.Brees Intentional Grounding 11 yards enforced at SF 16.'>57.42</number><number>0.63</number>
+<number shadow='shadow1' tooltip='2:27 2-21-SF 27SF 20 NO 17 LI: 2.5(Shotgun) 9-D.Brees pass incomplete deep right to 84-K.Stills.'>57.55</number><number>0.7</number>
+<number shadow='shadow1' tooltip='2:21 3-21-SF 27SF 20 NO 17 LI: 1.9(Shotgun) 43-D.Sproles right tackle to SF 24 for 3 yards(53-N.Bowman).'>57.65</number><number>0.69</number>
+<number shadow='shadow1' tooltip='2:11 4-18-SF 24SF 20 NO 17 LI: 2.15-G.Hartley 42 yard field goal is GOOD Center-47-J.Drescher Holder-7-L.McCown.'>57.82</number><number>0.67</number>
+<number shadow='shadow1' tooltip='2:11 SF 20 NO 20 LI: 6-T.Morstead kicks 65 yards from NO 35 to end zone Touchback.'>57.91</number><number>0.6</number>
+<number shadow='shadow1' tooltip='2:01 2-19-SF 11SF 20 NO 20 LI: 2.7(Shotgun) 7-C.Kaepernick pass incomplete short right.'>57.98</number><number>0.32</number>
+<number shadow='shadow1' tooltip='1:56 3-19-SF 11SF 20 NO 20 LI: 2(Shotgun) 7-C.Kaepernick scrambles left end pushed ob at SF 27 for 16 yards(31-C.Carr).'>58.07</number><number>0.31</number>
+<number shadow='shadow1' tooltip='1:48 4-3-SF 27SF 20 NO 20 LI: 1.54-A.Lee punts 48 yards to NO 25 Center-47-K.McDermott fair catch by 43-D.SprolesPENALTY on SF-14-K.Osgood Fair Catch Interference 15 yards enforced at NO 25.'>58.2</number><number>0.3</number>
+<number shadow='shadow1' tooltip='1:41 1-10-NO 40SF 20 NO 20 LI: 4.8(Shotgun) 43-D.Sproles right guard to NO 46 for 6 yards(99-A.Smith).'>58.32</number><number>0.32</number>
+<number shadow='shadow1' tooltip='1:18 2-4-NO 46SF 20 NO 20 LI: 4.3(Shotgun) 9-D.Brees pass short right to 80-J.Graham to SF 45 for 9 yards(31-D.Whitner)Pass 8 YAC 1'>58.7</number><number>0.24</number>
+<number shadow='shadow1' tooltip='0:53 1-10-SF 45SF 20 NO 20 LI: 4.49-D.Brees pass incomplete to 12-M.Colston.'>59.12</number><number>0.34</number>
+<number shadow='shadow1' tooltip='0:50 2-10-SF 45SF 20 NO 20 LI: 3.4(Shotgun) 9-D.Brees pass short right to 12-M.Colston to SF 25 for 20 yards(35-E.Reid)Pass 12 YAC 8'>59.17</number><number>0.11</number>
+<number shadow='shadow1' tooltip='0:19 1-10-SF 25SF 20 NO 20 LI: 4.2(Shotgun) 9-D.Brees pass short right to 80-J.Graham to SF 13 for 12 yards(52-P.Willis)Pass 4 YAC 8'>59.68</number><number>0.1</number>
+<number shadow='shadow1' tooltip='0:03 1-10-SF 13SF 20 NO 20 LI: 45-G.Hartley 31 yard field goal is GOOD Center-47-J.Drescher Holder-7-L.McCown.'>59.95</number><number>0</number>
+<number>60</number><number>0</number>
+</row> </chart_data>
+       <draw>
+
+
+
+      <image x='45' y='298'  url='nfllogos/42x50png/SF.gif'  layer='foreground' glow = 'glow1'/>
+      <image x='45' y='350'  url='nfllogos/42x50png/NO.gif'     layer='foreground' glow = 'glow1'/>
+
+
+      <rect x='130' y='300' width='250' height='40' fill_color='a9293d' bevel='bevel1' />
+      <text x='135' y='300' width='250' height='40' h_align='left' v_align='middle' color='ffffff' shadow='shadow2' glow=''>San Francisco 49ers</text>
+
+      <rect x='130' y='350' width='250' height='40' fill_color='dcb07e' bevel='bevel1'  />
+      <text x='135' y='350' width='250' height='40' h_align='left' v_align='middle' color='ffffff' shadow='shadow2' glow='winnerglow'>New Orleans Saints</text>
+
+      <rect x='420' y='300' width='60' height='40' fill_color='a9293d' bevel='bevel1'  />
+      <text x='420' y='300' width='60' height='40' h_align='center' v_align='middle' color='ffffff' shadow='shadow2' transition='none' glow=''>20</text>
+
+      <rect x='420' y='350' width='60' height='40' fill_color='dcb07e' bevel='bevel1' />
+      <text x='420' y='350' width='60' height='40' h_align='center' v_align='middle' color='ffffff' shadow='shadow2' transition='none' glow='winnerglow'>23</text>
+
+      <text x='-3' y='12'  width='60' height='40' h_align='center' v_align='middle' size='13' shadow='shadow2'>SFWin </text>
+      <text x='-3' y='218' width='60' height='40' h_align='center' v_align='middle' size='13' shadow='shadow2'>NOWin </text>
+
+     
+              <rect x='540' y='300' width='100' height='35' fill_color='000000' fill_alpha='50'/>
+              <text x='540' y='300' width='100' height='35' h_align='center' v_align='middle' color='ffffff' size='15' shadow='shadow2' >Final</text>
+
+              <text x='540' y='340' width='40' h_align='center' color='000000' size='12' shadow='shadow2'>CBF</text>
+              <text x='600' y='340' width='40' h_align='center' color='000000' size='12' shadow='shadow2'>EI</text>
+
+              <rect x='540' y='360' width='40' height='30' fill_color='000000' fill_alpha='50' />
+              <text x='540' y='360' width='40' height='30' size='12' h_align='center' v_align='middle' color='FFFFFF' shadow='shadow2'>6</text>
+
+              <rect x='600' y='360' width='40' height='30' fill_color='000000' fill_alpha='50' />
+              <text x='600' y='360' width='40' height='30' size='12' h_align='center' v_align='middle' color='FFFFFF' shadow='shadow2'>5.5</text>
+
+              <text x='20' y='420' width='70' height='25' size='12' h_align='left' v_align='middle' color='000000' >11/17/2013</text>
+              <text x='100' y='420' width='200' height='25' size='12' h_align='left' v_align='middle' color='000000' >Mercedes-Benz Superdome</text>
+
+   </draw></chart>

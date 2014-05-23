@@ -1,0 +1,332 @@
+
+<chart>
+   <license>ETAS9P33ESHO.945CWK-2XOI1X0-7L</license>
+   <chart_type>scatter</chart_type>
+   <chart_pref trend_thickness='0' line_thickness='3' point_size='0'/>
+
+   <series_color>
+      <color>ffff00</color>
+   </series_color>
+
+   <chart_rect x='45' y='20' width='630' height='230' positive_color='cacaca'  />
+
+  <chart_border top_thickness='0'
+                 bottom_thickness='0'
+                 left_thickness='0'
+                 right_thickness='0'
+                 color='000000'
+                 />
+
+   <tooltip font='Arial' bold='true' size='11' />
+
+   <chart_note type='flag'
+               color='000000'
+               alpha='90'
+               bold='FALSE'
+               size='10'
+               background_color='ffffe0'
+               background_alpha='50'
+               shadow='shadow2'
+               />
+
+   <chart_grid_h thickness='2' color='ffffff' type='dashed'  />
+   <chart_grid_v thickness='2' color='ffffff'   />
+		>
+
+   <legend layout='hide' />
+
+   <chart_guide horizontal='TRUE'
+             vertical='TRUE'
+             thickness='1'
+             color='006400'
+             alpha='100'
+             type='solid'
+             snap_h='TRUE'
+             snap_v='TRUE'
+             radius='3'
+             fill_color='006400'
+             fill_alpha='100'
+             line_color='006400'
+             line_alpha='80'
+             line_thickness='1'
+             text_h_alpha='50'
+             text_v_alpha='00'
+             suffix_h=' WP'
+             decimals='2'
+             bold='FALSE'
+             size='11'
+             text_color='FFFFFF'
+             background_color='006400'
+             />
+   <filter>
+      <shadow id='shadow1' distance='2' angle='60' blurX='5' blurY='5' alpha='50' />
+      <bevel id='bevel1' angle='45' blurX='5' blurY='5' distance='0' />
+      <glow id='glow1' color='ffffff' alpha='0' blurX='7' blurY='7' strength='6' quality='2' inner='FALSE' knockout='FALSE' />
+      <glow id='winnerglow' color='ffffff' alpha='0' blurX='7' blurY='7' strength='5' quality='2' inner='FALSE' knockout='FALSE' />
+   </filter>
+
+    <axis_value_label>
+         <string></string>
+          <string> </string>
+          <null/>
+          <string> </string>
+          <string></string>
+
+       </axis_value_label>
+		
+	   <axis_ticks category_ticks='false'/>
+
+       <axis_value min='0' max='1' steps='4'  decimals='2' show_min='true' size='13' shadow='shadow2' />            
+        <axis_category
+               min='0'
+               max='75'
+               steps='5'
+               mode='trim'
+               decimals='0'
+               size='13'
+               shadow='shadow2'
+               />
+
+       <axis_category_label>
+          <string>Kickoff</string>
+          <string></string>
+          <string>Halftime</string>
+          <string></string>
+          <string>Regulation</string>
+          <string>OT</string>
+       </axis_category_label>
+
+
+         <chart_data>
+       <row>
+	      <null/><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number>
+              <number>x</number><number>y</number>
+              </row><row><string></string>
+
+                     <number shadow='shadow1'>0</number><number>.5</number><number shadow='shadow1' tooltip='15:00 ARZ 0 TEN 0 LI: 2-R.Bironas kicks 65 yards from TEN 35 to end zone Touchback.'>0.09</number><number>0.52</number>
+<number shadow='shadow1' tooltip='14:22 2-10-ARZ 20ARZ 0 TEN 0 LI: 1.43-C.Palmer pass incomplete short right to 11-L.Fitzgerald.'>0.63</number><number>0.48</number>
+<number shadow='shadow1' tooltip='14:15 3-10-ARZ 20ARZ 0 TEN 0 LI: 1.2(Shotgun) 3-C.Palmer pass incomplete short right to 38-A.Ellington.'>0.75</number><number>0.45</number>
+<number shadow='shadow1' tooltip='14:11 4-10-ARZ 20ARZ 0 TEN 0 LI: 0.9(Punt formation) 9-D.Zastudil punts 53 yards to TEN 27 Center-82-M.Leach26-L.Washington to TEN 36 for 9 yards(23-B.McCann).'>0.82</number><number>0.46</number>
+<number shadow='shadow1' tooltip='14:02 1-10-TEN 36ARZ 0 TEN 0 LI: 1.44-R.Fitzpatrick pass short right to 85-N.Washington to TEN 44 for 8 yards(25-J.Powers).'>0.97</number><number>0.45</number>
+<number shadow='shadow1' tooltip='13:29 2-2-TEN 44ARZ 0 TEN 0 LI: 1.3(No Huddle) 4-R.Fitzpatrick pass short right to 82-D.Walker pushed ob at ARZ 49 for 7 yards(37-Y.Bell).'>1.52</number><number>0.43</number>
+<number shadow='shadow1' tooltip='12:58 1-10-ARZ 49ARZ 0 TEN 0 LI: 1.328-C.Johnson left guard to ARZ 43 for 6 yards(56-K.Dansby).'>2.03</number><number>0.42</number>
+<number shadow='shadow1' tooltip='12:24 2-4-ARZ 43ARZ 0 TEN 0 LI: 1.34-R.Fitzpatrick pass short left to 13-K.Wright to ARZ 36 for 7 yards(21-P.Peterson).'>2.6</number><number>0.4</number>
+<number shadow='shadow1' tooltip='11:51 1-10-ARZ 36ARZ 0 TEN 0 LI: 1.428-C.Johnson right tackle to ARZ 34 for 2 yards(56-K.Dansby).'>3.15</number><number>0.41</number>
+<number shadow='shadow1' tooltip='11:14 2-8-ARZ 34ARZ 0 TEN 0 LI: 1.328-C.Johnson left tackle to ARZ 29 for 5 yards(90-D.Dockett).'>3.77</number><number>0.4</number>
+<number shadow='shadow1' tooltip='10:38 3-3-ARZ 29ARZ 0 TEN 0 LI: 1.3(Shotgun) 4-R.Fitzpatrick sacked at ARZ 27 for 2 yards(59-M.Benard)FUMBLES (59-M.Benard) recovered by TEN-62-B.Schwenke at ARZ 3162-B.Schwenke to ARZ 27 for 4 yards(58-D.Washington).'>4.37</number><number>0.45</number>
+<number shadow='shadow1' tooltip='9:40 4-1-ARZ 27ARZ 0 TEN 0 LI: 0.8(Field Goal formation) 2-R.Bironas 45 yard field goal is GOOD Center-48-B.Brinkley Holder-6-B.Kern.'>5.33</number><number>0.42</number>
+<number shadow='shadow1' tooltip='9:40 ARZ 0 TEN 3 LI: 2-R.Bironas kicks 70 yards from TEN 35 to ARZ -535-J.Arenas to ARZ 23 for 28 yards(21-G.Wilson).'>5.42</number><number>0.41</number>
+<number shadow='shadow1' tooltip='9:28 1-10-ARZ 23ARZ 0 TEN 3 LI: 1.338-A.Ellington right end to ARZ 36 for 13 yards(55-Z.Brown).'>5.53</number><number>0.44</number>
+<number shadow='shadow1' tooltip='8:46 1-10-ARZ 36ARZ 0 TEN 3 LI: 1.33-C.Palmer pass short left to 15-M.Floyd pushed ob at ARZ 49 for 13 yards(53-M.Fokou).'>6.23</number><number>0.46</number>
+<number shadow='shadow1' tooltip='8:14 1-10-ARZ 49ARZ 0 TEN 3 LI: 1.3(Shotgun) 3-C.Palmer pass deep right to 38-A.Ellington to TEN 25 for 26 yards(55-Z.Brown).'>6.77</number><number>0.55</number>
+<number shadow='shadow1' tooltip='7:34 1-10-TEN 25ARZ 0 TEN 3 LI: 1.738-A.Ellington right tackle to TEN 25 for no gain (94-S.Hill).'>7.43</number><number>0.51</number>
+<number shadow='shadow1' tooltip='6:59 2-10-TEN 25ARZ 0 TEN 3 LI: 1.328-R.Mendenhall up the middle to TEN 16 for 9 yards(33-M.Griffin; 30-J.McCourty).'>8.02</number><number>0.54</number>
+<number shadow='shadow1' tooltip='6:15 3-1-TEN 16ARZ 0 TEN 3 LI: 1.430-S.Taylor up the middle to TEN 15 for 1 yard(50-Z.Gooden).'>8.75</number><number>0.58</number>
+<number shadow='shadow1' tooltip='5:33 1-10-TEN 15ARZ 0 TEN 3 LI: 1.828-R.Mendenhall right tackle to TEN 16 for -1 yards(31-B.Pollard).'>9.45</number><number>0.52</number>
+<number shadow='shadow1' tooltip='4:52 2-11-TEN 16ARZ 0 TEN 3 LI: 1.2(Shotgun) 3-C.Palmer pass short right to 38-A.Ellington to TEN 2 for 14 yards(29-B.Wreh-Wilson; 30-J.McCourty).'>10.13</number><number>0.6</number>
+<number shadow='shadow1' tooltip='4:34 1-1-TEN 1ARZ 0 TEN 3 LI: 1.928-R.Mendenhall up the middle for 1 yard TOUCHDOWN.'>10.43</number><number>0.61</number>
+<number shadow='shadow1' tooltip='4:34 ARZ 0 TEN 3 LI: 4-J.Feely extra point is GOOD Center-82-M.Leach Holder-9-D.Zastudil.'>10.47</number><number>0.61</number>
+<number shadow='shadow1' tooltip='4:34 ARZ 7 TEN 3 LI: 4-J.Feely kicks 66 yards from ARZ 35 to TEN -126-L.Washington to TEN 32 for 33 yards(23-B.McCann).'>10.52</number><number>0.6</number>
+<number shadow='shadow1' tooltip='4:24 1-10-TEN 32ARZ 7 TEN 3 LI: 1.4(Shotgun) 4-R.Fitzpatrick pass short left to 13-K.Wright to TEN 30 for -2 yards(37-Y.Bell).'>10.6</number><number>0.62</number>
+<number shadow='shadow1' tooltip='3:51 2-12-TEN 30ARZ 7 TEN 3 LI: 1.328-C.Johnson left tackle to TEN 45 for 15 yards(25-J.Powers).'>11.15</number><number>0.57</number>
+<number shadow='shadow1' tooltip='3:14 1-10-TEN 45ARZ 7 TEN 3 LI: 1.428-C.Johnson up the middle to TEN 45 for no gain (55-J.Abraham; 90-D.Dockett).'>11.77</number><number>0.58</number>
+<number shadow='shadow1' tooltip='2:42 2-10-TEN 45ARZ 7 TEN 3 LI: 1.34-R.Fitzpatrick pass short right to 82-D.Walker ran ob at ARZ 33 for 22 yards.'>12.3</number><number>0.51</number>
+<number shadow='shadow1' tooltip='2:05 1-10-ARZ 33ARZ 7 TEN 3 LI: 1.528-C.Johnson up the middle to ARZ 34 for -1 yards(90-D.Dockett).'>12.92</number><number>0.55</number>
+<number shadow='shadow1' tooltip='1:26 2-11-ARZ 34ARZ 7 TEN 3 LI: 1.14-R.Fitzpatrick pass short middle to 13-K.Wright to ARZ 22 for 12 yards(25-J.Powers).'>13.57</number><number>0.49</number>
+<number shadow='shadow1' tooltip='0:46 1-10-ARZ 22ARZ 7 TEN 3 LI: 1.5(Shotgun) 28-C.Johnson left end to ARZ 25 for -3 yards(90-D.Dockett).'>14.23</number><number>0.52</number>
+<number shadow='shadow1' tooltip='0:09 2-13-ARZ 25ARZ 7 TEN 3 LI: 1.3(Shotgun) 4-R.Fitzpatrick pass short left to 28-C.Johnson for 25 yards TOUCHDOWN.'>14.85</number><number>0.38</number>
+<number shadow='shadow1' tooltip='0:09 ARZ 7 TEN 3 LI: 2-R.Bironas extra point is GOOD Center-48-B.Brinkley Holder-6-B.Kern.'>14.89</number><number>0.38</number>
+<number shadow='shadow1' tooltip='0:09 ARZ 7 TEN 10 LI: 2-R.Bironas kicks 56 yards from TEN 35 to ARZ 935-J.Arenas to ARZ 26 for 17 yards(22-J.Battle).'>14.94</number><number>0.42</number>
+<number shadow='shadow1' tooltip='14:54 1-10-ARZ 26ARZ 7 TEN 10 LI: 1.33-C.Palmer pass short right to 11-L.Fitzgerald to ARZ 33 for 7 yards(53-M.Fokou).'>15.1</number><number>0.42</number>
+<number shadow='shadow1' tooltip='14:17 2-3-ARZ 33ARZ 7 TEN 10 LI: 1.228-R.Mendenhall up the middle to ARZ 37 for 4 yards(92-R.Pitoitua; 50-Z.Gooden).'>15.72</number><number>0.43</number>
+<number shadow='shadow1' tooltip='13:43 1-10-ARZ 37ARZ 7 TEN 10 LI: 1.228-R.Mendenhall right tackle to ARZ 40 for 3 yards(31-B.Pollard).'>16.28</number><number>0.44</number>
+<number shadow='shadow1' tooltip='12:59 2-7-ARZ 40ARZ 7 TEN 10 LI: 1.2(Shotgun) 3-C.Palmer pass short left to 11-L.Fitzgerald to 50 for 10 yards(20-A.Verner).'>17.02</number><number>0.47</number>
+<number shadow='shadow1' tooltip='12:22 1-10-50ARZ 7 TEN 10 LI: 1.43-C.Palmer pass short right to 12-A.Roberts to TEN 47 for 3 yards(24-C.Sensabaugh).'>17.63</number><number>0.45</number>
+<number shadow='shadow1' tooltip='11:45 2-7-TEN 47ARZ 7 TEN 10 LI: 1.138-A.Ellington right end pushed ob at TEN 25 for 22 yards(33-M.Griffin).'>18.25</number><number>0.52</number>
+<number shadow='shadow1' tooltip='11:08 1-10-TEN 25ARZ 7 TEN 10 LI: 1.428-R.Mendenhall up the middle to TEN 21 for 4 yards(53-M.Fokou).'>18.87</number><number>0.54</number>
+<number shadow='shadow1' tooltip='10:29 2-6-TEN 21ARZ 7 TEN 10 LI: 1.628-R.Mendenhall right tackle to TEN 18 for 3 yards(30-J.McCourty).'>19.52</number><number>0.53</number>
+<number shadow='shadow1' tooltip='9:42 3-3-TEN 18ARZ 7 TEN 10 LI: 1.4(Shotgun) 3-C.Palmer pass short middle to 11-L.Fitzgerald to TEN 15 for 3 yards(20-A.Verner; 24-C.Sensabaugh) [91-D.Morgan].'>20.3</number><number>0.53</number>
+<number shadow='shadow1' tooltip='8:59 1-10-TEN 15ARZ 7 TEN 10 LI: 1.438-A.Ellington right tackle to TEN 16 for -1 yards(29-B.Wreh-Wilson).'>21.02</number><number>0.53</number>
+<number shadow='shadow1' tooltip='8:13 2-11-TEN 16ARZ 7 TEN 10 LI: 1.4(Shotgun) 3-C.Palmer pass incomplete short right to 11-L.Fitzgerald (30-J.McCourty 94-S.Hill).'>21.78</number><number>0.5</number>
+<number shadow='shadow1' tooltip='8:07 3-11-TEN 16ARZ 7 TEN 10 LI: 1.1(Shotgun) 3-C.Palmer pass short middle to 38-A.Ellington to TEN 7 for 9 yards(31-B.Pollard; 24-C.Sensabaugh).'>21.88</number><number>0.48</number>
+<number shadow='shadow1' tooltip='7:25 4-2-TEN 7ARZ 7 TEN 10 LI: 0.9(Field Goal formation) 4-J.Feely 25 yard field goal is GOOD Center-82-M.Leach Holder-9-D.Zastudil.'>22.58</number><number>0.47</number>
+<number shadow='shadow1' tooltip='7:25 ARZ 10 TEN 10 LI: 4-J.Feely kicks 63 yards from ARZ 35 to TEN 226-L.Washington to TEN 17 for 15 yards(31-J.Bethel).'>22.67</number><number>0.49</number>
+<number shadow='shadow1' tooltip='7:16 1-10-TEN 17ARZ 10 TEN 10 LI: 1.423-S.Greene left end to TEN 19 for 2 yards(26-R.Johnson; 37-Y.Bell).'>22.73</number><number>0.5</number>
+<number shadow='shadow1' tooltip='6:36 2-8-TEN 19ARZ 10 TEN 10 LI: 1.3(Shotgun) 4-R.Fitzpatrick pass short left to 18-K.Britt to TEN 27 for 8 yards(90-D.Dockett; 20-A.Cason).'>23.4</number><number>0.47</number>
+<number shadow='shadow1' tooltip='5:47 1-10-TEN 27ARZ 10 TEN 10 LI: 1.423-S.Greene left tackle to TEN 33 for 6 yards(90-D.Dockett).'>24.22</number><number>0.47</number>
+<number shadow='shadow1' tooltip='5:07 2-4-TEN 33ARZ 10 TEN 10 LI: 1.323-S.Greene up the middle to TEN 33 for no gain (93-C.Campbell).'>24.88</number><number>0.49</number>
+<number shadow='shadow1' tooltip='4:44 2-9-TEN 28ARZ 10 TEN 10 LI: 1.3(Shotgun) 4-R.Fitzpatrick pass incomplete short right to 13-K.Wright.'>25.27</number><number>0.51</number>
+<number shadow='shadow1' tooltip='4:39 3-9-TEN 28ARZ 10 TEN 10 LI: 1.1(Shotgun) 4-R.Fitzpatrick pass short right to 85-N.Washington ran ob at TEN 41 for 13 yards.'>25.35</number><number>0.45</number>
+<number shadow='shadow1' tooltip='4:08 1-10-TEN 41ARZ 10 TEN 10 LI: 1.423-S.Greene left tackle to TEN 37 for -4 yards(93-C.Campbell).'>25.87</number><number>0.48</number>
+<number shadow='shadow1' tooltip='3:33 2-14-TEN 37ARZ 10 TEN 10 LI: 1.2(Shotgun) 4-R.Fitzpatrick pass short left to 82-D.Walker to TEN 42 for 5 yards(58-D.Washington).'>26.45</number><number>0.48</number>
+<number shadow='shadow1' tooltip='2:56 3-9-TEN 42ARZ 10 TEN 10 LI: 1.1(Shotgun) 4-R.Fitzpatrick pass short right to 82-D.Walker to TEN 46 for 4 yards(55-J.Abraham).'>27.07</number><number>0.52</number>
+<number shadow='shadow1' tooltip='2:12 4-5-TEN 46ARZ 10 TEN 10 LI: 0.6(Punt formation) 6-B.Kern punts 51 yards to ARZ 3 Center-48-B.Brinkley downed by TEN-24-C.Sensabaugh.'>27.8</number><number>0.5</number>
+<number shadow='shadow1' tooltip='2:00 1-10-ARZ 3ARZ 10 TEN 10 LI: 1.930-S.Taylor left end to ARZ 5 for 2 yards(53-M.Fokou).'>28</number><number>0.47</number>
+<number shadow='shadow1' tooltip='1:53 2-8-ARZ 5ARZ 10 TEN 10 LI: 1.6(Shotgun) 3-C.Palmer pass deep left to 15-M.Floyd to ARZ 25 for 20 yards(31-B.Pollard).'>28.12</number><number>0.53</number>
+<number shadow='shadow1' tooltip='1:35 1-10-ARZ 25ARZ 10 TEN 10 LI: 1.6(Shotgun) 3-C.Palmer pass short middle to 11-L.Fitzgerald to ARZ 31 for 6 yards(24-C.Sensabaugh).'>28.42</number><number>0.53</number>
+<number shadow='shadow1' tooltip='1:20 2-4-ARZ 31ARZ 10 TEN 10 LI: 1.4(No Huddle Shotgun) 3-C.Palmer sacked at ARZ 24 for -7 yards(99-J.Casey).'>28.67</number><number>0.49</number>
+<number shadow='shadow1' tooltip='1:12 3-11-ARZ 24ARZ 10 TEN 10 LI: 1.2(Shotgun) 3-C.Palmer pass incomplete short right to 11-L.Fitzgerald (24-C.Sensabaugh).'>28.8</number><number>0.46</number>
+<number shadow='shadow1' tooltip='1:07 4-11-ARZ 24ARZ 10 TEN 10 LI: 0.9(Punt formation) 9-D.Zastudil punts 52 yards to TEN 24 Center-82-M.Leach26-L.Washington MUFFS catch and recovers at TEN 2426-L.Washington to TEN 33 for 9 yards(26-R.Johnson).'>28.88</number><number>0.46</number>
+<number shadow='shadow1' tooltip='0:56 1-10-TEN 33ARZ 10 TEN 10 LI: 1.5(Shotgun) 4-R.Fitzpatrick pass incomplete deep right to 13-K.Wright.'>29.07</number><number>0.48</number>
+<number shadow='shadow1' tooltip='0:49 2-10-TEN 33ARZ 10 TEN 10 LI: 1.3(Shotgun) 4-R.Fitzpatrick pass incomplete deep right to 85-N.Washington.'>29.18</number><number>0.5</number>
+<number shadow='shadow1' tooltip='0:44 3-10-TEN 33ARZ 10 TEN 10 LI: 1.1(Shotgun) 4-R.Fitzpatrick pass short left to 13-K.Wright to TEN 40 for 7 yards(58-D.Washington).'>29.27</number><number>0.52</number>
+<number shadow='shadow1' tooltip='0:35 4-3-TEN 40ARZ 10 TEN 10 LI: 0.7(Punt formation) 6-B.Kern punts 44 yards to ARZ 16 Center-48-B.Brinkley fair catch by 21-P.Peterson.'>29.42</number><number>0.51</number>
+<number shadow='shadow1' tooltip='0:27 1-10-ARZ 16ARZ 10 TEN 10 LI: 1.5(Shotgun) 38-A.Ellington left end pushed ob at ARZ 30 for 14 yards(33-M.Griffin).'>29.55</number><number>0.54</number>
+<number shadow='shadow1' tooltip='0:20 1-10-ARZ 30ARZ 10 TEN 10 LI: 1.6(Shotgun) 3-C.Palmer pass incomplete deep left to 15-M.Floyd (20-A.Verner).'>29.67</number><number>0.51</number>
+<number shadow='shadow1' tooltip='0:15 2-10-ARZ 30ARZ 10 TEN 10 LI: 1.330-S.Taylor up the middle pushed ob at ARZ 33 for 3 yards(95-K.Wimbley).'>29.75</number><number>0.51</number>
+<number shadow='shadow1' tooltip='0:08 3-7-ARZ 33ARZ 10 TEN 10 LI: 1.2(Shotgun) 3-C.Palmer pass short right to 12-A.Roberts ran ob at ARZ 45 for 12 yards.'>29.87</number><number>0.56</number>
+<number shadow='shadow1' tooltip='0:02 1-10-ARZ 45ARZ 10 TEN 10 LI: 1.4(Shotgun) 3-C.Palmer sacked at ARZ 36 for -9 yards(sack split by 99-J.Casey and 31-B.Pollard).'>29.97</number><number>0.47</number>
+<number shadow='shadow1' tooltip='0:02 ARZ 10 TEN 10 LI: 4-J.Feely kicks 40 yards from ARZ 35 to TEN 2557-P.Bailey MUFFS catch RECOVERED by ARZ-20-A.Cason at TEN 2320-A.Cason to TEN 23 for no gain (57-P.Bailey).'>30.06</number><number>0.63</number>
+<number shadow='shadow1' tooltip='14:15 2-9-TEN 22ARZ 10 TEN 10 LI: 1.7(Shotgun) 3-C.Palmer pass incomplete short middle to 10-B.Golden (20-A.Verner).'>30.75</number><number>0.63</number>
+<number shadow='shadow1' tooltip='14:10 3-9-TEN 22ARZ 10 TEN 10 LI: 1.5(Shotgun) 3-C.Palmer Aborted63-L.Sendlein FUMBLES at TEN 28 recovered by ARZ-3-C.Palmer at TEN 293-C.Palmer to TEN 29 for no gain (91-D.Morgan).'>30.83</number><number>0.57</number>
+<number shadow='shadow1' tooltip='13:38 4-16-TEN 29ARZ 10 TEN 10 LI: 1(Field Goal formation) 4-J.Feely 47 yard field goal is GOOD Center-82-M.Leach Holder-9-D.Zastudil.'>31.37</number><number>0.62</number>
+<number shadow='shadow1' tooltip='13:38 ARZ 13 TEN 10 LI: 4-J.Feely kicks 62 yards from ARZ 35 to TEN 326-L.Washington to TEN 26 for 23 yards(22-T.Jefferson).'>31.46</number><number>0.63</number>
+<number shadow='shadow1' tooltip='13:26 1-10-TEN 26ARZ 13 TEN 10 LI: 128-C.Johnson right guard to TEN 26 for no gain (93-C.Campbell).'>31.57</number><number>0.62</number>
+<number shadow='shadow1' tooltip='12:49 2-10-TEN 26ARZ 13 TEN 10 LI: 1.14-R.Fitzpatrick pass incomplete deep middle to 13-K.Wright.'>32.18</number><number>0.61</number>
+<number shadow='shadow1' tooltip='12:42 1-10-TEN 31ARZ 13 TEN 10 LI: 1.1(Shotgun) 28-C.Johnson up the middle to TEN 31 for no gain (93-C.Campbell; 91-M.Shaughnessy).'>32.3</number><number>0.62</number>
+<number shadow='shadow1' tooltip='12:09 2-10-TEN 31ARZ 13 TEN 10 LI: 1.14-R.Fitzpatrick pass incomplete deep left to 18-K.Britt.'>32.85</number><number>0.63</number>
+<number shadow='shadow1' tooltip='12:03 3-10-TEN 31ARZ 13 TEN 10 LI: 1(Shotgun) 4-R.Fitzpatrick scrambles up the middle to TEN 34 for 3 yards(58-D.Washington).'>32.95</number><number>0.59</number>
+<number shadow='shadow1' tooltip='11:24 1-10-TEN 39ARZ 13 TEN 10 LI: 1.34-R.Fitzpatrick pass incomplete deep middle to 13-K.Wright.'>33.6</number><number>0.59</number>
+<number shadow='shadow1' tooltip='11:19 2-10-TEN 39ARZ 13 TEN 10 LI: 1.34-R.Fitzpatrick pass short right to 28-C.Johnson pushed ob at ARZ 42 for 19 yards(26-R.Johnson).'>33.68</number><number>0.53</number>
+<number shadow='shadow1' tooltip='10:45 1-10-ARZ 42ARZ 13 TEN 10 LI: 1.5(Shotgun) 28-C.Johnson right guard to ARZ 40 for 2 yards(26-R.Johnson).'>34.25</number><number>0.55</number>
+<number shadow='shadow1' tooltip='10:09 2-8-ARZ 40ARZ 13 TEN 10 LI: 1.34-R.Fitzpatrick pass incomplete short left to 13-K.Wright [98-F.Rucker].'>34.85</number><number>0.58</number>
+<number shadow='shadow1' tooltip='10:02 3-8-ARZ 40ARZ 13 TEN 10 LI: 1(Shotgun) 4-R.Fitzpatrick pass deep left to 13-K.Wright pushed ob at ARZ 20 for 20 yards(21-P.Peterson).'>34.97</number><number>0.46</number>
+<number shadow='shadow1' tooltip='9:26 1-10-ARZ 20ARZ 13 TEN 10 LI: 1.9(Shotgun) 4-R.Fitzpatrick sacked at ARZ 25 for -5 yards(sack split by 55-J.Abraham and 56-K.Dansby).'>35.57</number><number>0.5</number>
+<number shadow='shadow1' tooltip='8:52 2-15-ARZ 25ARZ 13 TEN 10 LI: 1.64-R.Fitzpatrick scrambles up the middle to ARZ 23 for 2 yards(98-F.Rucker).'>36.13</number><number>0.52</number>
+<number shadow='shadow1' tooltip='8:09 3-13-ARZ 23ARZ 13 TEN 10 LI: 1.3(Shotgun) 4-R.Fitzpatrick pass short middle to 13-K.Wright to ARZ 9 for 14 yards(26-R.Johnson).'>36.85</number><number>0.41</number>
+<number shadow='shadow1' tooltip='7:23 1-9-ARZ 9ARZ 13 TEN 10 LI: 2.2(Shotgun) 4-R.Fitzpatrick pass short left to 13-K.Wright to ARZ 5 for 4 yards(58-D.Washington).'>37.62</number><number>0.39</number>
+<number shadow='shadow1' tooltip='6:32 2-5-ARZ 5ARZ 13 TEN 10 LI: 2.4(Shotgun) 4-R.Fitzpatrick pass incomplete short left to 82-D.Walker (37-Y.Bell).'>38.47</number><number>0.43</number>
+<number shadow='shadow1' tooltip='6:29 3-5-ARZ 5ARZ 13 TEN 10 LI: 2(Shotgun) 4-R.Fitzpatrick pass incomplete short middle to 82-D.Walker [59-M.Benard].'>38.52</number><number>0.37</number>
+<number shadow='shadow1' tooltip='6:24 1-2-ARZ 2ARZ 13 TEN 10 LI: 2.6(Shotgun) 4-R.Fitzpatrick pass incomplete short left to 18-K.Britt.'>38.6</number><number>0.35</number>
+<number shadow='shadow1' tooltip='6:20 1-1-ARZ 1ARZ 13 TEN 10 LI: 2.84-R.Fitzpatrick pass short middle to 82-D.Walker for 1 yard TOUCHDOWN.'>38.67</number><number>0.34</number>
+<number shadow='shadow1' tooltip='6:20 ARZ 13 TEN 10 LI: 2-R.Bironas extra point is GOOD Center-48-B.Brinkley Holder-6-B.Kern.'>38.71</number><number>0.34</number>
+<number shadow='shadow1' tooltip='6:20 ARZ 13 TEN 17 LI: 2-R.Bironas kicks 64 yards from TEN 35 to ARZ 135-J.Arenas to ARZ 28 for 27 yards(50-Z.Gooden).'>38.76</number><number>0.34</number>
+<number shadow='shadow1' tooltip='6:08 1-10-ARZ 28ARZ 13 TEN 17 LI: 1.238-A.Ellington right tackle pushed ob at ARZ 39 for 11 yards(33-M.Griffin).'>38.87</number><number>0.38</number>
+<number shadow='shadow1' tooltip='5:33 1-10-ARZ 39ARZ 13 TEN 17 LI: 1.4(Shotgun) 3-C.Palmer pass short middle to 86-J.Ballard to ARZ 46 for 7 yards(56-A.Ayers).'>39.45</number><number>0.38</number>
+<number shadow='shadow1' tooltip='4:59 2-3-ARZ 46ARZ 13 TEN 17 LI: 1.328-R.Mendenhall right guard to TEN 45 for 9 yards(53-M.Fokou).'>40.02</number><number>0.42</number>
+<number shadow='shadow1' tooltip='4:22 1-10-TEN 45ARZ 13 TEN 17 LI: 1.628-R.Mendenhall up the middle to TEN 45 for no gain (94-S.Hill; 99-J.Casey).'>40.63</number><number>0.39</number>
+<number shadow='shadow1' tooltip='3:41 2-10-TEN 45ARZ 13 TEN 17 LI: 1.3(Shotgun) 3-C.Palmer pass deep middle to 38-A.Ellington to TEN 7 for 38 yards(24-C.Sensabaugh).'>41.32</number><number>0.56</number>
+<number shadow='shadow1' tooltip='2:58 1-7-TEN 7ARZ 13 TEN 17 LI: 2.328-R.Mendenhall right guard to TEN 6 for 1 yard(56-A.Ayers; 99-J.Casey).'>42.03</number><number>0.55</number>
+<number shadow='shadow1' tooltip='2:20 2-6-TEN 6ARZ 13 TEN 17 LI: 2.23-C.Palmer pass short middle to 86-J.Ballard for 6 yards TOUCHDOWN.'>42.67</number><number>0.6</number>
+<number shadow='shadow1' tooltip='2:20 ARZ 13 TEN 17 LI: 4-J.Feely extra point is GOOD Center-82-M.Leach Holder-9-D.Zastudil.'>42.71</number><number>0.6</number>
+<number shadow='shadow1' tooltip='2:20 ARZ 20 TEN 17 LI: 4-J.Feely kicks 65 yards from ARZ 35 to end zone Touchback.'>42.76</number><number>0.62</number>
+<number shadow='shadow1' tooltip='2:14 1-10-TEN 20ARZ 20 TEN 17 LI: 1.64-R.Fitzpatrick pass incomplete short right to 13-K.Wright (56-K.Dansby).'>42.77</number><number>0.64</number>
+<number shadow='shadow1' tooltip='2:09 2-10-TEN 20ARZ 20 TEN 17 LI: 1.423-S.Greene right guard to TEN 21 for 1 yard(90-D.Dockett).'>42.85</number><number>0.68</number>
+<number shadow='shadow1' tooltip='1:38 2-20-TEN 10ARZ 20 TEN 17 LI: 1.4(Shotgun) 4-R.Fitzpatrick pass incomplete short middle to 82-D.Walker [93-C.Campbell].'>43.37</number><number>0.71</number>
+<number shadow='shadow1' tooltip='1:33 3-20-TEN 10ARZ 20 TEN 17 LI: 1.1(Shotgun) 4-R.Fitzpatrick pass incomplete deep middle to 82-D.Walker.'>43.45</number><number>0.72</number>
+<number shadow='shadow1' tooltip='1:28 4-20-TEN 10ARZ 20 TEN 17 LI: 1(Punt formation) 6-B.Kern punts 50 yards to ARZ 40 Center-48-B.Brinkley out of bounds.'>43.53</number><number>0.69</number>
+<number shadow='shadow1' tooltip='1:20 1-10-ARZ 40ARZ 20 TEN 17 LI: 1.628-R.Mendenhall right guard to ARZ 42 for 2 yards(99-J.Casey).'>43.67</number><number>0.68</number>
+<number shadow='shadow1' tooltip='0:45 2-8-ARZ 42ARZ 20 TEN 17 LI: 1.53-C.Palmer pass incomplete short left to 28-R.Mendenhall (97-K.Klug).'>44.25</number><number>0.66</number>
+<number shadow='shadow1' tooltip='0:40 3-8-ARZ 42ARZ 20 TEN 17 LI: 1.3(Shotgun) 3-C.Palmer pass incomplete short middle to 15-M.Floyd.'>44.33</number><number>0.62</number>
+<number shadow='shadow1' tooltip='0:35 4-8-ARZ 42ARZ 20 TEN 17 LI: 0.9(Punt formation) 9-D.Zastudil punts 58 yards to end zone Center-82-M.Leach Touchback.'>44.42</number><number>0.62</number>
+<number shadow='shadow1' tooltip='0:28 1-10-TEN 20ARZ 20 TEN 17 LI: 1.74-R.Fitzpatrick pass short right to 18-K.Britt to TEN 33 for 13 yards(26-R.Johnson).'>44.53</number><number>0.6</number>
+<number shadow='shadow1' tooltip='15:00 1-10-TEN 33ARZ 20 TEN 17 LI: 1.64-R.Fitzpatrick pass short left to 82-D.Walker to TEN 31 for -2 yards(58-D.Washington).'>45</number><number>0.56</number>
+<number shadow='shadow1' tooltip='14:32 1-10-TEN 46ARZ 20 TEN 17 LI: 1.728-C.Johnson up the middle to TEN 49 for 3 yards(56-K.Dansby).'>45.47</number><number>0.58</number>
+<number shadow='shadow1' tooltip='13:56 2-7-TEN 49ARZ 20 TEN 17 LI: 1.528-C.Johnson right guard to ARZ 45 for 6 yards(91-M.Shaughnessy).'>46.07</number><number>0.56</number>
+<number shadow='shadow1' tooltip='13:30 3-1-ARZ 45ARZ 20 TEN 17 LI: 1.528-C.Johnson up the middle to ARZ 40 for 5 yards(58-D.Washington; 37-Y.Bell).'>46.5</number><number>0.53</number>
+<number shadow='shadow1' tooltip='12:54 1-10-ARZ 40ARZ 20 TEN 17 LI: 1.74-R.Fitzpatrick pass incomplete short right to 45-Q.Johnson (58-D.Washington).'>47.1</number><number>0.57</number>
+<number shadow='shadow1' tooltip='12:50 2-10-ARZ 40ARZ 20 TEN 17 LI: 1.3(Shotgun) 4-R.Fitzpatrick pass short left to 18-K.Britt to ARZ 32 for 8 yards(56-K.Dansby).'>47.17</number><number>0.54</number>
+<number shadow='shadow1' tooltip='12:08 3-2-ARZ 32ARZ 20 TEN 17 LI: 1.5(Shotgun) 4-R.Fitzpatrick pass incomplete short middle to 13-K.Wright (58-D.Washington).'>47.87</number><number>0.61</number>
+<number shadow='shadow1' tooltip='12:02 4-2-ARZ 32ARZ 20 TEN 17 LI: 0.8(Field Goal formation) 2-R.Bironas 50 yard field goal is No Good Short Center-48-B.Brinkley Holder-6-B.Kern.'>47.97</number><number>0.71</number>
+<number shadow='shadow1' tooltip='11:57 1-10-ARZ 40ARZ 20 TEN 17 LI: 1.93-C.Palmer pass incomplete short middle to 15-M.Floyd [91-D.Morgan].'>48.05</number><number>0.7</number>
+<number shadow='shadow1' tooltip='11:49 2-10-ARZ 40ARZ 20 TEN 17 LI: 1.838-A.Ellington right tackle to ARZ 43 for 3 yards(31-B.Pollard).'>48.18</number><number>0.69</number>
+<number shadow='shadow1' tooltip='11:09 3-7-ARZ 43ARZ 20 TEN 17 LI: 1.7(Shotgun) 3-C.Palmer pass short right to 10-B.Golden pushed ob at TEN 41 for 16 yards(29-B.Wreh-Wilson).'>48.85</number><number>0.78</number>
+<number shadow='shadow1' tooltip='10:41 1-10-TEN 41ARZ 20 TEN 17 LI: 238-A.Ellington up the middle to TEN 38 for 3 yards(53-M.Fokou).'>49.32</number><number>0.78</number>
+<number shadow='shadow1' tooltip='10:03 2-7-TEN 38ARZ 20 TEN 17 LI: 1.9(Shotgun) 3-C.Palmer pass incomplete deep left to 12-A.Roberts.'>49.95</number><number>0.74</number>
+<number shadow='shadow1' tooltip='9:57 3-7-TEN 38ARZ 20 TEN 17 LI: 1.5(Shotgun) 3-C.Palmer pass short right to 11-L.Fitzgerald ran ob at TEN 20 for 18 yards.'>50.05</number><number>0.84</number>
+<number shadow='shadow1' tooltip='9:23 1-10-TEN 20ARZ 20 TEN 17 LI: 1.73-C.Palmer pass short middle to 28-R.Mendenhall to TEN 11 for 9 yards(56-A.Ayers; 50-Z.Gooden).'>50.62</number><number>0.9</number>
+<number shadow='shadow1' tooltip='8:47 2-1-TEN 11ARZ 20 TEN 17 LI: 1.928-R.Mendenhall up the middle to TEN 8 for 3 yards(99-J.Casey).'>51.22</number><number>0.88</number>
+<number shadow='shadow1' tooltip='8:11 1-8-TEN 8ARZ 20 TEN 17 LI: 1.628-R.Mendenhall up the middle to TEN 6 for 2 yards(50-Z.Gooden).'>51.82</number><number>0.89</number>
+<number shadow='shadow1' tooltip='7:36 2-6-TEN 6ARZ 20 TEN 17 LI: 1.73-C.Palmer pass short right to 11-L.Fitzgerald to TEN 1 for 5 yards(30-J.McCourty; 50-Z.Gooden).'>52.4</number><number>0.9</number>
+<number shadow='shadow1' tooltip='6:53 3-1-TEN 1ARZ 20 TEN 17 LI: 1.628-R.Mendenhall up the middle for 1 yard TOUCHDOWN.'>53.12</number><number>0.92</number>
+<number shadow='shadow1' tooltip='6:53 ARZ 20 TEN 17 LI: 4-J.Feely extra point is GOOD Center-82-M.Leach Holder-9-D.Zastudil.'>53.16</number><number>0.92</number>
+<number shadow='shadow1' tooltip='6:53 ARZ 27 TEN 17 LI: 4-J.Feely kicks 62 yards from ARZ 35 to TEN 326-L.Washington to TEN 17 for 14 yards(30-S.Taylor).'>53.21</number><number>0.94</number>
+<number shadow='shadow1' tooltip='6:45 1-10-TEN 17ARZ 27 TEN 17 LI: 0.4(Shotgun) 4-R.Fitzpatrick sacked at TEN 14 for -3 yards(91-M.Shaughnessy).'>53.25</number><number>0.94</number>
+<number shadow='shadow1' tooltip='6:22 2-13-TEN 14ARZ 27 TEN 17 LI: 0.4(No Huddle Shotgun) 4-R.Fitzpatrick pass short right intended for 85-N.Washington INTERCEPTED by 20-A.Cason at TEN 2020-A.Cason for 20 yards TOUCHDOWN.'>53.63</number><number>0.99</number>
+<number shadow='shadow1' tooltip='6:22 ARZ 27 TEN 17 LI: 4-J.Feely extra point is GOOD Center-82-M.Leach Holder-9-D.Zastudil.'>53.67</number><number>0.99</number>
+<number shadow='shadow1' tooltip='6:22 ARZ 34 TEN 17 LI: 4-J.Feely kicks 63 yards from ARZ 35 to TEN 226-L.Washington to TEN 33 for 31 yards(22-T.Jefferson; 31-J.Bethel).'>53.72</number><number>0.99</number>
+<number shadow='shadow1' tooltip='6:05 1-10-TEN 33ARZ 34 TEN 17 LI: 0.1(Shotgun) 4-R.Fitzpatrick pass short left to 13-K.Wright pushed ob at TEN 45 for 12 yards(21-P.Peterson).'>53.92</number><number>0.99</number>
+<number shadow='shadow1' tooltip='5:38 1-10-TEN 45ARZ 34 TEN 17 LI: 0.1(Shotgun) 4-R.Fitzpatrick pass short right to 13-K.Wright to ARZ 48 for 7 yards(56-K.Dansby).'>54.37</number><number>0.99</number>
+<number shadow='shadow1' tooltip='5:13 2-3-ARZ 48ARZ 34 TEN 17 LI: 0.1(Shotgun) 4-R.Fitzpatrick pass short right to 82-D.Walker to ARZ 40 for 8 yards(37-Y.Bell).'>54.78</number><number>0.99</number>
+<number shadow='shadow1' tooltip='4:47 1-10-ARZ 40ARZ 34 TEN 17 LI: 0.1(No Huddle Shotgun) 4-R.Fitzpatrick pass short right to 14-M.Preston to ARZ 31 for 9 yards(21-P.Peterson).'>55.22</number><number>0.99</number>
+<number shadow='shadow1' tooltip='4:20 2-1-ARZ 31ARZ 34 TEN 17 LI: 0.1(No Huddle Shotgun) 4-R.Fitzpatrick pass short middle to 85-N.Washington to ARZ 23 for 8 yards(26-R.Johnson).'>55.67</number><number>0.99</number>
+<number shadow='shadow1' tooltip='3:56 1-10-ARZ 23ARZ 34 TEN 17 LI: 0.1(No Huddle Shotgun) 4-R.Fitzpatrick pass short right to 85-N.Washington to ARZ 17 for 6 yards(59-M.Benard)TEN-85-N.Washington was injured during the playHis return is Questionable.'>56.07</number><number>0.99</number>
+<number shadow='shadow1' tooltip='3:29 2-4-ARZ 17ARZ 34 TEN 17 LI: 0.1(Shotgun) 4-R.Fitzpatrick pass incomplete deep left to 18-K.Britt.'>56.52</number><number>0.99</number>
+<number shadow='shadow1' tooltip='3:23 3-4-ARZ 17ARZ 34 TEN 17 LI: 0.1(Shotgun) 4-R.Fitzpatrick pass short left to 85-N.Washington pushed ob at ARZ 10 for 7 yards(58-D.Washington).'>56.62</number><number>0.99</number>
+<number shadow='shadow1' tooltip='3:17 1-10-ARZ 10ARZ 34 TEN 17 LI: 0.1(Shotgun) 4-R.Fitzpatrick pass short left to 14-M.Preston for 10 yards TOUCHDOWN.'>56.72</number><number>0.98</number>
+<number shadow='shadow1' tooltip='3:17 ARZ 34 TEN 17 LI: 2-R.Bironas extra point is GOOD Center-48-B.Brinkley Holder-6-B.Kern.'>56.76</number><number>0.98</number>
+<number shadow='shadow1' tooltip='3:17 ARZ 34 TEN 24 LI: 2-R.Bironas kicks onside 12 yards from 50 to ARZ 3826-R.Johnson (didn&#39;t try to advance) to ARZ 38 for no gain (2-R.Bironas).'>56.81</number><number>0.99</number>
+<number shadow='shadow1' tooltip='3:09 1-10-ARZ 38ARZ 34 TEN 24 LI: 0.928-R.Mendenhall up the middle to ARZ 40 for 2 yards(31-B.Pollard).'>56.85</number><number>0.98</number>
+<number shadow='shadow1' tooltip='3:05 2-8-ARZ 40ARZ 34 TEN 24 LI: 0.828-R.Mendenhall up the middle to ARZ 44 for 4 yards(53-M.Fokou).'>56.92</number><number>0.98</number>
+<number shadow='shadow1' tooltip='2:59 3-4-ARZ 44ARZ 34 TEN 24 LI: 0.7PENALTY on ARZ-73-E.Winston False Start 5 yards enforced at ARZ 44 - No Play.'>57.02</number><number>0.97</number>
+<number shadow='shadow1' tooltip='2:54 4-4-ARZ 44ARZ 34 TEN 24 LI: 0.5(Punt formation) 9-D.Zastudil punts 49 yards to TEN 7 Center-82-M.Leach downed by ARZ-23-B.McCann.'>57.1</number><number>0.99</number>
+<number shadow='shadow1' tooltip='2:42 1-10-TEN 7ARZ 34 TEN 24 LI: 0.1(Shotgun) 4-R.Fitzpatrick pass incomplete short right to 85-N.Washington (25-J.Powers) [93-C.Campbell].'>57.3</number><number>0.97</number>
+<number shadow='shadow1' tooltip='2:38 1-10-TEN 22ARZ 34 TEN 24 LI: 0.2(Shotgun) 4-R.Fitzpatrick pass short right to 85-N.Washington to TEN 39 for 17 yards(20-A.Cason).'>57.37</number><number>0.95</number>
+<number shadow='shadow1' tooltip='2:16 1-10-TEN 39ARZ 34 TEN 24 LI: 0.4(No Huddle Shotgun) 4-R.Fitzpatrick pass short middle to 28-C.Johnson to TEN 46 for 7 yards(58-D.Washington).'>57.73</number><number>0.97</number>
+<number shadow='shadow1' tooltip='2:00 2-3-TEN 46ARZ 34 TEN 24 LI: 0.2(Shotgun) 4-R.Fitzpatrick pass deep right to 13-K.Wright to ARZ 31 for 23 yards(21-P.Peterson).'>58</number><number>0.95</number>
+<number shadow='shadow1' tooltip='1:40 1-10-ARZ 31ARZ 34 TEN 24 LI: 0.44-R.Fitzpatrick spiked the ball to stop the clock.'>58.33</number><number>0.97</number>
+<number shadow='shadow1' tooltip='1:34 3-10-ARZ 31ARZ 34 TEN 24 LI: 0.1(Shotgun) 4-R.Fitzpatrick scrambles up the middle to ARZ 14 for 17 yards(26-R.Johnson; 35-J.Arenas).'>58.43</number><number>0.95</number>
+<number shadow='shadow1' tooltip='1:15 1-10-ARZ 14ARZ 34 TEN 24 LI: 0.4(No Huddle) 4-R.Fitzpatrick spiked the ball to stop the clock.'>58.75</number><number>0.99</number>
+<number shadow='shadow1' tooltip='0:57 3-2-ARZ 6ARZ 34 TEN 24 LI: 0.1(No Huddle Shotgun) 4-R.Fitzpatrick pass incomplete short right to 14-M.Preston.'>59.05</number><number>0.99</number>
+<number shadow='shadow1' tooltip='0:52 4-2-ARZ 6ARZ 34 TEN 24 LI: 0.1(Field Goal formation) 2-R.Bironas 24 yard field goal is GOOD Center-48-B.Brinkley Holder-6-B.Kern.'>59.13</number><number>0.99</number>
+<number shadow='shadow1' tooltip='0:52 ARZ 34 TEN 27 LI: 2-R.Bironas kicks onside 11 yards from TEN 35 to TEN 46RECOVERED by TEN-39-D.Stafford.'>59.22</number><number>0.94</number>
+<number shadow='shadow1' tooltip='0:44 1-10-TEN 46ARZ 34 TEN 27 LI: 0.5(Shotgun) 4-R.Fitzpatrick pass deep right to 13-K.Wright pushed ob at ARZ 28 for 26 yards(20-A.Cason).'>59.27</number><number>0.79</number>
+<number shadow='shadow1' tooltip='0:36 1-10-ARZ 28ARZ 34 TEN 27 LI: 2(Shotgun) 4-R.Fitzpatrick pass deep middle to 13-K.Wright to ARZ 8 for 20 yards(21-P.Peterson).'>59.4</number><number>0.63</number>
+<number shadow='shadow1' tooltip='0:18 1-8-ARZ 8ARZ 34 TEN 27 LI: 3.6(No Huddle) 4-R.Fitzpatrick spiked the ball to stop the clock.'>59.7</number><number>0.7</number>
+<number shadow='shadow1' tooltip='0:17 2-8-ARZ 8ARZ 34 TEN 27 LI: 2.9(Shotgun) 4-R.Fitzpatrick pass incomplete short right to 18-K.Britt.'>59.72</number><number>0.81</number>
+<number shadow='shadow1' tooltip='0:14 3-8-ARZ 8ARZ 34 TEN 27 LI: 1.8(Shotgun) 4-R.Fitzpatrick pass short left to 14-M.Preston for 8 yards TOUCHDOWN.'>59.77</number><number>0.53</number>
+<number shadow='shadow1' tooltip='0:14 ARZ 34 TEN 27 LI: 2-R.Bironas extra point is GOOD Center-48-B.Brinkley Holder-6-B.Kern.'>59.81</number><number>0.53</number>
+<number shadow='shadow1' tooltip='0:14 ARZ 34 TEN 34 LI: 2-R.Bironas kicks 60 yards from TEN 40 to end zone Touchback.'>59.86</number><number>0.52</number>
+<number shadow='shadow1' tooltip='0:10 ARZ 34 TEN 34 LI: 4-J.Feely kicks 65 yards from ARZ 35 to TEN 026-L.Washington to TEN 24 for 24 yards(22-T.Jefferson; 59-M.Benard).'>59.92</number><number>0.46</number>
+<number shadow='shadow1' tooltip='14:52 1-10-TEN 24ARZ 34 TEN 34 LI: 2.9(Shotgun) 4-R.Fitzpatrick pass incomplete short left to 13-K.Wright.'>60.13</number><number>0.51</number>
+<number shadow='shadow1' tooltip='14:44 2-10-TEN 24ARZ 34 TEN 34 LI: 2.4(Shotgun) 4-R.Fitzpatrick pass deep middle to 85-N.Washington to ARZ 43 for 33 yards(21-P.Peterson).'>60.27</number><number>0.34</number>
+<number shadow='shadow1' tooltip='14:05 1-10-ARZ 43ARZ 34 TEN 34 LI: 2.6(Shotgun) 4-R.Fitzpatrick pass short right intended for 14-M.Preston INTERCEPTED by 20-A.Cason [22-T.Jefferson] at ARZ 3020-A.Cason to ARZ 46 for 16 yards(82-D.Walker).'>60.92</number><number>0.68</number>
+<number shadow='shadow1' tooltip='13:55 1-10-ARZ 46ARZ 34 TEN 34 LI: 4.128-R.Mendenhall right tackle to TEN 49 for 5 yards(30-J.McCourty).'>61.08</number><number>0.69</number>
+<number shadow='shadow1' tooltip='13:20 2-5-TEN 49ARZ 34 TEN 34 LI: 3.93-C.Palmer pass short middle to 81-J.Dray to TEN 40 for 9 yards(50-Z.Gooden).'>61.67</number><number>0.76</number>
+<number shadow='shadow1' tooltip='12:45 1-10-TEN 40ARZ 34 TEN 34 LI: 428-R.Mendenhall up the middle to TEN 36 for 4 yards(33-M.Griffin).'>62.25</number><number>0.76</number>
+<number shadow='shadow1' tooltip='12:11 2-6-TEN 36ARZ 34 TEN 34 LI: 3.728-R.Mendenhall left guard to TEN 21 for 15 yards(33-M.Griffin).'>62.82</number><number>0.87</number>
+<number shadow='shadow1' tooltip='11:37 1-10-TEN 21ARZ 34 TEN 34 LI: 428-R.Mendenhall right guard to TEN 23 for -2 yards(99-J.Casey).'>63.38</number><number>0.92</number>
+<number shadow='shadow1' tooltip='10:59 2-12-TEN 23ARZ 34 TEN 34 LI: 4.628-R.Mendenhall right guard to TEN 23 for no gain (91-D.Morgan).'>64.02</number><number>0.89</number>
+<number shadow='shadow1' tooltip='10:22 3-12-TEN 23ARZ 34 TEN 34 LI: 4.3(Field Goal formation) 4-J.Feely 41 yard field goal is GOOD Center-82-M.Leach Holder-9-D.Zastudil.'>64.63</number><number>1</number>
+<number>64.63</number><number>1</number>
+</row> </chart_data>
+       <draw>
+
+
+
+      <image x='45' y='298'  url='nfllogos/42x50png/ARZ.gif'  layer='foreground' glow = 'glow1'/>
+      <image x='45' y='350'  url='nfllogos/42x50png/TEN.gif'     layer='foreground' glow = 'glow1'/>
+
+
+      <rect x='130' y='300' width='250' height='40' fill_color='b0063a' bevel='bevel1' />
+      <text x='135' y='300' width='250' height='40' h_align='left' v_align='middle' color='ffffff' shadow='shadow2' glow='winnerglow'>Arizona Cardinals</text>
+
+      <rect x='130' y='350' width='250' height='40' fill_color='0080c0' bevel='bevel1'  />
+      <text x='135' y='350' width='250' height='40' h_align='left' v_align='middle' color='ffffff' shadow='shadow2' glow=''>Tennessee Titans</text>
+
+      <rect x='420' y='300' width='60' height='40' fill_color='b0063a' bevel='bevel1'  />
+      <text x='420' y='300' width='60' height='40' h_align='center' v_align='middle' color='ffffff' shadow='shadow2' transition='none' glow='winnerglow'>37</text>
+
+      <rect x='420' y='350' width='60' height='40' fill_color='0080c0' bevel='bevel1' />
+      <text x='420' y='350' width='60' height='40' h_align='center' v_align='middle' color='ffffff' shadow='shadow2' transition='none' glow=''>34</text>
+
+      <text x='-3' y='12'  width='60' height='40' h_align='center' v_align='middle' size='13' shadow='shadow2'>ARZWin </text>
+      <text x='-3' y='218' width='60' height='40' h_align='center' v_align='middle' size='13' shadow='shadow2'>TENWin </text>
+
+     
+              <rect x='540' y='300' width='100' height='35' fill_color='000000' fill_alpha='50'/>
+              <text x='540' y='300' width='100' height='35' h_align='center' v_align='middle' color='ffffff' size='15' shadow='shadow2' >Final</text>
+
+              <text x='540' y='340' width='40' h_align='center' color='000000' size='12' shadow='shadow2'>CBF</text>
+              <text x='600' y='340' width='40' h_align='center' color='000000' size='12' shadow='shadow2'>EI</text>
+
+              <rect x='540' y='360' width='40' height='30' fill_color='000000' fill_alpha='50' />
+              <text x='540' y='360' width='40' height='30' size='12' h_align='center' v_align='middle' color='FFFFFF' shadow='shadow2'>3</text>
+
+              <rect x='600' y='360' width='40' height='30' fill_color='000000' fill_alpha='50' />
+              <text x='600' y='360' width='40' height='30' size='12' h_align='center' v_align='middle' color='FFFFFF' shadow='shadow2'>6.3</text>
+
+              <text x='20' y='420' width='70' height='25' size='12' h_align='left' v_align='middle' color='000000' >12/15/2013</text>
+              <text x='100' y='420' width='200' height='25' size='12' h_align='left' v_align='middle' color='000000' >LP Field</text>
+
+   </draw></chart>

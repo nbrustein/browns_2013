@@ -1,0 +1,357 @@
+
+<chart>
+   <license>ETAS9P33ESHO.945CWK-2XOI1X0-7L</license>
+   <chart_type>scatter</chart_type>
+   <chart_pref trend_thickness='0' line_thickness='3' point_size='0'/>
+
+   <series_color>
+      <color>ffff00</color>
+   </series_color>
+
+   <chart_rect x='45' y='20' width='630' height='230' positive_color='cacaca'  />
+
+  <chart_border top_thickness='0'
+                 bottom_thickness='0'
+                 left_thickness='0'
+                 right_thickness='0'
+                 color='000000'
+                 />
+
+   <tooltip font='Arial' bold='true' size='11' />
+
+   <chart_note type='flag'
+               color='000000'
+               alpha='90'
+               bold='FALSE'
+               size='10'
+               background_color='ffffe0'
+               background_alpha='50'
+               shadow='shadow2'
+               />
+
+   <chart_grid_h thickness='2' color='ffffff' type='dashed'  />
+   <chart_grid_v thickness='2' color='ffffff'   />
+		>
+
+   <legend layout='hide' />
+
+   <chart_guide horizontal='TRUE'
+             vertical='TRUE'
+             thickness='1'
+             color='006400'
+             alpha='100'
+             type='solid'
+             snap_h='TRUE'
+             snap_v='TRUE'
+             radius='3'
+             fill_color='006400'
+             fill_alpha='100'
+             line_color='006400'
+             line_alpha='80'
+             line_thickness='1'
+             text_h_alpha='50'
+             text_v_alpha='00'
+             suffix_h=' WP'
+             decimals='2'
+             bold='FALSE'
+             size='11'
+             text_color='FFFFFF'
+             background_color='006400'
+             />
+   <filter>
+      <shadow id='shadow1' distance='2' angle='60' blurX='5' blurY='5' alpha='50' />
+      <bevel id='bevel1' angle='45' blurX='5' blurY='5' distance='0' />
+      <glow id='glow1' color='ffffff' alpha='0' blurX='7' blurY='7' strength='6' quality='2' inner='FALSE' knockout='FALSE' />
+      <glow id='winnerglow' color='ffffff' alpha='0' blurX='7' blurY='7' strength='5' quality='2' inner='FALSE' knockout='FALSE' />
+   </filter>
+
+    <axis_value_label>
+         <string></string>
+          <string> </string>
+          <null/>
+          <string> </string>
+          <string></string>
+
+       </axis_value_label>
+		
+	   <axis_ticks category_ticks='false'/>
+
+       <axis_value min='0' max='1' steps='4'  decimals='2' show_min='true' size='13' shadow='shadow2' />            
+        <axis_category
+               min='0'
+               max='75'
+               steps='5'
+               mode='trim'
+               decimals='0'
+               size='13'
+               shadow='shadow2'
+               />
+
+       <axis_category_label>
+          <string>Kickoff</string>
+          <string></string>
+          <string>Halftime</string>
+          <string></string>
+          <string>Regulation</string>
+          <string>OT</string>
+       </axis_category_label>
+
+
+         <chart_data>
+       <row>
+	      <null/><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number>
+              <number>x</number><number>y</number>
+              </row><row><string></string>
+
+                     <number shadow='shadow1'>0</number><number>.5</number><number shadow='shadow1' tooltip='15:00 MIN 0 GB 0 LI: 3-B.Walsh kicks 65 yards from MIN 35 to GB 023-J.Franklin to GB 22 for 22 yards(33-J.Sanford).'>0.09</number><number>0.48</number>
+<number shadow='shadow1' tooltip='14:54 1-10-GB 22MIN 0 GB 0 LI: 1.616-S.Tolzien sacked at GB 15 for -7 yards(57-A.Cole).'>0.1</number><number>0.52</number>
+<number shadow='shadow1' tooltip='14:23 2-17-GB 15MIN 0 GB 0 LI: 1.327-E.Lacy right guard to GB 16 for 1 yard(52-C.Greenway).'>0.62</number><number>0.54</number>
+<number shadow='shadow1' tooltip='13:42 3-16-GB 16MIN 0 GB 0 LI: 1.1(Shotgun) 16-S.Tolzien pass incomplete short right to 89-J.Jones (93-K.Williams).'>1.3</number><number>0.56</number>
+<number shadow='shadow1' tooltip='13:38 4-16-GB 16MIN 0 GB 0 LI: 0.98-T.Masthay punts 41 yards to MIN 43 Center-61-B.Goode35-M.Sherels MUFFS catch and recovers at MIN 4035-M.Sherels to MIN 40 for no gain (43-M.Jennings).'>1.37</number><number>0.55</number>
+<number shadow='shadow1' tooltip='13:27 1-10-MIN 40MIN 0 GB 0 LI: 1.428-A.Peterson up the middle to GB 49 for 11 yards(43-M.Jennings).'>1.55</number><number>0.57</number>
+<number shadow='shadow1' tooltip='12:50 1-10-GB 49MIN 0 GB 0 LI: 1.37-C.Ponder up the middle to MIN 46 for -5 yards(96-M.Neal).'>2.17</number><number>0.53</number>
+<number shadow='shadow1' tooltip='12:20 2-15-MIN 46MIN 0 GB 0 LI: 1.17-C.Ponder sacked at MIN 38 for -8 yards(52-C.Matthews).'>2.67</number><number>0.48</number>
+<number shadow='shadow1' tooltip='11:49 3-23-MIN 38MIN 0 GB 0 LI: 0.8(Shotgun) 7-C.Ponder pass short middle to 32-T.Gerhart to MIN 43 for 5 yards(33-M.Hyde).'>3.18</number><number>0.48</number>
+<number shadow='shadow1' tooltip='11:06 4-18-MIN 43MIN 0 GB 0 LI: 0.618-J.Locke punts 44 yards to GB 13 Center-46-C.Loeffler fair catch by 33-M.Hyde.'>3.9</number><number>0.5</number>
+<number shadow='shadow1' tooltip='10:58 1-10-GB 13MIN 0 GB 0 LI: 1.727-E.Lacy left end to GB 15 for 2 yards(97-E.Griffen 33-J.Sanford).'>4.03</number><number>0.51</number>
+<number shadow='shadow1' tooltip='10:18 2-8-GB 15MIN 0 GB 0 LI: 1.4(Shotgun) 16-S.Tolzien pass short left to 89-J.Jones to GB 23 for 8 yards(20-C.Cook).'>4.7</number><number>0.48</number>
+<number shadow='shadow1' tooltip='9:37 1-10-GB 23MIN 0 GB 0 LI: 1.527-E.Lacy left end to GB 22 for -1 yards(69-J.Allen).'>5.38</number><number>0.5</number>
+<number shadow='shadow1' tooltip='8:58 2-11-GB 22MIN 0 GB 0 LI: 1.4(Shotgun) 27-E.Lacy right guard to GB 24 for 2 yards(57-A.Cole).'>6.03</number><number>0.51</number>
+<number shadow='shadow1' tooltip='8:23 3-9-GB 24MIN 0 GB 0 LI: 1.216-S.Tolzien pass short right to 30-J.Kuhn to GB 44 for 20 yards(52-C.Greenway).'>6.62</number><number>0.44</number>
+<number shadow='shadow1' tooltip='7:45 1-10-GB 44MIN 0 GB 0 LI: 1.416-S.Tolzien pass short right to 89-J.Jones to GB 45 for 1 yard(29-X.Rhodes).'>7.25</number><number>0.46</number>
+<number shadow='shadow1' tooltip='7:09 2-9-GB 45MIN 0 GB 0 LI: 1.2(Shotgun) 27-E.Lacy up the middle to 50 for 5 yards(57-A.Cole).'>7.85</number><number>0.46</number>
+<number shadow='shadow1' tooltip='6:29 3-4-50MIN 0 GB 0 LI: 1.1(Shotgun) 16-S.Tolzien pass deep middle to 87-J.Nelson to MIN 16 for 34 yards(35-M.Sherels).'>8.52</number><number>0.35</number>
+<number shadow='shadow1' tooltip='5:45 1-10-MIN 16MIN 0 GB 0 LI: 1.6(Shotgun) 27-E.Lacy left guard to MIN 6 for 10 yards(93-K.Williams).'>9.25</number><number>0.32</number>
+<number shadow='shadow1' tooltip='5:10 1-6-MIN 6MIN 0 GB 0 LI: 1.8(Shotgun) 16-S.Tolzien pass incomplete short right to 89-J.Jones (29-X.Rhodes).'>9.83</number><number>0.33</number>
+<number shadow='shadow1' tooltip='5:06 2-6-MIN 6MIN 0 GB 0 LI: 1.716-S.Tolzien left tackle for 6 yards TOUCHDOWN.'>9.9</number><number>0.29</number>
+<number shadow='shadow1' tooltip='5:06 MIN 0 GB 0 LI: 2-M.Crosby extra point is GOOD Center-61-B.Goode Holder-8-T.Masthay.'>9.94</number><number>0.29</number>
+<number shadow='shadow1' tooltip='5:06 MIN 0 GB 7 LI: 2-M.Crosby kicks 64 yards from GB 35 to MIN 184-C.Patterson pushed ob at GB 42 for 57 yards(96-M.Neal).'>9.99</number><number>0.34</number>
+<number shadow='shadow1' tooltip='4:48 1-10-GB 42MIN 0 GB 7 LI: 1.17-C.Ponder pass short middle to 84-C.Patterson to GB 35 for 7 yards(31-D.House; 50-A.Hawk).'>10.2</number><number>0.34</number>
+<number shadow='shadow1' tooltip='4:07 2-3-GB 35MIN 0 GB 7 LI: 0.97-C.Ponder pass short right to 40-R.Ellison pushed ob at GB 21 for 14 yards(31-D.House).'>10.88</number><number>0.37</number>
+<number shadow='shadow1' tooltip='3:38 1-10-GB 21MIN 0 GB 7 LI: 0.828-A.Peterson left tackle to GB 22 for -1 yards(98-C.Wilson).'>11.37</number><number>0.39</number>
+<number shadow='shadow1' tooltip='2:58 2-11-GB 22MIN 0 GB 7 LI: 1.128-A.Peterson left tackle to GB 17 for 5 yards(76-M.Daniels).'>12.03</number><number>0.39</number>
+<number shadow='shadow1' tooltip='2:16 3-6-GB 17MIN 0 GB 7 LI: 0.9(Shotgun) 7-C.Ponder sacked at GB 18 for -1 yards(52-C.Matthews).'>12.73</number><number>0.35</number>
+<number shadow='shadow1' tooltip='1:41 4-7-GB 18MIN 0 GB 7 LI: 0.63-B.Walsh 36 yard field goal is GOOD Center-46-C.Loeffler Holder-18-J.Locke.'>13.32</number><number>0.35</number>
+<number shadow='shadow1' tooltip='1:41 MIN 3 GB 7 LI: 3-B.Walsh kicks 73 yards from MIN 35 to GB -833-M.Hyde Touchback.'>13.41</number><number>0.36</number>
+<number shadow='shadow1' tooltip='0:55 2-1-GB 29MIN 3 GB 7 LI: 1.527-E.Lacy right guard to GB 34 for 5 yards(55-M.Mitchell).'>14.08</number><number>0.34</number>
+<number shadow='shadow1' tooltip='0:20 1-10-GB 34MIN 3 GB 7 LI: 1.427-E.Lacy left guard to GB 34 for no gain (55-M.Mitchell).'>14.67</number><number>0.35</number>
+<number shadow='shadow1' tooltip='15:00 2-10-GB 34MIN 3 GB 7 LI: 1.327-E.Lacy right tackle to GB 48 for 14 yards(33-J.Sanford 57-A.Cole).'>15</number><number>0.31</number>
+<number shadow='shadow1' tooltip='14:18 1-10-GB 48MIN 3 GB 7 LI: 1.316-S.Tolzien pass incomplete short right to 30-J.Kuhn.'>15.7</number><number>0.32</number>
+<number shadow='shadow1' tooltip='14:13 2-10-GB 48MIN 3 GB 7 LI: 1.227-E.Lacy up the middle to 50 for 2 yards(69-J.Allen).'>15.78</number><number>0.33</number>
+<number shadow='shadow1' tooltip='13:31 3-8-50MIN 3 GB 7 LI: 1.1(Shotgun) 16-S.Tolzien sacked at GB 39 for -11 yards(96-B.Robison).'>16.48</number><number>0.37</number>
+<number shadow='shadow1' tooltip='13:00 4-19-GB 39MIN 3 GB 7 LI: 0.98-T.Masthay punts 42 yards to MIN 19 Center-61-B.Goode fair catch by 35-M.Sherels.'>17</number><number>0.36</number>
+<number shadow='shadow1' tooltip='12:52 1-10-MIN 19MIN 3 GB 7 LI: 1.128-A.Peterson right end to MIN 30 for 11 yards(50-A.Hawk 55-A.Mulumba).'>17.13</number><number>0.39</number>
+<number shadow='shadow1' tooltip='12:18 1-10-MIN 30MIN 3 GB 7 LI: 1.228-A.Peterson right guard to MIN 34 for 4 yards(98-C.Wilson).'>17.7</number><number>0.39</number>
+<number shadow='shadow1' tooltip='11:39 2-6-MIN 34MIN 3 GB 7 LI: 1.128-A.Peterson left end to MIN 41 for 7 yards(42-M.Burnett).'>18.35</number><number>0.41</number>
+<number shadow='shadow1' tooltip='11:06 1-10-MIN 41MIN 3 GB 7 LI: 1.27-C.Ponder pass incomplete short middle to 89-J.Carlson (31-D.House).'>18.9</number><number>0.4</number>
+<number shadow='shadow1' tooltip='11:01 2-10-MIN 41MIN 3 GB 7 LI: 1.128-A.Peterson right tackle to MIN 47 for 6 yards(59-B.Jones; 42-M.Burnett).'>18.98</number><number>0.4</number>
+<number shadow='shadow1' tooltip='10:20 3-4-MIN 47MIN 3 GB 7 LI: 1(Shotgun) 7-C.Ponder pass short middle to 84-C.Patterson to GB 47 for 6 yards(31-D.House).'>19.67</number><number>0.43</number>
+<number shadow='shadow1' tooltip='9:43 1-10-GB 47MIN 3 GB 7 LI: 1.27-C.Ponder pass short middle to 28-A.Peterson to GB 44 for 3 yards(50-A.Hawk)FUMBLES (50-A.Hawk) RECOVERED by GB-55-A.Mulumba at GB 4555-A.Mulumba to GB 45 for no gain (7-C.Ponder).'>20.28</number><number>0.31</number>
+<number shadow='shadow1' tooltip='9:33 1-10-GB 45MIN 3 GB 7 LI: 1.316-S.Tolzien pass incomplete short middle (93-K.Williams).'>20.45</number><number>0.32</number>
+<number shadow='shadow1' tooltip='9:29 2-10-GB 45MIN 3 GB 7 LI: 1.1(Shotgun) 27-E.Lacy left end ran ob at 50 for 5 yards(36-R.Blanton).'>20.52</number><number>0.32</number>
+<number shadow='shadow1' tooltip='9:03 3-5-50MIN 3 GB 7 LI: 1(Shotgun) 16-S.Tolzien pass incomplete deep right to 11-J.Boykin (33-J.Sanford).'>20.95</number><number>0.36</number>
+<number shadow='shadow1' tooltip='8:56 4-5-50MIN 3 GB 7 LI: 0.68-T.Masthay punts 48 yards to MIN 2 Center-61-B.Goode downed by GB-24-J.Bush.'>21.07</number><number>0.34</number>
+<number shadow='shadow1' tooltip='8:47 1-10-MIN 2MIN 3 GB 7 LI: 1.47-C.Ponder pass short middle to 84-C.Patterson to MIN 9 for 7 yards(31-D.House).'>21.22</number><number>0.34</number>
+<number shadow='shadow1' tooltip='8:10 2-3-MIN 9MIN 3 GB 7 LI: 1.47-C.Ponder pass short right to 42-J.Felton to MIN 16 for 7 yards(42-M.Burnett).'>21.83</number><number>0.35</number>
+<number shadow='shadow1' tooltip='7:36 1-10-MIN 16MIN 3 GB 7 LI: 128-A.Peterson right guard to MIN 38 for 22 yards(43-M.Jennings).'>22.4</number><number>0.39</number>
+<number shadow='shadow1' tooltip='6:53 1-10-MIN 38MIN 3 GB 7 LI: 1(Shotgun) 7-C.Ponder pass short right to 84-C.Patterson to MIN 43 for 5 yards(38-T.Williams).'>23.12</number><number>0.39</number>
+<number shadow='shadow1' tooltip='6:12 2-5-MIN 43MIN 3 GB 7 LI: 17-C.Ponder pass incomplete short left to 84-C.Patterson.'>23.8</number><number>0.38</number>
+<number shadow='shadow1' tooltip='6:06 3-5-MIN 43MIN 3 GB 7 LI: 0.9(Shotgun) 7-C.Ponder pass deep right to 81-J.Simpson to GB 26 for 31 yards(38-T.Williams).'>23.9</number><number>0.47</number>
+<number shadow='shadow1' tooltip='5:49 1-10-GB 26MIN 3 GB 7 LI: 1.428-A.Peterson right tackle to GB 24 for 2 yards(50-A.Hawk).'>24.18</number><number>0.5</number>
+<number shadow='shadow1' tooltip='5:11 2-8-GB 24MIN 3 GB 7 LI: 1.77-C.Ponder sacked at GB 29 for -5 yards(59-B.Jones).'>24.82</number><number>0.43</number>
+<number shadow='shadow1' tooltip='4:35 3-13-GB 29MIN 3 GB 7 LI: 1(Shotgun) 7-C.Ponder pass incomplete short left to 81-J.Simpson [52-C.Matthews].'>25.42</number><number>0.4</number>
+<number shadow='shadow1' tooltip='4:28 4-13-GB 29MIN 3 GB 7 LI: 0.73-B.Walsh 47 yard field goal is GOOD Center-46-C.Loeffler Holder-18-J.Locke.'>25.53</number><number>0.44</number>
+<number shadow='shadow1' tooltip='4:28 MIN 6 GB 7 LI: 3-B.Walsh kicks 69 yards from MIN 35 to GB -433-M.Hyde Touchback.'>25.62</number><number>0.45</number>
+<number shadow='shadow1' tooltip='3:47 2-2-GB 28MIN 6 GB 7 LI: 1.4PENALTY on GB-11-J.Boykin False Start 5 yards enforced at GB 28 - No Play.'>26.22</number><number>0.45</number>
+<number shadow='shadow1' tooltip='3:32 2-7-GB 23MIN 6 GB 7 LI: 1.4(Shotgun) 16-S.Tolzien pass incomplete deep right to 89-J.Jones (29-X.Rhodes).'>26.47</number><number>0.47</number>
+<number shadow='shadow1' tooltip='3:27 3-7-GB 23MIN 6 GB 7 LI: 1.2(Shotgun) 16-S.Tolzien pass incomplete short middle to 89-J.Jones (29-X.Rhodes).'>26.55</number><number>0.5</number>
+<number shadow='shadow1' tooltip='3:23 4-7-GB 23MIN 6 GB 7 LI: 0.98-T.Masthay punts 40 yards to MIN 37 Center-61-B.Goode out of bounds.'>26.62</number><number>0.5</number>
+<number shadow='shadow1' tooltip='3:14 1-10-MIN 37MIN 6 GB 7 LI: 1.328-A.Peterson right end to MIN 35 for -2 yards(50-A.Hawk 96-M.Neal).'>26.77</number><number>0.49</number>
+<number shadow='shadow1' tooltip='2:38 2-12-MIN 35MIN 6 GB 7 LI: 1.37-C.Ponder pass deep right to 81-J.Simpson to GB 42 for 23 yards(42-M.Burnett).'>27.37</number><number>0.59</number>
+<number shadow='shadow1' tooltip='2:16 1-10-GB 27MIN 6 GB 7 LI: 1.528-A.Peterson left end ran ob at GB 22 for 5 yards(42-M.Burnett).'>27.73</number><number>0.61</number>
+<number shadow='shadow1' tooltip='2:00 2-5-GB 22MIN 6 GB 7 LI: 1.67-C.Ponder pass deep left to 86-C.Ford to GB 2 for 20 yards(50-A.Hawk).'>28</number><number>0.67</number>
+<number shadow='shadow1' tooltip='1:14 1-2-GB 2MIN 6 GB 7 LI: 228-A.Peterson right tackle to GB 1 for 1 yard(42-M.Burnett).'>28.77</number><number>0.69</number>
+<number shadow='shadow1' tooltip='1:00 2-1-GB 1MIN 6 GB 7 LI: 2.228-A.Peterson right guard to GB 1 for no gain (42-M.Burnett).'>29</number><number>0.67</number>
+<number shadow='shadow1' tooltip='0:53 3-1-GB 1MIN 6 GB 7 LI: 228-A.Peterson left tackle for 1 yard TOUCHDOWN.'>29.12</number><number>0.7</number>
+<number shadow='shadow1' tooltip='0:53 MIN 6 GB 7 LI: 3-B.Walsh extra point is GOOD Center-46-C.Loeffler Holder-18-J.Locke.'>29.16</number><number>0.7</number>
+<number shadow='shadow1' tooltip='0:53 MIN 13 GB 7 LI: 3-B.Walsh kicks 71 yards from MIN 35 to GB -633-M.Hyde Touchback.'>29.21</number><number>0.71</number>
+<number shadow='shadow1' tooltip='0:26 1-10-GB 44MIN 13 GB 7 LI: 1.1(No Huddle Shotgun) 16-S.Tolzien pass short middle to 30-J.Kuhn to MIN 47 for 9 yards(52-C.Greenway).'>29.57</number><number>0.66</number>
+<number shadow='shadow1' tooltip='0:19 2-1-MIN 47MIN 13 GB 7 LI: 1.1(Shotgun) 16-S.Tolzien pass short left to 87-J.Nelson pushed ob at MIN 45 for 2 yards(20-C.Cook).'>29.68</number><number>0.64</number>
+<number shadow='shadow1' tooltip='0:13 1-10-MIN 45MIN 13 GB 7 LI: 1.3(Shotgun) 16-S.Tolzien pass incomplete short left to 86-B.Bostick.'>29.78</number><number>0.67</number>
+<number shadow='shadow1' tooltip='0:10 2-10-MIN 45MIN 13 GB 7 LI: 1(Shotgun) 16-S.Tolzien up the middle to MIN 26 for 19 yards(57-A.Cole).'>29.83</number><number>0.74</number>
+<number shadow='shadow1' tooltip='0:10 MIN 13 GB 7 LI: 2-M.Crosby kicks 25 yards from GB 35 to MIN 40 out of bounds.'>29.92</number><number>0.76</number>
+<number shadow='shadow1' tooltip='14:59 1-10-MIN 40MIN 13 GB 7 LI: 1.328-A.Peterson right end to MIN 38 for -2 yards(90-B.Raji).'>30.02</number><number>0.74</number>
+<number shadow='shadow1' tooltip='14:24 2-12-MIN 38MIN 13 GB 7 LI: 1.128-A.Peterson up the middle to MIN 46 for 8 yards(43-M.Jennings).'>30.6</number><number>0.75</number>
+<number shadow='shadow1' tooltip='13:23 3-9-MIN 41MIN 13 GB 7 LI: 1.1(Shotgun) 7-C.Ponder sacked at MIN 40 for -1 yards(50-A.Hawk).'>31.62</number><number>0.72</number>
+<number shadow='shadow1' tooltip='12:57 4-10-MIN 40MIN 13 GB 7 LI: 0.918-J.Locke punts 38 yards to GB 22 Center-46-C.Loeffler fair catch by 33-M.Hyde.'>32.05</number><number>0.72</number>
+<number shadow='shadow1' tooltip='12:49 1-10-GB 22MIN 13 GB 7 LI: 1(Shotgun) 16-S.Tolzien pass incomplete short left to 87-J.Nelson.'>32.18</number><number>0.72</number>
+<number shadow='shadow1' tooltip='12:45 2-10-GB 22MIN 13 GB 7 LI: 127-E.Lacy left end to GB 22 for no gain (69-J.Allen 96-B.Robison).'>32.25</number><number>0.74</number>
+<number shadow='shadow1' tooltip='12:04 3-10-GB 22MIN 13 GB 7 LI: 0.8(Shotgun) 16-S.Tolzien pass incomplete short middle to 86-B.Bostick.'>32.93</number><number>0.76</number>
+<number shadow='shadow1' tooltip='11:59 4-10-GB 22MIN 13 GB 7 LI: 0.68-T.Masthay punts 37 yards to MIN 41 Center-61-B.Goode35-M.Sherels to MIN 41 for no gain (61-B.Goode).'>33.02</number><number>0.77</number>
+<number shadow='shadow1' tooltip='11:50 1-10-MIN 41MIN 13 GB 7 LI: 1.428-A.Peterson left end to MIN 44 for 3 yards(38-T.Williams).'>33.17</number><number>0.77</number>
+<number shadow='shadow1' tooltip='11:15 2-7-MIN 44MIN 13 GB 7 LI: 1.328-A.Peterson right end to MIN 46 for 2 yards(55-A.Mulumba).'>33.75</number><number>0.76</number>
+<number shadow='shadow1' tooltip='10:29 3-5-MIN 46MIN 13 GB 7 LI: 1.1(Shotgun) 7-C.Ponder pass short middle to 89-J.Carlson to GB 39 for 15 yards(43-M.Jennings).'>34.52</number><number>0.8</number>
+<number shadow='shadow1' tooltip='9:49 1-10-GB 39MIN 13 GB 7 LI: 1.17-C.Ponder pass deep middle to 15-G.Jennings to GB 18 for 21 yards(43-M.Jennings).'>35.18</number><number>0.83</number>
+<number shadow='shadow1' tooltip='9:06 1-10-GB 18MIN 13 GB 7 LI: 0.9(Shotgun) 7-C.Ponder pass short right to 84-C.Patterson to GB 12 for 6 yards(42-M.Burnett).'>35.9</number><number>0.87</number>
+<number shadow='shadow1' tooltip='8:29 2-4-GB 12MIN 13 GB 7 LI: 1.17-C.Ponder pass short right to 40-R.Ellison for 12 yards TOUCHDOWN.'>36.52</number><number>0.89</number>
+<number shadow='shadow1' tooltip='8:29 MIN 13 GB 7 LI: 3-B.Walsh extra point is GOOD Center-46-C.Loeffler Holder-18-J.Locke.'>36.56</number><number>0.89</number>
+<number shadow='shadow1' tooltip='8:29 MIN 20 GB 7 LI: 3-B.Walsh kicks 68 yards from MIN 35 to GB -333-M.Hyde Touchback.'>36.61</number><number>0.9</number>
+<number shadow='shadow1' tooltip='8:22 1-10-GB 20MIN 20 GB 7 LI: 0.710-M.Flynn pass short right to 81-A.Quarless to GB 29 for 9 yards(52-C.Greenway) [97-E.Griffen].'>36.63</number><number>0.9</number>
+<number shadow='shadow1' tooltip='7:40 2-1-GB 29MIN 20 GB 7 LI: 0.744-J.Starks right tackle to MIN 37 for 34 yards(36-R.Blanton).'>37.33</number><number>0.85</number>
+<number shadow='shadow1' tooltip='6:59 1-10-MIN 37MIN 20 GB 7 LI: 0.944-J.Starks left end to MIN 35 for 2 yards(95-S.Floyd; 97-E.Griffen).'>38.02</number><number>0.86</number>
+<number shadow='shadow1' tooltip='6:25 2-8-MIN 35MIN 20 GB 7 LI: 0.8(Shotgun) 10-M.Flynn pass incomplete short right to 89-J.Jones.'>38.58</number><number>0.87</number>
+<number shadow='shadow1' tooltip='6:18 3-8-MIN 35MIN 20 GB 7 LI: 0.7(Shotgun) 10-M.Flynn pass short middle to 44-J.Starks to MIN 40 for -5 yards(57-A.Cole) [69-J.Allen].'>38.7</number><number>0.94</number>
+<number shadow='shadow1' tooltip='5:38 4-13-MIN 40MIN 20 GB 7 LI: 0.18-T.Masthay punts 36 yards to MIN 4 Center-61-B.Goode downed by GB-32-C.Banjo.'>39.37</number><number>0.94</number>
+<number shadow='shadow1' tooltip='5:26 1-10-MIN 4MIN 20 GB 7 LI: 1.628-A.Peterson right end ran ob at MIN 11 for 7 yards(50-A.Hawk).'>39.57</number><number>0.93</number>
+<number shadow='shadow1' tooltip='5:00 2-3-MIN 11MIN 20 GB 7 LI: 1.528-A.Peterson left tackle to MIN 16 for 5 yards(98-C.Wilson).'>40</number><number>0.95</number>
+<number shadow='shadow1' tooltip='4:21 1-10-MIN 16MIN 20 GB 7 LI: 1.132-T.Gerhart left tackle to MIN 31 for 15 yards(32-C.Banjo).'>40.65</number><number>0.95</number>
+<number shadow='shadow1' tooltip='3:39 1-10-MIN 31MIN 20 GB 7 LI: 0.932-T.Gerhart right tackle to MIN 37 for 6 yards(59-B.Jones).'>41.35</number><number>0.94</number>
+<number shadow='shadow1' tooltip='2:57 2-4-MIN 37MIN 20 GB 7 LI: 0.77-C.Ponder pass incomplete short right to 89-J.Carlson.'>42.05</number><number>0.94</number>
+<number shadow='shadow1' tooltip='2:52 3-4-MIN 37MIN 20 GB 7 LI: 0.7(Shotgun) 7-C.Ponder pass short left to 15-G.Jennings pushed ob at MIN 45 for 8 yards(33-M.Hyde).'>42.13</number><number>0.95</number>
+<number shadow='shadow1' tooltip='2:19 1-10-MIN 45MIN 20 GB 7 LI: 0.732-T.Gerhart right guard to GB 29 for 26 yards(42-M.Burnett).'>42.68</number><number>0.98</number>
+<number shadow='shadow1' tooltip='1:34 1-10-GB 29MIN 20 GB 7 LI: 0.632-T.Gerhart left tackle to GB 18 for 11 yards(55-A.Mulumba; 59-B.Jones).'>43.43</number><number>0.98</number>
+<number shadow='shadow1' tooltip='0:53 1-10-GB 18MIN 20 GB 7 LI: 0.428-A.Peterson left tackle to GB 17 for 1 yard(59-B.Jones).'>44.12</number><number>0.97</number>
+<number shadow='shadow1' tooltip='0:14 2-9-GB 17MIN 20 GB 7 LI: 0.328-A.Peterson right end to GB 16 for 1 yard(96-M.Neal).'>44.77</number><number>0.97</number>
+<number shadow='shadow1' tooltip='15:00 3-8-GB 16MIN 20 GB 7 LI: 0.3(Shotgun) 7-C.Ponder pass short right to 84-C.Patterson pushed ob at GB 11 for 5 yards(38-T.Williams).'>45</number><number>0.97</number>
+<number shadow='shadow1' tooltip='14:24 4-3-GB 11MIN 20 GB 7 LI: 0.23-B.Walsh 29 yard field goal is GOOD Center-46-C.Loeffler Holder-18-J.Locke.'>45.6</number><number>0.97</number>
+<number shadow='shadow1' tooltip='14:24 MIN 23 GB 7 LI: 3-B.Walsh kicks 65 yards from MIN 35 to GB 033-M.Hyde to GB 20 for 20 yards(54-G.Hodges).'>45.69</number><number>0.97</number>
+<number shadow='shadow1' tooltip='14:16 1-10-GB 20MIN 23 GB 7 LI: 0.1(Shotgun) 10-M.Flynn pass short middle to 27-E.Lacy to GB 30 for 10 yards(52-C.Greenway 35-M.Sherels).'>45.73</number><number>0.97</number>
+<number shadow='shadow1' tooltip='13:50 1-10-GB 30MIN 23 GB 7 LI: 0.1(No Huddle Shotgun) 10-M.Flynn pass incomplete deep right to 11-J.Boykin (29-X.Rhodes)MIN-29-X.Rhodes was injured during the play.'>46.17</number><number>0.97</number>
+<number shadow='shadow1' tooltip='13:45 2-10-GB 30MIN 23 GB 7 LI: 0.1(Shotgun) 10-M.Flynn pass incomplete deep right to 87-J.Nelson.'>46.25</number><number>0.97</number>
+<number shadow='shadow1' tooltip='13:41 2-5-GB 35MIN 23 GB 7 LI: 0.127-E.Lacy up the middle to GB 43 for 8 yards(57-A.Cole).'>46.32</number><number>0.96</number>
+<number shadow='shadow1' tooltip='13:14 1-10-GB 43MIN 23 GB 7 LI: 0.2(No Huddle Shotgun) 10-M.Flynn left end pushed ob at GB 46 for 3 yards(57-A.Cole).'>46.77</number><number>0.97</number>
+<number shadow='shadow1' tooltip='12:49 2-7-GB 46MIN 23 GB 7 LI: 0.1(No Huddle Shotgun) 10-M.Flynn pass short left to 27-E.Lacy pushed ob at 50 for 4 yards(52-C.Greenway).'>47.18</number><number>0.97</number>
+<number shadow='shadow1' tooltip='12:21 3-3-50MIN 23 GB 7 LI: 0.1(No Huddle Shotgun) 10-M.Flynn pass incomplete deep right to 89-J.Jones.'>47.65</number><number>0.94</number>
+<number shadow='shadow1' tooltip='12:15 1-10-MIN 15MIN 23 GB 7 LI: 0.5(Shotgun) 10-M.Flynn pass incomplete short middle to 86-B.Bostick.'>47.75</number><number>0.93</number>
+<number shadow='shadow1' tooltip='12:10 2-10-MIN 15MIN 23 GB 7 LI: 0.6(No Huddle Shotgun) 10-M.Flynn pass incomplete short middle to 86-B.Bostick.'>47.83</number><number>0.94</number>
+<number shadow='shadow1' tooltip='12:06 3-10-MIN 15MIN 23 GB 7 LI: 0.5(Shotgun) 10-M.Flynn right guard to MIN 6 for 9 yards(56-M.Mauti 33-J.Sanford).'>47.9</number><number>0.91</number>
+<number shadow='shadow1' tooltip='11:47 1-3-MIN 3MIN 23 GB 7 LI: 0.8(Shotgun) 27-E.Lacy up the middle for 3 yards TOUCHDOWN.'>48.22</number><number>0.91</number>
+<number shadow='shadow1' tooltip='11:47 MIN 23 GB 13 LI: 2-M.Crosby kicks 68 yards from GB 35 to MIN -384-C.Patterson to MIN 23 for 26 yards(82-R.Taylor).'>48.31</number><number>0.91</number>
+<number shadow='shadow1' tooltip='11:37 1-10-MIN 23MIN 23 GB 13 LI: 1.328-A.Peterson left end ran ob at MIN 28 for 5 yards(50-A.Hawk).'>48.38</number><number>0.91</number>
+<number shadow='shadow1' tooltip='11:06 2-5-MIN 28MIN 23 GB 13 LI: 1.2(Shotgun) 28-A.Peterson up the middle to MIN 45 for 17 yards(59-B.Jones).'>48.9</number><number>0.94</number>
+<number shadow='shadow1' tooltip='10:25 1-10-MIN 45MIN 23 GB 13 LI: 1.128-A.Peterson right end to MIN 48 for 3 yards(79-R.Pickett).'>49.58</number><number>0.95</number>
+<number shadow='shadow1' tooltip='9:40 2-7-MIN 48MIN 23 GB 13 LI: 1.27-C.Ponder pass incomplete deep left to 84-C.Patterson.'>50.33</number><number>0.94</number>
+<number shadow='shadow1' tooltip='9:33 3-7-MIN 48MIN 23 GB 13 LI: 1.1(Shotgun) 7-C.Ponder pass short right to 84-C.Patterson to MIN 45 for -3 yards(33-M.Hyde).'>50.45</number><number>0.92</number>
+<number shadow='shadow1' tooltip='8:50 4-10-MIN 45MIN 23 GB 13 LI: 0.918-J.Locke punts 39 yards to GB 16 Center-46-C.Loeffler33-M.Hyde to GB 24 for 8 yards(55-M.Mitchell).'>51.17</number><number>0.92</number>
+<number shadow='shadow1' tooltip='8:40 1-10-GB 24MIN 23 GB 13 LI: 0.5(Shotgun) 27-E.Lacy left end to GB 41 for 17 yards(36-R.Blanton 20-C.Cook).'>51.33</number><number>0.87</number>
+<number shadow='shadow1' tooltip='8:11 1-10-GB 41MIN 23 GB 13 LI: 1(No Huddle Shotgun) 10-M.Flynn pass short left to 11-J.Boykin to MIN 49 for 10 yards(20-C.Cook).'>51.82</number><number>0.84</number>
+<number shadow='shadow1' tooltip='7:44 1-10-MIN 49MIN 23 GB 13 LI: 1.2(No Huddle) 27-E.Lacy left end pushed ob at MIN 43 for 6 yards(20-C.Cook).'>52.27</number><number>0.87</number>
+<number shadow='shadow1' tooltip='7:19 2-4-MIN 43MIN 23 GB 13 LI: 0.9(No Huddle Shotgun) 10-M.Flynn pass short left to 11-J.Boykin to MIN 36 for 7 yards(20-C.Cook).'>52.68</number><number>0.83</number>
+<number shadow='shadow1' tooltip='6:47 1-10-MIN 36MIN 23 GB 13 LI: 1.4(No Huddle Shotgun) 10-M.Flynn pass incomplete short left.'>53.22</number><number>0.89</number>
+<number shadow='shadow1' tooltip='6:41 2-10-MIN 36MIN 23 GB 13 LI: 0.8(No Huddle Shotgun) 10-M.Flynn pass short right to 89-J.Jones to MIN 28 for 8 yards(29-X.Rhodes 57-A.Cole).'>53.32</number><number>0.87</number>
+<number shadow='shadow1' tooltip='6:02 3-2-MIN 28MIN 23 GB 13 LI: 0.8(No Huddle Shotgun) 10-M.Flynn pass short middle to 27-E.Lacy to MIN 27 for 1 yard(57-A.Cole).'>53.97</number><number>0.93</number>
+<number shadow='shadow1' tooltip='5:23 4-1-MIN 27MIN 23 GB 13 LI: 0.127-E.Lacy left end to MIN 23 for 4 yards(55-M.Mitchell).'>54.62</number><number>0.83</number>
+<number shadow='shadow1' tooltip='4:46 1-10-MIN 23MIN 23 GB 13 LI: 1.1(No Huddle Shotgun) 10-M.Flynn pass short right to 27-E.Lacy pushed ob at MIN 10 for 13 yards(57-A.Cole).'>55.23</number><number>0.84</number>
+<number shadow='shadow1' tooltip='4:39 1-10-MIN 10MIN 23 GB 13 LI: 1.127-E.Lacy right tackle to MIN 10 for no gain (36-R.Blanton 69-J.Allen)MIN-98-L.Guion was injured during the play.'>55.35</number><number>0.88</number>
+<number shadow='shadow1' tooltip='4:15 2-10-MIN 10MIN 23 GB 13 LI: 0.8(Shotgun) 10-M.Flynn pass short left to 27-E.Lacy to MIN 6 for 4 yards(57-A.Cole).'>55.75</number><number>0.9</number>
+<number shadow='shadow1' tooltip='3:33 3-6-MIN 6MIN 23 GB 13 LI: 0.9(Shotgun) 10-M.Flynn pass short right to 11-J.Boykin for 6 yards TOUCHDOWN.'>56.45</number><number>0.85</number>
+<number shadow='shadow1' tooltip='3:33 MIN 23 GB 13 LI: 2-M.Crosby extra point is GOOD Center-61-B.Goode Holder-8-T.Masthay.'>56.49</number><number>0.85</number>
+<number shadow='shadow1' tooltip='3:33 MIN 23 GB 20 LI: 2-M.Crosby kicks 62 yards from GB 35 to MIN 384-C.Patterson to MIN 21 for 18 yards(31-D.House 24-J.Bush).'>56.54</number><number>0.82</number>
+<number shadow='shadow1' tooltip='3:24 1-10-MIN 21MIN 23 GB 20 LI: 2.528-A.Peterson left end to MIN 23 for 2 yards(52-C.Matthews; 79-R.Pickett)GB-98-C.Wilson was injured during the play.'>56.6</number><number>0.82</number>
+<number shadow='shadow1' tooltip='2:53 2-8-MIN 23MIN 23 GB 20 LI: 2.67-C.Ponder left end to MIN 20 for -3 yards(59-B.Jones).'>57.12</number><number>0.74</number>
+<number shadow='shadow1' tooltip='2:44 3-11-MIN 20MIN 23 GB 20 LI: 1.9(Shotgun) 7-C.Ponder sacked at MIN 19 for -1 yards(96-M.Neal).'>57.27</number><number>0.68</number>
+<number shadow='shadow1' tooltip='2:37 4-12-MIN 19MIN 23 GB 20 LI: 1.418-J.Locke punts 50 yards to GB 31 Center-46-C.Loeffler33-M.Hyde to GB 31 for no gain (27-S.Prater).'>57.38</number><number>0.77</number>
+<number shadow='shadow1' tooltip='2:27 1-10-GB 31MIN 23 GB 20 LI: 2.1(Shotgun) 10-M.Flynn pass short right to 89-J.Jones to GB 40 for 9 yards(29-X.Rhodes).'>57.55</number><number>0.75</number>
+<number shadow='shadow1' tooltip='2:03 2-1-GB 40MIN 23 GB 20 LI: 1.9(No Huddle Shotgun) 10-M.Flynn pass short middle to 27-E.Lacy ran ob at MIN 44 for 16 yards(52-C.Greenway).'>57.95</number><number>0.62</number>
+<number shadow='shadow1' tooltip='1:55 1-10-MIN 44MIN 23 GB 20 LI: 2.9(Shotgun) 27-E.Lacy right tackle to MIN 40 for 4 yards(57-A.Cole 96-B.Robison).'>58.08</number><number>0.74</number>
+<number shadow='shadow1' tooltip='1:27 2-6-MIN 40MIN 23 GB 20 LI: 2.1(No Huddle Shotgun) 10-M.Flynn pass incomplete short right.'>58.55</number><number>0.8</number>
+<number shadow='shadow1' tooltip='1:22 3-6-MIN 40MIN 23 GB 20 LI: 1.6(Shotgun) 10-M.Flynn pass incomplete short left to 11-J.Boykin [96-B.Robison]The Replay Assistant challenged the fumble ruling and the play was Upheld.'>58.63</number><number>0.94</number>
+<number shadow='shadow1' tooltip='1:17 4-6-MIN 40MIN 23 GB 20 LI: 0.2(No Huddle) 10-M.Flynn pass deep left to 89-J.Jones to MIN 12 for 28 yards(35-M.Sherels) [57-A.Cole].'>58.72</number><number>0.42</number>
+<number shadow='shadow1' tooltip='1:10 1-10-MIN 12MIN 23 GB 20 LI: 5.327-E.Lacy left end to MIN 12 for no gain (93-K.Williams 96-B.Robison).'>58.83</number><number>0.28</number>
+<number shadow='shadow1' tooltip='1:03 2-10-MIN 12MIN 23 GB 20 LI: 6.8(Shotgun) 10-M.Flynn pass incomplete short left to 81-A.Quarless (98-L.Guion).'>58.95</number><number>0.4</number>
+<number shadow='shadow1' tooltip='0:57 3-10-MIN 12MIN 23 GB 20 LI: 5.7(Shotgun) 10-M.Flynn pass short right to 11-J.Boykin to MIN 9 for 3 yards(29-X.Rhodes).'>59.05</number><number>0.57</number>
+<number shadow='shadow1' tooltip='0:50 4-7-MIN 9MIN 23 GB 20 LI: 42-M.Crosby 27 yard field goal is GOOD Center-61-B.Goode Holder-8-T.Masthay.'>59.17</number><number>0.57</number>
+<number shadow='shadow1' tooltip='0:50 MIN 23 GB 23 LI: 2-M.Crosby kicks 52 yards from GB 35 to MIN 1332-T.Gerhart to MIN 30 for 17 yards(55-A.Mulumba 86-B.Bostick).'>59.26</number><number>0.57</number>
+<number shadow='shadow1' tooltip='0:41 1-10-MIN 30MIN 23 GB 23 LI: 5.1(Shotgun) 7-C.Ponder pass short middle to 89-J.Carlson to MIN 41 for 11 yards(33-M.Hyde).'>59.32</number><number>0.61</number>
+<number shadow='shadow1' tooltip='0:24 1-10-MIN 41MIN 23 GB 23 LI: 3.9(No Huddle Shotgun) 7-C.Ponder pass incomplete short right to 17-J.Wright.'>59.6</number><number>0.52</number>
+<number shadow='shadow1' tooltip='0:21 2-10-MIN 41MIN 23 GB 23 LI: 2.9(Shotgun) 7-C.Ponder up the middle to MIN 44 for 3 yards(95-D.Jones).'>59.65</number><number>0.54</number>
+<number shadow='shadow1' tooltip='0:14 3-7-MIN 44MIN 23 GB 23 LI: 2.4(Shotgun) 7-C.Ponder pass incomplete deep left to 81-J.Simpson.'>59.77</number><number>0.48</number>
+<number shadow='shadow1' tooltip='0:09 4-7-MIN 44MIN 23 GB 23 LI: 1.618-J.Locke punts 40 yards to GB 16 Center-46-C.Loeffler33-M.Hyde to GB 16 for no gain (27-S.Prater).'>59.85</number><number>0.49</number>
+<number shadow='shadow1' tooltip='0:02 1-10-GB 16MIN 23 GB 23 LI: 3.810-M.Flynn kneels to GB 15 for -1 yards.'>59.97</number><number>0.55</number>
+<number shadow='shadow1' tooltip='0:02 MIN 23 GB 23 LI: 3-B.Walsh kicks 65 yards from MIN 35 to GB 033-M.Hyde to GB 21 for 21 yards(33-J.Sanford; 54-G.Hodges).'>60.06</number><number>0.46</number>
+<number shadow='shadow1' tooltip='14:55 1-10-GB 21MIN 23 GB 23 LI: 310-M.Flynn pass incomplete short right.'>60.08</number><number>0.52</number>
+<number shadow='shadow1' tooltip='14:49 2-10-GB 21MIN 23 GB 23 LI: 2.427-E.Lacy right end to GB 22 for 1 yard(35-M.Sherels).'>60.18</number><number>0.55</number>
+<number shadow='shadow1' tooltip='14:10 3-9-GB 22MIN 23 GB 23 LI: 2(No Huddle Shotgun) 10-M.Flynn sacked at GB 20 for -2 yards(52-C.Greenway).'>60.83</number><number>0.45</number>
+<number shadow='shadow1' tooltip='13:53 1-10-GB 27MIN 23 GB 23 LI: 2.8(Shotgun) 10-M.Flynn pass incomplete short right to 11-J.Boykin (69-J.Allen).'>61.12</number><number>0.49</number>
+<number shadow='shadow1' tooltip='13:49 2-10-GB 27MIN 23 GB 23 LI: 2.4(Shotgun) 10-M.Flynn pass short middle to 87-J.Nelson to GB 42 for 15 yards(36-R.Blanton).'>61.18</number><number>0.4</number>
+<number shadow='shadow1' tooltip='13:13 1-10-GB 42MIN 23 GB 23 LI: 2.6(No Huddle Shotgun) PENALTY on GB-70-T.Lang False Start 5 yards enforced at GB 42 - No Play.'>61.78</number><number>0.42</number>
+<number shadow='shadow1' tooltip='12:54 1-15-GB 37MIN 23 GB 23 LI: 2.7(Shotgun) 10-M.Flynn pass short middle to 89-J.Jones to MIN 41 for 22 yards(33-J.Sanford).'>62.1</number><number>0.33</number>
+<number shadow='shadow1' tooltip='12:18 1-10-MIN 41MIN 23 GB 23 LI: 2.6(No Huddle Shotgun) 10-M.Flynn pass deep left to 11-J.Boykin pushed ob at MIN 7 for 34 yards(20-C.Cook).'>62.7</number><number>0.18</number>
+<number shadow='shadow1' tooltip='12:02 1-7-MIN 7MIN 23 GB 23 LI: 3.3(Shotgun) 27-E.Lacy left guard to MIN 3 for 4 yards(34-A.Sendejo 52-C.Greenway).'>62.97</number><number>0.06</number>
+<number shadow='shadow1' tooltip='11:17 2-3-MIN 3MIN 23 GB 23 LI: 4.427-E.Lacy right tackle to MIN 2 for 1 yard(69-J.Allen).'>63.72</number><number>0.09</number>
+<number shadow='shadow1' tooltip='10:32 3-2-MIN 2MIN 23 GB 23 LI: 4(Shotgun) 10-M.Flynn pass incomplete short right to 87-J.Nelson.'>64.47</number><number>0.22</number>
+<number shadow='shadow1' tooltip='10:28 4-2-MIN 2MIN 23 GB 23 LI: 2.72-M.Crosby 20 yard field goal is GOOD Center-61-B.Goode Holder-8-T.Masthay.'>64.53</number><number>0.23</number>
+<number shadow='shadow1' tooltip='10:28 MIN 23 GB 26 LI: 2-M.Crosby kicks 70 yards from GB 35 to MIN -584-C.Patterson to MIN 20 for 25 yards(86-B.Bostick).'>64.62</number><number>0.21</number>
+<number shadow='shadow1' tooltip='10:20 1-10-MIN 20MIN 23 GB 26 LI: 0.128-A.Peterson up the middle to MIN 23 for 3 yards(42-M.Burnett; 96-M.Neal).'>64.67</number><number>0.23</number>
+<number shadow='shadow1' tooltip='9:37 2-7-MIN 23MIN 23 GB 26 LI: 0.17-C.Ponder sacked at MIN 21 for -2 yards(76-M.Daniels).'>65.38</number><number>0.17</number>
+<number shadow='shadow1' tooltip='9:01 3-9-MIN 21MIN 23 GB 26 LI: 0.1(Shotgun) 28-A.Peterson left guard pushed ob at MIN 36 for 15 yards(43-M.Jennings).'>65.98</number><number>0.29</number>
+<number shadow='shadow1' tooltip='8:30 1-10-MIN 36MIN 23 GB 26 LI: 0.132-T.Gerhart left tackle to MIN 45 for 9 yards(42-M.Burnett; 38-T.Williams).'>66.5</number><number>0.37</number>
+<number shadow='shadow1' tooltip='7:54 2-1-MIN 45MIN 23 GB 26 LI: 0.17-C.Ponder pass incomplete short right to 81-J.Simpson.'>67.1</number><number>0.37</number>
+<number shadow='shadow1' tooltip='7:48 1-10-50MIN 23 GB 26 LI: 0.128-A.Peterson right guard to GB 46 for 4 yards(95-D.Jones 79-R.Pickett).'>67.2</number><number>0.43</number>
+<number shadow='shadow1' tooltip='7:13 2-6-GB 46MIN 23 GB 26 LI: 0.17-C.Ponder pass short right to 89-J.Carlson to GB 36 for 10 yards(59-B.Jones).'>67.78</number><number>0.5</number>
+<number shadow='shadow1' tooltip='6:33 1-10-GB 36MIN 23 GB 26 LI: 0.132-T.Gerhart up the middle to GB 24 for 12 yards(43-M.Jennings; 50-A.Hawk).'>68.45</number><number>0.61</number>
+<number shadow='shadow1' tooltip='5:53 1-10-GB 24MIN 23 GB 26 LI: 0.132-T.Gerhart left tackle to GB 13 for 11 yards(59-B.Jones; 42-M.Burnett).'>69.12</number><number>0.69</number>
+<number shadow='shadow1' tooltip='5:15 1-10-GB 13MIN 23 GB 26 LI: 0.132-T.Gerhart up the middle to GB 12 for 1 yard(59-B.Jones; 76-M.Daniels).'>69.75</number><number>0.71</number>
+<number shadow='shadow1' tooltip='4:42 2-9-GB 12MIN 23 GB 26 LI: 0.128-A.Peterson right end to GB 17 for -5 yards(96-M.Neal).'>70.3</number><number>0.33</number>
+<number shadow='shadow1' tooltip='3:59 3-14-GB 17MIN 23 GB 26 LI: 0.1(Shotgun) 7-C.Ponder pass incomplete deep middle to 84-C.Patterson (31-D.House).'>71.02</number><number>0.43</number>
+<number shadow='shadow1' tooltip='3:54 4-14-GB 17MIN 23 GB 26 LI: 0.13-B.Walsh 35 yard field goal is GOOD Center-46-C.Loeffler Holder-18-J.Locke.'>71.1</number><number>0.46</number>
+<number shadow='shadow1' tooltip='3:54 MIN 26 GB 26 LI: 3-B.Walsh kicks 65 yards from MIN 35 to end zone Touchback.'>71.19</number><number>0.53</number>
+<number shadow='shadow1' tooltip='3:44 2-10-GB 20MIN 26 GB 26 LI: 3.744-J.Starks right end pushed ob at GB 21 for 1 yard(52-C.Greenway).'>71.27</number><number>0.54</number>
+<number shadow='shadow1' tooltip='3:37 3-9-GB 21MIN 26 GB 26 LI: 3.3(Shotgun) 10-M.Flynn pass incomplete short middle to 44-J.Starks [57-A.Cole].'>71.38</number><number>0.63</number>
+<number shadow='shadow1' tooltip='3:33 4-9-GB 21MIN 26 GB 26 LI: 2.48-T.Masthay punts 40 yards to MIN 39 Center-61-B.Goode fair catch by 35-M.Sherels.'>71.45</number><number>0.63</number>
+<number shadow='shadow1' tooltip='3:26 1-10-MIN 39MIN 26 GB 26 LI: 428-A.Peterson right guard to MIN 42 for 3 yards(50-A.Hawk).'>71.57</number><number>0.65</number>
+<number shadow='shadow1' tooltip='2:50 2-7-MIN 42MIN 26 GB 26 LI: 4(Shotgun) 28-A.Peterson up the middle to MIN 44 for 2 yards(52-C.Matthews).'>72.17</number><number>0.62</number>
+<number shadow='shadow1' tooltip='2:11 3-5-MIN 44MIN 26 GB 26 LI: 3.6(Shotgun) 7-C.Ponder pass incomplete short left to 15-G.Jennings.'>72.82</number><number>0.52</number>
+<number shadow='shadow1' tooltip='2:07 4-5-MIN 44MIN 26 GB 26 LI: 2.618-J.Locke punts 46 yards to GB 10 Center-46-C.Loeffler fair catch by 33-M.Hyde.'>72.88</number><number>0.65</number>
+<number shadow='shadow1' tooltip='1:59 1-10-GB 10MIN 26 GB 26 LI: 2.9(Shotgun) 10-M.Flynn pass short middle to 81-A.Quarless to GB 23 for 13 yards(34-A.Sendejo).'>73.02</number><number>0.5</number>
+<number shadow='shadow1' tooltip='1:37 1-10-GB 23MIN 26 GB 26 LI: 3.6(No Huddle Shotgun) 10-M.Flynn pass short right to 89-J.Jones to GB 27 for 4 yards(35-M.Sherels).'>73.38</number><number>0.45</number>
+<number shadow='shadow1' tooltip='1:13 2-11-GB 22MIN 26 GB 26 LI: 3.5(No Huddle Shotgun) 10-M.Flynn right end to GB 35 for 13 yards(93-K.Williams).'>73.78</number><number>0.39</number>
+<number shadow='shadow1' tooltip='0:46 1-10-GB 35MIN 26 GB 26 LI: 4(No Huddle Shotgun) PENALTY on GB-62-E.Dietrich-Smith False Start 5 yards enforced at GB 35 - No Play.'>74.23</number><number>0.43</number>
+<number shadow='shadow1' tooltip='0:32 1-15-GB 30MIN 26 GB 26 LI: 3.9(No Huddle Shotgun) 10-M.Flynn pass incomplete short right to 81-A.Quarless.'>74.47</number><number>0.53</number>
+<number shadow='shadow1' tooltip='0:24 1-25-GB 20MIN 26 GB 26 LI: 3.5(No Huddle Shotgun) 10-M.Flynn pass incomplete short right to 30-J.Kuhn.'>74.6</number><number>0.58</number>
+<number shadow='shadow1' tooltip='0:19 2-25-GB 20MIN 26 GB 26 LI: 3(No Huddle Shotgun) 10-M.Flynn pass short left to 87-J.Nelson pushed ob at GB 27 for 7 yards(34-A.Sendejo).'>74.68</number><number>0.55</number>
+<number shadow='shadow1' tooltip='0:13 3-18-GB 27MIN 26 GB 26 LI: 2.8(Shotgun) 10-M.Flynn pass incomplete short right to 87-J.Nelson.'>74.78</number><number>0.59</number>
+<number shadow='shadow1' tooltip='0:07 4-18-GB 27MIN 26 GB 26 LI: 2.48-T.Masthay punts 39 yards to MIN 34 Center-61-B.Goode fair catch by 35-M.Sherels.'>74.88</number><number>0.6</number>
+<number shadow='shadow1' tooltip='0:01 1-10-MIN 34MIN 26 GB 26 LI: 4(Shotgun) 7-C.Ponder pass short left to 84-C.Patterson to GB 45 for 21 yards(24-J.Bush).'>74.98</number><number>0.5</number>
+<number>74.98</number><number>0.5</number>
+</row> </chart_data>
+       <draw>
+
+
+
+      <image x='45' y='298'  url='nfllogos/42x50png/MIN.gif'  layer='foreground' glow = 'glow1'/>
+      <image x='45' y='350'  url='nfllogos/42x50png/GB.gif'     layer='foreground' glow = 'glow1'/>
+
+
+      <rect x='130' y='300' width='250' height='40' fill_color='262456' bevel='bevel1' />
+      <text x='135' y='300' width='250' height='40' h_align='left' v_align='middle' color='ffffff' shadow='shadow2' glow=''>Minnesota Vikings</text>
+
+      <rect x='130' y='350' width='250' height='40' fill_color='00422f' bevel='bevel1'  />
+      <text x='135' y='350' width='250' height='40' h_align='left' v_align='middle' color='ffffff' shadow='shadow2' glow='winnerglow'>Green Bay Packers</text>
+
+      <rect x='420' y='300' width='60' height='40' fill_color='262456' bevel='bevel1'  />
+      <text x='420' y='300' width='60' height='40' h_align='center' v_align='middle' color='ffffff' shadow='shadow2' transition='none' glow=''>26</text>
+
+      <rect x='420' y='350' width='60' height='40' fill_color='00422f' bevel='bevel1' />
+      <text x='420' y='350' width='60' height='40' h_align='center' v_align='middle' color='ffffff' shadow='shadow2' transition='none' glow='winnerglow'>26</text>
+
+      <text x='-3' y='12'  width='60' height='40' h_align='center' v_align='middle' size='13' shadow='shadow2'>MINWin </text>
+      <text x='-3' y='218' width='60' height='40' h_align='center' v_align='middle' size='13' shadow='shadow2'>GBWin </text>
+
+     
+              <rect x='540' y='300' width='100' height='35' fill_color='000000' fill_alpha='50'/>
+              <text x='540' y='300' width='100' height='35' h_align='center' v_align='middle' color='ffffff' size='15' shadow='shadow2' >Final</text>
+
+              <text x='540' y='340' width='40' h_align='center' color='000000' size='12' shadow='shadow2'>CBF</text>
+              <text x='600' y='340' width='40' h_align='center' color='000000' size='12' shadow='shadow2'>EI</text>
+
+              <rect x='540' y='360' width='40' height='30' fill_color='000000' fill_alpha='50' />
+              <text x='540' y='360' width='40' height='30' size='12' h_align='center' v_align='middle' color='FFFFFF' shadow='shadow2'>50</text>
+
+              <rect x='600' y='360' width='40' height='30' fill_color='000000' fill_alpha='50' />
+              <text x='600' y='360' width='40' height='30' size='12' h_align='center' v_align='middle' color='FFFFFF' shadow='shadow2'>8.0</text>
+
+              <text x='20' y='420' width='70' height='25' size='12' h_align='left' v_align='middle' color='000000' >11/24/2013</text>
+              <text x='100' y='420' width='200' height='25' size='12' h_align='left' v_align='middle' color='000000' >Lambeau Field</text>
+
+   </draw></chart>

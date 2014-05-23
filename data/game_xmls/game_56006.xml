@@ -1,0 +1,307 @@
+
+<chart>
+   <license>ETAS9P33ESHO.945CWK-2XOI1X0-7L</license>
+   <chart_type>scatter</chart_type>
+   <chart_pref trend_thickness='0' line_thickness='3' point_size='0'/>
+
+   <series_color>
+      <color>ffff00</color>
+   </series_color>
+
+   <chart_rect x='45' y='20' width='630' height='230' positive_color='cacaca'  />
+
+  <chart_border top_thickness='0'
+                 bottom_thickness='0'
+                 left_thickness='0'
+                 right_thickness='0'
+                 color='000000'
+                 />
+
+   <tooltip font='Arial' bold='true' size='11' />
+
+   <chart_note type='flag'
+               color='000000'
+               alpha='90'
+               bold='FALSE'
+               size='10'
+               background_color='ffffe0'
+               background_alpha='50'
+               shadow='shadow2'
+               />
+
+   <chart_grid_h thickness='2' color='ffffff' type='dashed'  />
+   <chart_grid_v thickness='2' color='ffffff'   />
+		>
+
+   <legend layout='hide' />
+
+   <chart_guide horizontal='TRUE'
+             vertical='TRUE'
+             thickness='1'
+             color='006400'
+             alpha='100'
+             type='solid'
+             snap_h='TRUE'
+             snap_v='TRUE'
+             radius='3'
+             fill_color='006400'
+             fill_alpha='100'
+             line_color='006400'
+             line_alpha='80'
+             line_thickness='1'
+             text_h_alpha='50'
+             text_v_alpha='00'
+             suffix_h=' WP'
+             decimals='2'
+             bold='FALSE'
+             size='11'
+             text_color='FFFFFF'
+             background_color='006400'
+             />
+   <filter>
+      <shadow id='shadow1' distance='2' angle='60' blurX='5' blurY='5' alpha='50' />
+      <bevel id='bevel1' angle='45' blurX='5' blurY='5' distance='0' />
+      <glow id='glow1' color='ffffff' alpha='0' blurX='7' blurY='7' strength='6' quality='2' inner='FALSE' knockout='FALSE' />
+      <glow id='winnerglow' color='ffffff' alpha='0' blurX='7' blurY='7' strength='5' quality='2' inner='FALSE' knockout='FALSE' />
+   </filter>
+
+    <axis_value_label>
+         <string></string>
+          <string> </string>
+          <null/>
+          <string> </string>
+          <string></string>
+
+       </axis_value_label>
+		
+	   <axis_ticks category_ticks='false'/>
+
+       <axis_value min='0' max='1' steps='4'  decimals='2' show_min='true' size='13' shadow='shadow2' />     
+            <axis_category
+               min='0'
+               max='60'
+               steps='4'
+               mode='all'
+               decimals='0'
+               size='13'
+               shadow='shadow2'
+               />
+
+       <axis_category_label>
+          <string>Kickoff</string>
+          <string></string>
+          <string>Halftime</string>
+          <string></string>
+          <string>End</string>
+
+       </axis_category_label>
+
+
+        <chart_data>
+       <row>
+	      <null/><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number>
+              <number>x</number><number>y</number>
+              </row><row><string></string>
+
+                     <number shadow='shadow1'>0</number><number>.5</number><number shadow='shadow1' tooltip='15:00 CAR 0 MIA 0 LI: 9-G.Gano kicks 65 yards from CAR 35 to end zone Touchback.'>0.09</number><number>0.48</number>
+<number shadow='shadow1' tooltip='14:28 2-12-MIA 18CAR 0 MIA 0 LI: 1.4(Shotgun) 17-R.Tannehill pass short middle to 82-B.Hartline to MIA 25 for 7 yards(41-C.Munnerlyn).'>0.53</number><number>0.5</number>
+<number shadow='shadow1' tooltip='13:50 3-5-MIA 25CAR 0 MIA 0 LI: 1.3(Shotgun) 17-R.Tannehill pass deep middle intended for 18-R.Matthews INTERCEPTED by 22-J.Thomas (58-T.Davis) at MIA 4322-J.Thomas to MIA 43 for no gain (18-R.Matthews).'>1.17</number><number>0.58</number>
+<number shadow='shadow1' tooltip='13:38 1-10-MIA 43CAR 0 MIA 0 LI: 1.31-C.Newton pass short left to 89-S.Smith to MIA 30 for 13 yards(21-B.Grimes).'>1.37</number><number>0.62</number>
+<number shadow='shadow1' tooltip='12:55 1-10-MIA 30CAR 0 MIA 0 LI: 1.6(Shotgun) 34-De.Williams left end to MIA 22 for 8 yards(52-P.Wheeler).'>2.08</number><number>0.63</number>
+<number shadow='shadow1' tooltip='12:26 2-2-MIA 22CAR 0 MIA 0 LI: 1.534-De.Williams up the middle to MIA 20 for 2 yards(59-D.Ellerbe).'>2.57</number><number>0.64</number>
+<number shadow='shadow1' tooltip='11:40 1-10-MIA 20CAR 0 MIA 0 LI: 1.6(Shotgun) 1-C.Newton pass incomplete short right to 89-S.Smith.'>3.33</number><number>0.63</number>
+<number shadow='shadow1' tooltip='11:37 2-10-MIA 20CAR 0 MIA 0 LI: 1.5(Shotgun) 35-M.Tolbert right guard to MIA 17 for 3 yards(52-P.Wheeler).'>3.38</number><number>0.61</number>
+<number shadow='shadow1' tooltip='10:57 3-7-MIA 17CAR 0 MIA 0 LI: 1.2(Shotgun) 1-C.Newton pass incomplete deep right to 11-B.LaFell [91-C.Wake].'>4.05</number><number>0.57</number>
+<number shadow='shadow1' tooltip='10:52 4-7-MIA 17CAR 0 MIA 0 LI: 0.8(Field Goal formation) 9-G.Gano 35 yard field goal is BLOCKED Center-44-J.Jansen Holder-8-B.Nortman ball out of bounds at MIA 31Kick was deflected off Panthers lineman helmet'>4.13</number><number>0.46</number>
+<number shadow='shadow1' tooltip='10:45 1-10-MIA 31CAR 0 MIA 0 LI: 1.5(Shotgun) 17-R.Tannehill pass incomplete short right to 34-M.Thigpen.'>4.25</number><number>0.49</number>
+<number shadow='shadow1' tooltip='10:42 2-10-MIA 31CAR 0 MIA 0 LI: 1.226-L.Miller left tackle to MIA 31 for no gain (76-G.Hardy).'>4.3</number><number>0.51</number>
+<number shadow='shadow1' tooltip='10:02 3-10-MIA 31CAR 0 MIA 0 LI: 1(Shotgun) 17-R.Tannehill sacked at MIA 19 for -12 yards(97-M.Addison).'>4.97</number><number>0.55</number>
+<number shadow='shadow1' tooltip='9:29 4-22-MIA 19CAR 0 MIA 0 LI: 0.9(Punt formation) 2-B.Fields punts 64 yards to CAR 17 Center-92-J.Denney19-T.Ginn to MIA 42 for 41 yards(2-B.Fields).'>5.52</number><number>0.59</number>
+<number shadow='shadow1' tooltip='9:13 1-10-MIA 42CAR 0 MIA 0 LI: 1.41-C.Newton pass short left to 34-De.Williams to MIA 29 for 13 yards(59-D.Ellerbe).'>5.78</number><number>0.62</number>
+<number shadow='shadow1' tooltip='8:35 1-10-MIA 29CAR 0 MIA 0 LI: 1.5(Shotgun) 34-De.Williams left guard to MIA 27 for 2 yards(98-J.Odrick).'>6.42</number><number>0.62</number>
+<number shadow='shadow1' tooltip='7:53 2-8-MIA 27CAR 0 MIA 0 LI: 1.5(Shotgun) 1-C.Newton sacked at MIA 34 for -7 yards(50-O.Vernon).'>7.12</number><number>0.55</number>
+<number shadow='shadow1' tooltip='7:11 3-15-MIA 34CAR 0 MIA 0 LI: 0.9(Shotgun) 1-C.Newton pass incomplete short left to 88-G.Olsen.'>7.82</number><number>0.52</number>
+<number shadow='shadow1' tooltip='7:02 4-15-MIA 34CAR 0 MIA 0 LI: 0.6(Field Goal formation) 9-G.Gano 52 yard field goal is GOOD Center-44-J.Jansen Holder-8-B.Nortman.'>7.97</number><number>0.58</number>
+<number shadow='shadow1' tooltip='7:02 CAR 3 MIA 0 LI: 9-G.Gano kicks 67 yards from CAR 35 to MIA -234-M.Thigpen to MIA 23 for 25 yards(38-R.Lester).'>8.06</number><number>0.59</number>
+<number shadow='shadow1' tooltip='6:36 1-10-MIA 44CAR 3 MIA 0 LI: 1.333-D.Thomas left guard to MIA 47 for 3 yards(91-C.Cole).'>8.4</number><number>0.54</number>
+<number shadow='shadow1' tooltip='5:54 2-7-MIA 47CAR 3 MIA 0 LI: 1.317-R.Tannehill pass deep right to 11-M.Wallace for 53 yards TOUCHDOWN.'>9.1</number><number>0.39</number>
+<number shadow='shadow1' tooltip='5:54 CAR 3 MIA 0 LI: 9-C.Sturgis extra point is GOOD Center-92-J.Denney Holder-2-B.Fields.'>9.14</number><number>0.39</number>
+<number shadow='shadow1' tooltip='5:54 CAR 3 MIA 7 LI: 9-C.Sturgis kicks 65 yards from MIA 35 to end zone Touchback.'>9.19</number><number>0.37</number>
+<number shadow='shadow1' tooltip='5:39 1-10-CAR 20CAR 3 MIA 7 LI: 1.4(Shotgun) 1-C.Newton pass short left to 88-G.Olsen to CAR 24 for 4 yards(55-K.Misi).'>9.35</number><number>0.38</number>
+<number shadow='shadow1' tooltip='5:02 2-6-CAR 24CAR 3 MIA 7 LI: 1.4(Shotgun) 28-J.Stewart right guard to CAR 27 for 3 yards(79-D.Shelby).'>9.97</number><number>0.38</number>
+<number shadow='shadow1' tooltip='4:20 3-3-CAR 27CAR 3 MIA 7 LI: 1.3(Shotgun) 1-C.Newton pass incomplete deep middle to 19-T.Ginn (52-P.Wheeler).'>10.67</number><number>0.34</number>
+<number shadow='shadow1' tooltip='4:15 4-3-CAR 27CAR 3 MIA 7 LI: 0.9(Punt formation) 8-B.Nortman punts 52 yards to MIA 21 Center-44-J.Jansen34-M.Thigpen to MIA 41 for 20 yards(97-M.Addison).'>10.75</number><number>0.3</number>
+<number shadow='shadow1' tooltip='4:02 1-10-CAR 49CAR 3 MIA 7 LI: 1.3(Shotgun) 17-R.Tannehill right guard to CAR 44 for 5 yards(59-L.Kuechly).'>10.97</number><number>0.29</number>
+<number shadow='shadow1' tooltip='3:20 2-5-CAR 44CAR 3 MIA 7 LI: 1.333-D.Thomas up the middle to CAR 43 for 1 yard(90-F.Alexander).'>11.67</number><number>0.31</number>
+<number shadow='shadow1' tooltip='2:54 3-4-CAR 43CAR 3 MIA 7 LI: 1.1(Shotgun) 17-R.Tannehill pass incomplete short left to 18-R.Matthews.'>12.1</number><number>0.36</number>
+<number shadow='shadow1' tooltip='2:51 4-4-CAR 43CAR 3 MIA 7 LI: 0.6(Punt formation) 2-B.Fields punts 35 yards to CAR 8 Center-92-J.Denney fair catch by 19-T.Ginn.'>12.15</number><number>0.35</number>
+<number shadow='shadow1' tooltip='2:43 1-10-CAR 8CAR 3 MIA 7 LI: 1.41-C.Newton pass short left to 89-S.Smith to CAR 20 for 12 yards(52-P.Wheeler).'>12.28</number><number>0.37</number>
+<number shadow='shadow1' tooltip='2:00 1-10-CAR 20CAR 3 MIA 7 LI: 1.328-J.Stewart right tackle to CAR 23 for 3 yards(52-P.Wheeler).'>13</number><number>0.38</number>
+<number shadow='shadow1' tooltip='1:27 2-7-CAR 23CAR 3 MIA 7 LI: 1.3(Shotgun) 1-C.Newton pass short right to 19-T.Ginn pushed ob at CAR 29 for 6 yards(59-D.Ellerbe).'>13.55</number><number>0.39</number>
+<number shadow='shadow1' tooltip='0:45 3-1-CAR 29CAR 3 MIA 7 LI: 1.31-C.Newton scrambles left end to CAR 30 for 1 yard(50-O.Vernon)Miami challenged the first down ruling and the play was REVERSED1-C.Newton scrambles left end to CAR 29 for no gain (50-O.Vernon).'>14.25</number><number>0.34</number>
+<number shadow='shadow1' tooltip='15:00 4-1-CAR 29CAR 3 MIA 7 LI: 0.8(Punt formation) 8-B.Nortman punts 52 yards to MIA 19 Center-44-J.Jansen34-M.Thigpen to MIA 21 for 2 yards(22-J.Thomas).'>15</number><number>0.36</number>
+<number shadow='shadow1' tooltip='14:48 1-10-MIA 21CAR 3 MIA 7 LI: 1.417-R.Tannehill pass deep right to 11-M.Wallace to CAR 22 for 57 yards(41-C.Munnerlyn)MIA-11-M.Wallace was injured during the playHis return is Probable Carolina challenged the pass completion ruling and the play was Upheld(Timeout #3.)'>15.2</number><number>0.25</number>
+<number shadow='shadow1' tooltip='13:54 1-10-CAR 22CAR 3 MIA 7 LI: 1.2(Shotgun) 26-L.Miller right guard to CAR 18 for 4 yards(41-C.Munnerlyn).'>16.1</number><number>0.24</number>
+<number shadow='shadow1' tooltip='13:17 2-6-CAR 18CAR 3 MIA 7 LI: 1.2(Shotgun) 17-R.Tannehill pass incomplete short left to 18-R.Matthews.'>16.72</number><number>0.26</number>
+<number shadow='shadow1' tooltip='13:13 3-6-CAR 18CAR 3 MIA 7 LI: 1(Shotgun) 17-R.Tannehill pass short right to 34-M.Thigpen to CAR 14 for 4 yards(58-T.Davis).'>16.78</number><number>0.29</number>
+<number shadow='shadow1' tooltip='12:37 4-2-CAR 14CAR 3 MIA 7 LI: 0.6(Field Goal formation) 9-C.Sturgis 32 yard field goal is GOOD Center-92-J.Denney Holder-2-B.Fields.'>17.38</number><number>0.29</number>
+<number shadow='shadow1' tooltip='12:37 CAR 3 MIA 10 LI: 9-C.Sturgis kicks 74 yards from MIA 35 to CAR -919-T.Ginn MUFFS catch and recovers at CAR -5Touchback.'>17.47</number><number>0.28</number>
+<number shadow='shadow1' tooltip='11:52 2-18-CAR 12CAR 3 MIA 10 LI: 1.1(Shotgun) 1-C.Newton pass incomplete short right to 89-S.Smith.'>18.13</number><number>0.22</number>
+<number shadow='shadow1' tooltip='11:49 3-18-CAR 12CAR 3 MIA 10 LI: 0.9(Shotgun) 1-C.Newton pass short right to 35-M.Tolbert to CAR 17 for 5 yards(52-P.Wheeler).'>18.18</number><number>0.22</number>
+<number shadow='shadow1' tooltip='11:09 4-13-CAR 17CAR 3 MIA 10 LI: 0.8(Punt formation) 8-B.Nortman punts 72 yards to MIA 11 Center-44-J.Jansen34-M.Thigpen to MIA 20 for 9 yards(54-J.Williams).'>18.85</number><number>0.29</number>
+<number shadow='shadow1' tooltip='10:56 1-10-MIA 10CAR 3 MIA 10 LI: 1.5(Shotgun) PENALTY on MIA-74-J.Jerry False Start 5 yards enforced at MIA 10 - No Play.'>19.07</number><number>0.29</number>
+<number shadow='shadow1' tooltip='10:26 2-14-MIA 6CAR 3 MIA 10 LI: 1.5(Shotgun) 17-R.Tannehill pass short right to 42-C.Clay to MIA 16 for 10 yards(41-C.Munnerlyn).'>19.57</number><number>0.28</number>
+<number shadow='shadow1' tooltip='9:46 3-4-MIA 16CAR 3 MIA 10 LI: 0.9(Shotgun) 17-R.Tannehill pass short left to 26-L.Miller to MIA 34 for 18 yards(76-G.Hardy).'>20.23</number><number>0.24</number>
+<number shadow='shadow1' tooltip='9:10 1-10-MIA 34CAR 3 MIA 10 LI: 1(No Huddle) 26-L.Miller right guard to MIA 35 for 1 yard(92-D.Edwards).'>20.83</number><number>0.24</number>
+<number shadow='shadow1' tooltip='8:33 2-9-MIA 35CAR 3 MIA 10 LI: 1(Shotgun) 17-R.Tannehill pass short right to 14-Ma.Moore to MIA 44 for 9 yards(58-T.Davis).'>21.45</number><number>0.22</number>
+<number shadow='shadow1' tooltip='7:54 1-10-MIA 44CAR 3 MIA 10 LI: 1(No Huddle Shotgun) 26-L.Miller right tackle to MIA 47 for 3 yards(99-K.Short).'>22.1</number><number>0.22</number>
+<number shadow='shadow1' tooltip='7:19 2-7-MIA 47CAR 3 MIA 10 LI: 1(No Huddle Shotgun) PENALTY on CAR-41-C.Munnerlyn Defensive Offside 5 yards enforced at MIA 47 - No PlayPenalty on CAR-96-W.Horton Defensive Offside declined.'>22.68</number><number>0.21</number>
+<number shadow='shadow1' tooltip='7:03 2-2-CAR 48CAR 3 MIA 10 LI: 117-R.Tannehill pass short left to 18-R.Matthews to MIA 48 for -4 yards(41-C.Munnerlyn).'>22.95</number><number>0.23</number>
+<number shadow='shadow1' tooltip='6:27 3-6-MIA 48CAR 3 MIA 10 LI: 0.9(Shotgun) 17-R.Tannehill pass incomplete deep right to 11-M.Wallace (38-R.Lester)CAR-38-R.Lester was injured during the playHis return is Questionable.'>23.55</number><number>0.27</number>
+<number shadow='shadow1' tooltip='6:08 4-6-MIA 48CAR 3 MIA 10 LI: 0.5(Punt formation) 2-B.Fields punts 46 yards to CAR 6 Center-92-J.Denney fair catch by 19-T.Ginn.'>23.87</number><number>0.26</number>
+<number shadow='shadow1' tooltip='6:01 1-10-CAR 6CAR 3 MIA 10 LI: 1.328-J.Stewart left guard to CAR 4 for -2 yards(98-J.Odrick).'>23.98</number><number>0.23</number>
+<number shadow='shadow1' tooltip='5:17 2-12-CAR 4CAR 3 MIA 10 LI: 128-J.Stewart left tackle to CAR 6 for 2 yards(96-P.Soliai).'>24.72</number><number>0.22</number>
+<number shadow='shadow1' tooltip='4:46 3-10-CAR 6CAR 3 MIA 10 LI: 0.9(Shotgun) 1-C.Newton pass incomplete short right to 19-T.Ginn (52-P.Wheeler).'>25.23</number><number>0.2</number>
+<number shadow='shadow1' tooltip='4:37 4-10-CAR 6CAR 3 MIA 10 LI: 0.7(Punt formation) 8-B.Nortman punts 58 yards to MIA 36 Center-44-J.Jansen34-M.Thigpen to MIA 43 for 7 yards(35-M.Tolbert).'>25.38</number><number>0.22</number>
+<number shadow='shadow1' tooltip='4:23 1-10-MIA 43CAR 3 MIA 10 LI: 1.1(Shotgun) 17-R.Tannehill pass deep middle to 82-B.Hartline to CAR 36 for 21 yards(59-L.Kuechly).'>25.62</number><number>0.18</number>
+<number shadow='shadow1' tooltip='3:37 1-10-CAR 36CAR 3 MIA 10 LI: 1.1(Shotgun) 26-L.Miller left end to CAR 34 for 2 yards(23-M.White).'>26.38</number><number>0.19</number>
+<number shadow='shadow1' tooltip='3:00 2-8-CAR 34CAR 3 MIA 10 LI: 117-R.Tannehill pass short right to 84-M.Egnew to CAR 29 for 5 yards(56-A.Klein).'>27</number><number>0.19</number>
+<number shadow='shadow1' tooltip='2:27 3-3-CAR 29CAR 3 MIA 10 LI: 0.9(Shotgun) 17-R.Tannehill pass incomplete deep middle to 42-C.Clay.'>27.55</number><number>0.23</number>
+<number shadow='shadow1' tooltip='2:18 4-3-CAR 29CAR 3 MIA 10 LI: 0.5(Field Goal formation) 9-C.Sturgis 47 yard field goal is GOOD Center-92-J.Denney Holder-2-B.Fields.'>27.7</number><number>0.2</number>
+<number shadow='shadow1' tooltip='2:18 CAR 3 MIA 13 LI: 9-C.Sturgis kicks 65 yards from MIA 35 to end zone Touchback.'>27.79</number><number>0.19</number>
+<number shadow='shadow1' tooltip='2:01 1-10-CAR 11CAR 3 MIA 13 LI: 0.733-D.Thomas right guard to CAR 7 for 4 yards(76-G.Hardy).'>27.98</number><number>0.09</number>
+<number shadow='shadow1' tooltip='1:53 2-6-CAR 7CAR 3 MIA 13 LI: 0.8(Shotgun) 17-R.Tannehill pass short right to 33-D.Thomas to CAR 5 for 2 yards(90-F.Alexander).'>28.12</number><number>0.1</number>
+<number shadow='shadow1' tooltip='1:08 3-4-CAR 5CAR 3 MIA 13 LI: 0.7(Shotgun) 17-R.Tannehill pass incomplete short middle to 18-R.Matthews (59-L.Kuechly).'>28.87</number><number>0.12</number>
+<number shadow='shadow1' tooltip='1:04 4-4-CAR 5CAR 3 MIA 13 LI: 0.5(Field Goal formation) 9-C.Sturgis 23 yard field goal is GOOD Center-92-J.Denney Holder-2-B.Fields.'>28.93</number><number>0.13</number>
+<number shadow='shadow1' tooltip='1:04 CAR 3 MIA 16 LI: 9-C.Sturgis kicks 65 yards from MIA 35 to end zone Touchback.'>29.02</number><number>0.12</number>
+<number shadow='shadow1' tooltip='0:38 2-7-CAR 23CAR 3 MIA 16 LI: 0.7(No Huddle Shotgun) 1-C.Newton pass incomplete short right to 19-T.Ginn (28-N.Carroll).'>29.37</number><number>0.11</number>
+<number shadow='shadow1' tooltip='0:34 3-7-CAR 23CAR 3 MIA 16 LI: 0.6(Shotgun) 28-J.Stewart up the middle to CAR 33 for 10 yards(20-R.Jones).'>29.43</number><number>0.14</number>
+<number shadow='shadow1' tooltip='0:17 1-10-CAR 33CAR 3 MIA 16 LI: 0.8(No Huddle) 1-C.Newton spiked the ball to stop the clock.'>29.72</number><number>0.13</number>
+<number shadow='shadow1' tooltip='0:12 3-3-CAR 40CAR 3 MIA 16 LI: 0.6(Shotgun) 1-C.Newton pass short right to 88-G.Olsen ran ob at CAR 48 for 8 yards.'>29.8</number><number>0.15</number>
+<number shadow='shadow1' tooltip='0:08 1-10-CAR 48CAR 3 MIA 16 LI: 0.6(Shotgun) PENALTY on CAR-19-T.Ginn False Start 5 yards enforced at CAR 48 - No Play.'>29.87</number><number>0.15</number>
+<number shadow='shadow1' tooltip='0:01 1-10-MIA 28CAR 3 MIA 16 LI: 0.9(Field Goal formation) 9-G.Gano 46 yard field goal is GOOD Center-44-J.Jansen Holder-8-B.Nortman.'>29.98</number><number>0.16</number>
+<number shadow='shadow1' tooltip='0:01 CAR 6 MIA 16 LI: 9-C.Sturgis kicks 65 yards from MIA 35 to CAR 019-T.Ginn to CAR 17 for 17 yards(37-D.Campbell).'>30.07</number><number>0.18</number>
+<number shadow='shadow1' tooltip='14:55 1-10-CAR 17CAR 6 MIA 16 LI: 1.11-C.Newton pass incomplete short left to 88-G.Olsen (55-K.Misi).'>30.08</number><number>0.18</number>
+<number shadow='shadow1' tooltip='14:45 2-10-CAR 17CAR 6 MIA 16 LI: 1.11-C.Newton pass short left to 34-De.Williams to CAR 20 for 3 yards(52-P.Wheeler).'>30.25</number><number>0.17</number>
+<number shadow='shadow1' tooltip='14:17 3-7-CAR 20CAR 6 MIA 16 LI: 1(Shotgun) 1-C.Newton pass short middle to 89-S.Smith to CAR 32 for 12 yards(21-B.Grimes).'>30.72</number><number>0.21</number>
+<number shadow='shadow1' tooltip='13:55 1-10-CAR 32CAR 6 MIA 16 LI: 1.1(No Huddle Shotgun) 1-C.Newton pass incomplete deep right to 19-T.Ginn.'>31.08</number><number>0.2</number>
+<number shadow='shadow1' tooltip='13:43 2-10-CAR 32CAR 6 MIA 16 LI: 1PENALTY on CAR-11-B.LaFell False Start 5 yards enforced at CAR 32 - No Play.'>31.28</number><number>0.18</number>
+<number shadow='shadow1' tooltip='13:39 2-15-CAR 27CAR 6 MIA 16 LI: 0.91-C.Newton scrambles right end pushed ob at CAR 41 for 14 yards(59-D.Ellerbe).'>31.35</number><number>0.21</number>
+<number shadow='shadow1' tooltip='13:07 3-1-CAR 41CAR 6 MIA 16 LI: 135-M.Tolbert right tackle to CAR 41 for no gain (52-P.Wheeler).'>31.88</number><number>0.17</number>
+<number shadow='shadow1' tooltip='12:09 4-1-CAR 41CAR 6 MIA 16 LI: 0.6(Shotgun) 1-C.Newton left tackle to CAR 49 for 8 yards(20-R.Jones).'>32.85</number><number>0.23</number>
+<number shadow='shadow1' tooltip='11:32 1-10-CAR 49CAR 6 MIA 16 LI: 1.11-C.Newton pass short middle to 88-G.Olsen to MIA 39 for 12 yards(52-P.Wheeler; 30-C.Clemons).'>33.47</number><number>0.25</number>
+<number shadow='shadow1' tooltip='10:55 1-10-MIA 39CAR 6 MIA 16 LI: 1.1(No Huddle) 34-De.Williams left tackle to MIA 36 for 3 yards(52-P.Wheeler).'>34.08</number><number>0.24</number>
+<number shadow='shadow1' tooltip='10:23 2-7-MIA 36CAR 6 MIA 16 LI: 0.9(No Huddle) 1-C.Newton scrambles right end ran ob at MIA 28 for 8 yards(55-K.Misi).'>34.62</number><number>0.27</number>
+<number shadow='shadow1' tooltip='9:45 1-10-MIA 28CAR 6 MIA 16 LI: 1.1(Shotgun) 28-J.Stewart left end to MIA 16 for 12 yards(21-B.Grimes).'>35.25</number><number>0.29</number>
+<number shadow='shadow1' tooltip='9:23 1-10-MIA 16CAR 6 MIA 16 LI: 1.1(No Huddle Shotgun) 34-De.Williams right end to MIA 7 for 9 yards(59-D.Ellerbe).'>35.62</number><number>0.33</number>
+<number shadow='shadow1' tooltip='8:55 2-1-MIA 7CAR 6 MIA 16 LI: 1.4(No Huddle Shotgun) 34-De.Williams right guard to MIA 5 for 2 yards(30-C.Clemons).'>36.08</number><number>0.32</number>
+<number shadow='shadow1' tooltip='8:19 1-5-MIA 5CAR 6 MIA 16 LI: 1.3(Shotgun) 1-C.Newton right guard for 5 yards TOUCHDOWN.'>36.68</number><number>0.34</number>
+<number shadow='shadow1' tooltip='8:19 CAR 6 MIA 16 LI: 9-G.Gano extra point is GOOD Center-44-J.Jansen Holder-8-B.Nortman.'>36.72</number><number>0.34</number>
+<number shadow='shadow1' tooltip='8:19 CAR 13 MIA 16 LI: 9-G.Gano kicks 64 yards from CAR 35 to MIA 134-M.Thigpen to MIA 20 for 19 yards(27-Q.Mikell).'>36.77</number><number>0.37</number>
+<number shadow='shadow1' tooltip='8:02 1-10-MIA 10CAR 13 MIA 16 LI: 2.3PENALTY on CAR-90-F.Alexander Defensive Offside 5 yards enforced at MIA 10 - No Play.'>36.97</number><number>0.36</number>
+<number shadow='shadow1' tooltip='7:26 2-3-MIA 17CAR 13 MIA 16 LI: 1.8(Shotgun) 17-R.Tannehill pass short left to 42-C.Clay to MIA 19 for 2 yards(41-C.Munnerlyn).'>37.57</number><number>0.36</number>
+<number shadow='shadow1' tooltip='6:54 3-1-MIA 19CAR 13 MIA 16 LI: 1.7(No Huddle Shotgun) 17-R.Tannehill pass short left to 82-B.Hartline ran ob at MIA 22 for 3 yards.'>38.1</number><number>0.35</number>
+<number shadow='shadow1' tooltip='6:25 1-10-MIA 22CAR 13 MIA 16 LI: 1.7(Shotgun) 17-R.Tannehill pass incomplete short right to 11-M.Wallace.'>38.58</number><number>0.36</number>
+<number shadow='shadow1' tooltip='6:19 2-10-MIA 22CAR 13 MIA 16 LI: 1.6(Shotgun) 17-R.Tannehill pass short left to 18-R.Matthews to MIA 26 for 4 yards(23-M.White).'>38.68</number><number>0.37</number>
+<number shadow='shadow1' tooltip='5:41 3-6-MIA 26CAR 13 MIA 16 LI: 1.4(Shotgun) 17-R.Tannehill pass short right to 80-D.Sims to MIA 32 for 6 yards(59-L.Kuechly).'>39.32</number><number>0.33</number>
+<number shadow='shadow1' tooltip='5:00 1-10-MIA 32CAR 13 MIA 16 LI: 1.6(Shotgun) 26-L.Miller left end to MIA 23 for -9 yards(59-L.Kuechly).'>40</number><number>0.38</number>
+<number shadow='shadow1' tooltip='4:37 2-19-MIA 23CAR 13 MIA 16 LI: 1.3(Shotgun) 17-R.Tannehill pass incomplete deep right to 11-M.Wallace.'>40.38</number><number>0.4</number>
+<number shadow='shadow1' tooltip='4:23 3-19-MIA 23CAR 13 MIA 16 LI: 1.1(Shotgun) 17-R.Tannehill pass short right to 14-Ma.Moore to MIA 34 for 11 yards(27-Q.Mikell; 29-D.Florence).'>40.62</number><number>0.39</number>
+<number shadow='shadow1' tooltip='3:43 4-8-MIA 34CAR 13 MIA 16 LI: 1(Punt formation) 2-B.Fields punts 57 yards to CAR 9 Center-92-J.Denney downed by MIA-45-A.Spitler.'>41.28</number><number>0.35</number>
+<number shadow='shadow1' tooltip='3:32 1-10-CAR 9CAR 13 MIA 16 LI: 1.628-J.Stewart left end to CAR 12 for 3 yards(20-R.Jones).'>41.47</number><number>0.36</number>
+<number shadow='shadow1' tooltip='2:50 2-7-CAR 12CAR 13 MIA 16 LI: 1.71-C.Newton pass incomplete short right to 11-B.LaFell.'>42.17</number><number>0.34</number>
+<number shadow='shadow1' tooltip='2:46 4-7-CAR 12CAR 13 MIA 16 LI: 1.1(Punt formation) 8-B.Nortman punts 49 yards to MIA 39 Center-44-J.Jansen34-M.Thigpen to 50 for 11 yards(55-D.Connor).'>42.23</number><number>0.29</number>
+<number shadow='shadow1' tooltip='2:33 1-10-CAR 50CAR 13 MIA 16 LI: 1.617-R.Tannehill pass short right to 26-L.Miller to CAR 43 for 7 yards(91-C.Cole).'>42.45</number><number>0.28</number>
+<number shadow='shadow1' tooltip='1:51 2-3-CAR 43CAR 13 MIA 16 LI: 1.5(Shotgun) 17-R.Tannehill pass short middle to 26-L.Miller to CAR 38 for 5 yards(58-T.Davis).'>43.15</number><number>0.26</number>
+<number shadow='shadow1' tooltip='1:21 1-10-CAR 38CAR 13 MIA 16 LI: 1.6(Shotgun) 26-L.Miller left end to CAR 42 for -4 yards(21-M.Mitchell).'>43.65</number><number>0.28</number>
+<number shadow='shadow1' tooltip='0:46 1-20-CAR 48CAR 13 MIA 16 LI: 1.6(Shotgun) 17-R.Tannehill pass short right to 33-D.Thomas to CAR 48 for no gain (41-C.Munnerlyn) [97-M.Addison]MIA-33-D.Thomas was injured during the playHis return is Questionable.'>44.23</number><number>0.33</number>
+<number shadow='shadow1' tooltip='15:00 2-20-CAR 48CAR 13 MIA 16 LI: 1.1(Shotgun) 17-R.Tannehill pass incomplete short middle to 42-C.Clay [97-M.Addison].'>45</number><number>0.35</number>
+<number shadow='shadow1' tooltip='14:57 3-20-CAR 48CAR 13 MIA 16 LI: 0.9(Shotgun) 17-R.Tannehill pass short right to 11-M.Wallace to CAR 45 for 3 yards(41-C.Munnerlyn).'>45.05</number><number>0.36</number>
+<number shadow='shadow1' tooltip='14:18 4-17-CAR 45CAR 13 MIA 16 LI: 0.7(Punt formation) 2-B.Fields punts 35 yards to CAR 10 Center-92-J.Denney fair catch by 19-T.Ginn.'>45.7</number><number>0.35</number>
+<number shadow='shadow1' tooltip='14:10 1-10-CAR 10CAR 13 MIA 16 LI: 1.834-De.Williams up the middle to CAR 12 for 2 yards(50-O.Vernon).'>45.83</number><number>0.34</number>
+<number shadow='shadow1' tooltip='13:30 2-8-CAR 12CAR 13 MIA 16 LI: 1.8(Shotgun) 1-C.Newton pass incomplete deep middle to 19-T.Ginn (28-N.Carroll).'>46.5</number><number>0.32</number>
+<number shadow='shadow1' tooltip='13:22 3-8-CAR 12CAR 13 MIA 16 LI: 1.6(Shotgun) 1-C.Newton pass short left to 89-S.Smith ran ob at CAR 25 for 13 yards.'>46.63</number><number>0.38</number>
+<number shadow='shadow1' tooltip='12:53 1-10-CAR 25CAR 13 MIA 16 LI: 1.6Direct snap to 34-De.Williams 34-De.Williams right tackle to CAR 28 for 3 yards(79-D.Shelby).'>47.12</number><number>0.37</number>
+<number shadow='shadow1' tooltip='12:14 2-7-CAR 28CAR 13 MIA 16 LI: 1.5(Shotgun) 34-De.Williams left guard to CAR 30 for 2 yards(50-O.Vernon).'>47.77</number><number>0.36</number>
+<number shadow='shadow1' tooltip='11:31 3-5-CAR 30CAR 13 MIA 16 LI: 1.5(Shotgun) 1-C.Newton pass incomplete short right to 88-G.Olsen.'>48.48</number><number>0.3</number>
+<number shadow='shadow1' tooltip='11:25 4-5-CAR 30CAR 13 MIA 16 LI: 1(Punt formation) 8-B.Nortman punts 61 yards to MIA 9 Center-44-J.Jansen34-M.Thigpen to MIA 23 for 14 yards(42-C.Jones).'>48.58</number><number>0.32</number>
+<number shadow='shadow1' tooltip='11:14 1-10-MIA 23CAR 13 MIA 16 LI: 2.117-R.Tannehill pass short right to 11-M.Wallace to MIA 27 for 4 yards(22-J.Thomas).'>48.77</number><number>0.31</number>
+<number shadow='shadow1' tooltip='10:43 2-6-MIA 27CAR 13 MIA 16 LI: 2.217-R.Tannehill pass short right to 11-M.Wallace pushed ob at MIA 37 for 10 yards(29-D.Florence).'>49.28</number><number>0.27</number>
+<number shadow='shadow1' tooltip='10:13 1-10-MIA 37CAR 13 MIA 16 LI: 2.4(No Huddle Shotgun) 26-L.Miller right guard to MIA 39 for 2 yards(98-S.Lotulelei)MIA-65-S.Brenner was injured during the playHis return is Probable.'>49.78</number><number>0.26</number>
+<number shadow='shadow1' tooltip='9:43 2-8-MIA 39CAR 13 MIA 16 LI: 2.5(Shotgun) 17-R.Tannehill scrambles right end ran ob at CAR 42 for 19 yards(29-D.Florence).'>50.28</number><number>0.19</number>
+<number shadow='shadow1' tooltip='9:15 1-10-CAR 42CAR 13 MIA 16 LI: 2.426-L.Miller up the middle to CAR 38 for 4 yards(27-Q.Mikell).'>50.75</number><number>0.19</number>
+<number shadow='shadow1' tooltip='8:40 2-6-CAR 38CAR 13 MIA 16 LI: 2.117-R.Tannehill sacked at CAR 46 for -8 yards(58-T.Davis).'>51.33</number><number>0.27</number>
+<number shadow='shadow1' tooltip='8:05 3-14-CAR 46CAR 13 MIA 16 LI: 1.8(Shotgun) 17-R.Tannehill scrambles up the middle to CAR 35 for 11 yards(58-T.Davis).'>51.92</number><number>0.29</number>
+<number shadow='shadow1' tooltip='7:27 4-3-CAR 35CAR 13 MIA 16 LI: 0.9(Field Goal formation) 9-C.Sturgis 53 yard field goal is No Good Wide Left Center-92-J.Denney Holder-2-B.Fields.'>52.55</number><number>0.43</number>
+<number shadow='shadow1' tooltip='7:22 1-10-CAR 43CAR 13 MIA 16 LI: 2.7(Shotgun) 1-C.Newton pass incomplete short left to 34-De.Williams.'>52.63</number><number>0.37</number>
+<number shadow='shadow1' tooltip='7:14 2-10-CAR 43CAR 13 MIA 16 LI: 2.1(Shotgun) 34-De.Williams left end to CAR 41 for -2 yards(94-R.Starks).'>52.77</number><number>0.29</number>
+<number shadow='shadow1' tooltip='6:32 3-12-CAR 41CAR 13 MIA 16 LI: 1.4(Shotgun) 1-C.Newton pass short right to 11-B.LaFell to MIA 45 for 14 yards(28-N.Carroll) [50-O.Vernon].'>53.47</number><number>0.2</number>
+<number shadow='shadow1' tooltip='6:01 3-22-CAR 31CAR 13 MIA 16 LI: 1.1(Shotgun) 1-C.Newton pass incomplete deep left to 88-G.Olsen (52-P.Wheeler).'>53.98</number><number>0.18</number>
+<number shadow='shadow1' tooltip='5:49 4-22-CAR 31CAR 13 MIA 16 LI: 1(Punt formation) 8-B.Nortman punts 53 yards to MIA 16 Center-44-J.Jansen34-M.Thigpen pushed ob at MIA 24 for 8 yards(22-J.Thomas).'>54.18</number><number>0.18</number>
+<number shadow='shadow1' tooltip='5:36 1-10-MIA 24CAR 13 MIA 16 LI: 2.7(Shotgun) 26-L.Miller left guard to MIA 27 for 3 yards(59-L.Kuechly).'>54.4</number><number>0.23</number>
+<number shadow='shadow1' tooltip='4:54 2-7-MIA 27CAR 13 MIA 16 LI: 217-R.Tannehill pass incomplete short right to 42-C.Clay.'>55.1</number><number>0.27</number>
+<number shadow='shadow1' tooltip='4:51 3-7-MIA 27CAR 13 MIA 16 LI: 1.6(Shotgun) 17-R.Tannehill pass incomplete short left to 42-C.ClayMiami challenged the pass completion ruling and the play was REVERSED(Shotgun) 17-R.Tannehill pass short left to 42-C.Clay ran ob at MIA 38 for 11 yards.'>55.15</number><number>0.16</number>
+<number shadow='shadow1' tooltip='4:43 1-10-MIA 38CAR 13 MIA 16 LI: 2.517-R.Tannehill pass incomplete short middle to 11-M.Wallace [58-T.Davis].'>55.28</number><number>0.22</number>
+<number shadow='shadow1' tooltip='4:39 2-10-MIA 38CAR 13 MIA 16 LI: 1.8(Shotgun) PENALTY on MIA-77-T.Clabo False Start 5 yards enforced at MIA 38 - No Play.'>55.35</number><number>0.26</number>
+<number shadow='shadow1' tooltip='4:32 3-11-MIA 37CAR 13 MIA 16 LI: 1.3(Shotgun) 17-R.Tannehill pass short middle to 26-L.Miller to MIA 46 for 9 yards(59-L.Kuechly) [76-G.Hardy].'>55.47</number><number>0.27</number>
+<number shadow='shadow1' tooltip='4:20 4-2-MIA 46CAR 13 MIA 16 LI: 1.1(Punt formation) 2-B.Fields punts 54 yards to CAR 0 Center-92-J.Denney19-T.Ginn Touchback.'>55.67</number><number>0.27</number>
+<number shadow='shadow1' tooltip='4:13 1-10-CAR 20CAR 13 MIA 16 LI: 2.3(Shotgun) 1-C.Newton pass short middle to 34-De.Williams to CAR 35 for 15 yards(52-P.Wheeler).'>55.78</number><number>0.22</number>
+<number shadow='shadow1' tooltip='4:03 1-15-CAR 15CAR 13 MIA 16 LI: 1.8(Shotgun) 1-C.Newton pass short right to 19-T.Ginn to CAR 12 for -3 yards(21-B.Grimes).'>55.95</number><number>0.19</number>
+<number shadow='shadow1' tooltip='3:26 2-18-CAR 12CAR 13 MIA 16 LI: 0.6(Shotgun) 1-C.Newton scrambles right end to CAR 20 for 8 yards(91-C.Wake).'>56.57</number><number>0.18</number>
+<number shadow='shadow1' tooltip='2:47 3-10-CAR 20CAR 13 MIA 16 LI: 1.4(Shotgun) 1-C.Newton pass incomplete deep left to 19-T.Ginn (28-N.Carroll).'>57.22</number><number>0.14</number>
+<number shadow='shadow1' tooltip='2:33 4-10-CAR 20CAR 13 MIA 16 LI: 1(Shotgun) 1-C.Newton pass short left to 89-S.Smith to CAR 39 for 19 yards(20-R.Jones)MIA-30-C.Clemons was injured during the playHis return is Probable.'>57.45</number><number>0.28</number>
+<number shadow='shadow1' tooltip='2:02 1-10-CAR 39CAR 13 MIA 16 LI: 2.3(Shotgun) 1-C.Newton pass short right to 88-G.Olsen ran ob at CAR 48 for 9 yards(28-N.Carroll).'>57.97</number><number>0.28</number>
+<number shadow='shadow1' tooltip='1:58 2-1-CAR 48CAR 13 MIA 16 LI: 1.9(Shotgun) 1-C.Newton pass incomplete short right to 89-S.Smith (94-R.Starks).'>58.03</number><number>0.27</number>
+<number shadow='shadow1' tooltip='1:55 3-1-CAR 48CAR 13 MIA 16 LI: 1.9(Shotgun) 1-C.Newton right end to MIA 44 for 8 yards.'>58.08</number><number>0.44</number>
+<number shadow='shadow1' tooltip='1:46 1-10-MIA 29CAR 13 MIA 16 LI: 3.7(Shotgun) 1-C.Newton right end to MIA 29 for no gain (91-C.Wake).'>58.23</number><number>0.44</number>
+<number shadow='shadow1' tooltip='1:45 2-10-MIA 29CAR 13 MIA 16 LI: 3.7(Shotgun) 1-C.Newton pass short left to 19-T.Ginn to MIA 21 for 8 yards(28-N.Carroll).'>58.25</number><number>0.47</number>
+<number shadow='shadow1' tooltip='1:29 3-2-MIA 21CAR 13 MIA 16 LI: 435-M.Tolbert left end to MIA 6 for 15 yards(30-C.Clemons; 59-D.Ellerbe).'>58.52</number><number>0.67</number>
+<number shadow='shadow1' tooltip='0:59 1-6-MIA 6CAR 13 MIA 16 LI: 6.3(Shotgun) 35-M.Tolbert right tackle to MIA 1 for 5 yards(98-J.Odrick).'>59.02</number><number>0.9</number>
+<number shadow='shadow1' tooltip='0:46 2-1-MIA 1CAR 13 MIA 16 LI: 8.81-C.Newton pass short right to 88-G.Olsen for 1 yard TOUCHDOWN.'>59.23</number><number>0.9</number>
+<number shadow='shadow1' tooltip='0:46 CAR 13 MIA 16 LI: 9-G.Gano extra point is GOOD Center-44-J.Jansen Holder-8-B.Nortman.'>59.27</number><number>0.9</number>
+<number shadow='shadow1' tooltip='0:46 CAR 20 MIA 16 LI: 9-G.Gano kicks 66 yards from CAR 35 to MIA -134-M.Thigpen to MIA 14 for 15 yards(86-B.Williams).'>59.32</number><number>0.97</number>
+<number shadow='shadow1' tooltip='0:38 1-10-MIA 14CAR 20 MIA 16 LI: 0.2(Shotgun) 17-R.Tannehill pass deep middle to 82-B.Hartline to MIA 40 for 26 yards(58-T.Davis).'>59.37</number><number>0.92</number>
+<number shadow='shadow1' tooltip='0:18 1-10-MIA 40CAR 20 MIA 16 LI: 0.7(No Huddle) 17-R.Tannehill spiked the ball to stop the clock.'>59.7</number><number>0.98</number>
+<number shadow='shadow1' tooltip='0:10 3-10-MIA 40CAR 20 MIA 16 LI: 0.2(Shotgun) 17-R.Tannehill sacked at MIA 30 for -10 yards(92-D.Edwards).'>59.83</number><number>1</number>
+<number>60</number><number>1</number>
+</row> </chart_data>
+       <draw>
+
+
+
+      <image x='45' y='298'  url='nfllogos/42x50png/CAR.gif'  layer='foreground' glow = 'glow1'/>
+      <image x='45' y='350'  url='nfllogos/42x50png/MIA.gif'     layer='foreground' glow = 'glow1'/>
+
+
+      <rect x='130' y='300' width='250' height='40' fill_color='008acf' bevel='bevel1' />
+      <text x='135' y='300' width='250' height='40' h_align='left' v_align='middle' color='ffffff' shadow='shadow2' glow='winnerglow'>Carolina Panthers</text>
+
+      <rect x='130' y='350' width='250' height='40' fill_color='006c76' bevel='bevel1'  />
+      <text x='135' y='350' width='250' height='40' h_align='left' v_align='middle' color='ffffff' shadow='shadow2' glow=''>Miami Dolphins</text>
+
+      <rect x='420' y='300' width='60' height='40' fill_color='008acf' bevel='bevel1'  />
+      <text x='420' y='300' width='60' height='40' h_align='center' v_align='middle' color='ffffff' shadow='shadow2' transition='none' glow='winnerglow'>20</text>
+
+      <rect x='420' y='350' width='60' height='40' fill_color='006c76' bevel='bevel1' />
+      <text x='420' y='350' width='60' height='40' h_align='center' v_align='middle' color='ffffff' shadow='shadow2' transition='none' glow=''>16</text>
+
+      <text x='-3' y='12'  width='60' height='40' h_align='center' v_align='middle' size='13' shadow='shadow2'>CARWin </text>
+      <text x='-3' y='218' width='60' height='40' h_align='center' v_align='middle' size='13' shadow='shadow2'>MIAWin </text>
+
+     
+              <rect x='540' y='300' width='100' height='35' fill_color='000000' fill_alpha='50'/>
+              <text x='540' y='300' width='100' height='35' h_align='center' v_align='middle' color='ffffff' size='15' shadow='shadow2' >Final</text>
+
+              <text x='540' y='340' width='40' h_align='center' color='000000' size='12' shadow='shadow2'>CBF</text>
+              <text x='600' y='340' width='40' h_align='center' color='000000' size='12' shadow='shadow2'>EI</text>
+
+              <rect x='540' y='360' width='40' height='30' fill_color='000000' fill_alpha='50' />
+              <text x='540' y='360' width='40' height='30' size='12' h_align='center' v_align='middle' color='FFFFFF' shadow='shadow2'>11</text>
+
+              <rect x='600' y='360' width='40' height='30' fill_color='000000' fill_alpha='50' />
+              <text x='600' y='360' width='40' height='30' size='12' h_align='center' v_align='middle' color='FFFFFF' shadow='shadow2'>5.2</text>
+
+              <text x='20' y='420' width='70' height='25' size='12' h_align='left' v_align='middle' color='000000' >11/24/2013</text>
+              <text x='100' y='420' width='200' height='25' size='12' h_align='left' v_align='middle' color='000000' >Sun Life Stadium</text>
+
+   </draw></chart>

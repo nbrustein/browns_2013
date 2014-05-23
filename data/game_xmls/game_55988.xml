@@ -1,0 +1,328 @@
+
+<chart>
+   <license>ETAS9P33ESHO.945CWK-2XOI1X0-7L</license>
+   <chart_type>scatter</chart_type>
+   <chart_pref trend_thickness='0' line_thickness='3' point_size='0'/>
+
+   <series_color>
+      <color>ffff00</color>
+   </series_color>
+
+   <chart_rect x='45' y='20' width='630' height='230' positive_color='cacaca'  />
+
+  <chart_border top_thickness='0'
+                 bottom_thickness='0'
+                 left_thickness='0'
+                 right_thickness='0'
+                 color='000000'
+                 />
+
+   <tooltip font='Arial' bold='true' size='11' />
+
+   <chart_note type='flag'
+               color='000000'
+               alpha='90'
+               bold='FALSE'
+               size='10'
+               background_color='ffffe0'
+               background_alpha='50'
+               shadow='shadow2'
+               />
+
+   <chart_grid_h thickness='2' color='ffffff' type='dashed'  />
+   <chart_grid_v thickness='2' color='ffffff'   />
+		>
+
+   <legend layout='hide' />
+
+   <chart_guide horizontal='TRUE'
+             vertical='TRUE'
+             thickness='1'
+             color='006400'
+             alpha='100'
+             type='solid'
+             snap_h='TRUE'
+             snap_v='TRUE'
+             radius='3'
+             fill_color='006400'
+             fill_alpha='100'
+             line_color='006400'
+             line_alpha='80'
+             line_thickness='1'
+             text_h_alpha='50'
+             text_v_alpha='00'
+             suffix_h=' WP'
+             decimals='2'
+             bold='FALSE'
+             size='11'
+             text_color='FFFFFF'
+             background_color='006400'
+             />
+   <filter>
+      <shadow id='shadow1' distance='2' angle='60' blurX='5' blurY='5' alpha='50' />
+      <bevel id='bevel1' angle='45' blurX='5' blurY='5' distance='0' />
+      <glow id='glow1' color='ffffff' alpha='0' blurX='7' blurY='7' strength='6' quality='2' inner='FALSE' knockout='FALSE' />
+      <glow id='winnerglow' color='ffffff' alpha='0' blurX='7' blurY='7' strength='5' quality='2' inner='FALSE' knockout='FALSE' />
+   </filter>
+
+    <axis_value_label>
+         <string></string>
+          <string> </string>
+          <null/>
+          <string> </string>
+          <string></string>
+
+       </axis_value_label>
+		
+	   <axis_ticks category_ticks='false'/>
+
+       <axis_value min='0' max='1' steps='4'  decimals='2' show_min='true' size='13' shadow='shadow2' />     
+            <axis_category
+               min='0'
+               max='60'
+               steps='4'
+               mode='all'
+               decimals='0'
+               size='13'
+               shadow='shadow2'
+               />
+
+       <axis_category_label>
+          <string>Kickoff</string>
+          <string></string>
+          <string>Halftime</string>
+          <string></string>
+          <string>End</string>
+
+       </axis_category_label>
+
+
+        <chart_data>
+       <row>
+	      <null/><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number>
+              <number>x</number><number>y</number>
+              </row><row><string></string>
+
+                     <number shadow='shadow1'>0</number><number>.5</number><number shadow='shadow1' tooltip='15:00 OAK 0 HST 0 LI: 11-S.Janikowski kicks 70 yards from OAK 35 to HST -582-K.Martin to HST 21 for 26 yards(26-U.Young).'>0.09</number><number>0.48</number>
+<number shadow='shadow1' tooltip='14:51 1-10-HST 21OAK 0 HST 0 LI: 1.6(Shotgun) 7-C.Keenum pass short left to 80-A.Johnson to HST 18 for -3 yards(21-M.Jenkins).'>0.15</number><number>0.51</number>
+<number shadow='shadow1' tooltip='14:19 2-13-HST 18OAK 0 HST 0 LI: 1.4(Shotgun) 44-B.Tate left tackle to HST 29 for 11 yards(97-D.Muir).'>0.68</number><number>0.49</number>
+<number shadow='shadow1' tooltip='13:38 3-2-HST 29OAK 0 HST 0 LI: 1.3(Shotgun) 7-C.Keenum pass short middle to 88-G.Graham to HST 39 for 10 yards(24-C.Woodson)FUMBLES (24-C.Woodson) RECOVERED by OAK-28-P.Adams at HST 4228-P.Adams to HST 16 for 26 yards(80-A.Johnson).'>1.37</number><number>0.65</number>
+<number shadow='shadow1' tooltip='13:20 1-10-HST 16OAK 0 HST 0 LI: 1.627-R.Jennings up the middle to HST 9 for 7 yards(58-B.Reed).'>1.67</number><number>0.68</number>
+<number shadow='shadow1' tooltip='12:40 2-3-HST 9OAK 0 HST 0 LI: 1.845-M.Reece up the middle to HST 7 for 2 yards(52-J.Tarpinian).'>2.33</number><number>0.68</number>
+<number shadow='shadow1' tooltip='11:59 3-1-HST 7OAK 0 HST 0 LI: 1.827-R.Jennings up the middle to HST 5 for 2 yards(52-J.Tarpinian).'>3.02</number><number>0.68</number>
+<number shadow='shadow1' tooltip='11:18 1-5-HST 5OAK 0 HST 0 LI: 1.8(Shotgun) 27-R.Jennings up the middle to HST 5 for no gain (99-J.Watt)PENALTY on OAK-76-L.Nix False Start 5 yards enforced at HST 5 - No Play.'>3.7</number><number>0.67</number>
+<number shadow='shadow1' tooltip='10:53 1-10-HST 10OAK 0 HST 0 LI: 1.7(Shotgun) 27-R.Jennings up the middle to HST 6 for 4 yards(52-J.Tarpinian 51-D.Sharpton)(Oakland lined up in the wildcat formation)'>4.12</number><number>0.67</number>
+<number shadow='shadow1' tooltip='10:12 2-6-HST 6OAK 0 HST 0 LI: 1.7(Shotgun) 27-R.Jennings left guard to HST 5 for 1 yard(99-J.Watt).'>4.8</number><number>0.65</number>
+<number shadow='shadow1' tooltip='9:30 3-5-HST 5OAK 0 HST 0 LI: 1.5(Shotgun) 14-M.McGloin pass short right to 17-D.Moore for 5 yards TOUCHDOWN.'>5.5</number><number>0.71</number>
+<number shadow='shadow1' tooltip='9:30 OAK 0 HST 0 LI: 11-S.Janikowski extra point is GOOD Center-59-J.Condo Holder-7-M.King.'>5.54</number><number>0.71</number>
+<number shadow='shadow1' tooltip='9:30 OAK 7 HST 0 LI: 11-S.Janikowski kicks 53 yards from OAK 35 to HST 1239-D.Karim to HST 15 for 3 yards(32-J.Stewart).'>5.59</number><number>0.73</number>
+<number shadow='shadow1' tooltip='9:21 1-10-HST 15OAK 7 HST 0 LI: 1.57-C.Keenum pass short left to 88-G.Graham to HST 21 for 6 yards(92-S.McGee).'>5.65</number><number>0.72</number>
+<number shadow='shadow1' tooltip='8:40 2-4-HST 21OAK 7 HST 0 LI: 1.5(Shotgun) 44-B.Tate right end to HST 24 for 3 yards(53-N.Roach).'>6.33</number><number>0.71</number>
+<number shadow='shadow1' tooltip='8:11 3-1-HST 24OAK 7 HST 0 LI: 1.528-D.Johnson left guard to HST 24 for no gain (94-Ke.Burnett).'>6.82</number><number>0.75</number>
+<number shadow='shadow1' tooltip='7:34 4-1-HST 24OAK 7 HST 0 LI: 1.19-S.Lechler punts 56 yards to OAK 20 Center-46-J.Weeks12-J.Ford to OAK 23 for 3 yards(35-E.Pleasant)(The punt hang time was 4.59 seconds.)'>7.43</number><number>0.72</number>
+<number shadow='shadow1' tooltip='7:22 1-10-OAK 23OAK 7 HST 0 LI: 0.9(Shotgun) 14-M.McGloin pass short left to 80-R.Streater to OAK 29 for 6 yards(24-J.Joseph).'>7.63</number><number>0.74</number>
+<number shadow='shadow1' tooltip='6:45 2-4-OAK 29OAK 7 HST 0 LI: 1(Shotgun) 45-M.Reece right tackle to OAK 30 for 1 yard(51-D.Sharpton).'>8.25</number><number>0.73</number>
+<number shadow='shadow1' tooltip='6:01 3-3-OAK 30OAK 7 HST 0 LI: 0.9(Shotgun) 14-M.McGloin pass short middle to 81-M.Rivera to OAK 37 for 7 yards(36-D.Swearinger).'>8.98</number><number>0.76</number>
+<number shadow='shadow1' tooltip='5:23 1-10-OAK 37OAK 7 HST 0 LI: 1(Shotgun) 14-M.McGloin pass incomplete short middle to 45-M.Reece.'>9.62</number><number>0.76</number>
+<number shadow='shadow1' tooltip='5:18 2-10-OAK 37OAK 7 HST 0 LI: 1(Shotgun) 80-R.Streater left end pushed ob at OAK 45 for 8 yards(36-D.Swearinger)PENALTY on OAK-65-M.Brisiel Unnecessary Roughness 15 yards enforced at OAK 45.'>9.7</number><number>0.74</number>
+<number shadow='shadow1' tooltip='5:01 2-17-OAK 30OAK 7 HST 0 LI: 114-M.McGloin pass short middle to 27-R.Jennings to OAK 30 for no gain (99-J.Watt).'>9.98</number><number>0.72</number>
+<number shadow='shadow1' tooltip='4:21 3-17-OAK 30OAK 7 HST 0 LI: 0.8(Shotgun) 14-M.McGloin pass incomplete short left to 80-R.Streater.'>10.65</number><number>0.7</number>
+<number shadow='shadow1' tooltip='4:15 4-17-OAK 30OAK 7 HST 0 LI: 0.67-M.King punts 62 yards to HST 8 Center-59-J.Condo82-K.Martin to HST 10 for 2 yards(32-J.Stewart)PENALTY on HST-27-J.Victorian Offensive Holding 5 yards enforced at HST 10(The punt hang time was 4.47 seconds.)'>10.75</number><number>0.73</number>
+<number shadow='shadow1' tooltip='4:01 1-10-HST 5OAK 7 HST 0 LI: 1.47-C.Keenum pass short right intended for 88-G.Graham INTERCEPTED by 53-N.Roach [92-S.McGee] at HST 1653-N.Roach to HST 16 for no gain (44-B.Tate).'>10.98</number><number>0.88</number>
+<number shadow='shadow1' tooltip='3:50 1-10-HST 16OAK 7 HST 0 LI: 1.5(Shotgun) 14-M.McGloin pass deep right to 80-R.Streater for 16 yards TOUCHDOWNPENALTY on OAK-80-R.Streater Unsportsmanlike Conduct 15 yards enforced between downs.'>11.17</number><number>0.9</number>
+<number shadow='shadow1' tooltip='3:50 OAK 7 HST 0 LI: 11-S.Janikowski extra point is GOOD Center-59-J.Condo Holder-7-M.King.'>11.21</number><number>0.9</number>
+<number shadow='shadow1' tooltip='3:50 OAK 14 HST 0 LI: 11-S.Janikowski kicks 76 yards from OAK 20 to HST 482-K.Martin to HST 40 for 36 yards(35-C.Chekwa 81-M.Rivera).'>11.26</number><number>0.88</number>
+<number shadow='shadow1' tooltip='3:36 1-10-HST 40OAK 14 HST 0 LI: 0.1(Shotgun) 44-B.Tate right tackle to HST 43 for 3 yards(98-V.Walker).'>11.4</number><number>0.84</number>
+<number shadow='shadow1' tooltip='3:02 2-7-HST 43OAK 14 HST 0 LI: 0.57-C.Keenum pass short left to 88-G.Graham to OAK 23 for 34 yards(24-C.Woodson).'>11.97</number><number>0.83</number>
+<number shadow='shadow1' tooltip='2:06 1-10-OAK 23OAK 14 HST 0 LI: 0.144-B.Tate right end pushed ob at OAK 25 for -2 yards(21-M.Jenkins).'>12.9</number><number>0.79</number>
+<number shadow='shadow1' tooltip='1:27 2-12-OAK 25OAK 14 HST 0 LI: 0.5(Shotgun) 7-C.Keenum pass incomplete short right to 88-G.Graham.'>13.55</number><number>0.8</number>
+<number shadow='shadow1' tooltip='1:21 3-12-OAK 25OAK 14 HST 0 LI: 0.4(Shotgun) 7-C.Keenum sacked at OAK 40 for -15 yards(99-L.Houston).'>13.65</number><number>0.8</number>
+<number shadow='shadow1' tooltip='0:56 4-27-OAK 40OAK 14 HST 0 LI: 0.79-S.Lechler punts 29 yards to OAK 11 Center-46-J.Weeks fair catch by 12-J.FordPENALTY on OAK-95-K.Burnett Offensive Holding 5 yards enforced at OAK 11(The punt hang time was 4.50 seconds.)'>14.07</number><number>0.79</number>
+<number shadow='shadow1' tooltip='0:47 1-10-OAK 6OAK 14 HST 0 LI: 0.427-R.Jennings left guard to OAK 8 for 2 yards(99-J.Watt).'>14.22</number><number>0.85</number>
+<number shadow='shadow1' tooltip='0:13 2-8-OAK 8OAK 14 HST 0 LI: 0.914-M.McGloin pass short right to 80-R.Streater to OAK 14 for 6 yards(52-J.Tarpinian 31-S.Keo).'>14.78</number><number>0.86</number>
+<number shadow='shadow1' tooltip='15:00 3-2-OAK 14OAK 14 HST 0 LI: 127-R.Jennings up the middle to OAK 15 for 1 yard(57-J.Tuggle).'>15</number><number>0.88</number>
+<number shadow='shadow1' tooltip='14:16 4-1-OAK 15OAK 14 HST 0 LI: 0.67-M.King punts 64 yards to HST 21 Center-59-J.Condo82-K.Martin to HST 25 for 4 yards(95-K.Burnett; 49-J.Olawale)PENALTY on HST-21-B.McCain Offensive Holding 10 yards enforced at HST 25(The punt hang time was 4.37 seconds.)'>15.73</number><number>0.91</number>
+<number shadow='shadow1' tooltip='14:02 1-10-HST 15OAK 14 HST 0 LI: 0.17-C.Keenum pass deep middle to 80-A.Johnson to HST 49 for 34 yards(53-N.Roach; 21-M.Jenkins).'>15.97</number><number>0.87</number>
+<number shadow='shadow1' tooltip='13:25 1-10-HST 49OAK 14 HST 0 LI: 0.144-B.Tate left tackle to OAK 45 for 6 yards(91-J.Crawford; 26-U.Young).'>16.58</number><number>0.86</number>
+<number shadow='shadow1' tooltip='12:40 2-4-OAK 45OAK 14 HST 0 LI: 0.2(Shotgun) 44-B.Tate left tackle to OAK 42 for 3 yards(53-N.Roach).'>17.33</number><number>0.86</number>
+<number shadow='shadow1' tooltip='12:04 3-1-OAK 42OAK 14 HST 0 LI: 0.27-C.Keenum pass deep middle to 88-G.Graham for 42 yards TOUCHDOWN [99-L.Houston].'>17.93</number><number>0.74</number>
+<number shadow='shadow1' tooltip='12:04 OAK 14 HST 0 LI: 4-R.Bullock extra point is GOOD Center-46-J.Weeks Holder-9-S.Lechler.'>17.97</number><number>0.74</number>
+<number shadow='shadow1' tooltip='12:04 OAK 14 HST 7 LI: 4-R.Bullock kicks 69 yards from HST 35 to OAK -422-T.Jones to OAK 19 for 23 yards(18-L.Jean).'>18.02</number><number>0.72</number>
+<number shadow='shadow1' tooltip='11:45 1-10-OAK 19OAK 14 HST 7 LI: 0.814-M.McGloin pass deep right to 18-A.Holmes to HST 48 for 33 yards(26-B.Harris).'>18.25</number><number>0.8</number>
+<number shadow='shadow1' tooltip='11:07 1-10-HST 48OAK 14 HST 7 LI: 1.1(Shotgun) 27-R.Jennings right guard to HST 44 for 4 yards(52-J.Tarpinian 59-W.Mercilus).'>18.88</number><number>0.79</number>
+<number shadow='shadow1' tooltip='10:31 2-6-HST 44OAK 14 HST 7 LI: 114-M.McGloin pass incomplete short middle to 12-J.Ford (24-J.Joseph).'>19.48</number><number>0.77</number>
+<number shadow='shadow1' tooltip='10:25 3-6-HST 44OAK 14 HST 7 LI: 0.8(Shotgun) 14-M.McGloin pass incomplete short right to 80-R.Streater.'>19.58</number><number>0.73</number>
+<number shadow='shadow1' tooltip='10:20 4-6-HST 44OAK 14 HST 7 LI: 0.4(The punt hang time was 4.41 seconds.) 7-M.King punts 29 yards to HST 15 Center-59-J.Condo fair catch by 82-K.Martin.'>19.67</number><number>0.73</number>
+<number shadow='shadow1' tooltip='10:12 1-10-HST 15OAK 14 HST 7 LI: 1.3PENALTY on HST-75-D.Newton False Start 5 yards enforced at HST 15 - No Play.'>19.8</number><number>0.73</number>
+<number shadow='shadow1' tooltip='9:35 2-6-HST 19OAK 14 HST 7 LI: 1.144-B.Tate left guard to HST 20 for 1 yard(94-Ke.Burnett).'>20.42</number><number>0.75</number>
+<number shadow='shadow1' tooltip='8:50 3-5-HST 20OAK 14 HST 7 LI: 1(Shotgun) PENALTY on HST-55-C.Myers False Start 5 yards enforced at HST 20 - No Play.'>21.17</number><number>0.76</number>
+<number shadow='shadow1' tooltip='8:31 3-10-HST 15OAK 14 HST 7 LI: 1(Shotgun) 7-C.Keenum pass incomplete short right to 80-A.Johnson.'>21.48</number><number>0.79</number>
+<number shadow='shadow1' tooltip='8:25 4-10-HST 15OAK 14 HST 7 LI: 0.7(The punt hang time was 4.48 seconds.) 9-S.Lechler punts 42 yards to OAK 43 Center-46-J.Weeks fair catch by 12-J.Ford.'>21.58</number><number>0.78</number>
+<number shadow='shadow1' tooltip='8:16 1-10-OAK 43OAK 14 HST 7 LI: 1.127-R.Jennings right tackle to OAK 42 for -1 yards(94-A.Smith).'>21.73</number><number>0.77</number>
+<number shadow='shadow1' tooltip='7:37 2-11-OAK 42OAK 14 HST 7 LI: 1(Shotgun) 14-M.McGloin pass short left to 81-M.Rivera to OAK 47 for 5 yards(58-B.Reed).'>22.38</number><number>0.77</number>
+<number shadow='shadow1' tooltip='6:58 3-6-OAK 47OAK 14 HST 7 LI: 0.9(Shotgun) 14-M.McGloin pass incomplete short left to 17-D.Moore.'>23.03</number><number>0.73</number>
+<number shadow='shadow1' tooltip='6:54 4-6-OAK 47OAK 14 HST 7 LI: 0.5(The punt hang time was 3.96 seconds.) 7-M.King punts 41 yards to HST 12 Center-59-J.Condo82-K.Martin to HST 17 for 5 yards(22-T.Jones).'>23.1</number><number>0.73</number>
+<number shadow='shadow1' tooltip='6:42 1-10-HST 17OAK 14 HST 7 LI: 1.27-C.Keenum pass short left to 80-A.Johnson to HST 22 for 5 yards(21-M.Jenkins).'>23.3</number><number>0.73</number>
+<number shadow='shadow1' tooltip='6:07 2-5-HST 22OAK 14 HST 7 LI: 1.128-D.Johnson right guard to HST 24 for 2 yards(90-P.Sims).'>23.88</number><number>0.74</number>
+<number shadow='shadow1' tooltip='5:31 3-3-HST 24OAK 14 HST 7 LI: 1(Shotgun) 7-C.Keenum pass incomplete deep left to 11-D.Posey.'>24.48</number><number>0.77</number>
+<number shadow='shadow1' tooltip='5:21 4-3-HST 24OAK 14 HST 7 LI: 0.7(The punt hang time was 3.18 seconds.) 9-S.Lechler punts 44 yards to OAK 32 Center-46-J.Weeks12-J.Ford MUFFS catch and recovers at OAK 3212-J.Ford ran ob at OAK 36 for 4 yards(35-E.Pleasant).'>24.65</number><number>0.77</number>
+<number shadow='shadow1' tooltip='5:10 1-10-OAK 36OAK 14 HST 7 LI: 1.127-R.Jennings up the middle to OAK 39 for 3 yards(51-D.Sharpton).'>24.83</number><number>0.77</number>
+<number shadow='shadow1' tooltip='4:36 2-7-OAK 39OAK 14 HST 7 LI: 1(Shotgun) 27-R.Jennings up the middle to OAK 45 for 6 yards(36-D.Swearinger).'>25.4</number><number>0.78</number>
+<number shadow='shadow1' tooltip='3:18 3-6-OAK 40OAK 14 HST 7 LI: 0.9(Shotgun) 14-M.McGloin pass incomplete short left to 17-D.Moore [94-A.Smith].'>26.7</number><number>0.73</number>
+<number shadow='shadow1' tooltip='3:13 4-6-OAK 40OAK 14 HST 7 LI: 0.6(The punt hang time was 3.28 seconds.) 7-M.King punts 47 yards to HST 13 Center-59-J.Condo82-K.Martin for 87 yards TOUCHDOWN.'>26.78</number><number>0.53</number>
+<number shadow='shadow1' tooltip='3:13 OAK 14 HST 7 LI: 4-R.Bullock extra point is GOOD Center-46-J.Weeks Holder-9-S.Lechler.'>26.82</number><number>0.53</number>
+<number shadow='shadow1' tooltip='3:13 OAK 14 HST 14 LI: 4-R.Bullock kicks 65 yards from HST 35 to end zone Touchback.'>26.87</number><number>0.52</number>
+<number shadow='shadow1' tooltip='2:54 1-10-OAK 20OAK 14 HST 14 LI: 1.614-M.McGloin sacked at OAK 10 for -10 yards(99-J.Watt).'>27.1</number><number>0.46</number>
+<number shadow='shadow1' tooltip='2:50 2-20-OAK 10OAK 14 HST 14 LI: 1.5(Shotgun) 14-M.McGloin pass short left to 81-M.Rivera to OAK 15 for 5 yards(51-D.Sharpton).'>27.17</number><number>0.46</number>
+<number shadow='shadow1' tooltip='2:44 3-15-OAK 15OAK 14 HST 14 LI: 1.1(Shotgun) 27-R.Jennings up the middle to OAK 23 for 8 yards(51-D.Sharpton).'>27.27</number><number>0.45</number>
+<number shadow='shadow1' tooltip='2:37 4-7-OAK 23OAK 14 HST 14 LI: 0.8(The punt hang time was 4.50 seconds.) 7-M.King punts 63 yards to HST 14 Center-59-J.Condo82-K.Martin to HST 24 for 10 yards(91-J.Crawford).'>27.38</number><number>0.48</number>
+<number shadow='shadow1' tooltip='2:26 1-10-HST 24OAK 14 HST 14 LI: 1.5(Shotgun) 7-C.Keenum pass short left to 44-B.Tate pushed ob at HST 33 for 9 yards(23-T.Porter).'>27.57</number><number>0.46</number>
+<number shadow='shadow1' tooltip='2:05 2-1-HST 33OAK 14 HST 14 LI: 1.5(Shotgun) 44-B.Tate right end to 50 for 17 yards(21-M.Jenkins)OAK-97-D.Muir was injured during the playHis return is Doubtful.'>27.92</number><number>0.43</number>
+<number shadow='shadow1' tooltip='1:57 1-10-50OAK 14 HST 14 LI: 1.4(Shotgun) 7-C.Keenum pass incomplete short right to 88-G.Graham [23-T.Porter].'>28.05</number><number>0.45</number>
+<number shadow='shadow1' tooltip='1:52 2-10-50OAK 14 HST 14 LI: 1.2(Shotgun) 7-C.Keenum pass short left to 80-A.Johnson to OAK 45 for 5 yards(99-L.Houston).'>28.13</number><number>0.46</number>
+<number shadow='shadow1' tooltip='1:28 3-5-OAK 45OAK 14 HST 14 LI: 1(Shotgun) 7-C.Keenum pass short middle to 88-G.Graham to OAK 38 for 7 yards(29-B.Ross).'>28.53</number><number>0.4</number>
+<number shadow='shadow1' tooltip='1:13 2-10-OAK 38OAK 14 HST 14 LI: 1.2(Shotgun) 7-C.Keenum pass short right to 11-D.Posey to OAK 33 for 5 yards(21-M.Jenkins).'>28.78</number><number>0.42</number>
+<number shadow='shadow1' tooltip='0:52 3-5-OAK 33OAK 14 HST 14 LI: 1.2(Shotgun) 7-C.Keenum pass incomplete deep left to 80-A.Johnson.'>29.13</number><number>0.46</number>
+<number shadow='shadow1' tooltip='0:45 4-5-OAK 33OAK 14 HST 14 LI: 0.84-R.Bullock 51 yard field goal is GOOD Center-46-J.Weeks Holder-9-S.Lechler.'>29.25</number><number>0.39</number>
+<number shadow='shadow1' tooltip='0:45 OAK 14 HST 17 LI: 4-R.Bullock kicks 73 yards from HST 35 to OAK -822-T.Jones Touchback.'>29.34</number><number>0.38</number>
+<number shadow='shadow1' tooltip='0:33 2-12-OAK 18OAK 14 HST 17 LI: 1(Shotgun) 14-M.McGloin pass short left to 80-R.Streater to OAK 25 for 7 yards(21-B.McCain; 24-J.Joseph).'>29.45</number><number>0.36</number>
+<number shadow='shadow1' tooltip='0:33 OAK 14 HST 17 LI: 4-R.Bullock kicks 73 yards from HST 35 to OAK -822-T.Jones to OAK 17 for 25 yards(57-J.Tuggle)OAK-26-U.Young was injured during the playHis return is Probable.'>29.54</number><number>0.35</number>
+<number shadow='shadow1' tooltip='14:54 1-10-OAK 9OAK 14 HST 17 LI: 1.3(Shotgun) 27-R.Jennings up the middle to OAK 11 for 2 yards(51-D.Sharpton).'>30.1</number><number>0.35</number>
+<number shadow='shadow1' tooltip='14:20 2-8-OAK 11OAK 14 HST 17 LI: 1.2(Shotgun) 14-M.McGloin pass short middle to 80-R.Streater to OAK 24 for 13 yards(24-J.Joseph).'>30.67</number><number>0.37</number>
+<number shadow='shadow1' tooltip='13:48 1-10-OAK 24OAK 14 HST 17 LI: 127-R.Jennings left guard to OAK 29 for 5 yards(52-J.Tarpinian).'>31.2</number><number>0.39</number>
+<number shadow='shadow1' tooltip='13:11 2-5-OAK 29OAK 14 HST 17 LI: 1.212-J.Ford right end pushed ob at OAK 33 for 4 yards(31-S.Keo).'>31.82</number><number>0.39</number>
+<number shadow='shadow1' tooltip='12:32 3-1-OAK 33OAK 14 HST 17 LI: 1.1(Shotgun) 14-M.McGloin pass incomplete short right to 17-D.Moore (52-J.Tarpinian) [99-J.Watt].'>32.47</number><number>0.35</number>
+<number shadow='shadow1' tooltip='12:28 4-1-OAK 33OAK 14 HST 17 LI: 0.7(The punt hang time was 4.38 seconds.) 7-M.King punts 58 yards to HST 9 Center-59-J.Condo82-K.Martin to HST 19 for 10 yards(22-T.Jones).'>32.53</number><number>0.36</number>
+<number shadow='shadow1' tooltip='12:16 1-10-HST 19OAK 14 HST 17 LI: 1.844-B.Tate left end to HST 17 for -2 yards(55-S.Moore).'>32.73</number><number>0.38</number>
+<number shadow='shadow1' tooltip='11:29 2-12-HST 17OAK 14 HST 17 LI: 1.6(Shotgun) 7-C.Keenum pass short right to 80-A.Johnson to HST 25 for 8 yards(21-M.Jenkins).'>33.52</number><number>0.36</number>
+<number shadow='shadow1' tooltip='10:53 3-4-HST 25OAK 14 HST 17 LI: 1.6(Shotgun) 7-C.Keenum pass incomplete short middle to 11-D.Posey (23-T.Porter).'>34.12</number><number>0.4</number>
+<number shadow='shadow1' tooltip='10:47 4-4-HST 25OAK 14 HST 17 LI: 1.29-S.Lechler punts 60 yards to OAK 15 Center-46-J.Weeks12-J.Ford ran ob at OAK 27 for 12 yards(The punt hang time was 4.84 seconds.)'>34.22</number><number>0.38</number>
+<number shadow='shadow1' tooltip='10:34 1-10-OAK 27OAK 14 HST 17 LI: 1.2(Shotgun) 14-M.McGloin pass deep left to 80-R.Streater to HST 37 for 36 yards(26-B.Harris).'>34.43</number><number>0.48</number>
+<number shadow='shadow1' tooltip='10:10 1-10-HST 37OAK 14 HST 17 LI: 1.6(Shotgun) 45-M.Reece right guard to HST 36 for 1 yard(51-D.Sharpton).'>34.83</number><number>0.46</number>
+<number shadow='shadow1' tooltip='9:31 2-9-HST 36OAK 14 HST 17 LI: 1.3(Shotgun) 14-M.McGloin pass incomplete deep left to 18-A.Holmes [99-J.Watt].'>35.48</number><number>0.43</number>
+<number shadow='shadow1' tooltip='9:26 3-9-HST 36OAK 14 HST 17 LI: 1(Shotgun) 14-M.McGloin pass short middle to 45-M.Reece to HST 16 for 20 yards(31-S.Keo).'>35.57</number><number>0.55</number>
+<number shadow='shadow1' tooltip='8:47 1-10-HST 16OAK 14 HST 17 LI: 1.927-R.Jennings up the middle to HST 16 for no gain (99-J.Watt)PENALTY on OAK-65-M.Brisiel Offensive Holding 10 yards enforced at HST 16 - No Play.'>36.22</number><number>0.52</number>
+<number shadow='shadow1' tooltip='8:19 1-20-HST 26OAK 14 HST 17 LI: 1.8(Shotgun) 14-M.McGloin pass deep middle to 81-M.Rivera for 26 yards TOUCHDOWN.'>36.68</number><number>0.66</number>
+<number shadow='shadow1' tooltip='8:19 OAK 14 HST 17 LI: 11-S.Janikowski extra point is GOOD Center-59-J.Condo Holder-7-M.King.'>36.72</number><number>0.66</number>
+<number shadow='shadow1' tooltip='8:19 OAK 21 HST 17 LI: 11-S.Janikowski kicks 65 yards from OAK 35 to end zone Touchback.'>36.77</number><number>0.68</number>
+<number shadow='shadow1' tooltip='8:13 1-10-HST 20OAK 21 HST 17 LI: 1.1(Shotgun) 44-B.Tate left tackle to HST 21 for 1 yard(98-V.Walker).'>36.78</number><number>0.68</number>
+<number shadow='shadow1' tooltip='7:39 2-9-HST 21OAK 21 HST 17 LI: 1.17-C.Keenum pass incomplete short right to 33-G.Jones.'>37.35</number><number>0.69</number>
+<number shadow='shadow1' tooltip='7:33 3-9-HST 21OAK 21 HST 17 LI: 1(Shotgun) 7-C.Keenum sacked at HST 15 for -6 yards(94-Ke.Burnett)FUMBLES (94-Ke.Burnett) recovered by HST-88-G.Graham at HST 1388-G.Graham to HST 15 for 2 yards(93-J.Hunter).'>37.45</number><number>0.73</number>
+<number shadow='shadow1' tooltip='7:21 4-15-HST 15OAK 21 HST 17 LI: 0.79-S.Lechler punts 55 yards to OAK 30 Center-46-J.Weeks12-J.Ford to OAK 41 for 11 yards(52-J.Tarpinian; 57-J.Tuggle)(The punt hang time was 4.62 seconds.)'>37.65</number><number>0.72</number>
+<number shadow='shadow1' tooltip='7:12 1-10-OAK 41OAK 21 HST 17 LI: 1.527-R.Jennings up the middle to OAK 41 for no gain (51-D.Sharpton)PENALTY on HST-93-J.Crick Defensive Offside 5 yards enforced at OAK 41 - No Play.'>37.8</number><number>0.73</number>
+<number shadow='shadow1' tooltip='6:48 1-5-OAK 46OAK 21 HST 17 LI: 1.527-R.Jennings right guard to HST 44 for 10 yards(26-B.Harris).'>38.2</number><number>0.75</number>
+<number shadow='shadow1' tooltip='6:06 1-10-HST 44OAK 21 HST 17 LI: 1.4(Shotgun) 27-R.Jennings up the middle to HST 44 for no gain (92-E.Mitchell).'>38.9</number><number>0.73</number>
+<number shadow='shadow1' tooltip='5:25 2-10-HST 44OAK 21 HST 17 LI: 1.2(Shotgun) 14-M.McGloin pass short left to 45-M.Reece to HST 47 for -3 yards(52-J.Tarpinian).'>39.58</number><number>0.7</number>
+<number shadow='shadow1' tooltip='4:39 3-13-HST 47OAK 21 HST 17 LI: 1(Shotgun) 14-M.McGloin pass short left to 81-M.Rivera to HST 36 for 11 yards(36-D.Swearinger) [99-J.Watt].'>40.35</number><number>0.69</number>
+<number shadow='shadow1' tooltip='3:48 4-2-HST 36OAK 21 HST 17 LI: 0.611-S.Janikowski 54 yard field goal is No Good Hit Left Upright Center-59-J.Condo Holder-7-M.King.'>41.2</number><number>0.62</number>
+<number shadow='shadow1' tooltip='3:41 1-10-HST 44OAK 21 HST 17 LI: 1.47-C.Keenum pass incomplete deep middle to 88-G.Graham.'>41.32</number><number>0.63</number>
+<number shadow='shadow1' tooltip='3:35 2-10-HST 44OAK 21 HST 17 LI: 1.37-C.Keenum pass incomplete short left to 88-G.Graham [94-Ke.Burnett].'>41.42</number><number>0.65</number>
+<number shadow='shadow1' tooltip='3:28 3-10-HST 44OAK 21 HST 17 LI: 1.1(Shotgun) 7-C.Keenum pass short right to 80-A.Johnson to OAK 48 for 8 yards(23-T.Porter 26-U.Young).'>41.53</number><number>0.68</number>
+<number shadow='shadow1' tooltip='2:46 4-2-OAK 48OAK 21 HST 17 LI: 0.69-S.Lechler punts 48 yards to end zone Center-46-J.Weeks Touchback(The punt hang time was 4.21 seconds.)'>42.23</number><number>0.69</number>
+<number shadow='shadow1' tooltip='2:39 1-10-OAK 20OAK 21 HST 17 LI: 1.6(Shotgun) 27-R.Jennings left guard for 80 yards TOUCHDOWN(Direct snap to #27 Rashad Jennings.)'>42.35</number><number>0.86</number>
+<number shadow='shadow1' tooltip='2:39 OAK 21 HST 17 LI: 11-S.Janikowski extra point is GOOD Center-59-J.Condo Holder-7-M.King.'>42.39</number><number>0.86</number>
+<number shadow='shadow1' tooltip='2:39 OAK 28 HST 17 LI: 11-S.Janikowski kicks 65 yards from OAK 35 to end zone Touchback.'>42.44</number><number>0.87</number>
+<number shadow='shadow1' tooltip='2:26 1-10-HST 20OAK 28 HST 17 LI: 0.9(Shotgun) 8-M.Schaub pass incomplete short left to 80-A.Johnson.'>42.57</number><number>0.88</number>
+<number shadow='shadow1' tooltip='2:22 2-10-HST 20OAK 28 HST 17 LI: 0.8(Shotgun) 8-M.Schaub pass deep middle to 80-A.Johnson to HST 43 for 23 yards(29-B.Ross).'>42.63</number><number>0.84</number>
+<number shadow='shadow1' tooltip='1:58 1-10-HST 43OAK 28 HST 17 LI: 0.9(No Huddle) 8-M.Schaub pass short left to 80-A.Johnson to HST 48 for 5 yards(28-P.Adams).'>43.03</number><number>0.84</number>
+<number shadow='shadow1' tooltip='1:36 2-5-HST 48OAK 28 HST 17 LI: 0.9(No Huddle) 44-B.Tate right tackle to OAK 49 for 3 yards(94-Ke.Burnett).'>43.4</number><number>0.85</number>
+<number shadow='shadow1' tooltip='1:00 3-2-OAK 49OAK 28 HST 17 LI: 0.7(Shotgun) 8-M.Schaub pass incomplete short left to 80-A.Johnson.'>44</number><number>0.89</number>
+<number shadow='shadow1' tooltip='0:57 4-2-OAK 49OAK 28 HST 17 LI: 0.3(Shotgun) PENALTY on HST-79-B.Brooks False Start 5 yards enforced at OAK 49 - No Play.'>44.05</number><number>0.89</number>
+<number shadow='shadow1' tooltip='0:48 1-10-OAK 20OAK 28 HST 17 LI: 1.1(Shotgun) 45-M.Reece right guard to OAK 22 for 2 yards(93-J.Crick)OAK-65-M.Brisiel was injured during the playHis return is Probable.'>44.2</number><number>0.9</number>
+<number shadow='shadow1' tooltip='0:07 2-8-OAK 22OAK 28 HST 17 LI: 1.1(Shotgun) 14-M.McGloin pass incomplete short left to 45-M.Reece.'>44.88</number><number>0.88</number>
+<number shadow='shadow1' tooltip='0:03 3-8-OAK 22OAK 28 HST 17 LI: 0.9(Shotgun) 14-M.McGloin pass short right to 17-D.Moore pushed ob at OAK 28 for 6 yards(24-J.Joseph).'>44.95</number><number>0.87</number>
+<number shadow='shadow1' tooltip='15:00 4-2-OAK 28OAK 28 HST 17 LI: 0.77-M.King punts 48 yards to HST 24 Center-59-J.Condo82-K.Martin to HST 31 for 7 yards(29-B.Ross)(The punt hang time was 4.44 seconds.)'>45</number><number>0.87</number>
+<number shadow='shadow1' tooltip='14:47 1-10-HST 31OAK 28 HST 17 LI: 0.8(Shotgun) 8-M.Schaub pass short middle to 88-G.Graham to OAK 46 for 23 yards(24-C.Woodson; 28-P.Adams).'>45.22</number><number>0.84</number>
+<number shadow='shadow1' tooltip='14:21 1-10-OAK 46OAK 28 HST 17 LI: 0.9(No Huddle Shotgun) 8-M.Schaub pass incomplete short right to 10-D.Hopkins.'>45.65</number><number>0.86</number>
+<number shadow='shadow1' tooltip='14:17 2-10-OAK 46OAK 28 HST 17 LI: 0.7(Shotgun) 8-M.Schaub pass short right to 82-K.Martin to OAK 23 for 23 yards(24-C.Woodson; 21-M.Jenkins).'>45.72</number><number>0.8</number>
+<number shadow='shadow1' tooltip='13:43 1-10-OAK 23OAK 28 HST 17 LI: 1.1(No Huddle Shotgun) 44-B.Tate right tackle to OAK 19 for 4 yards(94-Ke.Burnett).'>46.28</number><number>0.8</number>
+<number shadow='shadow1' tooltip='13:14 2-6-OAK 19OAK 28 HST 17 LI: 1.1(Shotgun) 8-M.Schaub pass incomplete short middle to 44-B.Tate.'>46.77</number><number>0.82</number>
+<number shadow='shadow1' tooltip='13:09 3-6-OAK 19OAK 28 HST 17 LI: 0.9(Shotgun) PENALTY on HST-79-B.Brooks False Start 5 yards enforced at OAK 19 - No Play.'>46.85</number><number>0.85</number>
+<number shadow='shadow1' tooltip='13:04 1-10-OAK 10OAK 28 HST 17 LI: 1.5(Shotgun) 44-B.Tate right guard to OAK 8 for 2 yards(99-L.Houston).'>46.93</number><number>0.78</number>
+<number shadow='shadow1' tooltip='12:27 2-8-OAK 8OAK 28 HST 17 LI: 1.4(Shotgun) 8-M.Schaub pass incomplete short middle to 80-A.Johnson (29-B.Ross).'>47.55</number><number>0.81</number>
+<number shadow='shadow1' tooltip='12:22 3-8-OAK 8OAK 28 HST 17 LI: 1.1(Shotgun) 8-M.Schaub pass incomplete short left to 82-K.Martin.'>47.63</number><number>0.87</number>
+<number shadow='shadow1' tooltip='12:16 4-8-OAK 8OAK 28 HST 17 LI: 0.54-R.Bullock 26 yard field goal is GOOD Center-46-J.Weeks Holder-9-S.Lechler.'>47.73</number><number>0.87</number>
+<number shadow='shadow1' tooltip='12:16 OAK 28 HST 20 LI: 4-R.Bullock kicks 72 yards from HST 35 to OAK -722-T.Jones Touchback.'>47.82</number><number>0.87</number>
+<number shadow='shadow1' tooltip='12:05 2-10-OAK 20OAK 28 HST 20 LI: 1.527-R.Jennings up the middle to OAK 22 for 2 yards(92-E.Mitchell)OAK-71-M.Watson was injured during the playHis return is Probable.'>47.92</number><number>0.85</number>
+<number shadow='shadow1' tooltip='11:36 3-8-OAK 22OAK 28 HST 20 LI: 1.3(Shotgun) 14-M.McGloin pass incomplete deep right to 18-A.HolmesOakland challenged the incomplete pass ruling and the play was Upheld(Timeout #2.)'>48.4</number><number>0.82</number>
+<number shadow='shadow1' tooltip='11:29 4-8-OAK 22OAK 28 HST 20 LI: 17-M.King punts 39 yards to HST 39 Center-59-J.Condo out of bounds(The punt hang time was 3.31 seconds.)'>48.52</number><number>0.82</number>
+<number shadow='shadow1' tooltip='11:20 1-10-HST 39OAK 28 HST 20 LI: 0.9(Shotgun) 8-M.Schaub pass short middle to 82-K.Martin to HST 48 for 9 yards(53-N.Roach).'>48.67</number><number>0.79</number>
+<number shadow='shadow1' tooltip='10:48 2-1-HST 48OAK 28 HST 20 LI: 1.2(No Huddle Shotgun) 8-M.Schaub pass short right to 80-A.Johnson to OAK 43 for 9 yards(21-M.Jenkins).'>49.2</number><number>0.77</number>
+<number shadow='shadow1' tooltip='10:32 1-10-OAK 43OAK 28 HST 20 LI: 1.3(No Huddle Shotgun) 8-M.Schaub pass incomplete deep left to 11-D.PoseyOAK-21-M.Jenkins was injured during the playHis return is Probable.'>49.47</number><number>0.8</number>
+<number shadow='shadow1' tooltip='10:25 2-10-OAK 43OAK 28 HST 20 LI: 1.1(Shotgun) 8-M.Schaub pass short right to 88-G.Graham pushed ob at OAK 29 for 14 yards(35-C.Chekwa).'>49.58</number><number>0.73</number>
+<number shadow='shadow1' tooltip='10:05 1-10-OAK 29OAK 28 HST 20 LI: 1.6(Shotgun) 8-M.Schaub pass incomplete short middle to 44-B.Tate.'>49.92</number><number>0.74</number>
+<number shadow='shadow1' tooltip='9:57 2-10-OAK 29OAK 28 HST 20 LI: 1.5(Shotgun) 44-B.Tate up the middle to OAK 13 for 16 yards(29-B.Ross).'>50.05</number><number>0.66</number>
+<number shadow='shadow1' tooltip='9:34 1-10-OAK 13OAK 28 HST 20 LI: 2.344-B.Tate up the middle to OAK 16 for -3 yards(90-P.Sims).'>50.43</number><number>0.75</number>
+<number shadow='shadow1' tooltip='8:54 2-13-OAK 16OAK 28 HST 20 LI: 1.4(Shotgun) 8-M.Schaub pass short right to 44-B.Tate to OAK 12 for 4 yards(94-Ke.Burnett).'>51.1</number><number>0.74</number>
+<number shadow='shadow1' tooltip='8:11 3-9-OAK 12OAK 28 HST 20 LI: 1.6(Shotgun) 8-M.Schaub pass incomplete short middle to 80-A.Johnson (24-C.Woodson).'>51.82</number><number>0.81</number>
+<number shadow='shadow1' tooltip='8:05 4-9-OAK 12OAK 28 HST 20 LI: 0.94-R.Bullock 30 yard field goal is GOOD Center-46-J.Weeks Holder-9-S.Lechler.'>51.92</number><number>0.81</number>
+<number shadow='shadow1' tooltip='8:05 OAK 28 HST 23 LI: 4-R.Bullock kicks 73 yards from HST 35 to OAK -822-T.Jones to OAK 21 for 29 yards(90-D.Smith).'>52.01</number><number>0.8</number>
+<number shadow='shadow1' tooltip='7:57 1-10-OAK 21OAK 28 HST 23 LI: 2.4(Shotgun) 27-R.Jennings left tackle to OAK 25 for 4 yards(51-D.Sharpton; 52-J.Tarpinian)(Shotgun was out of the Wildcat formation.)'>52.05</number><number>0.81</number>
+<number shadow='shadow1' tooltip='7:15 2-6-OAK 25OAK 28 HST 23 LI: 2.5(Shotgun) 14-M.McGloin pass incomplete short left to 27-R.Jennings [51-D.Sharpton].'>52.75</number><number>0.78</number>
+<number shadow='shadow1' tooltip='7:10 3-6-OAK 25OAK 28 HST 23 LI: 2.1(Shotgun) 14-M.McGloin pass incomplete short middle to 81-M.Rivera.'>52.83</number><number>0.73</number>
+<number shadow='shadow1' tooltip='7:05 4-6-OAK 25OAK 28 HST 23 LI: 1.67-M.King punts 45 yards to HST 30 Center-59-J.Condo fair catch by 82-K.Martin(The punt hang time was 4.51 seconds.)'>52.92</number><number>0.76</number>
+<number shadow='shadow1' tooltip='6:57 1-10-HST 30OAK 28 HST 23 LI: 1.6(Shotgun) 8-M.Schaub pass incomplete short middle to 88-G.Graham.'>53.05</number><number>0.76</number>
+<number shadow='shadow1' tooltip='6:52 2-10-HST 30OAK 28 HST 23 LI: 1.6(Shotgun) 8-M.Schaub pass incomplete short middle to 82-K.Martin [55-S.Moore].'>53.13</number><number>0.79</number>
+<number shadow='shadow1' tooltip='6:47 3-10-HST 30OAK 28 HST 23 LI: 1.3(Shotgun) 8-M.Schaub pass incomplete short middle to 82-K.Martin [99-L.Houston].'>53.22</number><number>0.84</number>
+<number shadow='shadow1' tooltip='6:41 4-10-HST 30OAK 28 HST 23 LI: 0.89-S.Lechler punts 54 yards to OAK 16 Center-46-J.Weeks fair catch by 12-J.Ford(The punt hang time was 4.34 seconds.)'>53.32</number><number>0.81</number>
+<number shadow='shadow1' tooltip='6:33 1-10-OAK 16OAK 28 HST 23 LI: 2.527-R.Jennings left guard to OAK 20 for 4 yards(94-A.Smith).'>53.45</number><number>0.81</number>
+<number shadow='shadow1' tooltip='5:50 2-6-OAK 20OAK 28 HST 23 LI: 327-R.Jennings up the middle to OAK 25 for 5 yards(94-A.Smith 31-S.Keo).'>54.17</number><number>0.84</number>
+<number shadow='shadow1' tooltip='5:01 3-1-OAK 25OAK 28 HST 23 LI: 2.927-R.Jennings right guard to OAK 26 for 1 yard(51-D.Sharpton 52-J.Tarpinian)OAK-64-A.Gurode was injured during the playHis return is Probable.'>54.98</number><number>0.84</number>
+<number shadow='shadow1' tooltip='4:19 1-10-OAK 26OAK 28 HST 23 LI: 2.727-R.Jennings right guard to OAK 26 for no gain (31-S.Keo; 52-J.Tarpinian).'>55.68</number><number>0.8</number>
+<number shadow='shadow1' tooltip='4:10 2-10-OAK 26OAK 28 HST 23 LI: 2.314-M.McGloin pass incomplete short right to 45-M.Reece.'>55.83</number><number>0.77</number>
+<number shadow='shadow1' tooltip='4:06 3-10-OAK 26OAK 28 HST 23 LI: 2(Shotgun) 14-M.McGloin sacked at OAK 15 for -11 yards(99-J.Watt).'>55.9</number><number>0.69</number>
+<number shadow='shadow1' tooltip='4:01 4-21-OAK 15OAK 28 HST 23 LI: 2.77-M.King punts 48 yards to HST 37 Center-59-J.Condo82-K.Martin ran ob at HST 48 for 11 yardsPENALTY on HST-50-B.Braman Running Into the Kicker 5 yards enforced at OAK 15 - No Play.'>55.98</number><number>0.71</number>
+<number shadow='shadow1' tooltip='3:50 4-16-OAK 20OAK 28 HST 23 LI: 2.27-M.King punts 44 yards to HST 36 Center-59-J.Condo fair catch by 82-K.Martin(The punt hang time was 4.84 seconds.)'>56.17</number><number>0.72</number>
+<number shadow='shadow1' tooltip='3:43 1-10-HST 36OAK 28 HST 23 LI: 2(Shotgun) 8-M.Schaub pass short right to 10-D.Hopkins to HST 43 for 7 yards(21-M.Jenkins).'>56.28</number><number>0.69</number>
+<number shadow='shadow1' tooltip='3:19 2-3-HST 43OAK 28 HST 23 LI: 2.1(Shotgun) 8-M.Schaub pass deep left to 80-A.Johnson ran ob at OAK 35 for 22 yards(24-C.Woodson).'>56.68</number><number>0.63</number>
+<number shadow='shadow1' tooltip='3:13 1-10-OAK 35OAK 28 HST 23 LI: 2.5(Shotgun) 8-M.Schaub pass short left to 44-B.Tate to OAK 26 for 9 yards(28-P.Adams).'>56.78</number><number>0.59</number>
+<number shadow='shadow1' tooltip='2:38 2-1-OAK 26OAK 28 HST 23 LI: 3.1(No Huddle Shotgun) 44-B.Tate right end to OAK 11 for 15 yards(24-C.Woodson).'>57.37</number><number>0.47</number>
+<number shadow='shadow1' tooltip='2:02 1-10-OAK 11OAK 28 HST 23 LI: 4.2(No Huddle Shotgun) 44-B.Tate up the middle to OAK 9 for 2 yards(98-V.Walker).'>57.97</number><number>0.52</number>
+<number shadow='shadow1' tooltip='1:57 2-8-OAK 9OAK 28 HST 23 LI: 3.7(Shotgun) 8-M.Schaub pass short right to 44-B.Tate to OAK 2 for 7 yards(24-C.Woodson)FUMBLES (24-C.Woodson) and recovers at OAK 244-B.Tate to OAK 2 for no gain (21-M.Jenkins).'>58.05</number><number>0.41</number>
+<number shadow='shadow1' tooltip='1:28 3-1-OAK 2OAK 28 HST 23 LI: 4.844-B.Tate left tackle to OAK 3 for -1 yards(94-Ke.Burnett).'>58.53</number><number>0.93</number>
+<number shadow='shadow1' tooltip='1:15 4-2-OAK 3OAK 28 HST 23 LI: 0.1(Shotgun) PENALTY on HST-79-B.Brooks False Start 5 yards enforced at OAK 3 - No Play.'>58.75</number><number>0.93</number>
+<number shadow='shadow1' tooltip='1:10 1-10-OAK 8OAK 28 HST 23 LI: 5.614-M.McGloin kneels to OAK 7 for -1 yards.'>58.83</number><number>0.88</number>
+<number shadow='shadow1' tooltip='1:07 2-11-OAK 7OAK 28 HST 23 LI: 5.214-M.McGloin kneels to OAK 6 for -1 yards.'>58.88</number><number>0.89</number>
+<number shadow='shadow1' tooltip='0:26 3-12-OAK 6OAK 28 HST 23 LI: 614-M.McGloin kneels to OAK 5 for -1 yards.'>59.57</number><number>1</number>
+<number>60</number><number>1</number>
+</row> </chart_data>
+       <draw>
+
+
+
+      <image x='45' y='298'  url='nfllogos/42x50png/OAK.gif'  layer='foreground' glow = 'glow1'/>
+      <image x='45' y='350'  url='nfllogos/42x50png/HST.gif'     layer='foreground' glow = 'glow1'/>
+
+
+      <rect x='130' y='300' width='250' height='40' fill_color='101b24' bevel='bevel1' />
+      <text x='135' y='300' width='250' height='40' h_align='left' v_align='middle' color='ffffff' shadow='shadow2' glow='winnerglow'>Oakland Raiders</text>
+
+      <rect x='130' y='350' width='250' height='40' fill_color='002c44' bevel='bevel1'  />
+      <text x='135' y='350' width='250' height='40' h_align='left' v_align='middle' color='ffffff' shadow='shadow2' glow=''>Houston Texans</text>
+
+      <rect x='420' y='300' width='60' height='40' fill_color='101b24' bevel='bevel1'  />
+      <text x='420' y='300' width='60' height='40' h_align='center' v_align='middle' color='ffffff' shadow='shadow2' transition='none' glow='winnerglow'>28</text>
+
+      <rect x='420' y='350' width='60' height='40' fill_color='002c44' bevel='bevel1' />
+      <text x='420' y='350' width='60' height='40' h_align='center' v_align='middle' color='ffffff' shadow='shadow2' transition='none' glow=''>23</text>
+
+      <text x='-3' y='12'  width='60' height='40' h_align='center' v_align='middle' size='13' shadow='shadow2'>OAKWin </text>
+      <text x='-3' y='218' width='60' height='40' h_align='center' v_align='middle' size='13' shadow='shadow2'>HSTWin </text>
+
+     
+              <rect x='540' y='300' width='100' height='35' fill_color='000000' fill_alpha='50'/>
+              <text x='540' y='300' width='100' height='35' h_align='center' v_align='middle' color='ffffff' size='15' shadow='shadow2' >Final</text>
+
+              <text x='540' y='340' width='40' h_align='center' color='000000' size='12' shadow='shadow2'>CBF</text>
+              <text x='600' y='340' width='40' h_align='center' color='000000' size='12' shadow='shadow2'>EI</text>
+
+              <rect x='540' y='360' width='40' height='30' fill_color='000000' fill_alpha='50' />
+              <text x='540' y='360' width='40' height='30' size='12' h_align='center' v_align='middle' color='FFFFFF' shadow='shadow2'>3</text>
+
+              <rect x='600' y='360' width='40' height='30' fill_color='000000' fill_alpha='50' />
+              <text x='600' y='360' width='40' height='30' size='12' h_align='center' v_align='middle' color='FFFFFF' shadow='shadow2'>5.8</text>
+
+              <text x='20' y='420' width='70' height='25' size='12' h_align='left' v_align='middle' color='000000' >11/17/2013</text>
+              <text x='100' y='420' width='200' height='25' size='12' h_align='left' v_align='middle' color='000000' >Reliant Stadium</text>
+
+   </draw></chart>

@@ -1,0 +1,289 @@
+
+<chart>
+   <license>ETAS9P33ESHO.945CWK-2XOI1X0-7L</license>
+   <chart_type>scatter</chart_type>
+   <chart_pref trend_thickness='0' line_thickness='3' point_size='0'/>
+
+   <series_color>
+      <color>ffff00</color>
+   </series_color>
+
+   <chart_rect x='45' y='20' width='630' height='230' positive_color='cacaca'  />
+
+  <chart_border top_thickness='0'
+                 bottom_thickness='0'
+                 left_thickness='0'
+                 right_thickness='0'
+                 color='000000'
+                 />
+
+   <tooltip font='Arial' bold='true' size='11' />
+
+   <chart_note type='flag'
+               color='000000'
+               alpha='90'
+               bold='FALSE'
+               size='10'
+               background_color='ffffe0'
+               background_alpha='50'
+               shadow='shadow2'
+               />
+
+   <chart_grid_h thickness='2' color='ffffff' type='dashed'  />
+   <chart_grid_v thickness='2' color='ffffff'   />
+		>
+
+   <legend layout='hide' />
+
+   <chart_guide horizontal='TRUE'
+             vertical='TRUE'
+             thickness='1'
+             color='006400'
+             alpha='100'
+             type='solid'
+             snap_h='TRUE'
+             snap_v='TRUE'
+             radius='3'
+             fill_color='006400'
+             fill_alpha='100'
+             line_color='006400'
+             line_alpha='80'
+             line_thickness='1'
+             text_h_alpha='50'
+             text_v_alpha='00'
+             suffix_h=' WP'
+             decimals='2'
+             bold='FALSE'
+             size='11'
+             text_color='FFFFFF'
+             background_color='006400'
+             />
+   <filter>
+      <shadow id='shadow1' distance='2' angle='60' blurX='5' blurY='5' alpha='50' />
+      <bevel id='bevel1' angle='45' blurX='5' blurY='5' distance='0' />
+      <glow id='glow1' color='ffffff' alpha='0' blurX='7' blurY='7' strength='6' quality='2' inner='FALSE' knockout='FALSE' />
+      <glow id='winnerglow' color='ffffff' alpha='0' blurX='7' blurY='7' strength='5' quality='2' inner='FALSE' knockout='FALSE' />
+   </filter>
+
+    <axis_value_label>
+         <string></string>
+          <string> </string>
+          <null/>
+          <string> </string>
+          <string></string>
+
+       </axis_value_label>
+		
+	   <axis_ticks category_ticks='false'/>
+
+       <axis_value min='0' max='1' steps='4'  decimals='2' show_min='true' size='13' shadow='shadow2' />     
+            <axis_category
+               min='0'
+               max='60'
+               steps='4'
+               mode='all'
+               decimals='0'
+               size='13'
+               shadow='shadow2'
+               />
+
+       <axis_category_label>
+          <string>Kickoff</string>
+          <string></string>
+          <string>Halftime</string>
+          <string></string>
+          <string>End</string>
+
+       </axis_category_label>
+
+
+        <chart_data>
+       <row>
+	      <null/><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number>
+              <number>x</number><number>y</number>
+              </row><row><string></string>
+
+                     <number shadow='shadow1'>0</number><number>.5</number><number shadow='shadow1' tooltip='15:00 NYG 0 CHI 0 LI: 9-R.Gould kicks 65 yards from CHI 35 to end zone Touchback.'>0.09</number><number>0.52</number>
+<number shadow='shadow1' tooltip='14:15 3-6-NYG 24NYG 0 CHI 0 LI: 1.3(Shotgun) 10-E.Manning pass short left intended for 82-R.Randle INTERCEPTED by 38-Z.Bowman at NYG 3638-Z.Bowman to NYG 12 for 24 yards(65-W.Beatty).'>0.75</number><number>0.33</number>
+<number shadow='shadow1' tooltip='14:07 1-10-NYG 12NYG 0 CHI 0 LI: 1.7#62 EBritton reports eligible6-J.Cutler scrambles left end to NYG 10 for 2 yards(26-A.Rolle).'>0.88</number><number>0.34</number>
+<number shadow='shadow1' tooltip='13:26 2-8-NYG 10NYG 0 CHI 0 LI: 1.622-M.Forte left guard to NYG 5 for 5 yards(26-A.Rolle).'>1.57</number><number>0.34</number>
+<number shadow='shadow1' tooltip='12:43 3-3-NYG 5NYG 0 CHI 0 LI: 1.622-M.Forte right guard to NYG 4 for 1 yard(52-J.Beason).'>2.28</number><number>0.41</number>
+<number shadow='shadow1' tooltip='12:08 4-2-NYG 4NYG 0 CHI 0 LI: 0.9(Shotgun) 6-J.Cutler pass incomplete short left to 15-B.Marshall.'>2.87</number><number>0.5</number>
+<number shadow='shadow1' tooltip='12:03 1-10-NYG 4NYG 0 CHI 0 LI: 1.834-B.Jacobs right guard to NYG 20 for 16 yards(47-C.Conte).'>2.95</number><number>0.52</number>
+<number shadow='shadow1' tooltip='11:26 1-10-NYG 20NYG 0 CHI 0 LI: 1.610-E.Manning pass incomplete short middle to 34-B.Jacobs (55-L.Briggs).'>3.57</number><number>0.5</number>
+<number shadow='shadow1' tooltip='11:21 2-10-NYG 20NYG 0 CHI 0 LI: 1.434-B.Jacobs right tackle to NYG 25 for 5 yards(58-D.Williams).'>3.65</number><number>0.5</number>
+<number shadow='shadow1' tooltip='10:38 3-5-NYG 25NYG 0 CHI 0 LI: 1.3(Shotgun) 10-E.Manning pass short left to 82-R.Randle pushed ob at NYG 45 for 20 yards(21-M.Wright).'>4.37</number><number>0.56</number>
+<number shadow='shadow1' tooltip='10:01 1-10-NYG 45NYG 0 CHI 0 LI: 1.4(Shotgun) 10-E.Manning pass short right intended for 82-R.Randle INTERCEPTED by 26-T.Jennings at NYG 4826-T.Jennings for 48 yards TOUCHDOWN.'>4.98</number><number>0.29</number>
+<number shadow='shadow1' tooltip='10:01 NYG 0 CHI 0 LI: 9-R.Gould extra point is GOOD Center-65-P.Mannelly Holder-8-A.Podlesh.'>5.02</number><number>0.29</number>
+<number shadow='shadow1' tooltip='10:01 NYG 0 CHI 7 LI: 9-R.Gould kicks 65 yards from CHI 35 to end zone Touchback.'>5.07</number><number>0.28</number>
+<number shadow='shadow1' tooltip='9:50 1-10-NYG 20NYG 0 CHI 7 LI: 1.534-B.Jacobs left guard to NYG 20 for no gain (55-L.Briggs).'>5.17</number><number>0.27</number>
+<number shadow='shadow1' tooltip='9:18 2-10-NYG 20NYG 0 CHI 7 LI: 1.434-B.Jacobs left end to NYG 24 for 4 yards(58-D.Williams).'>5.7</number><number>0.27</number>
+<number shadow='shadow1' tooltip='8:32 3-6-NYG 24NYG 0 CHI 7 LI: 1.3(Shotgun) 10-E.Manning pass short right to 80-V.Cruz to NYG 40 for 16 yards(50-Ja.Anderson).'>6.47</number><number>0.31</number>
+<number shadow='shadow1' tooltip='7:46 1-10-NYG 40NYG 0 CHI 7 LI: 1.310-E.Manning pass short left to 80-V.Cruz pushed ob at CHI 44 for 16 yards(38-Z.Bowman).'>7.23</number><number>0.33</number>
+<number shadow='shadow1' tooltip='7:15 1-10-CHI 44NYG 0 CHI 7 LI: 1.1(Shotgun) 33-D.Scott left end to CHI 42 for 2 yards(21-M.Wright).'>7.75</number><number>0.34</number>
+<number shadow='shadow1' tooltip='6:35 2-8-CHI 42NYG 0 CHI 7 LI: 1.134-B.Jacobs right end to CHI 35 for 7 yards(26-T.Jennings).'>8.42</number><number>0.34</number>
+<number shadow='shadow1' tooltip='5:53 3-1-CHI 35NYG 0 CHI 7 LI: 0.934-B.Jacobs right guard to CHI 22 for 13 yards(47-C.Conte).'>9.12</number><number>0.37</number>
+<number shadow='shadow1' tooltip='5:17 1-10-CHI 22NYG 0 CHI 7 LI: 0.9(Shotgun) 10-E.Manning pass short left to 88-H.Nicks to CHI 5 for 17 yards(47-C.Conte).'>9.72</number><number>0.45</number>
+<number shadow='shadow1' tooltip='4:36 1-5-CHI 5NYG 0 CHI 7 LI: 1.4(Shotgun) 33-D.Scott left guard to CHI 4 for 1 yard(31-I.Frey).'>10.4</number><number>0.45</number>
+<number shadow='shadow1' tooltip='3:55 2-4-CHI 4NYG 0 CHI 7 LI: 1.434-B.Jacobs right guard for 4 yards TOUCHDOWN.'>11.08</number><number>0.47</number>
+<number shadow='shadow1' tooltip='3:55 NYG 0 CHI 7 LI: 3-J.Brown extra point is GOOD Center-51-Z.DeOssie Holder-5-S.Weatherford.'>11.12</number><number>0.47</number>
+<number shadow='shadow1' tooltip='3:55 NYG 7 CHI 7 LI: 3-J.Brown kicks 74 yards from NYG 35 to CHI -923-D.Hester to CHI 14 for 23 yards(37-C.James).'>11.17</number><number>0.5</number>
+<number shadow='shadow1' tooltip='3:43 1-10-CHI 14NYG 7 CHI 7 LI: 1.76-J.Cutler pass deep left to 15-B.Marshall to CHI 34 for 20 yards(26-A.Rolle).'>11.28</number><number>0.46</number>
+<number shadow='shadow1' tooltip='3:02 1-10-CHI 34NYG 7 CHI 7 LI: 1.5(Shotgun) 6-J.Cutler pass short left to 22-M.Forte to CHI 47 for 13 yards(20-P.Amukamara).'>11.97</number><number>0.44</number>
+<number shadow='shadow1' tooltip='2:22 1-10-CHI 47NYG 7 CHI 7 LI: 1.36-J.Cutler pass incomplete short right to 15-B.Marshall.'>12.63</number><number>0.45</number>
+<number shadow='shadow1' tooltip='2:18 2-10-CHI 47NYG 7 CHI 7 LI: 1.26-J.Cutler pass short left to 15-B.Marshall to NYG 41 for 12 yards(20-P.Amukamara).'>12.7</number><number>0.41</number>
+<number shadow='shadow1' tooltip='1:40 1-10-NYG 41NYG 7 CHI 7 LI: 1.46-J.Cutler pass short middle to 43-T.Fiammetta to NYG 11 for 30 yards(24-T.Thomas).'>13.33</number><number>0.33</number>
+<number shadow='shadow1' tooltip='0:48 1-10-NYG 11NYG 7 CHI 7 LI: 1.7(Shotgun) 22-M.Forte right guard to NYG 12 for -1 yards(90-J.Pierre-Paul).'>14.2</number><number>0.35</number>
+<number shadow='shadow1' tooltip='15:00 2-11-NYG 12NYG 7 CHI 7 LI: 1.5#62 EBritton reports eligible22-M.Forte right guard to NYG 10 for 2 yards(21-R.Mundy).'>15</number><number>0.36</number>
+<number shadow='shadow1' tooltip='14:23 3-9-NYG 10NYG 7 CHI 7 LI: 1.4(Shotgun) 6-J.Cutler pass short middle to 15-B.Marshall for 10 yards TOUCHDOWN.'>15.62</number><number>0.29</number>
+<number shadow='shadow1' tooltip='14:23 NYG 7 CHI 7 LI: 9-R.Gould extra point is GOOD Center-65-P.Mannelly Holder-8-A.Podlesh.'>15.66</number><number>0.29</number>
+<number shadow='shadow1' tooltip='14:23 NYG 7 CHI 14 LI: 9-R.Gould kicks 65 yards from CHI 35 to end zone Touchback.'>15.71</number><number>0.28</number>
+<number shadow='shadow1' tooltip='13:44 2-6-NYG 24NYG 7 CHI 14 LI: 1.334-B.Jacobs right guard to NYG 25 for 1 yard(91-D.Bass).'>16.27</number><number>0.27</number>
+<number shadow='shadow1' tooltip='13:01 3-5-NYG 25NYG 7 CHI 14 LI: 1.2(Shotgun) 10-E.Manning pass short right to 86-B.Pascoe pushed ob at NYG 39 for 14 yards(21-M.Wright).'>16.98</number><number>0.31</number>
+<number shadow='shadow1' tooltip='12:21 1-10-NYG 39NYG 7 CHI 14 LI: 1.310-E.Manning pass short right to 88-H.Nicks pushed ob at 50 for 11 yards(47-C.Conte).'>17.65</number><number>0.32</number>
+<number shadow='shadow1' tooltip='11:49 1-10-50NYG 7 CHI 14 LI: 1.234-B.Jacobs left guard to 50 for no gain (91-D.Bass).'>18.18</number><number>0.31</number>
+<number shadow='shadow1' tooltip='11:09 2-10-50NYG 7 CHI 14 LI: 1.110-E.Manning pass short left to 80-V.Cruz to CHI 37 for 13 yards(38-Z.Bowman).'>18.85</number><number>0.33</number>
+<number shadow='shadow1' tooltip='10:41 1-10-CHI 37NYG 7 CHI 14 LI: 0.9(Shotgun) 10-E.Manning pass deep right to 82-R.Randle for 37 yards TOUCHDOWNThe Replay Assistant challenged the runner was in bounds ruling and the play was Upheld.'>19.32</number><number>0.47</number>
+<number shadow='shadow1' tooltip='10:41 NYG 7 CHI 14 LI: 3-J.Brown extra point is GOOD Center-51-Z.DeOssie Holder-5-S.WeatherfordPENALTY on CHI-23-D.Hester Defensive Offside 5 yards enforced between downs.'>19.36</number><number>0.47</number>
+<number shadow='shadow1' tooltip='10:41 NYG 14 CHI 14 LI: 3-J.Brown kicks 60 yards from NYG 40 to end zone Touchback.'>19.41</number><number>0.48</number>
+<number shadow='shadow1' tooltip='10:31 1-10-CHI 20NYG 14 CHI 14 LI: 1.522-M.Forte right guard to CHI 27 for 7 yards(52-J.Beason).'>19.48</number><number>0.48</number>
+<number shadow='shadow1' tooltip='9:55 2-3-CHI 27NYG 14 CHI 14 LI: 1.3#62 EBritton reports eligible22-M.Forte right end to CHI 33 for 6 yards(52-J.Beason).'>20.08</number><number>0.46</number>
+<number shadow='shadow1' tooltip='9:25 1-10-CHI 33NYG 14 CHI 14 LI: 1.46-J.Cutler pass deep right to 17-A.Jeffery to NYG 40 for 27 yards(24-T.Thomas).'>20.58</number><number>0.41</number>
+<number shadow='shadow1' tooltip='8:39 1-10-NYG 40NYG 14 CHI 14 LI: 1.46-J.Cutler pass short left to 83-M.Bennett pushed ob at NYG 26 for 14 yards(20-P.Amukamara).'>21.35</number><number>0.39</number>
+<number shadow='shadow1' tooltip='7:57 1-10-NYG 26NYG 14 CHI 14 LI: 1.46-J.Cutler pass incomplete deep left to 19-Jo.Anderson (94-M.Kiwanuka).'>22.05</number><number>0.37</number>
+<number shadow='shadow1' tooltip='7:51 2-10-NYG 26NYG 14 CHI 14 LI: 1.66-J.Cutler scrambles right end to NYG 24 for 2 yards(90-J.Pierre-Paul)PENALTY on NYG-95-S.Rogers Defensive Offside 5 yards enforced at NYG 26 - No Play.'>22.15</number><number>0.35</number>
+<number shadow='shadow1' tooltip='7:28 2-5-NYG 21NYG 14 CHI 14 LI: 1.76-J.Cutler pass short left to 15-B.Marshall to NYG 14 for 7 yards(20-P.Amukamara).'>22.53</number><number>0.31</number>
+<number shadow='shadow1' tooltip='6:51 1-10-NYG 14NYG 14 CHI 14 LI: 1.9(Shotgun) 6-J.Cutler pass short right to 22-M.Forte to NYG 5 for 9 yards(55-K.Rivers).'>23.15</number><number>0.29</number>
+<number shadow='shadow1' tooltip='6:06 2-1-NYG 5NYG 14 CHI 14 LI: 2.122-M.Forte right guard to NYG 3 for 2 yards(97-L.Joseph).'>23.9</number><number>0.3</number>
+<number shadow='shadow1' tooltip='5:24 1-3-NYG 3NYG 14 CHI 14 LI: 2(Shotgun) 6-J.Cutler pass short right to 15-B.Marshall for 3 yards TOUCHDOWN.'>24.6</number><number>0.28</number>
+<number shadow='shadow1' tooltip='5:24 NYG 14 CHI 14 LI: 9-R.Gould extra point is GOOD Center-65-P.Mannelly Holder-8-A.Podlesh.'>24.64</number><number>0.28</number>
+<number shadow='shadow1' tooltip='5:24 NYG 14 CHI 21 LI: 9-R.Gould kicks 65 yards from CHI 35 to NYG 012-J.Jernigan pushed ob at NYG 46 for 46 yards(21-M.Wright).'>24.69</number><number>0.31</number>
+<number shadow='shadow1' tooltip='5:12 1-10-NYG 46NYG 14 CHI 21 LI: 1.134-B.Jacobs right end to NYG 45 for -1 yards(55-L.Briggs).'>24.8</number><number>0.29</number>
+<number shadow='shadow1' tooltip='4:33 2-11-NYG 45NYG 14 CHI 21 LI: 0.910-E.Manning pass short middle to 34-B.Jacobs to CHI 47 for 8 yards(99-S.McClellin).'>25.45</number><number>0.3</number>
+<number shadow='shadow1' tooltip='3:47 3-3-CHI 47NYG 14 CHI 21 LI: 0.9(Shotgun) 10-E.Manning pass incomplete short right to 88-H.Nicks.'>26.22</number><number>0.26</number>
+<number shadow='shadow1' tooltip='3:43 4-3-CHI 47NYG 14 CHI 21 LI: 0.5(Punt formation) 5-S.Weatherford punts 47 yards to end zone Center-51-Z.DeOssie Touchback.'>26.28</number><number>0.25</number>
+<number shadow='shadow1' tooltip='3:34 1-10-CHI 20NYG 14 CHI 21 LI: 1.1#62 EBritton reports eligible22-M.Forte left end pushed ob at CHI 33 for 13 yards(26-A.Rolle).'>26.43</number><number>0.23</number>
+<number shadow='shadow1' tooltip='2:55 1-10-CHI 33NYG 14 CHI 21 LI: 1.16-J.Cutler pass incomplete short right to 17-A.Jeffery (91-J.Tuck).'>27.08</number><number>0.24</number>
+<number shadow='shadow1' tooltip='2:52 2-10-CHI 33NYG 14 CHI 21 LI: 1(Shotgun) 6-J.Cutler pass short right to 83-M.Bennett to CHI 48 for 15 yards(25-W.Hill).'>27.13</number><number>0.21</number>
+<number shadow='shadow1' tooltip='2:06 1-10-CHI 48NYG 14 CHI 21 LI: 1.1#62 EBritton reports eligible6-J.Cutler scrambles right tackle to NYG 43 for 9 yards(91-J.Tuck).'>27.9</number><number>0.2</number>
+<number shadow='shadow1' tooltip='1:59 2-1-NYG 43NYG 14 CHI 21 LI: 1#62 EBritton reports eligible22-M.Forte left guard to NYG 43 for no gain (91-J.Tuck).'>28.02</number><number>0.21</number>
+<number shadow='shadow1' tooltip='1:11 3-1-NYG 43NYG 14 CHI 21 LI: 0.9#62 EBritton reports eligible29-M.Bush right guard to NYG 41 for 2 yards.'>28.82</number><number>0.19</number>
+<number shadow='shadow1' tooltip='0:39 1-10-NYG 41NYG 14 CHI 21 LI: 1.1(No Huddle Shotgun) 6-J.Cutler pass short left to 15-B.Marshall to NYG 28 for 13 yards(20-P.Amukamara).'>29.35</number><number>0.17</number>
+<number shadow='shadow1' tooltip='0:16 1-10-NYG 28NYG 14 CHI 21 LI: 1(No Huddle Shotgun) 6-J.Cutler pass to 22-M.Forte to NYG 22 for 6 yards(26-A.Rolle).'>29.73</number><number>0.15</number>
+<number shadow='shadow1' tooltip='0:11 2-4-NYG 22NYG 14 CHI 21 LI: 1.1(Shotgun) 6-J.Cutler pass incomplete deep left to 80-E.Bennett.'>29.82</number><number>0.17</number>
+<number shadow='shadow1' tooltip='0:06 3-4-NYG 22NYG 14 CHI 21 LI: 0.9(Field Goal formation) 9-R.Gould 40 yard field goal is GOOD Center-65-P.Mannelly Holder-8-A.Podlesh.'>29.9</number><number>0.2</number>
+<number shadow='shadow1' tooltip='0:06 NYG 14 CHI 24 LI: 9-R.Gould kicks 40 yards from CHI 35 to NYG 2567-B.Mosley (didn t try to advance) to NYG 25 for no gain (25-C.Wilson).'>29.99</number><number>0.2</number>
+<number shadow='shadow1' tooltip='14:54 1-10-CHI 26NYG 14 CHI 24 LI: 1.2#62 EBritton reports eligible6-J.Cutler pass short right to 15-B.Marshall to CHI 41 for 15 yards(24-T.Thomas).'>30.1</number><number>0.14</number>
+<number shadow='shadow1' tooltip='14:11 1-10-CHI 41NYG 14 CHI 24 LI: 1.122-M.Forte right guard to CHI 42 for 1 yard(52-J.Beason).'>30.82</number><number>0.15</number>
+<number shadow='shadow1' tooltip='13:36 2-9-CHI 42NYG 14 CHI 24 LI: 16-J.Cutler pass short left to 22-M.Forte to CHI 48 for 6 yards(25-W.Hill).'>31.4</number><number>0.15</number>
+<number shadow='shadow1' tooltip='12:54 3-3-CHI 48NYG 14 CHI 24 LI: 0.9(Shotgun) 6-J.Cutler scrambles right guard to NYG 43 for 9 yards(25-W.Hill)PENALTY on NYG-25-W.Hill Unnecessary Roughness 15 yards enforced at NYG 43.'>32.1</number><number>0.09</number>
+<number shadow='shadow1' tooltip='12:35 1-10-NYG 28NYG 14 CHI 24 LI: 1.16-J.Cutler pass incomplete short right to 83-M.Bennett.'>32.42</number><number>0.11</number>
+<number shadow='shadow1' tooltip='12:31 2-10-NYG 28NYG 14 CHI 24 LI: 0.9(Shotgun) 22-M.Forte right end pushed ob at NYG 9 for 19 yards(24-T.Thomas)PENALTY on CHI-63-R.Garza Offensive Holding 10 yards enforced at NYG 28 - No Play.'>32.48</number><number>0.16</number>
+<number shadow='shadow1' tooltip='12:13 2-20-NYG 38NYG 14 CHI 24 LI: 0.66-J.Cutler pass incomplete deep right to 17-A.Jeffery.'>32.78</number><number>0.17</number>
+<number shadow='shadow1' tooltip='12:07 3-20-NYG 38NYG 14 CHI 24 LI: 0.5(Shotgun) 6-J.Cutler pass short right to 83-M.Bennett to NYG 34 for 4 yards(26-A.Rolle).'>32.88</number><number>0.16</number>
+<number shadow='shadow1' tooltip='11:29 4-16-NYG 34NYG 14 CHI 24 LI: 0.5(Field Goal formation) 9-R.Gould 52 yard field goal is GOOD Center-65-P.Mannelly Holder-8-A.Podlesh.'>33.52</number><number>0.12</number>
+<number shadow='shadow1' tooltip='11:29 NYG 14 CHI 27 LI: 9-R.Gould kicks 70 yards from CHI 35 to NYG -512-J.Jernigan to NYG 21 for 26 yards(20-C.Steltz).'>33.61</number><number>0.11</number>
+<number shadow='shadow1' tooltip='11:18 1-10-NYG 21NYG 14 CHI 27 LI: 0.710-E.Manning pass incomplete short middle to 86-B.Pascoe.'>33.7</number><number>0.11</number>
+<number shadow='shadow1' tooltip='11:02 2-10-NYG 21NYG 14 CHI 27 LI: 0.7PENALTY on NYG-84-L.Donnell False Start 5 yards enforced at NYG 21 - No Play.'>33.97</number><number>0.1</number>
+<number shadow='shadow1' tooltip='10:16 3-11-NYG 20NYG 14 CHI 27 LI: 0.5(Shotgun) 10-E.Manning sacked at NYG 13 for -7 yards(55-L.Briggs).'>34.73</number><number>0.07</number>
+<number shadow='shadow1' tooltip='9:45 4-18-NYG 13NYG 14 CHI 27 LI: 0.2(Punt formation) 5-S.Weatherford punts 51 yards to CHI 36 Center-51-Z.DeOssie23-D.Hester to CHI 36 for no gain (38-T.McBride)FUMBLES (38-T.McBride) recovered by CHI-14-E.Weems at CHI 2914-E.Weems to CHI 29 for no gain (Team)PENALTY on CHI-25-C.Wilson Illegal Block Above the Waist 10 yards enforced at CHI 29.'>35.25</number><number>0.08</number>
+<number shadow='shadow1' tooltip='9:28 1-10-CHI 19NYG 14 CHI 27 LI: 1.1(Shotgun) 17-A.Jeffery left end pushed ob at CHI 34 for 15 yards(25-W.Hill).'>35.53</number><number>0.07</number>
+<number shadow='shadow1' tooltip='8:44 1-10-CHI 34NYG 14 CHI 27 LI: 0.9(Shotgun) 6-J.Cutler pass short left to 22-M.Forte pushed ob at CHI 41 for 7 yards(20-P.Amukamara).'>36.27</number><number>0.07</number>
+<number shadow='shadow1' tooltip='8:16 2-3-CHI 41NYG 14 CHI 27 LI: 0.8(Shotgun) 22-M.Forte right end to CHI 44 for 3 yards(25-W.Hill).'>36.73</number><number>0.06</number>
+<number shadow='shadow1' tooltip='7:35 1-10-CHI 44NYG 14 CHI 27 LI: 0.822-M.Forte left guard to CHI 44 for no gain (52-J.Beason).'>37.42</number><number>0.07</number>
+<number shadow='shadow1' tooltip='6:55 2-10-CHI 44NYG 14 CHI 27 LI: 0.7(Shotgun) 6-J.Cutler pass short left to 83-M.Bennett to NYG 44 for 12 yards(52-J.Beason).'>38.08</number><number>0.05</number>
+<number shadow='shadow1' tooltip='6:16 1-10-NYG 44NYG 14 CHI 27 LI: 0.7#62 EBritton reports eligible6-J.Cutler pass incomplete deep left to 17-A.Jeffery.'>38.73</number><number>0.05</number>
+<number shadow='shadow1' tooltip='6:09 2-10-NYG 44NYG 14 CHI 27 LI: 0.7(Shotgun) 29-M.Bush left guard to NYG 44 for no gain (52-J.Beason).'>38.85</number><number>0.06</number>
+<number shadow='shadow1' tooltip='5:33 3-10-NYG 44NYG 14 CHI 27 LI: 0.6(Shotgun) 6-J.Cutler pass incomplete short right to 29-M.Bush.'>39.45</number><number>0.08</number>
+<number shadow='shadow1' tooltip='5:29 4-10-NYG 44NYG 14 CHI 27 LI: 0.4(Punt formation) 8-A.Podlesh punts 35 yards to NYG 9 Center-65-P.Mannelly fair catch by 82-R.Randle.'>39.52</number><number>0.07</number>
+<number shadow='shadow1' tooltip='5:21 1-10-NYG 9NYG 14 CHI 27 LI: 0.310-E.Manning pass deep right to 80-V.Cruz pushed ob at NYG 32 for 23 yards(21-M.Wright).'>39.65</number><number>0.1</number>
+<number shadow='shadow1' tooltip='4:46 1-10-NYG 32NYG 14 CHI 27 LI: 0.634-B.Jacobs left guard to NYG 35 for 3 yards(55-L.Briggs).'>40.23</number><number>0.09</number>
+<number shadow='shadow1' tooltip='4:00 2-7-NYG 35NYG 14 CHI 27 LI: 0.634-B.Jacobs left end to NYG 34 for -1 yards(99-S.McClellin)CHI-58-D.Williams was injured during the playHe is Out.'>41</number><number>0.07</number>
+<number shadow='shadow1' tooltip='3:10 3-8-NYG 34NYG 14 CHI 27 LI: 0.4(Shotgun) 10-E.Manning pass short left to 88-H.Nicks pushed ob at CHI 35 for 31 yards(21-M.Wright).'>41.83</number><number>0.13</number>
+<number shadow='shadow1' tooltip='2:32 1-10-CHI 35NYG 14 CHI 27 LI: 0.8(Shotgun) 10-E.Manning pass incomplete short left to 88-H.Nicks.'>42.47</number><number>0.13</number>
+<number shadow='shadow1' tooltip='2:26 2-10-CHI 35NYG 14 CHI 27 LI: 0.834-B.Jacobs left guard to CHI 32 for 3 yards(21-M.Wright).'>42.57</number><number>0.12</number>
+<number shadow='shadow1' tooltip='1:40 3-7-CHI 32NYG 14 CHI 27 LI: 0.7(Shotgun) 10-E.Manning pass deep left to 82-R.Randle to CHI 14 for 18 yards(50-Ja.Anderson).'>43.33</number><number>0.19</number>
+<number shadow='shadow1' tooltip='0:53 1-10-CHI 14NYG 14 CHI 27 LI: 1.434-B.Jacobs right tackle to CHI 16 for -2 yards(98-C.Wootton).'>44.12</number><number>0.14</number>
+<number shadow='shadow1' tooltip='0:15 2-12-CHI 16NYG 14 CHI 27 LI: 1(Shotgun) 10-E.Manning pass incomplete deep left to 80-V.CruzPENALTY on CHI-26-T.Jennings Defensive Pass Interference 15 yards enforced at CHI 16 - No Play.'>44.75</number><number>0.21</number>
+<number shadow='shadow1' tooltip='0:10 1-1-CHI 1NYG 14 CHI 27 LI: 1.7#73 JBrewer reports eligible34-B.Jacobs left guard for 1 yard TOUCHDOWN.'>44.83</number><number>0.22</number>
+<number shadow='shadow1' tooltip='0:10 NYG 14 CHI 27 LI: 3-J.Brown extra point is GOOD Center-51-Z.DeOssie Holder-5-S.Weatherford.'>44.87</number><number>0.22</number>
+<number shadow='shadow1' tooltip='0:10 NYG 21 CHI 27 LI: 3-J.Brown kicks 69 yards from NYG 35 to CHI -423-D.Hester to CHI 18 for 22 yards(57-J.Williams).'>44.92</number><number>0.23</number>
+<number shadow='shadow1' tooltip='15:00 1-10-CHI 18NYG 21 CHI 27 LI: 1.6(Shotgun) 22-M.Forte left guard to CHI 27 for 9 yards(26-A.Rolle; 21-R.Mundy).'>45</number><number>0.2</number>
+<number shadow='shadow1' tooltip='14:12 2-1-CHI 27NYG 21 CHI 27 LI: 1.6#62 EBritton reports eligible6-J.Cutler pass incomplete deep left to 17-A.JefferyPENALTY on NYG-20-P.Amukamara Defensive Holding 6 yards enforced at CHI 27 - No Play.'>45.8</number><number>0.2</number>
+<number shadow='shadow1' tooltip='14:06 1-10-CHI 33NYG 21 CHI 27 LI: 1.422-M.Forte left guard to CHI 38 for 5 yards(93-M.Patterson).'>45.9</number><number>0.19</number>
+<number shadow='shadow1' tooltip='13:25 2-5-CHI 38NYG 21 CHI 27 LI: 1.4(Shotgun) 22-M.Forte right tackle to CHI 41 for 3 yards(24-T.Thomas).'>46.58</number><number>0.19</number>
+<number shadow='shadow1' tooltip='12:46 3-2-CHI 41NYG 21 CHI 27 LI: 1.3(Shotgun) 6-J.Cutler pass short right to 22-M.Forte pushed ob at CHI 44 for 3 yards(52-J.Beason) [94-M.Kiwanuka].'>47.23</number><number>0.17</number>
+<number shadow='shadow1' tooltip='12:31 1-10-CHI 44NYG 21 CHI 27 LI: 1.422-M.Forte left end to CHI 45 for 1 yard(20-P.Amukamara).'>47.48</number><number>0.16</number>
+<number shadow='shadow1' tooltip='11:49 2-9-CHI 45NYG 21 CHI 27 LI: 1.5(Shotgun) 6-J.Cutler pass short right to 83-M.Bennett to NYG 39 for 16 yards(24-T.Thomas; 52-J.Beason).'>48.18</number><number>0.12</number>
+<number shadow='shadow1' tooltip='11:07 1-10-NYG 39NYG 21 CHI 27 LI: 1.4(Shotgun) 6-J.Cutler pass short right to 29-M.Bush to NYG 33 for 6 yards(24-T.Thomas).'>48.88</number><number>0.11</number>
+<number shadow='shadow1' tooltip='10:26 2-4-NYG 33NYG 21 CHI 27 LI: 1.3(Shotgun) 6-J.Cutler pass short left to 15-B.Marshall to NYG 34 for -1 yards(20-P.Amukamara).'>49.57</number><number>0.14</number>
+<number shadow='shadow1' tooltip='9:43 3-5-NYG 34NYG 21 CHI 27 LI: 0.9(Shotgun) 6-J.Cutler pass incompletePENALTY on CHI-6-J.Cutler Intentional Grounding 11 yards enforced at NYG 34.'>50.28</number><number>0.17</number>
+<number shadow='shadow1' tooltip='9:40 4-16-NYG 45NYG 21 CHI 27 LI: 1.1(Punt formation) 8-A.Podlesh punts 37 yards to NYG 8 Center-65-P.Mannelly fair catch by 82-R.Randle.'>50.33</number><number>0.16</number>
+<number shadow='shadow1' tooltip='9:33 1-10-NYG 8NYG 21 CHI 27 LI: 0.934-B.Jacobs left guard to NYG 23 for 15 yards(47-C.Conte).'>50.45</number><number>0.19</number>
+<number shadow='shadow1' tooltip='8:50 1-10-NYG 23NYG 21 CHI 27 LI: 1.1(Shotgun) 10-E.Manning pass incomplete short left to 33-D.Scott.'>51.17</number><number>0.19</number>
+<number shadow='shadow1' tooltip='8:43 2-10-NYG 23NYG 21 CHI 27 LI: 1.1(Shotgun) 33-D.Scott right end to NYG 24 for 1 yard(31-I.Frey; 57-J.Bostic).'>51.28</number><number>0.17</number>
+<number shadow='shadow1' tooltip='8:04 3-9-NYG 24NYG 21 CHI 27 LI: 1(Shotgun) 10-E.Manning pass incomplete deep right to 88-H.Nicks.'>51.93</number><number>0.13</number>
+<number shadow='shadow1' tooltip='7:56 4-9-NYG 24NYG 21 CHI 27 LI: 0.6(Punt formation) 5-S.Weatherford punts 41 yards to CHI 35 Center-51-Z.DeOssie out of bounds.'>52.07</number><number>0.14</number>
+<number shadow='shadow1' tooltip='7:48 1-10-CHI 35NYG 21 CHI 27 LI: 2.2#62 EBritton reports eligible22-M.Forte left end to CHI 38 for 3 yards(52-J.Beason).'>52.2</number><number>0.12</number>
+<number shadow='shadow1' tooltip='7:05 2-7-CHI 38NYG 21 CHI 27 LI: 2.2(Shotgun) 6-J.Cutler pass short left to 15-B.Marshall to CHI 46 for 8 yards(20-P.Amukamara).'>52.92</number><number>0.11</number>
+<number shadow='shadow1' tooltip='6:21 1-10-CHI 46NYG 21 CHI 27 LI: 1.96-J.Cutler pass incomplete deep right to 17-A.Jeffery.'>53.65</number><number>0.14</number>
+<number shadow='shadow1' tooltip='6:14 2-10-CHI 46NYG 21 CHI 27 LI: 1.622-M.Forte left tackle to NYG 48 for 6 yards(52-J.Beason).'>53.77</number><number>0.14</number>
+<number shadow='shadow1' tooltip='5:35 3-4-NYG 48NYG 21 CHI 27 LI: 1.2(Shotgun) 6-J.Cutler pass incomplete deep left to 80-E.Bennett.'>54.42</number><number>0.18</number>
+<number shadow='shadow1' tooltip='5:29 4-4-NYG 48NYG 21 CHI 27 LI: 0.7(Punt formation) 8-A.Podlesh punts 38 yards to NYG 10 Center-65-P.Mannelly fair catch by 82-R.Randle.'>54.52</number><number>0.17</number>
+<number shadow='shadow1' tooltip='5:21 1-10-NYG 11NYG 21 CHI 27 LI: 1.234-B.Jacobs left end to NYG 25 for 14 yards(21-M.Wright).'>54.65</number><number>0.23</number>
+<number shadow='shadow1' tooltip='4:38 1-10-NYG 25NYG 21 CHI 27 LI: 2.210-E.Manning pass incomplete short left to 88-H.Nicks.'>55.37</number><number>0.21</number>
+<number shadow='shadow1' tooltip='4:35 2-10-NYG 25NYG 21 CHI 27 LI: 234-B.Jacobs left guard to NYG 28 for 3 yards(31-I.Frey).'>55.42</number><number>0.2</number>
+<number shadow='shadow1' tooltip='3:54 3-7-NYG 28NYG 21 CHI 27 LI: 1.9(Shotgun) 10-E.Manning pass short left to 88-H.Nicks to NYG 39 for 11 yards(38-Z.Bowman).'>56.1</number><number>0.29</number>
+<number shadow='shadow1' tooltip='3:08 1-10-NYG 39NYG 21 CHI 27 LI: 2.334-B.Jacobs right end pushed ob at CHI 49 for 12 yards(21-M.Wright).'>56.87</number><number>0.34</number>
+<number shadow='shadow1' tooltip='3:02 1-10-CHI 49NYG 21 CHI 27 LI: 2(Shotgun) 10-E.Manning pass incomplete deep right to 84-L.Donnell (26-T.Jennings).'>56.97</number><number>0.22</number>
+<number shadow='shadow1' tooltip='2:57 2-10-CHI 49NYG 21 CHI 27 LI: 0.9(Shotgun) 33-D.Scott right guard to CHI 36 for 13 yards(47-C.Conte)NYG-33-D.Scott was injured during the playHis return is Questionable.'>57.05</number><number>0.3</number>
+<number shadow='shadow1' tooltip='2:37 1-10-CHI 36NYG 21 CHI 27 LI: 1.9(Shotgun) 34-B.Jacobs right tackle to CHI 35 for 1 yard(97-L.Cohen).'>57.38</number><number>0.27</number>
+<number shadow='shadow1' tooltip='2:02 2-9-CHI 35NYG 21 CHI 27 LI: 2(Shotgun) 10-E.Manning pass deep right intended for 83-B.Myers INTERCEPTED by 26-T.Jennings at CHI 1026-T.Jennings to CHI 26 for 16 yards(80-V.Cruz).'>57.97</number><number>0.06</number>
+<number shadow='shadow1' tooltip='1:54 1-10-CHI 26NYG 21 CHI 27 LI: 3.122-M.Forte left end to CHI 27 for 1 yard(90-J.Pierre-Paul; 97-L.Joseph).'>58.1</number><number>0.09</number>
+<number shadow='shadow1' tooltip='1:48 2-9-CHI 27NYG 21 CHI 27 LI: 2.7#62 EBritton reports eligible29-M.Bush right guard to CHI 29 for 2 yards(54-S.Paysinger).'>58.2</number><number>0.15</number>
+<number shadow='shadow1' tooltip='1:42 3-7-CHI 29NYG 21 CHI 27 LI: 2#62 EBritton reports eligible6-J.Cutler pass short middle to 83-M.Bennett to CHI 36 for 7 yards(26-A.Rolle) [94-M.Kiwanuka].'>58.3</number><number>0.03</number>
+<number shadow='shadow1' tooltip='1:35 1-10-CHI 36NYG 21 CHI 27 LI: 3.129-M.Bush left end to CHI 39 for 3 yards(54-S.Paysinger).'>58.42</number><number>0.04</number>
+<number shadow='shadow1' tooltip='1:30 2-7-CHI 39NYG 21 CHI 27 LI: 2.929-M.Bush left end to CHI 40 for 1 yard(52-J.Beason).'>58.5</number><number>0.02</number>
+<number shadow='shadow1' tooltip='0:43 3-6-CHI 40NYG 21 CHI 27 LI: 2.529-M.Bush left guard to CHI 40 for no gain (99-C.Jenkins).'>59.28</number><number>0</number>
+<number>60</number><number>0</number>
+</row> </chart_data>
+       <draw>
+
+
+
+      <image x='45' y='298'  url='nfllogos/42x50png/NYG.gif'  layer='foreground' glow = 'glow1'/>
+      <image x='45' y='350'  url='nfllogos/42x50png/CHI.gif'     layer='foreground' glow = 'glow1'/>
+
+
+      <rect x='130' y='300' width='250' height='40' fill_color='003462' bevel='bevel1' />
+      <text x='135' y='300' width='250' height='40' h_align='left' v_align='middle' color='ffffff' shadow='shadow2' glow=''>New York Giants</text>
+
+      <rect x='130' y='350' width='250' height='40' fill_color='002a46' bevel='bevel1'  />
+      <text x='135' y='350' width='250' height='40' h_align='left' v_align='middle' color='ffffff' shadow='shadow2' glow='winnerglow'>Chicago Bears</text>
+
+      <rect x='420' y='300' width='60' height='40' fill_color='003462' bevel='bevel1'  />
+      <text x='420' y='300' width='60' height='40' h_align='center' v_align='middle' color='ffffff' shadow='shadow2' transition='none' glow=''>21</text>
+
+      <rect x='420' y='350' width='60' height='40' fill_color='002a46' bevel='bevel1' />
+      <text x='420' y='350' width='60' height='40' h_align='center' v_align='middle' color='ffffff' shadow='shadow2' transition='none' glow='winnerglow'>27</text>
+
+      <text x='-3' y='12'  width='60' height='40' h_align='center' v_align='middle' size='13' shadow='shadow2'>NYGWin </text>
+      <text x='-3' y='218' width='60' height='40' h_align='center' v_align='middle' size='13' shadow='shadow2'>CHIWin </text>
+
+     
+              <rect x='540' y='300' width='100' height='35' fill_color='000000' fill_alpha='50'/>
+              <text x='540' y='300' width='100' height='35' h_align='center' v_align='middle' color='ffffff' size='15' shadow='shadow2' >Final</text>
+
+              <text x='540' y='340' width='40' h_align='center' color='000000' size='12' shadow='shadow2'>CBF</text>
+              <text x='600' y='340' width='40' h_align='center' color='000000' size='12' shadow='shadow2'>EI</text>
+
+              <rect x='540' y='360' width='40' height='30' fill_color='000000' fill_alpha='50' />
+              <text x='540' y='360' width='40' height='30' size='12' h_align='center' v_align='middle' color='FFFFFF' shadow='shadow2'>2</text>
+
+              <rect x='600' y='360' width='40' height='30' fill_color='000000' fill_alpha='50' />
+              <text x='600' y='360' width='40' height='30' size='12' h_align='center' v_align='middle' color='FFFFFF' shadow='shadow2'>4.1</text>
+
+              <text x='20' y='420' width='70' height='25' size='12' h_align='left' v_align='middle' color='000000' >10/10/2013</text>
+              <text x='100' y='420' width='200' height='25' size='12' h_align='left' v_align='middle' color='000000' >Soldier Field</text>
+
+   </draw></chart>

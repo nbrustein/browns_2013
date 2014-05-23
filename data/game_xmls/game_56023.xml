@@ -1,0 +1,334 @@
+
+<chart>
+   <license>ETAS9P33ESHO.945CWK-2XOI1X0-7L</license>
+   <chart_type>scatter</chart_type>
+   <chart_pref trend_thickness='0' line_thickness='3' point_size='0'/>
+
+   <series_color>
+      <color>ffff00</color>
+   </series_color>
+
+   <chart_rect x='45' y='20' width='630' height='230' positive_color='cacaca'  />
+
+  <chart_border top_thickness='0'
+                 bottom_thickness='0'
+                 left_thickness='0'
+                 right_thickness='0'
+                 color='000000'
+                 />
+
+   <tooltip font='Arial' bold='true' size='11' />
+
+   <chart_note type='flag'
+               color='000000'
+               alpha='90'
+               bold='FALSE'
+               size='10'
+               background_color='ffffe0'
+               background_alpha='50'
+               shadow='shadow2'
+               />
+
+   <chart_grid_h thickness='2' color='ffffff' type='dashed'  />
+   <chart_grid_v thickness='2' color='ffffff'   />
+		>
+
+   <legend layout='hide' />
+
+   <chart_guide horizontal='TRUE'
+             vertical='TRUE'
+             thickness='1'
+             color='006400'
+             alpha='100'
+             type='solid'
+             snap_h='TRUE'
+             snap_v='TRUE'
+             radius='3'
+             fill_color='006400'
+             fill_alpha='100'
+             line_color='006400'
+             line_alpha='80'
+             line_thickness='1'
+             text_h_alpha='50'
+             text_v_alpha='00'
+             suffix_h=' WP'
+             decimals='2'
+             bold='FALSE'
+             size='11'
+             text_color='FFFFFF'
+             background_color='006400'
+             />
+   <filter>
+      <shadow id='shadow1' distance='2' angle='60' blurX='5' blurY='5' alpha='50' />
+      <bevel id='bevel1' angle='45' blurX='5' blurY='5' distance='0' />
+      <glow id='glow1' color='ffffff' alpha='0' blurX='7' blurY='7' strength='6' quality='2' inner='FALSE' knockout='FALSE' />
+      <glow id='winnerglow' color='ffffff' alpha='0' blurX='7' blurY='7' strength='5' quality='2' inner='FALSE' knockout='FALSE' />
+   </filter>
+
+    <axis_value_label>
+         <string></string>
+          <string> </string>
+          <null/>
+          <string> </string>
+          <string></string>
+
+       </axis_value_label>
+		
+	   <axis_ticks category_ticks='false'/>
+
+       <axis_value min='0' max='1' steps='4'  decimals='2' show_min='true' size='13' shadow='shadow2' />            
+        <axis_category
+               min='0'
+               max='75'
+               steps='5'
+               mode='trim'
+               decimals='0'
+               size='13'
+               shadow='shadow2'
+               />
+
+       <axis_category_label>
+          <string>Kickoff</string>
+          <string></string>
+          <string>Halftime</string>
+          <string></string>
+          <string>Regulation</string>
+          <string>OT</string>
+       </axis_category_label>
+
+
+         <chart_data>
+       <row>
+	      <null/><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number>
+              <number>x</number><number>y</number>
+              </row><row><string></string>
+
+                     <number shadow='shadow1'>0</number><number>.5</number><number shadow='shadow1' tooltip='15:00 ATL 0 BUF 0 LI: 2-D.Carpenter kicks 65 yards from BUF 35 to ATL 032-J.Rodgers to ATL 10 for 10 yardsHandoff to 35-A.Smith to 50 for 40 yards(33-R.Brooks).'>0.09</number><number>0.57</number>
+<number shadow='shadow1' tooltip='14:50 1-10-50ATL 0 BUF 0 LI: 1.439-S.Jackson up the middle to BUF 47 for 3 yards(90-A.Branch 99-M.Dareus).'>0.17</number><number>0.56</number>
+<number shadow='shadow1' tooltip='14:12 2-7-BUF 47ATL 0 BUF 0 LI: 1.22-M.Ryan pass short right to 42-P.DiMarco to BUF 42 for 5 yards(52-A.Moats)Flat pass caught at BUF 47.'>0.8</number><number>0.56</number>
+<number shadow='shadow1' tooltip='13:27 3-2-BUF 42ATL 0 BUF 0 LI: 1.1(Shotgun) 2-M.Ryan sacked at BUF 48 for -6 yards(91-M.Lawson).'>1.55</number><number>0.49</number>
+<number shadow='shadow1' tooltip='12:58 4-8-BUF 48ATL 0 BUF 0 LI: 0.55-M.Bosher punts 33 yards to BUF 15 Center-47-J.Harris fair catch by 21-L.McKelvin.'>2.03</number><number>0.49</number>
+<number shadow='shadow1' tooltip='12:50 1-10-BUF 15ATL 0 BUF 0 LI: 1.628-C.Spiller up the middle to BUF 17 for 2 yards(94-P.Jerry 59-J.Bartu).'>2.17</number><number>0.5</number>
+<number shadow='shadow1' tooltip='12:21 2-8-BUF 17ATL 0 BUF 0 LI: 1.5(No Huddle) 28-C.Spiller up the middle to ATL 6 for 77 yards(21-D.Trufant).'>2.65</number><number>0.32</number>
+<number shadow='shadow1' tooltip='11:33 1-6-ATL 6ATL 0 BUF 0 LI: 1.8(No Huddle) 22-F.Jackson left guard to ATL 2 for 4 yards(95-J.Babineaux 59-J.Bartu).'>3.45</number><number>0.31</number>
+<number shadow='shadow1' tooltip='11:09 2-2-ATL 2ATL 0 BUF 0 LI: 1.9(No Huddle) PENALTY on ATL-91-C.Peters Neutral Zone Infraction 1 yard enforced at ATL 2 - No Play.'>3.85</number><number>0.3</number>
+<number shadow='shadow1' tooltip='10:59 2-1-ATL 1ATL 0 BUF 0 LI: 23-E.Manuel right end pushed ob at ATL 1 for no gain (25-W.Moore)Buffalo challenged the runner was down by contact ruling and the play was REVERSED3-E.Manuel right end for 1 yard TOUCHDOWN.'>4.02</number><number>0.29</number>
+<number shadow='shadow1' tooltip='10:59 ATL 0 BUF 0 LI: 2-D.Carpenter extra point is GOOD Center-65-G.Sanborn Holder-8-B.Moorman.'>4.06</number><number>0.29</number>
+<number shadow='shadow1' tooltip='10:59 ATL 0 BUF 7 LI: 2-D.Carpenter kicks 72 yards from BUF 35 to ATL -732-J.Rodgers Touchback.'>4.11</number><number>0.28</number>
+<number shadow='shadow1' tooltip='10:17 2-5-ATL 25ATL 0 BUF 7 LI: 1.4(Shotgun) 39-S.Jackson left guard to ATL 21 for -4 yards(99-M.Dareus).'>4.72</number><number>0.26</number>
+<number shadow='shadow1' tooltip='9:40 3-9-ATL 21ATL 0 BUF 7 LI: 1.3(Shotgun) 2-M.Ryan sacked at ATL 13 for -8 yards(55-J.Hughes).'>5.33</number><number>0.21</number>
+<number shadow='shadow1' tooltip='9:10 4-17-ATL 13ATL 0 BUF 7 LI: 0.85-M.Bosher punts 53 yards to BUF 34 Center-47-J.Harris21-L.McKelvin MUFFS catch and recovers at BUF 3421-L.McKelvin to BUF 37 for 3 yards(41-Z.Motta; 52-A.Dent).'>5.83</number><number>0.24</number>
+<number shadow='shadow1' tooltip='8:56 1-10-BUF 37ATL 0 BUF 7 LI: 13-E.Manuel pass incomplete short right to 38-F.Summers [56-S.Weatherspoon]BUF-3-E.Manuel was injured during the play.'>6.07</number><number>0.2</number>
+<number shadow='shadow1' tooltip='8:52 1-10-ATL 48ATL 0 BUF 7 LI: 1.2T.Lewis in at QB22-F.Jackson right guard to ATL 41 for 7 yards(55-P.Worrilow 25-W.Moore).'>6.13</number><number>0.19</number>
+<number shadow='shadow1' tooltip='8:25 2-3-ATL 41ATL 0 BUF 7 LI: 1.2E.Manuel returns at QB(No Huddle) 22-F.Jackson up the middle to ATL 39 for 2 yards(50-O.Umenyiora 55-P.Worrilow).'>6.58</number><number>0.19</number>
+<number shadow='shadow1' tooltip='7:50 3-1-ATL 39ATL 0 BUF 7 LI: 1.2(No Huddle Shotgun) 3-E.Manuel pass short middle to 13-S.Johnson pushed ob at ATL 24 for 15 yards(27-R.McClain)Caught at ATL 35 crossing from left.'>7.17</number><number>0.14</number>
+<number shadow='shadow1' tooltip='7:24 1-10-ATL 24ATL 0 BUF 7 LI: 1.5(No Huddle Shotgun) 28-C.Spiller up the middle to ATL 21 for 3 yards(55-P.Worrilow).'>7.6</number><number>0.16</number>
+<number shadow='shadow1' tooltip='6:58 2-7-ATL 21ATL 0 BUF 7 LI: 1.2(No Huddle Shotgun) 28-C.Spiller right guard to ATL 15 for 6 yards(50-O.Umenyiora 55-P.Worrilow).'>8.03</number><number>0.13</number>
+<number shadow='shadow1' tooltip='6:24 3-1-ATL 15ATL 0 BUF 7 LI: 1.4(No Huddle Shotgun) 3-E.Manuel pass short middle to 13-S.Johnson to ATL 10 for 5 yards(27-R.McClain 28-T.DeCoud)Caught at ATL 10 slanting from left.'>8.6</number><number>0.13</number>
+<number shadow='shadow1' tooltip='5:59 1-10-ATL 10ATL 0 BUF 7 LI: 1.4(No Huddle Shotgun) 22-F.Jackson up the middle to ATL 9 for 1 yard(95-J.Babineaux 56-S.Weatherspoon).'>9.02</number><number>0.14</number>
+<number shadow='shadow1' tooltip='5:33 2-9-ATL 9ATL 0 BUF 7 LI: 1.3(No Huddle Shotgun) 3-E.Manuel scrambles left tackle to ATL 8 for 1 yard(56-S.Weatherspoon).'>9.45</number><number>0.14</number>
+<number shadow='shadow1' tooltip='5:06 3-4-ATL 4ATL 0 BUF 7 LI: 1.3(Shotgun) 22-F.Jackson up the middle for 4 yards TOUCHDOWN.'>9.9</number><number>0.1</number>
+<number shadow='shadow1' tooltip='5:06 ATL 0 BUF 7 LI: 2-D.Carpenter extra point is GOOD Center-65-G.Sanborn Holder-8-B.Moorman.'>9.94</number><number>0.1</number>
+<number shadow='shadow1' tooltip='5:06 ATL 0 BUF 14 LI: 2-D.Carpenter kicks 69 yards from BUF 35 to ATL -432-J.Rodgers to ATL 19 for 23 yards(35-J.Leonhard 53-N.Bradham).'>9.99</number><number>0.09</number>
+<number shadow='shadow1' tooltip='4:53 1-10-ATL 19ATL 0 BUF 14 LI: 0.22-M.Ryan pass short right to 88-T.Gonzalez to ATL 30 for 11 yards(23-A.Williams)Flat pass caught at ATL 27.'>10.12</number><number>0.1</number>
+<number shadow='shadow1' tooltip='4:15 1-10-ATL 30ATL 0 BUF 14 LI: 0.12-M.Ryan pass deep left to 84-R.White pushed ob at ATL 49 for 19 yards(23-A.Williams) [94-M.Williams]Caught along sideline at ATL 48.'>10.75</number><number>0.15</number>
+<number shadow='shadow1' tooltip='3:52 1-10-BUF 36ATL 0 BUF 14 LI: 0.132-J.Rodgers up the middle to BUF 38 for -2 yards(91-M.Lawson).'>11.13</number><number>0.2</number>
+<number shadow='shadow1' tooltip='3:14 2-12-BUF 38ATL 0 BUF 14 LI: 0.6(Shotgun) 2-M.Ryan pass short middle to 83-H.Douglas to BUF 27 for 11 yards(50-K.Alonso 37-N.Robey)Caught at BUF 32 crossing from left.'>11.77</number><number>0.18</number>
+<number shadow='shadow1' tooltip='2:36 3-1-BUF 27ATL 0 BUF 14 LI: 0.239-S.Jackson left guard for 27 yards TOUCHDOWN.'>12.4</number><number>0.27</number>
+<number shadow='shadow1' tooltip='2:36 ATL 0 BUF 14 LI: 3-M.Bryant extra point is GOOD Center-47-J.Harris Holder-5-M.Bosher.'>12.44</number><number>0.27</number>
+<number shadow='shadow1' tooltip='2:36 ATL 7 BUF 14 LI: 5-M.Bosher kicks 74 yards from ATL 35 to BUF -988-M.Goodwin Touchback.'>12.49</number><number>0.29</number>
+<number shadow='shadow1' tooltip='2:30 1-10-BUF 20ATL 7 BUF 14 LI: 0.8(Shotgun) 28-C.Spiller up the middle to BUF 29 for 9 yards(55-P.Worrilow 93-M.Goodman).'>12.5</number><number>0.25</number>
+<number shadow='shadow1' tooltip='1:57 2-1-BUF 29ATL 7 BUF 14 LI: 1.1(No Huddle Shotgun) 22-F.Jackson up the middle to BUF 33 for 4 yards(96-J.Massaquoi).'>13.05</number><number>0.25</number>
+<number shadow='shadow1' tooltip='1:23 1-10-BUF 33ATL 7 BUF 14 LI: 1(Shotgun) 3-E.Manuel FUMBLES (Aborted) at BUF 28 and recovers at BUF 283-E.Manuel to BUF 28 for no gain (96-J.Massaquoi).'>13.62</number><number>0.27</number>
+<number shadow='shadow1' tooltip='0:59 2-15-BUF 28ATL 7 BUF 14 LI: 0.9(No Huddle Shotgun) 3-E.Manuel pass short middle to 10-R.Woods to BUF 34 for 6 yards(22-A.Samuel)Hitch route caught at BUF 34 crossing from left.'>14.02</number><number>0.26</number>
+<number shadow='shadow1' tooltip='0:25 3-9-BUF 34ATL 7 BUF 14 LI: 0.9(No Huddle Shotgun) 3-E.Manuel pass incomplete short left to 88-M.Goodwin (21-D.Trufant)Receiver and coverage in flat at BUF 45.'>14.58</number><number>0.29</number>
+<number shadow='shadow1' tooltip='0:21 4-9-BUF 34ATL 7 BUF 14 LI: 0.68-B.Moorman punts 44 yards to ATL 22 Center-65-G.Sanborn27-R.McClain to ATL 33 for 11 yards(35-J.Leonhard 65-G.Sanborn)Return credited to ATL 32 (spot of foul).'>14.65</number><number>0.28</number>
+<number shadow='shadow1' tooltip='0:09 1-10-ATL 22ATL 7 BUF 14 LI: 1.4(Shotgun) 2-M.Ryan pass short middle to 84-R.White to ATL 30 for 8 yards(23-A.Williams 91-M.Lawson)Caught at ATL 26 crossing from right.'>14.85</number><number>0.3</number>
+<number shadow='shadow1' tooltip='15:00 2-2-ATL 30ATL 7 BUF 14 LI: 1.439-S.Jackson up the middle to ATL 35 for 5 yards(93-J.Westerman 95-K.Williams).'>15</number><number>0.3</number>
+<number shadow='shadow1' tooltip='14:26 1-10-ATL 35ATL 7 BUF 14 LI: 1.339-S.Jackson up the middle to ATL 41 for 6 yards(50-K.Alonso).'>15.57</number><number>0.31</number>
+<number shadow='shadow1' tooltip='13:45 2-4-ATL 41ATL 7 BUF 14 LI: 1.232-J.Rodgers up the middle to ATL 43 for 2 yards(90-A.Branch 50-K.Alonso).'>16.25</number><number>0.3</number>
+<number shadow='shadow1' tooltip='13:05 3-2-ATL 43ATL 7 BUF 14 LI: 1.1(Shotgun) 2-M.Ryan pass incomplete short right to 84-R.White (21-L.McKelvin)Receiver and coverage near sideline at ATL 49.'>16.92</number><number>0.27</number>
+<number shadow='shadow1' tooltip='13:01 4-2-ATL 43ATL 7 BUF 14 LI: 0.85-M.Bosher punts 42 yards to BUF 15 Center-47-J.Harris21-L.McKelvin to BUF 32 for 17 yards(47-J.Harris; 44-J.Snelling).'>16.98</number><number>0.25</number>
+<number shadow='shadow1' tooltip='12:49 1-10-BUF 32ATL 7 BUF 14 LI: 0.93-E.Manuel pass short middle to 28-C.Spiller to BUF 40 for 8 yards(96-J.Massaquoi)Caught at BUF 35.'>17.18</number><number>0.23</number>
+<number shadow='shadow1' tooltip='12:16 2-2-BUF 40ATL 7 BUF 14 LI: 1(No Huddle Shotgun) 28-C.Spiller up the middle to BUF 44 for 4 yards(96-J.Massaquoi 56-S.Weatherspoon).'>17.73</number><number>0.22</number>
+<number shadow='shadow1' tooltip='11:42 1-10-BUF 44ATL 7 BUF 14 LI: 1.1(No Huddle Shotgun) 3-E.Manuel pass short left to 84-S.Chandler pushed ob at ATL 46 for 10 yards(96-J.Massaquoi)Flat pass caught at BUF 45.'>18.3</number><number>0.2</number>
+<number shadow='shadow1' tooltip='11:18 1-10-ATL 46ATL 7 BUF 14 LI: 1.1(No Huddle) 22-F.Jackson right tackle pushed ob at ATL 41 for 5 yards(22-A.Samuel).'>18.7</number><number>0.2</number>
+<number shadow='shadow1' tooltip='10:53 2-5-ATL 41ATL 7 BUF 14 LI: 1.1(No Huddle) 3-E.Manuel pass incomplete short middle to 13-S.Johnson (25-W.Moore)Receiver and coverage at ATL 30 crossing from right.'>19.12</number><number>0.22</number>
+<number shadow='shadow1' tooltip='10:48 3-5-ATL 41ATL 7 BUF 14 LI: 0.9(No Huddle Shotgun) 3-E.Manuel pass short middle to 13-S.Johnson to ATL 35 for 6 yards(27-R.McClain)Caught at ATL 36 crossing from left.'>19.2</number><number>0.17</number>
+<number shadow='shadow1' tooltip='10:09 1-10-ATL 35ATL 7 BUF 14 LI: 1.3(No Huddle) 22-F.Jackson left tackle pushed ob at ATL 32 for 3 yards(55-P.Worrilow).'>19.85</number><number>0.18</number>
+<number shadow='shadow1' tooltip='9:47 2-7-ATL 32ATL 7 BUF 14 LI: 1.1(No Huddle) 3-E.Manuel pass short right to 38-F.Summers pushed ob at ATL 23 for 9 yards(27-R.McClain)Caught in flat at ATL 30.'>20.22</number><number>0.16</number>
+<number shadow='shadow1' tooltip='9:16 1-10-ATL 23ATL 7 BUF 14 LI: 1.2(No Huddle Shotgun) 3-E.Manuel pass incomplete short left to 28-C.SpillerCaught out of bounds at ATL 19.'>20.73</number><number>0.17</number>
+<number shadow='shadow1' tooltip='9:10 2-10-ATL 23ATL 7 BUF 14 LI: 1.1(No Huddle) 28-C.Spiller right tackle to ATL 14 for 9 yards(50-O.Umenyiora 25-W.Moore).'>20.83</number><number>0.13</number>
+<number shadow='shadow1' tooltip='8:38 3-1-ATL 14ATL 7 BUF 14 LI: 1.4(No Huddle) 3-E.Manuel up the middle to ATL 13 for 1 yard(93-M.Goodman 94-P.Jerry)Measurement = first down.'>21.37</number><number>0.13</number>
+<number shadow='shadow1' tooltip='8:15 1-10-ATL 13ATL 7 BUF 14 LI: 1.4(Shotgun) 3-E.Manuel pass incomplete short left to 11-T.GrahamOverthrown receiver in back corner of end zone.'>21.75</number><number>0.15</number>
+<number shadow='shadow1' tooltip='8:08 2-10-ATL 13ATL 7 BUF 14 LI: 1.2(Shotgun) 20-T.Choice up the middle to ATL 12 for 1 yard(56-S.Weatherspoon 28-T.DeCoud).'>21.87</number><number>0.16</number>
+<number shadow='shadow1' tooltip='7:33 3-9-ATL 12ATL 7 BUF 14 LI: 1.1(Shotgun) 3-E.Manuel pass incomplete short middle to 13-S.Johnson (27-R.McClain)Receiver and coverage at ATL 8 crossing from left.'>22.45</number><number>0.2</number>
+<number shadow='shadow1' tooltip='7:28 4-9-ATL 12ATL 7 BUF 14 LI: 0.72-D.Carpenter 29 yard field goal is GOOD Center-65-G.Sanborn Holder-8-B.Moorman.'>22.53</number><number>0.19</number>
+<number shadow='shadow1' tooltip='7:28 ATL 7 BUF 17 LI: 2-D.Carpenter kicks 57 yards from BUF 35 to ATL 842-P.DiMarco to ATL 29 for 21 yards(48-E.Rodriguez).'>22.62</number><number>0.19</number>
+<number shadow='shadow1' tooltip='7:18 1-10-ATL 29ATL 7 BUF 17 LI: 0.9(Shotgun) 2-M.Ryan pass incomplete short middle to 13-D.JohnsonThrown wide of receiver crossing from left.'>22.7</number><number>0.18</number>
+<number shadow='shadow1' tooltip='7:14 2-10-ATL 29ATL 7 BUF 17 LI: 0.8(Shotgun) 2-M.Ryan pass short left to 80-L.Toilolo to ATL 41 for 12 yards(24-S.Gilmore)Caught in flat at ATL 40.'>22.77</number><number>0.21</number>
+<number shadow='shadow1' tooltip='6:37 1-10-ATL 41ATL 7 BUF 17 LI: 0.939-S.Jackson right tackle to ATL 45 for 4 yards(50-K.Alonso 91-M.Lawson).'>23.38</number><number>0.21</number>
+<number shadow='shadow1' tooltip='6:00 2-6-ATL 45ATL 7 BUF 17 LI: 0.92-M.Ryan pass short left to 13-D.Johnson to ATL 48 for 3 yards(21-L.McKelvin)Screen pass caught at ATL 38.'>24</number><number>0.2</number>
+<number shadow='shadow1' tooltip='5:15 3-3-ATL 48ATL 7 BUF 17 LI: 0.8(Shotgun) 2-M.Ryan pass short right to 84-R.White to BUF 38 for 14 yards(31-J.Byrd)Dump pass caught at BUF 44.'>24.75</number><number>0.25</number>
+<number shadow='shadow1' tooltip='4:55 1-10-BUF 38ATL 7 BUF 17 LI: 1.135-A.Smith left tackle for 38 yards TOUCHDOWNKey block: P.DiMarco.'>25.08</number><number>0.37</number>
+<number shadow='shadow1' tooltip='4:55 ATL 7 BUF 17 LI: 3-M.Bryant extra point is GOOD Center-47-J.Harris Holder-5-M.Bosher.'>25.12</number><number>0.37</number>
+<number shadow='shadow1' tooltip='4:55 ATL 14 BUF 17 LI: 5-M.Bosher kicks 64 yards from ATL 35 to BUF 188-M.Goodwin to BUF 28 for 27 yards(19-Dr.Davis).'>25.17</number><number>0.37</number>
+<number shadow='shadow1' tooltip='4:44 1-10-BUF 28ATL 14 BUF 17 LI: 1.428-C.Spiller up the middle to BUF 26 for -2 yards(55-P.Worrilow 94-P.Jerry).'>25.27</number><number>0.38</number>
+<number shadow='shadow1' tooltip='4:07 2-12-BUF 26ATL 14 BUF 17 LI: 1.328-C.Spiller up the middle to BUF 23 for -3 yards(95-J.Babineaux).'>25.88</number><number>0.41</number>
+<number shadow='shadow1' tooltip='3:30 3-15-BUF 23ATL 14 BUF 17 LI: 1.1(Shotgun) 3-E.Manuel pass short right to 22-F.Jackson to BUF 24 for 1 yard(94-P.Jerry 96-J.Massaquoi)Screen pass caught at BUF 22.'>26.5</number><number>0.42</number>
+<number shadow='shadow1' tooltip='2:56 4-14-BUF 24ATL 14 BUF 17 LI: 18-B.Moorman punts 43 yards to ATL 33 Center-65-G.Sanborn fair catch by 27-R.McClain.'>27.07</number><number>0.41</number>
+<number shadow='shadow1' tooltip='2:49 1-10-ATL 33ATL 14 BUF 17 LI: 1.1(Shotgun) 2-M.Ryan pass incomplete short right to 83-H.DouglasThrown wide of receiver at ATL 45Thrown under pressure (M.Williams).'>27.18</number><number>0.41</number>
+<number shadow='shadow1' tooltip='2:43 2-10-ATL 33ATL 14 BUF 17 LI: 1.1(Shotgun) 2-M.Ryan pass incomplete deep right to 84-R.White (21-L.McKelvin)Receiver and coverage along sideine at BUF 45.'>27.28</number><number>0.4</number>
+<number shadow='shadow1' tooltip='2:37 3-10-ATL 33ATL 14 BUF 17 LI: 1(Shotgun) 2-M.Ryan pass deep middle to 84-R.White to BUF 45 for 22 yards(24-S.Gilmore)Caught at BUF 49 crossing from left.'>27.38</number><number>0.48</number>
+<number shadow='shadow1' tooltip='2:04 1-10-BUF 45ATL 14 BUF 17 LI: 1.5(No Huddle Shotgun) 2-M.Ryan pass incomplete short right to 88-T.GonzalezOverthrown receiver near sideline at BUF 32.'>27.93</number><number>0.45</number>
+<number shadow='shadow1' tooltip='2:00 2-10-BUF 45ATL 14 BUF 17 LI: 1.22-M.Ryan pass short right to 32-J.Rodgers to BUF 34 for 11 yards(52-A.Moats 90-A.Branch)Shovel pass caught at BUF 43.'>28</number><number>0.5</number>
+<number shadow='shadow1' tooltip='1:22 1-10-BUF 34ATL 14 BUF 17 LI: 1.5(Shotgun) 2-M.Ryan pass incomplete deep left to 13-D.JohnsonOverthrown receiver along sideline at BUF 8Pressure on QB: J.Hughes.'>28.63</number><number>0.48</number>
+<number shadow='shadow1' tooltip='1:17 2-10-BUF 34ATL 14 BUF 17 LI: 1.3(Shotgun) 2-M.Ryan sacked at BUF 40 for -6 yards(55-J.Hughes).'>28.72</number><number>0.41</number>
+<number shadow='shadow1' tooltip='0:30 3-16-BUF 40ATL 14 BUF 17 LI: 0.8(Shotgun) 2-M.Ryan pass short middle to 84-R.White to BUF 31 for 9 yards(31-J.Byrd)Caught at BUF 31 crossing from left.'>29.5</number><number>0.42</number>
+<number shadow='shadow1' tooltip='0:05 4-7-BUF 31ATL 14 BUF 17 LI: 0.73-M.Bryant 49 yard field goal is GOOD Center-47-J.Harris Holder-5-M.Bosher.'>29.92</number><number>0.47</number>
+<number shadow='shadow1' tooltip='0:05 ATL 17 BUF 17 LI: 5-M.Bosher kicks 73 yards from ATL 35 to BUF -888-M.Goodwin Touchback.'>30.01</number><number>0.48</number>
+<number shadow='shadow1' tooltip='14:32 2-7-BUF 23ATL 17 BUF 17 LI: 1.4(No Huddle Shotgun) 3-E.Manuel pass short middle to 28-C.Spiller to BUF 23 for no gain (56-S.Weatherspoon)Outlet pass caught at BUF 23.'>30.47</number><number>0.51</number>
+<number shadow='shadow1' tooltip='13:59 3-7-BUF 23ATL 17 BUF 17 LI: 1.2(No Huddle Shotgun) 3-E.Manuel pass incomplete short right to 84-S.Chandler (56-S.Weatherspoon)Receiver and coverage along sideline at BUF 34.'>31.02</number><number>0.55</number>
+<number shadow='shadow1' tooltip='13:54 4-7-BUF 23ATL 17 BUF 17 LI: 0.88-B.Moorman punts 38 yards to ATL 39 Center-65-G.Sanborn27-R.McClain to ATL 45 for 6 yards(52-A.Moats 48-E.Rodriguez).'>31.1</number><number>0.56</number>
+<number shadow='shadow1' tooltip='13:43 1-10-ATL 45ATL 17 BUF 17 LI: 1.439-S.Jackson left guard to 50 for 5 yards(91-M.Lawson 23-A.Williams).'>31.28</number><number>0.54</number>
+<number shadow='shadow1' tooltip='13:13 1-20-ATL 35ATL 17 BUF 17 LI: 1.4(Shotgun) 2-M.Ryan pass short left to 35-A.Smith pushed ob at ATL 41 for 6 yards(31-J.Byrd)Out-pattern caught near sideline at ATL 39.'>31.78</number><number>0.53</number>
+<number shadow='shadow1' tooltip='12:43 2-14-ATL 41ATL 17 BUF 17 LI: 1.12-M.Ryan pass incomplete short right to 80-L.ToiloloUnderthrown receiver near sideine at ATL 44Pressure on QB: A.Branch.'>32.28</number><number>0.56</number>
+<number shadow='shadow1' tooltip='12:37 1-10-ATL 46ATL 17 BUF 17 LI: 1.339-S.Jackson up the middle to 50 for 4 yards(50-K.Alonso 90-A.Branch).'>32.38</number><number>0.55</number>
+<number shadow='shadow1' tooltip='11:57 2-6-50ATL 17 BUF 17 LI: 1.239-S.Jackson up the middle to 50 for no gain (90-A.Branch 23-A.Williams).'>33.05</number><number>0.53</number>
+<number shadow='shadow1' tooltip='11:17 3-6-50ATL 17 BUF 17 LI: 1(Shotgun) 2-M.Ryan pass deep right to 84-R.White pushed ob at BUF 21 for 29 yards(21-L.McKelvin)Caught along sideline at BUF 23.'>33.72</number><number>0.63</number>
+<number shadow='shadow1' tooltip='11:08 1-10-BUF 21ATL 17 BUF 17 LI: 1.5(No Huddle) 2-M.Ryan pass short left to 83-H.Douglas to BUF 15 for 6 yards(31-J.Byrd)Stop pattern caught at BUF 15.'>33.87</number><number>0.71</number>
+<number shadow='shadow1' tooltip='10:33 2-4-BUF 15ATL 17 BUF 17 LI: 2.239-S.Jackson up the middle to BUF 14 for 1 yard(90-A.Branch 50-K.Alonso).'>34.45</number><number>0.69</number>
+<number shadow='shadow1' tooltip='9:56 3-3-BUF 14ATL 17 BUF 17 LI: 1.9(Shotgun) 2-M.Ryan pass short left to 83-H.Douglas for 14 yards TOUCHDOWN [55-J.Hughes]Slant pattern caught at BUF 10The Replay Assistant challenged the runner was down by contact ruling and the play was REVERSED(Shotgun) 2-M.Ryan pass short left to 83-H.Douglas to BUF 1 for 13 yards(37-N.Robey) [55-J.Hughes]Slant pattern caught at BUF 10Runners knee down before entering end zone.'>35.07</number><number>0.74</number>
+<number shadow='shadow1' tooltip='9:37 1-1-BUF 1ATL 17 BUF 17 LI: 2.439-S.Jackson right guard to BUF 1 for no gain (50-K.Alonso 24-S.Gilmore)BUF-24-S.Gilmore was injured during the play.'>35.38</number><number>0.74</number>
+<number shadow='shadow1' tooltip='9:16 2-1-BUF 1ATL 17 BUF 17 LI: 2.42-M.Ryan sacked at BUF 6 for -5 yards(99-M.Dareus)M.Ryan tripped after snap.'>35.73</number><number>0.69</number>
+<number shadow='shadow1' tooltip='8:39 3-6-BUF 6ATL 17 BUF 17 LI: 1.9(Shotgun) PENALTY on ATL-76-L.Holmes False Start 5 yards enforced at BUF 6 - No Play.'>36.35</number><number>0.67</number>
+<number shadow='shadow1' tooltip='8:18 3-11-BUF 11ATL 17 BUF 17 LI: 1.7(Shotgun) 2-M.Ryan pass short middle to 88-T.Gonzalez for 11 yards TOUCHDOWNCaught 1 ydinto end zone.'>36.7</number><number>0.75</number>
+<number shadow='shadow1' tooltip='8:18 ATL 17 BUF 17 LI: 3-M.Bryant extra point is GOOD Center-47-J.Harris Holder-5-M.Bosher.'>36.74</number><number>0.75</number>
+<number shadow='shadow1' tooltip='8:18 ATL 24 BUF 17 LI: 5-M.Bosher kicks 73 yards from ATL 35 to BUF -888-M.Goodwin Touchback.'>36.79</number><number>0.77</number>
+<number shadow='shadow1' tooltip='7:42 1-10-BUF 35ATL 24 BUF 17 LI: 1.1(No Huddle Shotgun) 3-E.Manuel pass incomplete short middle to 28-C.SpillerDropped receiver at BUF 37.'>37.3</number><number>0.74</number>
+<number shadow='shadow1' tooltip='7:37 2-10-BUF 35ATL 24 BUF 17 LI: 1(No Huddle Shotgun) 3-E.Manuel pass short middle to 84-S.Chandler to BUF 43 for 8 yards(55-P.Worrilow)Caught at BUF 40.'>37.38</number><number>0.73</number>
+<number shadow='shadow1' tooltip='7:04 3-2-BUF 43ATL 24 BUF 17 LI: 1(No Huddle Shotgun) 3-E.Manuel pass incomplete deep left to 13-S.JohnsonOverthrown receiver near sideline at ATL 33.'>37.93</number><number>0.77</number>
+<number shadow='shadow1' tooltip='6:59 4-2-BUF 43ATL 24 BUF 17 LI: 0.68-B.Moorman punts 39 yards to ATL 18 Center-65-G.Sanborn fair catch by 27-R.McClain.'>38.02</number><number>0.76</number>
+<number shadow='shadow1' tooltip='6:51 1-10-ATL 18ATL 24 BUF 17 LI: 1.439-S.Jackson left guard to ATL 23 for 5 yards(50-K.Alonso 90-A.Branch).'>38.15</number><number>0.77</number>
+<number shadow='shadow1' tooltip='6:15 2-5-ATL 23ATL 24 BUF 17 LI: 1.32-M.Ryan FUMBLES (Aborted) at ATL 21 RECOVERED by BUF-50-K.Alonso at ATL 2150-K.Alonso to ATL 21 for no gain (61-J.Hawley).'>38.75</number><number>0.63</number>
+<number shadow='shadow1' tooltip='6:10 1-10-ATL 21ATL 24 BUF 17 LI: 1.43-E.Manuel pass short left to 22-F.Jackson for 21 yards TOUCHDOWNScreen pass caught at ATL 24Key block: T.Graham.'>38.83</number><number>0.53</number>
+<number shadow='shadow1' tooltip='6:10 ATL 24 BUF 17 LI: 2-D.Carpenter extra point is GOOD Center-65-G.Sanborn Holder-8-B.Moorman.'>38.87</number><number>0.53</number>
+<number shadow='shadow1' tooltip='6:10 ATL 24 BUF 24 LI: 2-D.Carpenter kicks 67 yards from BUF 35 to ATL -232-J.Rodgers to ATL 19 for 21 yards(15-C.Hogan 48-E.Rodriguez).'>38.92</number><number>0.51</number>
+<number shadow='shadow1' tooltip='5:56 1-10-ATL 19ATL 24 BUF 24 LI: 1.62-M.Ryan pass incomplete short right to 84-R.White (21-L.McKelvin)Receiver and coverage in flat at ATL 30.'>39.07</number><number>0.49</number>
+<number shadow='shadow1' tooltip='5:50 2-10-ATL 19ATL 24 BUF 24 LI: 1.439-S.Jackson up the middle to ATL 20 for 1 yard(94-M.Williams 99-M.Dareus).'>39.17</number><number>0.48</number>
+<number shadow='shadow1' tooltip='5:12 3-9-ATL 20ATL 24 BUF 24 LI: 1.3(Shotgun) 2-M.Ryan scrambles up the middle to ATL 37 for 17 yards(23-A.Williams).'>39.8</number><number>0.55</number>
+<number shadow='shadow1' tooltip='4:28 1-10-ATL 37ATL 24 BUF 24 LI: 1.632-J.Rodgers up the middle to ATL 46 for 9 yards(23-A.Williams 21-L.McKelvin).'>40.53</number><number>0.57</number>
+<number shadow='shadow1' tooltip='3:49 2-1-ATL 46ATL 24 BUF 24 LI: 1.632-J.Rodgers up the middle to ATL 49 for 3 yards(99-M.Dareus 50-K.Alonso).'>41.18</number><number>0.58</number>
+<number shadow='shadow1' tooltip='3:06 1-10-ATL 49ATL 24 BUF 24 LI: 1.7(Shotgun) 2-M.Ryan pass short middle to 84-R.White to BUF 46 for 5 yards(24-S.Gilmore)Curl pattern caught at BUF 46.'>41.9</number><number>0.58</number>
+<number shadow='shadow1' tooltip='2:30 2-5-BUF 46ATL 24 BUF 24 LI: 1.639-S.Jackson right guard to BUF 44 for 2 yards(93-J.Westerman 91-M.Lawson).'>42.5</number><number>0.56</number>
+<number shadow='shadow1' tooltip='1:50 3-3-BUF 44ATL 24 BUF 24 LI: 1.32-M.Ryan pass incomplete short left to 83-H.DouglasUnderthrown receiver near sideline at BUF 42.'>43.17</number><number>0.49</number>
+<number shadow='shadow1' tooltip='1:46 4-3-BUF 44ATL 24 BUF 24 LI: 0.65-M.Bosher punts 41 yards to BUF 3 Center-47-J.Harris downed by ATL-23-R.Alford.'>43.23</number><number>0.5</number>
+<number shadow='shadow1' tooltip='1:36 1-10-BUF 3ATL 24 BUF 24 LI: 2.33-E.Manuel pass incomplete deep right to 88-M.GoodwinOverthrown receiver near sideline at BUF 42.'>43.4</number><number>0.55</number>
+<number shadow='shadow1' tooltip='1:31 2-10-BUF 3ATL 24 BUF 24 LI: 1.828-C.Spiller up the middle to BUF 5 for 2 yards(91-C.Peters 28-T.DeCoud).'>43.48</number><number>0.55</number>
+<number shadow='shadow1' tooltip='0:50 3-8-BUF 5ATL 24 BUF 24 LI: 1.9(Shotgun) 3-E.Manuel pass incomplete deep right to 88-M.GoodwinOverthrown receiver along sideine at BUF 47.'>44.17</number><number>0.6</number>
+<number shadow='shadow1' tooltip='0:43 4-8-BUF 5ATL 24 BUF 24 LI: 1.48-B.Moorman punts 50 yards to ATL 45 Center-65-G.Sanborn27-R.McClain to 50 for 5 yards(53-N.Bradham 48-E.Rodriguez).'>44.28</number><number>0.59</number>
+<number shadow='shadow1' tooltip='0:32 1-10-50ATL 24 BUF 24 LI: 1.8(Shotgun) 2-M.Ryan pass short middle to 83-H.Douglas to BUF 41 for 9 yards(37-N.Robey)Caught at BUF 48 slanting from left.'>44.47</number><number>0.61</number>
+<number shadow='shadow1' tooltip='15:00 2-1-BUF 41ATL 24 BUF 24 LI: 1.82-M.Ryan pass incomplete short middle to 83-H.Douglas (94-M.Williams)Screen pass batted at line.'>45</number><number>0.58</number>
+<number shadow='shadow1' tooltip='14:58 3-1-BUF 41ATL 24 BUF 24 LI: 1.539-S.Jackson left guard to BUF 38 for 3 yards(31-J.Byrd 21-L.McKelvin).'>45.03</number><number>0.62</number>
+<number shadow='shadow1' tooltip='14:16 1-10-BUF 38ATL 24 BUF 24 LI: 1.9(Shotgun) 2-M.Ryan pass incomplete short left to 83-H.Douglas (99-M.Dareus)Receiver underthrown at BUF 26 pass tipped in coverage.'>45.73</number><number>0.58</number>
+<number shadow='shadow1' tooltip='14:13 2-10-BUF 38ATL 24 BUF 24 LI: 1.539-S.Jackson left guard to BUF 33 for 5 yards(95-K.Williams 53-N.Bradham).'>45.78</number><number>0.59</number>
+<number shadow='shadow1' tooltip='13:32 3-5-BUF 33ATL 24 BUF 24 LI: 1.4(Shotgun) 2-M.Ryan sacked at BUF 40 for -7 yards(94-M.Williams).'>46.47</number><number>0.5</number>
+<number shadow='shadow1' tooltip='12:59 4-12-BUF 40ATL 24 BUF 24 LI: 0.75-M.Bosher punts 27 yards to BUF 13 Center-47-J.Harris fair catch by 21-L.McKelvin.'>47.02</number><number>0.5</number>
+<number shadow='shadow1' tooltip='12:51 1-10-BUF 13ATL 24 BUF 24 LI: 2.5(Shotgun) 28-C.Spiller right tackle to BUF 16 for 3 yards(50-O.Umenyiora).'>47.15</number><number>0.51</number>
+<number shadow='shadow1' tooltip='12:23 2-7-BUF 16ATL 24 BUF 24 LI: 1.7(No Huddle Shotgun) 3-E.Manuel pass deep left to 10-R.Woods to BUF 49 for 33 yards(25-W.Moore)Caught near sideline at BUF 49.'>47.62</number><number>0.36</number>
+<number shadow='shadow1' tooltip='11:53 1-10-ATL 36ATL 24 BUF 24 LI: 2(Shotgun) 28-C.Spiller right tackle for 36 yards TOUCHDOWNKey block: E.Pears.'>48.12</number><number>0.19</number>
+<number shadow='shadow1' tooltip='11:53 ATL 24 BUF 24 LI: 2-D.Carpenter extra point is GOOD Center-65-G.Sanborn Holder-8-B.Moorman.'>48.16</number><number>0.19</number>
+<number shadow='shadow1' tooltip='11:53 ATL 24 BUF 31 LI: 2-D.Carpenter kicks 65 yards from BUF 35 to end zone TouchbackKick through end zone.'>48.21</number><number>0.17</number>
+<number shadow='shadow1' tooltip='11:42 2-10-ATL 20ATL 24 BUF 31 LI: 0.82-M.Ryan pass incomplete deep left to 83-H.DouglasOverthrown receiver along sideline at ATL 47.'>48.3</number><number>0.16</number>
+<number shadow='shadow1' tooltip='11:36 3-10-ATL 20ATL 24 BUF 31 LI: 0.7(Shotgun) 2-M.Ryan pass short middle to 84-R.White to ATL 26 for 6 yards(23-A.Williams) [95-K.Williams]Curl pattern caught at ATL 26.'>48.4</number><number>0.14</number>
+<number shadow='shadow1' tooltip='10:59 4-4-ATL 26ATL 24 BUF 31 LI: 0.55-M.Bosher punts 49 yards to BUF 25 Center-47-J.Harris21-L.McKelvin to BUF 32 for 7 yards(41-Z.Motta 54-S.Nicholas).'>49.02</number><number>0.14</number>
+<number shadow='shadow1' tooltip='10:48 1-10-BUF 32ATL 24 BUF 31 LI: 1.6(Shotgun) 28-C.Spiller up the middle to BUF 35 for 3 yards(96-J.Massaquoi 91-C.Peters).'>49.2</number><number>0.13</number>
+<number shadow='shadow1' tooltip='10:15 2-7-BUF 35ATL 24 BUF 31 LI: 1.6(No Huddle Shotgun) 3-E.Manuel pass incomplete short middle to 84-S.Chandler (25-W.Moore)Nearly intercepted at BUF 40.'>49.75</number><number>0.14</number>
+<number shadow='shadow1' tooltip='10:11 3-7-BUF 35ATL 24 BUF 31 LI: 1.5(Shotgun) 3-E.Manuel pass incomplete deep right to 88-M.GoodwinOverthrown receiver along sideline at ATL 45.'>49.82</number><number>0.17</number>
+<number shadow='shadow1' tooltip='10:06 4-7-BUF 35ATL 24 BUF 31 LI: 1.38-B.Moorman punts 34 yards to ATL 31 Center-65-G.Sanborn fair catch by 27-R.McClain.'>49.9</number><number>0.18</number>
+<number shadow='shadow1' tooltip='9:58 1-10-ATL 31ATL 24 BUF 31 LI: 139-S.Jackson right guard to ATL 32 for 1 yard(94-M.Williams 31-J.Byrd).'>50.03</number><number>0.19</number>
+<number shadow='shadow1' tooltip='9:16 2-9-ATL 32ATL 24 BUF 31 LI: 1.2(Shotgun) 2-M.Ryan pass short left to 83-H.Douglas to ATL 46 for 14 yards(21-L.McKelvin)Caught in flat at ATL 44.'>50.73</number><number>0.25</number>
+<number shadow='shadow1' tooltip='8:30 1-10-ATL 46ATL 24 BUF 31 LI: 1.739-S.Jackson right guard to ATL 47 for 1 yard(94-M.Williams 53-N.Bradham).'>51.5</number><number>0.22</number>
+<number shadow='shadow1' tooltip='7:51 2-9-ATL 47ATL 24 BUF 31 LI: 1.42-M.Ryan pass short left to 84-R.White to BUF 46 for 7 yards(24-S.Gilmore)Caught at BUF 49 slanting to middle.'>52.15</number><number>0.21</number>
+<number shadow='shadow1' tooltip='7:07 3-2-BUF 46ATL 24 BUF 31 LI: 1.3(Shotgun) 2-M.Ryan pass short middle to 44-J.Snelling to BUF 43 for 3 yards(90-A.Branch 31-J.Byrd)Shovel pass caught at BUF 47.'>52.88</number><number>0.26</number>
+<number shadow='shadow1' tooltip='6:25 1-10-BUF 43ATL 24 BUF 31 LI: 1.8(Shotgun) 2-M.Ryan pass incomplete short middle to 83-H.Douglas (37-N.Robey)Receiver and coverage at BUF 40Receiver crossing from left.'>53.58</number><number>0.16</number>
+<number shadow='shadow1' tooltip='6:21 2-10-BUF 43ATL 24 BUF 31 LI: 0.8(Shotgun) 2-M.Ryan pass incomplete short right to 88-T.Gonzalez (23-A.Williams)Receiver and coverage at BUF 38 crossing from middle.'>53.65</number><number>0.14</number>
+<number shadow='shadow1' tooltip='6:17 3-10-BUF 43ATL 24 BUF 31 LI: 0.6(Shotgun) 2-M.Ryan pass incomplete deep left to 35-A.SmithOverthrown receiver along sideline at BUF 2.'>53.72</number><number>0.1</number>
+<number shadow='shadow1' tooltip='6:10 4-10-BUF 43ATL 24 BUF 31 LI: 0.35-M.Bosher punts 33 yards to BUF 10 Center-47-J.Harris fair catch by 35-J.Leonhard.'>53.83</number><number>0.08</number>
+<number shadow='shadow1' tooltip='6:02 1-10-BUF 10ATL 24 BUF 31 LI: 3(Shotgun) 28-C.Spiller right tackle to BUF 7 for -3 yards(25-W.Moore 23-R.Alford).'>53.97</number><number>0.15</number>
+<number shadow='shadow1' tooltip='5:26 2-13-BUF 7ATL 24 BUF 31 LI: 2.3(Shotgun) 3-E.Manuel pass incomplete short right to 10-R.WoodsThrown behind receiver along sideline at BUF 22.'>54.57</number><number>0.17</number>
+<number shadow='shadow1' tooltip='5:22 3-13-BUF 7ATL 24 BUF 31 LI: 2.1(Shotgun) PENALTY on BUF-3-E.Manuel Delay of Game 4 yards enforced at BUF 7 - No Play.'>54.63</number><number>0.19</number>
+<number shadow='shadow1' tooltip='4:38 4-3-BUF 17ATL 24 BUF 31 LI: 0.68-B.Moorman punts 51 yards to ATL 32 Center-65-G.Sanborn27-R.McClain to ATL 35 for 3 yards(53-N.Bradham 65-G.Sanborn).'>55.37</number><number>0.17</number>
+<number shadow='shadow1' tooltip='4:26 1-10-ATL 35ATL 24 BUF 31 LI: 1.32-M.Ryan sacked at ATL 28 for -7 yards(97-C.Bryant).'>55.57</number><number>0.09</number>
+<number shadow='shadow1' tooltip='3:57 2-17-ATL 28ATL 24 BUF 31 LI: 0.6(No Huddle Shotgun) 2-M.Ryan pass short right to 88-T.Gonzalez to ATL 36 for 8 yards(21-L.McKelvin)Caught near sideline at ATL 36.'>56.05</number><number>0.09</number>
+<number shadow='shadow1' tooltip='3:25 3-9-ATL 36ATL 24 BUF 31 LI: 0.5(No Huddle Shotgun) 2-M.Ryan pass short middle to 88-T.Gonzalez to ATL 48 for 12 yards(25-D.Searcy)Caught at ATL 46.'>56.58</number><number>0.19</number>
+<number shadow='shadow1' tooltip='2:58 1-10-ATL 48ATL 24 BUF 31 LI: 1.6(No Huddle Shotgun) 2-M.Ryan pass incomplete deep left to 83-H.DouglasThrown wide of receiver along sideline at BUF 35.'>57.03</number><number>0.12</number>
+<number shadow='shadow1' tooltip='2:53 2-10-ATL 48ATL 24 BUF 31 LI: 0.9(Shotgun) 2-M.Ryan pass deep right to 84-R.White pushed ob at BUF 28 for 24 yards(21-L.McKelvin)Caught in flat at BUF 35.'>57.12</number><number>0.24</number>
+<number shadow='shadow1' tooltip='2:45 1-10-BUF 28ATL 24 BUF 31 LI: 2.2(Shotgun) 2-M.Ryan pass incomplete short middle to 83-H.Douglas (50-K.Alonso)Receiver and coverage at BUF 20.'>57.25</number><number>0.18</number>
+<number shadow='shadow1' tooltip='2:42 2-10-BUF 28ATL 24 BUF 31 LI: 1.7(Shotgun) 2-M.Ryan pass short right to 84-R.White pushed ob at BUF 20 for 8 yards(21-L.McKelvin)Caught along sideline at BUF 20.'>57.3</number><number>0.22</number>
+<number shadow='shadow1' tooltip='2:37 2-5-BUF 23ATL 24 BUF 31 LI: 2.1(Shotgun) 2-M.Ryan pass incomplete short middle to 83-H.Douglas (31-J.Byrd)Receiver and coverage at BUF 10.'>57.38</number><number>0.26</number>
+<number shadow='shadow1' tooltip='2:33 1-10-BUF 18ATL 24 BUF 31 LI: 2.4(Shotgun) 2-M.Ryan pass short middle to 13-D.Johnson to BUF 5 for 13 yards(31-J.Byrd)Caught at BUF 13 slanting from left.'>57.45</number><number>0.3</number>
+<number shadow='shadow1' tooltip='2:00 1-5-BUF 5ATL 24 BUF 31 LI: 2.9(Shotgun) 2-M.Ryan pass incomplete short right to 88-T.GonzalezOverthrown receiver in back corner of end zone.'>58</number><number>0.3</number>
+<number shadow='shadow1' tooltip='1:53 2-5-BUF 5ATL 24 BUF 31 LI: 2.9(Shotgun) 2-M.Ryan pass incomplete short middle to 83-H.DouglasOverthrown receiver in back of end zone.'>58.12</number><number>0.21</number>
+<number shadow='shadow1' tooltip='1:47 3-5-BUF 5ATL 24 BUF 31 LI: 2(Shotgun) 39-S.Jackson up the middle to BUF 1 for 4 yards(50-K.Alonso 31-J.Byrd).'>58.22</number><number>0.1</number>
+<number shadow='shadow1' tooltip='1:38 3-16-BUF 16ATL 24 BUF 31 LI: 0.9(Shotgun) 2-M.Ryan pass incomplete deep right to 83-H.DouglasThrown wide of receiver in front corner of end zone.'>58.37</number><number>0.34</number>
+<number shadow='shadow1' tooltip='1:31 1-1-BUF 1ATL 24 BUF 31 LI: 3.339-S.Jackson right guard for 1 yard TOUCHDOWN.'>58.48</number><number>0.36</number>
+<number shadow='shadow1' tooltip='1:31 ATL 24 BUF 31 LI: 3-M.Bryant extra point is GOOD Center-47-J.Harris Holder-5-M.Bosher.'>58.52</number><number>0.36</number>
+<number shadow='shadow1' tooltip='1:31 ATL 31 BUF 31 LI: 5-M.Bosher kicks 69 yards from ATL 35 to BUF -488-M.Goodwin to BUF 24 for 28 yards(35-A.Smith 41-Z.Motta).'>58.57</number><number>0.4</number>
+<number shadow='shadow1' tooltip='1:22 1-10-BUF 24ATL 31 BUF 31 LI: 4.7(Shotgun) 3-E.Manuel pass short right to 22-F.Jackson to BUF 24 for no gain (91-C.Peters 96-J.Massaquoi)Screen pass caught at BUF 17.'>58.63</number><number>0.49</number>
+<number shadow='shadow1' tooltip='0:51 2-10-BUF 24ATL 31 BUF 31 LI: 4.3(No Huddle Shotgun) 3-E.Manuel pass incomplete short right to 11-T.Graham (23-R.Alford)Receiver and coverage near sideline at BUF 37.'>59.15</number><number>0.52</number>
+<number shadow='shadow1' tooltip='0:47 3-10-BUF 24ATL 31 BUF 31 LI: 4.1(Shotgun) 3-E.Manuel pass short right to 84-S.Chandler pushed ob at BUF 47 for 23 yards(25-W.Moore)Caught in flat at BUF 32.'>59.22</number><number>0.32</number>
+<number shadow='shadow1' tooltip='0:39 1-10-BUF 47ATL 31 BUF 31 LI: 4.2(No Huddle Shotgun) 22-F.Jackson right tackle to ATL 45 for 8 yards(23-R.Alford 56-S.Weatherspoon).'>59.35</number><number>0.39</number>
+<number shadow='shadow1' tooltip='0:34 2-2-ATL 45ATL 31 BUF 31 LI: 2.7(Shotgun) 22-F.Jackson right tackle to ATL 44 for 1 yard(91-C.Peters 50-O.Umenyiora).'>59.43</number><number>0.34</number>
+<number shadow='shadow1' tooltip='0:28 3-1-ATL 44ATL 31 BUF 31 LI: 3.1(Shotgun) 3-E.Manuel pass short right to 13-S.Johnson to ATL 30 for 14 yards(27-R.McClain)FUMBLES (27-R.McClain) RECOVERED by ATL-25-W.Moore at ATL 2825-W.Moore ran ob at ATL 28 for no gain.'>59.53</number><number>0.53</number>
+<number shadow='shadow1' tooltip='0:20 1-10-ATL 28ATL 31 BUF 31 LI: 4.2(Shotgun) 2-M.Ryan pass short left to 39-S.Jackson to ATL 28 for no gain (99-M.Dareus 25-D.Searcy)Screen pass caught at ATL 25.'>59.67</number><number>0.45</number>
+<number shadow='shadow1' tooltip='0:20 ATL 31 BUF 31 LI: 5-M.Bosher kicks 73 yards from ATL 35 to BUF -888-M.Goodwin Touchback.'>59.76</number><number>0.47</number>
+<number shadow='shadow1' tooltip='15:00 1-10-BUF 20ATL 31 BUF 31 LI: 2.9(Shotgun) 22-F.Jackson up the middle to BUF 23 for 3 yards(91-C.Peters 55-P.Worrilow).'>60</number><number>0.5</number>
+<number shadow='shadow1' tooltip='14:34 2-7-BUF 23ATL 31 BUF 31 LI: 2.5(No Huddle Shotgun) 3-E.Manuel pass deep middle to 84-S.Chandler to BUF 45 for 22 yards(25-W.Moore)FUMBLES (25-W.Moore) RECOVERED by ATL-23-R.Alford at ATL 4023-R.Alford to ATL 35 for -5 yardsLateral to 21-D.Trufant to BUF 47 for 18 yards(11-T.Graham).'>60.43</number><number>0.72</number>
+<number shadow='shadow1' tooltip='14:16 1-10-BUF 47ATL 31 BUF 31 LI: 4.139-S.Jackson up the middle to BUF 43 for 4 yards(21-L.McKelvin 50-K.Alonso).'>60.73</number><number>0.72</number>
+<number shadow='shadow1' tooltip='13:41 2-6-BUF 43ATL 31 BUF 31 LI: 3.82-M.Ryan pass short left to 83-H.Douglas to BUF 23 for 20 yards(21-L.McKelvin)Screen pass caught at BUF 43.'>61.32</number><number>0.86</number>
+<number shadow='shadow1' tooltip='13:00 1-10-BUF 23ATL 31 BUF 31 LI: 439-S.Jackson up the middle to BUF 19 for 4 yards(50-K.Alonso 99-M.Dareus).'>62</number><number>0.94</number>
+<number shadow='shadow1' tooltip='12:27 2-6-BUF 19ATL 31 BUF 31 LI: 4.539-S.Jackson right tackle to BUF 17 for 2 yards(21-L.McKelvin 50-K.Alonso).'>62.55</number><number>0.94</number>
+<number shadow='shadow1' tooltip='12:04 3-4-BUF 17ATL 31 BUF 31 LI: 4.23-M.Bryant 36 yard field goal is GOOD Center-47-J.Harris Holder-5-M.Bosher.'>62.93</number><number>1</number>
+<number>62.93</number><number>1</number>
+</row> </chart_data>
+       <draw>
+
+
+
+      <image x='45' y='298'  url='nfllogos/42x50png/ATL.gif'  layer='foreground' glow = 'glow1'/>
+      <image x='45' y='350'  url='nfllogos/42x50png/BUF.gif'     layer='foreground' glow = 'glow1'/>
+
+
+      <rect x='130' y='300' width='250' height='40' fill_color='cf1534' bevel='bevel1' />
+      <text x='135' y='300' width='250' height='40' h_align='left' v_align='middle' color='ffffff' shadow='shadow2' glow='winnerglow'>Atlanta Falcons</text>
+
+      <rect x='130' y='350' width='250' height='40' fill_color='004b86' bevel='bevel1'  />
+      <text x='135' y='350' width='250' height='40' h_align='left' v_align='middle' color='ffffff' shadow='shadow2' glow=''>Buffalo Bills</text>
+
+      <rect x='420' y='300' width='60' height='40' fill_color='cf1534' bevel='bevel1'  />
+      <text x='420' y='300' width='60' height='40' h_align='center' v_align='middle' color='ffffff' shadow='shadow2' transition='none' glow='winnerglow'>34</text>
+
+      <rect x='420' y='350' width='60' height='40' fill_color='004b86' bevel='bevel1' />
+      <text x='420' y='350' width='60' height='40' h_align='center' v_align='middle' color='ffffff' shadow='shadow2' transition='none' glow=''>31</text>
+
+      <text x='-3' y='12'  width='60' height='40' h_align='center' v_align='middle' size='13' shadow='shadow2'>ATLWin </text>
+      <text x='-3' y='218' width='60' height='40' h_align='center' v_align='middle' size='13' shadow='shadow2'>BUFWin </text>
+
+     
+              <rect x='540' y='300' width='100' height='35' fill_color='000000' fill_alpha='50'/>
+              <text x='540' y='300' width='100' height='35' h_align='center' v_align='middle' color='ffffff' size='15' shadow='shadow2' >Final</text>
+
+              <text x='540' y='340' width='40' h_align='center' color='000000' size='12' shadow='shadow2'>CBF</text>
+              <text x='600' y='340' width='40' h_align='center' color='000000' size='12' shadow='shadow2'>EI</text>
+
+              <rect x='540' y='360' width='40' height='30' fill_color='000000' fill_alpha='50' />
+              <text x='540' y='360' width='40' height='30' size='12' h_align='center' v_align='middle' color='FFFFFF' shadow='shadow2'>13</text>
+
+              <rect x='600' y='360' width='40' height='30' fill_color='000000' fill_alpha='50' />
+              <text x='600' y='360' width='40' height='30' size='12' h_align='center' v_align='middle' color='FFFFFF' shadow='shadow2'>6.6</text>
+
+              <text x='20' y='420' width='70' height='25' size='12' h_align='left' v_align='middle' color='000000' >12/1/2013</text>
+              <text x='100' y='420' width='200' height='25' size='12' h_align='left' v_align='middle' color='000000' >Rogers Centre</text>
+
+   </draw></chart>

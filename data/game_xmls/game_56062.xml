@@ -1,0 +1,300 @@
+
+<chart>
+   <license>ETAS9P33ESHO.945CWK-2XOI1X0-7L</license>
+   <chart_type>scatter</chart_type>
+   <chart_pref trend_thickness='0' line_thickness='3' point_size='0'/>
+
+   <series_color>
+      <color>ffff00</color>
+   </series_color>
+
+   <chart_rect x='45' y='20' width='630' height='230' positive_color='cacaca'  />
+
+  <chart_border top_thickness='0'
+                 bottom_thickness='0'
+                 left_thickness='0'
+                 right_thickness='0'
+                 color='000000'
+                 />
+
+   <tooltip font='Arial' bold='true' size='11' />
+
+   <chart_note type='flag'
+               color='000000'
+               alpha='90'
+               bold='FALSE'
+               size='10'
+               background_color='ffffe0'
+               background_alpha='50'
+               shadow='shadow2'
+               />
+
+   <chart_grid_h thickness='2' color='ffffff' type='dashed'  />
+   <chart_grid_v thickness='2' color='ffffff'   />
+		>
+
+   <legend layout='hide' />
+
+   <chart_guide horizontal='TRUE'
+             vertical='TRUE'
+             thickness='1'
+             color='006400'
+             alpha='100'
+             type='solid'
+             snap_h='TRUE'
+             snap_v='TRUE'
+             radius='3'
+             fill_color='006400'
+             fill_alpha='100'
+             line_color='006400'
+             line_alpha='80'
+             line_thickness='1'
+             text_h_alpha='50'
+             text_v_alpha='00'
+             suffix_h=' WP'
+             decimals='2'
+             bold='FALSE'
+             size='11'
+             text_color='FFFFFF'
+             background_color='006400'
+             />
+   <filter>
+      <shadow id='shadow1' distance='2' angle='60' blurX='5' blurY='5' alpha='50' />
+      <bevel id='bevel1' angle='45' blurX='5' blurY='5' distance='0' />
+      <glow id='glow1' color='ffffff' alpha='0' blurX='7' blurY='7' strength='6' quality='2' inner='FALSE' knockout='FALSE' />
+      <glow id='winnerglow' color='ffffff' alpha='0' blurX='7' blurY='7' strength='5' quality='2' inner='FALSE' knockout='FALSE' />
+   </filter>
+
+    <axis_value_label>
+         <string></string>
+          <string> </string>
+          <null/>
+          <string> </string>
+          <string></string>
+
+       </axis_value_label>
+		
+	   <axis_ticks category_ticks='false'/>
+
+       <axis_value min='0' max='1' steps='4'  decimals='2' show_min='true' size='13' shadow='shadow2' />     
+            <axis_category
+               min='0'
+               max='60'
+               steps='4'
+               mode='all'
+               decimals='0'
+               size='13'
+               shadow='shadow2'
+               />
+
+       <axis_category_label>
+          <string>Kickoff</string>
+          <string></string>
+          <string>Halftime</string>
+          <string></string>
+          <string>End</string>
+
+       </axis_category_label>
+
+
+        <chart_data>
+       <row>
+	      <null/><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number>
+              <number>x</number><number>y</number>
+              </row><row><string></string>
+
+                     <number shadow='shadow1'>0</number><number>.5</number><number shadow='shadow1' tooltip='15:00 NO 0 CAR 0 LI: 6-T.Morstead kicks 65 yards from NO 35 to end zone Touchback.'>0.09</number><number>0.48</number>
+<number shadow='shadow1' tooltip='14:34 2-1-CAR 29NO 0 CAR 0 LI: 1.534-De.Williams right guard to CAR 31 for 2 yards(76-A.Hicks; 94-C.Jordan).'>0.43</number><number>0.46</number>
+<number shadow='shadow1' tooltip='13:54 1-10-CAR 31NO 0 CAR 0 LI: 1.5(Shotgun) 34-De.Williams left end to CAR 30 for -1 yards(32-K.Vaccaro).'>1.1</number><number>0.44</number>
+<number shadow='shadow1' tooltip='13:29 1-10-CAR 45NO 0 CAR 0 LI: 1.41-C.Newton pass deep middle to 89-S.Smith to NO 11 for 44 yards(28-K.Lewis).'>1.52</number><number>0.33</number>
+<number shadow='shadow1' tooltip='12:44 1-10-NO 11NO 0 CAR 0 LI: 1.7PENALTY on CAR-84-B.Hartsock False Start 5 yards enforced at NO 11 - No Play.'>2.27</number><number>0.35</number>
+<number shadow='shadow1' tooltip='12:29 1-15-NO 16NO 0 CAR 0 LI: 1.6(Shotgun) 34-De.Williams left tackle to NO 16 for no gain (27-M.Jenkins; 76-A.Hicks)Direct snap to DeAngelo Williams'>2.52</number><number>0.38</number>
+<number shadow='shadow1' tooltip='11:48 2-15-NO 16NO 0 CAR 0 LI: 1.3(Shotgun) 1-C.Newton pass short middle intended for 19-T.Ginn INTERCEPTED by 27-M.Jenkins at NO 1027-M.Jenkins to NO 14 for 4 yards(67-R.Kalil).'>3.2</number><number>0.5</number>
+<number shadow='shadow1' tooltip='11:35 1-10-NO 14NO 0 CAR 0 LI: 1.7(Shotgun) 9-D.Brees pass incomplete short right to 80-J.Graham (27-Q.Mikell).'>3.42</number><number>0.49</number>
+<number shadow='shadow1' tooltip='11:31 2-10-NO 14NO 0 CAR 0 LI: 1.69-D.Brees pass short left to 12-M.Colston to NO 23 for 9 yards(59-L.Kuechly; 23-M.White).'>3.48</number><number>0.51</number>
+<number shadow='shadow1' tooltip='10:49 3-1-NO 23NO 0 CAR 0 LI: 1.445-J.Collins up the middle to NO 25 for 2 yards(93-C.Blackburn).'>4.18</number><number>0.53</number>
+<number shadow='shadow1' tooltip='10:14 1-10-NO 25NO 0 CAR 0 LI: 1.6(Shotgun) 9-D.Brees pass incomplete short right to 12-M.ColstonCAR-91-C.Cole was injured during the play.'>4.77</number><number>0.51</number>
+<number shadow='shadow1' tooltip='10:10 2-10-NO 25NO 0 CAR 0 LI: 1.4(Shotgun) 9-D.Brees pass short left to 43-D.Sproles to NO 33 for 8 yards(58-T.Davis).'>4.83</number><number>0.52</number>
+<number shadow='shadow1' tooltip='9:31 3-2-NO 33NO 0 CAR 0 LI: 1.3(Shotgun) 9-D.Brees pass short left to 12-M.Colston to NO 36 for 3 yards(59-L.Kuechly).'>5.48</number><number>0.54</number>
+<number shadow='shadow1' tooltip='8:57 1-10-NO 36NO 0 CAR 0 LI: 1.4(Shotgun) 9-D.Brees sacked at NO 31 for -5 yards(41-C.Munnerlyn).'>6.05</number><number>0.5</number>
+<number shadow='shadow1' tooltip='8:20 2-15-NO 31NO 0 CAR 0 LI: 1.1(Shotgun) 9-D.Brees pass short left to 23-P.Thomas to NO 30 for -1 yards(58-T.Davis).'>6.67</number><number>0.48</number>
+<number shadow='shadow1' tooltip='7:40 3-16-NO 30NO 0 CAR 0 LI: 1(Shotgun) 9-D.Brees pass short left to 43-D.Sproles pushed ob at NO 36 for 6 yards(21-M.Mitchell).'>7.33</number><number>0.47</number>
+<number shadow='shadow1' tooltip='7:01 4-10-NO 36NO 0 CAR 0 LI: 0.76-T.Morstead punts 53 yards to CAR 11 Center-47-J.Drescher fair catch by 19-T.Ginn.'>7.98</number><number>0.5</number>
+<number shadow='shadow1' tooltip='6:52 1-10-CAR 11NO 0 CAR 0 LI: 1.71-C.Newton pass short left to 35-M.Tolbert to CAR 13 for 2 yards(57-D.Hawthorne).'>8.13</number><number>0.51</number>
+<number shadow='shadow1' tooltip='6:18 2-8-CAR 13NO 0 CAR 0 LI: 1.634-De.Williams right guard to CAR 15 for 2 yards(57-D.Hawthorne; 98-P.Haralson).'>8.7</number><number>0.52</number>
+<number shadow='shadow1' tooltip='5:38 3-6-CAR 15NO 0 CAR 0 LI: 1.3(Shotgun) 1-C.Newton pass incomplete deep left to 89-S.SmithCAR-89-S.Smith was injured during the playHe is Out.'>9.37</number><number>0.56</number>
+<number shadow='shadow1' tooltip='5:34 4-6-CAR 15NO 0 CAR 0 LI: 0.98-B.Nortman punts 55 yards to NO 30 Center-44-J.Jansen43-D.Sproles to NO 41 for 11 yards(44-J.Jansen).'>9.43</number><number>0.55</number>
+<number shadow='shadow1' tooltip='5:22 1-10-NO 41NO 0 CAR 0 LI: 1.49-D.Brees pass short left to 17-R.Meachem to NO 46 for 5 yards(23-M.White).'>9.63</number><number>0.55</number>
+<number shadow='shadow1' tooltip='4:49 2-5-NO 46NO 0 CAR 0 LI: 1.343-D.Sproles left tackle to NO 48 for 2 yards(23-M.White).'>10.18</number><number>0.54</number>
+<number shadow='shadow1' tooltip='4:08 3-3-NO 48NO 0 CAR 0 LI: 1.1(Shotgun) 9-D.Brees pass short middle to 82-B.Watson to CAR 30 for 22 yards(58-T.Davis).'>10.87</number><number>0.62</number>
+<number shadow='shadow1' tooltip='3:28 1-10-CAR 30NO 0 CAR 0 LI: 1.69-D.Brees pass short middle to 82-B.Watson to CAR 26 for 4 yards(58-T.Davis)V 79 Bryce Harris reports as eligible'>11.53</number><number>0.61</number>
+<number shadow='shadow1' tooltip='2:48 2-6-CAR 26NO 0 CAR 0 LI: 1.49-D.Brees pass short right to 45-J.Collins to CAR 28 for -2 yards(58-T.Davis).'>12.2</number><number>0.59</number>
+<number shadow='shadow1' tooltip='2:09 3-8-CAR 28NO 0 CAR 0 LI: 1.2(Shotgun) 9-D.Brees sacked at CAR 39 for -11 yards(76-G.Hardy).'>12.85</number><number>0.5</number>
+<number shadow='shadow1' tooltip='1:32 4-19-CAR 39NO 0 CAR 0 LI: 0.56-T.Morstead punts 39 yards to end zone Center-47-J.Drescher Touchback.'>13.47</number><number>0.48</number>
+<number shadow='shadow1' tooltip='1:25 1-10-CAR 20NO 0 CAR 0 LI: 1.619-T.Ginn left end pushed ob at CAR 27 for 7 yards(32-K.Vaccaro)End around to Ted Gin Jr.'>13.58</number><number>0.48</number>
+<number shadow='shadow1' tooltip='1:00 2-3-CAR 27NO 0 CAR 0 LI: 1.434-De.Williams right guard to CAR 28 for 1 yard(76-A.Hicks)NO-32-K.Vaccaro was injured during the play.'>14</number><number>0.49</number>
+<number shadow='shadow1' tooltip='0:32 3-2-CAR 28NO 0 CAR 0 LI: 1.3(Shotgun) 1-C.Newton sacked at CAR 17 for -11 yards(50-C.Lofton).'>14.47</number><number>0.55</number>
+<number shadow='shadow1' tooltip='0:23 4-13-CAR 17NO 0 CAR 0 LI: 0.98-B.Nortman punts 51 yards to NO 32 Center-44-J.Jansen43-D.Sproles to NO 33 for 1 yard(42-C.Jones).'>14.62</number><number>0.54</number>
+<number shadow='shadow1' tooltip='0:11 1-10-NO 33NO 0 CAR 0 LI: 1.522-M.Ingram right guard to NO 42 for 9 yards(27-Q.Mikell; 93-C.Blackburn)V 79 Bryce Harris reports as eligible'>14.82</number><number>0.55</number>
+<number shadow='shadow1' tooltip='15:00 2-1-NO 42NO 0 CAR 0 LI: 1.422-M.Ingram right guard to NO 47 for 5 yards(59-L.Kuechly; 41-C.Munnerlyn).'>15</number><number>0.56</number>
+<number shadow='shadow1' tooltip='14:10 1-15-NO 42NO 0 CAR 0 LI: 1.49-D.Brees pass short left to 23-P.Thomas to NO 42 for no gain (41-C.Munnerlyn; 59-L.Kuechly).'>15.83</number><number>0.52</number>
+<number shadow='shadow1' tooltip='13:27 2-15-NO 42NO 0 CAR 0 LI: 1(Shotgun) 9-D.Brees pass deep left to 12-M.Colston to CAR 23 for 35 yards(59-L.Kuechly).'>16.55</number><number>0.63</number>
+<number shadow='shadow1' tooltip='12:55 1-10-CAR 23NO 0 CAR 0 LI: 1.522-M.Ingram up the middle to CAR 21 for 2 yards(58-T.Davis; 59-L.Kuechly).'>17.08</number><number>0.64</number>
+<number shadow='shadow1' tooltip='12:16 2-8-CAR 21NO 0 CAR 0 LI: 1.6(Shotgun) 9-D.Brees sacked at CAR 30 for -9 yards(76-G.Hardy).'>17.73</number><number>0.56</number>
+<number shadow='shadow1' tooltip='11:33 3-17-CAR 30NO 0 CAR 0 LI: 1(Shotgun) 9-D.Brees pass short middle to 12-M.Colston to CAR 22 for 8 yards(59-L.Kuechly).'>18.45</number><number>0.57</number>
+<number shadow='shadow1' tooltip='10:53 4-9-CAR 22NO 0 CAR 0 LI: 0.93-S.Graham 40 yard field goal is GOOD Center-47-J.Drescher Holder-7-L.McCown.'>19.12</number><number>0.59</number>
+<number shadow='shadow1' tooltip='10:53 NO 3 CAR 0 LI: 6-T.Morstead kicks onside 12 yards from NO 35 to NO 47RECOVERED by NO-53-R.Humber.'>19.21</number><number>0.66</number>
+<number shadow='shadow1' tooltip='10:43 1-10-NO 47NO 3 CAR 0 LI: 1.284-K.Stills to 50 for 3 yards(23-M.White).'>19.28</number><number>0.65</number>
+<number shadow='shadow1' tooltip='10:15 2-7-50NO 3 CAR 0 LI: 1.19-D.Brees pass short right to 12-M.Colston to CAR 42 for 8 yards(41-C.Munnerlyn)V 79 Bryce Harris reports as eligible'>19.75</number><number>0.68</number>
+<number shadow='shadow1' tooltip='9:43 1-10-CAR 42NO 3 CAR 0 LI: 1.222-M.Ingram right end to CAR 8 for 34 yards(27-Q.Mikell).'>20.28</number><number>0.77</number>
+<number shadow='shadow1' tooltip='8:46 1-8-CAR 8NO 3 CAR 0 LI: 1.423-P.Thomas left tackle to CAR 4 for 4 yards(21-M.Mitchell; 58-T.Davis).'>21.23</number><number>0.78</number>
+<number shadow='shadow1' tooltip='8:04 2-4-CAR 4NO 3 CAR 0 LI: 1.5(Shotgun) 9-D.Brees sacked at CAR 7 for -3 yards(27-Q.Mikell).'>21.93</number><number>0.74</number>
+<number shadow='shadow1' tooltip='7:30 3-7-CAR 7NO 3 CAR 0 LI: 1.1(Shotgun) 9-D.Brees pass incomplete short left to 80-J.Graham.'>22.5</number><number>0.69</number>
+<number shadow='shadow1' tooltip='7:24 4-7-CAR 7NO 3 CAR 0 LI: 0.63-S.Graham 24 yard field goal is GOOD Center-47-J.Drescher Holder-7-L.McCown.'>22.6</number><number>0.69</number>
+<number shadow='shadow1' tooltip='7:24 NO 6 CAR 0 LI: 6-T.Morstead kicks 66 yards from NO 35 to CAR -119-T.Ginn to CAR 20 for 21 yards(54-W.Herring).'>22.69</number><number>0.7</number>
+<number shadow='shadow1' tooltip='7:16 1-10-CAR 20NO 6 CAR 0 LI: 1.11-C.Newton pass short left to 34-De.Williams to CAR 20 for no gain (77-B.Bunkley).'>22.73</number><number>0.71</number>
+<number shadow='shadow1' tooltip='6:34 2-10-CAR 20NO 6 CAR 0 LI: 1(Shotgun) 1-C.Newton pass short right to 87-D.Hixon to CAR 24 for 4 yards(50-C.Lofton).'>23.43</number><number>0.71</number>
+<number shadow='shadow1' tooltip='5:53 3-6-CAR 24NO 6 CAR 0 LI: 0.9(Shotgun) 1-C.Newton pass incomplete deep left to 11-B.LaFell [94-C.Jordan].'>24.12</number><number>0.74</number>
+<number shadow='shadow1' tooltip='5:48 4-6-CAR 24NO 6 CAR 0 LI: 0.68-B.Nortman punts 58 yards to NO 18 Center-44-J.Jansen43-D.Sproles to NO 26 for 8 yards(93-C.Blackburn).'>24.2</number><number>0.72</number>
+<number shadow='shadow1' tooltip='5:33 1-10-NO 26NO 6 CAR 0 LI: 1.123-P.Thomas left end to NO 26 for no gain (59-L.Kuechly).'>24.45</number><number>0.72</number>
+<number shadow='shadow1' tooltip='5:20 2-10-NO 26NO 6 CAR 0 LI: 1.1(Shotgun) 9-D.Brees pass incomplete short left to 12-M.Colston (23-M.White).'>24.67</number><number>0.7</number>
+<number shadow='shadow1' tooltip='5:17 3-10-NO 26NO 6 CAR 0 LI: 0.9(Shotgun) PENALTY on NO-72-T.Armstead False Start 5 yards enforced at NO 26 - No Play.'>24.72</number><number>0.69</number>
+<number shadow='shadow1' tooltip='4:40 4-6-NO 30NO 6 CAR 0 LI: 0.76-T.Morstead punts 61 yards to CAR 9 Center-47-J.Drescher19-T.Ginn to CAR 22 for 13 yards(38-R.Sweeting).'>25.33</number><number>0.7</number>
+<number shadow='shadow1' tooltip='4:30 1-10-CAR 22NO 6 CAR 0 LI: 1.1(Shotgun) 1-C.Newton pass short right to 88-G.Olsen to CAR 33 for 11 yards(41-R.Harper).'>25.5</number><number>0.68</number>
+<number shadow='shadow1' tooltip='3:59 1-10-CAR 33NO 6 CAR 0 LI: 1.1(No Huddle) 1-C.Newton pass incomplete deep right to 88-G.Olsen.'>26.02</number><number>0.69</number>
+<number shadow='shadow1' tooltip='3:53 2-10-CAR 33NO 6 CAR 0 LI: 1(Shotgun) 1-C.Newton scrambles to CAR 35 for 2 yards(28-K.Lewis).'>26.12</number><number>0.7</number>
+<number shadow='shadow1' tooltip='3:11 3-8-CAR 35NO 6 CAR 0 LI: 0.9(Shotgun) 1-C.Newton sacked at CAR 18 for -17 yards(94-C.Jordan).'>26.82</number><number>0.76</number>
+<number shadow='shadow1' tooltip='2:47 4-25-CAR 18NO 6 CAR 0 LI: 0.58-B.Nortman punts 60 yards to NO 22 Center-44-J.Jansen43-D.Sproles to NO 32 for 10 yards(57-J.Senn; 97-M.Addison).'>27.22</number><number>0.75</number>
+<number shadow='shadow1' tooltip='2:35 1-10-NO 32NO 6 CAR 0 LI: 1.39-D.Brees pass incomplete short middle to 43-D.Sproles.'>27.42</number><number>0.73</number>
+<number shadow='shadow1' tooltip='2:29 2-10-NO 32NO 6 CAR 0 LI: 1.1(Shotgun) 9-D.Brees pass short right to 80-J.Graham to NO 36 for 4 yards(59-L.Kuechly).'>27.52</number><number>0.73</number>
+<number shadow='shadow1' tooltip='2:00 3-6-NO 36NO 6 CAR 0 LI: 1(Shotgun) 9-D.Brees pass short middle intended for 84-K.Stills INTERCEPTED by 58-T.Davis at NO 4358-T.Davis to NO 43 for no gain (84-K.Stills).'>28</number><number>0.64</number>
+<number shadow='shadow1' tooltip='1:54 1-10-NO 43NO 6 CAR 0 LI: 1.234-De.Williams up the middle for 43 yards TOUCHDOWN.'>28.1</number><number>0.48</number>
+<number shadow='shadow1' tooltip='1:54 NO 6 CAR 0 LI: 9-G.Gano extra point is GOOD Center-44-J.Jansen Holder-8-B.Nortman.'>28.14</number><number>0.48</number>
+<number shadow='shadow1' tooltip='1:54 NO 6 CAR 7 LI: 9-G.Gano kicks 65 yards from CAR 35 to end zone Touchback.'>28.19</number><number>0.47</number>
+<number shadow='shadow1' tooltip='1:45 1-10-NO 20NO 6 CAR 7 LI: 1.4(Shotgun) 9-D.Brees pass short left to 84-K.Stills to NO 24 for 4 yards(23-M.White).'>28.25</number><number>0.47</number>
+<number shadow='shadow1' tooltip='1:26 2-6-NO 24NO 6 CAR 7 LI: 1.3(No Huddle Shotgun) 9-D.Brees pass short right to 43-D.Sproles to NO 28 for 4 yards(59-L.Kuechly).'>28.57</number><number>0.47</number>
+<number shadow='shadow1' tooltip='0:59 3-2-NO 28NO 6 CAR 7 LI: 1.2(No Huddle Shotgun) 9-D.Brees pass incomplete short right to 16-L.Moore.'>29.02</number><number>0.52</number>
+<number shadow='shadow1' tooltip='0:55 1-10-NO 44NO 6 CAR 7 LI: 1.4(Shotgun) 9-D.Brees sacked at NO 35 for -9 yards(sack split by 76-G.Hardy and 97-M.Addison).'>29.08</number><number>0.47</number>
+<number shadow='shadow1' tooltip='0:47 2-19-NO 35NO 6 CAR 7 LI: 1.1(Shotgun) 9-D.Brees pass short left to 80-J.Graham to NO 42 for 7 yards(59-L.Kuechly; 41-C.Munnerlyn).'>29.22</number><number>0.48</number>
+<number shadow='shadow1' tooltip='0:41 3-12-NO 42NO 6 CAR 7 LI: 1(Shotgun) 9-D.Brees pass incomplete deep left to 84-K.Stills.'>29.32</number><number>0.45</number>
+<number shadow='shadow1' tooltip='0:34 4-12-NO 42NO 6 CAR 7 LI: 0.76-T.Morstead punts 49 yards to CAR 9 Center-47-J.Drescher downed by NO-54-W.Herring.'>29.43</number><number>0.47</number>
+<number shadow='shadow1' tooltip='0:23 1-10-CAR 9NO 6 CAR 7 LI: 1.91-C.Newton kneels to CAR 8 for -1 yards.'>29.62</number><number>0.48</number>
+<number shadow='shadow1' tooltip='0:23 NO 6 CAR 7 LI: 9-G.Gano kicks 65 yards from CAR 35 to end zone Touchback.'>29.71</number><number>0.46</number>
+<number shadow='shadow1' tooltip='15:00 1-10-NO 20NO 6 CAR 7 LI: 1.39-D.Brees pass short left to 17-R.Meachem to NO 29 for 9 yards(21-M.Mitchell)V 79 Bryce Harris reports as eligible'>30</number><number>0.48</number>
+<number shadow='shadow1' tooltip='14:25 2-1-NO 29NO 6 CAR 7 LI: 1.322-M.Ingram right guard to NO 36 for 7 yards(27-Q.Mikell)V 79 Bryce Harris reports as eligible'>30.58</number><number>0.49</number>
+<number shadow='shadow1' tooltip='13:47 1-10-NO 36NO 6 CAR 7 LI: 1.39-D.Brees pass deep left to 84-K.Stills to CAR 45 for 19 yards(22-J.Thomas).'>31.22</number><number>0.53</number>
+<number shadow='shadow1' tooltip='13:06 1-10-CAR 45NO 6 CAR 7 LI: 1.39-D.Brees pass incomplete short left to 80-J.Graham (22-J.Thomas).'>31.9</number><number>0.52</number>
+<number shadow='shadow1' tooltip='13:02 2-10-CAR 45NO 6 CAR 7 LI: 1.29-D.Brees pass short right to 16-L.Moore to CAR 32 for 13 yards(41-C.Munnerlyn).'>31.97</number><number>0.57</number>
+<number shadow='shadow1' tooltip='12:21 1-10-CAR 32NO 6 CAR 7 LI: 1.422-M.Ingram left guard to CAR 26 for 6 yards(21-M.Mitchell; 59-L.Kuechly).'>32.65</number><number>0.51</number>
+<number shadow='shadow1' tooltip='11:58 2-19-CAR 41NO 6 CAR 7 LI: 19-D.Brees pass incomplete short right to 43-D.Sproles (90-F.Alexander).'>33.03</number><number>0.49</number>
+<number shadow='shadow1' tooltip='11:51 3-19-CAR 41NO 6 CAR 7 LI: 0.89-D.Brees pass short left to 22-M.Ingram to CAR 34 for 7 yards(59-L.Kuechly; 92-D.Edwards)V 79 Bryce Harris reports as eligible'>33.15</number><number>0.51</number>
+<number shadow='shadow1' tooltip='10:54 1-10-CAR 34NO 6 CAR 7 LI: 1.5(Shotgun) 1-C.Newton pass short left to 11-B.LaFell to CAR 47 for 13 yards(28-K.Lewis; 42-I.Abdul-Quddus).'>34.1</number><number>0.39</number>
+<number shadow='shadow1' tooltip='10:21 1-10-CAR 47NO 6 CAR 7 LI: 1.4(Shotgun) 34-De.Williams up the middle to 50 for 3 yards(50-C.Lofton).'>34.65</number><number>0.39</number>
+<number shadow='shadow1' tooltip='9:53 2-7-50NO 6 CAR 7 LI: 1.4(Shotgun) 1-C.Newton pass short right to 19-T.Ginn pushed ob at NO 21 for 29 yards(24-C.White).'>35.12</number><number>0.33</number>
+<number shadow='shadow1' tooltip='9:11 1-10-NO 21NO 6 CAR 7 LI: 1.2(No Huddle) 34-De.Williams up the middle to NO 22 for -1 yards(93-J.Galette).'>35.82</number><number>0.31</number>
+<number shadow='shadow1' tooltip='8:41 2-11-NO 22NO 6 CAR 7 LI: 1.5(Shotgun) 1-C.Newton right guard to NO 17 for 5 yards(24-C.White).'>36.32</number><number>0.31</number>
+<number shadow='shadow1' tooltip='7:57 3-6-NO 17NO 6 CAR 7 LI: 1.4(Shotgun) 1-C.Newton sacked at NO 22 for -5 yards(93-J.Galette).'>37.05</number><number>0.36</number>
+<number shadow='shadow1' tooltip='7:25 4-11-NO 22NO 6 CAR 7 LI: 19-G.Gano 40 yard field goal is GOOD Center-44-J.Jansen Holder-8-B.Nortman.'>37.58</number><number>0.34</number>
+<number shadow='shadow1' tooltip='7:25 NO 6 CAR 10 LI: 9-G.Gano kicks 62 yards from CAR 35 to NO 343-D.Sproles to NO 24 for 21 yards(56-A.Klein).'>37.67</number><number>0.33</number>
+<number shadow='shadow1' tooltip='7:15 1-10-NO 24NO 6 CAR 10 LI: 1.123-P.Thomas left end to NO 24 for no gain (58-T.Davis; 59-L.Kuechly).'>37.75</number><number>0.33</number>
+<number shadow='shadow1' tooltip='6:41 2-10-NO 24NO 6 CAR 10 LI: 1.222-M.Ingram right guard to NO 33 for 9 yards(29-D.Florence; 59-L.Kuechly)V 79 Bryce Harris reports as eligible'>38.32</number><number>0.35</number>
+<number shadow='shadow1' tooltip='5:58 3-1-NO 33NO 6 CAR 10 LI: 1.245-J.Collins left tackle to NO 36 for 3 yards(59-L.Kuechly).'>39.03</number><number>0.37</number>
+<number shadow='shadow1' tooltip='5:26 1-10-NO 36NO 6 CAR 10 LI: 1.422-M.Ingram up the middle to NO 36 for no gain (99-K.Short; 27-Q.Mikell)V 79 Bryce Harris reports as eligible'>39.57</number><number>0.36</number>
+<number shadow='shadow1' tooltip='4:39 2-10-NO 36NO 6 CAR 10 LI: 1.39-D.Brees pass incomplete short right to 12-M.ColstonNew Orleans challenged the incomplete pass ruling and the play was Upheld(Timeout #1.)'>40.35</number><number>0.34</number>
+<number shadow='shadow1' tooltip='4:34 3-10-NO 36NO 6 CAR 10 LI: 1.1(Shotgun) 9-D.Brees pass short middle intended for 80-J.Graham INTERCEPTED by 59-L.Kuechly at NO 4859-L.Kuechly to NO 48 for no gain (80-J.Graham).'>40.43</number><number>0.25</number>
+<number shadow='shadow1' tooltip='4:26 1-10-NO 48NO 6 CAR 10 LI: 1.534-De.Williams left guard to NO 46 for 2 yards(57-D.Hawthorne).'>40.57</number><number>0.26</number>
+<number shadow='shadow1' tooltip='3:49 2-8-NO 46NO 6 CAR 10 LI: 1.334-De.Williams left guard to NO 43 for 3 yards(94-C.Jordan; 76-A.Hicks).'>41.18</number><number>0.27</number>
+<number shadow='shadow1' tooltip='3:08 3-5-NO 43NO 6 CAR 10 LI: 1.1(Shotgun) 1-C.Newton right guard to NO 43 for no gain (75-T.Walker).'>41.87</number><number>0.32</number>
+<number shadow='shadow1' tooltip='2:27 4-5-NO 43NO 6 CAR 10 LI: 0.68-B.Nortman punts 41 yards to NO 2 Center-44-J.Jansen downed by CAR-22-J.Thomas.'>42.55</number><number>0.31</number>
+<number shadow='shadow1' tooltip='2:17 1-10-NO 2NO 6 CAR 10 LI: 1.545-J.Collins up the middle to NO 5 for 3 yards(59-L.Kuechly; 27-Q.Mikell).'>42.72</number><number>0.29</number>
+<number shadow='shadow1' tooltip='1:42 2-7-NO 5NO 6 CAR 10 LI: 1.39-D.Brees pass short right to 45-J.Collins to NO 10 for 5 yards(58-T.Davis).'>43.3</number><number>0.29</number>
+<number shadow='shadow1' tooltip='1:02 3-2-NO 10NO 6 CAR 10 LI: 1.49-D.Brees pass short right to 23-P.Thomas to NO 10 for no gain (58-T.Davis).'>43.97</number><number>0.24</number>
+<number shadow='shadow1' tooltip='0:20 4-4-NO 10NO 6 CAR 10 LI: 16-T.Morstead punts 49 yards to CAR 41 Center-47-J.Drescher downed by NO.'>44.67</number><number>0.31</number>
+<number shadow='shadow1' tooltip='0:14 1-10-NO 15NO 6 CAR 10 LI: 1.422-M.Ingram right guard to NO 22 for 7 yards(58-T.Davis; 59-L.Kuechly)NO-22-M.Ingram was injured during the play.'>44.77</number><number>0.33</number>
+<number shadow='shadow1' tooltip='15:00 2-3-NO 22NO 6 CAR 10 LI: 1.417-R.Meachem right end to NO 17 for -5 yards(95-C.Johnson).'>45</number><number>0.29</number>
+<number shadow='shadow1' tooltip='14:16 3-8-NO 17NO 6 CAR 10 LI: 1.29-D.Brees pass short left to 23-P.Thomas to NO 12 for -5 yards(59-L.Kuechly).'>45.73</number><number>0.24</number>
+<number shadow='shadow1' tooltip='13:36 4-13-NO 12NO 6 CAR 10 LI: 1.16-T.Morstead punts 52 yards to CAR 36 Center-47-J.Drescher fair catch by 19-T.Ginn.'>46.4</number><number>0.26</number>
+<number shadow='shadow1' tooltip='13:29 1-10-CAR 36NO 6 CAR 10 LI: 1.7(Shotgun) 34-De.Williams left guard to CAR 40 for 4 yards(92-J.Jenkins; 94-C.Jordan).'>46.52</number><number>0.26</number>
+<number shadow='shadow1' tooltip='12:54 2-6-CAR 40NO 6 CAR 10 LI: 1.6(Shotgun) 1-C.Newton pass incomplete short right to 88-G.Olsen.'>47.1</number><number>0.29</number>
+<number shadow='shadow1' tooltip='12:50 3-6-CAR 40NO 6 CAR 10 LI: 1.3(Shotgun) 1-C.Newton pass incomplete short left to 88-G.Olsen.'>47.17</number><number>0.33</number>
+<number shadow='shadow1' tooltip='12:47 4-6-CAR 40NO 6 CAR 10 LI: 0.98-B.Nortman punts 57 yards to NO 3 Center-44-J.Jansen downed by CAR-42-C.Jones.'>47.22</number><number>0.3</number>
+<number shadow='shadow1' tooltip='12:36 1-10-NO 3NO 6 CAR 10 LI: 1.829-K.Robinson up the middle to NO 6 for 3 yards(59-L.Kuechly; 90-F.Alexander)V 79 Bryce Harris reports as eligible'>47.4</number><number>0.27</number>
+<number shadow='shadow1' tooltip='11:57 2-7-NO 6NO 6 CAR 10 LI: 1.59-D.Brees pass short right to 80-J.Graham to CAR 48 for 46 yards(58-T.Davis).'>48.05</number><number>0.41</number>
+<number shadow='shadow1' tooltip='11:12 1-10-CAR 48NO 6 CAR 10 LI: 229-K.Robinson right guard to CAR 41 for 7 yards(99-K.Short).'>48.8</number><number>0.41</number>
+<number shadow='shadow1' tooltip='10:30 2-3-CAR 41NO 6 CAR 10 LI: 1.929-K.Robinson up the middle to CAR 35 for 6 yards(59-L.Kuechly; 93-C.Blackburn).'>49.5</number><number>0.46</number>
+<number shadow='shadow1' tooltip='9:57 1-10-CAR 35NO 6 CAR 10 LI: 2.329-K.Robinson left guard to CAR 34 for 1 yard(59-L.Kuechly; 92-D.Edwards).'>50.05</number><number>0.42</number>
+<number shadow='shadow1' tooltip='9:22 2-9-CAR 34NO 6 CAR 10 LI: 29-D.Brees pass short left to 80-J.Graham to CAR 23 for 11 yards(23-M.White).'>50.63</number><number>0.49</number>
+<number shadow='shadow1' tooltip='8:43 1-10-CAR 23NO 6 CAR 10 LI: 2.529-K.Robinson right guard to CAR 22 for 1 yard(93-C.Blackburn)CAR-93-C.Blackburn was injured during the play V 79 Bryce Harris reports as eligible'>51.28</number><number>0.49</number>
+<number shadow='shadow1' tooltip='8:13 2-9-CAR 22NO 6 CAR 10 LI: 2.59-D.Brees pass short left to 23-P.Thomas to CAR 9 for 13 yards(59-L.Kuechly).'>51.78</number><number>0.56</number>
+<number shadow='shadow1' tooltip='7:50 1-9-CAR 9NO 6 CAR 10 LI: 323-P.Thomas up the middle to CAR 5 for 4 yards(21-M.Mitchell; 27-Q.Mikell).'>52.17</number><number>0.59</number>
+<number shadow='shadow1' tooltip='7:26 2-5-CAR 5NO 6 CAR 10 LI: 3.422-M.Ingram up the middle to CAR 5 for no gain (99-K.Short; 59-L.Kuechly)V 79 Bryce Harris reports as eligible'>52.57</number><number>0.53</number>
+<number shadow='shadow1' tooltip='6:43 3-5-CAR 5NO 6 CAR 10 LI: 2.8(Shotgun) 9-D.Brees pass short left to 80-J.Graham for 5 yards TOUCHDOWN.'>53.28</number><number>0.67</number>
+<number shadow='shadow1' tooltip='6:43 NO 6 CAR 10 LI: 3-S.Graham extra point is GOOD Center-47-J.Drescher Holder-7-L.McCown.'>53.32</number><number>0.67</number>
+<number shadow='shadow1' tooltip='6:43 NO 13 CAR 10 LI: 6-T.Morstead kicks 63 yards from NO 35 to CAR 219-T.Ginn to CAR 22 for 20 yards(37-E.Frampton).'>53.37</number><number>0.7</number>
+<number shadow='shadow1' tooltip='6:31 1-10-CAR 22NO 13 CAR 10 LI: 1.71-C.Newton pass short left to 35-M.Tolbert to CAR 25 for 3 yards(57-D.Hawthorne).'>53.48</number><number>0.71</number>
+<number shadow='shadow1' tooltip='5:45 2-7-CAR 25NO 13 CAR 10 LI: 2.235-M.Tolbert right guard to CAR 26 for 1 yard(94-C.Jordan; 50-C.Lofton).'>54.25</number><number>0.75</number>
+<number shadow='shadow1' tooltip='5:05 3-6-CAR 26NO 13 CAR 10 LI: 2(Shotgun) 1-C.Newton pass incomplete short left to 87-D.Hixon [41-R.Harper].'>54.92</number><number>0.84</number>
+<number shadow='shadow1' tooltip='5:01 4-6-CAR 26NO 13 CAR 10 LI: 1.18-B.Nortman punts 46 yards to NO 28 Center-44-J.Jansen fair catch by 43-D.Sproles.'>54.98</number><number>0.83</number>
+<number shadow='shadow1' tooltip='4:52 1-10-NO 28NO 13 CAR 10 LI: 2.622-M.Ingram up the middle to NO 30 for 2 yards(92-D.Edwards; 99-K.Short)V 79 Bryce Harris reports as eligible'>55.13</number><number>0.77</number>
+<number shadow='shadow1' tooltip='4:12 2-8-NO 30NO 13 CAR 10 LI: 1.99-D.Brees pass incomplete short right to 12-M.Colston.'>55.8</number><number>0.73</number>
+<number shadow='shadow1' tooltip='4:08 3-8-NO 30NO 13 CAR 10 LI: 1.5(Shotgun) 9-D.Brees sacked at NO 25 for -5 yards(sack split by 21-M.Mitchell and 76-G.Hardy).'>55.87</number><number>0.65</number>
+<number shadow='shadow1' tooltip='4:03 4-13-NO 25NO 13 CAR 10 LI: 0.76-T.Morstead punts 49 yards to CAR 26 Center-47-J.Drescher19-T.Ginn to CAR 33 for 7 yards(42-I.Abdul-Quddus).'>55.95</number><number>0.65</number>
+<number shadow='shadow1' tooltip='3:52 1-10-CAR 33NO 13 CAR 10 LI: 2.8(Shotgun) 1-C.Newton sacked at CAR 26 for -7 yards(76-A.Hicks).'>56.13</number><number>0.78</number>
+<number shadow='shadow1' tooltip='3:17 2-17-CAR 26NO 13 CAR 10 LI: 1.7(Shotgun) 1-C.Newton pass short right to 88-G.Olsen to CAR 34 for 8 yards(92-J.Jenkins).'>56.72</number><number>0.79</number>
+<number shadow='shadow1' tooltip='2:38 3-9-CAR 34NO 13 CAR 10 LI: 1.6(Shotgun) 1-C.Newton pass short right to 88-G.Olsen to CAR 36 for 2 yards(41-R.Harper).'>57.37</number><number>0.91</number>
+<number shadow='shadow1' tooltip='2:04 4-7-CAR 36NO 13 CAR 10 LI: 0.58-B.Nortman punts 38 yards to NO 26 Center-44-J.Jansen out of bounds.'>57.93</number><number>0.91</number>
+<number shadow='shadow1' tooltip='1:57 1-10-NO 26NO 13 CAR 10 LI: 3.622-M.Ingram right tackle to NO 27 for 1 yard(41-C.Munnerlyn; 92-D.Edwards)V 79 Bryce Harris reports as eligible'>58.05</number><number>0.9</number>
+<number shadow='shadow1' tooltip='1:52 2-9-NO 27NO 13 CAR 10 LI: 3.529-K.Robinson right guard to NO 27 for no gain (98-S.Lotulelei).'>58.13</number><number>0.85</number>
+<number shadow='shadow1' tooltip='1:47 3-9-NO 27NO 13 CAR 10 LI: 322-M.Ingram up the middle to NO 28 for 1 yard(98-S.Lotulelei).'>58.22</number><number>0.83</number>
+<number shadow='shadow1' tooltip='1:02 4-8-NO 28NO 13 CAR 10 LI: 2.56-T.Morstead punts 37 yards to CAR 35 Center-47-J.Drescher fair catch by 19-T.Ginn.'>58.97</number><number>0.83</number>
+<number shadow='shadow1' tooltip='0:55 1-10-CAR 35NO 13 CAR 10 LI: 1.6(Shotgun) 1-C.Newton pass deep middle to 19-T.Ginn pushed ob at NO 28 for 37 yards(41-R.Harper).'>59.08</number><number>0.6</number>
+<number shadow='shadow1' tooltip='0:46 1-10-NO 28NO 13 CAR 10 LI: 3.8(Shotgun) 1-C.Newton pass incomplete short middle to 19-T.Ginn (75-T.Walker).'>59.23</number><number>0.46</number>
+<number shadow='shadow1' tooltip='0:42 2-10-NO 28NO 13 CAR 10 LI: 5.3(Shotgun) 1-C.Newton pass short left to 88-G.Olsen to NO 14 for 14 yards(27-M.Jenkins).'>59.3</number><number>0.21</number>
+<number shadow='shadow1' tooltip='0:28 1-10-NO 14NO 13 CAR 10 LI: 7.81-C.Newton spiked the ball to stop the clock.'>59.53</number><number>0.29</number>
+<number shadow='shadow1' tooltip='0:28 NO 13 CAR 10 LI: 9-G.Gano extra point is GOOD Center-44-J.Jansen Holder-8-B.Nortman.'>59.57</number><number>0.05</number>
+<number shadow='shadow1' tooltip='0:28 NO 13 CAR 17 LI: 9-G.Gano kicks 65 yards from CAR 35 to end zone Touchback.'>59.62</number><number>0.02</number>
+<number shadow='shadow1' tooltip='0:14 2-10-NO 20NO 13 CAR 17 LI: 0.3(Shotgun) 9-D.Brees pass deep left to 16-L.Moore to NO 41 for 21 yards(58-T.Davis).'>59.77</number><number>0.07</number>
+<number shadow='shadow1' tooltip='0:10 1-10-NO 41NO 13 CAR 17 LI: 0.6(Shotgun) 9-D.Brees pass short left to 16-L.Moore ran ob at CAR 46 for 13 yards.'>59.83</number><number>0.11</number>
+<number shadow='shadow1' tooltip='0:05 1-10-CAR 46NO 13 CAR 17 LI: 1(Shotgun) 9-D.Brees pass incomplete deep right to 80-J.Graham (21-M.Mitchell).'>59.92</number><number>0</number>
+<number>60</number><number>0</number>
+</row> </chart_data>
+       <draw>
+
+
+
+      <image x='45' y='298'  url='nfllogos/42x50png/NO.gif'  layer='foreground' glow = 'glow1'/>
+      <image x='45' y='350'  url='nfllogos/42x50png/CAR.gif'     layer='foreground' glow = 'glow1'/>
+
+
+      <rect x='130' y='300' width='250' height='40' fill_color='dcb07e' bevel='bevel1' />
+      <text x='135' y='300' width='250' height='40' h_align='left' v_align='middle' color='ffffff' shadow='shadow2' glow=''>New Orleans Saints</text>
+
+      <rect x='130' y='350' width='250' height='40' fill_color='008acf' bevel='bevel1'  />
+      <text x='135' y='350' width='250' height='40' h_align='left' v_align='middle' color='ffffff' shadow='shadow2' glow='winnerglow'>Carolina Panthers</text>
+
+      <rect x='420' y='300' width='60' height='40' fill_color='dcb07e' bevel='bevel1'  />
+      <text x='420' y='300' width='60' height='40' h_align='center' v_align='middle' color='ffffff' shadow='shadow2' transition='none' glow=''>13</text>
+
+      <rect x='420' y='350' width='60' height='40' fill_color='008acf' bevel='bevel1' />
+      <text x='420' y='350' width='60' height='40' h_align='center' v_align='middle' color='ffffff' shadow='shadow2' transition='none' glow='winnerglow'>17</text>
+
+      <text x='-3' y='12'  width='60' height='40' h_align='center' v_align='middle' size='13' shadow='shadow2'>NOWin </text>
+      <text x='-3' y='218' width='60' height='40' h_align='center' v_align='middle' size='13' shadow='shadow2'>CARWin </text>
+
+     
+              <rect x='540' y='300' width='100' height='35' fill_color='000000' fill_alpha='50'/>
+              <text x='540' y='300' width='100' height='35' h_align='center' v_align='middle' color='ffffff' size='15' shadow='shadow2' >Final</text>
+
+              <text x='540' y='340' width='40' h_align='center' color='000000' size='12' shadow='shadow2'>CBF</text>
+              <text x='600' y='340' width='40' h_align='center' color='000000' size='12' shadow='shadow2'>EI</text>
+
+              <rect x='540' y='360' width='40' height='30' fill_color='000000' fill_alpha='50' />
+              <text x='540' y='360' width='40' height='30' size='12' h_align='center' v_align='middle' color='FFFFFF' shadow='shadow2'>11</text>
+
+              <rect x='600' y='360' width='40' height='30' fill_color='000000' fill_alpha='50' />
+              <text x='600' y='360' width='40' height='30' size='12' h_align='center' v_align='middle' color='FFFFFF' shadow='shadow2'>5.8</text>
+
+              <text x='20' y='420' width='70' height='25' size='12' h_align='left' v_align='middle' color='000000' >12/22/2013</text>
+              <text x='100' y='420' width='200' height='25' size='12' h_align='left' v_align='middle' color='000000' >Bank of America Stadium</text>
+
+   </draw></chart>

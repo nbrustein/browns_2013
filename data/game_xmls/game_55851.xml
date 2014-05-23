@@ -1,0 +1,331 @@
+
+<chart>
+   <license>ETAS9P33ESHO.945CWK-2XOI1X0-7L</license>
+   <chart_type>scatter</chart_type>
+   <chart_pref trend_thickness='0' line_thickness='3' point_size='0'/>
+
+   <series_color>
+      <color>ffff00</color>
+   </series_color>
+
+   <chart_rect x='45' y='20' width='630' height='230' positive_color='cacaca'  />
+
+  <chart_border top_thickness='0'
+                 bottom_thickness='0'
+                 left_thickness='0'
+                 right_thickness='0'
+                 color='000000'
+                 />
+
+   <tooltip font='Arial' bold='true' size='11' />
+
+   <chart_note type='flag'
+               color='000000'
+               alpha='90'
+               bold='FALSE'
+               size='10'
+               background_color='ffffe0'
+               background_alpha='50'
+               shadow='shadow2'
+               />
+
+   <chart_grid_h thickness='2' color='ffffff' type='dashed'  />
+   <chart_grid_v thickness='2' color='ffffff'   />
+		>
+
+   <legend layout='hide' />
+
+   <chart_guide horizontal='TRUE'
+             vertical='TRUE'
+             thickness='1'
+             color='006400'
+             alpha='100'
+             type='solid'
+             snap_h='TRUE'
+             snap_v='TRUE'
+             radius='3'
+             fill_color='006400'
+             fill_alpha='100'
+             line_color='006400'
+             line_alpha='80'
+             line_thickness='1'
+             text_h_alpha='50'
+             text_v_alpha='00'
+             suffix_h=' WP'
+             decimals='2'
+             bold='FALSE'
+             size='11'
+             text_color='FFFFFF'
+             background_color='006400'
+             />
+   <filter>
+      <shadow id='shadow1' distance='2' angle='60' blurX='5' blurY='5' alpha='50' />
+      <bevel id='bevel1' angle='45' blurX='5' blurY='5' distance='0' />
+      <glow id='glow1' color='ffffff' alpha='0' blurX='7' blurY='7' strength='6' quality='2' inner='FALSE' knockout='FALSE' />
+      <glow id='winnerglow' color='ffffff' alpha='0' blurX='7' blurY='7' strength='5' quality='2' inner='FALSE' knockout='FALSE' />
+   </filter>
+
+    <axis_value_label>
+         <string></string>
+          <string> </string>
+          <null/>
+          <string> </string>
+          <string></string>
+
+       </axis_value_label>
+		
+	   <axis_ticks category_ticks='false'/>
+
+       <axis_value min='0' max='1' steps='4'  decimals='2' show_min='true' size='13' shadow='shadow2' />     
+            <axis_category
+               min='0'
+               max='60'
+               steps='4'
+               mode='all'
+               decimals='0'
+               size='13'
+               shadow='shadow2'
+               />
+
+       <axis_category_label>
+          <string>Kickoff</string>
+          <string></string>
+          <string>Halftime</string>
+          <string></string>
+          <string>End</string>
+
+       </axis_category_label>
+
+
+        <chart_data>
+       <row>
+	      <null/><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number>
+              <number>x</number><number>y</number>
+              </row><row><string></string>
+
+                     <number shadow='shadow1'>0</number><number>.5</number><number shadow='shadow1' tooltip='15:00 PHI 0 WAS 0 LI: 2-K.Forbath kicks 65 yards from WAS 35 to end zone Touchback.'>0.09</number><number>0.52</number>
+<number shadow='shadow1' tooltip='14:35 2-4-PHI 26PHI 0 WAS 0 LI: 1.5(No Huddle Shotgun) 7-M.Vick pass short middle to 87-B.Celek to WAS 46 for 28 yards(26-J.Wilson).'>0.42</number><number>0.58</number>
+<number shadow='shadow1' tooltip='14:14 1-10-WAS 46PHI 0 WAS 0 LI: 1.4(No Huddle Shotgun) 7-M.Vick pass short left to 10-D.Jackson pushed ob at WAS 30 for 16 yards(24-B.Rambo).'>0.77</number><number>0.62</number>
+<number shadow='shadow1' tooltip='14:07 1-10-WAS 30PHI 0 WAS 0 LI: 1.6(No Huddle Shotgun) 25-L.McCoy right guard to WAS 24 for 6 yards(26-J.Wilson).'>0.88</number><number>0.63</number>
+<number shadow='shadow1' tooltip='13:38 2-4-WAS 24PHI 0 WAS 0 LI: 1.5(No Huddle Shotgun) 7-M.Vick pass incomplete deep right to 87-B.Celek.'>1.37</number><number>0.61</number>
+<number shadow='shadow1' tooltip='13:33 3-4-WAS 24PHI 0 WAS 0 LI: 1.3(No Huddle Shotgun) 25-L.McCoy right end to WAS 21 for 3 yards(98-B.Orakpo 26-J.Wilson).'>1.45</number><number>0.56</number>
+<number shadow='shadow1' tooltip='13:09 4-1-WAS 21PHI 0 WAS 0 LI: 0.8(No Huddle Shotgun) 25-L.McCoy up the middle to WAS 17 for 4 yards(96-B.Cofield 56-P.Riley).'>1.85</number><number>0.65</number>
+<number shadow='shadow1' tooltip='12:38 1-10-WAS 17PHI 0 WAS 0 LI: 1.6(No Huddle Shotgun) 7-M.Vick pass incomplete short right to 14-R.Cooper (26-J.Wilson).'>2.37</number><number>0.63</number>
+<number shadow='shadow1' tooltip='12:29 2-10-WAS 17PHI 0 WAS 0 LI: 1.4(No Huddle Shotgun) 25-L.McCoy left guard to WAS 4 for 13 yards(39-D.Amerson).'>2.52</number><number>0.69</number>
+<number shadow='shadow1' tooltip='12:14 1-4-WAS 4PHI 0 WAS 0 LI: 1.9(No Huddle Shotgun) 7-M.Vick to WAS 10 for -6 yards(91-R.Kerrigan)FUMBLES (91-R.Kerrigan) touched at WAS 10 RECOVERED by WAS-23-D.Hall at WAS 2523-D.Hall for 75 yards TOUCHDOWNLateral batted by 91 - Kerrigan The Replay Assistant challenged the backward pass ruling and the play was Upheld.'>2.77</number><number>0.29</number>
+<number shadow='shadow1' tooltip='12:14 PHI 0 WAS 0 LI: 2-K.Forbath extra point is GOOD Center-57-N.Sundberg Holder-6-S.Rocca.'>2.81</number><number>0.29</number>
+<number shadow='shadow1' tooltip='12:14 PHI 0 WAS 7 LI: 2-K.Forbath kicks 65 yards from WAS 35 to end zone Touchback.'>2.86</number><number>0.28</number>
+<number shadow='shadow1' tooltip='11:54 1-10-PHI 20PHI 0 WAS 7 LI: 1.5(Shotgun) 7-M.Vick pass short right to 10-D.Jackson to PHI 46 for 26 yards(24-B.Rambo).'>3.1</number><number>0.32</number>
+<number shadow='shadow1' tooltip='11:27 1-10-PHI 46PHI 0 WAS 7 LI: 1.3(No Huddle Shotgun) 25-L.McCoy left guard to WAS 44 for 10 yards(39-D.Amerson).'>3.55</number><number>0.33</number>
+<number shadow='shadow1' tooltip='11:01 1-10-WAS 44PHI 0 WAS 7 LI: 1.1(No Huddle Shotgun) 25-L.McCoy up the middle to WAS 43 for 1 yard(91-R.Kerrigan).'>3.98</number><number>0.33</number>
+<number shadow='shadow1' tooltip='10:34 2-9-WAS 43PHI 0 WAS 7 LI: 1(No Huddle Shotgun) 34-B.Brown up the middle to WAS 36 for 7 yards(26-J.Wilson; 59-L.Fletcher).'>4.43</number><number>0.34</number>
+<number shadow='shadow1' tooltip='10:12 3-2-WAS 36PHI 0 WAS 7 LI: 0.9(No Huddle Shotgun) 34-B.Brown left guard to WAS 29 for 7 yards(24-B.Rambo).'>4.8</number><number>0.36</number>
+<number shadow='shadow1' tooltip='9:42 1-10-WAS 29PHI 0 WAS 7 LI: 0.9(No Huddle Shotgun) 7-M.Vick pass incomplete deep left to 81-J.Avant.'>5.3</number><number>0.38</number>
+<number shadow='shadow1' tooltip='9:36 2-10-WAS 29PHI 0 WAS 7 LI: 1.1(No Huddle Shotgun) 7-M.Vick pass incomplete deep middle to 86-Z.Ertz.'>5.4</number><number>0.36</number>
+<number shadow='shadow1' tooltip='9:31 3-10-WAS 29PHI 0 WAS 7 LI: 0.9(No Huddle Shotgun) 7-M.Vick pass incomplete short left to 86-Z.Ertz (30-E.Biggers)Philadelphia challenged the pass completion ruling and the play was Upheld(Timeout #1.)'>5.48</number><number>0.32</number>
+<number shadow='shadow1' tooltip='9:20 4-10-WAS 29PHI 0 WAS 7 LI: 0.56-A.Henery 48 yard field goal is GOOD Center-46-J.Dorenbos Holder-8-D.Jones.'>5.67</number><number>0.35</number>
+<number shadow='shadow1' tooltip='9:20 PHI 3 WAS 7 LI: 6-A.Henery kicks 65 yards from PHI 35 to end zone Touchback.'>5.76</number><number>0.36</number>
+<number shadow='shadow1' tooltip='9:07 1-10-WAS 25PHI 3 WAS 7 LI: 1.67-M.Vick pass deep middle to 10-D.Jackson for 25 yards TOUCHDOWN.'>5.88</number><number>0.58</number>
+<number shadow='shadow1' tooltip='9:07 PHI 3 WAS 7 LI: 6-A.Henery extra point is GOOD Center-46-J.Dorenbos Holder-8-D.Jones.'>5.92</number><number>0.58</number>
+<number shadow='shadow1' tooltip='9:07 PHI 10 WAS 7 LI: 6-A.Henery kicks 65 yards from PHI 35 to end zone Touchback.'>5.97</number><number>0.6</number>
+<number shadow='shadow1' tooltip='8:59 1-10-WAS 20PHI 10 WAS 7 LI: 1.3(Shotgun) 46-A.Morris right end pushed ob at WAS 17 for -3 yards(95-M.Kendricks).'>6.02</number><number>0.61</number>
+<number shadow='shadow1' tooltip='8:29 2-13-WAS 17PHI 10 WAS 7 LI: 1.2(Shotgun) 10-R.Griffin pass short left to 83-F.Davis pushed ob at WAS 25 for 8 yards(23-P.Chung)PENALTY on WAS Illegal Shift 5 yards enforced at WAS 17 - No PlayTwo men moving in the backfield'>6.52</number><number>0.63</number>
+<number shadow='shadow1' tooltip='8:06 2-18-WAS 12PHI 10 WAS 7 LI: 1.4(Shotgun) 10-R.Griffin pass short middle to 46-A.Morris to WAS 21 for 9 yards(95-M.Kendricks).'>6.9</number><number>0.61</number>
+<number shadow='shadow1' tooltip='7:25 3-9-WAS 21PHI 10 WAS 7 LI: 1.1(Shotgun) 10-R.Griffin pass deep middle intended for 89-S.Moss INTERCEPTED by 22-B.Boykin at WAS 4622-B.Boykin pushed ob at WAS 41 for 5 yards(82-L.Paulsen)The Replay Assistant challenged the runner was down by contact ruling and the play was REVERSED(Shotgun) 10-R.Griffin pass deep middle intended for 89-S.Moss INTERCEPTED by 22-B.Boykin at WAS 4822-B.Boykin to WAS 48 for no gain (89-S.Moss).'>7.58</number><number>0.67</number>
+<number shadow='shadow1' tooltip='7:20 1-10-WAS 48PHI 10 WAS 7 LI: 1.3(Shotgun) 25-L.McCoy right end pushed ob at WAS 32 for 16 yards(26-J.Wilson).'>7.67</number><number>0.7</number>
+<number shadow='shadow1' tooltip='7:04 1-10-WAS 32PHI 10 WAS 7 LI: 1.3(No Huddle Shotgun) 7-M.Vick pass short left to 10-D.Jackson to WAS 27 for 5 yards(26-J.Wilson; 30-E.Biggers)PENALTY on PHI-81-J.Avant Offensive Pass Interference 10 yards enforced at WAS 32 - No Play.'>7.93</number><number>0.68</number>
+<number shadow='shadow1' tooltip='6:43 1-20-WAS 42PHI 10 WAS 7 LI: 1.3(Shotgun) 7-M.Vick right tackle to WAS 40 for 2 yards(56-P.Riley; 96-B.Cofield).'>8.28</number><number>0.65</number>
+<number shadow='shadow1' tooltip='6:08 2-18-WAS 40PHI 10 WAS 7 LI: 1(No Huddle Shotgun) 7-M.Vick sacked at WAS 46 for -6 yards(56-P.Riley).'>8.87</number><number>0.62</number>
+<number shadow='shadow1' tooltip='5:43 3-24-WAS 46PHI 10 WAS 7 LI: 0.8(No Huddle Shotgun) 25-L.McCoy right guard to WAS 39 for 7 yards(59-L.Fletcher 54-D.Tapp).'>9.28</number><number>0.62</number>
+<number shadow='shadow1' tooltip='5:09 4-17-WAS 39PHI 10 WAS 7 LI: 0.68-D.Jones punts 34 yards to WAS 5 Center-46-J.Dorenbos fair catch by 25-C.Thompson.'>9.85</number><number>0.62</number>
+<number shadow='shadow1' tooltip='5:01 1-10-WAS 5PHI 10 WAS 7 LI: 1.510-R.Griffin pass incomplete short right to 36-D.Young.'>9.98</number><number>0.64</number>
+<number shadow='shadow1' tooltip='4:56 2-10-WAS 5PHI 10 WAS 7 LI: 1.310-R.Griffin FUMBLES (Aborted) at WAS 5 recovered by WAS-46-A.Morris at WAS -546-A.Morris tackled in End Zone SAFETY (58-T.Cole).'>10.07</number><number>0.68</number>
+<number shadow='shadow1' tooltip='4:56 PHI 12 WAS 7 LI: 6-S.Rocca kicks 56 yards from WAS 20 to PHI 2410-D.Jackson to PHI 34 for 10 yards(53-B.Kehl 51-B.Jenkins).'>10.16</number><number>0.69</number>
+<number shadow='shadow1' tooltip='4:45 1-10-PHI 34PHI 12 WAS 7 LI: 1.3(Shotgun) 25-L.McCoy up the middle to PHI 35 for 1 yard(98-B.Orakpo).'>10.25</number><number>0.68</number>
+<number shadow='shadow1' tooltip='4:15 2-9-PHI 35PHI 12 WAS 7 LI: 1.2(Shotgun) 7-M.Vick pass incomplete short left to 14-R.Cooper [56-P.Riley].'>10.75</number><number>0.67</number>
+<number shadow='shadow1' tooltip='4:07 3-9-PHI 35PHI 12 WAS 7 LI: 1.1(Shotgun) 7-M.Vick scrambles right end to PHI 46 for 11 yards(23-D.Hall; 56-P.Riley).'>10.88</number><number>0.72</number>
+<number shadow='shadow1' tooltip='3:38 1-10-PHI 46PHI 12 WAS 7 LI: 1.3(No Huddle Shotgun) 7-M.Vick pass short middle to 86-Z.Ertz to WAS 43 for 11 yards(59-L.Fletcher).'>11.37</number><number>0.74</number>
+<number shadow='shadow1' tooltip='3:17 1-10-WAS 43PHI 12 WAS 7 LI: 1.2(No Huddle Shotgun) 25-L.McCoy up the middle to WAS 43 for no gain (30-E.Biggers 64-K.Golston)WAS-64-K.Golston was injured during the playHis return is Probable Musle cramps'>11.72</number><number>0.73</number>
+<number shadow='shadow1' tooltip='2:40 2-15-WAS 48PHI 12 WAS 7 LI: 0.9(No Huddle Shotgun) 7-M.Vick pass short left to 14-R.Cooper to WAS 40 for 8 yards(24-B.Rambo; 39-D.Amerson).'>12.33</number><number>0.71</number>
+<number shadow='shadow1' tooltip='2:11 3-7-WAS 40PHI 12 WAS 7 LI: 0.9(No Huddle Shotgun) 7-M.Vick pass incomplete deep left to 14-R.Cooper (39-D.Amerson) [98-B.Orakpo].'>12.82</number><number>0.67</number>
+<number shadow='shadow1' tooltip='2:07 4-7-WAS 40PHI 12 WAS 7 LI: 0.58-D.Jones punts 40 yards to end zone Center-46-J.Dorenbos Touchback.'>12.88</number><number>0.65</number>
+<number shadow='shadow1' tooltip='2:00 1-10-WAS 20PHI 12 WAS 7 LI: 1.5(Shotgun) 46-A.Morris left end to WAS 20 for no gain (50-C.Matthews).'>13</number><number>0.67</number>
+<number shadow='shadow1' tooltip='1:20 2-10-WAS 20PHI 12 WAS 7 LI: 1.3(Shotgun) 46-A.Morris left end to WAS 35 for 15 yards(91-F.Cox 72-C.Thornton).'>13.67</number><number>0.63</number>
+<number shadow='shadow1' tooltip='0:37 1-10-WAS 35PHI 12 WAS 7 LI: 1.3(Shotgun) 46-A.Morris right guard to WAS 41 for 6 yards(59-D.Ryans).'>14.38</number><number>0.62</number>
+<number shadow='shadow1' tooltip='15:00 2-4-WAS 41PHI 12 WAS 7 LI: 1.3(Shotgun) 46-A.Morris left tackle to WAS 41 for no gain (95-M.Kendricks; 72-C.Thornton)PENALTY on WAS-82-L.Paulsen Offensive Holding 10 yards enforced at WAS 41 - No Play.'>15</number><number>0.65</number>
+<number shadow='shadow1' tooltip='14:39 2-14-WAS 31PHI 12 WAS 7 LI: 1.1(Shotgun) 10-R.Griffin pass short right to 88-P.Garcon to WAS 36 for 5 yards(98-C.Barwin; 59-D.Ryans).'>15.35</number><number>0.65</number>
+<number shadow='shadow1' tooltip='13:58 3-9-WAS 36PHI 12 WAS 7 LI: 1(Shotgun) 10-R.Griffin pass incomplete short right to 29-R.Helu.'>16.03</number><number>0.68</number>
+<number shadow='shadow1' tooltip='13:54 4-9-WAS 36PHI 12 WAS 7 LI: 0.76-S.Rocca punts 47 yards to PHI 17 Center-57-N.Sundberg fair catch by 13-D.Johnson.'>16.1</number><number>0.66</number>
+<number shadow='shadow1' tooltip='13:46 1-10-PHI 17PHI 12 WAS 7 LI: 1.2(Shotgun) 25-L.McCoy left tackle to PHI 19 for 2 yards(56-P.Riley 59-L.Fletcher).'>16.23</number><number>0.66</number>
+<number shadow='shadow1' tooltip='13:20 2-8-PHI 19PHI 12 WAS 7 LI: 1.2(No Huddle Shotgun) 25-L.McCoy right guard to PHI 24 for 5 yards(72-S.Bowen; 23-D.Hall).'>16.67</number><number>0.66</number>
+<number shadow='shadow1' tooltip='12:50 3-3-PHI 24PHI 12 WAS 7 LI: 1.1(No Huddle Shotgun) 7-M.Vick pass short left to 10-D.Jackson to PHI 29 for 5 yards(30-E.Biggers) [26-J.Wilson].'>17.17</number><number>0.68</number>
+<number shadow='shadow1' tooltip='12:23 1-10-PHI 29PHI 12 WAS 7 LI: 1.2(No Huddle Shotgun) 25-L.McCoy up the middle to PHI 33 for 4 yards(24-B.Rambo).'>17.62</number><number>0.69</number>
+<number shadow='shadow1' tooltip='12:01 2-6-PHI 33PHI 12 WAS 7 LI: 1.1(No Huddle Shotgun) 7-M.Vick pass short left to 10-D.Jackson to PHI 39 for 6 yards(30-E.Biggers).'>17.98</number><number>0.7</number>
+<number shadow='shadow1' tooltip='11:31 1-10-PHI 39PHI 12 WAS 7 LI: 1.1(No Huddle Shotgun) 7-M.Vick pass short left to 10-D.Jackson pushed ob at WAS 49 for 12 yards(56-P.Riley).'>18.48</number><number>0.73</number>
+<number shadow='shadow1' tooltip='11:14 1-10-WAS 49PHI 12 WAS 7 LI: 1.2(No Huddle Shotgun) 34-B.Brown left end to 50 for -1 yards(91-R.Kerrigan)WAS-92-C.Baker was injured during the play.'>18.77</number><number>0.71</number>
+<number shadow='shadow1' tooltip='10:46 2-11-50PHI 12 WAS 7 LI: 1(Shotgun) 34-B.Brown left guard to WAS 45 for 5 yards(59-L.Fletcher; 30-E.Biggers).'>19.23</number><number>0.71</number>
+<number shadow='shadow1' tooltip='10:16 3-6-WAS 45PHI 12 WAS 7 LI: 0.9(No Huddle Shotgun) 7-M.Vick sacked at PHI 42 for -13 yards(91-R.Kerrigan).'>19.73</number><number>0.66</number>
+<number shadow='shadow1' tooltip='9:59 4-19-PHI 42PHI 12 WAS 7 LI: 0.68-D.Jones punts 52 yards to WAS 6 Center-46-J.Dorenbos25-C.Thompson to WAS 11 for 5 yards(85-J.Casey)PENALTY on WAS-45-J.Murphy Illegal Block Above the Waist 5 yards enforced at WAS 11.'>20.02</number><number>0.68</number>
+<number shadow='shadow1' tooltip='9:48 1-10-WAS 6PHI 12 WAS 7 LI: 1.5(Shotgun) 10-R.Griffin pass short right to 15-J.Morgan pushed ob at WAS 17 for 11 yards(98-C.Barwin).'>20.2</number><number>0.67</number>
+<number shadow='shadow1' tooltip='9:20 1-10-WAS 17PHI 12 WAS 7 LI: 1.1(Shotgun) 10-R.Griffin pass incomplete deep left to 88-P.Garcon [58-T.Cole].'>20.67</number><number>0.68</number>
+<number shadow='shadow1' tooltip='9:12 2-10-WAS 17PHI 12 WAS 7 LI: 146-A.Morris left tackle to WAS 17 for no gain (90-C.Geathers; 98-C.Barwin).'>20.8</number><number>0.69</number>
+<number shadow='shadow1' tooltip='8:35 3-10-WAS 17PHI 12 WAS 7 LI: 0.9(Shotgun) 10-R.Griffin pass incomplete deep left to 88-P.Garcon.'>21.42</number><number>0.71</number>
+<number shadow='shadow1' tooltip='8:28 4-10-WAS 17PHI 12 WAS 7 LI: 0.76-S.Rocca punts 45 yards to PHI 38 Center-57-N.Sundberg out of bounds.'>21.53</number><number>0.71</number>
+<number shadow='shadow1' tooltip='8:17 1-10-PHI 38PHI 12 WAS 7 LI: 1.1(Shotgun) 25-L.McCoy left end to PHI 45 for 7 yards(56-P.Riley).'>21.72</number><number>0.71</number>
+<number shadow='shadow1' tooltip='7:46 2-3-PHI 45PHI 12 WAS 7 LI: 1(No Huddle Shotgun) 7-M.Vick left end pushed ob at 50 for 5 yards(24-B.Rambo)PENALTY on PHI-69-E.Mathis Offensive Holding 10 yards enforced at PHI 45 - No Play.'>22.23</number><number>0.69</number>
+<number shadow='shadow1' tooltip='7:29 2-13-PHI 35PHI 12 WAS 7 LI: 1(No Huddle Shotgun) 7-M.Vick pass short right to 25-L.McCoy to PHI 40 for 5 yards(23-D.Hall; 56-P.Riley).'>22.52</number><number>0.69</number>
+<number shadow='shadow1' tooltip='6:49 3-8-PHI 40PHI 12 WAS 7 LI: 0.9(No Huddle Shotgun) 7-M.Vick pass short middle to 10-D.Jackson to WAS 46 for 14 yards(23-D.Hall)PENALTY on WAS-23-D.Hall Horse Collar Tackle 15 yards enforced at WAS 46.'>23.18</number><number>0.76</number>
+<number shadow='shadow1' tooltip='6:32 1-10-WAS 31PHI 12 WAS 7 LI: 1.1(Shotgun) 25-L.McCoy left end pushed ob at WAS 28 for 3 yards(24-B.Rambo).'>23.47</number><number>0.76</number>
+<number shadow='shadow1' tooltip='6:18 2-7-WAS 28PHI 12 WAS 7 LI: 1(No Huddle Shotgun) 7-M.Vick pass deep middle to 87-B.Celek for 28 yards TOUCHDOWN.'>23.7</number><number>0.85</number>
+<number shadow='shadow1' tooltip='6:18 PHI 12 WAS 7 LI: 6-A.Henery extra point is GOOD Center-46-J.Dorenbos Holder-8-D.Jones.'>23.74</number><number>0.85</number>
+<number shadow='shadow1' tooltip='6:18 PHI 19 WAS 7 LI: 6-A.Henery kicks 70 yards from PHI 35 to WAS -525-C.Thompson to WAS 9 for 14 yards(32-C.Polk).'>23.79</number><number>0.87</number>
+<number shadow='shadow1' tooltip='6:04 1-10-WAS 9PHI 19 WAS 7 LI: 0.546-A.Morris left tackle to WAS 14 for 5 yards(23-P.Chung; 59-D.Ryans).'>23.93</number><number>0.87</number>
+<number shadow='shadow1' tooltip='5:22 2-5-WAS 14PHI 19 WAS 7 LI: 0.510-R.Griffin sacked at WAS 8 for -6 yards(26-C.Williams 58-T.Cole).'>24.63</number><number>0.9</number>
+<number shadow='shadow1' tooltip='4:47 3-11-WAS 8PHI 19 WAS 7 LI: 0.3(Shotgun) 10-R.Griffin scrambles left end to WAS 10 for 2 yards(58-T.Cole).'>25.22</number><number>0.91</number>
+<number shadow='shadow1' tooltip='4:11 1-10-WAS 44PHI 19 WAS 7 LI: 1(Shotgun) 25-L.McCoy left end to WAS 36 for 8 yards(91-R.Kerrigan).'>25.82</number><number>0.92</number>
+<number shadow='shadow1' tooltip='3:49 2-2-WAS 36PHI 19 WAS 7 LI: 0.8(No Huddle Shotgun) 7-M.Vick pass incomplete short right to 10-D.Jackson [96-B.Cofield].'>26.18</number><number>0.91</number>
+<number shadow='shadow1' tooltip='3:43 3-2-WAS 36PHI 19 WAS 7 LI: 0.7(No Huddle Shotgun) 25-L.McCoy left end to WAS 24 for 12 yards(91-R.Kerrigan).'>26.28</number><number>0.94</number>
+<number shadow='shadow1' tooltip='3:18 1-10-WAS 24PHI 19 WAS 7 LI: 0.9(No Huddle Shotgun) 25-L.McCoy right guard to WAS 14 for 10 yards(59-L.Fletcher).'>26.7</number><number>0.93</number>
+<number shadow='shadow1' tooltip='2:50 1-10-WAS 14PHI 19 WAS 7 LI: 0.6(No Huddle Shotgun) 34-B.Brown right tackle to WAS 8 for 6 yards(26-J.Wilson 59-L.Fletcher).'>27.17</number><number>0.93</number>
+<number shadow='shadow1' tooltip='2:24 2-4-WAS 8PHI 19 WAS 7 LI: 0.6(No Huddle Shotgun) 34-B.Brown up the middle to WAS 6 for 2 yards(59-L.Fletcher; 56-P.Riley).'>27.6</number><number>0.93</number>
+<number shadow='shadow1' tooltip='2:00 3-2-WAS 6PHI 19 WAS 7 LI: 0.6(Shotgun) 25-L.McCoy right end to WAS 3 for 3 yards(59-L.Fletcher; 24-B.Rambo).'>28</number><number>0.93</number>
+<number shadow='shadow1' tooltip='1:27 1-3-WAS 3PHI 19 WAS 7 LI: 0.6(No Huddle Shotgun) 25-L.McCoy left guard to WAS 3 for no gain (98-B.Orakpo 56-P.Riley).'>28.55</number><number>0.93</number>
+<number shadow='shadow1' tooltip='1:02 2-3-WAS 3PHI 19 WAS 7 LI: 0.6(No Huddle Shotgun) 7-M.Vick left guard for 3 yards TOUCHDOWN.'>28.97</number><number>0.93</number>
+<number shadow='shadow1' tooltip='1:02 PHI 19 WAS 7 LI: 6-A.Henery extra point is GOOD Center-46-J.Dorenbos Holder-8-D.Jones.'>29.01</number><number>0.93</number>
+<number shadow='shadow1' tooltip='1:02 PHI 26 WAS 7 LI: 6-A.Henery kicks 71 yards from PHI 35 to WAS -625-C.Thompson to WAS 13 for 19 yards(22-B.Boykin; 53-N.Goode).'>29.06</number><number>0.95</number>
+<number shadow='shadow1' tooltip='0:52 1-10-WAS 13PHI 26 WAS 7 LI: 0.1(Shotgun) 10-R.Griffin pass short right to 89-S.Moss pushed ob at WAS 29 for 16 yards(24-B.Fletcher).'>29.13</number><number>0.93</number>
+<number shadow='shadow1' tooltip='0:45 1-10-WAS 29PHI 26 WAS 7 LI: 0.4(Shotgun) PENALTY on WAS-63-W.Montgomery False Start 5 yards enforced at WAS 29 - No Play.'>29.25</number><number>0.94</number>
+<number shadow='shadow1' tooltip='0:42 1-15-WAS 24PHI 26 WAS 7 LI: 0.3(Shotgun) 10-R.Griffin pass short middle to 89-S.Moss to WAS 36 for 12 yards(22-B.Boykin).'>29.3</number><number>0.93</number>
+<number shadow='shadow1' tooltip='0:32 2-3-WAS 36PHI 26 WAS 7 LI: 0.4(Shotgun) 10-R.Griffin pass incomplete short right [95-M.Kendricks]PENALTY on WAS-10-R.Griffin Intentional Grounding 10 yards enforced at WAS 3610 second runoff in lieu of time outGame clock not set properly following timeout'>29.47</number><number>0.94</number>
+<number shadow='shadow1' tooltip='0:11 3-13-WAS 26PHI 26 WAS 7 LI: 0.3(Shotgun) PENALTY on WAS-85-L.Hankerson False Start 5 yards enforced at WAS 26 - No PlayWashington elects to take a 10 second runoff in lieu of time out.'>29.82</number><number>0.94</number>
+<number shadow='shadow1' tooltip='0:11 PHI 26 WAS 7 LI: 6-A.Henery kicks 65 yards from PHI 35 to end zone Touchback.'>29.91</number><number>0.94</number>
+<number shadow='shadow1' tooltip='15:00 1-10-WAS 20PHI 26 WAS 7 LI: 0.4(Shotgun) 10-R.Griffin pass short right to 88-P.Garcon to WAS 29 for 9 yards(24-B.Fletcher).'>30</number><number>0.94</number>
+<number shadow='shadow1' tooltip='14:30 2-1-WAS 29PHI 26 WAS 7 LI: 0.3(Shotgun) 46-A.Morris right tackle to WAS 30 for 1 yard(95-M.Kendricks; 72-C.Thornton)PENALTY on WAS-66-C.Chester Offensive Holding 10 yards enforced at WAS 29 - No Play.'>30.5</number><number>0.95</number>
+<number shadow='shadow1' tooltip='14:12 2-11-WAS 19PHI 26 WAS 7 LI: 0.3(Shotgun) 10-R.Griffin pass incomplete short middle to 15-J.Morgan [98-C.Barwin].'>30.8</number><number>0.95</number>
+<number shadow='shadow1' tooltip='14:07 3-11-WAS 19PHI 26 WAS 7 LI: 0.3(Shotgun) 10-R.Griffin pass short left intended for 88-P.Garcon INTERCEPTED by 26-C.Williams at WAS 3126-C.Williams to WAS 30 for 1 yard(88-P.Garcon).'>30.88</number><number>0.97</number>
+<number shadow='shadow1' tooltip='14:00 1-10-WAS 30PHI 26 WAS 7 LI: 0.3(Shotgun) 7-M.Vick sacked at WAS 34 for -4 yards(24-B.Rambo).'>31</number><number>0.96</number>
+<number shadow='shadow1' tooltip='13:35 2-14-WAS 34PHI 26 WAS 7 LI: 0.2(No Huddle Shotgun) 25-L.McCoy right guard for 34 yards TOUCHDOWN.'>31.42</number><number>0.96</number>
+<number shadow='shadow1' tooltip='13:35 PHI 26 WAS 7 LI: 6-A.Henery extra point is GOOD Center-46-J.Dorenbos Holder-8-D.Jones.'>31.46</number><number>0.96</number>
+<number shadow='shadow1' tooltip='13:35 PHI 33 WAS 7 LI: 6-A.Henery kicks 67 yards from PHI 35 to WAS -225-C.Thompson to WAS 21 for 23 yards(54-J.Knott).'>31.51</number><number>0.96</number>
+<number shadow='shadow1' tooltip='13:19 1-10-WAS 21PHI 33 WAS 7 LI: 0.2(Shotgun) 46-A.Morris right guard to WAS 27 for 6 yards(72-C.Thornton 95-M.Kendricks).'>31.68</number><number>0.96</number>
+<number shadow='shadow1' tooltip='12:42 2-4-WAS 27PHI 33 WAS 7 LI: 0.1(Shotgun) 10-R.Griffin left end pushed ob at WAS 35 for 8 yards(95-M.Kendricks).'>32.3</number><number>0.96</number>
+<number shadow='shadow1' tooltip='12:16 1-10-WAS 35PHI 33 WAS 7 LI: 0.1(Shotgun) 10-R.Griffin pass incomplete deep right to 83-F.Davis.'>32.73</number><number>0.95</number>
+<number shadow='shadow1' tooltip='12:08 2-10-WAS 35PHI 33 WAS 7 LI: 0.2(Shotgun) 10-R.Griffin pass short right to 86-J.Reed to WAS 46 for 11 yards(24-B.Fletcher; 29-N.Allen).'>32.87</number><number>0.95</number>
+<number shadow='shadow1' tooltip='11:29 1-10-WAS 46PHI 33 WAS 7 LI: 0.146-A.Morris left end pushed ob at WAS 47 for 1 yard(95-M.Kendricks; 59-D.Ryans).'>33.52</number><number>0.95</number>
+<number shadow='shadow1' tooltip='11:11 2-9-WAS 47PHI 33 WAS 7 LI: 0.1(Shotgun) 10-R.Griffin pass short right to 88-P.Garcon to PHI 45 for 8 yards(24-B.Fletcher).'>33.82</number><number>0.95</number>
+<number shadow='shadow1' tooltip='10:32 3-1-PHI 45PHI 33 WAS 7 LI: 0.129-R.Helu right end to PHI 40 for 5 yards(22-B.Boykin; 24-B.Fletcher).'>34.47</number><number>0.95</number>
+<number shadow='shadow1' tooltip='9:56 1-10-PHI 40PHI 33 WAS 7 LI: 0.110-R.Griffin pass short middle to 86-J.Reed to PHI 34 for 6 yards(95-M.Kendricks) [58-T.Cole].'>35.07</number><number>0.96</number>
+<number shadow='shadow1' tooltip='9:19 2-4-PHI 34PHI 33 WAS 7 LI: 0.146-A.Morris left end pushed ob at PHI 25 for 9 yards(95-M.Kendricks 23-P.Chung).'>35.68</number><number>0.96</number>
+<number shadow='shadow1' tooltip='8:46 1-10-PHI 25PHI 33 WAS 7 LI: 0.1(Shotgun) 10-R.Griffin pass incomplete short right to 86-J.Reed (98-C.Barwin).'>36.23</number><number>0.95</number>
+<number shadow='shadow1' tooltip='8:37 2-10-PHI 25PHI 33 WAS 7 LI: 0.1(Shotgun) 10-R.Griffin pass short right to 89-S.Moss to PHI 13 for 12 yards(29-N.Allen).'>36.38</number><number>0.95</number>
+<number shadow='shadow1' tooltip='7:52 1-10-PHI 13PHI 33 WAS 7 LI: 0.1(Shotgun) 46-A.Morris left end to PHI 15 for -2 yards(72-C.Thornton 29-N.Allen).'>37.13</number><number>0.96</number>
+<number shadow='shadow1' tooltip='7:14 2-12-PHI 15PHI 33 WAS 7 LI: 0.1(Shotgun) 10-R.Griffin sacked at PHI 22 for -7 yards(59-D.Ryans).'>37.77</number><number>0.97</number>
+<number shadow='shadow1' tooltip='6:36 3-19-PHI 22PHI 33 WAS 7 LI: 0.1(Shotgun) 10-R.Griffin pass incomplete short right to 89-S.Moss.'>38.4</number><number>0.97</number>
+<number shadow='shadow1' tooltip='6:30 4-19-PHI 22PHI 33 WAS 7 LI: 0.12-K.Forbath 40 yard field goal is No Good Wide Right Center-57-N.Sundberg Holder-6-S.Rocca.'>38.5</number><number>0.96</number>
+<number shadow='shadow1' tooltip='6:25 1-10-PHI 30PHI 33 WAS 7 LI: 0.1(Shotgun) 25-L.McCoy right end pushed ob at PHI 36 for 6 yards(56-P.Riley).'>38.58</number><number>0.97</number>
+<number shadow='shadow1' tooltip='5:57 2-4-PHI 36PHI 33 WAS 7 LI: 0.1(No Huddle Shotgun) 25-L.McCoy up the middle to PHI 44 for 8 yards(23-D.Hall).'>39.05</number><number>0.97</number>
+<number shadow='shadow1' tooltip='5:26 1-10-PHI 44PHI 33 WAS 7 LI: 0.1(No Huddle Shotgun) 34-B.Brown right end pushed ob at PHI 39 for -5 yards(30-E.Biggers).'>39.57</number><number>0.98</number>
+<number shadow='shadow1' tooltip='4:58 2-15-PHI 39PHI 33 WAS 7 LI: 0.1(No Huddle Shotgun) PENALTY on PHI-65-L.Johnson False Start 5 yards enforced at PHI 39 - No Play.'>40.03</number><number>0.98</number>
+<number shadow='shadow1' tooltip='4:41 2-20-PHI 34PHI 33 WAS 7 LI: 0.1(No Huddle Shotgun) 34-B.Brown up the middle to PHI 34 for no gain (56-P.Riley).'>40.32</number><number>0.98</number>
+<number shadow='shadow1' tooltip='4:10 3-20-PHI 34PHI 33 WAS 7 LI: 0.1(No Huddle Shotgun) 7-M.Vick pass incomplete deep left to 14-R.CooperPENALTY on PHI-87-B.Celek Unsportsmanlike Conduct 15 yards enforced at PHI 34Penalty on PHI-87-B.Celek Offensive Holding declined.'>40.83</number><number>0.98</number>
+<number shadow='shadow1' tooltip='4:01 4-35-PHI 19PHI 33 WAS 7 LI: 0.18-D.Jones punts 57 yards to WAS 24 Center-46-J.Dorenbos25-C.Thompson to WAS 34 for 10 yards(55-B.Graham)PENALTY on PHI Illegal Formation 5 yards enforced at PHI 19 - No Play.'>40.98</number><number>0.98</number>
+<number shadow='shadow1' tooltip='3:48 4-40-PHI 14PHI 33 WAS 7 LI: 0.28-D.Jones punts 61 yards to WAS 25 Center-46-J.Dorenbos89-S.Moss to WAS 34 for 9 yards(33-J.Poyer).'>41.2</number><number>0.98</number>
+<number shadow='shadow1' tooltip='3:36 1-10-WAS 34PHI 33 WAS 7 LI: 0.1(Shotgun) 10-R.Griffin pass short left to 85-L.Hankerson pushed ob at WAS 45 for 11 yards(22-B.Boykin).'>41.4</number><number>0.98</number>
+<number shadow='shadow1' tooltip='3:11 1-10-WAS 45PHI 33 WAS 7 LI: 0.1(Shotgun) 10-R.Griffin pass short left to 83-F.Davis to PHI 43 for 12 yards(59-D.Ryans).'>41.82</number><number>0.98</number>
+<number shadow='shadow1' tooltip='2:38 1-10-PHI 43PHI 33 WAS 7 LI: 0.129-R.Helu left tackle to PHI 23 for 20 yards(95-M.Kendricks).'>42.37</number><number>0.98</number>
+<number shadow='shadow1' tooltip='2:10 1-10-PHI 43PHI 33 WAS 7 LI: 0.1(Shotgun) 10-R.Griffin pass short middle to 83-F.Davis to PHI 33 for 10 yards(29-N.Allen; 33-J.Poyer).'>42.83</number><number>0.97</number>
+<number shadow='shadow1' tooltip='1:31 1-10-PHI 33PHI 33 WAS 7 LI: 0.1(Shotgun) 10-R.Griffin pass incomplete short left to 89-S.Moss.'>43.48</number><number>0.97</number>
+<number shadow='shadow1' tooltip='1:26 2-10-PHI 33PHI 33 WAS 7 LI: 0.1(Shotgun) 10-R.Griffin pass short middle to 86-J.Reed to PHI 22 for 11 yards(29-N.Allen).'>43.57</number><number>0.97</number>
+<number shadow='shadow1' tooltip='0:54 1-10-PHI 22PHI 33 WAS 7 LI: 0.1(Shotgun) 10-R.Griffin pass incomplete deep left to 88-P.Garcon [95-M.Kendricks].'>44.1</number><number>0.98</number>
+<number shadow='shadow1' tooltip='0:48 2-10-PHI 22PHI 33 WAS 7 LI: 0.1(Shotgun) 10-R.Griffin pass short right to 88-P.Garcon pushed ob at PHI 5 for 17 yards(24-B.Fletcher).'>44.2</number><number>0.97</number>
+<number shadow='shadow1' tooltip='0:11 1-5-PHI 5PHI 33 WAS 7 LI: 0.146-A.Morris up the middle for 5 yards TOUCHDOWN.'>44.82</number><number>0.98</number>
+<number shadow='shadow1' tooltip='0:11 PHI 33 WAS 7 LI: 2-K.Forbath extra point is GOOD Center-57-N.Sundberg Holder-6-S.Rocca.'>44.86</number><number>0.98</number>
+<number shadow='shadow1' tooltip='0:11 PHI 33 WAS 14 LI: 6-S.Rocca kicks 73 yards from WAS 35 to PHI -813-D.Johnson to PHI 19 for 27 yards(45-J.Murphy).'>44.91</number><number>0.99</number>
+<number shadow='shadow1' tooltip='0:02 1-10-PHI 19PHI 33 WAS 14 LI: 0.3(Shotgun) 25-L.McCoy right guard to PHI 27 for 8 yards(24-B.Rambo; 59-L.Fletcher).'>44.97</number><number>0.98</number>
+<number shadow='shadow1' tooltip='15:00 2-2-PHI 27PHI 33 WAS 14 LI: 0.2(Shotgun) 25-L.McCoy left end to PHI 30 for 3 yards(30-E.Biggers; 92-C.Baker).'>45</number><number>0.98</number>
+<number shadow='shadow1' tooltip='14:23 1-10-PHI 30PHI 33 WAS 14 LI: 0.1(No Huddle Shotgun) 25-L.McCoy up the middle to PHI 27 for -3 yards(96-B.Cofield).'>45.62</number><number>0.98</number>
+<number shadow='shadow1' tooltip='13:55 2-13-PHI 27PHI 33 WAS 14 LI: 0.1(No Huddle Shotgun) 7-M.Vick pass short right to 81-J.Avant to PHI 33 for 6 yards(26-J.Wilson)FUMBLES (26-J.Wilson) RECOVERED by WAS-56-P.Riley at PHI 3556-P.Riley pushed ob at PHI 14 for 21 yards(65-L.Johnson)The Replay Assistant challenged the runner was down by contact ruling and the play was REVERSED(No Huddle Shotgun) 7-M.Vick pass short right to 81-J.Avant to PHI 33 for 6 yards(26-J.Wilson)FUMBLES (26-J.Wilson) RECOVERED by WAS-56-P.Riley at PHI 3556-P.Riley to PHI 29 for 6 yards(81-J.Avant).'>46.08</number><number>0.97</number>
+<number shadow='shadow1' tooltip='13:46 1-10-PHI 29PHI 33 WAS 14 LI: 0.1(Shotgun) 10-R.Griffin pass short right to 88-P.Garcon to PHI 22 for 7 yards(95-M.Kendricks; 59-D.Ryans).'>46.23</number><number>0.97</number>
+<number shadow='shadow1' tooltip='13:09 2-3-PHI 22PHI 33 WAS 14 LI: 0.2(Shotgun) 10-R.Griffin pass short middle to 88-P.Garcon to PHI 10 for 12 yards(22-B.Boykin).'>46.85</number><number>0.96</number>
+<number shadow='shadow1' tooltip='12:33 1-10-PHI 10PHI 33 WAS 14 LI: 0.3(Shotgun) 10-R.Griffin pass incomplete short left to 83-F.Davis [91-F.Cox].'>47.45</number><number>0.96</number>
+<number shadow='shadow1' tooltip='12:29 2-10-PHI 10PHI 33 WAS 14 LI: 0.3(Shotgun) 10-R.Griffin pass short right to 85-L.Hankerson for 10 yards TOUCHDOWN.'>47.52</number><number>0.96</number>
+<number shadow='shadow1' tooltip='12:29 PHI 33 WAS 20 LI: 2-K.Forbath kicks 65 yards from WAS 35 to end zone Touchback.'>47.61</number><number>0.96</number>
+<number shadow='shadow1' tooltip='11:38 2-3-PHI 27PHI 33 WAS 20 LI: 0.8(Shotgun) 7-M.Vick left end pushed ob at WAS 37 for 36 yards(23-D.Hall).'>48.37</number><number>0.98</number>
+<number shadow='shadow1' tooltip='10:48 1-10-WAS 37PHI 33 WAS 20 LI: 0.6(Shotgun) 25-L.McCoy up the middle to WAS 35 for 2 yards(59-L.Fletcher 24-B.Rambo).'>49.2</number><number>0.97</number>
+<number shadow='shadow1' tooltip='10:05 2-8-WAS 35PHI 33 WAS 20 LI: 0.4(Shotgun) 25-L.McCoy right tackle to WAS 32 for 3 yards(59-L.Fletcher 56-P.Riley).'>49.92</number><number>0.97</number>
+<number shadow='shadow1' tooltip='9:27 3-5-WAS 32PHI 33 WAS 20 LI: 0.3(Shotgun) 7-M.Vick pass incomplete short middle to 10-D.Jackson [91-R.Kerrigan]PENALTY on PHI-62-J.Kelce Offensive Holding 10 yards enforced at WAS 32 - No Play.'>50.55</number><number>0.97</number>
+<number shadow='shadow1' tooltip='9:22 3-15-WAS 42PHI 33 WAS 20 LI: 0.5(Shotgun) 7-M.Vick pass incomplete deep right to 10-D.Jackson.'>50.63</number><number>0.96</number>
+<number shadow='shadow1' tooltip='9:16 4-15-WAS 42PHI 33 WAS 20 LI: 0.48-D.Jones punts 36 yards to WAS 6 Center-46-J.Dorenbos out of bounds.'>50.73</number><number>0.96</number>
+<number shadow='shadow1' tooltip='9:08 1-10-WAS 6PHI 33 WAS 20 LI: 0.3(Shotgun) 10-R.Griffin pass short right to 15-J.Morgan to WAS 24 for 18 yards(22-B.Boykin).'>50.87</number><number>0.95</number>
+<number shadow='shadow1' tooltip='8:51 1-10-WAS 24PHI 33 WAS 20 LI: 0.4(Shotgun) 10-R.Griffin pass short middle to 86-J.Reed to WAS 30 for 6 yards(23-P.Chung; 95-M.Kendricks).'>51.15</number><number>0.94</number>
+<number shadow='shadow1' tooltip='8:27 2-4-WAS 30PHI 33 WAS 20 LI: 0.5(No Huddle Shotgun) 10-R.Griffin pass short middle to 89-S.Moss to WAS 39 for 9 yards(23-P.Chung).'>51.55</number><number>0.93</number>
+<number shadow='shadow1' tooltip='8:00 1-10-WAS 39PHI 33 WAS 20 LI: 0.6(No Huddle Shotgun) 10-R.Griffin pass short middle to 29-R.Helu to 50 for 11 yards(59-D.Ryans 23-P.Chung).'>52</number><number>0.9</number>
+<number shadow='shadow1' tooltip='7:37 1-10-50PHI 33 WAS 20 LI: 0.8(No Huddle Shotgun) 10-R.Griffin pass short left to 85-L.Hankerson pushed ob at PHI 42 for 8 yards(23-P.Chung).'>52.38</number><number>0.92</number>
+<number shadow='shadow1' tooltip='7:27 2-2-PHI 42PHI 33 WAS 20 LI: 0.6(No Huddle Shotgun) 10-R.Griffin pass incomplete short middle to 11-A.Robinson.'>52.55</number><number>0.93</number>
+<number shadow='shadow1' tooltip='7:22 3-2-PHI 42PHI 33 WAS 20 LI: 0.5(Shotgun) 10-R.Griffin pass short right to 89-S.Moss ran ob at PHI 37 for 5 yards.'>52.63</number><number>0.9</number>
+<number shadow='shadow1' tooltip='7:11 1-10-PHI 37PHI 33 WAS 20 LI: 0.8(No Huddle Shotgun) 10-R.Griffin pass incomplete short middle to 89-S.Moss (22-B.Boykin).'>52.82</number><number>0.93</number>
+<number shadow='shadow1' tooltip='7:07 2-10-PHI 37PHI 33 WAS 20 LI: 0.5(Shotgun) 10-R.Griffin pass incomplete short middle to 85-L.Hankerson (72-C.Thornton).'>52.88</number><number>0.95</number>
+<number shadow='shadow1' tooltip='7:01 3-10-PHI 37PHI 33 WAS 20 LI: 0.3(Shotgun) 10-R.Griffin pass incomplete deep right to 85-L.Hankerson.'>52.98</number><number>0.98</number>
+<number shadow='shadow1' tooltip='6:53 4-10-PHI 37PHI 33 WAS 20 LI: 0.1(Shotgun) PENALTY on WAS-71-T.Williams False Start 5 yards enforced at PHI 37 - No Play.'>53.12</number><number>0.98</number>
+<number shadow='shadow1' tooltip='6:48 1-10-PHI 42PHI 33 WAS 20 LI: 0.7(Shotgun) 25-L.McCoy right tackle to PHI 46 for 4 yards(37-R.Doughty; 91-R.Kerrigan).'>53.2</number><number>0.97</number>
+<number shadow='shadow1' tooltip='6:04 2-6-PHI 46PHI 33 WAS 20 LI: 0.6(Shotgun) 34-B.Brown left tackle to 50 for 4 yards(64-K.Golston).'>53.93</number><number>0.97</number>
+<number shadow='shadow1' tooltip='5:18 3-2-50PHI 33 WAS 20 LI: 0.6(Shotgun) PENALTY on PHI-7-M.Vick Delay of Game 5 yards enforced at 50 - No Play.'>54.7</number><number>0.98</number>
+<number shadow='shadow1' tooltip='4:56 3-7-PHI 45PHI 33 WAS 20 LI: 0.8(Shotgun) 7-M.Vick pass short right to 81-J.Avant pushed ob at WAS 48 for 7 yards(30-E.Biggers).'>55.07</number><number>0.98</number>
+<number shadow='shadow1' tooltip='4:44 1-10-WAS 48PHI 33 WAS 20 LI: 0.7(Shotgun) 25-L.McCoy right tackle to WAS 46 for 2 yards(91-R.Kerrigan).'>55.27</number><number>0.97</number>
+<number shadow='shadow1' tooltip='4:38 2-8-WAS 46PHI 33 WAS 20 LI: 0.6(Shotgun) 25-L.McCoy up the middle to WAS 44 for 2 yards(56-P.Riley).'>55.37</number><number>0.98</number>
+<number shadow='shadow1' tooltip='4:33 3-6-WAS 44PHI 33 WAS 20 LI: 0.7(Shotgun) 7-M.Vick scrambles up the middle to WAS 42 for 2 yards(72-S.Bowen).'>55.45</number><number>0.99</number>
+<number shadow='shadow1' tooltip='3:49 4-4-WAS 42PHI 33 WAS 20 LI: 0.68-D.Jones punts 31 yards to WAS 11 Center-46-J.Dorenbos fair catch by 89-S.Moss.'>56.18</number><number>0.99</number>
+<number shadow='shadow1' tooltip='3:42 1-10-WAS 11PHI 33 WAS 20 LI: 0.1(Shotgun) 10-R.Griffin pass short right to 15-J.Morgan to WAS 24 for 13 yards(22-B.Boykin 24-B.Fletcher)PHI-24-B.Fletcher was injured during the play.'>56.3</number><number>0.97</number>
+<number shadow='shadow1' tooltip='3:23 1-10-WAS 24PHI 33 WAS 20 LI: 0.1(Shotgun) 10-R.Griffin sacked at WAS 16 for -8 yards(91-F.Cox).'>56.62</number><number>0.97</number>
+<number shadow='shadow1' tooltip='3:00 2-18-WAS 16PHI 33 WAS 20 LI: 0.2(No Huddle Shotgun) 10-R.Griffin pass to 15-J.Morgan pushed ob at WAS 25 for 9 yards(23-P.Chung).'>57</number><number>0.97</number>
+<number shadow='shadow1' tooltip='2:40 3-9-WAS 25PHI 33 WAS 20 LI: 0.1(No Huddle Shotgun) 10-R.Griffin pass to 88-P.Garcon to WAS 31 for 6 yards(33-J.Poyer).'>57.33</number><number>0.99</number>
+<number shadow='shadow1' tooltip='2:19 4-3-WAS 31PHI 33 WAS 20 LI: 0.1(No Huddle Shotgun) 10-R.Griffin pass short left to 86-J.Reed to WAS 35 for 4 yards(95-M.Kendricks).'>57.68</number><number>0.96</number>
+<number shadow='shadow1' tooltip='2:00 1-10-WAS 35PHI 33 WAS 20 LI: 0.1(Shotgun) 10-R.Griffin scrambles left end pushed ob at WAS 47 for 12 yards(26-C.Williams).'>58</number><number>0.95</number>
+<number shadow='shadow1' tooltip='1:52 1-10-WAS 47PHI 33 WAS 20 LI: 0.4(No Huddle Shotgun) 10-R.Griffin pass deep middle to 85-L.Hankerson to PHI 26 for 27 yards(29-N.Allen).'>58.13</number><number>0.99</number>
+<number shadow='shadow1' tooltip='1:28 1-10-PHI 26PHI 33 WAS 20 LI: 0.1(No Huddle Shotgun) 10-R.Griffin scrambles left end pushed ob at PHI 24 for 2 yards(91-F.Cox).'>58.53</number><number>0.99</number>
+<number shadow='shadow1' tooltip='1:20 2-8-PHI 24PHI 33 WAS 20 LI: 0.1(No Huddle Shotgun) 10-R.Griffin pass deep middle to 85-L.Hankerson for 24 yards TOUCHDOWN.'>58.67</number><number>0.99</number>
+<number shadow='shadow1' tooltip='1:20 PHI 33 WAS 20 LI: 2-K.Forbath extra point is GOOD Center-57-N.Sundberg Holder-6-S.Rocca.'>58.71</number><number>0.99</number>
+<number shadow='shadow1' tooltip='1:20 PHI 33 WAS 27 LI: 2-K.Forbath kicks onside 18 yards from WAS 35 to PHI 4754-J.Knott (didn t try to advance) to PHI 47 for no gain.'>58.76</number><number>0.97</number>
+<number shadow='shadow1' tooltip='1:14 1-10-WAS 48PHI 33 WAS 27 LI: 2.67-M.Vick kneels to WAS 49 for -1 yards.'>58.77</number><number>0.98</number>
+<number>60</number><number>1</number>
+</row> </chart_data>
+       <draw>
+
+
+
+      <image x='45' y='298'  url='nfllogos/42x50png/PHI.gif'  layer='foreground' glow = 'glow1'/>
+      <image x='45' y='350'  url='nfllogos/42x50png/WAS.gif'     layer='foreground' glow = 'glow1'/>
+
+
+      <rect x='130' y='300' width='250' height='40' fill_color='00444c' bevel='bevel1' />
+      <text x='135' y='300' width='250' height='40' h_align='left' v_align='middle' color='ffffff' shadow='shadow2' glow='winnerglow'>Philadelphia Eagles</text>
+
+      <rect x='130' y='350' width='250' height='40' fill_color='920001' bevel='bevel1'  />
+      <text x='135' y='350' width='250' height='40' h_align='left' v_align='middle' color='ffffff' shadow='shadow2' glow=''>Washington Redskins</text>
+
+      <rect x='420' y='300' width='60' height='40' fill_color='00444c' bevel='bevel1'  />
+      <text x='420' y='300' width='60' height='40' h_align='center' v_align='middle' color='ffffff' shadow='shadow2' transition='none' glow='winnerglow'>33</text>
+
+      <rect x='420' y='350' width='60' height='40' fill_color='920001' bevel='bevel1' />
+      <text x='420' y='350' width='60' height='40' h_align='center' v_align='middle' color='ffffff' shadow='shadow2' transition='none' glow=''>27</text>
+
+      <text x='-3' y='12'  width='60' height='40' h_align='center' v_align='middle' size='13' shadow='shadow2'>PHIWin </text>
+      <text x='-3' y='218' width='60' height='40' h_align='center' v_align='middle' size='13' shadow='shadow2'>WASWin </text>
+
+     
+              <rect x='540' y='300' width='100' height='35' fill_color='000000' fill_alpha='50'/>
+              <text x='540' y='300' width='100' height='35' h_align='center' v_align='middle' color='ffffff' size='15' shadow='shadow2' >Final</text>
+
+              <text x='540' y='340' width='40' h_align='center' color='000000' size='12' shadow='shadow2'>CBF</text>
+              <text x='600' y='340' width='40' h_align='center' color='000000' size='12' shadow='shadow2'>EI</text>
+
+              <rect x='540' y='360' width='40' height='30' fill_color='000000' fill_alpha='50' />
+              <text x='540' y='360' width='40' height='30' size='12' h_align='center' v_align='middle' color='FFFFFF' shadow='shadow2'>4</text>
+
+              <rect x='600' y='360' width='40' height='30' fill_color='000000' fill_alpha='50' />
+              <text x='600' y='360' width='40' height='30' size='12' h_align='center' v_align='middle' color='FFFFFF' shadow='shadow2'>3.0</text>
+
+              <text x='20' y='420' width='70' height='25' size='12' h_align='left' v_align='middle' color='000000' >9/9/2013</text>
+              <text x='100' y='420' width='200' height='25' size='12' h_align='left' v_align='middle' color='000000' >FedExField</text>
+
+   </draw></chart>

@@ -1,0 +1,309 @@
+
+<chart>
+   <license>ETAS9P33ESHO.945CWK-2XOI1X0-7L</license>
+   <chart_type>scatter</chart_type>
+   <chart_pref trend_thickness='0' line_thickness='3' point_size='0'/>
+
+   <series_color>
+      <color>ffff00</color>
+   </series_color>
+
+   <chart_rect x='45' y='20' width='630' height='230' positive_color='cacaca'  />
+
+  <chart_border top_thickness='0'
+                 bottom_thickness='0'
+                 left_thickness='0'
+                 right_thickness='0'
+                 color='000000'
+                 />
+
+   <tooltip font='Arial' bold='true' size='11' />
+
+   <chart_note type='flag'
+               color='000000'
+               alpha='90'
+               bold='FALSE'
+               size='10'
+               background_color='ffffe0'
+               background_alpha='50'
+               shadow='shadow2'
+               />
+
+   <chart_grid_h thickness='2' color='ffffff' type='dashed'  />
+   <chart_grid_v thickness='2' color='ffffff'   />
+		>
+
+   <legend layout='hide' />
+
+   <chart_guide horizontal='TRUE'
+             vertical='TRUE'
+             thickness='1'
+             color='006400'
+             alpha='100'
+             type='solid'
+             snap_h='TRUE'
+             snap_v='TRUE'
+             radius='3'
+             fill_color='006400'
+             fill_alpha='100'
+             line_color='006400'
+             line_alpha='80'
+             line_thickness='1'
+             text_h_alpha='50'
+             text_v_alpha='00'
+             suffix_h=' WP'
+             decimals='2'
+             bold='FALSE'
+             size='11'
+             text_color='FFFFFF'
+             background_color='006400'
+             />
+   <filter>
+      <shadow id='shadow1' distance='2' angle='60' blurX='5' blurY='5' alpha='50' />
+      <bevel id='bevel1' angle='45' blurX='5' blurY='5' distance='0' />
+      <glow id='glow1' color='ffffff' alpha='0' blurX='7' blurY='7' strength='6' quality='2' inner='FALSE' knockout='FALSE' />
+      <glow id='winnerglow' color='ffffff' alpha='0' blurX='7' blurY='7' strength='5' quality='2' inner='FALSE' knockout='FALSE' />
+   </filter>
+
+    <axis_value_label>
+         <string></string>
+          <string> </string>
+          <null/>
+          <string> </string>
+          <string></string>
+
+       </axis_value_label>
+		
+	   <axis_ticks category_ticks='false'/>
+
+       <axis_value min='0' max='1' steps='4'  decimals='2' show_min='true' size='13' shadow='shadow2' />     
+            <axis_category
+               min='0'
+               max='60'
+               steps='4'
+               mode='all'
+               decimals='0'
+               size='13'
+               shadow='shadow2'
+               />
+
+       <axis_category_label>
+          <string>Kickoff</string>
+          <string></string>
+          <string>Halftime</string>
+          <string></string>
+          <string>End</string>
+
+       </axis_category_label>
+
+
+        <chart_data>
+       <row>
+	      <null/><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number>
+              <number>x</number><number>y</number>
+              </row><row><string></string>
+
+                     <number shadow='shadow1'>0</number><number>.5</number><number shadow='shadow1' tooltip='15:00 KC 0 BUF 0 LI: 2-D.Carpenter kicks 52 yards from BUF 35 to KC 1335-Q.Demps to KC 26 for 13 yards(10-R.Woods; 15-C.Hogan).'>0.09</number><number>0.53</number>
+<number shadow='shadow1' tooltip='14:51 2-10-KC 26KC 0 BUF 0 LI: 1.4(Shotgun) 25-J.Charles up the middle to KC 30 for 4 yards(95-K.Williams 99-M.Dareus).'>0.15</number><number>0.5</number>
+<number shadow='shadow1' tooltip='14:10 3-6-KC 30KC 0 BUF 0 LI: 1.211-A.Smith pass short right to 25-J.Charles to KC 30 for no gain (23-A.Williams) [95-K.Williams]Screen pass caught at KC 24.'>0.83</number><number>0.46</number>
+<number shadow='shadow1' tooltip='13:47 4-6-KC 30KC 0 BUF 0 LI: 0.82-D.Colquitt punts 59 yards to BUF 11 Center-43-T.Gafford21-L.McKelvin for 89 yards TOUCHDOWN NULLIFIED by PenaltyReturn credited to BUF 17 (spot of foul)PENALTY on BUF-53-N.Bradham Illegal Block Above the Waist 8 yards enforced at BUF 17.'>1.22</number><number>0.5</number>
+<number shadow='shadow1' tooltip='13:23 1-10-BUF 9KC 0 BUF 0 LI: 1.722-F.Jackson up the middle to BUF 12 for 3 yards(91-T.Hali).'>1.62</number><number>0.51</number>
+<number shadow='shadow1' tooltip='13:01 2-7-BUF 12KC 0 BUF 0 LI: 1.6(No Huddle) 7-J.Tuel pass short right to 10-R.Woods to BUF 22 for 10 yards(24-B.Flowers)Out-pattern caught at BUF 21.'>1.98</number><number>0.48</number>
+<number shadow='shadow1' tooltip='12:26 1-10-BUF 22KC 0 BUF 0 LI: 1.622-F.Jackson right tackle to BUF 30 for 8 yards(56-D.Johnson; 23-K.Lewis).'>2.57</number><number>0.47</number>
+<number shadow='shadow1' tooltip='11:57 2-2-BUF 30KC 0 BUF 0 LI: 1.5(No Huddle) 22-F.Jackson up the middle to BUF 31 for 1 yard(92-D.Poe; 70-M.Devito).'>3.05</number><number>0.48</number>
+<number shadow='shadow1' tooltip='11:27 3-1-BUF 31KC 0 BUF 0 LI: 1.3(Shotgun) 20-T.Choice right guard to BUF 33 for 2 yards(70-M.Devito; 92-D.Poe).'>3.55</number><number>0.46</number>
+<number shadow='shadow1' tooltip='10:52 1-10-BUF 33KC 0 BUF 0 LI: 1.5(Shotgun) 7-J.Tuel pass short right to 22-F.Jackson pushed ob at KC 45 for 22 yards(24-B.Flowers)Screen pass caught at BUF 31.'>4.13</number><number>0.42</number>
+<number shadow='shadow1' tooltip='10:27 1-10-KC 45KC 0 BUF 0 LI: 1.4(No Huddle Shotgun) 7-J.Tuel pass short middle to 13-S.Johnson to KC 42 for 3 yards(56-D.Johnson)Caught at KC 42 crossing from left.'>4.55</number><number>0.43</number>
+<number shadow='shadow1' tooltip='9:50 2-7-KC 42KC 0 BUF 0 LI: 1.2(Shotgun) 20-T.Choice left guard to KC 40 for 2 yards(94-T.Jackson 55-A.Jordan).'>5.17</number><number>0.44</number>
+<number shadow='shadow1' tooltip='9:15 3-5-KC 40KC 0 BUF 0 LI: 1.1(Shotgun) 7-J.Tuel pass incomplete short left to 84-S.ChandlerDropped receiver near sideline at KC 33.'>5.75</number><number>0.5</number>
+<number shadow='shadow1' tooltip='9:11 4-5-KC 40KC 0 BUF 0 LI: 0.58-B.Moorman punts 29 yards to KC 11 Center-65-G.Sanborn fair catch by 22-D.McCluster.'>5.82</number><number>0.5</number>
+<number shadow='shadow1' tooltip='9:04 1-10-KC 11KC 0 BUF 0 LI: 1.7(Shotgun) 11-A.Smith pass short right to 25-J.Charles to KC 16 for 5 yards(50-K.Alonso; 31-J.Byrd)Screen pass caught at KC 8.'>5.93</number><number>0.5</number>
+<number shadow='shadow1' tooltip='8:33 2-5-KC 16KC 0 BUF 0 LI: 1.5(Shotgun) 11-A.Smith pass short right to 80-A.Fasano to KC 32 for 16 yards(91-M.Lawson 50-K.Alonso)Out-pattern caught at KC 32PENALTY on KC-71-J.Allen Offensive Holding 8 yards enforced at KC 16 - No Play.'>6.45</number><number>0.47</number>
+<number shadow='shadow1' tooltip='8:10 2-13-KC 8KC 0 BUF 0 LI: 1.511-A.Smith pass short right to 82-D.Bowe to KC 17 for 9 yards(24-S.Gilmore 23-A.Williams)Hook pattern caught at KC 15.'>6.83</number><number>0.49</number>
+<number shadow='shadow1' tooltip='7:27 3-4-KC 17KC 0 BUF 0 LI: 1.4(Shotgun) 11-A.Smith pass short right to 25-J.Charles pushed ob at KC 23 for 6 yards(31-J.Byrd)Caught near sideline at KC 17.'>7.55</number><number>0.52</number>
+<number shadow='shadow1' tooltip='6:58 1-10-KC 23KC 0 BUF 0 LI: 1.525-J.Charles left tackle to KC 25 for 2 yards(96-S.Charles).'>8.03</number><number>0.51</number>
+<number shadow='shadow1' tooltip='6:23 2-8-KC 25KC 0 BUF 0 LI: 1.4(Shotgun) 11-A.Smith pass short left to 82-D.Bowe pushed ob at KC 34 for 9 yards(24-S.Gilmore)Caught near sideline at KC 32.'>8.62</number><number>0.54</number>
+<number shadow='shadow1' tooltip='5:55 1-10-KC 34KC 0 BUF 0 LI: 1.525-J.Charles left tackle to KC 34 for no gain (96-S.Charles).'>9.08</number><number>0.52</number>
+<number shadow='shadow1' tooltip='5:19 2-10-KC 34KC 0 BUF 0 LI: 1.3(Shotgun) 25-J.Charles up the middle to KC 38 for 4 yards(50-K.Alonso).'>9.68</number><number>0.51</number>
+<number shadow='shadow1' tooltip='4:35 3-6-KC 38KC 0 BUF 0 LI: 1.1(Shotgun) 11-A.Smith sacked ob at KC 37 for -1 yards(50-K.Alonso).'>10.42</number><number>0.47</number>
+<number shadow='shadow1' tooltip='4:11 4-7-KC 37KC 0 BUF 0 LI: 0.72-D.Colquitt punts 51 yards to BUF 12 Center-43-T.Gafford fair catch by 21-L.McKelvin.'>10.82</number><number>0.5</number>
+<number shadow='shadow1' tooltip='4:02 1-10-BUF 12KC 0 BUF 0 LI: 1.77-J.Tuel pass deep right to 10-R.Woods to BUF 30 for 18 yards(24-B.Flowers)Caught in flat at BUF 28.'>10.97</number><number>0.46</number>
+<number shadow='shadow1' tooltip='3:27 1-10-BUF 30KC 0 BUF 0 LI: 1.628-C.Spiller up the middle to BUF 32 for 2 yards(70-M.Devito 92-D.Poe).'>11.55</number><number>0.48</number>
+<number shadow='shadow1' tooltip='2:55 2-8-BUF 32KC 0 BUF 0 LI: 1.3(Shotgun) 28-C.Spiller left tackle pushed ob at BUF 40 for 8 yards(29-E.Berry).'>12.08</number><number>0.45</number>
+<number shadow='shadow1' tooltip='2:40 1-10-BUF 40KC 0 BUF 0 LI: 1.4(Shotgun) 7-J.Tuel pass incomplete deep right to 11-T.Graham (31-M.Cooper)Receiver and coverage along sideline at KC 25.'>12.33</number><number>0.47</number>
+<number shadow='shadow1' tooltip='2:33 2-10-BUF 40KC 0 BUF 0 LI: 1.222-F.Jackson up the middle to BUF 41 for 1 yard(29-E.Berry 70-M.Devito).'>12.45</number><number>0.48</number>
+<number shadow='shadow1' tooltip='1:59 3-9-BUF 41KC 0 BUF 0 LI: 1.1(Shotgun) 7-J.Tuel pass deep right to 88-M.Goodwin for 59 yards TOUCHDOWNCaught in flat at KC 25.'>13.02</number><number>0.29</number>
+<number shadow='shadow1' tooltip='1:59 KC 0 BUF 0 LI: 2-D.Carpenter extra point is GOOD Center-65-G.Sanborn Holder-8-B.Moorman.'>13.06</number><number>0.29</number>
+<number shadow='shadow1' tooltip='1:59 KC 0 BUF 7 LI: 2-D.Carpenter kicks 70 yards from BUF 35 to KC -535-Q.Demps to KC 16 for 21 yards(15-C.Hogan).'>13.11</number><number>0.27</number>
+<number shadow='shadow1' tooltip='1:47 1-10-KC 16KC 0 BUF 7 LI: 1.5(Shotgun) 11-A.Smith pass short middle to 82-D.Bowe to KC 28 for 12 yards(23-A.Williams)Caught at KC 19 slanting from left.'>13.22</number><number>0.29</number>
+<number shadow='shadow1' tooltip='1:04 1-10-KC 28KC 0 BUF 7 LI: 1.4(Shotgun) 11-A.Smith pass short middle to 17-D.Avery to KC 33 for 5 yards(24-S.Gilmore)Caught at KC 33 hooking to left.'>13.93</number><number>0.29</number>
+<number shadow='shadow1' tooltip='0:30 2-5-KC 33KC 0 BUF 7 LI: 1.225-J.Charles right end to KC 43 for 10 yards(31-J.Byrd).'>14.5</number><number>0.31</number>
+<number shadow='shadow1' tooltip='15:00 1-10-KC 43KC 0 BUF 7 LI: 1.211-A.Smith pass short right to 82-D.Bowe to BUF 47 for 10 yards(24-S.Gilmore)Caught near sideline at BUF 49.'>15</number><number>0.33</number>
+<number shadow='shadow1' tooltip='14:20 1-10-BUF 47KC 0 BUF 7 LI: 1.211-A.Smith pass incomplete deep right to 80-A.FasanoOverthrown receiver near sideline at BUF 26PENALTY on BUF-31-J.Byrd Unnecessary Roughness 15 yards enforced at BUF 47 - No Play.'>15.67</number><number>0.35</number>
+<number shadow='shadow1' tooltip='14:15 1-10-BUF 32KC 0 BUF 7 LI: 1(Shotgun) 11-A.Smith pass short left to 14-C.Hall to BUF 33 for -1 yards(23-A.Williams)Screen pass caught at BUF 34PENALTY on KC-61-R.Hudson Offensive Holding 10 yards enforced at BUF 32 - No Play.'>15.75</number><number>0.33</number>
+<number shadow='shadow1' tooltip='13:47 1-20-BUF 42KC 0 BUF 7 LI: 1.1(Shotgun) 11-A.Smith pass short right to 25-J.Charles to BUF 41 for 1 yard(95-K.Williams 50-K.Alonso)Screen pass caught at BUF 49.'>16.22</number><number>0.31</number>
+<number shadow='shadow1' tooltip='13:00 2-19-BUF 41KC 0 BUF 7 LI: 0.8(Shotgun) 11-A.Smith sacked at BUF 46 for -5 yards(55-J.Hughes)FUMBLES (55-J.Hughes) recovered by KC-72-E.Fisher at BUF 49.'>17</number><number>0.28</number>
+<number shadow='shadow1' tooltip='12:12 3-27-BUF 49KC 0 BUF 7 LI: 0.7(Shotgun) 11-A.Smith pass incomplete deep right to 82-D.BoweCaught out of bounds at BUF 15Pressure on QB: M.Williams.'>17.8</number><number>0.28</number>
+<number shadow='shadow1' tooltip='12:06 4-27-BUF 49KC 0 BUF 7 LI: 0.72-D.Colquitt punts 49 yards to end zone Center-43-T.Gafford TouchbackKick through end zone.'>17.9</number><number>0.27</number>
+<number shadow='shadow1' tooltip='11:57 1-10-BUF 20KC 0 BUF 7 LI: 0.97-J.Tuel pass deep middle intended for 84-S.Chandler INTERCEPTED by 23-K.Lewis at BUF 4223-K.Lewis to BUF 41 for 1 yard(13-S.Johnson).'>18.05</number><number>0.33</number>
+<number shadow='shadow1' tooltip='11:49 1-10-BUF 41KC 0 BUF 7 LI: 125-J.Charles left guard to BUF 35 for 6 yards(53-N.Bradham 91-M.Lawson).'>18.18</number><number>0.33</number>
+<number shadow='shadow1' tooltip='11:15 2-4-BUF 35KC 0 BUF 7 LI: 0.911-A.Smith pass incomplete short right to 22-D.McClusterUnderthrown receiver in flat at BUF 33.'>18.75</number><number>0.32</number>
+<number shadow='shadow1' tooltip='11:10 3-4-BUF 35KC 0 BUF 7 LI: 0.8(Shotgun) 11-A.Smith pass short left to 82-D.Bowe pushed ob at BUF 29 for 6 yards(24-S.Gilmore)Caught along sideline at BUF 29Pressure on QB: A.Williams.'>18.83</number><number>0.35</number>
+<number shadow='shadow1' tooltip='10:40 1-10-BUF 29KC 0 BUF 7 LI: 0.9(Shotgun) 11-A.Smith pass incomplete short right to 82-D.Bowe (23-A.Williams)Receiver and coverage near sideline at BUF 16.'>19.33</number><number>0.37</number>
+<number shadow='shadow1' tooltip='10:34 2-10-BUF 29KC 0 BUF 7 LI: 1.1(Shotgun) 11-A.Smith pass short middle to 17-D.Avery to BUF 20 for 9 yards(31-J.Byrd)Caught at BUF 24 spun right after catch.'>19.43</number><number>0.4</number>
+<number shadow='shadow1' tooltip='9:40 3-1-BUF 20KC 0 BUF 7 LI: 1.342-A.Sherman up the middle to BUF 18 for 2 yards(99-M.Dareus).'>20.33</number><number>0.36</number>
+<number shadow='shadow1' tooltip='9:01 1-10-BUF 18KC 0 BUF 7 LI: 0.9(Shotgun) 11-A.Smith pass short middle to 22-D.McCluster to BUF 11 for 7 yards(23-A.Williams)Caught at BUF 13 slanting from left.'>20.98</number><number>0.44</number>
+<number shadow='shadow1' tooltip='8:23 2-3-BUF 11KC 0 BUF 7 LI: 1.6(Shotgun) 11-A.Smith pass incomplete short left to 82-D.BoweDropped receiver near sideline at BUF 10.'>21.62</number><number>0.42</number>
+<number shadow='shadow1' tooltip='8:18 3-3-BUF 11KC 0 BUF 7 LI: 1.4(Shotgun) 11-A.Smith pass short left to 22-D.McCluster to BUF 9 for 2 yards(37-N.Robey)Caught near sideline at BUF 9.'>21.7</number><number>0.35</number>
+<number shadow='shadow1' tooltip='7:34 4-1-BUF 9KC 0 BUF 7 LI: 0.76-R.Succop 27 yard field goal is GOOD Center-43-T.Gafford Holder-2-D.Colquitt.'>22.43</number><number>0.34</number>
+<number shadow='shadow1' tooltip='7:34 KC 3 BUF 7 LI: 6-R.Succop kicks 68 yards from KC 35 to BUF -388-M.Goodwin to BUF 21 for 24 yards(52-J.Johnson).'>22.52</number><number>0.35</number>
+<number shadow='shadow1' tooltip='7:25 1-10-BUF 21KC 3 BUF 7 LI: 1.228-C.Spiller right tackle to BUF 20 for -1 yards(50-J.Houston).'>22.58</number><number>0.36</number>
+<number shadow='shadow1' tooltip='6:53 2-11-BUF 20KC 3 BUF 7 LI: 1.27-J.Tuel pass short right to 10-R.Woods to BUF 29 for 9 yards(31-M.Cooper)Caught along sideline at BUF 29.'>23.12</number><number>0.35</number>
+<number shadow='shadow1' tooltip='6:18 3-2-BUF 29KC 3 BUF 7 LI: 1.1(Shotgun) 7-J.Tuel pass short right to 84-S.Chandler to BUF 37 for 8 yards(35-Q.Demps; 23-K.Lewis)Caught in flat at BUF 34 slanting to sideline.'>23.7</number><number>0.32</number>
+<number shadow='shadow1' tooltip='5:43 1-10-BUF 37KC 3 BUF 7 LI: 1.320-T.Choice up the middle to BUF 40 for 3 yards(54-D.Moses).'>24.28</number><number>0.32</number>
+<number shadow='shadow1' tooltip='5:09 2-7-BUF 40KC 3 BUF 7 LI: 1.2(No Huddle Shotgun) 28-C.Spiller left guard to BUF 45 for 5 yards(29-E.Berry; 91-T.Hali).'>24.85</number><number>0.32</number>
+<number shadow='shadow1' tooltip='4:34 3-2-BUF 45KC 3 BUF 7 LI: 1.1(Shotgun) 7-J.Tuel pass short middle to 10-R.Woods to KC 48 for 7 yards(56-D.Johnson; 27-S.Smith)Caught in flat at KC 49.'>25.43</number><number>0.29</number>
+<number shadow='shadow1' tooltip='3:49 2-7-KC 45KC 3 BUF 7 LI: 1.2(No Huddle Shotgun) 28-C.Spiller up the middle pushed ob at KC 16 for 29 yards(23-K.Lewis).'>26.18</number><number>0.24</number>
+<number shadow='shadow1' tooltip='3:22 1-10-KC 16KC 3 BUF 7 LI: 1.2(Shotgun) 7-J.Tuel pass incomplete deep left to 10-R.WoodsOverthrown receiver in back of end zone.'>26.63</number><number>0.24</number>
+<number shadow='shadow1' tooltip='3:16 2-10-KC 16KC 3 BUF 7 LI: 1.2(Shotgun) 13-S.Johnson left end to KC 6 for 10 yards(31-M.Cooper)Backward pass from J.Tuel.'>26.73</number><number>0.19</number>
+<number shadow='shadow1' tooltip='2:52 1-6-KC 6KC 3 BUF 7 LI: 1.6(Shotgun) PENALTY on BUF-70-E.Wood False Start 5 yards enforced at KC 6 - No Play.'>27.13</number><number>0.21</number>
+<number shadow='shadow1' tooltip='2:35 1-11-KC 11KC 3 BUF 7 LI: 1.4(Shotgun) 7-J.Tuel pass short middle to 13-S.Johnson to KC 8 for 3 yards(23-K.Lewis)Caught at KC 8 crossing from right.'>27.42</number><number>0.21</number>
+<number shadow='shadow1' tooltip='2:00 2-8-KC 8KC 3 BUF 7 LI: 1.3(Shotgun) 7-J.Tuel pass incomplete short right to 28-C.SpillerThrown away receiver along sideline at KC 9Pressure on QB: J.Houston.'>28</number><number>0.23</number>
+<number shadow='shadow1' tooltip='1:56 3-8-KC 8KC 3 BUF 7 LI: 1.1(Shotgun) 7-J.Tuel pass incomplete short middle to 10-R.Woods (31-M.Cooper)Receiver and coverage 8 ydsinto end zone crossing from right.'>28.07</number><number>0.27</number>
+<number shadow='shadow1' tooltip='1:50 4-8-KC 8KC 3 BUF 7 LI: 0.72-D.Carpenter 26 yard field goal is GOOD Center-65-G.Sanborn Holder-8-B.Moorman.'>28.17</number><number>0.28</number>
+<number shadow='shadow1' tooltip='1:50 KC 3 BUF 10 LI: 2-D.Carpenter kicks 59 yards from BUF 35 to KC 634-K.Davis to KC 30 for 24 yards(25-D.Searcy).'>28.26</number><number>0.29</number>
+<number shadow='shadow1' tooltip='1:40 1-10-KC 30KC 3 BUF 10 LI: 1.2(Shotgun) 11-A.Smith pass short right to 82-D.Bowe to KC 41 for 11 yards(24-S.Gilmore)Caught in flat at KC 37.'>28.33</number><number>0.3</number>
+<number shadow='shadow1' tooltip='1:14 1-10-KC 41KC 3 BUF 10 LI: 1.1(No Huddle Shotgun) 11-A.Smith pass short right to 17-D.Avery to KC 49 for 8 yards(21-L.McKelvin)Caught at KC 45 slanting to middle.'>28.77</number><number>0.3</number>
+<number shadow='shadow1' tooltip='1:06 2-2-KC 49KC 3 BUF 10 LI: 1(Shotgun) PENALTY on KC-76-B.Albert False Start 5 yards enforced at KC 49 - No Play.'>28.9</number><number>0.29</number>
+<number shadow='shadow1' tooltip='0:59 3-7-KC 44KC 3 BUF 10 LI: 0.7(Shotgun) 11-A.Smith pass short left to 25-J.Charles to KC 40 for -4 yards(50-K.Alonso)Screen pass caught at KC 40.'>29.02</number><number>0.24</number>
+<number shadow='shadow1' tooltip='0:47 4-11-KC 40KC 3 BUF 10 LI: 0.52-D.Colquitt punts 55 yards to BUF 5 Center-43-T.Gafford21-L.McKelvin to BUF 21 for 16 yards(43-T.Gafford).'>29.22</number><number>0.24</number>
+<number shadow='shadow1' tooltip='0:35 1-10-BUF 21KC 3 BUF 10 LI: 1.2(Shotgun) 28-C.Spiller right guard to BUF 23 for 2 yards(92-D.Poe 70-M.Devito).'>29.42</number><number>0.27</number>
+<number shadow='shadow1' tooltip='0:35 KC 3 BUF 10 LI: 6-R.Succop kicks 65 yards from KC 35 to end zone TouchbackKick through end zone.'>29.51</number><number>0.24</number>
+<number shadow='shadow1' tooltip='15:00 1-10-BUF 20KC 3 BUF 10 LI: 1.328-C.Spiller up the middle to KC 19 for 61 yards(27-S.Smith).'>30</number><number>0.16</number>
+<number shadow='shadow1' tooltip='14:12 1-10-KC 19KC 3 BUF 10 LI: 1(Shotgun) 22-F.Jackson up the middle to KC 11 for 8 yards(70-M.Devito).'>30.8</number><number>0.11</number>
+<number shadow='shadow1' tooltip='13:42 2-2-KC 11KC 3 BUF 10 LI: 1.3(Shotgun) 22-F.Jackson up the middle to KC 9 for 2 yards(94-T.Jackson; 70-M.Devito).'>31.3</number><number>0.13</number>
+<number shadow='shadow1' tooltip='13:05 1-9-KC 9KC 3 BUF 10 LI: 1.1(No Huddle Shotgun) 22-F.Jackson up the middle to KC 1 for 8 yards(24-B.Flowers).'>31.92</number><number>0.11</number>
+<number shadow='shadow1' tooltip='12:30 2-1-KC 1KC 3 BUF 10 LI: 1.37-J.Tuel pass incomplete short right to 84-S.ChandlerOverthrown receiver in back to end zonePENALTY on KC-56-D.Johnson Defensive Pass Interference 0 yards enforced at KC 1 - No Play.'>32.5</number><number>0.1</number>
+<number shadow='shadow1' tooltip='12:25 1-1-KC 1KC 3 BUF 10 LI: 1.322-F.Jackson left guard to KC 1 for no gain (55-A.Jordan).'>32.58</number><number>0.1</number>
+<number shadow='shadow1' tooltip='11:46 2-1-KC 1KC 3 BUF 10 LI: 1.3(Shotgun) 22-F.Jackson up the middle to KC 1 for no gain (92-D.Poe).'>33.23</number><number>0.11</number>
+<number shadow='shadow1' tooltip='11:14 3-1-KC 1KC 3 BUF 10 LI: 1.2(Shotgun) 7-J.Tuel pass short right intended for 11-T.Graham INTERCEPTED by 27-S.Smith at KC 027-S.Smith for 100 yards TOUCHDOWN.'>33.77</number><number>0.47</number>
+<number shadow='shadow1' tooltip='11:14 KC 3 BUF 10 LI: 6-R.Succop extra point is GOOD Center-43-T.Gafford Holder-2-D.Colquitt.'>33.81</number><number>0.47</number>
+<number shadow='shadow1' tooltip='11:14 KC 10 BUF 10 LI: 6-R.Succop kicks 67 yards from KC 35 to BUF -288-M.Goodwin Touchback.'>33.86</number><number>0.48</number>
+<number shadow='shadow1' tooltip='10:58 1-10-BUF 20KC 10 BUF 10 LI: 1.628-C.Spiller up the middle to BUF 29 for 9 yards(29-E.Berry; 50-J.Houston).'>34.03</number><number>0.47</number>
+<number shadow='shadow1' tooltip='10:20 2-1-BUF 29KC 10 BUF 10 LI: 1.5(Shotgun) 20-T.Choice up the middle to BUF 31 for 2 yards(92-D.Poe; 70-M.Devito).'>34.67</number><number>0.46</number>
+<number shadow='shadow1' tooltip='9:47 1-10-BUF 31KC 10 BUF 10 LI: 1.522-F.Jackson right guard to BUF 38 for 7 yards(55-A.Jordan).'>35.22</number><number>0.46</number>
+<number shadow='shadow1' tooltip='9:17 2-3-BUF 38KC 10 BUF 10 LI: 1.4(No Huddle) 22-F.Jackson up the middle to BUF 41 for 3 yards(55-A.Jordan).'>35.72</number><number>0.45</number>
+<number shadow='shadow1' tooltip='8:42 1-10-BUF 41KC 10 BUF 10 LI: 1.4(Shotgun) 22-F.Jackson left guard pushed ob at KC 44 for 15 yards(29-E.Berry).'>36.3</number><number>0.42</number>
+<number shadow='shadow1' tooltip='8:18 1-10-KC 44KC 10 BUF 10 LI: 1.4(No Huddle) 28-C.Spiller up the middle to KC 44 for no gain (98-A.Toribio).'>36.7</number><number>0.44</number>
+<number shadow='shadow1' tooltip='7:35 2-10-KC 44KC 10 BUF 10 LI: 1.2(No Huddle) 7-J.Tuel pass incomplete short left to 10-R.Woods (27-S.Smith)Receiver and coverage at KC 40 slanting to middle.'>37.42</number><number>0.47</number>
+<number shadow='shadow1' tooltip='7:32 3-10-KC 44KC 10 BUF 10 LI: 0.9(Shotgun) 20-T.Choice right guard to KC 36 for 8 yards(92-D.Poe 39-H.Abdullah).'>37.47</number><number>0.5</number>
+<number shadow='shadow1' tooltip='6:48 4-2-KC 36KC 10 BUF 10 LI: 0.5(Shotgun) 7-J.Tuel pass incomplete deep left to 11-T.GrahamOverthrown receiver along sideline at KC 10.'>38.2</number><number>0.55</number>
+<number shadow='shadow1' tooltip='6:43 1-10-KC 36KC 10 BUF 10 LI: 1.522-D.McCluster right tackle to KC 32 for -4 yards(90-A.Branch)End-around handoff from A.Smith.'>38.28</number><number>0.52</number>
+<number shadow='shadow1' tooltip='6:03 2-14-KC 32KC 10 BUF 10 LI: 1.411-A.Smith pass incomplete short right to 82-D.BoweThrown wide of receiver at KC 41PENALTY on BUF-24-S.Gilmore Defensive Pass Interference 9 yards enforced at KC 32 - No Play.'>38.95</number><number>0.56</number>
+<number shadow='shadow1' tooltip='6:00 1-10-KC 41KC 10 BUF 10 LI: 1.611-A.Smith pass short middle to 80-A.Fasano to BUF 39 for 20 yards(52-A.Moats)Caught at BUF 48 crossing from right.'>39</number><number>0.6</number>
+<number shadow='shadow1' tooltip='5:25 1-10-BUF 39KC 10 BUF 10 LI: 1.525-J.Charles up the middle to BUF 27 for 12 yards(21-L.McKelvin).'>39.58</number><number>0.63</number>
+<number shadow='shadow1' tooltip='4:50 1-10-BUF 27KC 10 BUF 10 LI: 1.625-J.Charles up the middle to BUF 22 for 5 yards(99-M.Dareus 90-A.Branch).'>40.17</number><number>0.68</number>
+<number shadow='shadow1' tooltip='4:12 2-5-BUF 22KC 10 BUF 10 LI: 211-A.Smith pass incomplete short right to 17-D.AveryThrown wide of receiver along sideline at BUF 17.'>40.8</number><number>0.65</number>
+<number shadow='shadow1' tooltip='4:05 3-5-BUF 22KC 10 BUF 10 LI: 1.7(Shotgun) 11-A.Smith pass incomplete short right to 25-J.CharlesOverthrown receiver along sideline at BUF 13.'>40.92</number><number>0.59</number>
+<number shadow='shadow1' tooltip='4:02 4-5-BUF 22KC 10 BUF 10 LI: 1.16-R.Succop 41 yard field goal is GOOD Center-43-T.Gafford Holder-2-D.Colquitt.'>40.97</number><number>0.61</number>
+<number shadow='shadow1' tooltip='4:02 KC 13 BUF 10 LI: 6-R.Succop kicks 70 yards from KC 35 to BUF -588-M.Goodwin Touchback.'>41.06</number><number>0.63</number>
+<number shadow='shadow1' tooltip='3:29 2-7-BUF 23KC 13 BUF 10 LI: 1.5(No Huddle Shotgun) 7-J.Tuel pass incomplete short left to 22-F.JacksonScreen pass overthrown receiver at BUF 20.'>41.52</number><number>0.64</number>
+<number shadow='shadow1' tooltip='3:26 3-7-BUF 23KC 13 BUF 10 LI: 1.3(No Huddle Shotgun) 7-J.Tuel pass incomplete short left to 88-M.Goodwin [24-B.Flowers]Overthrown receiver near sideline at BUF 31PENALTY on KC-24-B.Flowers Roughing the Passer 15 yards enforced at BUF 23 - No Play.'>41.57</number><number>0.58</number>
+<number shadow='shadow1' tooltip='3:21 1-10-BUF 38KC 13 BUF 10 LI: 1.628-C.Spiller up the middle to BUF 38 for no gain (23-K.Lewis; 56-D.Johnson).'>41.65</number><number>0.6</number>
+<number shadow='shadow1' tooltip='2:54 2-10-BUF 38KC 13 BUF 10 LI: 1.4(Shotgun) 7-J.Tuel pass short left to 84-S.Chandler pushed ob at BUF 48 for 10 yards(23-K.Lewis)Caught near sideline at BUF 44.'>42.1</number><number>0.56</number>
+<number shadow='shadow1' tooltip='2:36 1-10-BUF 48KC 13 BUF 10 LI: 1.5(Shotgun) 7-J.Tuel pass incomplete deep right to 10-R.WoodsBUF-10-R.Woods was injured during the playHis return is Questionable Overthrown receiver along sideline at KC 15.'>42.4</number><number>0.58</number>
+<number shadow='shadow1' tooltip='2:31 2-10-BUF 48KC 13 BUF 10 LI: 1.3(Shotgun) 7-J.Tuel pass short left to 28-C.Spiller pushed ob at KC 25 for 27 yards(23-K.Lewis)Flare pass caught at KC 47.'>42.48</number><number>0.49</number>
+<number shadow='shadow1' tooltip='2:08 1-10-KC 25KC 13 BUF 10 LI: 1.6(Shotgun) 22-F.Jackson left tackle to KC 26 for -1 yards(56-D.Johnson).'>42.87</number><number>0.49</number>
+<number shadow='shadow1' tooltip='1:40 2-11-KC 26KC 13 BUF 10 LI: 1.7(Shotgun) 22-F.Jackson left tackle to KC 13 for 13 yards(23-K.Lewis 29-E.Berry).'>43.33</number><number>0.4</number>
+<number shadow='shadow1' tooltip='1:05 1-10-KC 13KC 13 BUF 10 LI: 2.3(Shotgun) 7-J.Tuel up the middle to KC 12 for 1 yard(91-T.Hali).'>43.92</number><number>0.42</number>
+<number shadow='shadow1' tooltip='0:32 2-9-KC 12KC 13 BUF 10 LI: 2.1(Shotgun) 7-J.Tuel pass incomplete short left to 20-T.ChoiceScreen pass dropped at KC 19.'>44.47</number><number>0.46</number>
+<number shadow='shadow1' tooltip='0:27 3-9-KC 12KC 13 BUF 10 LI: 1.77-J.Tuel pass incomplete short right to 84-S.ChandlerReceiver in flat at KC 6 collided with teammate M.Goodwin.'>44.55</number><number>0.54</number>
+<number shadow='shadow1' tooltip='0:23 4-9-KC 12KC 13 BUF 10 LI: 0.92-D.Carpenter 30 yard field goal is GOOD Center-65-G.Sanborn Holder-8-B.Moorman.'>44.62</number><number>0.54</number>
+<number shadow='shadow1' tooltip='0:23 KC 13 BUF 13 LI: 2-D.Carpenter kicks 64 yards from BUF 35 to KC 135-Q.Demps pushed ob at KC 27 for 26 yards(35-J.Leonhard).'>44.71</number><number>0.54</number>
+<number shadow='shadow1' tooltip='0:14 1-10-KC 27KC 13 BUF 13 LI: 1.811-A.Smith pass short left to 25-J.Charles to KC 25 for -2 yards(91-M.Lawson)Flare pass caught at KC 23.'>44.77</number><number>0.51</number>
+<number shadow='shadow1' tooltip='15:00 2-12-KC 25KC 13 BUF 13 LI: 1.6(Shotgun) 11-A.Smith scrambles left end pushed ob at KC 33 for 8 yards(99-M.Dareus).'>45</number><number>0.52</number>
+<number shadow='shadow1' tooltip='14:27 3-4-KC 33KC 13 BUF 13 LI: 1.511-A.Smith pass incomplete short middle to 82-D.Bowe (24-S.Gilmore)Receiver and coverage at KC 41 crossing from right.'>45.55</number><number>0.46</number>
+<number shadow='shadow1' tooltip='14:22 4-4-KC 33KC 13 BUF 13 LI: 0.92-D.Colquitt punts 59 yards to BUF 8 Center-43-T.Gafford21-L.McKelvin to BUF 13 for 5 yards(54-D.Moses).'>45.63</number><number>0.5</number>
+<number shadow='shadow1' tooltip='14:10 1-10-BUF 13KC 13 BUF 13 LI: 2.4(Shotgun) 28-C.Spiller left guard to BUF 11 for -2 yards(70-M.Devito; 91-T.Hali).'>45.83</number><number>0.53</number>
+<number shadow='shadow1' tooltip='13:35 2-12-BUF 11KC 13 BUF 13 LI: 2.17-J.Tuel scrambles up the middle to BUF 13 for 2 yards(94-T.Jackson).'>46.42</number><number>0.55</number>
+<number shadow='shadow1' tooltip='12:55 3-10-BUF 13KC 13 BUF 13 LI: 2(Shotgun) 7-J.Tuel pass short middle to 11-T.Graham to BUF 16 for 3 yards(31-M.Cooper)FUMBLES (31-M.Cooper) RECOVERED by KC-91-T.Hali at BUF 1191-T.Hali for 11 yards TOUCHDOWN.'>47.08</number><number>0.81</number>
+<number shadow='shadow1' tooltip='12:55 KC 13 BUF 13 LI: 6-R.Succop extra point is GOOD Center-43-T.Gafford Holder-2-D.Colquitt.'>47.12</number><number>0.81</number>
+<number shadow='shadow1' tooltip='12:55 KC 20 BUF 13 LI: 6-R.Succop kicks 73 yards from KC 35 to BUF -888-M.Goodwin Touchback.'>47.17</number><number>0.83</number>
+<number shadow='shadow1' tooltip='12:47 1-10-BUF 20KC 20 BUF 13 LI: 0.7(Shotgun) 7-J.Tuel scrambles up the middle to BUF 24 for 4 yards(55-A.Jordan)PENALTY on BUF-79-E.Pears Offensive Holding 10 yards enforced at BUF 20 - No Play.'>47.22</number><number>0.85</number>
+<number shadow='shadow1' tooltip='12:29 1-20-BUF 10KC 20 BUF 13 LI: 0.97-J.Tuel pass short left to 84-S.Chandler to BUF 18 for 8 yards(23-K.Lewis)Caught near sideline at BUF 16.'>47.52</number><number>0.83</number>
+<number shadow='shadow1' tooltip='12:13 2-12-BUF 18KC 20 BUF 13 LI: 0.8(Shotgun) 7-J.Tuel pass short left to 28-C.Spiller pushed ob at BUF 30 for 12 yards(55-A.Jordan)Screen pass caught at BUF 16.'>47.78</number><number>0.8</number>
+<number shadow='shadow1' tooltip='11:56 1-10-BUF 30KC 20 BUF 13 LI: 1(No Huddle Shotgun) 7-J.Tuel pass short right to 13-S.Johnson to BUF 35 for 5 yards(56-D.Johnson)Caught in flat at BUF 34.'>48.07</number><number>0.79</number>
+<number shadow='shadow1' tooltip='11:22 2-5-BUF 35KC 20 BUF 13 LI: 1.1(Shotgun) 7-J.Tuel pass short right to 88-M.Goodwin to BUF 40 for 5 yards(56-D.Johnson)Caught at BUF 40.'>48.63</number><number>0.78</number>
+<number shadow='shadow1' tooltip='10:57 1-10-BUF 40KC 20 BUF 13 LI: 1.2(No Huddle Shotgun) 7-J.Tuel pass incomplete deep right to 88-M.Goodwin (31-M.Cooper)Receiver and coverage along sideline at KC 25.'>49.05</number><number>0.79</number>
+<number shadow='shadow1' tooltip='10:50 2-10-BUF 40KC 20 BUF 13 LI: 1.1(No Huddle Shotgun) 7-J.Tuel pass incomplete short left to 81-M.EasleyDropped receiver in flat at BUF 46.'>49.17</number><number>0.81</number>
+<number shadow='shadow1' tooltip='10:44 3-10-BUF 40KC 20 BUF 13 LI: 0.9(Shotgun) 7-J.Tuel pass incomplete short middle to 84-S.ChandlerOverthrown receiver at KC 49 crossing from left.'>49.27</number><number>0.85</number>
+<number shadow='shadow1' tooltip='10:40 4-10-BUF 40KC 20 BUF 13 LI: 0.58-B.Moorman punts 32 yards to KC 28 Center-65-G.Sanborn out of bounds.'>49.33</number><number>0.85</number>
+<number shadow='shadow1' tooltip='10:32 1-10-KC 28KC 20 BUF 13 LI: 1.625-J.Charles up the middle to KC 37 for 9 yards(23-A.Williams).'>49.47</number><number>0.88</number>
+<number shadow='shadow1' tooltip='9:55 2-1-KC 37KC 20 BUF 13 LI: 1.725-J.Charles left guard to KC 49 for 12 yards(24-S.Gilmore; 50-K.Alonso).'>50.08</number><number>0.91</number>
+<number shadow='shadow1' tooltip='9:13 1-10-KC 49KC 20 BUF 13 LI: 1.725-J.Charles up the middle to 50 for 1 yard(99-M.Dareus 50-K.Alonso).'>50.78</number><number>0.91</number>
+<number shadow='shadow1' tooltip='8:31 2-9-50KC 20 BUF 13 LI: 1.725-J.Charles right tackle to BUF 47 for 3 yards(91-M.Lawson).'>51.48</number><number>0.91</number>
+<number shadow='shadow1' tooltip='7:46 3-6-BUF 47KC 20 BUF 13 LI: 1.6(Shotgun) 11-A.Smith pass incomplete short right to 82-D.Bowe [93-J.Westerman]Thrown wide of receiver under pressure along sideline at BUF 43.'>52.23</number><number>0.88</number>
+<number shadow='shadow1' tooltip='7:40 4-6-BUF 47KC 20 BUF 13 LI: 1.32-D.Colquitt punts 44 yards to BUF 3 Center-43-T.Gafford downed by KC-88-J.Hemingway.'>52.33</number><number>0.89</number>
+<number shadow='shadow1' tooltip='7:30 1-10-BUF 3KC 20 BUF 13 LI: 0.7PENALTY on BUF-84-S.Chandler False Start 1 yard enforced at BUF 3 - No Play.'>52.5</number><number>0.89</number>
+<number shadow='shadow1' tooltip='6:58 2-7-BUF 6KC 20 BUF 13 LI: 0.5(No Huddle) 7-J.Tuel pass incomplete deep middle to 88-M.GoodwinDropped receiver at BUF 46Buffalo challenged the incomplete pass ruling and the play was Upheld(Timeout #1.)'>53.03</number><number>0.92</number>
+<number shadow='shadow1' tooltip='6:43 3-7-BUF 6KC 20 BUF 13 LI: 0.4(Shotgun) 7-J.Tuel pass incomplete short right to 84-S.ChandlerOverthrown receiver at BUF 15.'>53.28</number><number>0.94</number>
+<number shadow='shadow1' tooltip='6:38 4-7-BUF 6KC 20 BUF 13 LI: 0.28-B.Moorman punts 47 yards to KC 47 Center-65-G.Sanborn22-D.McCluster to KC 47 for no gain (33-R.Brooks).'>53.37</number><number>0.93</number>
+<number shadow='shadow1' tooltip='6:29 1-10-KC 47KC 20 BUF 13 LI: 1.825-J.Charles right end to 50 for 3 yards(23-A.Williams).'>53.52</number><number>0.94</number>
+<number shadow='shadow1' tooltip='5:51 2-7-50KC 20 BUF 13 LI: 1.411-A.Smith pass short right to 82-D.Bowe to BUF 40 for 10 yards(25-D.Searcy)Curl pattern caught at BUF 45.'>54.15</number><number>0.96</number>
+<number shadow='shadow1' tooltip='5:10 1-10-BUF 40KC 20 BUF 13 LI: 1.325-J.Charles up the middle to BUF 30 for 10 yards(23-A.Williams).'>54.83</number><number>0.97</number>
+<number shadow='shadow1' tooltip='4:26 1-10-BUF 30KC 20 BUF 13 LI: 1.325-J.Charles up the middle to BUF 25 for 5 yards(53-N.Bradham).'>55.57</number><number>0.97</number>
+<number shadow='shadow1' tooltip='3:42 2-5-BUF 25KC 20 BUF 13 LI: 1.325-J.Charles left guard to BUF 22 for 3 yards(23-A.Williams 50-K.Alonso).'>56.3</number><number>0.97</number>
+<number shadow='shadow1' tooltip='2:59 3-2-BUF 22KC 20 BUF 13 LI: 1.5(Shotgun) 25-J.Charles up the middle to BUF 21 for 1 yard(94-M.Williams).'>57.02</number><number>0.95</number>
+<number shadow='shadow1' tooltip='2:18 4-1-BUF 21KC 20 BUF 13 LI: 1.16-R.Succop 39 yard field goal is GOOD Center-43-T.Gafford Holder-2-D.Colquitt.'>57.7</number><number>0.96</number>
+<number shadow='shadow1' tooltip='2:18 KC 23 BUF 13 LI: 6-R.Succop kicks 73 yards from KC 35 to BUF -821-L.McKelvin Touchback.'>57.79</number><number>0.98</number>
+<number shadow='shadow1' tooltip='2:00 1-10-BUF 32KC 23 BUF 13 LI: 0.3(Shotgun) 7-J.Tuel scrambles left end pushed ob at BUF 46 for 14 yards(92-D.Poe).'>58</number><number>0.95</number>
+<number shadow='shadow1' tooltip='1:54 1-10-BUF 46KC 23 BUF 13 LI: 0.4(No Huddle Shotgun) 7-J.Tuel pass short right to 13-S.Johnson pushed ob at KC 41 for 13 yards(24-B.Flowers)Caught near sideline at KC 45.'>58.1</number><number>0.95</number>
+<number shadow='shadow1' tooltip='1:47 1-10-KC 41KC 23 BUF 13 LI: 0.4(No Huddle Shotgun) 7-J.Tuel pass incomplete short right to 13-S.Johnson (24-B.Flowers)Thrown wide of receiver at KC 35.'>58.22</number><number>0.98</number>
+<number shadow='shadow1' tooltip='1:42 2-10-KC 41KC 23 BUF 13 LI: 0.1(Shotgun) 7-J.Tuel pass incomplete short right to 84-S.ChandlerDropped receiver near sideline at KC 33.'>58.3</number><number>0.98</number>
+<number shadow='shadow1' tooltip='1:38 3-10-KC 41KC 23 BUF 13 LI: 0.1(Shotgun) 22-F.Jackson up the middle to KC 35 for 6 yards(50-J.Houston).'>58.37</number><number>0.99</number>
+<number shadow='shadow1' tooltip='1:32 4-4-KC 35KC 23 BUF 13 LI: 0.1(Shotgun) 7-J.Tuel pass incomplete short right to 13-S.JohnsonOverthrown receiver near sideline at KC 27.'>58.47</number><number>0.99</number>
+<number shadow='shadow1' tooltip='1:27 1-10-KC 35KC 23 BUF 13 LI: 0.311-A.Smith kneels to KC 34 for -1 yards.'>58.55</number><number>0.99</number>
+<number shadow='shadow1' tooltip='0:45 2-11-KC 34KC 23 BUF 13 LI: 0.111-A.Smith kneels to KC 35 for 1 yard.'>59.25</number><number>0.99</number>
+<number shadow='shadow1' tooltip='0:25 3-10-KC 35KC 23 BUF 13 LI: 0.111-A.Smith kneels to KC 34 for -1 yards.'>59.58</number><number>1</number>
+<number>60</number><number>1</number>
+</row> </chart_data>
+       <draw>
+
+
+
+      <image x='45' y='298'  url='nfllogos/42x50png/KC.gif'  layer='foreground' glow = 'glow1'/>
+      <image x='45' y='350'  url='nfllogos/42x50png/BUF.gif'     layer='foreground' glow = 'glow1'/>
+
+
+      <rect x='130' y='300' width='250' height='40' fill_color='ee2f2b' bevel='bevel1' />
+      <text x='135' y='300' width='250' height='40' h_align='left' v_align='middle' color='ffffff' shadow='shadow2' glow='winnerglow'>Kansas City Chiefs</text>
+
+      <rect x='130' y='350' width='250' height='40' fill_color='004b86' bevel='bevel1'  />
+      <text x='135' y='350' width='250' height='40' h_align='left' v_align='middle' color='ffffff' shadow='shadow2' glow=''>Buffalo Bills</text>
+
+      <rect x='420' y='300' width='60' height='40' fill_color='ee2f2b' bevel='bevel1'  />
+      <text x='420' y='300' width='60' height='40' h_align='center' v_align='middle' color='ffffff' shadow='shadow2' transition='none' glow='winnerglow'>23</text>
+
+      <rect x='420' y='350' width='60' height='40' fill_color='004b86' bevel='bevel1' />
+      <text x='420' y='350' width='60' height='40' h_align='center' v_align='middle' color='ffffff' shadow='shadow2' transition='none' glow=''>13</text>
+
+      <text x='-3' y='12'  width='60' height='40' h_align='center' v_align='middle' size='13' shadow='shadow2'>KCWin </text>
+      <text x='-3' y='218' width='60' height='40' h_align='center' v_align='middle' size='13' shadow='shadow2'>BUFWin </text>
+
+     
+              <rect x='540' y='300' width='100' height='35' fill_color='000000' fill_alpha='50'/>
+              <text x='540' y='300' width='100' height='35' h_align='center' v_align='middle' color='ffffff' size='15' shadow='shadow2' >Final</text>
+
+              <text x='540' y='340' width='40' h_align='center' color='000000' size='12' shadow='shadow2'>CBF</text>
+              <text x='600' y='340' width='40' h_align='center' color='000000' size='12' shadow='shadow2'>EI</text>
+
+              <rect x='540' y='360' width='40' height='30' fill_color='000000' fill_alpha='50' />
+              <text x='540' y='360' width='40' height='30' size='12' h_align='center' v_align='middle' color='FFFFFF' shadow='shadow2'>10</text>
+
+              <rect x='600' y='360' width='40' height='30' fill_color='000000' fill_alpha='50' />
+              <text x='600' y='360' width='40' height='30' size='12' h_align='center' v_align='middle' color='FFFFFF' shadow='shadow2'>4.3</text>
+
+              <text x='20' y='420' width='70' height='25' size='12' h_align='left' v_align='middle' color='000000' >11/3/2013</text>
+              <text x='100' y='420' width='200' height='25' size='12' h_align='left' v_align='middle' color='000000' >Ralph Wilson Stadium</text>
+
+   </draw></chart>

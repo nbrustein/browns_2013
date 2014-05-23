@@ -1,0 +1,308 @@
+
+<chart>
+   <license>ETAS9P33ESHO.945CWK-2XOI1X0-7L</license>
+   <chart_type>scatter</chart_type>
+   <chart_pref trend_thickness='0' line_thickness='3' point_size='0'/>
+
+   <series_color>
+      <color>ffff00</color>
+   </series_color>
+
+   <chart_rect x='45' y='20' width='630' height='230' positive_color='cacaca'  />
+
+  <chart_border top_thickness='0'
+                 bottom_thickness='0'
+                 left_thickness='0'
+                 right_thickness='0'
+                 color='000000'
+                 />
+
+   <tooltip font='Arial' bold='true' size='11' />
+
+   <chart_note type='flag'
+               color='000000'
+               alpha='90'
+               bold='FALSE'
+               size='10'
+               background_color='ffffe0'
+               background_alpha='50'
+               shadow='shadow2'
+               />
+
+   <chart_grid_h thickness='2' color='ffffff' type='dashed'  />
+   <chart_grid_v thickness='2' color='ffffff'   />
+		>
+
+   <legend layout='hide' />
+
+   <chart_guide horizontal='TRUE'
+             vertical='TRUE'
+             thickness='1'
+             color='006400'
+             alpha='100'
+             type='solid'
+             snap_h='TRUE'
+             snap_v='TRUE'
+             radius='3'
+             fill_color='006400'
+             fill_alpha='100'
+             line_color='006400'
+             line_alpha='80'
+             line_thickness='1'
+             text_h_alpha='50'
+             text_v_alpha='00'
+             suffix_h=' WP'
+             decimals='2'
+             bold='FALSE'
+             size='11'
+             text_color='FFFFFF'
+             background_color='006400'
+             />
+   <filter>
+      <shadow id='shadow1' distance='2' angle='60' blurX='5' blurY='5' alpha='50' />
+      <bevel id='bevel1' angle='45' blurX='5' blurY='5' distance='0' />
+      <glow id='glow1' color='ffffff' alpha='0' blurX='7' blurY='7' strength='6' quality='2' inner='FALSE' knockout='FALSE' />
+      <glow id='winnerglow' color='ffffff' alpha='0' blurX='7' blurY='7' strength='5' quality='2' inner='FALSE' knockout='FALSE' />
+   </filter>
+
+    <axis_value_label>
+         <string></string>
+          <string> </string>
+          <null/>
+          <string> </string>
+          <string></string>
+
+       </axis_value_label>
+		
+	   <axis_ticks category_ticks='false'/>
+
+       <axis_value min='0' max='1' steps='4'  decimals='2' show_min='true' size='13' shadow='shadow2' />     
+            <axis_category
+               min='0'
+               max='60'
+               steps='4'
+               mode='all'
+               decimals='0'
+               size='13'
+               shadow='shadow2'
+               />
+
+       <axis_category_label>
+          <string>Kickoff</string>
+          <string></string>
+          <string>Halftime</string>
+          <string></string>
+          <string>End</string>
+
+       </axis_category_label>
+
+
+        <chart_data>
+       <row>
+	      <null/><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number>
+              <number>x</number><number>y</number>
+              </row><row><string></string>
+
+                     <number shadow='shadow1'>0</number><number>.5</number><number shadow='shadow1' tooltip='15:00 NYJ 0 TEN 0 LI: 2-R.Bironas kicks 65 yards from TEN 35 to end zone Touchback.'>0.09</number><number>0.52</number>
+<number shadow='shadow1' tooltip='14:29 2-5-NYJ 25NYJ 0 TEN 0 LI: 1.4(No Huddle) 7-G.Smith pass deep left intended for 84-S.Hill INTERCEPTED by 20-A.Verner at TEN 4820-A.Verner pushed ob at NYJ 18 for 34 yards(87-J.Cumberland).'>0.52</number><number>0.35</number>
+<number shadow='shadow1' tooltip='14:16 1-10-NYJ 18NYJ 0 TEN 0 LI: 1.628-C.Johnson left end to NYJ 12 for 6 yards(39-A.Allen).'>0.73</number><number>0.32</number>
+<number shadow='shadow1' tooltip='13:48 2-4-NYJ 12NYJ 0 TEN 0 LI: 1.828-C.Johnson right tackle to NYJ 4 for 8 yards(56-D.Davis).'>1.2</number><number>0.31</number>
+<number shadow='shadow1' tooltip='13:14 1-4-NYJ 4NYJ 0 TEN 0 LI: 1.922-J.Battle right guard to NYJ 2 for 2 yards(97-C.Pace).'>1.77</number><number>0.31</number>
+<number shadow='shadow1' tooltip='12:37 2-2-NYJ 2NYJ 0 TEN 0 LI: 1.922-J.Battle left guard to NYJ 1 for 1 yard(98-Q.Coples).'>2.38</number><number>0.32</number>
+<number shadow='shadow1' tooltip='12:01 3-1-NYJ 1NYJ 0 TEN 0 LI: 1.810-J.Locker pass short middle to 82-D.Walker for 1 yard TOUCHDOWN.'>2.98</number><number>0.29</number>
+<number shadow='shadow1' tooltip='12:01 NYJ 0 TEN 0 LI: 2-R.Bironas extra point is GOOD Center-48-B.Brinkley Holder-6-B.Kern.'>3.02</number><number>0.29</number>
+<number shadow='shadow1' tooltip='12:01 NYJ 0 TEN 7 LI: 2-R.Bironas kicks 65 yards from TEN 35 to end zone Touchback.'>3.07</number><number>0.28</number>
+<number shadow='shadow1' tooltip='11:29 2-4-NYJ 26NYJ 0 TEN 7 LI: 1.5(No Huddle) 29-B.Powell right guard to NYJ 27 for 1 yard(92-R.Pitoitua).'>3.52</number><number>0.28</number>
+<number shadow='shadow1' tooltip='10:59 3-3-NYJ 27NYJ 0 TEN 7 LI: 1.3(No Huddle Shotgun) PENALTY on NYJ-60-D.Ferguson False Start 5 yards enforced at NYJ 27 - No Play.'>4.02</number><number>0.26</number>
+<number shadow='shadow1' tooltip='10:36 3-8-NYJ 22NYJ 0 TEN 7 LI: 1.3(Shotgun) 7-G.Smith pass incomplete short right to 10-S.Holmes.'>4.4</number><number>0.24</number>
+<number shadow='shadow1' tooltip='10:32 4-8-NYJ 22NYJ 0 TEN 7 LI: 1.1(Punt formation) 1-R.Quigley punts 53 yards to TEN 25 Center-46-T.Purdum out of bounds.'>4.47</number><number>0.28</number>
+<number shadow='shadow1' tooltip='10:24 1-10-TEN 25NYJ 0 TEN 7 LI: 0.810-J.Locker pass short right to 13-K.Wright ran ob at TEN 36 for 11 yards(31-A.Cromartie).'>4.6</number><number>0.25</number>
+<number shadow='shadow1' tooltip='9:57 1-10-TEN 36NYJ 0 TEN 7 LI: 110-J.Locker pass deep left to 17-D.Williams to NYJ 39 for 25 yards(30-D.Walls).'>5.05</number><number>0.18</number>
+<number shadow='shadow1' tooltip='9:16 1-10-NYJ 39NYJ 0 TEN 7 LI: 1.328-C.Johnson right guard to NYJ 37 for 2 yards(91-S.Richardson; 56-D.Davis).'>5.73</number><number>0.19</number>
+<number shadow='shadow1' tooltip='8:41 2-8-NYJ 37NYJ 0 TEN 7 LI: 1.210-J.Locker pass short left to 42-C.Mooney to NYJ 34 for 3 yards(56-D.Davis).'>6.32</number><number>0.19</number>
+<number shadow='shadow1' tooltip='8:02 3-5-NYJ 34NYJ 0 TEN 7 LI: 1.1(Shotgun) 10-J.Locker pass short left to 17-D.Williams pushed ob at NYJ 22 for 12 yards(30-D.Walls).'>6.97</number><number>0.13</number>
+<number shadow='shadow1' tooltip='7:27 1-10-NYJ 22NYJ 0 TEN 7 LI: 1.510-J.Locker sacked at NYJ 25 for -3 yards(97-C.Pace).'>7.55</number><number>0.18</number>
+<number shadow='shadow1' tooltip='6:55 2-13-NYJ 25NYJ 0 TEN 7 LI: 1.1(Shotgun) 10-J.Locker pass short middle to 13-K.Wright to NYJ 21 for 4 yards(20-K.Wilson).'>8.08</number><number>0.17</number>
+<number shadow='shadow1' tooltip='6:09 3-9-NYJ 21NYJ 0 TEN 7 LI: 1.1(Shotgun) 10-J.Locker pass incomplete deep left to 17-D.WilliamsPENALTY on NYJ-30-D.Walls Defensive Holding 5 yards enforced at NYJ 21 - No Play.'>8.85</number><number>0.12</number>
+<number shadow='shadow1' tooltip='6:05 1-10-NYJ 16NYJ 0 TEN 7 LI: 1.528-C.Johnson left tackle to NYJ 16 for no gain (56-D.Davis).'>8.92</number><number>0.16</number>
+<number shadow='shadow1' tooltip='5:27 2-10-NYJ 16NYJ 0 TEN 7 LI: 1.128-C.Johnson up the middle to NYJ 13 for 3 yards(52-D.Harris).'>9.55</number><number>0.15</number>
+<number shadow='shadow1' tooltip='4:48 3-7-NYJ 13NYJ 0 TEN 7 LI: 1.2(Shotgun) 10-J.Locker pass short left to 13-K.Wright to NYJ 8 for 5 yards(26-D.Landry)TEN-13-K.Wright was injured during the playHis return is Questionable.'>10.2</number><number>0.18</number>
+<number shadow='shadow1' tooltip='4:23 4-2-NYJ 8NYJ 0 TEN 7 LI: 0.9(Field Goal formation) 2-R.Bironas 26 yard field goal is GOOD Center-48-B.Brinkley Holder-6-B.Kern.'>10.62</number><number>0.19</number>
+<number shadow='shadow1' tooltip='4:23 NYJ 0 TEN 10 LI: 2-R.Bironas kicks 65 yards from TEN 35 to end zone Touchback.'>10.71</number><number>0.16</number>
+<number shadow='shadow1' tooltip='3:54 1-10-NYJ 26NYJ 0 TEN 10 LI: 0.8(No Huddle Shotgun) 7-G.Smith sacked at NYJ 18 for -8 yards(92-R.Pitoitua).'>11.1</number><number>0.19</number>
+<number shadow='shadow1' tooltip='3:15 2-18-NYJ 18NYJ 0 TEN 10 LI: 129-B.Powell left guard to NYJ 21 for 3 yards(55-Z.Brown).'>11.75</number><number>0.18</number>
+<number shadow='shadow1' tooltip='2:39 3-15-NYJ 21NYJ 0 TEN 10 LI: 0.8(No Huddle Shotgun) PENALTY on TEN-99-J.Casey Neutral Zone Infraction 5 yards enforced at NYJ 21 - No Play.'>12.35</number><number>0.19</number>
+<number shadow='shadow1' tooltip='2:22 3-10-NYJ 26NYJ 0 TEN 10 LI: 0.7(Shotgun) 7-G.Smith pass deep middle to 10-S.Holmes to TEN 49 for 25 yards(30-J.McCourty).'>12.63</number><number>0.24</number>
+<number shadow='shadow1' tooltip='1:51 1-10-TEN 49NYJ 0 TEN 10 LI: 0.8(Shotgun) 29-B.Powell left guard to TEN 40 for 9 yards(33-M.Griffin; 20-A.Verner).'>13.15</number><number>0.26</number>
+<number shadow='shadow1' tooltip='1:18 2-1-TEN 40NYJ 0 TEN 10 LI: 1(Shotgun) 29-B.Powell left tackle to TEN 32 for 8 yards(33-M.Griffin; 56-A.Ayers).'>13.7</number><number>0.27</number>
+<number shadow='shadow1' tooltip='0:45 1-10-TEN 32NYJ 0 TEN 10 LI: 1(No Huddle Shotgun) 7-G.Smith pass incomplete short middle to 81-K.Winslow [55-Z.Brown].'>14.25</number><number>0.26</number>
+<number shadow='shadow1' tooltip='0:40 2-10-TEN 32NYJ 0 TEN 10 LI: 0.9(Shotgun) 7-G.Smith pass incomplete deep right to 11-J.Kerley.'>14.33</number><number>0.25</number>
+<number shadow='shadow1' tooltip='0:32 3-10-TEN 32NYJ 0 TEN 10 LI: 0.8(No Huddle Shotgun) 7-G.Smith pass short right to 40-T.Bohanon to TEN 27 for 5 yards(30-J.McCourty; 24-C.Sensabaugh).'>14.47</number><number>0.24</number>
+<number shadow='shadow1' tooltip='15:00 4-5-TEN 27NYJ 0 TEN 10 LI: 0.6(Field Goal formation) 2-N.Folk 45 yard field goal is GOOD Center-46-T.Purdum Holder-1-R.Quigley.'>15</number><number>0.26</number>
+<number shadow='shadow1' tooltip='15:00 NYJ 3 TEN 10 LI: 2-N.Folk kicks 65 yards from NYJ 35 to end zone Touchback.'>15.09</number><number>0.28</number>
+<number shadow='shadow1' tooltip='14:29 1-10-TEN 36NYJ 3 TEN 10 LI: 1.128-C.Johnson left guard to TEN 36 for no gain (96-M.Wilkerson; 93-K.Ellis)PENALTY on TEN-67-A.Levitre Offensive Holding 10 yards enforced at TEN 36 - No Play.'>15.52</number><number>0.26</number>
+<number shadow='shadow1' tooltip='14:05 1-20-TEN 26NYJ 3 TEN 10 LI: 110-J.Locker pass incomplete short right to 85-N.Washington.'>15.92</number><number>0.27</number>
+<number shadow='shadow1' tooltip='14:00 2-20-TEN 26NYJ 3 TEN 10 LI: 0.9(Shotgun) 10-J.Locker pass short right to 82-D.Walker pushed ob at TEN 32 for 6 yards(37-J.Jarrett).'>16</number><number>0.27</number>
+<number shadow='shadow1' tooltip='13:26 3-14-TEN 32NYJ 3 TEN 10 LI: 0.7(Shotgun) 10-J.Locker pass incomplete deep right to 17-D.Williams.'>16.57</number><number>0.29</number>
+<number shadow='shadow1' tooltip='13:20 4-14-TEN 32NYJ 3 TEN 10 LI: 0.5(Punt formation) 6-B.Kern punts 53 yards to NYJ 15 Center-48-B.Brinkley11-J.Kerley to NYJ 20 for 5 yards(52-C.McCarthy; 29-B.Wreh-Wilson).'>16.67</number><number>0.28</number>
+<number shadow='shadow1' tooltip='13:08 1-10-NYJ 20NYJ 3 TEN 10 LI: 1.4(Shotgun) 7-G.Smith sacked ob at NYJ 19 for -1 yards(99-J.Casey).'>16.87</number><number>0.26</number>
+<number shadow='shadow1' tooltip='12:43 2-11-NYJ 19NYJ 3 TEN 10 LI: 1.2(No Huddle Shotgun) 29-B.Powell up the middle to NYJ 22 for 3 yards(99-J.Casey; 97-K.Klug).'>17.28</number><number>0.26</number>
+<number shadow='shadow1' tooltip='11:39 3-13-NYJ 17NYJ 3 TEN 10 LI: 1(Shotgun) 7-G.Smith pass deep left to 11-J.Kerley to NYJ 40 for 23 yards(33-M.Griffin).'>18.35</number><number>0.31</number>
+<number shadow='shadow1' tooltip='11:02 1-10-NYJ 40NYJ 3 TEN 10 LI: 1.3(No Huddle) 29-B.Powell right guard to NYJ 44 for 4 yards(90-A.Johnson).'>18.97</number><number>0.3</number>
+<number shadow='shadow1' tooltip='10:26 2-6-NYJ 44NYJ 3 TEN 10 LI: 1.17-G.Smith pass short left to 19-E.Gates to NYJ 47 for 3 yards(56-A.Ayers) [93-Mi.Martin].'>19.57</number><number>0.3</number>
+<number shadow='shadow1' tooltip='9:40 3-3-NYJ 47NYJ 3 TEN 10 LI: 1(Shotgun) 7-G.Smith scrambles left end to 50 for 3 yards(55-Z.Brown)FUMBLES (55-Z.Brown) RECOVERED by TEN-20-A.Verner at NYJ 3520-A.Verner to NYJ 26 for 9 yards(29-B.Powell).'>20.33</number><number>0.16</number>
+<number shadow='shadow1' tooltip='9:27 1-10-NYJ 26NYJ 3 TEN 10 LI: 1.228-C.Johnson left tackle to NYJ 24 for 2 yards(56-D.Davis).'>20.55</number><number>0.16</number>
+<number shadow='shadow1' tooltip='8:50 2-8-NYJ 24NYJ 3 TEN 10 LI: 1.228-C.Johnson right tackle to NYJ 24 for no gain (94-D.Harrison).'>21.17</number><number>0.19</number>
+<number shadow='shadow1' tooltip='8:12 3-8-NYJ 24NYJ 3 TEN 10 LI: 0.9(Shotgun) 10-J.Locker pass short left to 85-N.Washington to NYJ 6 for 18 yards(52-D.Harris).'>21.8</number><number>0.13</number>
+<number shadow='shadow1' tooltip='7:28 1-6-NYJ 6NYJ 3 TEN 10 LI: 1.3(Shotgun) 28-C.Johnson up the middle to NYJ 4 for 2 yards(52-D.Harris).'>22.53</number><number>0.12</number>
+<number shadow='shadow1' tooltip='6:58 2-4-NYJ 4NYJ 3 TEN 10 LI: 1.4(Shotgun) 10-J.Locker pass incomplete short right to 13-K.Wright.'>23.03</number><number>0.14</number>
+<number shadow='shadow1' tooltip='6:52 3-4-NYJ 4NYJ 3 TEN 10 LI: 1.2(Shotgun) 10-J.Locker pass short right to 85-N.Washington for 4 yards TOUCHDOWN.'>23.13</number><number>0.1</number>
+<number shadow='shadow1' tooltip='6:52 NYJ 3 TEN 10 LI: 2-R.Bironas extra point is GOOD Center-48-B.Brinkley Holder-6-B.Kern.'>23.17</number><number>0.1</number>
+<number shadow='shadow1' tooltip='6:52 NYJ 3 TEN 17 LI: 2-R.Bironas kicks 70 yards from TEN 35 to NYJ -519-E.Gates to NYJ 23 for 28 yards(24-C.Sensabaugh).'>23.22</number><number>0.1</number>
+<number shadow='shadow1' tooltip='6:41 1-10-NYJ 23NYJ 3 TEN 17 LI: 0.2(Shotgun) 29-B.Powell right tackle to NYJ 35 for 12 yards(53-M.Fokou; 99-J.Casey).'>23.32</number><number>0.11</number>
+<number shadow='shadow1' tooltip='6:05 1-10-NYJ 35NYJ 3 TEN 17 LI: 0.37-G.Smith pass short right to 29-B.Powell pushed ob at TEN 29 for 36 yards(31-B.Pollard).'>23.92</number><number>0.15</number>
+<number shadow='shadow1' tooltip='5:27 1-10-TEN 29NYJ 3 TEN 17 LI: 0.525-A.Green right end to TEN 26 for 3 yards(31-B.Pollard).'>24.55</number><number>0.18</number>
+<number shadow='shadow1' tooltip='4:48 2-7-TEN 26NYJ 3 TEN 17 LI: 0.8(Shotgun) 7-G.Smith pass short right to 25-A.Green to TEN 25 for 1 yard(90-A.Johnson; 56-A.Ayers).'>25.2</number><number>0.17</number>
+<number shadow='shadow1' tooltip='4:07 3-6-TEN 25NYJ 3 TEN 17 LI: 0.7(Shotgun) 7-G.Smith pass short left to 81-K.Winslow to TEN 9 for 16 yards(31-B.Pollard)PENALTY on NYJ-66-W.Colon Illegal Use of Hands 10 yards enforced at TEN 25 - No Play.'>25.88</number><number>0.14</number>
+<number shadow='shadow1' tooltip='3:35 3-16-TEN 35NYJ 3 TEN 17 LI: 0.4(Shotgun) 7-G.Smith pass short left to 87-J.Cumberland to TEN 30 for 5 yards(24-C.Sensabaugh; 55-Z.Brown)PENALTY on NYJ Illegal Shift 5 yards enforced at TEN 35 - No Play.'>26.42</number><number>0.1</number>
+<number shadow='shadow1' tooltip='3:09 3-21-TEN 40NYJ 3 TEN 17 LI: 0.1(Shotgun) 7-G.Smith pass short right to 19-E.Gates to TEN 29 for 11 yards(30-J.McCourty).'>26.85</number><number>0.12</number>
+<number shadow='shadow1' tooltip='2:30 4-10-TEN 29NYJ 3 TEN 17 LI: 0.3(Field Goal formation) 2-N.Folk 47 yard field goal is GOOD Center-46-T.Purdum Holder-1-R.Quigley.'>27.5</number><number>0.13</number>
+<number shadow='shadow1' tooltip='2:30 NYJ 6 TEN 17 LI: 2-N.Folk kicks 65 yards from NYJ 35 to end zone Touchback.'>27.59</number><number>0.14</number>
+<number shadow='shadow1' tooltip='2:00 2-6-TEN 24NYJ 6 TEN 17 LI: 1.110-J.Locker sacked at TEN 14 for -10 yards(95-A.Barnes).'>28</number><number>0.19</number>
+<number shadow='shadow1' tooltip='1:54 3-16-TEN 14NYJ 6 TEN 17 LI: 1(Shotgun) 10-J.Locker scrambles up the middle to TEN 25 for 11 yards(37-J.Jarrett).'>28.1</number><number>0.19</number>
+<number shadow='shadow1' tooltip='1:45 4-5-TEN 25NYJ 6 TEN 17 LI: 0.6(Punt formation) 6-B.Kern punts 39 yards to NYJ 36 Center-48-B.Brinkley fair catch by 11-J.KerleyPENALTY on TEN-37-T.Campbell Player Out of Bounds on Punt 5 yards enforced at NYJ 36.'>28.25</number><number>0.2</number>
+<number shadow='shadow1' tooltip='1:37 1-10-NYJ 41NYJ 6 TEN 17 LI: 1.1(Shotgun) 7-G.Smith pass short left intended for 10-S.Holmes INTERCEPTED by 20-A.Verner at TEN 4920-A.Verner to NYJ 46 for 5 yards(29-B.Powell).'>28.38</number><number>0.09</number>
+<number shadow='shadow1' tooltip='1:28 1-10-NYJ 46NYJ 6 TEN 17 LI: 1.2(Shotgun) 10-J.Locker pass short middle to 28-C.Johnson to NYJ 44 for 2 yards(52-D.Harris).'>28.53</number><number>0.11</number>
+<number shadow='shadow1' tooltip='1:06 2-8-NYJ 44NYJ 6 TEN 17 LI: 0.9(No Huddle Shotgun) 10-J.Locker pass short right to 82-D.Walker ran ob at NYJ 37 for 7 yards(56-D.Davis).'>28.9</number><number>0.1</number>
+<number shadow='shadow1' tooltip='1:02 3-1-NYJ 37NYJ 6 TEN 17 LI: 0.9(Shotgun) 10-J.Locker scrambles left end pushed ob at NYJ 32 for 5 yards(30-D.Walls).'>28.97</number><number>0.08</number>
+<number shadow='shadow1' tooltip='0:52 1-10-NYJ 32NYJ 6 TEN 17 LI: 1(Shotgun) 10-J.Locker pass short right to 17-D.Williams to NYJ 29 for 3 yards(56-D.Davis).'>29.13</number><number>0.08</number>
+<number shadow='shadow1' tooltip='0:43 2-7-NYJ 29NYJ 6 TEN 17 LI: 0.9(Shotgun) 10-J.Locker pass short left to 17-D.Williams to NYJ 23 for 6 yards(30-D.Walls).'>29.28</number><number>0.07</number>
+<number shadow='shadow1' tooltip='0:32 3-1-NYJ 23NYJ 6 TEN 17 LI: 0.9(Shotgun) 10-J.Locker pass short right to 17-D.Williams to NYJ 16 for 7 yards(31-A.Cromartie)Play Challenged by Replay Assistant and Upheld.'>29.47</number><number>0.05</number>
+<number shadow='shadow1' tooltip='0:07 1-10-NYJ 16NYJ 6 TEN 17 LI: 1(Shotgun) 10-J.Locker pass deep left to 15-J.Hunter for 16 yards TOUCHDOWN.'>29.88</number><number>0.07</number>
+<number shadow='shadow1' tooltip='0:07 NYJ 6 TEN 17 LI: 2-R.Bironas extra point is GOOD Center-48-B.Brinkley Holder-6-B.Kern.'>29.92</number><number>0.07</number>
+<number shadow='shadow1' tooltip='0:07 NYJ 6 TEN 24 LI: 2-R.Bironas kicks 32 yards from TEN 35 to NYJ 3354-N.Bellore (didn t try to advance) to NYJ 33 for no gain (50-Z.Gooden).'>29.97</number><number>0.07</number>
+<number shadow='shadow1' tooltip='15:00 1-10-TEN 20NYJ 6 TEN 24 LI: 0.510-J.Locker pass incomplete short left to 13-K.Wright.'>30</number><number>0.06</number>
+<number shadow='shadow1' tooltip='14:55 2-10-TEN 20NYJ 6 TEN 24 LI: 0.528-C.Johnson left tackle to TEN 20 for no gain (97-C.Pace).'>30.08</number><number>0.07</number>
+<number shadow='shadow1' tooltip='14:17 3-10-TEN 20NYJ 6 TEN 24 LI: 0.3(Shotgun) 10-J.Locker pass short middle to 13-K.Wright to TEN 31 for 11 yards(26-D.Landry).'>30.72</number><number>0.06</number>
+<number shadow='shadow1' tooltip='13:43 1-10-TEN 31NYJ 6 TEN 24 LI: 0.328-C.Johnson up the middle to TEN 30 for -1 yards(91-S.Richardson; 96-M.Wilkerson).'>31.28</number><number>0.06</number>
+<number shadow='shadow1' tooltip='13:09 2-11-TEN 30NYJ 6 TEN 24 LI: 0.310-J.Locker pass short right to 28-C.Johnson to TEN 38 for 8 yards(52-D.Harris).'>31.85</number><number>0.05</number>
+<number shadow='shadow1' tooltip='12:28 3-3-TEN 38NYJ 6 TEN 24 LI: 0.4(Shotgun) 10-J.Locker pass incomplete short right to 82-D.Walker.'>32.53</number><number>0.07</number>
+<number shadow='shadow1' tooltip='12:24 4-3-TEN 38NYJ 6 TEN 24 LI: 0.2(Punt formation) 6-B.Kern punts 50 yards to NYJ 12 Center-48-B.Brinkley11-J.Kerley to NYJ 14 for 2 yards(48-B.Brinkley; 52-C.McCarthy).'>32.6</number><number>0.06</number>
+<number shadow='shadow1' tooltip='12:17 1-10-NYJ 14NYJ 6 TEN 24 LI: 0.2(Shotgun) 7-G.Smith pass incomplete short right to 29-B.Powell [55-Z.Brown].'>32.72</number><number>0.06</number>
+<number shadow='shadow1' tooltip='12:11 2-10-NYJ 14NYJ 6 TEN 24 LI: 0.229-B.Powell right end to NYJ 15 for 1 yard(99-J.Casey).'>32.82</number><number>0.05</number>
+<number shadow='shadow1' tooltip='11:32 3-9-NYJ 15NYJ 6 TEN 24 LI: 0.3(Shotgun) 7-G.Smith pass incomplete deep middle to 10-S.Holmes [91-D.Morgan].'>33.47</number><number>0.04</number>
+<number shadow='shadow1' tooltip='11:27 4-9-NYJ 15NYJ 6 TEN 24 LI: 0.2(Punt formation) 1-R.Quigley punts 52 yards to TEN 33 Center-46-T.Purdum fair catch by 25-D.ReynaudPENALTY on NYJ-21-E.Lankster Player Out of Bounds on Punt 5 yards enforced at TEN 33.'>33.55</number><number>0.05</number>
+<number shadow='shadow1' tooltip='11:19 1-10-TEN 38NYJ 6 TEN 24 LI: 0.310-J.Locker pass incomplete short left to 85-N.Washington [96-M.Wilkerson]TEN-10-J.Locker was injured during the playHis return is Questionable.'>33.68</number><number>0.05</number>
+<number shadow='shadow1' tooltip='11:14 2-10-TEN 38NYJ 6 TEN 24 LI: 0.328-C.Johnson left tackle to TEN 35 for -3 yards(96-M.Wilkerson).'>33.77</number><number>0.06</number>
+<number shadow='shadow1' tooltip='10:31 3-13-TEN 35NYJ 6 TEN 24 LI: 0.2(Shotgun) 4-R.Fitzpatrick pass deep middle to 13-K.Wright to NYJ 40 for 25 yards(31-A.Cromartie).'>34.48</number><number>0.03</number>
+<number shadow='shadow1' tooltip='9:44 1-10-NYJ 40NYJ 6 TEN 24 LI: 0.44-R.Fitzpatrick pass incomplete short left to 13-K.Wright.'>35.27</number><number>0.04</number>
+<number shadow='shadow1' tooltip='9:37 2-10-NYJ 40NYJ 6 TEN 24 LI: 0.328-C.Johnson left tackle to NYJ 43 for -3 yards(56-D.Davis).'>35.38</number><number>0.05</number>
+<number shadow='shadow1' tooltip='8:57 3-13-NYJ 43NYJ 6 TEN 24 LI: 0.2(Shotgun) 4-R.Fitzpatrick pass incomplete short right to 17-D.Williams.'>36.05</number><number>0.05</number>
+<number shadow='shadow1' tooltip='8:51 4-13-NYJ 43NYJ 6 TEN 24 LI: 0.2(Punt formation) 6-B.Kern punts 28 yards to NYJ 15 Center-48-B.Brinkley fair catch by 11-J.Kerley.'>36.15</number><number>0.05</number>
+<number shadow='shadow1' tooltip='8:43 1-10-NYJ 15NYJ 6 TEN 24 LI: 0.37-G.Smith sacked at NYJ 1 for -14 yards(92-R.Pitoitua).'>36.28</number><number>0.04</number>
+<number shadow='shadow1' tooltip='8:07 2-24-NYJ 1NYJ 6 TEN 24 LI: 0.2(Shotgun) 7-G.Smith pass short middle to 11-J.Kerley to NYJ 10 for 9 yards(24-C.Sensabaugh)NYJ-11-J.Kerley was injured during the playHis return is Questionable.'>36.88</number><number>0.04</number>
+<number shadow='shadow1' tooltip='7:35 3-15-NYJ 10NYJ 6 TEN 24 LI: 0.2(Shotgun) 7-G.Smith pass short right to 19-E.Gates pushed ob at NYJ 20 for 10 yards(31-B.Pollard).'>37.42</number><number>0.03</number>
+<number shadow='shadow1' tooltip='7:29 4-5-NYJ 20NYJ 6 TEN 24 LI: 0.1(Punt formation) 1-R.Quigley punts 56 yards to TEN 24 Center-46-T.Purdum25-D.Reynaud pushed ob at NYJ 41 for 35 yards(21-E.Lankster).'>37.52</number><number>0.03</number>
+<number shadow='shadow1' tooltip='7:16 1-10-NYJ 41NYJ 6 TEN 24 LI: 0.322-J.Battle right guard to NYJ 37 for 4 yards(94-D.Harrison).'>37.73</number><number>0.03</number>
+<number shadow='shadow1' tooltip='6:44 2-6-NYJ 37NYJ 6 TEN 24 LI: 0.322-J.Battle left end to NYJ 35 for 2 yards(26-D.Landry).'>38.27</number><number>0.03</number>
+<number shadow='shadow1' tooltip='6:01 3-4-NYJ 35NYJ 6 TEN 24 LI: 0.2(Shotgun) 4-R.Fitzpatrick pass incomplete short right to 85-N.Washington.'>38.98</number><number>0.04</number>
+<number shadow='shadow1' tooltip='5:57 4-4-NYJ 35NYJ 6 TEN 24 LI: 0.1(Punt formation) 6-B.Kern punts 34 yards to NYJ 1 Center-48-B.Brinkley downed by TEN-37-T.Campbell.'>39.05</number><number>0.04</number>
+<number shadow='shadow1' tooltip='5:47 1-10-NYJ 1NYJ 6 TEN 24 LI: 0.240-T.Bohanon up the middle to NYJ 2 for 1 yard(91-D.Morgan).'>39.22</number><number>0.03</number>
+<number shadow='shadow1' tooltip='5:11 2-9-NYJ 2NYJ 6 TEN 24 LI: 0.17-G.Smith pass incomplete short middle to 29-B.Powell [56-A.Ayers].'>39.82</number><number>0.03</number>
+<number shadow='shadow1' tooltip='5:05 3-9-NYJ 2NYJ 6 TEN 24 LI: 0.1(Shotgun) 7-G.Smith pass incomplete short right to 11-J.Kerley (53-M.Fokou)PENALTY on NYJ-7-G.Smith Delay of Game 1 yard enforced at NYJ 2 - No Play.'>39.92</number><number>0.03</number>
+<number shadow='shadow1' tooltip='5:01 3-10-NYJ 1NYJ 6 TEN 24 LI: 0.17-G.Smith pass deep middle to 81-K.Winslow to NYJ 26 for 25 yards(31-B.Pollard).'>39.98</number><number>0.04</number>
+<number shadow='shadow1' tooltip='4:29 1-10-NYJ 26NYJ 6 TEN 24 LI: 0.2(No Huddle Shotgun) 7-G.Smith pass incomplete short left to 10-S.Holmes [91-D.Morgan].'>40.52</number><number>0.04</number>
+<number shadow='shadow1' tooltip='4:24 2-10-NYJ 26NYJ 6 TEN 24 LI: 0.2(Shotgun) 29-B.Powell up the middle to NYJ 31 for 5 yards(31-B.Pollard).'>40.6</number><number>0.04</number>
+<number shadow='shadow1' tooltip='3:52 3-5-NYJ 31NYJ 6 TEN 24 LI: 0.2(No Huddle Shotgun) 7-G.Smith pass incomplete short middle to 81-K.Winslow.'>41.13</number><number>0.03</number>
+<number shadow='shadow1' tooltip='3:47 4-5-NYJ 31NYJ 6 TEN 24 LI: 0.1(Punt formation) 1-R.Quigley punts 47 yards to TEN 22 Center-46-T.Purdum25-D.Reynaud to TEN 23 for 1 yard(54-N.Bellore)PENALTY on TEN-24-C.Sensabaugh Illegal Block Above the Waist 10 yards enforced at TEN 23.'>41.22</number><number>0.02</number>
+<number shadow='shadow1' tooltip='3:36 1-10-TEN 13NYJ 6 TEN 24 LI: 0.722-J.Battle up the middle to TEN 23 for 10 yards(31-A.Cromartie).'>41.4</number><number>0.02</number>
+<number shadow='shadow1' tooltip='3:00 1-10-TEN 23NYJ 6 TEN 24 LI: 0.322-J.Battle up the middle to TEN 22 for -1 yards(78-L.Douzable).'>42</number><number>0.03</number>
+<number shadow='shadow1' tooltip='2:20 2-11-TEN 22NYJ 6 TEN 24 LI: 0.2(Shotgun) 4-R.Fitzpatrick pass incomplete short left to 13-K.Wright.'>42.67</number><number>0.03</number>
+<number shadow='shadow1' tooltip='2:16 3-11-TEN 22NYJ 6 TEN 24 LI: 0.2(Shotgun) 4-R.Fitzpatrick pass incomplete short left to 85-N.Washington (30-D.Walls).'>42.73</number><number>0.03</number>
+<number shadow='shadow1' tooltip='2:10 4-11-TEN 22NYJ 6 TEN 24 LI: 0.2(Punt formation) 6-B.Kern punts 54 yards to NYJ 24 Center-48-B.Brinkley out of bounds.'>42.83</number><number>0.03</number>
+<number shadow='shadow1' tooltip='2:01 1-10-NYJ 24NYJ 6 TEN 24 LI: 0.1(Shotgun) 7-G.Smith scrambles up the middle to NYJ 40 for 16 yards(55-Z.Brown).'>42.98</number><number>0.04</number>
+<number shadow='shadow1' tooltip='1:30 1-10-NYJ 40NYJ 6 TEN 24 LI: 0.2(No Huddle Shotgun) 7-G.Smith pass short middle to 81-K.Winslow to NYJ 45 for 5 yards(53-M.Fokou).'>43.5</number><number>0.03</number>
+<number shadow='shadow1' tooltip='1:07 2-5-NYJ 45NYJ 6 TEN 24 LI: 0.1(No Huddle Shotgun) 7-G.Smith left end to TEN 45 for 10 yards(56-A.Ayers)PENALTY on NYJ Illegal Shift 5 yards enforced at NYJ 45 - No Play.'>43.88</number><number>0.03</number>
+<number shadow='shadow1' tooltip='0:44 2-10-NYJ 40NYJ 6 TEN 24 LI: 0.1(Shotgun) 7-G.Smith pass short right to 81-K.Winslow to TEN 49 for 11 yards(55-Z.Brown).'>44.27</number><number>0.04</number>
+<number shadow='shadow1' tooltip='0:15 1-10-TEN 49NYJ 6 TEN 24 LI: 0.229-B.Powell up the middle to NYJ 49 for -2 yards(93-Mi.Martin).'>44.75</number><number>0.02</number>
+<number shadow='shadow1' tooltip='15:00 2-12-NYJ 49NYJ 6 TEN 24 LI: 0.1(Shotgun) 7-G.Smith pass short left to 15-B.Obomanu to TEN 43 for 8 yards(30-J.McCourty).'>45</number><number>0.03</number>
+<number shadow='shadow1' tooltip='14:25 3-4-TEN 43NYJ 6 TEN 24 LI: 0.1(No Huddle Shotgun) 7-G.Smith scrambles right end pushed ob at TEN 40 for 3 yards(53-M.Fokou).'>45.58</number><number>0.01</number>
+<number shadow='shadow1' tooltip='14:03 4-1-TEN 40NYJ 6 TEN 24 LI: 0.125-A.Green left end to TEN 42 for -2 yards(91-D.Morgan; 33-M.Griffin).'>45.95</number><number>0.02</number>
+<number shadow='shadow1' tooltip='13:58 1-10-TEN 42NYJ 6 TEN 24 LI: 0.128-C.Johnson right guard to TEN 44 for 2 yards(56-D.Davis).'>46.03</number><number>0.01</number>
+<number shadow='shadow1' tooltip='13:15 2-8-TEN 44NYJ 6 TEN 24 LI: 0.24-R.Fitzpatrick pass short left to 85-N.Washington pushed ob at 50 for 6 yards(30-D.Walls).'>46.75</number><number>0.01</number>
+<number shadow='shadow1' tooltip='12:42 3-2-50NYJ 6 TEN 24 LI: 0.228-C.Johnson left end to TEN 49 for -1 yards(26-D.Landry).'>47.3</number><number>0.01</number>
+<number shadow='shadow1' tooltip='12:00 4-3-TEN 49NYJ 6 TEN 24 LI: 0.2(Punt formation) 6-B.Kern punts 35 yards to NYJ 16 Center-48-B.Brinkley fair catch by 11-J.Kerley.'>48</number><number>0.01</number>
+<number shadow='shadow1' tooltip='11:51 1-10-NYJ 16NYJ 6 TEN 24 LI: 0.1(Shotgun) 7-G.Smith sacked at NYJ 2 for -14 yards(97-K.Klug)FUMBLES (97-K.Klug) RECOVERED by TEN-97-K.Klug at NYJ -2TOUCHDOWN.'>48.15</number><number>0.01</number>
+<number shadow='shadow1' tooltip='11:51 NYJ 6 TEN 24 LI: 2-R.Bironas extra point is GOOD Center-48-B.Brinkley Holder-6-B.Kern.'>48.19</number><number>0.01</number>
+<number shadow='shadow1' tooltip='11:51 NYJ 6 TEN 31 LI: 2-R.Bironas kicks 65 yards from TEN 35 to NYJ 019-E.Gates to NYJ 18 for 18 yards(52-C.McCarthy; 22-J.Battle).'>48.24</number><number>0.01</number>
+<number shadow='shadow1' tooltip='11:37 1-10-NYJ 18NYJ 6 TEN 31 LI: 0.1(Shotgun) 7-G.Smith pass short middle to 81-K.Winslow to NYJ 33 for 15 yards(33-M.Griffin).'>48.38</number><number>0.01</number>
+<number shadow='shadow1' tooltip='11:05 1-10-NYJ 33NYJ 6 TEN 31 LI: 0.1(No Huddle Shotgun) 7-G.Smith pass incomplete short left to 81-K.Winslow (24-C.Sensabaugh) [91-D.Morgan].'>48.92</number><number>0.02</number>
+<number shadow='shadow1' tooltip='11:00 2-10-NYJ 33NYJ 6 TEN 31 LI: 0.1(Shotgun) 7-G.Smith pass short right to 29-B.Powell to NYJ 33 for no gain (99-J.Casey).'>49</number><number>0.01</number>
+<number shadow='shadow1' tooltip='10:31 3-10-NYJ 33NYJ 6 TEN 31 LI: 0.1(No Huddle Shotgun) 7-G.Smith pass deep left to 11-J.Kerley to 50 for 17 yards(24-C.Sensabaugh)NYJ-10-S.Holmes was injured during the playHis return is Questionable.'>49.48</number><number>0.02</number>
+<number shadow='shadow1' tooltip='10:12 1-10-50NYJ 6 TEN 31 LI: 0.1(Shotgun) 7-G.Smith pass short middle to 40-T.Bohanon to TEN 43 for 7 yards(21-G.Wilson).'>49.8</number><number>0.02</number>
+<number shadow='shadow1' tooltip='9:49 2-3-TEN 43NYJ 6 TEN 31 LI: 0.1(Shotgun) 7-G.Smith pass short left to 81-K.Winslow to TEN 38 for 5 yards(53-M.Fokou).'>50.18</number><number>0.02</number>
+<number shadow='shadow1' tooltip='9:24 1-10-TEN 38NYJ 6 TEN 31 LI: 0.1(No Huddle Shotgun) 40-T.Bohanon up the middle to TEN 34 for 4 yards(31-B.Pollard; 53-M.Fokou).'>50.6</number><number>0.02</number>
+<number shadow='shadow1' tooltip='8:57 2-6-TEN 34NYJ 6 TEN 31 LI: 0.1(No Huddle Shotgun) 7-G.Smith pass short middle to 87-J.Cumberland for 34 yards TOUCHDOWN.'>51.05</number><number>0.01</number>
+<number shadow='shadow1' tooltip='8:57 NYJ 6 TEN 31 LI: 2-N.Folk extra point is GOOD Center-46-T.Purdum Holder-1-R.Quigley.'>51.09</number><number>0.01</number>
+<number shadow='shadow1' tooltip='8:57 NYJ 13 TEN 31 LI: 2-N.Folk kicks 65 yards from NYJ 35 to end zone Touchback.'>51.14</number><number>0.01</number>
+<number shadow='shadow1' tooltip='8:48 1-10-TEN 20NYJ 13 TEN 31 LI: 0.222-J.Battle up the middle to TEN 22 for 2 yards(26-D.Landry).'>51.2</number><number>0.01</number>
+<number shadow='shadow1' tooltip='8:04 2-8-TEN 22NYJ 13 TEN 31 LI: 0.222-J.Battle right tackle to TEN 23 for 1 yard(96-M.Wilkerson).'>51.93</number><number>0.01</number>
+<number shadow='shadow1' tooltip='7:19 3-7-TEN 23NYJ 13 TEN 31 LI: 0.2(Shotgun) 4-R.Fitzpatrick pass deep middle to 85-N.Washington for 77 yards TOUCHDOWN.'>52.68</number><number>0.01</number>
+<number shadow='shadow1' tooltip='7:19 NYJ 13 TEN 31 LI: 2-R.Bironas extra point is GOOD Center-48-B.Brinkley Holder-6-B.Kern.'>52.72</number><number>0.01</number>
+<number shadow='shadow1' tooltip='7:19 NYJ 13 TEN 38 LI: 2-R.Bironas kicks 65 yards from TEN 35 to end zone Touchback.'>52.77</number><number>0.01</number>
+<number shadow='shadow1' tooltip='7:06 1-10-NYJ 20NYJ 13 TEN 38 LI: 0.1(Shotgun) 29-B.Powell up the middle to NYJ 29 for 9 yards(20-A.Verner; 53-M.Fokou).'>52.9</number><number>0.01</number>
+<number shadow='shadow1' tooltip='6:46 2-1-NYJ 29NYJ 13 TEN 38 LI: 0.1(No Huddle Shotgun) 29-B.Powell left end to NYJ 31 for 2 yards(53-M.Fokou).'>53.23</number><number>0.01</number>
+<number shadow='shadow1' tooltip='6:20 1-10-NYJ 31NYJ 13 TEN 38 LI: 0.1(No Huddle Shotgun) 7-G.Smith pass short left to 29-B.Powell to NYJ 37 for 6 yards(37-T.Campbell) [55-Z.Brown].'>53.67</number><number>0.01</number>
+<number shadow='shadow1' tooltip='5:50 2-4-NYJ 37NYJ 13 TEN 38 LI: 0.140-T.Bohanon to NYJ 45 for 8 yards(31-B.Pollard).'>54.17</number><number>0.01</number>
+<number shadow='shadow1' tooltip='5:28 1-10-NYJ 45NYJ 13 TEN 38 LI: 0.1(No Huddle Shotgun) 7-G.Smith pass short middle to 81-K.Winslow to TEN 43 for 12 yards(55-Z.Brown).'>54.53</number><number>0.01</number>
+<number shadow='shadow1' tooltip='5:04 1-10-TEN 43NYJ 13 TEN 38 LI: 0.1(No Huddle Shotgun) 40-T.Bohanon up the middle to TEN 39 for 4 yards(53-M.Fokou; 91-D.Morgan).'>54.93</number><number>0.01</number>
+<number shadow='shadow1' tooltip='4:38 2-6-TEN 39NYJ 13 TEN 38 LI: 0.1(No Huddle Shotgun) 7-G.Smith sacked at 50 for -11 yards(55-Z.Brown).'>55.37</number><number>0.01</number>
+<number shadow='shadow1' tooltip='4:11 3-17-50NYJ 13 TEN 38 LI: 0.1(No Huddle Shotgun) 7-G.Smith pass short left to 40-T.Bohanon to TEN 45 for 5 yards(31-B.Pollard; 93-Mi.Martin).'>55.82</number><number>0.01</number>
+<number shadow='shadow1' tooltip='3:26 4-12-TEN 45NYJ 13 TEN 38 LI: 0.1(Punt formation) 1-R.Quigley punts 37 yards to TEN 8 Center-46-T.Purdum fair catch by 25-D.Reynaud.'>56.57</number><number>0.01</number>
+<number shadow='shadow1' tooltip='3:19 1-10-TEN 8NYJ 13 TEN 38 LI: 0.122-J.Battle up the middle to TEN 8 for no gain (93-K.Ellis; 91-S.Richardson).'>56.68</number><number>0.01</number>
+<number shadow='shadow1' tooltip='2:34 2-10-TEN 8NYJ 13 TEN 38 LI: 0.122-J.Battle left guard to TEN 9 for 1 yard(93-K.Ellis).'>57.43</number><number>0.01</number>
+<number shadow='shadow1' tooltip='2:00 3-9-TEN 9NYJ 13 TEN 38 LI: 0.122-J.Battle left end to TEN 29 for 20 yards(39-A.Allen).'>58</number><number>0.01</number>
+<number shadow='shadow1' tooltip='1:12 1-10-TEN 29NYJ 13 TEN 38 LI: 0.14-R.Fitzpatrick kneels to TEN 28 for -1 yards.'>58.8</number><number>0.01</number>
+<number shadow='shadow1' tooltip='0:38 2-11-TEN 28NYJ 13 TEN 38 LI: 0.14-R.Fitzpatrick kneels to TEN 27 for -1 yards.'>59.37</number><number>0</number>
+<number>60</number><number>0</number>
+</row> </chart_data>
+       <draw>
+
+
+
+      <image x='45' y='298'  url='nfllogos/42x50png/NYJ.gif'  layer='foreground' glow = 'glow1'/>
+      <image x='45' y='350'  url='nfllogos/42x50png/TEN.gif'     layer='foreground' glow = 'glow1'/>
+
+
+      <rect x='130' y='300' width='250' height='40' fill_color='00422f' bevel='bevel1' />
+      <text x='135' y='300' width='250' height='40' h_align='left' v_align='middle' color='ffffff' shadow='shadow2' glow=''>New York Jets</text>
+
+      <rect x='130' y='350' width='250' height='40' fill_color='0080c0' bevel='bevel1'  />
+      <text x='135' y='350' width='250' height='40' h_align='left' v_align='middle' color='ffffff' shadow='shadow2' glow='winnerglow'>Tennessee Titans</text>
+
+      <rect x='420' y='300' width='60' height='40' fill_color='00422f' bevel='bevel1'  />
+      <text x='420' y='300' width='60' height='40' h_align='center' v_align='middle' color='ffffff' shadow='shadow2' transition='none' glow=''>13</text>
+
+      <rect x='420' y='350' width='60' height='40' fill_color='0080c0' bevel='bevel1' />
+      <text x='420' y='350' width='60' height='40' h_align='center' v_align='middle' color='ffffff' shadow='shadow2' transition='none' glow='winnerglow'>38</text>
+
+      <text x='-3' y='12'  width='60' height='40' h_align='center' v_align='middle' size='13' shadow='shadow2'>NYJWin </text>
+      <text x='-3' y='218' width='60' height='40' h_align='center' v_align='middle' size='13' shadow='shadow2'>TENWin </text>
+
+     
+              <rect x='540' y='300' width='100' height='35' fill_color='000000' fill_alpha='50'/>
+              <text x='540' y='300' width='100' height='35' h_align='center' v_align='middle' color='ffffff' size='15' shadow='shadow2' >Final</text>
+
+              <text x='540' y='340' width='40' h_align='center' color='000000' size='12' shadow='shadow2'>CBF</text>
+              <text x='600' y='340' width='40' h_align='center' color='000000' size='12' shadow='shadow2'>EI</text>
+
+              <rect x='540' y='360' width='40' height='30' fill_color='000000' fill_alpha='50' />
+              <text x='540' y='360' width='40' height='30' size='12' h_align='center' v_align='middle' color='FFFFFF' shadow='shadow2'>2</text>
+
+              <rect x='600' y='360' width='40' height='30' fill_color='000000' fill_alpha='50' />
+              <text x='600' y='360' width='40' height='30' size='12' h_align='center' v_align='middle' color='FFFFFF' shadow='shadow2'>2.2</text>
+
+              <text x='20' y='420' width='70' height='25' size='12' h_align='left' v_align='middle' color='000000' >9/29/2013</text>
+              <text x='100' y='420' width='200' height='25' size='12' h_align='left' v_align='middle' color='000000' >LP Field</text>
+
+   </draw></chart>

@@ -1,0 +1,311 @@
+
+<chart>
+   <license>ETAS9P33ESHO.945CWK-2XOI1X0-7L</license>
+   <chart_type>scatter</chart_type>
+   <chart_pref trend_thickness='0' line_thickness='3' point_size='0'/>
+
+   <series_color>
+      <color>ffff00</color>
+   </series_color>
+
+   <chart_rect x='45' y='20' width='630' height='230' positive_color='cacaca'  />
+
+  <chart_border top_thickness='0'
+                 bottom_thickness='0'
+                 left_thickness='0'
+                 right_thickness='0'
+                 color='000000'
+                 />
+
+   <tooltip font='Arial' bold='true' size='11' />
+
+   <chart_note type='flag'
+               color='000000'
+               alpha='90'
+               bold='FALSE'
+               size='10'
+               background_color='ffffe0'
+               background_alpha='50'
+               shadow='shadow2'
+               />
+
+   <chart_grid_h thickness='2' color='ffffff' type='dashed'  />
+   <chart_grid_v thickness='2' color='ffffff'   />
+		>
+
+   <legend layout='hide' />
+
+   <chart_guide horizontal='TRUE'
+             vertical='TRUE'
+             thickness='1'
+             color='006400'
+             alpha='100'
+             type='solid'
+             snap_h='TRUE'
+             snap_v='TRUE'
+             radius='3'
+             fill_color='006400'
+             fill_alpha='100'
+             line_color='006400'
+             line_alpha='80'
+             line_thickness='1'
+             text_h_alpha='50'
+             text_v_alpha='00'
+             suffix_h=' WP'
+             decimals='2'
+             bold='FALSE'
+             size='11'
+             text_color='FFFFFF'
+             background_color='006400'
+             />
+   <filter>
+      <shadow id='shadow1' distance='2' angle='60' blurX='5' blurY='5' alpha='50' />
+      <bevel id='bevel1' angle='45' blurX='5' blurY='5' distance='0' />
+      <glow id='glow1' color='ffffff' alpha='0' blurX='7' blurY='7' strength='6' quality='2' inner='FALSE' knockout='FALSE' />
+      <glow id='winnerglow' color='ffffff' alpha='0' blurX='7' blurY='7' strength='5' quality='2' inner='FALSE' knockout='FALSE' />
+   </filter>
+
+    <axis_value_label>
+         <string></string>
+          <string> </string>
+          <null/>
+          <string> </string>
+          <string></string>
+
+       </axis_value_label>
+		
+	   <axis_ticks category_ticks='false'/>
+
+       <axis_value min='0' max='1' steps='4'  decimals='2' show_min='true' size='13' shadow='shadow2' />     
+            <axis_category
+               min='0'
+               max='60'
+               steps='4'
+               mode='all'
+               decimals='0'
+               size='13'
+               shadow='shadow2'
+               />
+
+       <axis_category_label>
+          <string>Kickoff</string>
+          <string></string>
+          <string>Halftime</string>
+          <string></string>
+          <string>End</string>
+
+       </axis_category_label>
+
+
+        <chart_data>
+       <row>
+	      <null/><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number>
+              <number>x</number><number>y</number>
+              </row><row><string></string>
+
+                     <number shadow='shadow1'>0</number><number>.5</number><number shadow='shadow1' tooltip='15:00 PIT 0 CIN 0 LI: 2-M.Nugent kicks 64 yards from CIN 35 to PIT 123-F.Jones to PIT 35 for 34 yards(24-A.Jones).'>0.09</number><number>0.54</number>
+<number shadow='shadow1' tooltip='14:33 2-10-PIT 35PIT 0 CIN 0 LI: 1.223-F.Jones left guard to PIT 36 for 1 yard(55-V.Burfict; 94-D.Peko).'>0.45</number><number>0.51</number>
+<number shadow='shadow1' tooltip='13:48 3-9-PIT 36PIT 0 CIN 0 LI: 1.1(Shotgun) 23-F.Jones left tackle to PIT 40 for 4 yards(95-W.Gilberry).'>1.2</number><number>0.48</number>
+<number shadow='shadow1' tooltip='13:15 4-5-PIT 40PIT 0 CIN 0 LI: 0.74-Z.Mesko punts 45 yards to CIN 15 Center-60-G.Warren24-A.Jones to CIN 21 for 6 yards(93-J.Worilds).'>1.75</number><number>0.48</number>
+<number shadow='shadow1' tooltip='13:05 1-10-CIN 21PIT 0 CIN 0 LI: 1.642-B.Green-Ellis left tackle to CIN 26 for 5 yards(95-J.Jones).'>1.92</number><number>0.49</number>
+<number shadow='shadow1' tooltip='12:35 2-5-CIN 26PIT 0 CIN 0 LI: 1.414-A.Dalton pass incomplete deep right to 85-T.Eifert.'>2.42</number><number>0.5</number>
+<number shadow='shadow1' tooltip='12:28 3-5-CIN 26PIT 0 CIN 0 LI: 1.3(Shotgun) 14-A.Dalton pass incomplete short middle to 85-T.Eifert [99-B.Keisel].'>2.53</number><number>0.54</number>
+<number shadow='shadow1' tooltip='12:23 4-5-CIN 26PIT 0 CIN 0 LI: 0.910-K.Huber punts 48 yards to PIT 26 Center-46-C.Harris84-A.Brown to CIN 34 for 40 yards(51-J.DiManche).'>2.62</number><number>0.61</number>
+<number shadow='shadow1' tooltip='12:08 1-10-CIN 34PIT 0 CIN 0 LI: 1.5(Shotgun) 7-B.Roethlisberger pass incomplete deep left to 88-E.Sanders.'>2.87</number><number>0.58</number>
+<number shadow='shadow1' tooltip='12:02 2-10-CIN 34PIT 0 CIN 0 LI: 1.2(Shotgun) 7-B.Roethlisberger sacked at CIN 40 for -6 yards(sack split by 96-C.Dunlap and 94-D.Peko).'>2.97</number><number>0.53</number>
+<number shadow='shadow1' tooltip='11:26 3-16-CIN 40PIT 0 CIN 0 LI: 0.8(Shotgun) 23-F.Jones up the middle to CIN 26 for 14 yards(20-R.Nelson; 43-G.Iloka).'>3.57</number><number>0.55</number>
+<number shadow='shadow1' tooltip='10:47 4-2-CIN 26PIT 0 CIN 0 LI: 0.86-S.Suisham 44 yard field goal is GOOD Center-60-G.Warren Holder-4-Z.Mesko.'>4.22</number><number>0.58</number>
+<number shadow='shadow1' tooltip='10:47 PIT 3 CIN 0 LI: 6-S.Suisham kicks 65 yards from PIT 35 to end zone Touchback.'>4.31</number><number>0.6</number>
+<number shadow='shadow1' tooltip='10:38 2-10-CIN 20PIT 3 CIN 0 LI: 1.3(Shotgun) 14-A.Dalton pass short right to 18-A.Green to CIN 28 for 8 yards(24-I.Taylor).'>4.37</number><number>0.59</number>
+<number shadow='shadow1' tooltip='10:00 3-2-CIN 28PIT 3 CIN 0 LI: 1.2(Shotgun) 14-A.Dalton pass short left to 18-A.Green to CIN 32 for 4 yards(24-I.Taylor).'>5</number><number>0.57</number>
+<number shadow='shadow1' tooltip='9:20 1-10-CIN 32PIT 3 CIN 0 LI: 1.3(Shotgun) 42-B.Green-Ellis right guard to CIN 42 for 10 yards(43-T.Polamalu; 25-R.Clark).'>5.67</number><number>0.55</number>
+<number shadow='shadow1' tooltip='8:44 1-10-CIN 42PIT 3 CIN 0 LI: 1.3(Shotgun) 14-A.Dalton pass short right to 82-M.Jones to CIN 49 for 7 yards(22-W.Gay).'>6.27</number><number>0.53</number>
+<number shadow='shadow1' tooltip='8:18 2-3-CIN 49PIT 3 CIN 0 LI: 1.442-B.Green-Ellis right end to CIN 47 for -2 yards(22-W.Gay 56-L.Woodley).'>6.7</number><number>0.56</number>
+<number shadow='shadow1' tooltip='7:31 3-5-CIN 47PIT 3 CIN 0 LI: 1.1(Shotgun) PENALTY on CIN-68-K.Zeitler False Start 5 yards enforced at CIN 47 - No Play.'>7.48</number><number>0.58</number>
+<number shadow='shadow1' tooltip='7:14 3-10-CIN 42PIT 3 CIN 0 LI: 1(Shotgun) 14-A.Dalton pass incomplete short left to 84-J.Gresham.'>7.77</number><number>0.61</number>
+<number shadow='shadow1' tooltip='7:08 4-10-CIN 42PIT 3 CIN 0 LI: 0.710-K.Huber punts 55 yards to PIT 3 Center-46-C.Harris out of bounds.'>7.87</number><number>0.59</number>
+<number shadow='shadow1' tooltip='6:57 1-10-PIT 3PIT 3 CIN 0 LI: 1.623-F.Jones right tackle to PIT 6 for 3 yards(55-V.Burfict).'>8.05</number><number>0.57</number>
+<number shadow='shadow1' tooltip='6:17 2-7-PIT 6PIT 3 CIN 0 LI: 1.47-B.Roethlisberger pass short right to 84-A.Brown to PIT 14 for 8 yards(23-T.Newman).'>8.72</number><number>0.59</number>
+<number shadow='shadow1' tooltip='5:37 1-10-PIT 14PIT 3 CIN 0 LI: 1.67-B.Roethlisberger scrambles right end ran ob at PIT 20 for 6 yards(58-R.Maualuga).'>9.38</number><number>0.6</number>
+<number shadow='shadow1' tooltip='5:05 2-4-PIT 20PIT 3 CIN 0 LI: 1.7(Shotgun) 23-F.Jones left tackle to PIT 24 for 4 yards(58-R.Maualuga; 55-V.Burfict).'>9.92</number><number>0.61</number>
+<number shadow='shadow1' tooltip='4:24 1-10-PIT 24PIT 3 CIN 0 LI: 1.67-B.Roethlisberger pass incomplete short right to 89-J.Cotchery.'>10.6</number><number>0.6</number>
+<number shadow='shadow1' tooltip='4:17 2-10-PIT 24PIT 3 CIN 0 LI: 1.57-B.Roethlisberger pass incomplete deep left to 84-A.BrownPENALTY on CIN-24-A.Jones Defensive Pass Interference 24 yards enforced at PIT 24 - No Play.'>10.72</number><number>0.66</number>
+<number shadow='shadow1' tooltip='4:11 1-10-PIT 48PIT 3 CIN 0 LI: 1.327-J.Dwyer left end to 50 for 2 yards(29-L.Hall; 58-R.Maualuga).'>10.82</number><number>0.65</number>
+<number shadow='shadow1' tooltip='3:30 2-8-50PIT 3 CIN 0 LI: 1.27-B.Roethlisberger pass deep left to 81-D.Paulson to CIN 16 for 34 yards(20-R.Nelson)Cincinnati challenged the runner was down by contact ruling and the play was REVERSED7-B.Roethlisberger pass deep left to 81-D.Paulson to CIN 16 for 34 yards(24-A.Jones)FUMBLES (24-A.Jones) RECOVERED by CIN-24-A.Jones at CIN 1324-A.Jones dead ball declared at CIN 13 for no gain.'>11.5</number><number>0.62</number>
+<number shadow='shadow1' tooltip='3:22 1-10-CIN 13PIT 3 CIN 0 LI: 1.5(Shotgun) 14-A.Dalton pass short left to 84-J.Gresham to CIN 18 for 5 yards(98-V.Williams).'>11.63</number><number>0.6</number>
+<number shadow='shadow1' tooltip='2:51 2-5-CIN 18PIT 3 CIN 0 LI: 1.325-G.Bernard right guard to CIN 26 for 8 yards(25-R.Clark; 43-T.Polamalu).'>12.15</number><number>0.58</number>
+<number shadow='shadow1' tooltip='2:22 1-10-CIN 26PIT 3 CIN 0 LI: 1.314-A.Dalton pass deep middle to 85-T.Eifert to PIT 13 for 61 yards(24-I.Taylor).'>12.63</number><number>0.43</number>
+<number shadow='shadow1' tooltip='1:36 1-10-PIT 13PIT 3 CIN 0 LI: 1.6(Shotgun) 14-A.Dalton pass short left to 12-M.Sanu to PIT 7 for 6 yards(22-W.Gay).'>13.4</number><number>0.42</number>
+<number shadow='shadow1' tooltip='1:03 2-4-PIT 7PIT 3 CIN 0 LI: 1.725-G.Bernard right guard for 7 yards TOUCHDOWN.'>13.95</number><number>0.39</number>
+<number shadow='shadow1' tooltip='1:03 PIT 3 CIN 0 LI: 2-M.Nugent extra point is GOOD Center-46-C.Harris Holder-10-K.Huber.'>13.99</number><number>0.39</number>
+<number shadow='shadow1' tooltip='1:03 PIT 3 CIN 7 LI: 2-M.Nugent kicks 65 yards from CIN 35 to end zone Touchback.'>14.04</number><number>0.37</number>
+<number shadow='shadow1' tooltip='0:57 1-10-PIT 20PIT 3 CIN 7 LI: 1.3(Shotgun) 23-F.Jones left end to PIT 23 for 3 yards(24-A.Jones).'>14.05</number><number>0.38</number>
+<number shadow='shadow1' tooltip='0:26 2-7-PIT 23PIT 3 CIN 7 LI: 1.3(Shotgun) 7-B.Roethlisberger pass incomplete short middle to 89-J.Cotchery.'>14.57</number><number>0.36</number>
+<number shadow='shadow1' tooltip='0:20 3-7-PIT 23PIT 3 CIN 7 LI: 1.1(Shotgun) 7-B.Roethlisberger pass incomplete deep right to 89-J.Cotchery.'>14.67</number><number>0.33</number>
+<number shadow='shadow1' tooltip='0:15 4-7-PIT 23PIT 3 CIN 7 LI: 0.84-Z.Mesko punts 49 yards to CIN 28 Center-60-G.Warren19-B.Tate to CIN 42 for 14 yards(46-W.Johnson).'>14.75</number><number>0.32</number>
+<number shadow='shadow1' tooltip='0:01 1-10-CIN 42PIT 3 CIN 7 LI: 1.4(Shotgun) PENALTY on CIN-84-J.Gresham False Start 5 yards enforced at CIN 42 - No Play.'>14.98</number><number>0.33</number>
+<number shadow='shadow1' tooltip='15:00 2-1-PIT 49PIT 3 CIN 7 LI: 1.342-B.Green-Ellis left guard to PIT 35 for 14 yards(25-R.Clark).'>15</number><number>0.27</number>
+<number shadow='shadow1' tooltip='14:16 1-10-PIT 35PIT 3 CIN 7 LI: 1.314-A.Dalton pass incomplete deep middle to 18-A.Green.'>15.73</number><number>0.3</number>
+<number shadow='shadow1' tooltip='14:08 2-10-PIT 35PIT 3 CIN 7 LI: 1(Shotgun) 14-A.Dalton pass short left to 82-M.Jones pushed ob at PIT 23 for 12 yards(94-L.Timmons).'>15.87</number><number>0.25</number>
+<number shadow='shadow1' tooltip='13:35 1-10-PIT 23PIT 3 CIN 7 LI: 1.2(Shotgun) 14-A.Dalton pass incomplete deep middle to 84-J.Gresham.'>16.42</number><number>0.25</number>
+<number shadow='shadow1' tooltip='13:29 2-10-PIT 23PIT 3 CIN 7 LI: 1.2(Shotgun) 14-A.Dalton pass incomplete short middle to 25-G.Bernard (97-C.Heyward){Tipped at the line of scrimmage}'>16.52</number><number>0.27</number>
+<number shadow='shadow1' tooltip='13:24 3-10-PIT 23PIT 3 CIN 7 LI: 1(Shotgun) 14-A.Dalton pass incomplete deep left to 12-M.Sanu.'>16.6</number><number>0.31</number>
+<number shadow='shadow1' tooltip='13:19 4-10-PIT 23PIT 3 CIN 7 LI: 0.62-M.Nugent 41 yard field goal is GOOD Center-46-C.Harris Holder-10-K.Huber.'>16.68</number><number>0.29</number>
+<number shadow='shadow1' tooltip='13:19 PIT 3 CIN 10 LI: 2-M.Nugent kicks 65 yards from CIN 35 to end zone Touchback.'>16.77</number><number>0.28</number>
+<number shadow='shadow1' tooltip='13:10 2-10-PIT 20PIT 3 CIN 10 LI: 1.333-I.Redman left guard to PIT 22 for 2 yards(55-V.Burfict).'>16.83</number><number>0.26</number>
+<number shadow='shadow1' tooltip='12:24 3-8-PIT 22PIT 3 CIN 10 LI: 1.1(Shotgun) 7-B.Roethlisberger pass incomplete deep right to 89-J.Cotchery (93-M.Johnson).'>17.6</number><number>0.23</number>
+<number shadow='shadow1' tooltip='12:19 4-8-PIT 22PIT 3 CIN 10 LI: 0.84-Z.Mesko punts 43 yards to CIN 35 Center-60-G.Warren19-B.Tate to CIN 41 for 6 yards(93-J.Worilds; 55-K.Wilson)PENALTY on CIN-88-R.Whalen Illegal Block Above the Waist 10 yards enforced at CIN 38{Tate credited with 3 yards on the return due to the penalty}'>17.68</number><number>0.26</number>
+<number shadow='shadow1' tooltip='12:07 1-10-CIN 28PIT 3 CIN 10 LI: 0.942-B.Green-Ellis right tackle to CIN 28 for no gain (95-J.Jones).'>17.88</number><number>0.26</number>
+<number shadow='shadow1' tooltip='11:35 2-10-CIN 28PIT 3 CIN 10 LI: 0.9(Shotgun) 14-A.Dalton pass short left to 84-J.Gresham to CIN 34 for 6 yards(95-J.Jones).'>18.42</number><number>0.25</number>
+<number shadow='shadow1' tooltip='10:53 3-4-CIN 34PIT 3 CIN 10 LI: 0.9(Shotgun) 14-A.Dalton pass short right to 12-M.Sanu to CIN 41 for 7 yards(29-S.Thomas).'>19.12</number><number>0.23</number>
+<number shadow='shadow1' tooltip='10:13 1-10-CIN 41PIT 3 CIN 10 LI: 1(Shotgun) 14-A.Dalton pass incomplete short left to 82-M.Jones (43-T.Polamalu).'>19.78</number><number>0.23</number>
+<number shadow='shadow1' tooltip='10:11 2-10-CIN 41PIT 3 CIN 10 LI: 114-A.Dalton pass short right to 85-T.Eifert to CIN 41 for no gain (56-L.Woodley).'>19.82</number><number>0.25</number>
+<number shadow='shadow1' tooltip='9:28 3-10-CIN 41PIT 3 CIN 10 LI: 0.8(Shotgun) 14-A.Dalton pass incomplete deep middle to 12-M.Sanu.'>20.53</number><number>0.28</number>
+<number shadow='shadow1' tooltip='9:21 4-10-CIN 41PIT 3 CIN 10 LI: 0.510-K.Huber punts 43 yards to PIT 16 Center-46-C.Harris fair catch by 84-A.Brown.'>20.65</number><number>0.27</number>
+<number shadow='shadow1' tooltip='9:13 1-10-PIT 16PIT 3 CIN 10 LI: 1.37-B.Roethlisberger pass short left to 88-E.Sanders to PIT 25 for 9 yards(29-L.Hall; 55-V.Burfict).'>20.78</number><number>0.28</number>
+<number shadow='shadow1' tooltip='8:49 2-1-PIT 25PIT 3 CIN 10 LI: 1.223-F.Jones left guard to PIT 28 for 3 yards(58-R.Maualuga; 98-B.Thompson).'>21.18</number><number>0.28</number>
+<number shadow='shadow1' tooltip='8:14 1-10-PIT 28PIT 3 CIN 10 LI: 1.1(Shotgun) 23-F.Jones left end to PIT 31 for 3 yards(24-A.Jones).'>21.77</number><number>0.28</number>
+<number shadow='shadow1' tooltip='7:32 2-7-PIT 31PIT 3 CIN 10 LI: 1(Shotgun) 7-B.Roethlisberger pass short left to 84-A.Brown to PIT 45 for 14 yards(58-R.Maualuga).'>22.47</number><number>0.31</number>
+<number shadow='shadow1' tooltip='6:45 1-10-PIT 45PIT 3 CIN 10 LI: 1.123-F.Jones right guard to PIT 47 for 2 yards(58-R.Maualuga).'>23.25</number><number>0.3</number>
+<number shadow='shadow1' tooltip='6:04 2-8-PIT 47PIT 3 CIN 10 LI: 189-J.Cotchery right end to PIT 42 for -5 yards(96-C.Dunlap).'>23.93</number><number>0.27</number>
+<number shadow='shadow1' tooltip='5:26 3-13-PIT 42PIT 3 CIN 10 LI: 0.8(Shotgun) 7-B.Roethlisberger pass incomplete short left to 89-J.Cotchery.'>24.57</number><number>0.25</number>
+<number shadow='shadow1' tooltip='5:20 4-13-PIT 42PIT 3 CIN 10 LI: 0.64-Z.Mesko punts 38 yards to CIN 20 Center-60-G.Warren fair catch by 19-B.Tate.'>24.67</number><number>0.25</number>
+<number shadow='shadow1' tooltip='5:13 1-10-CIN 20PIT 3 CIN 10 LI: 1.125-G.Bernard left guard to CIN 24 for 4 yards(93-J.Worilds; 55-K.Wilson).'>24.78</number><number>0.25</number>
+<number shadow='shadow1' tooltip='4:33 2-6-CIN 24PIT 3 CIN 10 LI: 1(Shotgun) 14-A.Dalton pass incomplete deep right to 81-Al.Smith.'>25.45</number><number>0.26</number>
+<number shadow='shadow1' tooltip='4:28 3-6-CIN 24PIT 3 CIN 10 LI: 0.9(Shotgun) 14-A.Dalton pass incomplete short right to 18-A.Green.'>25.53</number><number>0.29</number>
+<number shadow='shadow1' tooltip='4:23 4-6-CIN 24PIT 3 CIN 10 LI: 0.610-K.Huber punts 38 yards to PIT 38 Center-46-C.Harris84-A.Brown ran ob at PIT 35 for -3 yards(57-V.Rey).'>25.62</number><number>0.29</number>
+<number shadow='shadow1' tooltip='4:13 1-10-PIT 35PIT 3 CIN 10 LI: 1.1(Shotgun) 7-B.Roethlisberger pass short middle to 33-I.Redman to PIT 36 for 1 yard(23-T.Newman).'>25.78</number><number>0.28</number>
+<number shadow='shadow1' tooltip='3:37 2-9-PIT 36PIT 3 CIN 10 LI: 1(Shotgun) 7-B.Roethlisberger pass short left to 81-D.Paulson to PIT 37 for 1 yard(58-R.Maualuga).'>26.38</number><number>0.27</number>
+<number shadow='shadow1' tooltip='2:53 3-8-PIT 37PIT 3 CIN 10 LI: 0.8(Shotgun) 7-B.Roethlisberger pass deep middle to 88-E.Sanders to CIN 44 for 19 yards(24-A.Jones).'>27.12</number><number>0.32</number>
+<number shadow='shadow1' tooltip='2:11 1-10-CIN 44PIT 3 CIN 10 LI: 1.1(Shotgun) 7-B.Roethlisberger pass short middle to 88-E.Sanders to CIN 1 for 43 yards(27-D.Kirkpatrick).'>27.82</number><number>0.46</number>
+<number shadow='shadow1' tooltip='2:00 1-1-CIN 1PIT 3 CIN 10 LI: 27-B.Roethlisberger pass short right to 14-D.Moye for 1 yard TOUCHDOWN.'>28</number><number>0.47</number>
+<number shadow='shadow1' tooltip='2:00 PIT 3 CIN 10 LI: 6-S.Suisham extra point is GOOD Center-60-G.Warren Holder-4-Z.Mesko.'>28.04</number><number>0.47</number>
+<number shadow='shadow1' tooltip='2:00 PIT 10 CIN 10 LI: 6-S.Suisham kicks 67 yards from PIT 35 to CIN -219-B.Tate to CIN 15 for 17 yards(95-J.Jones).'>28.09</number><number>0.49</number>
+<number shadow='shadow1' tooltip='1:49 1-10-CIN 15PIT 10 CIN 10 LI: 1.6(Shotgun) 14-A.Dalton pass short left to 18-A.Green to CIN 22 for 7 yards(24-I.Taylor).'>28.18</number><number>0.48</number>
+<number shadow='shadow1' tooltip='1:23 2-3-CIN 22PIT 10 CIN 10 LI: 1.5(Shotgun) 42-B.Green-Ellis right tackle to CIN 25 for 3 yards(94-L.Timmons).'>28.62</number><number>0.47</number>
+<number shadow='shadow1' tooltip='0:55 1-10-CIN 25PIT 10 CIN 10 LI: 1.6(Shotgun) 42-B.Green-Ellis right guard to CIN 29 for 4 yards(43-T.Polamalu; 99-B.Keisel).'>29.08</number><number>0.48</number>
+<number shadow='shadow1' tooltip='0:49 2-6-CIN 29PIT 10 CIN 10 LI: 1.4(Shotgun) 14-A.Dalton pass short middle to 84-J.Gresham pushed ob at CIN 40 for 11 yards(29-S.Thomas) [97-C.Heyward].'>29.18</number><number>0.45</number>
+<number shadow='shadow1' tooltip='0:42 1-10-CIN 40PIT 10 CIN 10 LI: 1.4(Shotgun) 14-A.Dalton pass incomplete short right to 84-J.Gresham (97-C.Heyward).'>29.3</number><number>0.47</number>
+<number shadow='shadow1' tooltip='0:37 2-10-CIN 40PIT 10 CIN 10 LI: 1.2(Shotgun) 14-A.Dalton pass short right to 18-A.Green pushed ob at CIN 47 for 7 yards(43-T.Polamalu; 98-V.Williams).'>29.38</number><number>0.46</number>
+<number shadow='shadow1' tooltip='0:28 3-3-CIN 47PIT 10 CIN 10 LI: 1.1(Shotgun) 14-A.Dalton pass short middle to 85-T.Eifert to PIT 48 for 5 yards(29-S.Thomas) [56-L.Woodley].'>29.53</number><number>0.43</number>
+<number shadow='shadow1' tooltip='0:23 1-10-PIT 48PIT 10 CIN 10 LI: 1.3(Shotgun) 14-A.Dalton pass incomplete short right to 18-A.Green.'>29.62</number><number>0.45</number>
+<number shadow='shadow1' tooltip='0:17 2-10-PIT 48PIT 10 CIN 10 LI: 1.1(Shotgun) 14-A.Dalton pass incomplete deep right to 18-A.Green.'>29.72</number><number>0.47</number>
+<number shadow='shadow1' tooltip='0:11 3-10-PIT 48PIT 10 CIN 10 LI: 0.9(Shotgun) 14-A.Dalton pass short middle to 42-B.Green-Ellis to PIT 43 for 5 yards(94-L.Timmons; 29-S.Thomas).'>29.82</number><number>0.5</number>
+<number shadow='shadow1' tooltip='0:05 4-5-PIT 43PIT 10 CIN 10 LI: 0.5(Shotgun) 14-A.Dalton pass incomplete deep right to 12-M.Sanu (24-I.Taylor).'>29.92</number><number>0.53</number>
+<number shadow='shadow1' tooltip='0:05 PIT 10 CIN 10 LI: 6-S.Suisham kicks 65 yards from PIT 35 to end zone Touchback.'>30.01</number><number>0.48</number>
+<number shadow='shadow1' tooltip='14:24 2-6-CIN 24PIT 10 CIN 10 LI: 1.4(Shotgun) 14-A.Dalton scrambles left end to CIN 27 for 3 yards(56-L.Woodley).'>30.6</number><number>0.5</number>
+<number shadow='shadow1' tooltip='13:41 3-3-CIN 27PIT 10 CIN 10 LI: 1.2(Shotgun) 14-A.Dalton pass incomplete short middle [95-J.Jones].'>31.32</number><number>0.54</number>
+<number shadow='shadow1' tooltip='13:34 4-3-CIN 27PIT 10 CIN 10 LI: 0.810-K.Huber punts 41 yards to PIT 32 Center-46-C.Harris fair catch by 84-A.BrownPENALTY on CIN Illegal Formation 5 yards enforced between downs.'>31.43</number><number>0.55</number>
+<number shadow='shadow1' tooltip='13:27 1-10-PIT 37PIT 10 CIN 10 LI: 1.533-I.Redman left tackle to PIT 38 for 1 yard(93-M.Johnson).'>31.55</number><number>0.53</number>
+<number shadow='shadow1' tooltip='12:58 2-9-PIT 38PIT 10 CIN 10 LI: 1.2(Shotgun) 7-B.Roethlisberger pass short right to 84-A.Brown to PIT 37 for -1 yards(23-T.Newman).'>32.03</number><number>0.5</number>
+<number shadow='shadow1' tooltip='12:22 3-10-PIT 37PIT 10 CIN 10 LI: 0.9(Shotgun) 7-B.Roethlisberger pass short right to 84-A.Brown ran ob at CIN 30 for 33 yards(43-G.Iloka)PENALTY on PIT-77-M.Gilbert Tripping 10 yards enforced at PIT 37 - No Play.'>32.63</number><number>0.47</number>
+<number shadow='shadow1' tooltip='11:53 3-20-PIT 27PIT 10 CIN 10 LI: 0.9(Shotgun) 7-B.Roethlisberger sacked at PIT 16 for -11 yards(97-G.Atkins).'>33.12</number><number>0.44</number>
+<number shadow='shadow1' tooltip='11:28 4-31-PIT 16PIT 10 CIN 10 LI: 0.84-Z.Mesko punts 52 yards to CIN 32 Center-60-G.Warren19-B.Tate to CIN 34 for 2 yards(55-K.Wilson; 95-J.Jones)PENALTY on CIN-40-S.Williams Offensive Holding 10 yards enforced at CIN 32{Tate credited with 0 return yards due to the penalty}'>33.53</number><number>0.48</number>
+<number shadow='shadow1' tooltip='11:16 1-10-CIN 22PIT 10 CIN 10 LI: 1.5(Shotgun) 25-G.Bernard right tackle to CIN 25 for 3 yards(94-L.Timmons; 55-K.Wilson).'>33.73</number><number>0.48</number>
+<number shadow='shadow1' tooltip='10:40 2-7-CIN 25PIT 10 CIN 10 LI: 1.5(Shotgun) 14-A.Dalton pass short right to 84-J.Gresham to PIT 49 for 26 yards(43-T.Polamalu).'>34.33</number><number>0.43</number>
+<number shadow='shadow1' tooltip='10:01 1-10-PIT 49PIT 10 CIN 10 LI: 1.325-G.Bernard right guard to PIT 44 for 5 yards(55-K.Wilson).'>34.98</number><number>0.43</number>
+<number shadow='shadow1' tooltip='9:23 2-5-PIT 44PIT 10 CIN 10 LI: 1.3(Shotgun) 14-A.Dalton scrambles up the middle to PIT 40 for 4 yards(94-L.Timmons).'>35.62</number><number>0.42</number>
+<number shadow='shadow1' tooltip='8:22 3-1-PIT 40PIT 10 CIN 10 LI: 1.342-B.Green-Ellis left guard to PIT 38 for 2 yards(96-E.Hood).'>36.63</number><number>0.4</number>
+<number shadow='shadow1' tooltip='7:46 1-10-PIT 38PIT 10 CIN 10 LI: 1.525-G.Bernard right guard to PIT 35 for 3 yards(94-L.Timmons).'>37.23</number><number>0.4</number>
+<number shadow='shadow1' tooltip='7:02 2-7-PIT 35PIT 10 CIN 10 LI: 1.514-A.Dalton pass short right to 84-J.Gresham to PIT 27 for 8 yards(25-R.Clark) [56-L.Woodley].'>37.97</number><number>0.38</number>
+<number shadow='shadow1' tooltip='6:17 1-10-PIT 27PIT 10 CIN 10 LI: 1.5(Shotgun) 14-A.Dalton pass short middle to 25-G.Bernard for 27 yards TOUCHDOWN.'>38.72</number><number>0.25</number>
+<number shadow='shadow1' tooltip='6:17 PIT 10 CIN 10 LI: 2-M.Nugent extra point is GOOD Center-46-C.Harris Holder-10-K.Huber.'>38.76</number><number>0.25</number>
+<number shadow='shadow1' tooltip='6:17 PIT 10 CIN 17 LI: 2-M.Nugent kicks 65 yards from CIN 35 to end zone Touchback.'>38.81</number><number>0.23</number>
+<number shadow='shadow1' tooltip='6:08 1-10-PIT 20PIT 10 CIN 17 LI: 0.9(Shotgun) 7-B.Roethlisberger pass short right to 88-E.Sanders to PIT 19 for -1 yards(29-L.Hall).'>38.87</number><number>0.22</number>
+<number shadow='shadow1' tooltip='5:34 2-11-PIT 19PIT 10 CIN 17 LI: 0.9(Shotgun) 7-B.Roethlisberger pass short middle to 84-A.Brown to PIT 28 for 9 yards(24-A.Jones).'>39.43</number><number>0.23</number>
+<number shadow='shadow1' tooltip='4:59 3-2-PIT 28PIT 10 CIN 17 LI: 0.8(Shotgun) 33-I.Redman right guard to PIT 29 for 1 yard(55-V.Burfict; 43-G.Iloka)CIN-58-R.Maualuga was injured during the play.'>40.02</number><number>0.2</number>
+<number shadow='shadow1' tooltip='4:29 4-1-PIT 29PIT 10 CIN 17 LI: 0.64-Z.Mesko punts 48 yards to CIN 23 Center-60-G.Warren fair catch by 19-B.Tate.'>40.52</number><number>0.22</number>
+<number shadow='shadow1' tooltip='4:21 1-10-CIN 23PIT 10 CIN 17 LI: 1.325-G.Bernard left end to CIN 28 for 5 yards(99-B.Keisel).'>40.65</number><number>0.21</number>
+<number shadow='shadow1' tooltip='3:42 2-5-CIN 28PIT 10 CIN 17 LI: 1.3(Shotgun) 14-A.Dalton pass short left to 18-A.Green to CIN 38 for 10 yards(24-I.Taylor).'>41.3</number><number>0.19</number>
+<number shadow='shadow1' tooltip='3:01 1-10-CIN 38PIT 10 CIN 17 LI: 1.225-G.Bernard right guard pushed ob at CIN 49 for 11 yards(22-W.Gay)PENALTY on CIN-84-J.Gresham Offensive Holding 10 yards enforced at CIN 38 - No Play.'>41.98</number><number>0.2</number>
+<number shadow='shadow1' tooltip='2:29 1-20-CIN 28PIT 10 CIN 17 LI: 1.3(Shotgun) 14-A.Dalton pass short middle to 84-J.Gresham to CIN 38 for 10 yards(43-T.Polamalu).'>42.52</number><number>0.18</number>
+<number shadow='shadow1' tooltip='1:29 2-10-CIN 38PIT 10 CIN 17 LI: 1.2(Shotgun) 14-A.Dalton pass short left to 12-M.Sanu pushed ob at CIN 40 for 2 yards(94-L.Timmons; 99-B.Keisel).'>43.52</number><number>0.18</number>
+<number shadow='shadow1' tooltip='0:56 3-8-CIN 40PIT 10 CIN 17 LI: 1.1(Shotgun) 14-A.Dalton scrambles right end to CIN 43 for 3 yards(25-R.Clark).'>44.07</number><number>0.2</number>
+<number shadow='shadow1' tooltip='0:20 4-5-CIN 43PIT 10 CIN 17 LI: 0.810-K.Huber punts 40 yards to PIT 17 Center-46-C.Harris fair catch by 84-A.Brown.'>44.67</number><number>0.18</number>
+<number shadow='shadow1' tooltip='0:11 1-10-PIT 17PIT 10 CIN 17 LI: 0.77-B.Roethlisberger pass incomplete short right to 85-D.Johnson [95-W.Gilberry].'>44.82</number><number>0.19</number>
+<number shadow='shadow1' tooltip='0:05 2-10-PIT 17PIT 10 CIN 17 LI: 0.87-B.Roethlisberger pass incomplete deep left to 84-A.Brown.'>44.92</number><number>0.18</number>
+<number shadow='shadow1' tooltip='15:00 3-10-PIT 17PIT 10 CIN 17 LI: 0.7(Shotgun) 7-B.Roethlisberger pass incomplete deep left to 88-E.Sanders.'>45</number><number>0.16</number>
+<number shadow='shadow1' tooltip='14:55 4-10-PIT 17PIT 10 CIN 17 LI: 0.54-Z.Mesko punts 51 yards to CIN 32 Center-60-G.Warren19-B.Tate to CIN 36 for 4 yards(55-K.Wilson).'>45.08</number><number>0.17</number>
+<number shadow='shadow1' tooltip='14:42 1-10-CIN 36PIT 10 CIN 17 LI: 1.325-G.Bernard left guard to CIN 39 for 3 yards(94-L.Timmons; 98-V.Williams).'>45.3</number><number>0.16</number>
+<number shadow='shadow1' tooltip='14:05 2-7-CIN 39PIT 10 CIN 17 LI: 1.314-A.Dalton pass short middle to 12-M.Sanu to 50 for 11 yards(25-R.Clark).'>45.92</number><number>0.14</number>
+<number shadow='shadow1' tooltip='13:25 1-10-50PIT 10 CIN 17 LI: 1.2(Shotgun) 14-A.Dalton pass short right to 18-A.Green to PIT 45 for 5 yards(24-I.Taylor).'>46.58</number><number>0.13</number>
+<number shadow='shadow1' tooltip='12:39 2-5-PIT 45PIT 10 CIN 17 LI: 1.1(Shotgun) 14-A.Dalton pass incomplete deep right to 18-A.Green.'>47.35</number><number>0.14</number>
+<number shadow='shadow1' tooltip='12:32 3-5-PIT 45PIT 10 CIN 17 LI: 1(Shotgun) 14-A.Dalton pass short right to 82-M.Jones pushed ob at PIT 29 for 16 yards(22-W.Gay).'>47.47</number><number>0.11</number>
+<number shadow='shadow1' tooltip='12:04 1-10-PIT 29PIT 10 CIN 17 LI: 0.812-M.Sanu right guard to PIT 25 for 4 yards(95-J.Jones).'>47.93</number><number>0.09</number>
+<number shadow='shadow1' tooltip='11:29 2-6-PIT 25PIT 10 CIN 17 LI: 0.9(Shotgun) 42-B.Green-Ellis left guard to PIT 21 for 4 yards(95-J.Jones).'>48.52</number><number>0.09</number>
+<number shadow='shadow1' tooltip='10:52 3-2-PIT 21PIT 10 CIN 17 LI: 0.842-B.Green-Ellis right guard to PIT 19 for 2 yards(95-J.Jones).'>49.13</number><number>0.08</number>
+<number shadow='shadow1' tooltip='10:10 1-10-PIT 19PIT 10 CIN 17 LI: 0.742-B.Green-Ellis left guard to PIT 15 for 4 yards(96-E.Hood).'>49.83</number><number>0.05</number>
+<number shadow='shadow1' tooltip='9:35 2-6-PIT 15PIT 10 CIN 17 LI: 0.942-B.Green-Ellis left tackle to PIT 12 for 3 yards(98-V.Williams).'>50.42</number><number>0.06</number>
+<number shadow='shadow1' tooltip='8:52 3-3-PIT 12PIT 10 CIN 17 LI: 0.6(Shotgun) 14-A.Dalton pass incomplete short middle to 85-T.EifertPENALTY on PIT-56-L.Woodley Defensive Offside 4 yards enforced at PIT 12 - No Play.'>51.13</number><number>0.05</number>
+<number shadow='shadow1' tooltip='8:46 1-8-PIT 8PIT 10 CIN 17 LI: 0.742-B.Green-Ellis right tackle to PIT 7 for 1 yard(96-E.Hood).'>51.23</number><number>0.05</number>
+<number shadow='shadow1' tooltip='8:06 2-7-PIT 7PIT 10 CIN 17 LI: 0.614-A.Dalton pass incomplete short left to 18-A.Green.'>51.9</number><number>0.05</number>
+<number shadow='shadow1' tooltip='8:01 3-7-PIT 7PIT 10 CIN 17 LI: 0.6(Shotgun) 14-A.Dalton pass incomplete short left to 18-A.Green (99-B.Keisel).'>51.98</number><number>0.08</number>
+<number shadow='shadow1' tooltip='7:54 4-7-PIT 7PIT 10 CIN 17 LI: 0.32-M.Nugent 25 yard field goal is GOOD Center-46-C.Harris Holder-10-K.Huber.'>52.1</number><number>0.08</number>
+<number shadow='shadow1' tooltip='7:54 PIT 10 CIN 20 LI: 2-M.Nugent kicks 67 yards from CIN 35 to PIT -223-F.Jones pushed ob at PIT 18 for 20 yards(88-R.Whalen).'>52.19</number><number>0.07</number>
+<number shadow='shadow1' tooltip='7:46 1-10-PIT 18PIT 10 CIN 20 LI: 0.5(Shotgun) 7-B.Roethlisberger pass incomplete short left to 84-A.Brown (29-L.Hall).'>52.23</number><number>0.06</number>
+<number shadow='shadow1' tooltip='7:42 2-10-PIT 18PIT 10 CIN 20 LI: 0.4(Shotgun) 7-B.Roethlisberger pass short left to 89-J.Cotchery pushed ob at PIT 39 for 21 yards(43-G.Iloka).'>52.3</number><number>0.12</number>
+<number shadow='shadow1' tooltip='7:23 1-10-PIT 39PIT 10 CIN 20 LI: 0.9(Shotgun) 7-B.Roethlisberger pass incomplete deep right to 88-E.Sanders (23-T.Newman).'>52.62</number><number>0.09</number>
+<number shadow='shadow1' tooltip='7:16 2-10-PIT 39PIT 10 CIN 20 LI: 0.6(Shotgun) PENALTY on CIN-96-C.Dunlap Neutral Zone Infraction 5 yards enforced at PIT 39 - No Play.'>52.73</number><number>0.11</number>
+<number shadow='shadow1' tooltip='6:39 1-10-CIN 49PIT 10 CIN 20 LI: 1.1(Shotgun) 7-B.Roethlisberger pass short right to 81-D.Paulson to CIN 35 for 14 yards(29-L.Hall) [93-M.Johnson].'>53.35</number><number>0.17</number>
+<number shadow='shadow1' tooltip='5:57 1-10-CIN 35PIT 10 CIN 20 LI: 1.2(Shotgun) 7-B.Roethlisberger pass incomplete deep right to 88-E.Sanders.'>54.05</number><number>0.12</number>
+<number shadow='shadow1' tooltip='5:51 2-10-CIN 35PIT 10 CIN 20 LI: 0.7(Shotgun) 7-B.Roethlisberger pass short middle to 88-E.Sanders to CIN 27 for 8 yards(29-L.Hall; 23-T.Newman).'>54.15</number><number>0.12</number>
+<number shadow='shadow1' tooltip='5:04 3-2-CIN 27PIT 10 CIN 20 LI: 0.6(Shotgun) 7-B.Roethlisberger pass short middle intended for 89-J.Cotchery INTERCEPTED by 20-R.Nelson at CIN 1320-R.Nelson to CIN 13 for no gain (89-J.Cotchery){Ball tipped off Cotchery}'>54.93</number><number>0.05</number>
+<number shadow='shadow1' tooltip='4:55 1-10-CIN 13PIT 10 CIN 20 LI: 142-B.Green-Ellis left tackle to CIN 15 for 2 yards(98-V.Williams).'>55.08</number><number>0.04</number>
+<number shadow='shadow1' tooltip='4:13 2-8-CIN 15PIT 10 CIN 20 LI: 1.142-B.Green-Ellis left guard to CIN 17 for 2 yards(96-E.Hood; 90-S.McLendon).'>55.78</number><number>0.06</number>
+<number shadow='shadow1' tooltip='4:04 3-6-CIN 17PIT 10 CIN 20 LI: 0.942-B.Green-Ellis left guard to CIN 25 for 8 yards(98-V.Williams).'>55.93</number><number>0.02</number>
+<number shadow='shadow1' tooltip='3:20 1-10-CIN 25PIT 10 CIN 20 LI: 1.142-B.Green-Ellis left guard to CIN 25 for no gain (98-V.Williams; 90-S.McLendon).'>56.67</number><number>0.03</number>
+<number shadow='shadow1' tooltip='3:14 2-10-CIN 25PIT 10 CIN 20 LI: 142-B.Green-Ellis right end to CIN 29 for 4 yards(96-E.Hood)PENALTY on PIT-56-L.Woodley Unnecessary Roughness 15 yards enforced at CIN 29.'>56.77</number><number>0.01</number>
+<number shadow='shadow1' tooltip='3:04 1-10-CIN 44PIT 10 CIN 20 LI: 0.842-B.Green-Ellis right guard to CIN 46 for 2 yards(96-E.Hood; 22-W.Gay).'>56.93</number><number>0.01</number>
+<number shadow='shadow1' tooltip='2:18 2-8-CIN 46PIT 10 CIN 20 LI: 0.642-B.Green-Ellis left guard to 50 for 4 yards(56-L.Woodley)PENALTY on CIN-84-J.Gresham Offensive Holding 10 yards enforced at CIN 46 - No Play.'>57.7</number><number>0.02</number>
+<number shadow='shadow1' tooltip='2:12 2-18-CIN 36PIT 10 CIN 20 LI: 0.542-B.Green-Ellis up the middle to CIN 33 for -3 yards(43-T.Polamalu).'>57.8</number><number>0.03</number>
+<number shadow='shadow1' tooltip='2:00 3-21-CIN 33PIT 10 CIN 20 LI: 0.342-B.Green-Ellis left end to CIN 39 for 6 yards(43-T.Polamalu; 25-R.Clark).'>58</number><number>0.03</number>
+<number shadow='shadow1' tooltip='1:52 4-15-CIN 39PIT 10 CIN 20 LI: 0.310-K.Huber punts 61 yards to end zone Center-46-C.Harris Touchback.'>58.13</number><number>0.02</number>
+<number shadow='shadow1' tooltip='1:43 1-10-PIT 20PIT 10 CIN 20 LI: 0.1(Shotgun) 7-B.Roethlisberger pass short middle to 33-I.Redman to PIT 26 for 6 yards(23-T.Newman).'>58.28</number><number>0.01</number>
+<number shadow='shadow1' tooltip='1:18 2-4-PIT 26PIT 10 CIN 20 LI: 0.1(Shotgun) 7-B.Roethlisberger pass incomplete deep right to 88-E.Sanders (23-T.Newman).'>58.7</number><number>0.02</number>
+<number shadow='shadow1' tooltip='1:12 3-4-PIT 26PIT 10 CIN 20 LI: 0.1(Shotgun) 7-B.Roethlisberger pass short middle to 84-A.Brown to PIT 35 for 9 yards(55-V.Burfict).'>58.8</number><number>0.02</number>
+<number shadow='shadow1' tooltip='0:46 1-10-PIT 35PIT 10 CIN 20 LI: 0.1(Shotgun) 7-B.Roethlisberger pass deep right to 89-J.Cotchery to CIN 34 for 31 yards(23-T.Newman).'>59.23</number><number>0.01</number>
+<number shadow='shadow1' tooltip='0:24 1-10-CIN 34PIT 10 CIN 20 LI: 0.17-B.Roethlisberger spiked the ball to stop the clock.'>59.6</number><number>0.01</number>
+<number shadow='shadow1' tooltip='0:23 2-10-CIN 34PIT 10 CIN 20 LI: 0.1(Shotgun) 7-B.Roethlisberger pass incomplete short left to 81-D.Paulson.'>59.62</number><number>0.01</number>
+<number shadow='shadow1' tooltip='0:16 3-10-CIN 34PIT 10 CIN 20 LI: 0.1(Shotgun) 7-B.Roethlisberger pass short middle to 84-A.Brown to CIN 16 for 18 yards(55-V.Burfict).'>59.73</number><number>0</number>
+<number>60</number><number>0</number>
+</row> </chart_data>
+       <draw>
+
+
+
+      <image x='45' y='298'  url='nfllogos/42x50png/PIT.gif'  layer='foreground' glow = 'glow1'/>
+      <image x='45' y='350'  url='nfllogos/42x50png/CIN.gif'     layer='foreground' glow = 'glow1'/>
+
+
+      <rect x='130' y='300' width='250' height='40' fill_color='ffac2c' bevel='bevel1' />
+      <text x='135' y='300' width='250' height='40' h_align='left' v_align='middle' color='ffffff' shadow='shadow2' glow=''>Pittsburgh Steelers</text>
+
+      <rect x='130' y='350' width='250' height='40' fill_color='ff652b' bevel='bevel1'  />
+      <text x='135' y='350' width='250' height='40' h_align='left' v_align='middle' color='ffffff' shadow='shadow2' glow='winnerglow'>Cincinnati Bengals</text>
+
+      <rect x='420' y='300' width='60' height='40' fill_color='ffac2c' bevel='bevel1'  />
+      <text x='420' y='300' width='60' height='40' h_align='center' v_align='middle' color='ffffff' shadow='shadow2' transition='none' glow=''>10</text>
+
+      <rect x='420' y='350' width='60' height='40' fill_color='ff652b' bevel='bevel1' />
+      <text x='420' y='350' width='60' height='40' h_align='center' v_align='middle' color='ffffff' shadow='shadow2' transition='none' glow='winnerglow'>20</text>
+
+      <text x='-3' y='12'  width='60' height='40' h_align='center' v_align='middle' size='13' shadow='shadow2'>PITWin </text>
+      <text x='-3' y='218' width='60' height='40' h_align='center' v_align='middle' size='13' shadow='shadow2'>CINWin </text>
+
+     
+              <rect x='540' y='300' width='100' height='35' fill_color='000000' fill_alpha='50'/>
+              <text x='540' y='300' width='100' height='35' h_align='center' v_align='middle' color='ffffff' size='15' shadow='shadow2' >Final</text>
+
+              <text x='540' y='340' width='40' h_align='center' color='000000' size='12' shadow='shadow2'>CBF</text>
+              <text x='600' y='340' width='40' h_align='center' color='000000' size='12' shadow='shadow2'>EI</text>
+
+              <rect x='540' y='360' width='40' height='30' fill_color='000000' fill_alpha='50' />
+              <text x='540' y='360' width='40' height='30' size='12' h_align='center' v_align='middle' color='FFFFFF' shadow='shadow2'>3</text>
+
+              <rect x='600' y='360' width='40' height='30' fill_color='000000' fill_alpha='50' />
+              <text x='600' y='360' width='40' height='30' size='12' h_align='center' v_align='middle' color='FFFFFF' shadow='shadow2'>3.4</text>
+
+              <text x='20' y='420' width='70' height='25' size='12' h_align='left' v_align='middle' color='000000' >9/16/2013</text>
+              <text x='100' y='420' width='200' height='25' size='12' h_align='left' v_align='middle' color='000000' >Paul Brown Stadium</text>
+
+   </draw></chart>

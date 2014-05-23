@@ -1,0 +1,293 @@
+
+<chart>
+   <license>ETAS9P33ESHO.945CWK-2XOI1X0-7L</license>
+   <chart_type>scatter</chart_type>
+   <chart_pref trend_thickness='0' line_thickness='3' point_size='0'/>
+
+   <series_color>
+      <color>ffff00</color>
+   </series_color>
+
+   <chart_rect x='45' y='20' width='630' height='230' positive_color='cacaca'  />
+
+  <chart_border top_thickness='0'
+                 bottom_thickness='0'
+                 left_thickness='0'
+                 right_thickness='0'
+                 color='000000'
+                 />
+
+   <tooltip font='Arial' bold='true' size='11' />
+
+   <chart_note type='flag'
+               color='000000'
+               alpha='90'
+               bold='FALSE'
+               size='10'
+               background_color='ffffe0'
+               background_alpha='50'
+               shadow='shadow2'
+               />
+
+   <chart_grid_h thickness='2' color='ffffff' type='dashed'  />
+   <chart_grid_v thickness='2' color='ffffff'   />
+		>
+
+   <legend layout='hide' />
+
+   <chart_guide horizontal='TRUE'
+             vertical='TRUE'
+             thickness='1'
+             color='006400'
+             alpha='100'
+             type='solid'
+             snap_h='TRUE'
+             snap_v='TRUE'
+             radius='3'
+             fill_color='006400'
+             fill_alpha='100'
+             line_color='006400'
+             line_alpha='80'
+             line_thickness='1'
+             text_h_alpha='50'
+             text_v_alpha='00'
+             suffix_h=' WP'
+             decimals='2'
+             bold='FALSE'
+             size='11'
+             text_color='FFFFFF'
+             background_color='006400'
+             />
+   <filter>
+      <shadow id='shadow1' distance='2' angle='60' blurX='5' blurY='5' alpha='50' />
+      <bevel id='bevel1' angle='45' blurX='5' blurY='5' distance='0' />
+      <glow id='glow1' color='ffffff' alpha='0' blurX='7' blurY='7' strength='6' quality='2' inner='FALSE' knockout='FALSE' />
+      <glow id='winnerglow' color='ffffff' alpha='0' blurX='7' blurY='7' strength='5' quality='2' inner='FALSE' knockout='FALSE' />
+   </filter>
+
+    <axis_value_label>
+         <string></string>
+          <string> </string>
+          <null/>
+          <string> </string>
+          <string></string>
+
+       </axis_value_label>
+		
+	   <axis_ticks category_ticks='false'/>
+
+       <axis_value min='0' max='1' steps='4'  decimals='2' show_min='true' size='13' shadow='shadow2' />     
+            <axis_category
+               min='0'
+               max='60'
+               steps='4'
+               mode='all'
+               decimals='0'
+               size='13'
+               shadow='shadow2'
+               />
+
+       <axis_category_label>
+          <string>Kickoff</string>
+          <string></string>
+          <string>Halftime</string>
+          <string></string>
+          <string>End</string>
+
+       </axis_category_label>
+
+
+        <chart_data>
+       <row>
+	      <null/><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number>
+              <number>x</number><number>y</number>
+              </row><row><string></string>
+
+                     <number shadow='shadow1'>0</number><number>.5</number><number shadow='shadow1' tooltip='15:00 ATL 0 NO 0 LI: 6-T.Morstead kicks 65 yards from NO 35 to end zone Touchback.'>0.09</number><number>0.52</number>
+<number shadow='shadow1' tooltip='14:24 2-7-ATL 23ATL 0 NO 0 LI: 1.439-S.Jackson right guard to ATL 28 for 5 yards(50-C.Lofton).'>0.6</number><number>0.51</number>
+<number shadow='shadow1' tooltip='13:41 3-2-ATL 28ATL 0 NO 0 LI: 1.3(Shotgun) 2-M.Ryan pass incomplete short right to 88-T.Gonzalez.'>1.32</number><number>0.46</number>
+<number shadow='shadow1' tooltip='13:37 4-2-ATL 28ATL 0 NO 0 LI: 0.85-M.Bosher punts 56 yards to NO 16 Center-47-J.Harris43-D.Sproles to NO 17 for 1 yard(35-A.Smith).'>1.38</number><number>0.49</number>
+<number shadow='shadow1' tooltip='13:24 1-10-NO 17ATL 0 NO 0 LI: 1.69-D.Brees pass deep right to 16-L.Moore to NO 33 for 16 yards(27-R.McClain)Pass 16 YAC 0'>1.6</number><number>0.46</number>
+<number shadow='shadow1' tooltip='12:44 1-10-NO 33ATL 0 NO 0 LI: 1.5(Shotgun) 9-D.Brees pass incomplete short middle to 80-J.Graham [50-O.Umenyiora].'>2.27</number><number>0.48</number>
+<number shadow='shadow1' tooltip='12:39 2-10-NO 33ATL 0 NO 0 LI: 1.322-M.Ingram right end to NO 36 for 3 yards(28-T.DeCoud).'>2.35</number><number>0.49</number>
+<number shadow='shadow1' tooltip='11:57 3-7-NO 36ATL 0 NO 0 LI: 1.1(Shotgun) 9-D.Brees pass incomplete deep right to 84-K.Stills (23-R.Alford).'>3.05</number><number>0.53</number>
+<number shadow='shadow1' tooltip='11:50 4-7-NO 36ATL 0 NO 0 LI: 0.76-T.Morstead punts 54 yards to ATL 10 Center-47-J.Drescher83-H.Douglas to ATL 18 for 8 yards(52-K.Reddick).'>3.17</number><number>0.51</number>
+<number shadow='shadow1' tooltip='11:38 1-10-ATL 18ATL 0 NO 0 LI: 1.62-M.Ryan pass short right to 83-H.Douglas to ATL 29 for 11 yards(28-K.Lewis)Pass 9 YAC 2'>3.37</number><number>0.53</number>
+<number shadow='shadow1' tooltip='10:56 1-10-ATL 29ATL 0 NO 0 LI: 1.5(Shotgun) 2-M.Ryan pass short left to 11-J.Jones to ATL 34 for 5 yards(41-R.Harper)Pass -1 YAC 6'>4.07</number><number>0.53</number>
+<number shadow='shadow1' tooltip='10:14 2-5-ATL 34ATL 0 NO 0 LI: 1.439-S.Jackson right guard to ATL 40 for 6 yards(27-M.Jenkins).'>4.77</number><number>0.55</number>
+<number shadow='shadow1' tooltip='9:35 1-10-ATL 40ATL 0 NO 0 LI: 1.42-M.Ryan pass short left to 83-H.Douglas to NO 10 for 50 yards(28-K.Lewis)FUMBLES (28-K.Lewis) ball out of bounds at NO 10Pass 15 YAC 35 The fumble went out-of-bounds and Atlanta retained possession.'>5.42</number><number>0.67</number>
+<number shadow='shadow1' tooltip='9:13 1-10-NO 10ATL 0 NO 0 LI: 1.739-S.Jackson left guard to NO 7 for 3 yards(76-A.Hicks)NO-77-B.Bunkley was injured during the playHis return is Questionable.'>5.78</number><number>0.67</number>
+<number shadow='shadow1' tooltip='8:40 2-7-NO 7ATL 0 NO 0 LI: 1.72-M.Ryan pass short middle to 88-T.Gonzalez for 7 yards TOUCHDOWN.'>6.33</number><number>0.71</number>
+<number shadow='shadow1' tooltip='8:40 ATL 0 NO 0 LI: 3-M.Bryant extra point is GOOD Center-47-J.Harris Holder-5-M.Bosher.'>6.37</number><number>0.71</number>
+<number shadow='shadow1' tooltip='8:40 ATL 7 NO 0 LI: 5-M.Bosher kicks 65 yards from ATL 35 to NO 043-D.Sproles to NO 23 for 23 yards(44-J.Snelling).'>6.42</number><number>0.72</number>
+<number shadow='shadow1' tooltip='8:28 1-10-NO 23ATL 7 NO 0 LI: 1.49-D.Brees pass short right to 82-B.Watson to NO 25 for 2 yards(56-S.Weatherspoon)Pass 1 YAC 1'>6.53</number><number>0.71</number>
+<number shadow='shadow1' tooltip='7:54 2-8-NO 25ATL 7 NO 0 LI: 1.5(Shotgun) 9-D.Brees pass short right to 43-D.Sproles pushed ob at NO 38 for 13 yards(52-A.Dent)Pass 3 YAC 10'>7.1</number><number>0.69</number>
+<number shadow='shadow1' tooltip='7:23 1-10-NO 38ATL 7 NO 0 LI: 1.423-P.Thomas right tackle to NO 42 for 4 yards(52-A.Dent).'>7.62</number><number>0.69</number>
+<number shadow='shadow1' tooltip='6:46 2-6-NO 42ATL 7 NO 0 LI: 1.343-D.Sproles left end to NO 44 for 2 yards(91-C.Peters).'>8.23</number><number>0.69</number>
+<number shadow='shadow1' tooltip='6:10 3-4-NO 44ATL 7 NO 0 LI: 1.2(Shotgun) 9-D.Brees pass short left to 23-P.Thomas to NO 47 for 3 yards(56-S.Weatherspoon)Pass -7 YAC 10'>8.83</number><number>0.71</number>
+<number shadow='shadow1' tooltip='5:33 4-1-NO 47ATL 7 NO 0 LI: 0.922-M.Ingram right tackle to NO 46 for -1 yards(52-A.Dent).'>9.45</number><number>0.81</number>
+<number shadow='shadow1' tooltip='5:25 1-10-NO 45ATL 7 NO 0 LI: 1.3The line of scrimmage changed on the change of possession2-M.Ryan pass short right to 34-B.Ewing to NO 30 for 15 yards(33-J.Greer)Pass -1 YAC 16.'>9.58</number><number>0.85</number>
+<number shadow='shadow1' tooltip='4:46 1-10-NO 30ATL 7 NO 0 LI: 1.539-S.Jackson right tackle to NO 29 for 1 yard(57-D.Hawthorne).'>10.23</number><number>0.84</number>
+<number shadow='shadow1' tooltip='4:08 2-9-NO 29ATL 7 NO 0 LI: 1.3(Shotgun) 2-M.Ryan pass short right to 39-S.Jackson to NO 26 for 3 yards(50-C.Lofton)Pass -1 YAC 4'>10.87</number><number>0.82</number>
+<number shadow='shadow1' tooltip='3:31 3-6-NO 26ATL 7 NO 0 LI: 1.1(Shotgun) 2-M.Ryan scrambles right end to NO 14 for 12 yards(32-K.Vaccaro)PENALTY on NO-32-K.Vaccaro Unnecessary Roughness 7 yards enforced at NO 14.'>11.48</number><number>0.87</number>
+<number shadow='shadow1' tooltip='3:08 1-7-NO 7ATL 7 NO 0 LI: 1.439-S.Jackson left guard to NO 4 for 3 yards(92-J.Jenkins).'>11.87</number><number>0.88</number>
+<number shadow='shadow1' tooltip='2:21 2-4-NO 4ATL 7 NO 0 LI: 1.532-J.Rodgers left guard to NO 5 for -1 yards(98-P.Haralson; 27-M.Jenkins).'>12.65</number><number>0.86</number>
+<number shadow='shadow1' tooltip='1:37 3-5-NO 5ATL 7 NO 0 LI: 1.3(Shotgun) 2-M.Ryan pass incomplete short middle to 11-J.Jones [75-T.Walker].'>13.38</number><number>0.82</number>
+<number shadow='shadow1' tooltip='1:30 4-5-NO 5ATL 7 NO 0 LI: 0.93-M.Bryant 23 yard field goal is GOOD Center-47-J.Harris Holder-5-M.Bosher.'>13.5</number><number>0.81</number>
+<number shadow='shadow1' tooltip='1:30 ATL 10 NO 0 LI: 5-M.Bosher kicks 65 yards from ATL 35 to end zone Touchback.'>13.59</number><number>0.82</number>
+<number shadow='shadow1' tooltip='0:51 2-2-NO 28ATL 10 NO 0 LI: 0.723-P.Thomas left end to NO 27 for -1 yards(71-K.Biermann).'>14.15</number><number>0.81</number>
+<number shadow='shadow1' tooltip='0:12 3-3-NO 27ATL 10 NO 0 LI: 0.6(Shotgun) 9-D.Brees pass short left to 43-D.Sproles pushed ob at NO 34 for 7 yards(25-W.Moore)Pass 4 YAC 3'>14.8</number><number>0.8</number>
+<number shadow='shadow1' tooltip='15:00 1-10-NO 34ATL 10 NO 0 LI: 0.69-D.Brees pass incomplete deep right to 84-K.Stills (27-R.McClain).'>15</number><number>0.79</number>
+<number shadow='shadow1' tooltip='14:53 2-10-NO 34ATL 10 NO 0 LI: 0.7(Shotgun) 43-D.Sproles left tackle to NO 35 for 1 yard(95-J.Babineaux).'>15.12</number><number>0.8</number>
+<number shadow='shadow1' tooltip='14:10 3-9-NO 35ATL 10 NO 0 LI: 0.6(Shotgun) 9-D.Brees pass short left to 80-J.Graham to ATL 44 for 21 yards(28-T.DeCoud)Pass 12 YAC 9'>15.83</number><number>0.76</number>
+<number shadow='shadow1' tooltip='13:29 1-10-ATL 44ATL 10 NO 0 LI: 0.843-D.Sproles left tackle to ATL 39 for 5 yards(52-A.Dent).'>16.52</number><number>0.76</number>
+<number shadow='shadow1' tooltip='12:49 2-5-ATL 39ATL 10 NO 0 LI: 0.89-D.Brees pass short left to 23-P.Thomas to ATL 33 for 6 yards(21-D.Trufant)Pass 2 YAC 4'>17.18</number><number>0.74</number>
+<number shadow='shadow1' tooltip='12:01 1-10-ATL 33ATL 10 NO 0 LI: 122-M.Ingram left guard to ATL 26 for 7 yards(71-K.Biermann).'>17.98</number><number>0.73</number>
+<number shadow='shadow1' tooltip='11:35 2-3-ATL 26ATL 10 NO 0 LI: 122-M.Ingram left end pushed ob at ATL 30 for -4 yards(28-T.DeCoud).'>18.42</number><number>0.76</number>
+<number shadow='shadow1' tooltip='11:04 3-7-ATL 30ATL 10 NO 0 LI: 0.8(Shotgun) 9-D.Brees pass incomplete short left to 16-L.Moore (21-D.Trufant).'>18.93</number><number>0.78</number>
+<number shadow='shadow1' tooltip='10:58 4-7-ATL 30ATL 10 NO 0 LI: 0.65-G.Hartley 48 yard field goal is GOOD Center-47-J.Drescher Holder-7-L.McCown.'>19.03</number><number>0.74</number>
+<number shadow='shadow1' tooltip='10:58 ATL 10 NO 3 LI: 6-T.Morstead kicks 65 yards from NO 35 to end zone Touchback.'>19.12</number><number>0.73</number>
+<number shadow='shadow1' tooltip='10:36 1-10-ATL 31ATL 10 NO 3 LI: 0.923-P.Thomas right tackle to ATL 26 for 5 yards(91-C.Peters; 52-A.Dent).'>19.4</number><number>0.65</number>
+<number shadow='shadow1' tooltip='9:57 2-5-ATL 26ATL 10 NO 3 LI: 0.943-D.Sproles left guard to ATL 25 for 1 yard(91-C.Peters).'>20.05</number><number>0.65</number>
+<number shadow='shadow1' tooltip='9:16 3-4-ATL 25ATL 10 NO 3 LI: 1(Shotgun) 9-D.Brees pass deep middle to 12-M.Colston for 25 yards TOUCHDOWNPass 25 YAC 0'>20.73</number><number>0.53</number>
+<number shadow='shadow1' tooltip='9:16 ATL 10 NO 3 LI: 5-G.Hartley extra point is GOOD Center-47-J.Drescher Holder-7-L.McCown.'>20.77</number><number>0.53</number>
+<number shadow='shadow1' tooltip='9:16 ATL 10 NO 10 LI: 6-T.Morstead kicks 65 yards from NO 35 to end zone Touchback.'>20.82</number><number>0.52</number>
+<number shadow='shadow1' tooltip='9:10 1-10-ATL 20ATL 10 NO 10 LI: 1.52-M.Ryan pass short left to 39-S.Jackson to ATL 36 for 16 yards(32-K.Vaccaro)Pass 4 YAC 12'>20.83</number><number>0.54</number>
+<number shadow='shadow1' tooltip='8:26 1-10-ATL 36ATL 10 NO 10 LI: 1.32-M.Ryan pass incomplete short middle to 39-S.Jackson.'>21.57</number><number>0.52</number>
+<number shadow='shadow1' tooltip='8:22 2-10-ATL 36ATL 10 NO 10 LI: 1.139-S.Jackson left guard to ATL 35 for -1 yards(57-D.Hawthorne).'>21.63</number><number>0.5</number>
+<number shadow='shadow1' tooltip='7:40 3-11-ATL 35ATL 10 NO 10 LI: 1(Shotgun) 2-M.Ryan pass short right to 84-R.White ran ob at 50 for 15 yardsPass 15 YAC 0 No tackle - receiver ran out on his own.'>22.33</number><number>0.57</number>
+<number shadow='shadow1' tooltip='7:29 1-10-50ATL 10 NO 10 LI: 1.42-M.Ryan pass short middle to 32-J.Rodgers to NO 47 for 3 yards(24-C.White).'>22.52</number><number>0.56</number>
+<number shadow='shadow1' tooltip='6:49 2-7-NO 47ATL 10 NO 10 LI: 1.2(Shotgun) 2-M.Ryan pass short middle to 11-J.Jones to NO 44 for 3 yards(24-C.White).'>23.18</number><number>0.55</number>
+<number shadow='shadow1' tooltip='6:04 3-4-NO 44ATL 10 NO 10 LI: 1.1(Shotgun) 2-M.Ryan pass incomplete short middle to 39-S.Jackson [96-T.Johnson].'>23.93</number><number>0.49</number>
+<number shadow='shadow1' tooltip='5:58 4-4-NO 44ATL 10 NO 10 LI: 0.55-M.Bosher punts 44 yards to end zone Center-47-J.Harris Touchback.'>24.03</number><number>0.48</number>
+<number shadow='shadow1' tooltip='5:49 1-10-NO 20ATL 10 NO 10 LI: 1.523-P.Thomas right end to NO 24 for 4 yards(56-S.Weatherspoon; 71-K.Biermann).'>24.18</number><number>0.49</number>
+<number shadow='shadow1' tooltip='5:11 2-6-NO 24ATL 10 NO 10 LI: 1.3(Shotgun) 9-D.Brees pass deep left to 84-K.Stills to ATL 9 for 67 yards(27-R.McClain; 23-R.Alford)Pass 24 YAC 43'>24.82</number><number>0.32</number>
+<number shadow='shadow1' tooltip='4:19 1-9-ATL 9ATL 10 NO 10 LI: 1.822-M.Ingram right guard to ATL 7 for 2 yards(91-C.Peters; 52-A.Dent).'>25.68</number><number>0.32</number>
+<number shadow='shadow1' tooltip='3:40 2-7-ATL 7ATL 10 NO 10 LI: 1.823-P.Thomas right guard to ATL 7 for no gain (95-J.Babineaux)PENALTY on NO-73-J.Evans Offensive Holding 10 yards enforced at ATL 7 - No Play.'>26.33</number><number>0.37</number>
+<number shadow='shadow1' tooltip='3:13 2-17-ATL 17ATL 10 NO 10 LI: 1.4(Shotgun) 9-D.Brees pass short right to 43-D.Sproles to ATL 9 for 8 yards(56-S.Weatherspoon)PENALTY on NO-73-J.Evans Offensive Holding 10 yards enforced at ATL 17 - No Play.'>26.78</number><number>0.43</number>
+<number shadow='shadow1' tooltip='2:42 2-27-ATL 27ATL 10 NO 10 LI: 1(Shotgun) 9-D.Brees pass short right to 43-D.Sproles to ATL 20 for 7 yards(25-W.Moore)Pass 2 YAC 5'>27.3</number><number>0.41</number>
+<number shadow='shadow1' tooltip='2:00 3-20-ATL 20ATL 10 NO 10 LI: 1.19-D.Brees pass short middle to 43-D.Sproles to ATL 13 for 7 yards(27-R.McClain)Pass 1 YAC 6'>28</number><number>0.4</number>
+<number shadow='shadow1' tooltip='1:50 4-13-ATL 13ATL 10 NO 10 LI: 15-G.Hartley 31 yard field goal is GOOD Center-47-J.Drescher Holder-7-L.McCown.'>28.17</number><number>0.4</number>
+<number shadow='shadow1' tooltip='1:50 ATL 10 NO 13 LI: 6-T.Morstead kicks 65 yards from NO 35 to end zone Touchback.'>28.26</number><number>0.39</number>
+<number shadow='shadow1' tooltip='1:22 1-10-ATL 32ATL 10 NO 13 LI: 1.2(Shotgun) 2-M.Ryan pass short middle to 11-J.Jones to NO 47 for 21 yards(25-R.Bush)Pass 11 YAC 10'>28.63</number><number>0.47</number>
+<number shadow='shadow1' tooltip='0:55 1-10-NO 47ATL 10 NO 13 LI: 1.5(Shotgun) 2-M.Ryan pass incomplete short right to 88-T.Gonzalez.'>29.08</number><number>0.45</number>
+<number shadow='shadow1' tooltip='0:51 2-10-NO 47ATL 10 NO 13 LI: 1.3(Shotgun) 2-M.Ryan sacked at ATL 43 for -10 yards(93-J.Galette)NO-75-T.Walker was injured during the playHis return is Probable.'>29.15</number><number>0.38</number>
+<number shadow='shadow1' tooltip='0:45 3-20-ATL 43ATL 10 NO 13 LI: 0.7(Shotgun) 2-M.Ryan pass incomplete deep leftPENALTY on ATL-2-M.Ryan Intentional Grounding 9 yards enforced at ATL 43New Orleans chose to decline the option of a 10-second runoff on the clock which came with the intentional grounding call The penalty is 10 yards and loss of down However officials only walked off a 9-yard penalty.'>29.25</number><number>0.36</number>
+<number shadow='shadow1' tooltip='0:39 4-29-ATL 34ATL 10 NO 13 LI: 0.75-M.Bosher punts 40 yards to NO 26 Center-47-J.Harris43-D.Sproles to NO 26 for no gain (19-D.Davis)PENALTY on NO-54-W.Herring Offensive Holding 10 yards enforced at NO 26Sproles appeared to take in the punt on the 23-yard line however the penalty was incorrectly enforced from the 26-yard line.'>29.35</number><number>0.38</number>
+<number shadow='shadow1' tooltip='0:30 1-10-NO 16ATL 10 NO 13 LI: 1.743-D.Sproles right tackle to NO 20 for 4 yards(91-C.Peters; 25-W.Moore).'>29.5</number><number>0.37</number>
+<number shadow='shadow1' tooltip='0:11 2-6-NO 20ATL 10 NO 13 LI: 1.743-D.Sproles right guard to NO 23 for 3 yards(56-S.Weatherspoon).'>29.82</number><number>0.39</number>
+<number shadow='shadow1' tooltip='0:11 ATL 10 NO 13 LI: 5-M.Bosher kicks 65 yards from ATL 35 to end zone Touchback.'>29.91</number><number>0.37</number>
+<number shadow='shadow1' tooltip='15:00 1-10-NO 20ATL 10 NO 13 LI: 1.7(Shotgun) 9-D.Brees pass incomplete deep right to 84-K.Stills.'>30</number><number>0.38</number>
+<number shadow='shadow1' tooltip='14:56 2-10-NO 20ATL 10 NO 13 LI: 1.622-M.Ingram left tackle to NO 22 for 2 yards(27-R.McClain).'>30.07</number><number>0.38</number>
+<number shadow='shadow1' tooltip='14:16 3-8-NO 22ATL 10 NO 13 LI: 1.5(Shotgun) 9-D.Brees sacked at NO 11 for -11 yards(91-C.Peters).'>30.73</number><number>0.45</number>
+<number shadow='shadow1' tooltip='13:52 4-19-NO 11ATL 10 NO 13 LI: 1.56-T.Morstead punts 61 yards to ATL 28 Center-47-J.Drescher83-H.Douglas to ATL 41 for 13 yards(54-W.Herring).'>31.13</number><number>0.42</number>
+<number shadow='shadow1' tooltip='13:39 1-10-ATL 41ATL 10 NO 13 LI: 1.22-M.Ryan pass short right to 11-J.Jones to ATL 45 for 4 yards(21-P.Robinson; 98-P.Haralson)Pass -1 YAC 5'>31.35</number><number>0.42</number>
+<number shadow='shadow1' tooltip='13:08 2-6-ATL 45ATL 10 NO 13 LI: 1.239-S.Jackson right tackle pushed ob at NO 5 for 50 yards(27-M.Jenkins).'>31.87</number><number>0.62</number>
+<number shadow='shadow1' tooltip='12:33 1-5-NO 5ATL 10 NO 13 LI: 2.52-M.Ryan pass incomplete short right to 83-H.Douglas.'>32.45</number><number>0.61</number>
+<number shadow='shadow1' tooltip='12:27 2-5-NO 5ATL 10 NO 13 LI: 2.439-S.Jackson right guard to NO 4 for 1 yard(96-T.Johnson; 94-C.Jordan).'>32.55</number><number>0.58</number>
+<number shadow='shadow1' tooltip='11:45 3-4-NO 4ATL 10 NO 13 LI: 2.1(Shotgun) 2-M.Ryan pass short left to 11-J.Jones for 4 yards TOUCHDOWNPass 4 YAC 0'>33.25</number><number>0.65</number>
+<number shadow='shadow1' tooltip='11:45 ATL 10 NO 13 LI: 3-M.Bryant extra point is GOOD Center-47-J.Harris Holder-5-M.Bosher.'>33.29</number><number>0.65</number>
+<number shadow='shadow1' tooltip='11:45 ATL 17 NO 13 LI: 5-M.Bosher kicks 65 yards from ATL 35 to end zone Touchback.'>33.34</number><number>0.67</number>
+<number shadow='shadow1' tooltip='11:02 2-5-NO 25ATL 17 NO 13 LI: 1.19-D.Brees pass short left to 82-B.Watson to NO 38 for 13 yards(21-D.Trufant)Pass 4 YAC 9'>33.97</number><number>0.63</number>
+<number shadow='shadow1' tooltip='10:24 1-10-NO 38ATL 17 NO 13 LI: 1.223-P.Thomas right tackle to NO 42 for 4 yards(71-K.Biermann; 52-A.Dent).'>34.6</number><number>0.63</number>
+<number shadow='shadow1' tooltip='9:49 2-6-NO 42ATL 17 NO 13 LI: 1.29-D.Brees pass incomplete deep right to 80-J.Graham.'>35.18</number><number>0.65</number>
+<number shadow='shadow1' tooltip='9:44 3-6-NO 42ATL 17 NO 13 LI: 1(Shotgun) 9-D.Brees pass deep right to 43-D.Sproles pushed ob at ATL 36 for 22 yards(25-W.Moore)Pass 18 YAC 4'>35.27</number><number>0.55</number>
+<number shadow='shadow1' tooltip='9:14 1-10-ATL 36ATL 17 NO 13 LI: 1.6(Shotgun) 9-D.Brees pass incomplete deep left to 16-L.Moore (25-W.Moore)PENALTY on NO-71-C.Brown Offensive Holding 10 yards enforced at ATL 36 - No Play.'>35.77</number><number>0.58</number>
+<number shadow='shadow1' tooltip='9:06 1-20-ATL 46ATL 17 NO 13 LI: 1.59-D.Brees pass short left to 23-P.Thomas to ATL 38 for 8 yards(27-R.McClain; 52-A.Dent)Pass -3 YAC 11'>35.9</number><number>0.59</number>
+<number shadow='shadow1' tooltip='8:23 2-12-ATL 38ATL 17 NO 13 LI: 1.3(Shotgun) 9-D.Brees pass deep right to 84-K.Stills to ATL 19 for 19 yards(27-R.McClain)Pass 19 YAC 0'>36.62</number><number>0.51</number>
+<number shadow='shadow1' tooltip='7:41 1-10-ATL 19ATL 17 NO 13 LI: 1.743-D.Sproles right guard to ATL 14 for 5 yards(28-T.DeCoud; 56-S.Weatherspoon).'>37.32</number><number>0.44</number>
+<number shadow='shadow1' tooltip='7:06 2-5-ATL 14ATL 17 NO 13 LI: 2.3(Shotgun) 9-D.Brees pass short right to 80-J.Graham pushed ob at ATL 7 for 7 yards(27-R.McClain)Pass 4 YAC 3'>37.9</number><number>0.44</number>
+<number shadow='shadow1' tooltip='6:29 1-7-ATL 7ATL 17 NO 13 LI: 2.39-D.Brees pass short right to 80-J.Graham for 7 yards TOUCHDOWNPass 1 YAC 6'>38.52</number><number>0.38</number>
+<number shadow='shadow1' tooltip='6:29 ATL 17 NO 13 LI: 5-G.Hartley extra point is GOOD Center-47-J.Drescher Holder-7-L.McCown.'>38.56</number><number>0.38</number>
+<number shadow='shadow1' tooltip='6:29 ATL 17 NO 20 LI: 6-T.Morstead kicks 65 yards from NO 35 to end zone Touchback.'>38.61</number><number>0.36</number>
+<number shadow='shadow1' tooltip='6:22 1-10-ATL 20ATL 17 NO 20 LI: 1.339-S.Jackson left tackle to ATL 21 for 1 yard(94-C.Jordan; 98-P.Haralson).'>38.63</number><number>0.37</number>
+<number shadow='shadow1' tooltip='5:46 2-9-ATL 21ATL 17 NO 20 LI: 1.32-M.Ryan sacked at ATL 14 for -7 yards(98-P.Haralson).'>39.23</number><number>0.32</number>
+<number shadow='shadow1' tooltip='5:04 3-16-ATL 14ATL 17 NO 20 LI: 1.2(Shotgun) 2-M.Ryan pass incomplete short middle to 44-J.Snelling [94-C.Jordan].'>39.93</number><number>0.3</number>
+<number shadow='shadow1' tooltip='4:59 4-16-ATL 14ATL 17 NO 20 LI: 15-M.Bosher punts 44 yards to NO 42 Center-47-J.Harris43-D.Sproles to NO 43 for 1 yard(19-D.Davis)PENALTY on NO-33-J.Greer Illegal Block Above the Waist 10 yards enforced at NO 43.'>40.02</number><number>0.33</number>
+<number shadow='shadow1' tooltip='4:47 1-10-NO 33ATL 17 NO 20 LI: 1.69-D.Brees pass deep left intended for 12-M.Colston INTERCEPTED by 23-R.Alford at ATL 4523-R.Alford to ATL 45 for no gain (12-M.Colston).'>40.22</number><number>0.43</number>
+<number shadow='shadow1' tooltip='4:39 1-10-ATL 45ATL 17 NO 20 LI: 1.52-M.Ryan sacked at ATL 37 for -8 yards(76-A.Hicks).'>40.35</number><number>0.38</number>
+<number shadow='shadow1' tooltip='3:59 2-18-ATL 37ATL 17 NO 20 LI: 1.1(Shotgun) 2-M.Ryan pass incomplete short right.'>41.02</number><number>0.36</number>
+<number shadow='shadow1' tooltip='3:52 3-18-ATL 37ATL 17 NO 20 LI: 1(Shotgun) 2-M.Ryan pass short left to 44-J.Snelling to ATL 46 for 9 yards(33-J.Greer; 41-R.Harper).'>41.13</number><number>0.36</number>
+<number shadow='shadow1' tooltip='3:06 4-9-ATL 46ATL 17 NO 20 LI: 0.85-M.Bosher punts 51 yards to NO 3 Center-47-J.Harris downed by ATL-35-A.Smith.'>41.9</number><number>0.38</number>
+<number shadow='shadow1' tooltip='2:56 1-10-NO 3ATL 17 NO 20 LI: 2.29-D.Brees pass short right to 12-M.Colston to NO 8 for 5 yards(27-R.McClain)Pass 3 YAC 2'>42.07</number><number>0.39</number>
+<number shadow='shadow1' tooltip='2:17 2-5-NO 8ATL 17 NO 20 LI: 2.123-P.Thomas right end to NO 12 for 4 yards(56-S.Weatherspoon).'>42.72</number><number>0.38</number>
+<number shadow='shadow1' tooltip='1:33 3-1-NO 12ATL 17 NO 20 LI: 2.223-P.Thomas left end to NO 23 for 11 yards(28-T.DeCoud; 52-A.Dent).'>43.45</number><number>0.34</number>
+<number shadow='shadow1' tooltip='0:44 1-10-NO 23ATL 17 NO 20 LI: 1.723-P.Thomas left tackle to NO 27 for 4 yards(25-W.Moore).'>44.27</number><number>0.34</number>
+<number shadow='shadow1' tooltip='0:04 2-6-NO 27ATL 17 NO 20 LI: 1.6(Shotgun) 9-D.Brees pass short left to 80-J.Graham to NO 37 for 10 yards(21-D.Trufant; 52-A.Dent)Pass 6 YAC 4'>44.93</number><number>0.31</number>
+<number shadow='shadow1' tooltip='15:00 1-10-NO 37ATL 17 NO 20 LI: 1.7(Shotgun) 9-D.Brees scrambles up the middle to NO 41 for 4 yards(28-T.DeCoud).'>45</number><number>0.31</number>
+<number shadow='shadow1' tooltip='14:21 2-6-NO 41ATL 17 NO 20 LI: 1.6(Shotgun) 9-D.Brees pass short right to 12-M.Colston to ATL 45 for 14 yards(28-T.DeCoud)Pass 14 YAC 0'>45.65</number><number>0.26</number>
+<number shadow='shadow1' tooltip='13:41 1-10-ATL 45ATL 17 NO 20 LI: 1.722-M.Ingram left end ran ob at ATL 42 for 3 yards(21-D.Trufant).'>46.32</number><number>0.28</number>
+<number shadow='shadow1' tooltip='13:12 2-7-ATL 42ATL 17 NO 20 LI: 1.5(Shotgun) 9-D.Brees pass incomplete short left to 80-J.Graham.'>46.8</number><number>0.31</number>
+<number shadow='shadow1' tooltip='13:07 3-7-ATL 42ATL 17 NO 20 LI: 1.2(Shotgun) 9-D.Brees pass incomplete short middle to 16-L.Moore.'>46.88</number><number>0.36</number>
+<number shadow='shadow1' tooltip='13:03 4-7-ATL 42ATL 17 NO 20 LI: 0.76-T.Morstead punts 33 yards to ATL 9 Center-47-J.Drescher downed by NO-54-W.Herring.'>46.95</number><number>0.35</number>
+<number shadow='shadow1' tooltip='12:54 1-10-ATL 9ATL 17 NO 20 LI: 239-S.Jackson right tackle to ATL 14 for 5 yards(57-D.Hawthorne; 94-C.Jordan).'>47.1</number><number>0.34</number>
+<number shadow='shadow1' tooltip='12:13 2-5-ATL 14ATL 17 NO 20 LI: 1.9(Shotgun) 2-M.Ryan pass short right to 39-S.Jackson to ATL 31 for 17 yards(27-M.Jenkins)Pass -4 YAC 21'>47.78</number><number>0.39</number>
+<number shadow='shadow1' tooltip='11:36 1-10-ATL 31ATL 17 NO 20 LI: 1.82-M.Ryan pass short right to 39-S.Jackson to ATL 33 for 2 yards(57-D.Hawthorne; 50-C.Lofton)Pass -3 YAC 5'>48.4</number><number>0.39</number>
+<number shadow='shadow1' tooltip='10:52 2-8-ATL 33ATL 17 NO 20 LI: 1.92-M.Ryan pass incomplete short left to 11-J.Jones.'>49.13</number><number>0.36</number>
+<number shadow='shadow1' tooltip='10:47 3-8-ATL 33ATL 17 NO 20 LI: 1.6(Shotgun) 2-M.Ryan pass deep left to 83-H.Douglas to 50 for 17 yards(32-K.Vaccaro) [93-J.Galette]PENALTY on ATL-72-S.Baker Offensive Holding 10 yards enforced at ATL 33 - No Play.'>49.22</number><number>0.3</number>
+<number shadow='shadow1' tooltip='10:20 3-18-ATL 23ATL 17 NO 20 LI: 1.2(Shotgun) 2-M.Ryan pass short right to 44-J.Snelling to ATL 31 for 8 yards(50-C.Lofton; 92-J.Jenkins)Pass 6 YAC 2'>49.67</number><number>0.29</number>
+<number shadow='shadow1' tooltip='9:35 4-10-ATL 31ATL 17 NO 20 LI: 1.15-M.Bosher punts 46 yards to NO 23 Center-47-J.Harris43-D.Sproles to NO 28 for 5 yards(35-A.Smith).'>50.42</number><number>0.29</number>
+<number shadow='shadow1' tooltip='9:24 1-10-NO 28ATL 17 NO 20 LI: 2.59-D.Brees pass short middle to 82-B.Watson to NO 44 for 16 yards(27-R.McClain)Pass 12 YAC 4'>50.6</number><number>0.22</number>
+<number shadow='shadow1' tooltip='8:43 1-10-NO 44ATL 17 NO 20 LI: 2.722-M.Ingram right tackle to NO 41 for -3 yards(52-A.Dent).'>51.28</number><number>0.25</number>
+<number shadow='shadow1' tooltip='8:01 2-13-NO 41ATL 17 NO 20 LI: 2.5(Shotgun) 9-D.Brees pass short right to 43-D.Sproles to ATL 27 for 32 yards(25-W.Moore)Pass 13 YAC 19'>51.98</number><number>0.13</number>
+<number shadow='shadow1' tooltip='7:20 1-10-ATL 27ATL 17 NO 20 LI: 243-D.Sproles right guard to ATL 26 for 1 yard(50-O.Umenyiora)ATL-91-C.Peters was injured during the playHis return is Probable.'>52.67</number><number>0.17</number>
+<number shadow='shadow1' tooltip='6:48 2-9-ATL 26ATL 17 NO 20 LI: 1.59-D.Brees sacked at ATL 31 for -5 yards(94-P.Jerry).'>53.2</number><number>0.24</number>
+<number shadow='shadow1' tooltip='6:14 3-14-ATL 31ATL 17 NO 20 LI: 1(Shotgun) 9-D.Brees pass short right to 12-M.Colston to ATL 12 for 19 yards(25-W.Moore)Pass 15 YAC 4'>53.77</number><number>0.14</number>
+<number shadow='shadow1' tooltip='5:23 1-10-ATL 12ATL 17 NO 20 LI: 1.122-M.Ingram left tackle to ATL 10 for 2 yards(25-W.Moore).'>54.62</number><number>0.15</number>
+<number shadow='shadow1' tooltip='4:43 2-8-ATL 10ATL 17 NO 20 LI: 0.8(Shotgun) 9-D.Brees pass short left to 23-P.Thomas to ATL 11 for -1 yards(56-S.Weatherspoon)Pass -3 YAC 2'>55.28</number><number>0.18</number>
+<number shadow='shadow1' tooltip='4:04 3-9-ATL 11ATL 17 NO 20 LI: 0.1(Shotgun) 9-D.Brees pass short middle to 16-L.Moore to ATL 4 for 7 yards(27-R.McClain)Pass 6 YAC 1'>55.93</number><number>0.25</number>
+<number shadow='shadow1' tooltip='3:16 4-2-ATL 4ATL 17 NO 20 LI: 0.15-G.Hartley 22 yard field goal is GOOD Center-47-J.Drescher Holder-7-L.McCown.'>56.73</number><number>0.26</number>
+<number shadow='shadow1' tooltip='3:16 ATL 17 NO 23 LI: 6-T.Morstead kicks 65 yards from NO 35 to end zone Touchback.'>56.82</number><number>0.25</number>
+<number shadow='shadow1' tooltip='2:50 1-10-ATL 37ATL 17 NO 23 LI: 2.6(Shotgun) 2-M.Ryan pass short right to 88-T.Gonzalez to NO 47 for 16 yards(32-K.Vaccaro)Pass 13 YAC 3'>57.17</number><number>0.36</number>
+<number shadow='shadow1' tooltip='2:28 1-10-NO 47ATL 17 NO 23 LI: 2.7(Shotgun) 2-M.Ryan pass short right to 39-S.Jackson to NO 40 for 7 yards(41-R.Harper)Pass 3 YAC 4'>57.53</number><number>0.25</number>
+<number shadow='shadow1' tooltip='2:04 2-3-NO 40ATL 17 NO 23 LI: 1.8(Shotgun) 2-M.Ryan pass short right to 88-T.Gonzalez pushed ob at NO 27 for 13 yards(32-K.Vaccaro)Pass 3 YAC 10'>57.93</number><number>0.35</number>
+<number shadow='shadow1' tooltip='1:58 1-10-NO 27ATL 17 NO 23 LI: 2.932-J.Rodgers left guard to NO 27 for no gain (50-C.Lofton).'>58.03</number><number>0.32</number>
+<number shadow='shadow1' tooltip='1:34 2-10-NO 27ATL 17 NO 23 LI: 3(Shotgun) 2-M.Ryan pass short left to 83-H.Douglas to NO 7 for 20 yards(32-K.Vaccaro).'>58.43</number><number>0.65</number>
+<number shadow='shadow1' tooltip='1:09 1-7-NO 7ATL 17 NO 23 LI: 6.4(Shotgun) 2-M.Ryan pass incomplete short left to 83-H.Douglas.'>58.85</number><number>0.57</number>
+<number shadow='shadow1' tooltip='1:05 2-7-NO 7ATL 17 NO 23 LI: 5.6(Shotgun) 2-M.Ryan pass short right to 84-R.White to NO 3 for 4 yards(27-M.Jenkins; 25-R.Bush).'>58.92</number><number>0.5</number>
+<number shadow='shadow1' tooltip='0:54 3-3-NO 3ATL 17 NO 23 LI: 4.9(Shotgun) 2-M.Ryan pass incomplete short middle to 39-S.Jackson (53-R.Humber).'>59.1</number><number>0.02</number>
+<number shadow='shadow1' tooltip='0:49 4-3-NO 3ATL 17 NO 23 LI: 0.1(Shotgun) 2-M.Ryan pass short middle intended for 88-T.Gonzalez INTERCEPTED by 41-R.Harper (32-K.Vaccaro) at NO 0TouchbackThe ball intended for Gonzales was first tipped by Vaccaro and then intercepted by Harper.'>59.18</number><number>0.01</number>
+<number shadow='shadow1' tooltip='0:43 1-10-NO 20ATL 17 NO 23 LI: 4.59-D.Brees kneels to NO 19 for -1 yards.'>59.28</number><number>0.04</number>
+<number shadow='shadow1' tooltip='0:05 2-11-NO 19ATL 17 NO 23 LI: 3.19-D.Brees kneels to NO 18 for -1 yards.'>59.92</number><number>0</number>
+<number>60</number><number>0</number>
+</row> </chart_data>
+       <draw>
+
+
+
+      <image x='45' y='298'  url='nfllogos/42x50png/ATL.gif'  layer='foreground' glow = 'glow1'/>
+      <image x='45' y='350'  url='nfllogos/42x50png/NO.gif'     layer='foreground' glow = 'glow1'/>
+
+
+      <rect x='130' y='300' width='250' height='40' fill_color='cf1534' bevel='bevel1' />
+      <text x='135' y='300' width='250' height='40' h_align='left' v_align='middle' color='ffffff' shadow='shadow2' glow=''>Atlanta Falcons</text>
+
+      <rect x='130' y='350' width='250' height='40' fill_color='dcb07e' bevel='bevel1'  />
+      <text x='135' y='350' width='250' height='40' h_align='left' v_align='middle' color='ffffff' shadow='shadow2' glow='winnerglow'>New Orleans Saints</text>
+
+      <rect x='420' y='300' width='60' height='40' fill_color='cf1534' bevel='bevel1'  />
+      <text x='420' y='300' width='60' height='40' h_align='center' v_align='middle' color='ffffff' shadow='shadow2' transition='none' glow=''>17</text>
+
+      <rect x='420' y='350' width='60' height='40' fill_color='dcb07e' bevel='bevel1' />
+      <text x='420' y='350' width='60' height='40' h_align='center' v_align='middle' color='ffffff' shadow='shadow2' transition='none' glow='winnerglow'>23</text>
+
+      <text x='-3' y='12'  width='60' height='40' h_align='center' v_align='middle' size='13' shadow='shadow2'>ATLWin </text>
+      <text x='-3' y='218' width='60' height='40' h_align='center' v_align='middle' size='13' shadow='shadow2'>NOWin </text>
+
+     
+              <rect x='540' y='300' width='100' height='35' fill_color='000000' fill_alpha='50'/>
+              <text x='540' y='300' width='100' height='35' h_align='center' v_align='middle' color='ffffff' size='15' shadow='shadow2' >Final</text>
+
+              <text x='540' y='340' width='40' h_align='center' color='000000' size='12' shadow='shadow2'>CBF</text>
+              <text x='600' y='340' width='40' h_align='center' color='000000' size='12' shadow='shadow2'>EI</text>
+
+              <rect x='540' y='360' width='40' height='30' fill_color='000000' fill_alpha='50' />
+              <text x='540' y='360' width='40' height='30' size='12' h_align='center' v_align='middle' color='FFFFFF' shadow='shadow2'>8</text>
+
+              <rect x='600' y='360' width='40' height='30' fill_color='000000' fill_alpha='50' />
+              <text x='600' y='360' width='40' height='30' size='12' h_align='center' v_align='middle' color='FFFFFF' shadow='shadow2'>5.5</text>
+
+              <text x='20' y='420' width='70' height='25' size='12' h_align='left' v_align='middle' color='000000' >9/8/2013</text>
+              <text x='100' y='420' width='200' height='25' size='12' h_align='left' v_align='middle' color='000000' >Mercedes-Benz Superdome</text>
+
+   </draw></chart>

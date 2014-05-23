@@ -1,0 +1,302 @@
+
+<chart>
+   <license>ETAS9P33ESHO.945CWK-2XOI1X0-7L</license>
+   <chart_type>scatter</chart_type>
+   <chart_pref trend_thickness='0' line_thickness='3' point_size='0'/>
+
+   <series_color>
+      <color>ffff00</color>
+   </series_color>
+
+   <chart_rect x='45' y='20' width='630' height='230' positive_color='cacaca'  />
+
+  <chart_border top_thickness='0'
+                 bottom_thickness='0'
+                 left_thickness='0'
+                 right_thickness='0'
+                 color='000000'
+                 />
+
+   <tooltip font='Arial' bold='true' size='11' />
+
+   <chart_note type='flag'
+               color='000000'
+               alpha='90'
+               bold='FALSE'
+               size='10'
+               background_color='ffffe0'
+               background_alpha='50'
+               shadow='shadow2'
+               />
+
+   <chart_grid_h thickness='2' color='ffffff' type='dashed'  />
+   <chart_grid_v thickness='2' color='ffffff'   />
+		>
+
+   <legend layout='hide' />
+
+   <chart_guide horizontal='TRUE'
+             vertical='TRUE'
+             thickness='1'
+             color='006400'
+             alpha='100'
+             type='solid'
+             snap_h='TRUE'
+             snap_v='TRUE'
+             radius='3'
+             fill_color='006400'
+             fill_alpha='100'
+             line_color='006400'
+             line_alpha='80'
+             line_thickness='1'
+             text_h_alpha='50'
+             text_v_alpha='00'
+             suffix_h=' WP'
+             decimals='2'
+             bold='FALSE'
+             size='11'
+             text_color='FFFFFF'
+             background_color='006400'
+             />
+   <filter>
+      <shadow id='shadow1' distance='2' angle='60' blurX='5' blurY='5' alpha='50' />
+      <bevel id='bevel1' angle='45' blurX='5' blurY='5' distance='0' />
+      <glow id='glow1' color='ffffff' alpha='0' blurX='7' blurY='7' strength='6' quality='2' inner='FALSE' knockout='FALSE' />
+      <glow id='winnerglow' color='ffffff' alpha='0' blurX='7' blurY='7' strength='5' quality='2' inner='FALSE' knockout='FALSE' />
+   </filter>
+
+    <axis_value_label>
+         <string></string>
+          <string> </string>
+          <null/>
+          <string> </string>
+          <string></string>
+
+       </axis_value_label>
+		
+	   <axis_ticks category_ticks='false'/>
+
+       <axis_value min='0' max='1' steps='4'  decimals='2' show_min='true' size='13' shadow='shadow2' />     
+            <axis_category
+               min='0'
+               max='60'
+               steps='4'
+               mode='all'
+               decimals='0'
+               size='13'
+               shadow='shadow2'
+               />
+
+       <axis_category_label>
+          <string>Kickoff</string>
+          <string></string>
+          <string>Halftime</string>
+          <string></string>
+          <string>End</string>
+
+       </axis_category_label>
+
+
+        <chart_data>
+       <row>
+	      <null/><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number>
+              <number>x</number><number>y</number>
+              </row><row><string></string>
+
+                     <number shadow='shadow1'>0</number><number>.5</number><number shadow='shadow1' tooltip='15:00 IND 0 ARZ 0 LI: 1-P.McAfee kicks 65 yards from IND 35 to end zone Touchback.'>0.09</number><number>0.48</number>
+<number shadow='shadow1' tooltip='14:28 2-7-ARZ 23IND 0 ARZ 0 LI: 1.428-R.Mendenhall right tackle to ARZ 38 for 15 yards(41-A.Bethea).'>0.53</number><number>0.45</number>
+<number shadow='shadow1' tooltip='13:49 1-10-ARZ 38IND 0 ARZ 0 LI: 1.53-C.Palmer pass incomplete deep left to 84-R.Housler (23-V.Davis).'>1.18</number><number>0.48</number>
+<number shadow='shadow1' tooltip='13:41 2-10-ARZ 38IND 0 ARZ 0 LI: 1.2PENALTY on ARZ-71-D.Colledge False Start 5 yards enforced at ARZ 38 - No Play.'>1.32</number><number>0.49</number>
+<number shadow='shadow1' tooltip='13:00 1-10-ARZ 48IND 0 ARZ 0 LI: 1.338-A.Ellington right tackle to IND 48 for 4 yards(20-D.Butler).'>2</number><number>0.44</number>
+<number shadow='shadow1' tooltip='12:24 2-6-IND 48IND 0 ARZ 0 LI: 1.23-C.Palmer pass short middle to 15-M.Floyd ran ob at IND 39 for 9 yards(51-P.Angerer).'>2.6</number><number>0.41</number>
+<number shadow='shadow1' tooltip='11:56 1-10-IND 39IND 0 ARZ 0 LI: 1.43-C.Palmer pass deep middle to 84-R.Housler to IND 19 for 20 yards(30-L.Landry).'>3.07</number><number>0.36</number>
+<number shadow='shadow1' tooltip='11:14 1-10-IND 19IND 0 ARZ 0 LI: 1.538-A.Ellington right end to IND 16 for 3 yards(58-A.Studebaker).'>3.77</number><number>0.36</number>
+<number shadow='shadow1' tooltip='10:39 2-7-IND 16IND 0 ARZ 0 LI: 1.538-A.Ellington up the middle ran ob at IND 4 for 12 yards(32-C.Vaughn).'>4.35</number><number>0.31</number>
+<number shadow='shadow1' tooltip='10:06 1-4-IND 4IND 0 ARZ 0 LI: 1.93-C.Palmer pass short left to 11-L.Fitzgerald for 4 yards TOUCHDOWN.'>4.9</number><number>0.29</number>
+<number shadow='shadow1' tooltip='10:06 IND 0 ARZ 0 LI: 4-J.Feely extra point is GOOD Center-82-M.Leach Holder-9-D.Zastudil.'>4.94</number><number>0.29</number>
+<number shadow='shadow1' tooltip='10:06 IND 0 ARZ 7 LI: 4-J.Feely kicks 74 yards from ARZ 35 to IND -985-D.Reed Touchback.'>4.99</number><number>0.28</number>
+<number shadow='shadow1' tooltip='9:57 2-10-IND 20IND 0 ARZ 7 LI: 1.434-T.Richardson left tackle to IND 22 for 2 yards(92-D.Williams).'>5.05</number><number>0.26</number>
+<number shadow='shadow1' tooltip='9:18 3-8-IND 22IND 0 ARZ 7 LI: 1.3(Shotgun) 12-A.Luck scrambles up the middle to IND 25 for 3 yards(56-K.Dansby).'>5.7</number><number>0.25</number>
+<number shadow='shadow1' tooltip='8:41 4-5-IND 25IND 0 ARZ 7 LI: 1.11-P.McAfee punts 41 yards to ARZ 34 Center-45-M.Overton21-P.Peterson to ARZ 34 for no gain (38-S.Brown; 26-D.Howell).'>6.32</number><number>0.28</number>
+<number shadow='shadow1' tooltip='8:30 1-10-ARZ 24IND 0 ARZ 7 LI: 0.83-C.Palmer pass short right to 28-R.Mendenhall pushed ob at ARZ 48 for 24 yards(41-A.Bethea).'>6.5</number><number>0.21</number>
+<number shadow='shadow1' tooltip='7:54 1-10-ARZ 48IND 0 ARZ 7 LI: 1.23-C.Palmer pass incomplete deep middle to 38-A.Ellington.'>7.1</number><number>0.15</number>
+<number shadow='shadow1' tooltip='7:48 1-10-IND 28IND 0 ARZ 7 LI: 1.430-S.Taylor up the middle to IND 25 for 3 yards(96-J.Chapman).'>7.2</number><number>0.16</number>
+<number shadow='shadow1' tooltip='7:15 2-7-IND 25IND 0 ARZ 7 LI: 1.338-A.Ellington up the middle to IND 12 for 13 yards(50-J.Freeman; 51-P.Angerer).'>7.75</number><number>0.13</number>
+<number shadow='shadow1' tooltip='6:32 1-10-IND 12IND 0 ARZ 7 LI: 1.421-P.Peterson left end to IND 10 for 2 yards(20-D.Butler).'>8.47</number><number>0.14</number>
+<number shadow='shadow1' tooltip='5:52 2-8-IND 10IND 0 ARZ 7 LI: 1.3(Shotgun) 3-C.Palmer pass incomplete short right to 11-L.Fitzgerald.'>9.13</number><number>0.16</number>
+<number shadow='shadow1' tooltip='5:47 3-8-IND 10IND 0 ARZ 7 LI: 1.1(Shotgun) 3-C.Palmer pass incomplete short middle to 12-A.Roberts (92-B.Werner 41-A.Bethea).'>9.22</number><number>0.19</number>
+<number shadow='shadow1' tooltip='5:43 4-8-IND 10IND 0 ARZ 7 LI: 0.84-J.Feely 28 yard field goal is BLOCKED (38-S.Brown) Center-82-M.Leach Holder-9-D.Zastudil.'>9.28</number><number>0.28</number>
+<number shadow='shadow1' tooltip='5:38 1-10-IND 20IND 0 ARZ 7 LI: 1.512-A.Luck pass short left to 80-C.Fleener to IND 36 for 16 yards(56-K.Dansby).'>9.37</number><number>0.3</number>
+<number shadow='shadow1' tooltip='4:55 1-10-IND 36IND 0 ARZ 7 LI: 1.312-A.Luck pass short right to 86-J.Cunningham to IND 40 for 4 yards(91-M.Shaughnessy).'>10.08</number><number>0.31</number>
+<number shadow='shadow1' tooltip='4:18 2-6-IND 40IND 0 ARZ 7 LI: 1.334-T.Richardson up the middle to IND 48 for 8 yards(32-T.Mathieu).'>10.7</number><number>0.32</number>
+<number shadow='shadow1' tooltip='3:40 1-10-IND 48IND 0 ARZ 7 LI: 1.212-A.Luck pass incomplete short middle to 80-C.Fleener.'>11.33</number><number>0.33</number>
+<number shadow='shadow1' tooltip='3:34 1-10-ARZ 47IND 0 ARZ 7 LI: 1.234-T.Richardson up the middle to ARZ 46 for 1 yard(93-C.Campbell).'>11.43</number><number>0.33</number>
+<number shadow='shadow1' tooltip='3:03 2-9-ARZ 46IND 0 ARZ 7 LI: 1.1(Shotgun) 12-A.Luck pass short middle to 13-T.Hilton to ARZ 34 for 12 yards(32-T.Mathieu).'>11.95</number><number>0.35</number>
+<number shadow='shadow1' tooltip='2:22 1-10-ARZ 34IND 0 ARZ 7 LI: 112-A.Luck pass incomplete deep right to 13-T.Hilton [93-C.Campbell].'>12.63</number><number>0.44</number>
+<number shadow='shadow1' tooltip='2:16 1-10-ARZ 10IND 0 ARZ 7 LI: 1.3IND #72 reports as eligble 34-T.Richardson up the middle to ARZ 9 for 1 yard(56-K.Dansby).'>12.73</number><number>0.43</number>
+<number shadow='shadow1' tooltip='1:34 2-9-ARZ 9IND 0 ARZ 7 LI: 1.212-A.Luck pass incomplete short left to 81-D.Heyward-Bey.'>13.43</number><number>0.4</number>
+<number shadow='shadow1' tooltip='1:29 3-9-ARZ 9IND 0 ARZ 7 LI: 0.9(Shotgun) 12-A.Luck pass incomplete short left to 81-D.Heyward-Bey.'>13.52</number><number>0.36</number>
+<number shadow='shadow1' tooltip='1:19 4-9-ARZ 9IND 0 ARZ 7 LI: 0.54-A.Vinatieri 27 yard field goal is GOOD Center-45-M.Overton Holder-1-P.McAfee.'>13.68</number><number>0.35</number>
+<number shadow='shadow1' tooltip='1:19 IND 3 ARZ 7 LI: 1-P.McAfee kicks 65 yards from IND 35 to end zone Touchback.'>13.77</number><number>0.36</number>
+<number shadow='shadow1' tooltip='0:38 2-2-ARZ 28IND 3 ARZ 7 LI: 1.428-R.Mendenhall right end to ARZ 41 for 13 yards(52-K.Sheppard).'>14.37</number><number>0.32</number>
+<number shadow='shadow1' tooltip='15:00 1-10-ARZ 41IND 3 ARZ 7 LI: 1.411-L.Fitzgerald left end to ARZ 45 for 4 yards(50-J.Freeman).'>15</number><number>0.32</number>
+<number shadow='shadow1' tooltip='14:21 2-6-ARZ 45IND 3 ARZ 7 LI: 1.33-C.Palmer pass deep right to 15-M.Floyd to IND 26 for 29 yards(23-V.Davis).'>15.65</number><number>0.26</number>
+<number shadow='shadow1' tooltip='13:35 1-10-IND 26IND 3 ARZ 7 LI: 1.23-C.Palmer pass deep right to 11-L.Fitzgerald for 26 yards TOUCHDOWN [52-K.Sheppard].'>16.42</number><number>0.17</number>
+<number shadow='shadow1' tooltip='13:35 IND 3 ARZ 7 LI: 4-J.Feely extra point is GOOD Center-82-M.Leach Holder-9-D.Zastudil.'>16.46</number><number>0.17</number>
+<number shadow='shadow1' tooltip='13:35 IND 3 ARZ 14 LI: 4-J.Feely kicks 69 yards from ARZ 35 to IND -436-D.Herron Touchback.'>16.51</number><number>0.16</number>
+<number shadow='shadow1' tooltip='13:29 1-10-IND 20IND 3 ARZ 14 LI: 0.431-D.Brown up the middle to IND 20 for no gain (90-D.Dockett).'>16.52</number><number>0.16</number>
+<number shadow='shadow1' tooltip='12:52 2-10-IND 20IND 3 ARZ 14 LI: 0.412-A.Luck pass incomplete deep right to 13-T.Hilton [93-C.Campbell]IND-13-T.Hilton was injured during the playHis return is Questionable.'>17.13</number><number>0.15</number>
+<number shadow='shadow1' tooltip='12:45 3-10-IND 20IND 3 ARZ 14 LI: 0.3(Shotgun) 12-A.Luck pass incomplete short left to 80-C.Fleener (32-T.Mathieu) [93-C.Campbell].'>17.25</number><number>0.14</number>
+<number shadow='shadow1' tooltip='12:40 4-10-IND 20IND 3 ARZ 14 LI: 0.21-P.McAfee punts 38 yards to ARZ 42 Center-45-M.Overton downed by IND-58-A.Studebaker.'>17.33</number><number>0.15</number>
+<number shadow='shadow1' tooltip='12:30 1-10-ARZ 32IND 3 ARZ 14 LI: 0.8PENALTY on ARZ-79-B.Sowell False Start 5 yards enforced at ARZ 32 - No Play.'>17.5</number><number>0.16</number>
+<number shadow='shadow1' tooltip='11:54 2-11-ARZ 31IND 3 ARZ 14 LI: 0.7(Shotgun) 3-C.Palmer pass short right to 84-R.Housler pushed ob at ARZ 37 for 6 yards(31-D.Brown).'>18.1</number><number>0.15</number>
+<number shadow='shadow1' tooltip='11:23 3-5-ARZ 37IND 3 ARZ 14 LI: 0.7(Shotgun) 3-C.Palmer pass short left to 12-A.Roberts to ARZ 45 for 8 yards.'>18.62</number><number>0.12</number>
+<number shadow='shadow1' tooltip='10:20 2-6-IND 36IND 3 ARZ 14 LI: 0.63-C.Palmer pass short right to 15-M.Floyd to IND 25 for 11 yards(32-C.Vaughn).'>19.67</number><number>0.1</number>
+<number shadow='shadow1' tooltip='9:36 1-10-IND 25IND 3 ARZ 14 LI: 0.73-C.Palmer pass incomplete short left to 11-L.Fitzgerald.'>20.4</number><number>0.1</number>
+<number shadow='shadow1' tooltip='9:32 2-10-IND 25IND 3 ARZ 14 LI: 0.73-C.Palmer pass short left to 12-A.Roberts to IND 22 for 3 yards(23-V.Davis).'>20.47</number><number>0.1</number>
+<number shadow='shadow1' tooltip='8:54 3-7-IND 22IND 3 ARZ 14 LI: 0.6(Shotgun) 3-C.Palmer sacked at IND 30 for -8 yards(98-R.Mathis)FUMBLES (98-R.Mathis) recovered by ARZ-71-D.Colledge at IND 3071-D.Colledge to IND 30 for no gain (99-R.Jean Francois).'>21.1</number><number>0.13</number>
+<number shadow='shadow1' tooltip='8:19 4-15-IND 30IND 3 ARZ 14 LI: 0.54-J.Feely 48 yard field goal is GOOD Center-82-M.Leach Holder-9-D.Zastudil.'>21.68</number><number>0.1</number>
+<number shadow='shadow1' tooltip='8:19 IND 3 ARZ 17 LI: 4-J.Feely kicks 73 yards from ARZ 35 to IND -885-D.Reed Touchback.'>21.77</number><number>0.1</number>
+<number shadow='shadow1' tooltip='8:07 2-10-IND 20IND 3 ARZ 17 LI: 0.3(Shotgun) 12-A.Luck pass short middle intended for 80-C.Fleener INTERCEPTED by 56-K.Dansby [90-D.Dockett] at IND 2256-K.Dansby for 22 yards TOUCHDOWN.'>21.88</number><number>0.08</number>
+<number shadow='shadow1' tooltip='8:07 IND 3 ARZ 17 LI: 4-J.Feely extra point is GOOD Center-82-M.Leach Holder-9-D.Zastudil.'>21.92</number><number>0.08</number>
+<number shadow='shadow1' tooltip='8:07 IND 3 ARZ 24 LI: 4-J.Feely kicks 70 yards from ARZ 35 to IND -585-D.Reed to IND 16 for 21 yards(13-J.Brown; 31-J.Bethel).'>21.97</number><number>0.06</number>
+<number shadow='shadow1' tooltip='7:54 1-10-IND 16IND 3 ARZ 24 LI: 0.3(Shotgun) 12-A.Luck pass short right to 13-T.Hilton pushed ob at IND 21 for 5 yards(21-P.Peterson).'>22.1</number><number>0.07</number>
+<number shadow='shadow1' tooltip='7:37 2-5-IND 21IND 3 ARZ 24 LI: 0.2(Shotgun) 31-D.Brown up the middle to IND 22 for 1 yard(56-K.Dansby 37-Y.Bell).'>22.38</number><number>0.07</number>
+<number shadow='shadow1' tooltip='7:00 3-4-IND 22IND 3 ARZ 24 LI: 0.2(Shotgun) 12-A.Luck pass incomplete deep left to 81-D.Heyward-Bey [59-M.Benard].'>23</number><number>0.06</number>
+<number shadow='shadow1' tooltip='6:54 4-4-IND 22IND 3 ARZ 24 LI: 0.11-P.McAfee punts 45 yards to ARZ 33 Center-45-M.Overton fair catch by 21-P.Peterson.'>23.1</number><number>0.05</number>
+<number shadow='shadow1' tooltip='6:47 1-10-ARZ 33IND 3 ARZ 24 LI: 0.728-R.Mendenhall up the middle to ARZ 33 for no gain (92-B.Werner).'>23.22</number><number>0.06</number>
+<number shadow='shadow1' tooltip='6:13 2-10-ARZ 33IND 3 ARZ 24 LI: 0.53-C.Palmer pass short right to 15-M.Floyd to ARZ 46 for 13 yards(32-C.Vaughn).'>23.78</number><number>0.06</number>
+<number shadow='shadow1' tooltip='5:27 1-10-ARZ 46IND 3 ARZ 24 LI: 0.33-C.Palmer sacked at ARZ 38 for -8 yards(99-R.Jean Francois).'>24.55</number><number>0.05</number>
+<number shadow='shadow1' tooltip='4:49 2-18-ARZ 38IND 3 ARZ 24 LI: 0.538-A.Ellington up the middle ran ob at IND 45 for 17 yards(41-A.Bethea).'>25.18</number><number>0.05</number>
+<number shadow='shadow1' tooltip='4:10 3-1-IND 45IND 3 ARZ 24 LI: 0.2(Shotgun) 38-A.Ellington left tackle to IND 47 for -2 yards(98-R.Mathis).'>25.83</number><number>0.04</number>
+<number shadow='shadow1' tooltip='3:38 4-3-IND 47IND 3 ARZ 24 LI: 0.39-D.Zastudil punts 35 yards to IND 12 Center-82-M.Leach fair catch by 15-L.Brazill.'>26.37</number><number>0.03</number>
+<number shadow='shadow1' tooltip='3:31 1-10-IND 12IND 3 ARZ 24 LI: 0.112-A.Luck pass short middle to 64-S.Satele to IND 12 for no gain (25-J.Powers)Ball was tipped by ARZ #93 at line of scrimmage'>26.48</number><number>0.04</number>
+<number shadow='shadow1' tooltip='2:43 2-10-IND 12IND 3 ARZ 24 LI: 0.112-A.Luck pass incomplete short middle to 80-C.Fleener (25-J.Powers)ARZ-25-J.Powers was injured during the playHis return is Questionable.'>27.28</number><number>0.04</number>
+<number shadow='shadow1' tooltip='2:36 3-10-IND 12IND 3 ARZ 24 LI: 0.1(Shotgun) 12-A.Luck pass short middle to 13-T.Hilton to IND 17 for 5 yards(90-D.Dockett).'>27.4</number><number>0.04</number>
+<number shadow='shadow1' tooltip='2:00 4-5-IND 17IND 3 ARZ 24 LI: 0.21-P.McAfee punts 45 yards to ARZ 38 Center-45-M.Overton21-P.Peterson to ARZ 49 for 11 yards(21-J.Brown).'>28</number><number>0.04</number>
+<number shadow='shadow1' tooltip='1:49 1-10-ARZ 49IND 3 ARZ 24 LI: 0.2(Shotgun) 11-L.Fitzgerald pass incomplete short left.'>28.18</number><number>0.03</number>
+<number shadow='shadow1' tooltip='1:41 2-10-ARZ 49IND 3 ARZ 24 LI: 0.33-C.Palmer pass short right to 21-P.Peterson to ARZ 45 for -4 yards(32-C.Vaughn; 41-A.Bethea).'>28.32</number><number>0.04</number>
+<number shadow='shadow1' tooltip='1:00 3-14-ARZ 45IND 3 ARZ 24 LI: 0.2(Shotgun) 3-C.Palmer pass deep middle to 11-L.Fitzgerald to IND 39 for 16 yards(41-A.Bethea 30-L.Landry).'>29</number><number>0.03</number>
+<number shadow='shadow1' tooltip='0:52 1-10-IND 39IND 3 ARZ 24 LI: 0.2(Shotgun) 3-C.Palmer pass short left to 29-A.Smith to IND 33 for 6 yards(51-P.Angerer).'>29.13</number><number>0.03</number>
+<number shadow='shadow1' tooltip='0:34 2-4-IND 33IND 3 ARZ 24 LI: 0.1(No Huddle Shotgun) 3-C.Palmer pass incomplete short middle to 11-L.Fitzgerald (41-A.Bethea).'>29.43</number><number>0.03</number>
+<number shadow='shadow1' tooltip='0:29 3-4-IND 33IND 3 ARZ 24 LI: 0.1(Shotgun) 3-C.Palmer pass short middle to 30-S.Taylor to IND 32 for 1 yard(90-C.Redding).'>29.52</number><number>0.04</number>
+<number shadow='shadow1' tooltip='0:03 4-3-IND 32IND 3 ARZ 24 LI: 0.14-J.Feely 50 yard field goal is GOOD Center-82-M.Leach Holder-9-D.Zastudil.'>29.95</number><number>0.04</number>
+<number shadow='shadow1' tooltip='0:03 IND 3 ARZ 27 LI: 4-J.Feely kicks 71 yards from ARZ 35 to IND -685-D.Reed to IND 24 for 30 yards(35-J.Arenas)ARZ-59-M.Benard was injured during the playHis return is Questionable.'>30.04</number><number>0.04</number>
+<number shadow='shadow1' tooltip='14:53 1-10-IND 24IND 3 ARZ 27 LI: 0.1(Shotgun) 12-A.Luck pass short left to 13-T.Hilton to IND 29 for 5 yards(21-P.Peterson).'>30.12</number><number>0.05</number>
+<number shadow='shadow1' tooltip='14:29 2-5-IND 29IND 3 ARZ 27 LI: 0.2(No Huddle Shotgun) 12-A.Luck pass short left to 34-T.Richardson to IND 32 for 3 yards(56-K.Dansby).'>30.52</number><number>0.05</number>
+<number shadow='shadow1' tooltip='13:57 3-2-IND 32IND 3 ARZ 27 LI: 0.2(Shotgun) 12-A.Luck pass short right to 80-C.Fleener to IND 42 for 10 yards(91-M.Shaughnessy).'>31.05</number><number>0.05</number>
+<number shadow='shadow1' tooltip='13:31 1-10-IND 42IND 3 ARZ 27 LI: 0.1(No Huddle Shotgun) 12-A.Luck pass short left to 81-D.Heyward-Bey to 50 for 8 yards(25-J.Powers).'>31.48</number><number>0.05</number>
+<number shadow='shadow1' tooltip='12:55 2-2-50IND 3 ARZ 27 LI: 0.1(Shotgun) 12-A.Luck sacked at IND 46 for -4 yards(sack split by 90-D.Dockett and 93-C.Campbell).'>32.08</number><number>0.06</number>
+<number shadow='shadow1' tooltip='12:20 3-6-IND 46IND 3 ARZ 27 LI: 0.2(Shotgun) 12-A.Luck pass short right to 15-L.Brazill to ARZ 40 for 14 yards(26-R.Johnson).'>32.67</number><number>0.05</number>
+<number shadow='shadow1' tooltip='11:51 1-10-ARZ 40IND 3 ARZ 27 LI: 0.1(No Huddle Shotgun) 12-A.Luck pass short left to 81-D.Heyward-Bey to ARZ 36 for 4 yards(21-P.Peterson).'>33.15</number><number>0.05</number>
+<number shadow='shadow1' tooltip='11:24 2-6-ARZ 36IND 3 ARZ 27 LI: 0.1(No Huddle Shotgun) 12-A.Luck pass incomplete deep right to 85-D.Reed.'>33.6</number><number>0.06</number>
+<number shadow='shadow1' tooltip='11:18 3-6-ARZ 36IND 3 ARZ 27 LI: 0.1(Shotgun) 12-A.Luck pass incomplete short right to 85-D.Reed (25-J.Powers).'>33.7</number><number>0.07</number>
+<number shadow='shadow1' tooltip='11:14 4-6-ARZ 36IND 3 ARZ 27 LI: 0.2(Shotgun) 12-A.Luck pass incomplete short left to 15-L.Brazill (32-T.Mathieu).'>33.77</number><number>0.05</number>
+<number shadow='shadow1' tooltip='11:08 1-10-ARZ 36IND 3 ARZ 27 LI: 0.128-R.Mendenhall up the middle to ARZ 38 for 2 yards(99-R.Jean Francois).'>33.87</number><number>0.04</number>
+<number shadow='shadow1' tooltip='10:33 2-8-ARZ 38IND 3 ARZ 27 LI: 0.138-A.Ellington left tackle to ARZ 38 for no gain (51-P.Angerer).'>34.45</number><number>0.03</number>
+<number shadow='shadow1' tooltip='9:55 3-8-ARZ 38IND 3 ARZ 27 LI: 0.2(Shotgun) 3-C.Palmer pass deep middle to 13-J.Brown to IND 46 for 16 yards(41-A.Bethea) [98-R.Mathis].'>35.08</number><number>0.04</number>
+<number shadow='shadow1' tooltip='9:23 1-10-IND 46IND 3 ARZ 27 LI: 0.128-R.Mendenhall up the middle to IND 45 for 1 yard(98-R.Mathis; 52-K.Sheppard).'>35.62</number><number>0.02</number>
+<number shadow='shadow1' tooltip='8:45 2-9-IND 45IND 3 ARZ 27 LI: 0.238-A.Ellington up the middle to 50 for -5 yards(50-J.Freeman).'>36.25</number><number>0.02</number>
+<number shadow='shadow1' tooltip='8:04 3-14-50IND 3 ARZ 27 LI: 0.2(Shotgun) 3-C.Palmer pass short right to 15-M.Floyd pushed ob at IND 36 for 14 yards(32-C.Vaughn).'>36.93</number><number>0.02</number>
+<number shadow='shadow1' tooltip='7:35 1-10-IND 36IND 3 ARZ 27 LI: 0.128-R.Mendenhall up the middle to IND 34 for 2 yards(96-J.Chapman).'>37.42</number><number>0.02</number>
+<number shadow='shadow1' tooltip='6:54 2-8-IND 34IND 3 ARZ 27 LI: 0.13-C.Palmer pass short left to 15-M.Floyd to IND 25 for 9 yards(23-V.Davis).'>38.1</number><number>0.02</number>
+<number shadow='shadow1' tooltip='6:18 1-10-IND 25IND 3 ARZ 27 LI: 0.13-C.Palmer pass incomplete deep right to 11-L.Fitzgerald.'>38.7</number><number>0.02</number>
+<number shadow='shadow1' tooltip='6:11 2-10-IND 25IND 3 ARZ 27 LI: 0.13-C.Palmer pass incomplete short middle to 81-J.Dray.'>38.82</number><number>0.02</number>
+<number shadow='shadow1' tooltip='6:07 3-10-IND 25IND 3 ARZ 27 LI: 0.1(Shotgun) 3-C.Palmer pass incomplete deep left to 11-L.Fitzgerald.'>38.88</number><number>0.02</number>
+<number shadow='shadow1' tooltip='6:02 1-5-IND 5IND 3 ARZ 27 LI: 0.128-R.Mendenhall right tackle for 5 yards TOUCHDOWN.'>38.97</number><number>0.02</number>
+<number shadow='shadow1' tooltip='6:02 IND 3 ARZ 27 LI: 4-J.Feely extra point is GOOD Center-82-M.Leach Holder-9-D.Zastudil.'>39.01</number><number>0.02</number>
+<number shadow='shadow1' tooltip='6:02 IND 3 ARZ 34 LI: 4-J.Feely kicks 69 yards from ARZ 35 to IND -485-D.Reed to IND 31 for 35 yards(4-J.Feely).'>39.06</number><number>0.02</number>
+<number shadow='shadow1' tooltip='5:51 1-10-IND 31IND 3 ARZ 34 LI: 0.1(Shotgun) 12-A.Luck pass incomplete deep middle to 47-W.Saunders (26-R.Johnson).'>39.15</number><number>0.03</number>
+<number shadow='shadow1' tooltip='5:45 2-10-IND 31IND 3 ARZ 34 LI: 0.1(Shotgun) 12-A.Luck pass short right to 31-D.Brown to IND 29 for -2 yards(90-D.Dockett; 58-D.Washington).'>39.25</number><number>0.03</number>
+<number shadow='shadow1' tooltip='5:02 3-12-IND 29IND 3 ARZ 34 LI: 0.1(Shotgun) 12-A.Luck pass incomplete short left to 80-C.Fleener.'>39.97</number><number>0.03</number>
+<number shadow='shadow1' tooltip='4:57 4-12-IND 29IND 3 ARZ 34 LI: 0.11-P.McAfee punts 54 yards to ARZ 17 Center-45-M.Overton21-P.Peterson to ARZ 29 for 12 yards(58-A.Studebaker).'>40.05</number><number>0.03</number>
+<number shadow='shadow1' tooltip='4:44 1-10-ARZ 29IND 3 ARZ 34 LI: 0.128-R.Mendenhall up the middle to ARZ 27 for -2 yards(91-R.Mathews 52-K.Sheppard).'>40.27</number><number>0.02</number>
+<number shadow='shadow1' tooltip='4:04 2-12-ARZ 27IND 3 ARZ 34 LI: 0.13-C.Palmer pass deep left to 15-M.Floyd to ARZ 46 for 19 yards(41-A.Bethea).'>40.93</number><number>0.03</number>
+<number shadow='shadow1' tooltip='3:17 1-10-ARZ 46IND 3 ARZ 34 LI: 0.128-R.Mendenhall right tackle to ARZ 48 for 2 yards(32-C.Vaughn).'>41.72</number><number>0.02</number>
+<number shadow='shadow1' tooltip='2:34 2-8-ARZ 48IND 3 ARZ 34 LI: 0.138-A.Ellington up the middle to IND 48 for 4 yards(51-P.Angerer).'>42.43</number><number>0.02</number>
+<number shadow='shadow1' tooltip='1:51 3-4-IND 48IND 3 ARZ 34 LI: 0.1(Shotgun) 3-C.Palmer pass short left to 38-A.Ellington pushed ob at IND 35 for 13 yards(50-J.Freeman).'>43.15</number><number>0.02</number>
+<number shadow='shadow1' tooltip='1:20 1-10-IND 35IND 3 ARZ 34 LI: 0.13-C.Palmer pass incomplete deep left to 11-L.Fitzgerald [99-R.Jean Francois]IND-23-V.Davis was injured during the playHis return is Questionable.'>43.67</number><number>0.02</number>
+<number shadow='shadow1' tooltip='1:13 2-10-IND 35IND 3 ARZ 34 LI: 0.138-A.Ellington up the middle to IND 35 for no gain (51-P.Angerer 99-R.Jean Francois).'>43.78</number><number>0.01</number>
+<number shadow='shadow1' tooltip='0:44 2-20-IND 45IND 3 ARZ 34 LI: 0.1(Shotgun) 3-C.Palmer pass incomplete short right to 12-A.Roberts.'>44.27</number><number>0.01</number>
+<number shadow='shadow1' tooltip='0:38 3-20-IND 45IND 3 ARZ 34 LI: 0.1(Shotgun) 3-C.Palmer sacked at ARZ 47 for -8 yards(99-R.Jean Francois).'>44.37</number><number>0.01</number>
+<number shadow='shadow1' tooltip='15:00 4-28-ARZ 47IND 3 ARZ 34 LI: 0.19-D.Zastudil punts 37 yards to IND 16 Center-82-M.Leach downed by ARZ-31-J.Bethel.'>45</number><number>0.01</number>
+<number shadow='shadow1' tooltip='14:48 1-10-IND 16IND 3 ARZ 34 LI: 0.134-T.Richardson up the middle to IND 13 for -3 yards(37-Y.Bell 98-F.Rucker).'>45.2</number><number>0.01</number>
+<number shadow='shadow1' tooltip='14:02 2-13-IND 13IND 3 ARZ 34 LI: 0.1(Shotgun) 12-A.Luck pass incomplete deep right to 47-W.Saunders.'>45.97</number><number>0.01</number>
+<number shadow='shadow1' tooltip='13:53 2-8-IND 18IND 3 ARZ 34 LI: 0.1(Shotgun) 12-A.Luck pass short middle to 15-L.Brazill pushed ob at IND 30 for 12 yards(26-R.Johnson).'>46.12</number><number>0.01</number>
+<number shadow='shadow1' tooltip='13:29 1-10-IND 30IND 3 ARZ 34 LI: 0.1(Shotgun) 12-A.Luck pass short middle to 13-T.Hilton to IND 41 for 11 yards(32-T.Mathieu).'>46.52</number><number>0.02</number>
+<number shadow='shadow1' tooltip='13:04 1-10-IND 41IND 3 ARZ 34 LI: 0.1(Shotgun) 34-T.Richardson up the middle to IND 47 for 6 yards(93-C.Campbell).'>46.93</number><number>0.02</number>
+<number shadow='shadow1' tooltip='12:36 2-4-IND 47IND 3 ARZ 34 LI: 0.1(No Huddle Shotgun) 12-A.Luck pass short right to 34-T.Richardson to ARZ 45 for 8 yards(26-R.Johnson).'>47.4</number><number>0.02</number>
+<number shadow='shadow1' tooltip='12:09 1-10-ARZ 45IND 3 ARZ 34 LI: 0.1(Shotgun) 12-A.Luck pass short left to 85-D.Reed pushed ob at ARZ 45 for no gain (56-K.Dansby).'>47.85</number><number>0.02</number>
+<number shadow='shadow1' tooltip='11:46 1-20-IND 45IND 3 ARZ 34 LI: 0.1(Shotgun) 12-A.Luck pass incomplete short left to 13-T.Hilton [59-M.Benard].'>48.23</number><number>0.01</number>
+<number shadow='shadow1' tooltip='11:42 2-20-IND 45IND 3 ARZ 34 LI: 0.1(Shotgun) 12-A.Luck pass short left to 81-D.Heyward-Bey pushed ob at ARZ 45 for 10 yards.'>48.3</number><number>0.01</number>
+<number shadow='shadow1' tooltip='11:15 3-10-ARZ 45IND 3 ARZ 34 LI: 0.1(Shotgun) 12-A.Luck scrambles up the middle ran ob at ARZ 17 for 28 yards(25-J.Powers).'>48.75</number><number>0.03</number>
+<number shadow='shadow1' tooltip='10:41 1-10-ARZ 17IND 3 ARZ 34 LI: 0.2(Shotgun) 12-A.Luck pass incomplete deep right to 13-T.Hilton.'>49.32</number><number>0.02</number>
+<number shadow='shadow1' tooltip='10:36 2-10-ARZ 17IND 3 ARZ 34 LI: 0.1(Shotgun) 12-A.Luck pass incomplete short left to 31-D.Brown.'>49.4</number><number>0.01</number>
+<number shadow='shadow1' tooltip='10:31 3-10-ARZ 17IND 3 ARZ 34 LI: 0.1(Shotgun) 12-A.Luck pass deep middle to 80-C.Fleener for 17 yards TOUCHDOWN [98-F.Rucker].'>49.48</number><number>0.01</number>
+<number shadow='shadow1' tooltip='10:31 IND 11 ARZ 34 LI: 1-P.McAfee kicks onside 9 yards from IND 35 to IND 4415-M.Floyd (didn&#39;t try to advance) to IND 44 for no gain.'>49.57</number><number>0.01</number>
+<number shadow='shadow1' tooltip='9:45 2-9-IND 38IND 11 ARZ 34 LI: 0.13-C.Palmer pass incomplete short left to 28-R.Mendenhall (99-R.Jean Francois).'>50.25</number><number>0.01</number>
+<number shadow='shadow1' tooltip='9:41 3-9-IND 38IND 11 ARZ 34 LI: 0.1(Shotgun) 3-C.Palmer pass deep left to 12-A.Roberts to IND 6 for 32 yards(21-J.Brown).'>50.32</number><number>0.01</number>
+<number shadow='shadow1' tooltip='9:07 1-6-IND 6IND 11 ARZ 34 LI: 0.128-R.Mendenhall right end for 6 yards TOUCHDOWN NULLIFIED by Penalty.'>50.88</number><number>0.01</number>
+<number shadow='shadow1' tooltip='9:00 1-16-IND 16IND 11 ARZ 34 LI: 0.13-C.Palmer pass short right to 11-L.Fitzgerald to IND 13 for 3 yards(21-J.Brown).'>51</number><number>0.01</number>
+<number shadow='shadow1' tooltip='8:15 2-13-IND 13IND 11 ARZ 34 LI: 0.13-C.Palmer pass short right to 84-R.Housler to IND 3 for 10 yards(32-C.Vaughn).'>51.75</number><number>0.01</number>
+<number shadow='shadow1' tooltip='7:28 3-3-IND 3IND 11 ARZ 34 LI: 0.1(Shotgun) 3-C.Palmer pass incomplete short left to 11-L.Fitzgerald.'>52.53</number><number>0.01</number>
+<number shadow='shadow1' tooltip='7:23 4-3-IND 3IND 11 ARZ 34 LI: 0.14-J.Feely 21 yard field goal is GOOD Center-82-M.Leach Holder-9-D.Zastudil.'>52.62</number><number>0.01</number>
+<number shadow='shadow1' tooltip='7:23 IND 11 ARZ 37 LI: 4-J.Feely kicks 72 yards from ARZ 35 to IND -785-D.Reed Touchback.'>52.71</number><number>0.01</number>
+<number shadow='shadow1' tooltip='6:55 1-10-IND 32IND 11 ARZ 37 LI: 0.1(Shotgun) 12-A.Luck pass incomplete short left to 47-W.Saunders.'>53.08</number><number>0.01</number>
+<number shadow='shadow1' tooltip='6:47 2-10-IND 32IND 11 ARZ 37 LI: 0.1(Shotgun) 12-A.Luck pass short left to 15-L.Brazill to IND 41 for 9 yards(25-J.Powers).'>53.22</number><number>0.01</number>
+<number shadow='shadow1' tooltip='6:07 3-1-IND 41IND 11 ARZ 37 LI: 0.1(No Huddle Shotgun) 12-A.Luck pass incomplete deep left to 15-L.Brazill (25-J.Powers)IND-15-L.Brazill was injured during the playHis return is Questionable.'>53.88</number><number>0.01</number>
+<number shadow='shadow1' tooltip='6:02 4-1-IND 41IND 11 ARZ 37 LI: 0.1(No Huddle Shotgun) 34-T.Richardson up the middle to IND 41 for no gain (98-F.Rucker).'>53.97</number><number>0.01</number>
+<number shadow='shadow1' tooltip='5:57 1-10-IND 40IND 11 ARZ 37 LI: 0.130-S.Taylor up the middle to IND 40 for no gain (52-K.Sheppard).'>54.05</number><number>0.01</number>
+<number shadow='shadow1' tooltip='5:22 2-10-IND 40IND 11 ARZ 37 LI: 0.13-C.Palmer pass short left to 11-L.Fitzgerald to IND 37 for 3 yards(20-D.Butler).'>54.63</number><number>0.01</number>
+<number shadow='shadow1' tooltip='4:40 3-7-IND 37IND 11 ARZ 37 LI: 0.1(Shotgun) 3-C.Palmer pass short middle to 38-A.Ellington to IND 29 for 8 yards(50-J.Freeman) [30-L.Landry].'>55.33</number><number>0.01</number>
+<number shadow='shadow1' tooltip='4:33 1-10-IND 14IND 11 ARZ 37 LI: 0.130-S.Taylor left tackle to IND 11 for 3 yards(30-L.Landry).'>55.45</number><number>0.01</number>
+<number shadow='shadow1' tooltip='3:49 2-7-IND 11IND 11 ARZ 37 LI: 0.130-S.Taylor up the middle to IND 8 for 3 yards(50-J.Freeman).'>56.18</number><number>0.01</number>
+<number shadow='shadow1' tooltip='3:06 3-4-IND 8IND 11 ARZ 37 LI: 0.1IND #70 reports as eligble 30-S.Taylor up the middle to IND 7 for 1 yard(90-C.Redding 50-J.Freeman).'>56.9</number><number>0.01</number>
+<number shadow='shadow1' tooltip='2:22 4-3-IND 7IND 11 ARZ 37 LI: 0.14-J.Feely 25 yard field goal is GOOD Center-82-M.Leach Holder-9-D.Zastudil.'>57.63</number><number>0.01</number>
+<number shadow='shadow1' tooltip='2:22 IND 11 ARZ 40 LI: 4-J.Feely kicks 71 yards from ARZ 35 to IND -685-D.Reed to IND 23 for 29 yards(29-A.Smith).'>57.72</number><number>0.01</number>
+<number shadow='shadow1' tooltip='2:12 1-10-IND 23IND 11 ARZ 40 LI: 0.136-D.Herron up the middle to IND 45 for 22 yards(37-Y.Bell).'>57.8</number><number>0.01</number>
+<number shadow='shadow1' tooltip='2:00 1-10-IND 45IND 11 ARZ 40 LI: 0.136-D.Herron up the middle to IND 49 for 4 yards(92-D.Williams).'>58</number><number>0.01</number>
+<number shadow='shadow1' tooltip='1:22 2-6-IND 49IND 11 ARZ 40 LI: 0.136-D.Herron up the middle to ARZ 46 for 5 yards(93-C.Campbell; 37-Y.Bell).'>58.63</number><number>0.01</number>
+<number shadow='shadow1' tooltip='0:45 3-1-ARZ 46IND 11 ARZ 40 LI: 0.136-D.Herron up the middle to ARZ 44 for 2 yards(58-D.Washington).'>59.25</number><number>0</number>
+<number>60</number><number>0</number>
+</row> </chart_data>
+       <draw>
+
+
+
+      <image x='45' y='298'  url='nfllogos/42x50png/IND.gif'  layer='foreground' glow = 'glow1'/>
+      <image x='45' y='350'  url='nfllogos/42x50png/ARZ.gif'     layer='foreground' glow = 'glow1'/>
+
+
+      <rect x='130' y='300' width='250' height='40' fill_color='004b86' bevel='bevel1' />
+      <text x='135' y='300' width='250' height='40' h_align='left' v_align='middle' color='ffffff' shadow='shadow2' glow=''>Indianapolis Colts</text>
+
+      <rect x='130' y='350' width='250' height='40' fill_color='b0063a' bevel='bevel1'  />
+      <text x='135' y='350' width='250' height='40' h_align='left' v_align='middle' color='ffffff' shadow='shadow2' glow='winnerglow'>Arizona Cardinals</text>
+
+      <rect x='420' y='300' width='60' height='40' fill_color='004b86' bevel='bevel1'  />
+      <text x='420' y='300' width='60' height='40' h_align='center' v_align='middle' color='ffffff' shadow='shadow2' transition='none' glow=''>11</text>
+
+      <rect x='420' y='350' width='60' height='40' fill_color='b0063a' bevel='bevel1' />
+      <text x='420' y='350' width='60' height='40' h_align='center' v_align='middle' color='ffffff' shadow='shadow2' transition='none' glow='winnerglow'>40</text>
+
+      <text x='-3' y='12'  width='60' height='40' h_align='center' v_align='middle' size='13' shadow='shadow2'>INDWin </text>
+      <text x='-3' y='218' width='60' height='40' h_align='center' v_align='middle' size='13' shadow='shadow2'>ARZWin </text>
+
+     
+              <rect x='540' y='300' width='100' height='35' fill_color='000000' fill_alpha='50'/>
+              <text x='540' y='300' width='100' height='35' h_align='center' v_align='middle' color='ffffff' size='15' shadow='shadow2' >Final</text>
+
+              <text x='540' y='340' width='40' h_align='center' color='000000' size='12' shadow='shadow2'>CBF</text>
+              <text x='600' y='340' width='40' h_align='center' color='000000' size='12' shadow='shadow2'>EI</text>
+
+              <rect x='540' y='360' width='40' height='30' fill_color='000000' fill_alpha='50' />
+              <text x='540' y='360' width='40' height='30' size='12' h_align='center' v_align='middle' color='FFFFFF' shadow='shadow2'>2</text>
+
+              <rect x='600' y='360' width='40' height='30' fill_color='000000' fill_alpha='50' />
+              <text x='600' y='360' width='40' height='30' size='12' h_align='center' v_align='middle' color='FFFFFF' shadow='shadow2'>1.7</text>
+
+              <text x='20' y='420' width='70' height='25' size='12' h_align='left' v_align='middle' color='000000' >11/24/2013</text>
+              <text x='100' y='420' width='200' height='25' size='12' h_align='left' v_align='middle' color='000000' >University of Phoenix</text>
+
+   </draw></chart>

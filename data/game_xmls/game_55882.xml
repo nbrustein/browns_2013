@@ -1,0 +1,312 @@
+
+<chart>
+   <license>ETAS9P33ESHO.945CWK-2XOI1X0-7L</license>
+   <chart_type>scatter</chart_type>
+   <chart_pref trend_thickness='0' line_thickness='3' point_size='0'/>
+
+   <series_color>
+      <color>ffff00</color>
+   </series_color>
+
+   <chart_rect x='45' y='20' width='630' height='230' positive_color='cacaca'  />
+
+  <chart_border top_thickness='0'
+                 bottom_thickness='0'
+                 left_thickness='0'
+                 right_thickness='0'
+                 color='000000'
+                 />
+
+   <tooltip font='Arial' bold='true' size='11' />
+
+   <chart_note type='flag'
+               color='000000'
+               alpha='90'
+               bold='FALSE'
+               size='10'
+               background_color='ffffe0'
+               background_alpha='50'
+               shadow='shadow2'
+               />
+
+   <chart_grid_h thickness='2' color='ffffff' type='dashed'  />
+   <chart_grid_v thickness='2' color='ffffff'   />
+		>
+
+   <legend layout='hide' />
+
+   <chart_guide horizontal='TRUE'
+             vertical='TRUE'
+             thickness='1'
+             color='006400'
+             alpha='100'
+             type='solid'
+             snap_h='TRUE'
+             snap_v='TRUE'
+             radius='3'
+             fill_color='006400'
+             fill_alpha='100'
+             line_color='006400'
+             line_alpha='80'
+             line_thickness='1'
+             text_h_alpha='50'
+             text_v_alpha='00'
+             suffix_h=' WP'
+             decimals='2'
+             bold='FALSE'
+             size='11'
+             text_color='FFFFFF'
+             background_color='006400'
+             />
+   <filter>
+      <shadow id='shadow1' distance='2' angle='60' blurX='5' blurY='5' alpha='50' />
+      <bevel id='bevel1' angle='45' blurX='5' blurY='5' distance='0' />
+      <glow id='glow1' color='ffffff' alpha='0' blurX='7' blurY='7' strength='6' quality='2' inner='FALSE' knockout='FALSE' />
+      <glow id='winnerglow' color='ffffff' alpha='0' blurX='7' blurY='7' strength='5' quality='2' inner='FALSE' knockout='FALSE' />
+   </filter>
+
+    <axis_value_label>
+         <string></string>
+          <string> </string>
+          <null/>
+          <string> </string>
+          <string></string>
+
+       </axis_value_label>
+		
+	   <axis_ticks category_ticks='false'/>
+
+       <axis_value min='0' max='1' steps='4'  decimals='2' show_min='true' size='13' shadow='shadow2' />     
+            <axis_category
+               min='0'
+               max='60'
+               steps='4'
+               mode='all'
+               decimals='0'
+               size='13'
+               shadow='shadow2'
+               />
+
+       <axis_category_label>
+          <string>Kickoff</string>
+          <string></string>
+          <string>Halftime</string>
+          <string></string>
+          <string>End</string>
+
+       </axis_category_label>
+
+
+        <chart_data>
+       <row>
+	      <null/><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number>
+              <number>x</number><number>y</number>
+              </row><row><string></string>
+
+                     <number shadow='shadow1'>0</number><number>.5</number><number shadow='shadow1' tooltip='15:00 JAX 0 SEA 0 LI: 10-J.Scobee kicks 70 yards from JAX 35 to SEA -515-J.Kearse pushed ob at SEA 18 for 23 yards(86-C.Harbor).'>0.09</number><number>0.49</number>
+<number shadow='shadow1' tooltip='14:19 2-6-SEA 22JAX 0 SEA 0 LI: 1.524-M.Lynch up the middle to SEA 24 for 2 yards(99-S.Marks; 37-J.Cyprien).'>0.68</number><number>0.5</number>
+<number shadow='shadow1' tooltip='13:48 3-4-SEA 24JAX 0 SEA 0 LI: 1.3(Shotgun) 3-R.Wilson pass incomplete short middle to 89-D.Baldwin.'>1.2</number><number>0.54</number>
+<number shadow='shadow1' tooltip='13:44 4-4-SEA 24JAX 0 SEA 0 LI: 0.99-J.Ryan punts 48 yards to JAX 28 Center-49-C.Gresham24-W.Blackmon to JAX 25 for -3 yards(20-J.Lane).'>1.27</number><number>0.53</number>
+<number shadow='shadow1' tooltip='13:33 1-10-JAX 25JAX 0 SEA 0 LI: 1.67-C.Henne FUMBLES (Aborted) at JAX 24 and recovers at JAX 247-C.Henne to JAX 24 for no gain (54-B.Wagner).'>1.45</number><number>0.5</number>
+<number shadow='shadow1' tooltip='12:58 2-11-JAX 24JAX 0 SEA 0 LI: 1.3(Shotgun) 32-M.Jones-Drew up the middle to JAX 22 for -2 yards(99-T.McDaniel).'>2.03</number><number>0.47</number>
+<number shadow='shadow1' tooltip='12:14 3-13-JAX 22JAX 0 SEA 0 LI: 1.1(Shotgun) 7-C.Henne pass short right to 18-A.Sanders to JAX 27 for 5 yards(29-E.Thomas; 39-B.Browner).'>2.77</number><number>0.46</number>
+<number shadow='shadow1' tooltip='11:43 4-8-JAX 27JAX 0 SEA 0 LI: 0.819-B.Anger punts 45 yards to SEA 28 Center-46-C.Tinker81-G.Tate to SEA 29 for 1 yard(56-L.Reynolds).'>3.28</number><number>0.47</number>
+<number shadow='shadow1' tooltip='11:31 1-10-SEA 29JAX 0 SEA 0 LI: 1.581-G.Tate left end to SEA 49 for 20 yards(26-J.Evans).'>3.48</number><number>0.44</number>
+<number shadow='shadow1' tooltip='10:55 1-10-SEA 49JAX 0 SEA 0 LI: 1.3(Shotgun) 3-R.Wilson pass incomplete deep left to 81-G.Tate (35-D.McCray).'>4.08</number><number>0.45</number>
+<number shadow='shadow1' tooltip='10:49 2-10-SEA 49JAX 0 SEA 0 LI: 1.224-M.Lynch right guard to JAX 24 for 27 yards(20-M.Harris 37-J.Cyprien).'>4.18</number><number>0.37</number>
+<number shadow='shadow1' tooltip='10:04 1-10-JAX 24JAX 0 SEA 0 LI: 1.53-R.Wilson pass short right to 82-L.Willson to JAX 9 for 15 yards(24-W.Blackmon; 37-J.Cyprien).'>4.93</number><number>0.34</number>
+<number shadow='shadow1' tooltip='9:22 1-9-JAX 9JAX 0 SEA 0 LI: 1.624-M.Lynch left end to JAX 5 for 4 yards(26-J.Evans; 51-P.Posluszny).'>5.63</number><number>0.32</number>
+<number shadow='shadow1' tooltip='8:44 2-5-JAX 5JAX 0 SEA 0 LI: 1.824-M.Lynch right end to JAX 1 for 4 yards(50-R.Allen; 58-J.Babin)Seattle challenged the runner broke the plane ruling and the play was Upheld(Timeout #1.)'>6.27</number><number>0.32</number>
+<number shadow='shadow1' tooltip='8:09 3-1-JAX 1JAX 0 SEA 0 LI: 1.83-R.Wilson pass short right to 86-Z.Miller for 1 yard TOUCHDOWN.'>6.85</number><number>0.29</number>
+<number shadow='shadow1' tooltip='8:09 JAX 0 SEA 0 LI: 4-S.Hauschka extra point is GOOD Center-49-C.Gresham Holder-9-J.Ryan.'>6.89</number><number>0.29</number>
+<number shadow='shadow1' tooltip='8:09 JAX 0 SEA 7 LI: 4-S.Hauschka kicks 68 yards from SEA 35 to JAX -316-D.Robinson to JAX 24 for 27 yards(29-E.Thomas).'>6.94</number><number>0.29</number>
+<number shadow='shadow1' tooltip='7:59 1-10-JAX 24JAX 0 SEA 7 LI: 1.5(Shotgun) 7-C.Henne pass incomplete short left to 32-M.Jones-Drew.'>7.02</number><number>0.28</number>
+<number shadow='shadow1' tooltip='7:55 2-10-JAX 24JAX 0 SEA 7 LI: 1.4(Shotgun) 32-M.Jones-Drew left tackle to JAX 23 for -1 yards(31-K.Chancellor 28-W.Thurmond).'>7.08</number><number>0.26</number>
+<number shadow='shadow1' tooltip='7:14 3-11-JAX 23JAX 0 SEA 7 LI: 1.2(Shotgun) 7-C.Henne pass incomplete deep left to 15-S.Burton.'>7.77</number><number>0.24</number>
+<number shadow='shadow1' tooltip='7:10 4-11-JAX 23JAX 0 SEA 7 LI: 119-B.Anger punts 43 yards to SEA 34 Center-46-C.Tinker81-G.Tate to SEA 47 for 13 yards(52-J.Thomas).'>7.83</number><number>0.21</number>
+<number shadow='shadow1' tooltip='6:58 1-10-SEA 47JAX 0 SEA 7 LI: 1.2(Shotgun) 3-R.Wilson pass short right to 18-S.Rice to JAX 44 for 9 yards(24-W.Blackmon).'>8.03</number><number>0.19</number>
+<number shadow='shadow1' tooltip='6:24 2-1-JAX 44JAX 0 SEA 7 LI: 1.324-M.Lynch left tackle to JAX 37 for 7 yards(93-T.Alualu; 24-W.Blackmon).'>8.6</number><number>0.17</number>
+<number shadow='shadow1' tooltip='5:46 1-10-JAX 37JAX 0 SEA 7 LI: 1.4PENALTY on SEA-64-J.Sweezy False Start 5 yards enforced at JAX 37 - No Play.'>9.23</number><number>0.18</number>
+<number shadow='shadow1' tooltip='5:31 1-15-JAX 42JAX 0 SEA 7 LI: 1.33-R.Wilson pass incomplete deep right to 81-G.Tate (24-W.Blackmon) [99-S.Marks].'>9.48</number><number>0.22</number>
+<number shadow='shadow1' tooltip='5:24 2-15-JAX 42JAX 0 SEA 7 LI: 0.93-R.Wilson pass short right to 18-S.Rice to JAX 29 for 13 yards(24-W.Blackmon).'>9.6</number><number>0.17</number>
+<number shadow='shadow1' tooltip='4:42 3-2-JAX 29JAX 0 SEA 7 LI: 1.2(Shotgun) 3-R.Wilson sacked at JAX 37 for -8 yards(58-J.Babin).'>10.3</number><number>0.27</number>
+<number shadow='shadow1' tooltip='4:11 4-10-JAX 37JAX 0 SEA 7 LI: 0.49-J.Ryan punts 20 yards to JAX 17 Center-49-C.Gresham out of bounds.'>10.82</number><number>0.28</number>
+<number shadow='shadow1' tooltip='3:56 1-10-JAX 17JAX 0 SEA 7 LI: 1.632-M.Jones-Drew left tackle to JAX 15 for -2 yards(92-B.Mebane).'>11.07</number><number>0.26</number>
+<number shadow='shadow1' tooltip='3:18 2-12-JAX 15JAX 0 SEA 7 LI: 1.47-C.Henne sacked at JAX 6 for -9 yards(69-C.McDonald).'>11.7</number><number>0.2</number>
+<number shadow='shadow1' tooltip='2:37 3-21-JAX 6JAX 0 SEA 7 LI: 0.7(Shotgun) 7-C.Henne pass incomplete short right to 18-A.Sanders [93-O.Schofield].'>12.38</number><number>0.19</number>
+<number shadow='shadow1' tooltip='2:32 4-21-JAX 6JAX 0 SEA 7 LI: 0.619-B.Anger punts 42 yards to JAX 48 Center-46-C.Tinker81-G.Tate to JAX 40 for 8 yards(42-C.Prosinski; 30-J.Todman).'>12.47</number><number>0.18</number>
+<number shadow='shadow1' tooltip='2:22 1-10-JAX 40JAX 0 SEA 7 LI: 1.381-G.Tate left end to JAX 31 for 9 yards(50-R.Allen).'>12.63</number><number>0.16</number>
+<number shadow='shadow1' tooltip='1:40 2-1-JAX 31JAX 0 SEA 7 LI: 1.424-M.Lynch right tackle to JAX 24 for 7 yards(50-R.Allen 26-J.Evans).'>13.33</number><number>0.14</number>
+<number shadow='shadow1' tooltip='1:06 1-10-JAX 24JAX 0 SEA 7 LI: 1.524-M.Lynch left tackle to JAX 25 for -1 yards(94-J.Mincey; 90-A.Branch).'>13.9</number><number>0.17</number>
+<number shadow='shadow1' tooltip='0:25 2-11-JAX 25JAX 0 SEA 7 LI: 1.2(Shotgun) 24-M.Lynch left tackle to JAX 24 for 1 yard(99-S.Marks 94-J.Mincey).'>14.58</number><number>0.18</number>
+<number shadow='shadow1' tooltip='15:00 3-10-JAX 24JAX 0 SEA 7 LI: 1.1(Shotgun) 3-R.Wilson pass deep left to 81-G.Tate ran ob at JAX 4 for 20 yards.'>15</number><number>0.12</number>
+<number shadow='shadow1' tooltip='14:33 1-4-JAX 4JAX 0 SEA 7 LI: 1.53-R.Wilson pass short right to 86-Z.Miller for 4 yards TOUCHDOWN.'>15.45</number><number>0.1</number>
+<number shadow='shadow1' tooltip='14:33 JAX 0 SEA 7 LI: 4-S.Hauschka extra point is GOOD Center-49-C.Gresham Holder-9-J.Ryan.'>15.49</number><number>0.1</number>
+<number shadow='shadow1' tooltip='14:33 JAX 0 SEA 14 LI: 4-S.Hauschka kicks 65 yards from SEA 35 to end zone Touchback.'>15.54</number><number>0.1</number>
+<number shadow='shadow1' tooltip='14:26 1-10-JAX 20JAX 0 SEA 14 LI: 0.17-C.Henne pass short left to 15-S.Burton to JAX 25 for 5 yards(29-E.Thomas).'>15.57</number><number>0.12</number>
+<number shadow='shadow1' tooltip='13:53 2-5-JAX 25JAX 0 SEA 14 LI: 0.232-M.Jones-Drew right guard to JAX 25 for no gain (99-T.McDaniel 50-K.Wright).'>16.12</number><number>0.12</number>
+<number shadow='shadow1' tooltip='13:11 3-5-JAX 25JAX 0 SEA 14 LI: 0.1(Shotgun) 7-C.Henne sacked at JAX 22 for -3 yards(sack split by 72-M.Bennett and 69-C.McDonald).'>16.82</number><number>0.13</number>
+<number shadow='shadow1' tooltip='12:43 4-8-JAX 22JAX 0 SEA 14 LI: 0.2(Punt formation) PENALTY on JAX-30-J.Todman False Start 5 yards enforced at JAX 22 - No Play.'>17.28</number><number>0.12</number>
+<number shadow='shadow1' tooltip='12:33 4-13-JAX 17JAX 0 SEA 14 LI: 0.219-B.Anger punts 41 yards to SEA 42 Center-46-C.Tinker81-G.Tate to JAX 47 for 11 yards(30-J.Todman).'>17.45</number><number>0.12</number>
+<number shadow='shadow1' tooltip='12:23 1-10-JAX 47JAX 0 SEA 14 LI: 0.13-R.Wilson pass deep left to 15-J.Kearse pushed ob at JAX 30 for 17 yards(35-D.McCray).'>17.62</number><number>0.11</number>
+<number shadow='shadow1' tooltip='11:55 1-10-JAX 30JAX 0 SEA 14 LI: 0.13-R.Wilson pass incomplete deep left to 83-S.WilliamsPENALTY on JAX-35-D.McCray Defensive Pass Interference 25 yards enforced at JAX 30 - No Play.'>18.08</number><number>0.07</number>
+<number shadow='shadow1' tooltip='11:50 1-5-JAX 5JAX 0 SEA 14 LI: 0.224-M.Lynch right tackle to JAX 6 for -1 yards(51-P.Posluszny; 97-R.Miller).'>18.17</number><number>0.07</number>
+<number shadow='shadow1' tooltip='11:08 2-6-JAX 6JAX 0 SEA 14 LI: 0.224-M.Lynch up the middle to JAX 1 for 5 yards(58-J.Babin 55-G.Hayes).'>18.87</number><number>0.07</number>
+<number shadow='shadow1' tooltip='10:27 3-1-JAX 1JAX 0 SEA 14 LI: 0.224-M.Lynch left guard to JAX 3 for -2 yards(55-G.Hayes; 42-C.Prosinski).'>19.55</number><number>0.06</number>
+<number shadow='shadow1' tooltip='9:44 4-3-JAX 3JAX 0 SEA 14 LI: 0.34-S.Hauschka 21 yard field goal is GOOD Center-49-C.Gresham Holder-9-J.Ryan.'>20.27</number><number>0.07</number>
+<number shadow='shadow1' tooltip='9:44 JAX 0 SEA 17 LI: 4-S.Hauschka kicks 65 yards from SEA 35 to end zone Touchback.'>20.36</number><number>0.06</number>
+<number shadow='shadow1' tooltip='9:03 2-4-JAX 26JAX 0 SEA 17 LI: 0.332-M.Jones-Drew left guard to JAX 31 for 5 yards(54-B.Wagner).'>20.95</number><number>0.08</number>
+<number shadow='shadow1' tooltip='8:32 1-10-JAX 31JAX 0 SEA 17 LI: 0.17-C.Henne pass incomplete short right.'>21.47</number><number>0.1</number>
+<number shadow='shadow1' tooltip='8:27 2-10-JAX 31JAX 0 SEA 17 LI: 0.332-M.Jones-Drew left tackle to JAX 39 for 8 yards(57-M.Morgan; 54-B.Wagner).'>21.55</number><number>0.1</number>
+<number shadow='shadow1' tooltip='7:42 3-2-JAX 39JAX 0 SEA 17 LI: 0.3(Shotgun) 7-C.Henne left end to JAX 44 for 5 yards.'>22.3</number><number>0.1</number>
+<number shadow='shadow1' tooltip='7:08 1-10-JAX 44JAX 0 SEA 17 LI: 0.332-M.Jones-Drew up the middle to JAX 45 for 1 yard(54-B.Wagner; 69-C.McDonald).'>22.87</number><number>0.1</number>
+<number shadow='shadow1' tooltip='6:23 2-9-JAX 45JAX 0 SEA 17 LI: 0.332-M.Jones-Drew left tackle to JAX 47 for 2 yards(92-B.Mebane).'>23.62</number><number>0.09</number>
+<number shadow='shadow1' tooltip='5:41 3-7-JAX 47JAX 0 SEA 17 LI: 0.2(Shotgun) 7-C.Henne pass incomplete short left to 15-S.Burton.'>24.32</number><number>0.08</number>
+<number shadow='shadow1' tooltip='5:36 4-7-JAX 47JAX 0 SEA 17 LI: 0.119-B.Anger punts 40 yards to SEA 13 Center-46-C.Tinker fair catch by 81-G.Tate.'>24.4</number><number>0.08</number>
+<number shadow='shadow1' tooltip='5:28 1-10-SEA 13JAX 0 SEA 17 LI: 0.63-R.Wilson pass short left to 82-L.Willson to SEA 25 for 12 yards(51-P.Posluszny; 35-D.McCray)PENALTY on SEA-81-G.Tate Illegal Block Above the Waist 10 yards enforced at SEA 25.'>24.53</number><number>0.07</number>
+<number shadow='shadow1' tooltip='5:07 1-8-SEA 15JAX 0 SEA 17 LI: 0.724-M.Lynch right end pushed ob at SEA 21 for 6 yards(51-P.Posluszny).'>24.88</number><number>0.07</number>
+<number shadow='shadow1' tooltip='4:37 2-2-SEA 21JAX 0 SEA 17 LI: 0.6(Shotgun) 22-R.Turbin left end to SEA 26 for 5 yards(58-J.Babin; 51-P.Posluszny).'>25.38</number><number>0.07</number>
+<number shadow='shadow1' tooltip='3:59 1-10-SEA 26JAX 0 SEA 17 LI: 0.5(Shotgun) 22-R.Turbin right end pushed ob at SEA 23 for -3 yards(24-W.Blackmon).'>26.02</number><number>0.08</number>
+<number shadow='shadow1' tooltip='3:25 2-13-SEA 23JAX 0 SEA 17 LI: 0.53-R.Wilson pass incomplete short left to 22-R.Turbin (35-D.McCray).'>26.58</number><number>0.08</number>
+<number shadow='shadow1' tooltip='3:17 3-13-SEA 23JAX 0 SEA 17 LI: 0.5(Shotgun) 3-R.Wilson pass short middle to 81-G.Tate to SEA 42 for 19 yards(51-P.Posluszny 35-D.McCray).'>26.72</number><number>0.06</number>
+<number shadow='shadow1' tooltip='2:38 1-10-SEA 42JAX 0 SEA 17 LI: 0.5(Shotgun) 3-R.Wilson sacked at SEA 35 for -7 yards(37-J.Cyprien)FUMBLES (37-J.Cyprien) [37-J.Cyprien] RECOVERED by JAX-92-B.Deaderick at SEA 4492-B.Deaderick to SEA 44 for no gain (60-M.Unger).'>27.37</number><number>0.11</number>
+<number shadow='shadow1' tooltip='2:30 1-10-SEA 44JAX 0 SEA 17 LI: 0.616-D.Robinson left end to SEA 46 for -2 yards(50-K.Wright).'>27.5</number><number>0.09</number>
+<number shadow='shadow1' tooltip='2:00 2-12-SEA 46JAX 0 SEA 17 LI: 0.4(Shotgun) 7-C.Henne pass short right to 15-S.Burton to SEA 33 for 13 yards(28-W.Thurmond; 31-K.Chancellor).'>28</number><number>0.12</number>
+<number shadow='shadow1' tooltip='1:33 1-10-SEA 33JAX 0 SEA 17 LI: 0.5(No Huddle Shotgun) 7-C.Henne pass incomplete short left to 84-C.ShortsThe Replay Assistant challenged the pass completion ruling and the play was Upheld.'>28.45</number><number>0.1</number>
+<number shadow='shadow1' tooltip='1:26 2-10-SEA 33JAX 0 SEA 17 LI: 0.3(Shotgun) 7-C.Henne pass incomplete short right to 15-S.Burton [91-C.Clemons].'>28.57</number><number>0.09</number>
+<number shadow='shadow1' tooltip='1:22 3-10-SEA 33JAX 0 SEA 17 LI: 0.2(Shotgun) 7-C.Henne pass short middle to 84-C.Shorts to SEA 18 for 15 yards(41-B.Maxwell 31-K.Chancellor).'>28.63</number><number>0.12</number>
+<number shadow='shadow1' tooltip='0:56 1-10-SEA 18JAX 0 SEA 17 LI: 0.5(No Huddle Shotgun) 7-C.Henne pass incomplete deep right to 84-C.Shorts.'>29.07</number><number>0.13</number>
+<number shadow='shadow1' tooltip='0:52 2-10-SEA 18JAX 0 SEA 17 LI: 0.6(Shotgun) 7-C.Henne pass short right intended for 32-M.Jones-Drew INTERCEPTED by 54-B.Wagner at SEA 2154-B.Wagner to SEA 21 for no gain (32-M.Jones-Drew).'>29.13</number><number>0.07</number>
+<number shadow='shadow1' tooltip='0:44 1-10-SEA 21JAX 0 SEA 17 LI: 0.5(Shotgun) 3-R.Wilson pass deep left to 81-G.Tate pushed ob at JAX 49 for 30 yards(35-D.McCray).'>29.27</number><number>0.06</number>
+<number shadow='shadow1' tooltip='0:35 1-10-JAX 49JAX 0 SEA 17 LI: 0.4(Shotgun) 3-R.Wilson pass short left to 81-G.Tate to JAX 44 for 5 yards(35-D.McCray).'>29.42</number><number>0.05</number>
+<number shadow='shadow1' tooltip='0:29 2-5-JAX 44JAX 0 SEA 17 LI: 0.5(Shotgun) 3-R.Wilson pass deep left to 18-S.Rice ran ob at JAX 21 for 23 yards [99-S.Marks].'>29.52</number><number>0.04</number>
+<number shadow='shadow1' tooltip='0:23 1-10-JAX 21JAX 0 SEA 17 LI: 0.4(Shotgun) 3-R.Wilson scrambles right end pushed ob at JAX 11 for 10 yards(24-W.Blackmon).'>29.62</number><number>0.04</number>
+<number shadow='shadow1' tooltip='0:14 1-10-JAX 11JAX 0 SEA 17 LI: 0.3(Shotgun) 3-R.Wilson pass short middle to 18-S.Rice for 11 yards TOUCHDOWN.'>29.77</number><number>0.04</number>
+<number shadow='shadow1' tooltip='0:14 JAX 0 SEA 17 LI: 4-S.Hauschka extra point is GOOD Center-49-C.Gresham Holder-9-J.Ryan.'>29.81</number><number>0.04</number>
+<number shadow='shadow1' tooltip='0:14 JAX 0 SEA 24 LI: 4-S.Hauschka kicks 65 yards from SEA 35 to end zone Touchback.'>29.86</number><number>0.04</number>
+<number shadow='shadow1' tooltip='0:10 JAX 0 SEA 24 LI: 4-S.Hauschka kicks 65 yards from SEA 35 to end zone Touchback.'>29.92</number><number>0.04</number>
+<number shadow='shadow1' tooltip='15:00 1-10-JAX 20JAX 0 SEA 24 LI: 0.232-M.Jones-Drew up the middle to JAX 23 for 3 yards(54-B.Wagner; 79-R.Bryant).'>30</number><number>0.04</number>
+<number shadow='shadow1' tooltip='14:22 2-7-JAX 23JAX 0 SEA 24 LI: 0.17-C.Henne pass short right to 84-C.Shorts ran ob at JAX 26 for 3 yards.'>30.63</number><number>0.05</number>
+<number shadow='shadow1' tooltip='13:50 3-4-JAX 26JAX 0 SEA 24 LI: 0.2(Shotgun) 7-C.Henne pass short left to 84-C.Shorts pushed ob at JAX 32 for 6 yards(39-B.Browner).'>31.17</number><number>0.04</number>
+<number shadow='shadow1' tooltip='13:17 1-10-JAX 32JAX 0 SEA 24 LI: 0.1(Shotgun) Direct snap to 16-D.Robinson 16-D.Robinson sacked at JAX 30 for -2 yardsFUMBLES RECOVERED by SEA-92-B.Mebane at JAX 3392-B.Mebane to JAX 33 for no gain (45-W.Taufoou).'>31.72</number><number>0.03</number>
+<number shadow='shadow1' tooltip='13:07 1-10-JAX 33JAX 0 SEA 24 LI: 0.1(Shotgun) 3-R.Wilson right end ran ob at JAX 29 for 4 yards.'>31.88</number><number>0.03</number>
+<number shadow='shadow1' tooltip='12:39 2-6-JAX 29JAX 0 SEA 24 LI: 0.124-M.Lynch right tackle to JAX 28 for 1 yard(24-W.Blackmon; 55-G.Hayes).'>32.35</number><number>0.03</number>
+<number shadow='shadow1' tooltip='12:02 3-5-JAX 28JAX 0 SEA 24 LI: 0.1(Shotgun) PENALTY on JAX-58-J.Babin Defensive Offside 5 yards enforced at JAX 28 - No PlayUnabated to the QB'>32.97</number><number>0.02</number>
+<number shadow='shadow1' tooltip='11:50 1-10-JAX 23JAX 0 SEA 24 LI: 0.23-R.Wilson pass deep right to 18-S.Rice for 23 yards TOUCHDOWN.'>33.17</number><number>0.04</number>
+<number shadow='shadow1' tooltip='11:50 JAX 0 SEA 24 LI: 4-S.Hauschka extra point is GOOD Center-49-C.Gresham Holder-9-J.Ryan.'>33.21</number><number>0.04</number>
+<number shadow='shadow1' tooltip='11:50 JAX 0 SEA 31 LI: 4-S.Hauschka kicks 65 yards from SEA 35 to end zone Touchback.'>33.26</number><number>0.04</number>
+<number shadow='shadow1' tooltip='11:41 1-10-JAX 20JAX 0 SEA 31 LI: 0.27-C.Henne pass short left to 45-W.Taufoou pushed ob at JAX 26 for 6 yards(93-O.Schofield).'>33.32</number><number>0.04</number>
+<number shadow='shadow1' tooltip='11:16 2-4-JAX 26JAX 0 SEA 31 LI: 0.132-M.Jones-Drew up the middle to JAX 29 for 3 yards(99-T.McDaniel; 93-O.Schofield).'>33.73</number><number>0.04</number>
+<number shadow='shadow1' tooltip='10:47 3-1-JAX 29JAX 0 SEA 31 LI: 0.132-M.Jones-Drew up the middle to JAX 35 for 6 yards(50-K.Wright).'>34.22</number><number>0.03</number>
+<number shadow='shadow1' tooltip='10:10 1-10-JAX 35JAX 0 SEA 31 LI: 0.17-C.Henne pass short middle to 32-M.Jones-Drew to JAX 43 for 8 yards(54-B.Wagner; 29-E.Thomas).'>34.83</number><number>0.04</number>
+<number shadow='shadow1' tooltip='9:33 2-2-JAX 43JAX 0 SEA 31 LI: 0.1(Shotgun) 7-C.Henne pass short right to 15-S.Burton to SEA 44 for 13 yards(29-E.Thomas).'>35.45</number><number>0.04</number>
+<number shadow='shadow1' tooltip='8:59 1-10-SEA 44JAX 0 SEA 31 LI: 0.17-C.Henne pass incomplete short right to 86-C.Harbor (56-C.Avril).'>36.02</number><number>0.04</number>
+<number shadow='shadow1' tooltip='8:56 2-10-SEA 44JAX 0 SEA 31 LI: 0.1#78 Eligible 30-J.Todman left tackle to SEA 42 for 2 yards(69-C.McDonald 54-B.Wagner).'>36.07</number><number>0.05</number>
+<number shadow='shadow1' tooltip='8:15 3-8-SEA 42JAX 0 SEA 31 LI: 0.2(Shotgun) 7-C.Henne pass incomplete deep left to 84-C.Shorts (39-B.Browner).'>36.75</number><number>0.05</number>
+<number shadow='shadow1' tooltip='8:08 4-8-SEA 42JAX 0 SEA 31 LI: 0.219-B.Anger punts 40 yards to SEA 2 Center-46-C.Tinker out of bounds.'>36.87</number><number>0.05</number>
+<number shadow='shadow1' tooltip='8:00 1-10-SEA 2JAX 0 SEA 31 LI: 0.124-M.Lynch left tackle to SEA 5 for 3 yards(93-T.Alualu).'>37</number><number>0.04</number>
+<number shadow='shadow1' tooltip='7:22 2-7-SEA 5JAX 0 SEA 31 LI: 0.124-M.Lynch right tackle to SEA 7 for 2 yards(51-P.Posluszny; 93-T.Alualu).'>37.63</number><number>0.03</number>
+<number shadow='shadow1' tooltip='6:41 3-5-SEA 7JAX 0 SEA 31 LI: 0.1(Shotgun) 3-R.Wilson pass short middle intended for 81-G.Tate INTERCEPTED by 51-P.Posluszny at SEA 1251-P.Posluszny to SEA 2 for 10 yards(3-R.Wilson).'>38.32</number><number>0.05</number>
+<number shadow='shadow1' tooltip='6:31 1-2-SEA 2JAX 0 SEA 31 LI: 0.1(Shotgun) 7-C.Henne pass incomplete short middle to 84-C.Shorts.'>38.48</number><number>0.05</number>
+<number shadow='shadow1' tooltip='6:25 2-2-SEA 2JAX 0 SEA 31 LI: 0.132-M.Jones-Drew left tackle for 2 yards TOUCHDOWN.'>38.58</number><number>0.04</number>
+<number shadow='shadow1' tooltip='6:25 JAX 0 SEA 31 LI: 10-J.Scobee extra point is GOOD Center-46-C.Tinker Holder-19-B.Anger.'>38.62</number><number>0.04</number>
+<number shadow='shadow1' tooltip='6:25 JAX 7 SEA 31 LI: 10-J.Scobee kicks 65 yards from JAX 35 to end zone Touchback.'>38.67</number><number>0.04</number>
+<number shadow='shadow1' tooltip='6:14 2-10-SEA 20JAX 7 SEA 31 LI: 0.124-M.Lynch left tackle to SEA 20 for no gain (58-J.Babin; 93-T.Alualu).'>38.77</number><number>0.03</number>
+<number shadow='shadow1' tooltip='5:36 3-10-SEA 20JAX 7 SEA 31 LI: 0.1(Shotgun) 3-R.Wilson pass incomplete deep left to 18-S.Rice.'>39.4</number><number>0.03</number>
+<number shadow='shadow1' tooltip='5:29 4-10-SEA 20JAX 7 SEA 31 LI: 0.19-J.Ryan punts 54 yards to JAX 26 Center-49-C.Gresham24-W.Blackmon to JAX 26 for no gain (42-C.Maragos)PENALTY on JAX-20-M.Harris Offensive Holding 10 yards enforced at JAX 26.'>39.52</number><number>0.02</number>
+<number shadow='shadow1' tooltip='5:18 1-10-JAX 16JAX 7 SEA 31 LI: 0.17-C.Henne pass incomplete deep right to 84-C.Shorts.'>39.7</number><number>0.02</number>
+<number shadow='shadow1' tooltip='5:14 2-10-JAX 16JAX 7 SEA 31 LI: 0.132-M.Jones-Drew up the middle to JAX 19 for 3 yards(99-T.McDaniel; 54-B.Wagner).'>39.77</number><number>0.03</number>
+<number shadow='shadow1' tooltip='4:34 3-7-JAX 19JAX 7 SEA 31 LI: 0.1(Shotgun) 7-C.Henne sacked at JAX 10 for -9 yards(72-M.Bennett).'>40.43</number><number>0.03</number>
+<number shadow='shadow1' tooltip='4:03 4-16-JAX 10JAX 7 SEA 31 LI: 0.119-B.Anger punts 48 yards to SEA 42 Center-46-C.Tinker fair catch by 81-G.Tate.'>40.95</number><number>0.03</number>
+<number shadow='shadow1' tooltip='3:54 1-10-SEA 42JAX 7 SEA 31 LI: 0.1#7 Jackson in at QB33-C.Michael up the middle to JAX 47 for 11 yards(26-J.Evans).'>41.1</number><number>0.03</number>
+<number shadow='shadow1' tooltip='3:20 1-10-JAX 47JAX 7 SEA 31 LI: 0.133-C.Michael up the middle to JAX 49 for -2 yards(94-J.Mincey).'>41.67</number><number>0.01</number>
+<number shadow='shadow1' tooltip='2:46 2-12-JAX 49JAX 7 SEA 31 LI: 0.17-T.Jackson pass short middle to 87-K.Davis to JAX 41 for 8 yards(51-P.Posluszny; 50-R.Allen).'>42.23</number><number>0.02</number>
+<number shadow='shadow1' tooltip='2:11 3-4-JAX 41JAX 7 SEA 31 LI: 0.1(Shotgun) 7-T.Jackson pass short middle to 82-L.Willson to JAX 35 for 6 yards(51-P.Posluszny; 37-J.Cyprien).'>42.82</number><number>0.02</number>
+<number shadow='shadow1' tooltip='1:36 1-10-JAX 35JAX 7 SEA 31 LI: 0.17-T.Jackson pass deep right to 89-D.Baldwin for 35 yards TOUCHDOWNThe Replay Assistant challenged the runner broke the plane ruling and the play was Upheld.'>43.4</number><number>0.02</number>
+<number shadow='shadow1' tooltip='1:36 JAX 7 SEA 31 LI: 4-S.Hauschka extra point is GOOD Center-49-C.Gresham Holder-9-J.Ryan.'>43.44</number><number>0.02</number>
+<number shadow='shadow1' tooltip='1:36 JAX 7 SEA 38 LI: 4-S.Hauschka kicks 65 yards from SEA 35 to end zone Touchback.'>43.49</number><number>0.02</number>
+<number shadow='shadow1' tooltip='1:28 1-10-JAX 20JAX 7 SEA 38 LI: 0.1(Shotgun) PENALTY on SEA-72-M.Bennett Defensive Offside 5 yards enforced at JAX 20 - No PlayUnabated to the QB.'>43.53</number><number>0.02</number>
+<number shadow='shadow1' tooltip='1:01 1-10-SEA 16JAX 7 SEA 38 LI: 0.17-C.Henne pass incomplete short left to 84-C.Shorts (39-B.Browner).'>43.98</number><number>0.02</number>
+<number shadow='shadow1' tooltip='0:58 2-10-SEA 16JAX 7 SEA 38 LI: 0.132-M.Jones-Drew left guard to SEA 15 for 1 yard(92-B.Mebane; 99-T.McDaniel).'>44.03</number><number>0.02</number>
+<number shadow='shadow1' tooltip='0:16 3-9-SEA 15JAX 7 SEA 38 LI: 0.1(Shotgun) 7-C.Henne pass incomplete short right to 15-S.Burton.'>44.73</number><number>0.01</number>
+<number shadow='shadow1' tooltip='0:11 4-9-SEA 15JAX 7 SEA 38 LI: 0.110-J.Scobee 33 yard field goal is GOOD Center-46-C.Tinker Holder-19-B.Anger.'>44.82</number><number>0.02</number>
+<number shadow='shadow1' tooltip='0:11 JAX 10 SEA 38 LI: 10-J.Scobee kicks 66 yards from JAX 35 to SEA -120-J.Lane to SEA 21 for 22 yards(86-C.Harbor).'>44.91</number><number>0.02</number>
+<number shadow='shadow1' tooltip='15:00 1-10-SEA 21JAX 10 SEA 38 LI: 0.133-C.Michael right end pushed ob at SEA 24 for 3 yards(55-G.Hayes).'>45</number><number>0.01</number>
+<number shadow='shadow1' tooltip='14:28 2-7-SEA 24JAX 10 SEA 38 LI: 0.27-T.Jackson pass short left to 82-L.Willson to SEA 32 for 8 yards(26-J.Evans).'>45.53</number><number>0.01</number>
+<number shadow='shadow1' tooltip='13:50 1-10-SEA 32JAX 10 SEA 38 LI: 0.133-C.Michael up the middle to SEA 36 for 4 yards(93-T.Alualu).'>46.17</number><number>0.01</number>
+<number shadow='shadow1' tooltip='13:06 2-6-SEA 36JAX 10 SEA 38 LI: 0.133-C.Michael left end to SEA 34 for -2 yards(51-P.Posluszny).'>46.9</number><number>0.01</number>
+<number shadow='shadow1' tooltip='12:29 3-8-SEA 34JAX 10 SEA 38 LI: 0.1(Shotgun) 7-T.Jackson pass incomplete deep right to 18-S.Rice [58-J.Babin].'>47.52</number><number>0.01</number>
+<number shadow='shadow1' tooltip='12:23 4-8-SEA 34JAX 10 SEA 38 LI: 0.19-J.Ryan punts 18 yards to JAX 48 Center-49-C.Gresham downed by SEA-55-H.FarwellBall was tipped by JAX #56 Reynolds; officially not a blocked punt.'>47.62</number><number>0.02</number>
+<number shadow='shadow1' tooltip='12:15 1-10-JAX 48JAX 10 SEA 38 LI: 0.132-M.Jones-Drew up the middle to JAX 49 for 1 yard(57-M.Morgan).'>47.75</number><number>0.02</number>
+<number shadow='shadow1' tooltip='11:33 2-9-JAX 49JAX 10 SEA 38 LI: 0.1(Shotgun) 7-C.Henne pass incomplete short right to 84-C.Shorts (28-W.Thurmond).'>48.45</number><number>0.01</number>
+<number shadow='shadow1' tooltip='11:23 3-9-JAX 49JAX 10 SEA 38 LI: 0.1(Shotgun) 7-C.Henne pass short right to 84-C.Shorts to SEA 43 for 8 yards(41-B.Maxwell).'>48.62</number><number>0.01</number>
+<number shadow='shadow1' tooltip='10:51 4-1-SEA 43JAX 10 SEA 38 LI: 0.132-M.Jones-Drew right tackle to SEA 35 for 8 yards(29-E.Thomas).'>49.15</number><number>0.02</number>
+<number shadow='shadow1' tooltip='10:22 1-10-SEA 35JAX 10 SEA 38 LI: 0.17-C.Henne pass deep left to 84-C.Shorts pushed ob at SEA 18 for 17 yards(41-B.Maxwell).'>49.63</number><number>0.03</number>
+<number shadow='shadow1' tooltip='9:57 1-10-SEA 18JAX 10 SEA 38 LI: 0.27-C.Henne pass incomplete deep right to 87-A.Reisner.'>50.05</number><number>0.02</number>
+<number shadow='shadow1' tooltip='9:51 2-10-SEA 18JAX 10 SEA 38 LI: 0.1(Shotgun) 7-C.Henne pass short left to 32-M.Jones-Drew pushed ob at SEA 7 for 11 yards(41-B.Maxwell) [72-M.Bennett]PENALTY on SEA-72-M.Bennett Unnecessary Roughness 4 yards enforced at SEA 7.'>50.15</number><number>0.03</number>
+<number shadow='shadow1' tooltip='9:36 1-3-SEA 3JAX 10 SEA 38 LI: 0.232-M.Jones-Drew right guard to SEA 3 for no gain (57-M.Morgan; 58-J.Lotulelei).'>50.4</number><number>0.02</number>
+<number shadow='shadow1' tooltip='9:11 2-3-SEA 3JAX 10 SEA 38 LI: 0.130-J.Todman right end for 3 yards TOUCHDOWN.'>50.82</number><number>0.01</number>
+<number shadow='shadow1' tooltip='9:11 JAX 10 SEA 38 LI: 10-J.Scobee extra point is GOOD Center-46-C.Tinker Holder-19-B.Anger.'>50.86</number><number>0.01</number>
+<number shadow='shadow1' tooltip='9:11 JAX 17 SEA 38 LI: 10-J.Scobee kicks 65 yards from JAX 35 to end zone Touchback.'>50.91</number><number>0.01</number>
+<number shadow='shadow1' tooltip='8:30 1-10-SEA 34JAX 17 SEA 38 LI: 0.17-T.Jackson pass short right to 82-L.Willson to JAX 31 for 35 yards(51-P.Posluszny)JAX-24-W.Blackmon was injured during the playHe is Out JAX #24 injured on play'>51.5</number><number>0.01</number>
+<number shadow='shadow1' tooltip='7:53 1-10-JAX 31JAX 17 SEA 38 LI: 0.1(Shotgun) 7-T.Jackson pass deep right to 87-K.Davis to JAX 8 for 23 yards(37-J.Cyprien).'>52.12</number><number>0.01</number>
+<number shadow='shadow1' tooltip='7:16 1-8-JAX 8JAX 17 SEA 38 LI: 0.122-R.Turbin left tackle to JAX 5 for 3 yards(26-J.Evans; 55-G.Hayes).'>52.73</number><number>0.01</number>
+<number shadow='shadow1' tooltip='6:37 2-5-JAX 5JAX 17 SEA 38 LI: 0.1(Shotgun) 7-T.Jackson left tackle for 5 yards TOUCHDOWN.'>53.38</number><number>0.01</number>
+<number shadow='shadow1' tooltip='6:37 JAX 17 SEA 38 LI: 4-S.Hauschka extra point is GOOD Center-49-C.Gresham Holder-9-J.Ryan.'>53.42</number><number>0.01</number>
+<number shadow='shadow1' tooltip='6:37 JAX 17 SEA 45 LI: 4-S.Hauschka kicks 65 yards from SEA 35 to JAX 016-D.Robinson to JAX 27 for 27 yards(58-J.Lotulelei).'>53.47</number><number>0.01</number>
+<number shadow='shadow1' tooltip='6:26 1-10-JAX 27JAX 17 SEA 45 LI: 0.17-C.Henne pass short right to 18-A.Sanders ran ob at JAX 47 for 20 yards.'>53.57</number><number>0.01</number>
+<number shadow='shadow1' tooltip='5:59 1-10-JAX 47JAX 17 SEA 45 LI: 0.132-M.Jones-Drew right tackle to JAX 46 for -1 yards(72-M.Bennett; 69-C.McDonald).'>54.02</number><number>0.01</number>
+<number shadow='shadow1' tooltip='5:20 2-11-JAX 46JAX 17 SEA 45 LI: 0.1(Shotgun) 7-C.Henne pass deep right to 84-C.Shorts to SEA 33 for 21 yards(28-W.Thurmond).'>54.67</number><number>0.01</number>
+<number shadow='shadow1' tooltip='4:44 1-10-SEA 33JAX 17 SEA 45 LI: 0.1(Shotgun) 7-C.Henne pass incomplete short middle [72-M.Bennett].'>55.27</number><number>0.02</number>
+<number shadow='shadow1' tooltip='4:38 2-10-SEA 33JAX 17 SEA 45 LI: 0.1(Shotgun) 7-C.Henne pass short right to 84-C.Shorts to SEA 19 for 14 yards(58-J.Lotulelei; 28-W.Thurmond).'>55.37</number><number>0.02</number>
+<number shadow='shadow1' tooltip='4:00 1-10-SEA 19JAX 17 SEA 45 LI: 0.1(Shotgun) 7-C.Henne pass incomplete short left to 32-M.Jones-Drew.'>56</number><number>0.01</number>
+<number shadow='shadow1' tooltip='3:56 2-10-SEA 19JAX 17 SEA 45 LI: 0.1(Shotgun) 7-C.Henne pass short left to 15-S.Burton pushed ob at SEA 14 for 5 yards(28-W.Thurmond).'>56.07</number><number>0.01</number>
+<number shadow='shadow1' tooltip='3:49 3-5-SEA 14JAX 17 SEA 45 LI: 0.17-C.Henne pass short middle intended for 85-D.Williams INTERCEPTED by 31-K.Chancellor at SEA 1231-K.Chancellor to SEA 44 for 32 yards(15-S.Burton).'>56.18</number><number>0.01</number>
+<number shadow='shadow1' tooltip='3:40 1-10-SEA 44JAX 17 SEA 45 LI: 0.133-C.Michael right tackle to JAX 49 for 7 yards(37-J.Cyprien).'>56.33</number><number>0.01</number>
+<number shadow='shadow1' tooltip='3:02 2-3-JAX 49JAX 17 SEA 45 LI: 0.133-C.Michael right guard to JAX 46 for 3 yards(92-B.Deaderick; 90-A.Branch).'>56.97</number><number>0.01</number>
+<number shadow='shadow1' tooltip='2:21 1-10-JAX 46JAX 17 SEA 45 LI: 0.1(Shotgun) 33-C.Michael left tackle to JAX 42 for 4 yards(94-J.Mincey).'>57.65</number><number>0.01</number>
+<number shadow='shadow1' tooltip='2:00 2-6-JAX 42JAX 17 SEA 45 LI: 0.133-C.Michael up the middle to JAX 33 for 9 yards(50-R.Allen; 26-J.Evans).'>58</number><number>0.01</number>
+<number shadow='shadow1' tooltip='1:16 1-10-JAX 33JAX 17 SEA 45 LI: 0.17-T.Jackson kneels to JAX 34 for -1 yards.'>58.73</number><number>0.01</number>
+<number shadow='shadow1' tooltip='0:37 2-11-JAX 34JAX 17 SEA 45 LI: 0.17-T.Jackson kneels to JAX 36 for -2 yards.'>59.38</number><number>0</number>
+<number>60</number><number>0</number>
+</row> </chart_data>
+       <draw>
+
+
+
+      <image x='45' y='298'  url='nfllogos/42x50png/JAX.gif'  layer='foreground' glow = 'glow1'/>
+      <image x='45' y='350'  url='nfllogos/42x50png/SEA.gif'     layer='foreground' glow = 'glow1'/>
+
+
+      <rect x='130' y='300' width='250' height='40' fill_color='01687f' bevel='bevel1' />
+      <text x='135' y='300' width='250' height='40' h_align='left' v_align='middle' color='ffffff' shadow='shadow2' glow=''>Jacksonville Jaguars</text>
+
+      <rect x='130' y='350' width='250' height='40' fill_color='283e67' bevel='bevel1'  />
+      <text x='135' y='350' width='250' height='40' h_align='left' v_align='middle' color='ffffff' shadow='shadow2' glow='winnerglow'>Seattle Seahawks</text>
+
+      <rect x='420' y='300' width='60' height='40' fill_color='01687f' bevel='bevel1'  />
+      <text x='420' y='300' width='60' height='40' h_align='center' v_align='middle' color='ffffff' shadow='shadow2' transition='none' glow=''>17</text>
+
+      <rect x='420' y='350' width='60' height='40' fill_color='283e67' bevel='bevel1' />
+      <text x='420' y='350' width='60' height='40' h_align='center' v_align='middle' color='ffffff' shadow='shadow2' transition='none' glow='winnerglow'>45</text>
+
+      <text x='-3' y='12'  width='60' height='40' h_align='center' v_align='middle' size='13' shadow='shadow2'>JAXWin </text>
+      <text x='-3' y='218' width='60' height='40' h_align='center' v_align='middle' size='13' shadow='shadow2'>SEAWin </text>
+
+     
+              <rect x='540' y='300' width='100' height='35' fill_color='000000' fill_alpha='50'/>
+              <text x='540' y='300' width='100' height='35' h_align='center' v_align='middle' color='ffffff' size='15' shadow='shadow2' >Final</text>
+
+              <text x='540' y='340' width='40' h_align='center' color='000000' size='12' shadow='shadow2'>CBF</text>
+              <text x='600' y='340' width='40' h_align='center' color='000000' size='12' shadow='shadow2'>EI</text>
+
+              <rect x='540' y='360' width='40' height='30' fill_color='000000' fill_alpha='50' />
+              <text x='540' y='360' width='40' height='30' size='12' h_align='center' v_align='middle' color='FFFFFF' shadow='shadow2'>2</text>
+
+              <rect x='600' y='360' width='40' height='30' fill_color='000000' fill_alpha='50' />
+              <text x='600' y='360' width='40' height='30' size='12' h_align='center' v_align='middle' color='FFFFFF' shadow='shadow2'>1.8</text>
+
+              <text x='20' y='420' width='70' height='25' size='12' h_align='left' v_align='middle' color='000000' >9/22/2013</text>
+              <text x='100' y='420' width='200' height='25' size='12' h_align='left' v_align='middle' color='000000' >CenturyLink Field</text>
+
+   </draw></chart>

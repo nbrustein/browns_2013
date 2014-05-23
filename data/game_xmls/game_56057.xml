@@ -1,0 +1,311 @@
+
+<chart>
+   <license>ETAS9P33ESHO.945CWK-2XOI1X0-7L</license>
+   <chart_type>scatter</chart_type>
+   <chart_pref trend_thickness='0' line_thickness='3' point_size='0'/>
+
+   <series_color>
+      <color>ffff00</color>
+   </series_color>
+
+   <chart_rect x='45' y='20' width='630' height='230' positive_color='cacaca'  />
+
+  <chart_border top_thickness='0'
+                 bottom_thickness='0'
+                 left_thickness='0'
+                 right_thickness='0'
+                 color='000000'
+                 />
+
+   <tooltip font='Arial' bold='true' size='11' />
+
+   <chart_note type='flag'
+               color='000000'
+               alpha='90'
+               bold='FALSE'
+               size='10'
+               background_color='ffffe0'
+               background_alpha='50'
+               shadow='shadow2'
+               />
+
+   <chart_grid_h thickness='2' color='ffffff' type='dashed'  />
+   <chart_grid_v thickness='2' color='ffffff'   />
+		>
+
+   <legend layout='hide' />
+
+   <chart_guide horizontal='TRUE'
+             vertical='TRUE'
+             thickness='1'
+             color='006400'
+             alpha='100'
+             type='solid'
+             snap_h='TRUE'
+             snap_v='TRUE'
+             radius='3'
+             fill_color='006400'
+             fill_alpha='100'
+             line_color='006400'
+             line_alpha='80'
+             line_thickness='1'
+             text_h_alpha='50'
+             text_v_alpha='00'
+             suffix_h=' WP'
+             decimals='2'
+             bold='FALSE'
+             size='11'
+             text_color='FFFFFF'
+             background_color='006400'
+             />
+   <filter>
+      <shadow id='shadow1' distance='2' angle='60' blurX='5' blurY='5' alpha='50' />
+      <bevel id='bevel1' angle='45' blurX='5' blurY='5' distance='0' />
+      <glow id='glow1' color='ffffff' alpha='0' blurX='7' blurY='7' strength='6' quality='2' inner='FALSE' knockout='FALSE' />
+      <glow id='winnerglow' color='ffffff' alpha='0' blurX='7' blurY='7' strength='5' quality='2' inner='FALSE' knockout='FALSE' />
+   </filter>
+
+    <axis_value_label>
+         <string></string>
+          <string> </string>
+          <null/>
+          <string> </string>
+          <string></string>
+
+       </axis_value_label>
+		
+	   <axis_ticks category_ticks='false'/>
+
+       <axis_value min='0' max='1' steps='4'  decimals='2' show_min='true' size='13' shadow='shadow2' />     
+            <axis_category
+               min='0'
+               max='60'
+               steps='4'
+               mode='all'
+               decimals='0'
+               size='13'
+               shadow='shadow2'
+               />
+
+       <axis_category_label>
+          <string>Kickoff</string>
+          <string></string>
+          <string>Halftime</string>
+          <string></string>
+          <string>End</string>
+
+       </axis_category_label>
+
+
+        <chart_data>
+       <row>
+	      <null/><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number>
+              <number>x</number><number>y</number>
+              </row><row><string></string>
+
+                     <number shadow='shadow1'>0</number><number>.5</number><number shadow='shadow1' tooltip='15:00 KC 0 OAK 0 LI: 11-S.Janikowski kicks 64 yards from OAK 35 to KC 135-Q.Demps to OAK 49 for 50 yards(49-J.Olawale).'>0.09</number><number>0.57</number>
+<number shadow='shadow1' tooltip='14:50 1-10-OAK 49KC 0 OAK 0 LI: 1.3(Shotgun) 11-A.Smith pass short left to 25-J.Charles for 49 yards TOUCHDOWN.'>0.17</number><number>0.71</number>
+<number shadow='shadow1' tooltip='14:50 KC 0 OAK 0 LI: 6-R.Succop extra point is GOOD Center-43-T.Gafford Holder-2-D.Colquitt.'>0.21</number><number>0.71</number>
+<number shadow='shadow1' tooltip='14:50 KC 7 OAK 0 LI: 6-R.Succop kicks 67 yards from KC 35 to OAK -222-T.Jones Touchback.'>0.26</number><number>0.72</number>
+<number shadow='shadow1' tooltip='14:38 1-10-OAK 20KC 7 OAK 0 LI: 1.514-M.McGloin pass short left to 45-M.Reece to KC 35 for 45 yards(27-S.Smith).'>0.37</number><number>0.65</number>
+<number shadow='shadow1' tooltip='14:00 1-10-KC 35KC 7 OAK 0 LI: 127-R.Jennings left tackle to KC 33 for 2 yards(51-F.Zombo).'>1</number><number>0.66</number>
+<number shadow='shadow1' tooltip='13:29 2-8-KC 33KC 7 OAK 0 LI: 0.827-R.Jennings right guard to KC 31 for 2 yards(56-D.Johnson; 94-T.Jackson).'>1.52</number><number>0.66</number>
+<number shadow='shadow1' tooltip='12:44 3-6-KC 31KC 7 OAK 0 LI: 0.8(Shotgun) 14-M.McGloin pass short middle to 81-M.Rivera to KC 19 for 12 yards(24-B.Flowers; 29-E.Berry).'>2.27</number><number>0.63</number>
+<number shadow='shadow1' tooltip='12:01 1-10-KC 19KC 7 OAK 0 LI: 0.8(Shotgun) 14-M.McGloin pass incomplete short middle to 45-M.Reece.'>2.98</number><number>0.61</number>
+<number shadow='shadow1' tooltip='11:56 2-10-KC 19KC 7 OAK 0 LI: 1(Shotgun) 27-R.Jennings left guard to KC 15 for 4 yards(97-A.Bailey).'>3.07</number><number>0.59</number>
+<number shadow='shadow1' tooltip='11:13 3-6-KC 15KC 7 OAK 0 LI: 1.1(Shotgun) 14-M.McGloin pass incomplete short middle to 81-M.Rivera.'>3.78</number><number>0.65</number>
+<number shadow='shadow1' tooltip='11:10 4-6-KC 15KC 7 OAK 0 LI: 0.511-S.Janikowski 34 yard field goal is GOOD Center-59-J.Condo Holder-7-M.King.'>3.83</number><number>0.65</number>
+<number shadow='shadow1' tooltip='11:10 KC 7 OAK 3 LI: 11-S.Janikowski kicks 58 yards from OAK 35 to KC 734-K.Davis to KC 32 for 25 yards(28-P.Adams).'>3.92</number><number>0.66</number>
+<number shadow='shadow1' tooltip='10:56 1-10-KC 32KC 7 OAK 3 LI: 1.525-J.Charles left end to KC 32 for no gain (99-L.Houston).'>4.07</number><number>0.65</number>
+<number shadow='shadow1' tooltip='10:22 2-10-KC 32KC 7 OAK 3 LI: 1.425-J.Charles up the middle to KC 40 for 8 yards(99-L.Houston).'>4.63</number><number>0.66</number>
+<number shadow='shadow1' tooltip='9:44 3-2-KC 40KC 7 OAK 3 LI: 1.311-A.Smith pass short left to 82-D.Bowe to KC 47 for 7 yards(28-P.Adams).'>5.27</number><number>0.69</number>
+<number shadow='shadow1' tooltip='9:07 1-10-KC 47KC 7 OAK 3 LI: 1.311-A.Smith pass deep right to 17-D.Avery to OAK 30 for 23 yards(55-S.Moore).'>5.88</number><number>0.75</number>
+<number shadow='shadow1' tooltip='8:20 1-10-OAK 30KC 7 OAK 3 LI: 1.5(Shotgun) 11-A.Smith sacked at OAK 39 for -9 yards(90-P.Sims).'>6.67</number><number>0.69</number>
+<number shadow='shadow1' tooltip='7:44 2-19-OAK 39KC 7 OAK 3 LI: 111-A.Smith pass incomplete deep right to 17-D.Avery.'>7.27</number><number>0.66</number>
+<number shadow='shadow1' tooltip='7:38 3-19-OAK 39KC 7 OAK 3 LI: 0.7(Shotgun) 11-A.Smith pass short left to 25-J.Charles for 39 yards TOUCHDOWN.'>7.37</number><number>0.82</number>
+<number shadow='shadow1' tooltip='7:38 KC 7 OAK 3 LI: 6-R.Succop extra point is GOOD Center-43-T.Gafford Holder-2-D.Colquitt.'>7.41</number><number>0.82</number>
+<number shadow='shadow1' tooltip='7:38 KC 14 OAK 3 LI: 6-R.Succop kicks 69 yards from KC 35 to OAK -422-T.Jones to OAK 22 for 26 yards(42-A.Sherman; 35-Q.Demps).'>7.46</number><number>0.85</number>
+<number shadow='shadow1' tooltip='7:20 1-10-OAK 12KC 14 OAK 3 LI: 0.7(Shotgun) 14-M.McGloin pass incomplete left (94-T.Jackson).'>7.67</number><number>0.84</number>
+<number shadow='shadow1' tooltip='7:16 2-10-OAK 12KC 14 OAK 3 LI: 0.8(Shotgun) 14-M.McGloin pass short left to 80-R.Streater to OAK 38 for 26 yards(23-K.Lewis).'>7.73</number><number>0.81</number>
+<number shadow='shadow1' tooltip='6:29 1-10-OAK 38KC 14 OAK 3 LI: 0.727-R.Jennings left tackle to OAK 41 for 3 yards(56-D.Johnson)MWatson reported as eligible receiver.'>8.52</number><number>0.79</number>
+<number shadow='shadow1' tooltip='5:56 2-7-OAK 41KC 14 OAK 3 LI: 0.8(Shotgun) 27-R.Jennings right guard to OAK 45 for 4 yards(94-T.Jackson).'>9.07</number><number>0.79</number>
+<number shadow='shadow1' tooltip='5:15 3-3-OAK 45KC 14 OAK 3 LI: 0.8(Shotgun) 14-M.McGloin pass short middle intended for 45-M.Reece INTERCEPTED by 29-E.Berry at OAK 4729-E.Berry for 47 yards TOUCHDOWN.'>9.75</number><number>0.93</number>
+<number shadow='shadow1' tooltip='5:15 KC 14 OAK 3 LI: 6-R.Succop extra point is GOOD Center-43-T.Gafford Holder-2-D.Colquitt.'>9.79</number><number>0.93</number>
+<number shadow='shadow1' tooltip='5:15 KC 21 OAK 3 LI: 6-R.Succop kicks 73 yards from KC 35 to OAK -822-T.Jones to OAK 18 for 26 yards(52-J.Johnson).'>9.84</number><number>0.94</number>
+<number shadow='shadow1' tooltip='5:03 1-10-OAK 18KC 21 OAK 3 LI: 0.2MWatson reports as eligible receiver14-M.McGloin pass incomplete short left to 85-J.Mastrud.'>9.95</number><number>0.91</number>
+<number shadow='shadow1' tooltip='4:57 2-10-OAK 18KC 21 OAK 3 LI: 0.5MWatson reports as eligible receiver45-M.Reece right tackle to OAK 23 for 5 yards(55-A.Jordan; 56-D.Johnson).'>10.05</number><number>0.9</number>
+<number shadow='shadow1' tooltip='4:14 3-5-OAK 23KC 21 OAK 3 LI: 0.5(Shotgun) 27-R.Jennings right guard to OAK 31 for 8 yards(51-F.Zombo).'>10.77</number><number>0.93</number>
+<number shadow='shadow1' tooltip='3:36 1-10-OAK 31KC 21 OAK 3 LI: 0.1(Shotgun) 14-M.McGloin pass short left to 80-R.Streater to OAK 36 for 5 yards(91-T.Hali).'>11.4</number><number>0.89</number>
+<number shadow='shadow1' tooltip='3:06 2-5-OAK 36KC 21 OAK 3 LI: 0.414-M.McGloin pass incomplete deep right to 80-R.Streater.'>11.9</number><number>0.92</number>
+<number shadow='shadow1' tooltip='3:01 1-10-KC 38KC 21 OAK 3 LI: 0.127-R.Jennings left tackle to KC 35 for 3 yards(55-A.Jordan)MWatson reports as eligible receiver.'>11.98</number><number>0.89</number>
+<number shadow='shadow1' tooltip='2:23 2-7-KC 35KC 21 OAK 3 LI: 0.1(Shotgun) 14-M.McGloin pass short left to 27-R.Jennings to KC 31 for 4 yards(29-E.Berry).'>12.62</number><number>0.88</number>
+<number shadow='shadow1' tooltip='1:41 3-3-KC 31KC 21 OAK 3 LI: 0.1(Shotgun) 14-M.McGloin pass short right to 80-R.Streater to KC 8 for 23 yards(51-F.Zombo).'>13.32</number><number>0.82</number>
+<number shadow='shadow1' tooltip='0:59 1-8-KC 8KC 21 OAK 3 LI: 0.1(Shotgun) 14-M.McGloin pass incomplete short left to 45-M.Reece.'>14.02</number><number>0.83</number>
+<number shadow='shadow1' tooltip='0:54 2-8-KC 8KC 21 OAK 3 LI: 0.1MWatson reports as eligible receiver27-R.Jennings left tackle to KC 4 for 4 yards(23-K.Lewis).'>14.1</number><number>0.83</number>
+<number shadow='shadow1' tooltip='0:12 3-4-KC 4KC 21 OAK 3 LI: 0.1(Shotgun) 14-M.McGloin pass incomplete short middle to 81-M.Rivera.'>14.8</number><number>0.82</number>
+<number shadow='shadow1' tooltip='0:08 1-2-KC 2KC 21 OAK 3 LI: 0.127-R.Jennings up the middle to KC 1 for 1 yard(Team).'>14.87</number><number>0.83</number>
+<number shadow='shadow1' tooltip='15:00 2-1-KC 1KC 21 OAK 3 LI: 0.1TPryor in at QB(Shotgun) 2-T.Pryor right end to KC 4 for -3 yards(55-A.Jordan).'>15</number><number>0.82</number>
+<number shadow='shadow1' tooltip='14:43 1-1-KC 1KC 21 OAK 3 LI: 0.2MMcGloin back in at QB27-R.Jennings up the middle for 1 yard TOUCHDOWNMWatson reports as eligible receiver.'>15.28</number><number>0.84</number>
+<number shadow='shadow1' tooltip='14:43 KC 21 OAK 3 LI: 11-S.Janikowski extra point is GOOD Center-59-J.Condo Holder-7-M.King.'>15.32</number><number>0.84</number>
+<number shadow='shadow1' tooltip='14:43 KC 21 OAK 10 LI: 11-S.Janikowski kicks 49 yards from OAK 35 to KC 1635-Q.Demps to KC 28 for 12 yards(95-K.Burnett).'>15.37</number><number>0.84</number>
+<number shadow='shadow1' tooltip='14:35 1-10-KC 28KC 21 OAK 10 LI: 0.925-J.Charles right end to KC 24 for -4 yards(94-Ke.Burnett).'>15.42</number><number>0.84</number>
+<number shadow='shadow1' tooltip='13:52 2-14-KC 24KC 21 OAK 10 LI: 0.9(Shotgun) 25-J.Charles up the middle to KC 30 for 6 yards(97-D.Muir).'>16.13</number><number>0.84</number>
+<number shadow='shadow1' tooltip='13:11 3-8-KC 30KC 21 OAK 10 LI: 0.8(Shotgun) 11-A.Smith pass incomplete short middle to 82-D.Bowe (23-T.Porter).'>16.82</number><number>0.85</number>
+<number shadow='shadow1' tooltip='13:08 1-10-KC 35KC 21 OAK 10 LI: 0.834-K.Davis left tackle to KC 38 for 3 yards(90-P.Sims).'>16.87</number><number>0.85</number>
+<number shadow='shadow1' tooltip='12:29 2-7-KC 38KC 21 OAK 10 LI: 0.7(Shotgun) 11-A.Smith scrambles right end to KC 40 for 2 yards(53-N.Roach).'>17.52</number><number>0.85</number>
+<number shadow='shadow1' tooltip='11:44 3-5-KC 40KC 21 OAK 10 LI: 0.7(Shotgun) 11-A.Smith pass short middle to 25-J.Charles to KC 42 for 2 yards(53-N.Roach).'>18.27</number><number>0.84</number>
+<number shadow='shadow1' tooltip='11:21 4-3-KC 42KC 21 OAK 10 LI: 0.62-D.Colquitt punts 58 yards to end zone Center-43-T.Gafford Touchback.'>18.65</number><number>0.84</number>
+<number shadow='shadow1' tooltip='11:12 1-10-OAK 20KC 21 OAK 10 LI: 0.5(Shotgun) 14-M.McGloin pass incomplete deep right to 80-R.Streater.'>18.8</number><number>0.84</number>
+<number shadow='shadow1' tooltip='11:07 2-10-OAK 20KC 21 OAK 10 LI: 0.5(Shotgun) 27-R.Jennings left guard to OAK 22 for 2 yards(55-A.Jordan).'>18.88</number><number>0.85</number>
+<number shadow='shadow1' tooltip='10:26 3-8-OAK 22KC 21 OAK 10 LI: 0.4(Shotgun) 14-M.McGloin FUMBLES (Aborted) at OAK 17 RECOVERED by KC-91-T.Hali at OAK 1191-T.Hali to OAK 11 for no gain (76-L.Nix).'>19.57</number><number>0.93</number>
+<number shadow='shadow1' tooltip='10:20 1-10-OAK 11KC 21 OAK 10 LI: 0.815-A.Jenkins left end to OAK 6 for 5 yards(99-L.Houston).'>19.67</number><number>0.92</number>
+<number shadow='shadow1' tooltip='9:38 2-5-OAK 6KC 21 OAK 10 LI: 0.7(Shotgun) 11-A.Smith pass short middle to 25-J.Charles to OAK 1 for 5 yards(29-B.Ross 92-S.McGee)OAK-24-C.Woodson was injured during the playHis return is Questionable.'>20.37</number><number>0.93</number>
+<number shadow='shadow1' tooltip='9:02 1-1-OAK 1KC 21 OAK 10 LI: 0.8RWatkins & GSchwartz report as eligible receivers25-J.Charles left tackle for 1 yard TOUCHDOWN.'>20.97</number><number>0.92</number>
+<number shadow='shadow1' tooltip='9:02 KC 21 OAK 10 LI: 6-R.Succop extra point is GOOD Center-43-T.Gafford Holder-2-D.Colquitt.'>21.01</number><number>0.92</number>
+<number shadow='shadow1' tooltip='9:02 KC 28 OAK 10 LI: 6-R.Succop kicks 63 yards from KC 35 to OAK 2 out of bounds.'>21.06</number><number>0.91</number>
+<number shadow='shadow1' tooltip='8:51 1-10-OAK 40KC 28 OAK 10 LI: 0.245-M.Reece left guard to OAK 43 for 3 yards(51-F.Zombo).'>21.15</number><number>0.9</number>
+<number shadow='shadow1' tooltip='8:20 2-7-OAK 43KC 28 OAK 10 LI: 0.2(Shotgun) 14-M.McGloin pass short middle to 18-A.Holmes to OAK 45 for 2 yards(55-A.Jordan).'>21.67</number><number>0.91</number>
+<number shadow='shadow1' tooltip='7:41 3-5-OAK 45KC 28 OAK 10 LI: 0.1(Shotgun) 14-M.McGloin pass incomplete short middle to 18-A.Holmes (27-S.Smith).'>22.32</number><number>0.92</number>
+<number shadow='shadow1' tooltip='7:34 4-5-OAK 45KC 28 OAK 10 LI: 0.1(Punt formation) Direct snap to 45-M.Reece 45-M.Reece pass short left to 35-C.Chekwa to KC 33 for 22 yards(32-C.Gray).'>22.43</number><number>0.87</number>
+<number shadow='shadow1' tooltip='7:27 1-10-KC 33KC 28 OAK 10 LI: 0.414-M.McGloin pass incomplete deep middle to 80-R.Streater.'>22.55</number><number>0.89</number>
+<number shadow='shadow1' tooltip='6:45 2-10-KC 33KC 28 OAK 10 LI: 0.327-R.Jennings up the middle to KC 32 for 1 yard(56-D.Johnson).'>23.25</number><number>0.9</number>
+<number shadow='shadow1' tooltip='6:04 3-9-KC 32KC 28 OAK 10 LI: 0.2(Shotgun) 14-M.McGloin pass short middle intended for 80-R.Streater INTERCEPTED by 29-E.Berry at KC 2029-E.Berry to OAK 31 for 49 yards(79-T.Pashos).'>23.93</number><number>0.97</number>
+<number shadow='shadow1' tooltip='5:48 1-10-OAK 16KC 28 OAK 10 LI: 0.311-A.Smith pass short left to 25-J.Charles for 16 yards TOUCHDOWN.'>24.2</number><number>0.93</number>
+<number shadow='shadow1' tooltip='5:48 KC 28 OAK 10 LI: 6-R.Succop extra point is GOOD Center-43-T.Gafford Holder-2-D.Colquitt.'>24.24</number><number>0.93</number>
+<number shadow='shadow1' tooltip='5:48 KC 35 OAK 10 LI: 6-R.Succop kicks 69 yards from KC 40 to OAK -922-T.Jones Touchback.'>24.29</number><number>0.94</number>
+<number shadow='shadow1' tooltip='5:42 1-10-OAK 20KC 35 OAK 10 LI: 0.2MWatkins reports as eligible receiver(Shotgun) 27-R.Jennings up the middle to OAK 23 for 3 yards(55-A.Jordan).'>24.3</number><number>0.94</number>
+<number shadow='shadow1' tooltip='4:59 2-7-OAK 23KC 35 OAK 10 LI: 0.2(Shotgun) 14-M.McGloin pass incomplete short middle to 45-M.Reece.'>25.02</number><number>0.95</number>
+<number shadow='shadow1' tooltip='4:49 3-7-OAK 23KC 35 OAK 10 LI: 0.1(Shotgun) 14-M.McGloin pass incomplete short middle to 80-R.Streater (23-K.Lewis).'>25.18</number><number>0.93</number>
+<number shadow='shadow1' tooltip='4:45 1-10-OAK 38KC 35 OAK 10 LI: 0.2(Shotgun) 14-M.McGloin pass incomplete short left to 22-T.Jones.'>25.25</number><number>0.93</number>
+<number shadow='shadow1' tooltip='4:42 2-10-OAK 38KC 35 OAK 10 LI: 0.2(Shotgun) 27-R.Jennings left end to OAK 42 for 4 yards(27-S.Smith; 35-Q.Demps).'>25.3</number><number>0.94</number>
+<number shadow='shadow1' tooltip='4:00 3-6-OAK 42KC 35 OAK 10 LI: 0.1(Shotgun) 14-M.McGloin pass deep right to 17-D.Moore to KC 24 for 34 yards(31-M.Cooper).'>26</number><number>0.91</number>
+<number shadow='shadow1' tooltip='3:13 1-10-KC 24KC 35 OAK 10 LI: 0.4(Shotgun) 14-M.McGloin pass incomplete short left to 12-J.Ford.'>26.78</number><number>0.93</number>
+<number shadow='shadow1' tooltip='3:09 2-10-KC 24KC 35 OAK 10 LI: 0.2(Shotgun) 14-M.McGloin pass incomplete deep middle to 81-M.Rivera.'>26.85</number><number>0.9</number>
+<number shadow='shadow1' tooltip='3:03 1-1-KC 1KC 35 OAK 10 LI: 0.4MWatson reports as eligible receiver27-R.Jennings left tackle for 1 yard TOUCHDOWN.'>26.95</number><number>0.94</number>
+<number shadow='shadow1' tooltip='3:03 KC 35 OAK 10 LI: 11-S.Janikowski extra point is GOOD Center-59-J.Condo Holder-7-M.King.'>26.99</number><number>0.94</number>
+<number shadow='shadow1' tooltip='3:03 KC 35 OAK 17 LI: 11-S.Janikowski kicks 71 yards from OAK 35 to KC -634-K.Davis Touchback.'>27.04</number><number>0.94</number>
+<number shadow='shadow1' tooltip='2:24 2-4-KC 26KC 35 OAK 17 LI: 0.525-J.Charles up the middle to KC 31 for 5 yards(97-D.Muir).'>27.6</number><number>0.94</number>
+<number shadow='shadow1' tooltip='1:59 1-10-KC 31KC 35 OAK 17 LI: 0.411-A.Smith scrambles right end to KC 32 for 1 yard(99-L.Houston).'>28.02</number><number>0.95</number>
+<number shadow='shadow1' tooltip='1:16 2-9-KC 32KC 35 OAK 17 LI: 0.5(Shotgun) 11-A.Smith pass short middle to 17-D.Avery to KC 42 for 10 yards(94-Ke.Burnett).'>28.73</number><number>0.95</number>
+<number shadow='shadow1' tooltip='1:05 1-10-KC 42KC 35 OAK 17 LI: 0.4(Shotgun) 11-A.Smith scrambles right guard ran ob at OAK 40 for 18 yards.'>28.92</number><number>0.94</number>
+<number shadow='shadow1' tooltip='0:56 1-20-KC 32KC 35 OAK 17 LI: 0.4(Shotgun) 11-A.Smith pass short middle to 25-J.Charles to KC 37 for 5 yards(94-Ke.Burnett).'>29.07</number><number>0.94</number>
+<number shadow='shadow1' tooltip='0:50 2-15-KC 37KC 35 OAK 17 LI: 0.4(Shotgun) 11-A.Smith pass incomplete deep left to 82-D.Bowe (28-P.Adams).'>29.17</number><number>0.94</number>
+<number shadow='shadow1' tooltip='0:45 3-15-KC 37KC 35 OAK 17 LI: 0.4(Shotgun) 11-A.Smith pass short right to 82-D.Bowe to KC 48 for 11 yards(21-M.Jenkins).'>29.25</number><number>0.94</number>
+<number shadow='shadow1' tooltip='0:36 4-4-KC 48KC 35 OAK 17 LI: 0.32-D.Colquitt punts 40 yards to OAK 12 Center-43-T.Gafford fair catch by 10-G.Jenkins.'>29.4</number><number>0.94</number>
+<number shadow='shadow1' tooltip='0:30 1-10-OAK 12KC 35 OAK 17 LI: 0.2(Shotgun) 45-M.Reece up the middle to OAK 14 for 2 yards(97-A.Bailey).'>29.5</number><number>0.94</number>
+<number shadow='shadow1' tooltip='0:30 KC 35 OAK 17 LI: 6-R.Succop kicks 65 yards from KC 35 to OAK 022-T.Jones to OAK 26 for 26 yards(39-H.Abdullah).'>29.59</number><number>0.93</number>
+<number shadow='shadow1' tooltip='14:54 1-10-OAK 26KC 35 OAK 17 LI: 0.427-R.Jennings up the middle to OAK 28 for 2 yards(23-K.Lewis).'>30.1</number><number>0.94</number>
+<number shadow='shadow1' tooltip='14:14 2-18-OAK 18KC 35 OAK 17 LI: 0.4(Shotgun) 14-M.McGloin pass short middle to 18-A.Holmes to OAK 40 for 22 yards(23-K.Lewis).'>30.77</number><number>0.92</number>
+<number shadow='shadow1' tooltip='13:38 1-10-OAK 40KC 35 OAK 17 LI: 0.527-R.Jennings left guard to OAK 42 for 2 yards(70-M.Devito).'>31.37</number><number>0.93</number>
+<number shadow='shadow1' tooltip='12:59 2-8-OAK 42KC 35 OAK 17 LI: 0.3(Shotgun) 14-M.McGloin pass deep left to 22-T.Jones to KC 6 for 52 yards(24-B.Flowers).'>32.02</number><number>0.87</number>
+<number shadow='shadow1' tooltip='12:06 1-6-KC 6KC 35 OAK 17 LI: 0.8(Shotgun) 14-M.McGloin pass short middle to 18-A.Holmes for 6 yards TOUCHDOWN.'>32.9</number><number>0.87</number>
+<number shadow='shadow1' tooltip='12:06 KC 35 OAK 17 LI: 11-S.Janikowski extra point is GOOD Center-59-J.Condo Holder-7-M.King.'>32.94</number><number>0.87</number>
+<number shadow='shadow1' tooltip='12:06 KC 35 OAK 24 LI: 11-S.Janikowski kicks 70 yards from OAK 35 to KC -535-Q.Demps to KC 15 for 20 yards(54-M.McFadden).'>32.99</number><number>0.85</number>
+<number shadow='shadow1' tooltip='11:56 1-10-KC 15KC 35 OAK 24 LI: 1.125-J.Charles left end to KC 18 for 3 yards(92-S.McGee).'>33.07</number><number>0.85</number>
+<number shadow='shadow1' tooltip='11:18 2-7-KC 18KC 35 OAK 24 LI: 1(Shotgun) 11-A.Smith scrambles right tackle to KC 21 for 3 yards(23-T.Porter).'>33.7</number><number>0.85</number>
+<number shadow='shadow1' tooltip='10:33 3-4-KC 21KC 35 OAK 24 LI: 1(Shotgun) 11-A.Smith pass incomplete short middle to 88-J.Hemingway.'>34.45</number><number>0.81</number>
+<number shadow='shadow1' tooltip='10:29 4-4-KC 21KC 35 OAK 24 LI: 0.62-D.Colquitt punts 61 yards to OAK 18 Center-43-T.Gafford10-G.Jenkins to OAK 24 for 6 yards(42-A.Sherman).'>34.52</number><number>0.85</number>
+<number shadow='shadow1' tooltip='10:15 1-10-OAK 14KC 35 OAK 24 LI: 0.814-M.McGloin pass short middle to 27-R.Jennings to OAK 18 for 4 yards(51-F.Zombo).'>34.75</number><number>0.85</number>
+<number shadow='shadow1' tooltip='9:37 2-6-OAK 18KC 35 OAK 24 LI: 1MWatson reports as eligible receiver27-R.Jennings up the middle to OAK 26 for 8 yards(51-F.Zombo).'>35.38</number><number>0.83</number>
+<number shadow='shadow1' tooltip='8:59 1-10-OAK 26KC 35 OAK 24 LI: 1.1TPryor in at QB(Shotgun) 2-T.Pryor left end to OAK 26 for no gain (23-K.Lewis).'>36.02</number><number>0.85</number>
+<number shadow='shadow1' tooltip='8:22 2-10-OAK 26KC 35 OAK 24 LI: 0.9(Shotgun) 2-T.Pryor pass incomplete short right to 45-M.Reece.'>36.63</number><number>0.86</number>
+<number shadow='shadow1' tooltip='8:16 3-10-OAK 26KC 35 OAK 24 LI: 0.8(Shotgun) 27-R.Jennings up the middle to OAK 47 for 21 yards(23-K.Lewis; 27-S.Smith).'>36.73</number><number>0.81</number>
+<number shadow='shadow1' tooltip='7:39 1-10-OAK 47KC 35 OAK 24 LI: 1(Shotgun) 2-T.Pryor left end to KC 49 for 4 yards(27-S.Smith).'>37.35</number><number>0.82</number>
+<number shadow='shadow1' tooltip='7:05 2-6-KC 49KC 35 OAK 24 LI: 0.9(Shotgun) 27-R.Jennings up the middle to KC 45 for 4 yards(70-M.Devito).'>37.92</number><number>0.82</number>
+<number shadow='shadow1' tooltip='6:27 3-2-KC 45KC 35 OAK 24 LI: 0.9(Shotgun) PENALTY on OAK-65-M.Brisiel False Start 5 yards enforced at KC 45 - No Play.'>38.55</number><number>0.83</number>
+<number shadow='shadow1' tooltip='5:41 1-10-KC 22KC 35 OAK 24 LI: 1(Shotgun) 14-M.McGloin pass incomplete short middle to 17-D.Moore.'>39.32</number><number>0.77</number>
+<number shadow='shadow1' tooltip='5:38 1-10-KC 17KC 35 OAK 24 LI: 0.9(Shotgun) 27-R.Jennings up the middle to KC 14 for 3 yards(56-D.Johnson).'>39.37</number><number>0.74</number>
+<number shadow='shadow1' tooltip='5:01 2-7-KC 14KC 35 OAK 24 LI: 1.2(Shotgun) 14-M.McGloin pass short middle to 81-M.Rivera for 14 yards TOUCHDOWN.'>39.98</number><number>0.7</number>
+<number shadow='shadow1' tooltip='5:01 KC 35 OAK 24 LI: 11-S.Janikowski extra point is GOOD Center-59-J.Condo Holder-7-M.King.'>40.02</number><number>0.7</number>
+<number shadow='shadow1' tooltip='5:01 KC 35 OAK 31 LI: 11-S.Janikowski kicks 74 yards from OAK 35 to KC -935-Q.Demps Touchback.'>40.07</number><number>0.69</number>
+<number shadow='shadow1' tooltip='4:25 2-2-KC 28KC 35 OAK 31 LI: 1.625-J.Charles right tackle to KC 29 for 1 yard(97-D.Muir).'>40.58</number><number>0.7</number>
+<number shadow='shadow1' tooltip='3:47 3-1-KC 29KC 35 OAK 31 LI: 1.511-A.Smith pass deep right to 25-J.Charles for 71 yards TOUCHDOWN.'>41.22</number><number>0.86</number>
+<number shadow='shadow1' tooltip='3:47 KC 35 OAK 31 LI: 6-R.Succop extra point is GOOD Center-43-T.Gafford Holder-2-D.Colquitt.'>41.26</number><number>0.86</number>
+<number shadow='shadow1' tooltip='3:47 KC 42 OAK 31 LI: 6-R.Succop kicks 65 yards from KC 35 to OAK 022-T.Jones to OAK 28 for 28 yards(15-A.Jenkins)Kansas City challenged the fumble ruling and the play was REVERSED6-R.Succop kicks 65 yards from KC 35 to OAK 022-T.Jones to OAK 29 for 29 yards(95-J.Martin)FUMBLES (95-J.Martin) touched at OAK 29 RECOVERED by KC-39-H.Abdullah at OAK 2839-H.Abdullah to OAK 28 for no gain (81-M.Rivera).'>41.31</number><number>0.95</number>
+<number shadow='shadow1' tooltip='3:21 1-10-OAK 28KC 42 OAK 31 LI: 0.9(Shotgun) 11-A.Smith pass short left to 25-J.Charles to OAK 20 for 8 yards(23-T.Porter).'>41.65</number><number>0.96</number>
+<number shadow='shadow1' tooltip='2:45 2-2-OAK 20KC 42 OAK 31 LI: 0.9(Shotgun) 34-K.Davis up the middle to OAK 17 for 3 yards(90-P.Sims).'>42.25</number><number>0.96</number>
+<number shadow='shadow1' tooltip='2:06 1-10-OAK 17KC 42 OAK 31 LI: 0.8(Shotgun) 11-A.Smith pass short left to 14-C.Hall to OAK 6 for 11 yards(24-C.Woodson).'>42.9</number><number>0.97</number>
+<number shadow='shadow1' tooltip='1:24 1-6-OAK 6KC 42 OAK 31 LI: 0.7(Shotgun) 11-A.Smith pass short middle to 84-S.McGrath for 6 yards TOUCHDOWN.'>43.6</number><number>0.97</number>
+<number shadow='shadow1' tooltip='1:24 KC 42 OAK 31 LI: 6-R.Succop extra point is GOOD Center-43-T.Gafford Holder-2-D.Colquitt.'>43.64</number><number>0.97</number>
+<number shadow='shadow1' tooltip='1:24 KC 49 OAK 31 LI: 6-R.Succop kicks 69 yards from KC 40 to OAK -922-T.Jones Touchback.'>43.69</number><number>0.97</number>
+<number shadow='shadow1' tooltip='0:39 2-6-OAK 24KC 49 OAK 31 LI: 0.1MWatson reports as eligible receiver27-R.Jennings up the middle to OAK 31 for 7 yards(23-K.Lewis).'>44.35</number><number>0.97</number>
+<number shadow='shadow1' tooltip='15:00 1-10-OAK 31KC 49 OAK 31 LI: 0.1MWatson reports as eligible receiver14-M.McGloin pass incomplete deep right to 80-R.Streater.'>45</number><number>0.97</number>
+<number shadow='shadow1' tooltip='14:53 2-10-OAK 31KC 49 OAK 31 LI: 0.114-M.McGloin pass short middle intended for 49-J.Olawale INTERCEPTED by 51-F.Zombo at OAK 3651-F.Zombo to OAK 31 for 5 yards(85-J.Mastrud).'>45.12</number><number>0.98</number>
+<number shadow='shadow1' tooltip='14:41 1-10-OAK 31KC 49 OAK 31 LI: 0.134-K.Davis right guard to OAK 29 for 2 yards(99-L.Houston).'>45.32</number><number>0.99</number>
+<number shadow='shadow1' tooltip='14:02 2-8-OAK 29KC 49 OAK 31 LI: 0.211-A.Smith sacked at OAK 34 for -5 yards(93-J.Hunter)FUMBLES (93-J.Hunter) RECOVERED by OAK-92-S.McGee at OAK 3292-S.McGee to OAK 35 for 3 yards(11-A.Smith).'>45.97</number><number>0.97</number>
+<number shadow='shadow1' tooltip='13:53 1-10-OAK 35KC 49 OAK 31 LI: 0.114-M.McGloin pass short right to 80-R.Streater to OAK 40 for 5 yards(24-B.Flowers).'>46.12</number><number>0.98</number>
+<number shadow='shadow1' tooltip='13:19 2-5-OAK 40KC 49 OAK 31 LI: 0.1(Shotgun) 14-M.McGloin pass short middle to 81-M.Rivera to OAK 44 for 4 yards(56-D.Johnson).'>46.68</number><number>0.98</number>
+<number shadow='shadow1' tooltip='12:40 3-1-OAK 44KC 49 OAK 31 LI: 0.1MWatson reports as eligible receiver27-R.Jennings up the middle to OAK 45 for 1 yard(70-M.Devito).'>47.33</number><number>0.97</number>
+<number shadow='shadow1' tooltip='12:04 1-10-OAK 45KC 49 OAK 31 LI: 0.2(No Huddle Shotgun) 14-M.McGloin pass incomplete short right to 17-D.Moore.'>47.93</number><number>0.98</number>
+<number shadow='shadow1' tooltip='11:56 1-20-OAK 35KC 49 OAK 31 LI: 0.1(Shotgun) 14-M.McGloin pass short right to 45-M.Reece to OAK 42 for 7 yards(Team).'>48.07</number><number>0.98</number>
+<number shadow='shadow1' tooltip='11:10 2-13-OAK 42KC 49 OAK 31 LI: 0.1(No Huddle Shotgun) 14-M.McGloin pass short middle intended for 18-A.Holmes INTERCEPTED by 56-D.Johnson at OAK 4856-D.Johnson to OAK 45 for 3 yards(18-A.Holmes).'>48.83</number><number>0.99</number>
+<number shadow='shadow1' tooltip='11:00 1-10-OAK 45KC 49 OAK 31 LI: 0.134-K.Davis right end to OAK 41 for 4 yards(55-S.Moore).'>49</number><number>0.99</number>
+<number shadow='shadow1' tooltip='10:30 1-20-KC 45KC 49 OAK 31 LI: 0.1(Shotgun) 11-A.Smith pass short right to 34-K.Davis to OAK 45 for 10 yards(92-S.McGee).'>49.5</number><number>0.99</number>
+<number shadow='shadow1' tooltip='9:53 1-10-OAK 30KC 49 OAK 31 LI: 0.1(Shotgun) 34-K.Davis left guard to OAK 28 for 2 yards(29-B.Ross).'>50.12</number><number>0.99</number>
+<number shadow='shadow1' tooltip='9:11 2-8-OAK 28KC 49 OAK 31 LI: 0.1(Shotgun) 11-A.Smith scrambles left end to OAK 17 for 11 yards(29-B.Ross).'>50.82</number><number>0.99</number>
+<number shadow='shadow1' tooltip='8:24 1-10-OAK 17KC 49 OAK 31 LI: 0.134-K.Davis left tackle for 17 yards TOUCHDOWN.'>51.6</number><number>0.99</number>
+<number shadow='shadow1' tooltip='8:24 KC 49 OAK 31 LI: 6-R.Succop extra point is GOOD Center-43-T.Gafford Holder-2-D.Colquitt.'>51.64</number><number>0.99</number>
+<number shadow='shadow1' tooltip='8:24 KC 56 OAK 31 LI: 6-R.Succop kicks 70 yards from KC 35 to OAK -510-G.Jenkins to OAK 18 for 23 yards(88-J.Hemingway).'>51.69</number><number>0.99</number>
+<number shadow='shadow1' tooltip='8:12 1-10-OAK 18KC 56 OAK 31 LI: 0.1TPryor in at QB(Shotgun) 45-M.Reece left tackle to OAK 26 for 8 yards(24-B.Flowers).'>51.8</number><number>0.99</number>
+<number shadow='shadow1' tooltip='7:46 2-2-OAK 26KC 56 OAK 31 LI: 0.1(No Huddle Shotgun) 45-M.Reece right guard to OAK 26 for no gain (52-J.Johnson).'>52.23</number><number>0.99</number>
+<number shadow='shadow1' tooltip='7:15 3-2-OAK 26KC 56 OAK 31 LI: 0.1(No Huddle Shotgun) 14-M.McGloin pass incomplete short left to 81-M.Rivera.'>52.75</number><number>0.99</number>
+<number shadow='shadow1' tooltip='7:11 4-2-OAK 26KC 56 OAK 31 LI: 0.17-M.King punts 48 yards to KC 26 Center-59-J.Condo14-C.Hall to KC 35 for 9 yards(56-M.Burris).'>52.82</number><number>0.99</number>
+<number shadow='shadow1' tooltip='6:58 1-10-KC 35KC 56 OAK 31 LI: 0.1CDaniel in at QB34-K.Davis left guard to KC 38 for 3 yards(94-Ke.Burnett).'>53.03</number><number>0.99</number>
+<number shadow='shadow1' tooltip='6:26 2-7-KC 38KC 56 OAK 31 LI: 0.134-K.Davis left guard to KC 39 for 1 yard(93-J.Hunter).'>53.57</number><number>0.99</number>
+<number shadow='shadow1' tooltip='5:39 3-6-KC 39KC 56 OAK 31 LI: 0.110-C.Daniel pass short right to 32-C.Gray to OAK 43 for 18 yards(29-B.Ross).'>54.35</number><number>0.99</number>
+<number shadow='shadow1' tooltip='4:58 1-10-OAK 43KC 56 OAK 31 LI: 0.1(Shotgun) 32-C.Gray left guard to OAK 40 for 3 yards(90-P.Sims).'>55.03</number><number>0.99</number>
+<number shadow='shadow1' tooltip='4:18 2-7-OAK 40KC 56 OAK 31 LI: 0.1(Shotgun) 10-C.Daniel pass incomplete short right to 88-J.Hemingway (21-M.Jenkins).'>55.7</number><number>0.99</number>
+<number shadow='shadow1' tooltip='4:13 3-7-OAK 40KC 56 OAK 31 LI: 0.1(Shotgun) 10-C.Daniel pass incomplete short right to 15-A.Jenkins.'>55.78</number><number>0.99</number>
+<number shadow='shadow1' tooltip='4:08 4-7-OAK 40KC 56 OAK 31 LI: 0.12-D.Colquitt punts 39 yards to OAK 1 Center-43-T.Gafford downed by KC-38-R.Parker.'>55.87</number><number>0.99</number>
+<number shadow='shadow1' tooltip='3:58 1-10-OAK 1KC 56 OAK 31 LI: 0.149-J.Olawale up the middle to OAK 3 for 2 yards(Team).'>56.03</number><number>0.99</number>
+<number shadow='shadow1' tooltip='3:22 2-8-OAK 3KC 56 OAK 31 LI: 0.12-T.Pryor scrambles left end to OAK 18 for 15 yards(27-S.Smith).'>56.63</number><number>0.99</number>
+<number shadow='shadow1' tooltip='3:14 1-10-OAK 18KC 56 OAK 31 LI: 0.1(Shotgun) 2-T.Pryor pass short right to 17-D.Moore to OAK 30 for 12 yards(52-J.Johnson).'>56.77</number><number>0.99</number>
+<number shadow='shadow1' tooltip='3:08 1-10-OAK 30KC 56 OAK 31 LI: 0.1(Shotgun) 2-T.Pryor pass incomplete short right to 18-A.Holmes.'>56.87</number><number>0.99</number>
+<number shadow='shadow1' tooltip='3:05 2-10-OAK 30KC 56 OAK 31 LI: 0.1(Shotgun) 2-T.Pryor pass deep middle intended for 88-N.Kasa INTERCEPTED by 38-R.Parker at 5038-R.Parker to OAK 35 for 15 yards(68-J.Veldheer).'>56.92</number><number>0.99</number>
+<number shadow='shadow1' tooltip='2:50 1-10-OAK 35KC 56 OAK 31 LI: 0.134-K.Davis right end to OAK 33 for 2 yards(92-S.McGee).'>57.17</number><number>0.99</number>
+<number shadow='shadow1' tooltip='2:43 2-8-OAK 33KC 56 OAK 31 LI: 0.134-K.Davis up the middle to OAK 32 for 1 yard(29-B.Ross).'>57.28</number><number>0.99</number>
+<number shadow='shadow1' tooltip='2:00 3-7-OAK 32KC 56 OAK 31 LI: 0.1(Shotgun) 10-C.Daniel pass short right to 34-K.Davis to OAK 34 for -2 yards(24-C.Woodson).'>58</number><number>0.99</number>
+<number shadow='shadow1' tooltip='1:14 4-9-OAK 34KC 56 OAK 31 LI: 0.1(Shotgun) 10-C.Daniel pass short right to 42-A.Sherman to OAK 19 for 15 yards(24-C.Woodson).'>58.77</number><number>0.99</number>
+<number shadow='shadow1' tooltip='0:28 1-10-OAK 19KC 56 OAK 31 LI: 0.110-C.Daniel kneels to OAK 20 for -1 yards.'>59.53</number><number>1</number>
+<number>60</number><number>1</number>
+</row> </chart_data>
+       <draw>
+
+
+
+      <image x='45' y='298'  url='nfllogos/42x50png/KC.gif'  layer='foreground' glow = 'glow1'/>
+      <image x='45' y='350'  url='nfllogos/42x50png/OAK.gif'     layer='foreground' glow = 'glow1'/>
+
+
+      <rect x='130' y='300' width='250' height='40' fill_color='ee2f2b' bevel='bevel1' />
+      <text x='135' y='300' width='250' height='40' h_align='left' v_align='middle' color='ffffff' shadow='shadow2' glow='winnerglow'>Kansas City Chiefs</text>
+
+      <rect x='130' y='350' width='250' height='40' fill_color='101b24' bevel='bevel1'  />
+      <text x='135' y='350' width='250' height='40' h_align='left' v_align='middle' color='ffffff' shadow='shadow2' glow=''>Oakland Raiders</text>
+
+      <rect x='420' y='300' width='60' height='40' fill_color='ee2f2b' bevel='bevel1'  />
+      <text x='420' y='300' width='60' height='40' h_align='center' v_align='middle' color='ffffff' shadow='shadow2' transition='none' glow='winnerglow'>56</text>
+
+      <rect x='420' y='350' width='60' height='40' fill_color='101b24' bevel='bevel1' />
+      <text x='420' y='350' width='60' height='40' h_align='center' v_align='middle' color='ffffff' shadow='shadow2' transition='none' glow=''>31</text>
+
+      <text x='-3' y='12'  width='60' height='40' h_align='center' v_align='middle' size='13' shadow='shadow2'>KCWin </text>
+      <text x='-3' y='218' width='60' height='40' h_align='center' v_align='middle' size='13' shadow='shadow2'>OAKWin </text>
+
+     
+              <rect x='540' y='300' width='100' height='35' fill_color='000000' fill_alpha='50'/>
+              <text x='540' y='300' width='100' height='35' h_align='center' v_align='middle' color='ffffff' size='15' shadow='shadow2' >Final</text>
+
+              <text x='540' y='340' width='40' h_align='center' color='000000' size='12' shadow='shadow2'>CBF</text>
+              <text x='600' y='340' width='40' h_align='center' color='000000' size='12' shadow='shadow2'>EI</text>
+
+              <rect x='540' y='360' width='40' height='30' fill_color='000000' fill_alpha='50' />
+              <text x='540' y='360' width='40' height='30' size='12' h_align='center' v_align='middle' color='FFFFFF' shadow='shadow2'>2</text>
+
+              <rect x='600' y='360' width='40' height='30' fill_color='000000' fill_alpha='50' />
+              <text x='600' y='360' width='40' height='30' size='12' h_align='center' v_align='middle' color='FFFFFF' shadow='shadow2'>2.6</text>
+
+              <text x='20' y='420' width='70' height='25' size='12' h_align='left' v_align='middle' color='000000' >12/15/2013</text>
+              <text x='100' y='420' width='200' height='25' size='12' h_align='left' v_align='middle' color='000000' >O.Co Oakland Coliseum</text>
+
+   </draw></chart>

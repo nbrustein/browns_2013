@@ -1,0 +1,300 @@
+
+<chart>
+   <license>ETAS9P33ESHO.945CWK-2XOI1X0-7L</license>
+   <chart_type>scatter</chart_type>
+   <chart_pref trend_thickness='0' line_thickness='3' point_size='0'/>
+
+   <series_color>
+      <color>ffff00</color>
+   </series_color>
+
+   <chart_rect x='45' y='20' width='630' height='230' positive_color='cacaca'  />
+
+  <chart_border top_thickness='0'
+                 bottom_thickness='0'
+                 left_thickness='0'
+                 right_thickness='0'
+                 color='000000'
+                 />
+
+   <tooltip font='Arial' bold='true' size='11' />
+
+   <chart_note type='flag'
+               color='000000'
+               alpha='90'
+               bold='FALSE'
+               size='10'
+               background_color='ffffe0'
+               background_alpha='50'
+               shadow='shadow2'
+               />
+
+   <chart_grid_h thickness='2' color='ffffff' type='dashed'  />
+   <chart_grid_v thickness='2' color='ffffff'   />
+		>
+
+   <legend layout='hide' />
+
+   <chart_guide horizontal='TRUE'
+             vertical='TRUE'
+             thickness='1'
+             color='006400'
+             alpha='100'
+             type='solid'
+             snap_h='TRUE'
+             snap_v='TRUE'
+             radius='3'
+             fill_color='006400'
+             fill_alpha='100'
+             line_color='006400'
+             line_alpha='80'
+             line_thickness='1'
+             text_h_alpha='50'
+             text_v_alpha='00'
+             suffix_h=' WP'
+             decimals='2'
+             bold='FALSE'
+             size='11'
+             text_color='FFFFFF'
+             background_color='006400'
+             />
+   <filter>
+      <shadow id='shadow1' distance='2' angle='60' blurX='5' blurY='5' alpha='50' />
+      <bevel id='bevel1' angle='45' blurX='5' blurY='5' distance='0' />
+      <glow id='glow1' color='ffffff' alpha='0' blurX='7' blurY='7' strength='6' quality='2' inner='FALSE' knockout='FALSE' />
+      <glow id='winnerglow' color='ffffff' alpha='0' blurX='7' blurY='7' strength='5' quality='2' inner='FALSE' knockout='FALSE' />
+   </filter>
+
+    <axis_value_label>
+         <string></string>
+          <string> </string>
+          <null/>
+          <string> </string>
+          <string></string>
+
+       </axis_value_label>
+		
+	   <axis_ticks category_ticks='false'/>
+
+       <axis_value min='0' max='1' steps='4'  decimals='2' show_min='true' size='13' shadow='shadow2' />     
+            <axis_category
+               min='0'
+               max='60'
+               steps='4'
+               mode='all'
+               decimals='0'
+               size='13'
+               shadow='shadow2'
+               />
+
+       <axis_category_label>
+          <string>Kickoff</string>
+          <string></string>
+          <string>Halftime</string>
+          <string></string>
+          <string>End</string>
+
+       </axis_category_label>
+
+
+        <chart_data>
+       <row>
+	      <null/><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number>
+              <number>x</number><number>y</number>
+              </row><row><string></string>
+
+                     <number shadow='shadow1'>0</number><number>.5</number><number shadow='shadow1' tooltip='15:00 CAR 0 MIN 0 LI: 9-G.Gano kicks 65 yards from CAR 35 to end zone Touchback.'>0.09</number><number>0.48</number>
+<number shadow='shadow1' tooltip='14:26 1-10-MIN 30CAR 0 MIN 0 LI: 1.628-A.Peterson left tackle to MIN 31 for 1 yard(93-C.Blackburn).'>0.57</number><number>0.48</number>
+<number shadow='shadow1' tooltip='13:50 2-9-MIN 31CAR 0 MIN 0 LI: 1.3(Shotgun) 16-M.Cassel pass incomplete deep left to 82-K.Rudolph (58-T.Davis).'>1.17</number><number>0.5</number>
+<number shadow='shadow1' tooltip='13:44 3-9-MIN 31CAR 0 MIN 0 LI: 1.1(Shotgun) 16-M.Cassel pass short middle to 82-K.Rudolph to MIN 46 for 15 yards(23-M.White).'>1.27</number><number>0.44</number>
+<number shadow='shadow1' tooltip='13:06 1-10-MIN 46CAR 0 MIN 0 LI: 1.428-A.Peterson up the middle to MIN 48 for 2 yards(76-G.Hardy).'>1.9</number><number>0.45</number>
+<number shadow='shadow1' tooltip='12:30 2-8-MIN 48CAR 0 MIN 0 LI: 1.216-M.Cassel pass short right to 17-J.Wright pushed ob at CAR 44 for 8 yards(22-J.Thomas).'>2.5</number><number>0.42</number>
+<number shadow='shadow1' tooltip='12:09 1-10-CAR 44CAR 0 MIN 0 LI: 1.428-A.Peterson right end to CAR 41 for 3 yards(Team)PENALTY on CAR-90-F.Alexander Defensive Offside 5 yards enforced at CAR 44 - No Play.'>2.85</number><number>0.41</number>
+<number shadow='shadow1' tooltip='11:45 1-5-CAR 39CAR 0 MIN 0 LI: 1.416-M.Cassel pass deep middle intended for 15-G.Jennings INTERCEPTED by 21-M.Mitchell [99-K.Short] at CAR 1421-M.Mitchell pushed ob at CAR 38 for 24 yards(82-K.Rudolph).'>3.25</number><number>0.55</number>
+<number shadow='shadow1' tooltip='11:32 1-10-CAR 38CAR 0 MIN 0 LI: 1.51-C.Newton pass incomplete deep middle to 89-S.Smith (33-J.Sanford)PENALTY on CAR-67-R.Kalil Illegal Use of Hands 10 yards enforced at CAR 38 - No Play.'>3.47</number><number>0.53</number>
+<number shadow='shadow1' tooltip='11:26 1-20-CAR 28CAR 0 MIN 0 LI: 1.5(Shotgun) 1-C.Newton pass short left to 89-S.Smith to CAR 33 for 5 yards(20-C.Cook).'>3.57</number><number>0.51</number>
+<number shadow='shadow1' tooltip='10:58 2-15-CAR 33CAR 0 MIN 0 LI: 1.2(Shotgun) 1-C.Newton pass short left to 34-De.Williams to CAR 39 for 6 yards(20-C.Cook).'>4.03</number><number>0.51</number>
+<number shadow='shadow1' tooltip='10:12 3-9-CAR 39CAR 0 MIN 0 LI: 1(Shotgun) 1-C.Newton sacked at CAR 31 for -8 yards(52-C.Greenway)PENALTY on MIN-20-C.Cook Defensive Holding 5 yards enforced at CAR 39 - No Play.'>4.8</number><number>0.56</number>
+<number shadow='shadow1' tooltip='9:32 1-10-CAR 44CAR 0 MIN 0 LI: 1.434-De.Williams up the middle to CAR 46 for 2 yards(59-D.Bishop).'>5.47</number><number>0.54</number>
+<number shadow='shadow1' tooltip='8:53 2-8-CAR 46CAR 0 MIN 0 LI: 1.2(Shotgun) 34-De.Williams left guard to MIN 47 for 7 yards(69-J.Allen).'>6.12</number><number>0.56</number>
+<number shadow='shadow1' tooltip='8:11 3-1-MIN 47CAR 0 MIN 0 LI: 1.2(Shotgun) 1-C.Newton scrambles left end ran ob at MIN 41 for 6 yards.'>6.82</number><number>0.59</number>
+<number shadow='shadow1' tooltip='7:38 1-10-MIN 41CAR 0 MIN 0 LI: 1.4(Shotgun) 1-C.Newton pass incomplete short right to 35-M.Tolbert (96-B.Robison).'>7.37</number><number>0.57</number>
+<number shadow='shadow1' tooltip='7:33 2-10-MIN 41CAR 0 MIN 0 LI: 1.2(Shotgun) 35-M.Tolbert left guard to MIN 38 for 3 yards(69-J.Allen).'>7.45</number><number>0.55</number>
+<number shadow='shadow1' tooltip='6:53 3-7-MIN 38CAR 0 MIN 0 LI: 1(Shotgun) 1-C.Newton up the middle to MIN 32 for 6 yards(22-H.Smith).'>8.12</number><number>0.53</number>
+<number shadow='shadow1' tooltip='6:05 4-1-MIN 32CAR 0 MIN 0 LI: 0.735-M.Tolbert left guard to MIN 30 for 2 yards(50-E.Henderson).'>8.92</number><number>0.62</number>
+<number shadow='shadow1' tooltip='5:27 1-10-MIN 30CAR 0 MIN 0 LI: 1.634-De.Williams right end to MIN 24 for 6 yards(33-J.Sanford 50-E.Henderson).'>9.55</number><number>0.63</number>
+<number shadow='shadow1' tooltip='4:43 2-4-MIN 24CAR 0 MIN 0 LI: 1.5(Shotgun) 1-C.Newton pass short middle to 34-De.Williams pushed ob at MIN 11 for 13 yards(33-J.Sanford).'>10.28</number><number>0.67</number>
+<number shadow='shadow1' tooltip='4:12 1-10-MIN 11CAR 0 MIN 0 LI: 1.7(Shotgun) 11-B.LaFell right end pushed ob at MIN 2 for 9 yards(33-J.Sanford).'>10.8</number><number>0.7</number>
+<number shadow='shadow1' tooltip='3:36 2-1-MIN 2CAR 0 MIN 0 LI: 234-De.Williams left guard to MIN 2 for no gain (50-E.Henderson).'>11.4</number><number>0.68</number>
+<number shadow='shadow1' tooltip='2:54 3-1-MIN 2CAR 0 MIN 0 LI: 1.835-M.Tolbert up the middle to MIN 2 for no gain (52-C.Greenway).'>12.1</number><number>0.59</number>
+<number shadow='shadow1' tooltip='2:07 4-1-MIN 2CAR 0 MIN 0 LI: 0.9(Shotgun) 1-C.Newton pass short left to 89-S.Smith for 2 yards TOUCHDOWN.'>12.88</number><number>0.71</number>
+<number shadow='shadow1' tooltip='2:07 CAR 0 MIN 0 LI: 9-G.Gano extra point is GOOD Center-44-J.Jansen Holder-8-B.Nortman.'>12.92</number><number>0.71</number>
+<number shadow='shadow1' tooltip='2:07 CAR 7 MIN 0 LI: 9-G.Gano kicks 65 yards from CAR 35 to end zone Touchback.'>12.97</number><number>0.72</number>
+<number shadow='shadow1' tooltip='1:29 2-14-MIN 16CAR 7 MIN 0 LI: 1.428-A.Peterson right tackle to MIN 18 for 2 yards(59-L.Kuechly).'>13.52</number><number>0.76</number>
+<number shadow='shadow1' tooltip='0:55 3-12-MIN 18CAR 7 MIN 0 LI: 1.1(Shotgun) 16-M.Cassel pass short left to 82-K.Rudolph pushed ob at MIN 25 for 7 yards(59-L.Kuechly).'>14.08</number><number>0.76</number>
+<number shadow='shadow1' tooltip='0:35 4-5-MIN 25CAR 7 MIN 0 LI: 0.918-J.Locke punts 52 yards to CAR 23 Center-46-C.Loeffler19-T.Ginn to CAR 25 for 2 yards(22-H.Smith).'>14.42</number><number>0.73</number>
+<number shadow='shadow1' tooltip='0:24 1-10-CAR 25CAR 7 MIN 0 LI: 0.9(Shotgun) 1-C.Newton pass incomplete deep left to 89-S.Smith.'>14.6</number><number>0.74</number>
+<number shadow='shadow1' tooltip='0:16 2-10-CAR 25CAR 7 MIN 0 LI: 134-De.Williams left end to CAR 47 for 22 yards(33-J.Sanford).'>14.73</number><number>0.79</number>
+<number shadow='shadow1' tooltip='15:00 1-10-CAR 47CAR 7 MIN 0 LI: 1.2(Shotgun) 1-C.Newton up the middle to CAR 42 for -5 yards(97-E.Griffen).'>15</number><number>0.76</number>
+<number shadow='shadow1' tooltip='14:28 2-15-CAR 42CAR 7 MIN 0 LI: 1(Shotgun) 34-De.Williams up the middle to CAR 41 for -1 yards.'>15.53</number><number>0.74</number>
+<number shadow='shadow1' tooltip='13:46 3-16-CAR 41CAR 7 MIN 0 LI: 0.8(Shotgun) 1-C.Newton pass short right to 11-B.LaFell to MIN 45 for 14 yards(52-C.Greenway; 29-X.Rhodes).'>16.23</number><number>0.73</number>
+<number shadow='shadow1' tooltip='13:24 4-2-MIN 45CAR 7 MIN 0 LI: 0.58-B.Nortman punts 34 yards to MIN 11 Center-44-J.Jansen fair catch by 35-M.Sherels.'>16.6</number><number>0.73</number>
+<number shadow='shadow1' tooltip='13:17 1-10-MIN 11CAR 7 MIN 0 LI: 1.428-A.Peterson up the middle to MIN 22 for 11 yards(22-J.Thomas; 76-G.Hardy).'>16.72</number><number>0.72</number>
+<number shadow='shadow1' tooltip='12:30 1-10-MIN 22CAR 7 MIN 0 LI: 1.316-M.Cassel pass short right to 84-C.Patterson to MIN 27 for 5 yards(23-M.White).'>17.5</number><number>0.72</number>
+<number shadow='shadow1' tooltip='11:53 2-5-MIN 27CAR 7 MIN 0 LI: 1.2(Shotgun) 16-M.Cassel pass short left to 84-C.Patterson to MIN 25 for -2 yards(76-G.Hardy; 59-L.Kuechly).'>18.12</number><number>0.74</number>
+<number shadow='shadow1' tooltip='11:15 3-7-MIN 25CAR 7 MIN 0 LI: 1.1(Shotgun) 16-M.Cassel scrambles up the middle to MIN 31 for 6 yards(58-T.Davis).'>18.75</number><number>0.75</number>
+<number shadow='shadow1' tooltip='10:29 4-1-MIN 31CAR 7 MIN 0 LI: 0.818-J.Locke punts 60 yards to CAR 9 Center-46-C.Loeffler19-T.Ginn to CAR 18 for 9 yards(51-L.Dean).'>19.52</number><number>0.72</number>
+<number shadow='shadow1' tooltip='10:17 1-10-CAR 18CAR 7 MIN 0 LI: 0.8(Shotgun) 34-De.Williams up the middle to CAR 22 for 4 yards(Team).'>19.72</number><number>0.74</number>
+<number shadow='shadow1' tooltip='9:45 2-6-CAR 22CAR 7 MIN 0 LI: 1(Shotgun) 1-C.Newton pass short middle to 88-G.Olsen to CAR 30 for 8 yards(35-M.Sherels).'>20.25</number><number>0.76</number>
+<number shadow='shadow1' tooltip='9:06 1-10-CAR 30CAR 7 MIN 0 LI: 1.1(Shotgun) 1-C.Newton pass short middle to 89-S.Smith to CAR 35 for 5 yards(22-H.Smith).'>20.9</number><number>0.77</number>
+<number shadow='shadow1' tooltip='8:25 2-5-CAR 35CAR 7 MIN 0 LI: 1.1(Shotgun) 35-M.Tolbert left guard to CAR 44 for 9 yards(33-J.Sanford).'>21.58</number><number>0.78</number>
+<number shadow='shadow1' tooltip='7:42 1-10-CAR 44CAR 7 MIN 0 LI: 1(Shotgun) 1-C.Newton pass incomplete short left to 89-S.Smith (20-C.Cook).'>22.3</number><number>0.77</number>
+<number shadow='shadow1' tooltip='7:38 2-10-CAR 44CAR 7 MIN 0 LI: 0.9(Shotgun) 1-C.Newton pass incomplete deep right to 19-T.Ginn.'>22.37</number><number>0.76</number>
+<number shadow='shadow1' tooltip='7:33 3-10-CAR 44CAR 7 MIN 0 LI: 0.8(Shotgun) 1-C.Newton pass short right to 11-B.LaFell to MIN 45 for 11 yards(20-C.Cook).'>22.45</number><number>0.8</number>
+<number shadow='shadow1' tooltip='7:06 1-10-MIN 45CAR 7 MIN 0 LI: 1.11-C.Newton pass short left to 88-G.Olsen pushed ob at MIN 34 for 11 yards(97-E.Griffen) [50-E.Henderson].'>22.9</number><number>0.82</number>
+<number shadow='shadow1' tooltip='6:29 1-10-MIN 34CAR 7 MIN 0 LI: 1.134-De.Williams left end to MIN 33 for 1 yard(50-E.Henderson).'>23.52</number><number>0.8</number>
+<number shadow='shadow1' tooltip='5:47 2-9-MIN 33CAR 7 MIN 0 LI: 0.91-C.Newton sacked at MIN 39 for -6 yards(95-S.Floyd)PENALTY on MIN-95-S.Floyd Face Mask (15 Yards) 15 yards enforced at MIN 39.'>24.22</number><number>0.84</number>
+<number shadow='shadow1' tooltip='5:19 1-10-MIN 24CAR 7 MIN 0 LI: 1.2(Shotgun) 1-C.Newton left end pushed ob at MIN 15 for 9 yards(20-C.Cook).'>24.68</number><number>0.88</number>
+<number shadow='shadow1' tooltip='4:52 2-1-MIN 15CAR 7 MIN 0 LI: 1.435-M.Tolbert up the middle to MIN 10 for 5 yards(95-S.Floyd).'>25.13</number><number>0.87</number>
+<number shadow='shadow1' tooltip='4:16 1-10-MIN 10CAR 7 MIN 0 LI: 1.334-De.Williams up the middle to MIN 10 for no gain (98-L.Guion).'>25.73</number><number>0.85</number>
+<number shadow='shadow1' tooltip='3:50 2-10-MIN 10CAR 7 MIN 0 LI: 1.1(Shotgun) 1-C.Newton pass short middle to 35-M.Tolbert for 10 yards TOUCHDOWN.'>26.17</number><number>0.9</number>
+<number shadow='shadow1' tooltip='3:50 CAR 7 MIN 0 LI: 9-G.Gano extra point is GOOD Center-44-J.Jansen Holder-8-B.NortmanPENALTY on MIN-98-L.Guion Taunting 15 yards enforced between downs.'>26.21</number><number>0.9</number>
+<number shadow='shadow1' tooltip='3:50 CAR 14 MIN 0 LI: 9-G.Gano kicks 50 yards from 50 to end zone Touchback.'>26.26</number><number>0.9</number>
+<number shadow='shadow1' tooltip='3:43 1-10-MIN 20CAR 14 MIN 0 LI: 0.328-A.Peterson right tackle to MIN 27 for 7 yards(91-C.Cole).'>26.28</number><number>0.9</number>
+<number shadow='shadow1' tooltip='3:09 2-3-MIN 27CAR 14 MIN 0 LI: 0.316-M.Cassel pass short right to 15-G.Jennings ran ob at MIN 34 for 7 yards.'>26.85</number><number>0.89</number>
+<number shadow='shadow1' tooltip='2:43 1-10-MIN 34CAR 14 MIN 0 LI: 0.416-M.Cassel sacked at MIN 27 for -7 yards(58-T.Davis).'>27.28</number><number>0.89</number>
+<number shadow='shadow1' tooltip='2:13 2-17-MIN 27CAR 14 MIN 0 LI: 0.4(Shotgun) 16-M.Cassel pass short left to 89-J.Carlson pushed ob at MIN 35 for 8 yards(27-Q.Mikell).'>27.78</number><number>0.89</number>
+<number shadow='shadow1' tooltip='2:00 3-9-MIN 35CAR 14 MIN 0 LI: 0.4(Shotgun) 16-M.Cassel pass short left to 81-J.Simpson pushed ob at CAR 50 for 15 yards(21-M.Mitchell).'>28</number><number>0.88</number>
+<number shadow='shadow1' tooltip='1:54 1-10-CAR 50CAR 14 MIN 0 LI: 0.4(Shotgun) 16-M.Cassel pass short middle to 28-A.Peterson to CAR 48 for 2 yards(59-L.Kuechly; 58-T.Davis).'>28.1</number><number>0.88</number>
+<number shadow='shadow1' tooltip='1:31 2-8-CAR 48CAR 14 MIN 0 LI: 0.4(Shotgun) 16-M.Cassel pass short left to 81-J.Simpson to CAR 44 for 4 yards(27-Q.Mikell).'>28.48</number><number>0.88</number>
+<number shadow='shadow1' tooltip='1:11 3-4-CAR 44CAR 14 MIN 0 LI: 0.3(Shotgun) 16-M.Cassel pass deep right to 82-K.Rudolph to CAR 23 for 21 yards(27-Q.Mikell).'>28.82</number><number>0.85</number>
+<number shadow='shadow1' tooltip='0:49 1-10-CAR 23CAR 14 MIN 0 LI: 0.5(Shotgun) 16-M.Cassel pass short right to 82-K.Rudolph to CAR 21 for 2 yards(27-Q.Mikell).'>29.18</number><number>0.82</number>
+<number shadow='shadow1' tooltip='0:45 2-8-CAR 21CAR 14 MIN 0 LI: 0.8(Shotgun) 16-M.Cassel pass incomplete short left to 28-A.Peterson.'>29.25</number><number>0.84</number>
+<number shadow='shadow1' tooltip='0:42 3-8-CAR 21CAR 14 MIN 0 LI: 0.6(Shotgun) 16-M.Cassel pass short right to 28-A.Peterson to CAR 13 for 8 yards(58-T.Davis).'>29.3</number><number>0.79</number>
+<number shadow='shadow1' tooltip='0:36 1-10-CAR 13CAR 14 MIN 0 LI: 1.1(Shotgun) 28-A.Peterson left guard to CAR 4 for 9 yards(41-C.Munnerlyn)FUMBLES (41-C.Munnerlyn) recovered by MIN-17-J.Wright at CAR 4.'>29.4</number><number>0.78</number>
+<number shadow='shadow1' tooltip='0:27 2-1-CAR 4CAR 14 MIN 0 LI: 1.2(Shotgun) 16-M.Cassel pass short middle to 15-G.Jennings to CAR 4 for no gain (59-L.Kuechly; 21-M.Mitchell).'>29.55</number><number>0.79</number>
+<number shadow='shadow1' tooltip='0:22 3-1-CAR 4CAR 14 MIN 0 LI: 1.1(Shotgun) 16-M.Cassel pass incomplete short right to 82-K.Rudolph.'>29.63</number><number>0.86</number>
+<number shadow='shadow1' tooltip='0:17 4-1-CAR 4CAR 14 MIN 0 LI: 0.43-B.Walsh 22 yard field goal is GOOD Center-46-C.Loeffler Holder-18-J.Locke.'>29.72</number><number>0.87</number>
+<number shadow='shadow1' tooltip='0:17 CAR 14 MIN 3 LI: 18-J.Locke kicks 71 yards from MIN 35 to CAR -619-T.Ginn Touchback.'>29.81</number><number>0.86</number>
+<number shadow='shadow1' tooltip='0:14 CAR 14 MIN 3 LI: 18-J.Locke kicks 67 yards from MIN 35 to CAR -219-T.Ginn to CAR 14 for 16 yards(21-J.Robinson).'>29.86</number><number>0.85</number>
+<number shadow='shadow1' tooltip='14:54 1-10-CAR 14CAR 14 MIN 3 LI: 1.4(Shotgun) 1-C.Newton pass incomplete short middle to 88-G.Olsen (96-B.Robison).'>30.1</number><number>0.84</number>
+<number shadow='shadow1' tooltip='14:50 2-10-CAR 14CAR 14 MIN 3 LI: 1.3(Shotgun) 1-C.Newton left tackle to CAR 21 for 7 yards(90-F.Evans).'>30.17</number><number>0.84</number>
+<number shadow='shadow1' tooltip='14:08 3-3-CAR 21CAR 14 MIN 3 LI: 1(Shotgun) 1-C.Newton pass deep right to 11-B.LaFell for 79 yards TOUCHDOWN(Kick formation) PENALTY on CAR-75-C.Scott False Start 5 yards enforced at MIN 2 - No Play.'>30.87</number><number>0.93</number>
+<number shadow='shadow1' tooltip='14:08 CAR 14 MIN 3 LI: 9-G.Gano extra point is GOOD Center-44-J.Jansen Holder-8-B.Nortman.'>30.91</number><number>0.93</number>
+<number shadow='shadow1' tooltip='14:08 CAR 21 MIN 3 LI: 9-G.Gano kicks 65 yards from CAR 35 to end zone Touchback.'>30.96</number><number>0.93</number>
+<number shadow='shadow1' tooltip='13:56 1-10-MIN 20CAR 21 MIN 3 LI: 0.528-A.Peterson up the middle to MIN 17 for -3 yards(59-L.Kuechly).'>31.07</number><number>0.94</number>
+<number shadow='shadow1' tooltip='13:21 2-13-MIN 17CAR 21 MIN 3 LI: 0.428-A.Peterson up the middle to MIN 23 for 6 yards(93-C.Blackburn; 59-L.Kuechly).'>31.65</number><number>0.94</number>
+<number shadow='shadow1' tooltip='12:45 3-7-MIN 23CAR 21 MIN 3 LI: 0.4(Shotgun) 16-M.Cassel sacked at MIN 13 for -10 yards(58-T.Davis).'>32.25</number><number>0.96</number>
+<number shadow='shadow1' tooltip='12:11 4-17-MIN 13CAR 21 MIN 3 LI: 0.118-J.Locke punts 51 yards to CAR 36 Center-46-C.Loeffler19-T.Ginn pushed ob at CAR 47 for 11 yards(36-R.Blanton).'>32.82</number><number>0.96</number>
+<number shadow='shadow1' tooltip='12:00 1-10-CAR 47CAR 21 MIN 3 LI: 0.434-De.Williams right end to CAR 46 for -1 yards(50-E.Henderson).'>33</number><number>0.95</number>
+<number shadow='shadow1' tooltip='11:22 2-11-CAR 46CAR 21 MIN 3 LI: 0.3(Shotgun) 1-C.Newton pass short middle to 19-T.Ginn to MIN 37 for 17 yards(33-J.Sanford).'>33.63</number><number>0.97</number>
+<number shadow='shadow1' tooltip='10:41 1-10-MIN 37CAR 21 MIN 3 LI: 0.4(Shotgun) 1-C.Newton pass short middle to 34-De.Williams to MIN 30 for 7 yards(96-B.Robison).'>34.32</number><number>0.97</number>
+<number shadow='shadow1' tooltip='9:59 2-3-MIN 30CAR 21 MIN 3 LI: 0.3(Shotgun) 34-De.Williams right guard to MIN 20 for 10 yards(33-J.Sanford; 22-H.Smith).'>35.02</number><number>0.98</number>
+<number shadow='shadow1' tooltip='9:13 1-10-MIN 20CAR 21 MIN 3 LI: 0.4(Shotgun) 1-C.Newton pass short left to 89-S.Smith to MIN 21 for -1 yards(21-J.Robinson).'>35.78</number><number>0.97</number>
+<number shadow='shadow1' tooltip='8:46 2-11-MIN 21CAR 21 MIN 3 LI: 0.3(Shotgun) 1-C.Newton pass short left to 34-De.Williams to MIN 12 for 9 yards(20-C.Cook).'>36.23</number><number>0.98</number>
+<number shadow='shadow1' tooltip='8:09 3-2-MIN 12CAR 21 MIN 3 LI: 0.3(Shotgun) 1-C.Newton left end to MIN 9 for 3 yards(34-A.Sendejo).'>36.85</number><number>0.98</number>
+<number shadow='shadow1' tooltip='7:30 1-9-MIN 9CAR 21 MIN 3 LI: 0.3(Shotgun) 1-C.Newton left tackle to MIN 11 for -2 yards(55-M.Mitchell).'>37.5</number><number>0.98</number>
+<number shadow='shadow1' tooltip='6:59 2-11-MIN 11CAR 21 MIN 3 LI: 0.3(Shotgun) 34-De.Williams right guard to MIN 7 for 4 yards(50-E.Henderson).'>38.02</number><number>0.98</number>
+<number shadow='shadow1' tooltip='6:17 3-7-MIN 7CAR 21 MIN 3 LI: 0.2(Shotgun) 1-C.Newton up the middle for 7 yards TOUCHDOWNPENALTY on MIN Unnecessary Roughness 15 yards enforced between downs.'>38.72</number><number>0.98</number>
+<number shadow='shadow1' tooltip='6:17 CAR 21 MIN 3 LI: 9-G.Gano extra point is GOOD Center-44-J.Jansen Holder-8-B.Nortman.'>38.76</number><number>0.98</number>
+<number shadow='shadow1' tooltip='6:17 CAR 28 MIN 3 LI: 9-G.Gano kicks 50 yards from 50 to end zone Touchback.'>38.81</number><number>0.98</number>
+<number shadow='shadow1' tooltip='6:10 1-10-MIN 20CAR 28 MIN 3 LI: 0.128-A.Peterson up the middle to CAR 49 for 31 yards(21-M.Mitchell).'>38.83</number><number>0.97</number>
+<number shadow='shadow1' tooltip='5:39 1-10-CAR 49CAR 28 MIN 3 LI: 0.1(Shotgun) 16-M.Cassel pass short right to 15-G.Jennings to CAR 49 for no gain (41-C.Munnerlyn).'>39.35</number><number>0.97</number>
+<number shadow='shadow1' tooltip='5:19 2-10-CAR 49CAR 28 MIN 3 LI: 0.1(Shotgun) 16-M.Cassel pass incomplete deep middle to 81-J.Simpson [99-K.Short].'>39.68</number><number>0.96</number>
+<number shadow='shadow1' tooltip='5:13 3-10-CAR 49CAR 28 MIN 3 LI: 0.1(Shotgun) 16-M.Cassel pass short right to 28-A.Peterson to CAR 38 for 11 yards(29-D.Florence) [97-M.Addison].'>39.78</number><number>0.97</number>
+<number shadow='shadow1' tooltip='4:35 1-10-CAR 38CAR 28 MIN 3 LI: 0.1(Shotgun) 16-M.Cassel pass incomplete short right to 81-J.Simpson.'>40.42</number><number>0.97</number>
+<number shadow='shadow1' tooltip='4:30 2-10-CAR 38CAR 28 MIN 3 LI: 0.1(Shotgun) 16-M.Cassel pass short left to 17-J.Wright to CAR 36 for 2 yards(41-C.Munnerlyn).'>40.5</number><number>0.97</number>
+<number shadow='shadow1' tooltip='3:56 3-8-CAR 36CAR 28 MIN 3 LI: 0.1(Shotgun) 16-M.Cassel pass short left to 81-J.Simpson to CAR 35 for 1 yard(22-J.Thomas).'>41.07</number><number>0.98</number>
+<number shadow='shadow1' tooltip='3:14 4-7-CAR 35CAR 28 MIN 3 LI: 0.1(Shotgun) 16-M.Cassel pass incomplete deep middle to 15-G.Jennings.'>41.77</number><number>0.97</number>
+<number shadow='shadow1' tooltip='3:06 1-10-CAR 36CAR 28 MIN 3 LI: 0.134-De.Williams right tackle to CAR 37 for 1 yard(52-C.Greenway).'>41.9</number><number>0.98</number>
+<number shadow='shadow1' tooltip='2:26 2-9-CAR 37CAR 28 MIN 3 LI: 0.11-C.Newton pass short right to 11-B.LaFell to CAR 40 for 3 yards(21-J.Robinson).'>42.57</number><number>0.98</number>
+<number shadow='shadow1' tooltip='1:58 3-6-CAR 40CAR 28 MIN 3 LI: 0.1(Shotgun) 1-C.Newton pass short right to 89-S.Smith to 50 for 10 yards(29-X.Rhodes).'>43.03</number><number>0.98</number>
+<number shadow='shadow1' tooltip='1:11 1-10-50CAR 28 MIN 3 LI: 0.1(Shotgun) 34-De.Williams left guard to MIN 49 for 1 yard(52-C.Greenway; 34-A.Sendejo).'>43.82</number><number>0.98</number>
+<number shadow='shadow1' tooltip='0:31 2-9-MIN 49CAR 28 MIN 3 LI: 0.11-C.Newton pass short left to 35-M.Tolbert to MIN 39 for 10 yards(52-C.Greenway; 20-C.Cook).'>44.48</number><number>0.98</number>
+<number shadow='shadow1' tooltip='15:00 1-10-MIN 39CAR 28 MIN 3 LI: 0.11-C.Newton pass incomplete deep middle to 88-G.Olsen.'>45</number><number>0.99</number>
+<number shadow='shadow1' tooltip='14:55 2-10-MIN 39CAR 28 MIN 3 LI: 0.1(Shotgun) 34-De.Williams up the middle to MIN 36 for 3 yards(50-E.Henderson; 52-C.Greenway).'>45.08</number><number>0.99</number>
+<number shadow='shadow1' tooltip='14:16 3-7-MIN 36CAR 28 MIN 3 LI: 0.1(Shotgun) 1-C.Newton pass incomplete to 89-S.Smith (96-B.Robison).'>45.73</number><number>0.99</number>
+<number shadow='shadow1' tooltip='14:11 3-7-MIN 36CAR 28 MIN 3 LI: 0.1(Shotgun) 1-C.Newton pass short right to 88-G.Olsen to MIN 23 for 13 yards(35-M.Sherels)PENALTY on CAR-77-B.Bell Offensive Holding 10 yards enforced at MIN 36 - No Play.'>45.82</number><number>0.99</number>
+<number shadow='shadow1' tooltip='13:37 3-17-MIN 46CAR 28 MIN 3 LI: 0.1(Shotgun) 1-C.Newton pass short right to 19-T.Ginn pushed ob at MIN 41 for 5 yards(35-M.Sherels).'>46.38</number><number>0.99</number>
+<number shadow='shadow1' tooltip='13:32 4-12-MIN 41CAR 28 MIN 3 LI: 0.18-B.Nortman punts 33 yards to MIN 8 Center-44-J.Jansen downed by CAR-56-A.Klein.'>46.47</number><number>0.99</number>
+<number shadow='shadow1' tooltip='13:23 1-10-MIN 8CAR 28 MIN 3 LI: 0.1(Shotgun) 16-M.Cassel pass short left to 89-J.Carlson to MIN 12 for 4 yards(58-T.Davis).'>46.62</number><number>0.99</number>
+<number shadow='shadow1' tooltip='12:51 2-6-MIN 12CAR 28 MIN 3 LI: 0.1(Shotgun) PENALTY on MIN-71-P.Loadholt False Start 5 yards enforced at MIN 12 - No Play.'>47.15</number><number>0.99</number>
+<number shadow='shadow1' tooltip='12:37 2-11-MIN 7CAR 28 MIN 3 LI: 0.1(Shotgun) 16-M.Cassel pass short left to 32-T.Gerhart to MIN 17 for 10 yards(58-T.Davis).'>47.38</number><number>0.99</number>
+<number shadow='shadow1' tooltip='12:09 3-1-MIN 17CAR 28 MIN 3 LI: 0.116-M.Cassel pass incomplete deep left to 81-J.Simpson.'>47.85</number><number>0.99</number>
+<number shadow='shadow1' tooltip='12:06 4-1-MIN 17CAR 28 MIN 3 LI: 0.1(Shotgun) 16-M.Cassel pass short middle to 82-K.Rudolph to MIN 25 for 8 yards(21-M.Mitchell).'>47.9</number><number>0.99</number>
+<number shadow='shadow1' tooltip='11:39 1-10-MIN 25CAR 28 MIN 3 LI: 0.1(Shotgun) 16-M.Cassel pass short right to 82-K.Rudolph to MIN 34 for 9 yards(21-M.Mitchell).'>48.35</number><number>0.98</number>
+<number shadow='shadow1' tooltip='11:18 2-1-MIN 34CAR 28 MIN 3 LI: 0.1(Shotgun) 16-M.Cassel pass short right to 14-Jo.Webb to MIN 40 for 6 yards(58-T.Davis).'>48.7</number><number>0.98</number>
+<number shadow='shadow1' tooltip='10:54 1-10-MIN 40CAR 28 MIN 3 LI: 0.1(Shotgun) 16-M.Cassel pass intended for 15-G.Jennings INTERCEPTED by 21-M.Mitchell at CAR 4121-M.Mitchell ran ob at MIN 21 for 38 yards.'>49.1</number><number>0.99</number>
+<number shadow='shadow1' tooltip='10:42 1-10-MIN 21CAR 28 MIN 3 LI: 0.119-T.Ginn left end to MIN 24 for -3 yards(34-A.Sendejo).'>49.3</number><number>0.99</number>
+<number shadow='shadow1' tooltip='9:59 2-13-MIN 24CAR 28 MIN 3 LI: 0.1(Shotgun) 1-C.Newton pass short left to 34-De.Williams to MIN 6 for 18 yards(33-J.Sanford).'>50.02</number><number>0.99</number>
+<number shadow='shadow1' tooltip='9:17 1-6-MIN 6CAR 28 MIN 3 LI: 0.134-De.Williams right tackle to MIN 4 for 2 yards(96-B.Robison).'>50.72</number><number>0.99</number>
+<number shadow='shadow1' tooltip='8:31 2-4-MIN 4CAR 28 MIN 3 LI: 0.134-De.Williams left tackle to MIN 1 for 3 yards(52-C.Greenway; 69-J.Allen).'>51.48</number><number>0.99</number>
+<number shadow='shadow1' tooltip='7:44 3-1-MIN 1CAR 28 MIN 3 LI: 0.135-M.Tolbert right guard for 1 yard TOUCHDOWN.'>52.27</number><number>0.99</number>
+<number shadow='shadow1' tooltip='7:44 CAR 28 MIN 3 LI: 9-G.Gano extra point is GOOD Center-44-J.Jansen Holder-8-B.Nortman.'>52.31</number><number>0.99</number>
+<number shadow='shadow1' tooltip='7:44 CAR 35 MIN 3 LI: 9-G.Gano kicks 65 yards from CAR 35 to end zone Touchback.'>52.36</number><number>0.99</number>
+<number shadow='shadow1' tooltip='7:23 2-7-MIN 23CAR 35 MIN 3 LI: 0.1(Shotgun) 16-M.Cassel pass short right to 15-G.Jennings to MIN 23 for no gain (58-T.Davis).'>52.62</number><number>0.99</number>
+<number shadow='shadow1' tooltip='6:49 3-7-MIN 23CAR 35 MIN 3 LI: 0.1(Shotgun) 16-M.Cassel sacked at MIN 14 for -9 yards(21-M.Mitchell).'>53.18</number><number>0.99</number>
+<number shadow='shadow1' tooltip='6:12 4-16-MIN 14CAR 35 MIN 3 LI: 0.118-J.Locke punts 36 yards to MIN 50 Center-46-C.Loeffler downed by MIN-32-T.Gerhart.'>53.8</number><number>0.99</number>
+<number shadow='shadow1' tooltip='6:02 1-10-MIN 50CAR 35 MIN 3 LI: 0.135-M.Tolbert up the middle to MIN 43 for 7 yards(52-C.Greenway).'>53.97</number><number>0.99</number>
+<number shadow='shadow1' tooltip='5:15 2-3-MIN 43CAR 35 MIN 3 LI: 0.135-M.Tolbert left guard to MIN 43 for no gain (93-K.Williams).'>54.75</number><number>0.99</number>
+<number shadow='shadow1' tooltip='4:30 3-3-MIN 43CAR 35 MIN 3 LI: 0.1PENALTY on CAR-84-B.Hartsock False Start 5 yards enforced at MIN 43 - No Play.'>55.5</number><number>0.99</number>
+<number shadow='shadow1' tooltip='4:29 3-8-MIN 48CAR 35 MIN 3 LI: 0.1(Shotgun) 36-A.Smith right guard to MIN 43 for 5 yards(96-B.Robison).'>55.52</number><number>0.99</number>
+<number shadow='shadow1' tooltip='3:44 4-3-MIN 43CAR 35 MIN 3 LI: 0.18-B.Nortman punts 32 yards to MIN 11 Center-44-J.Jansen fair catch by 35-M.Sherels.'>56.27</number><number>0.99</number>
+<number shadow='shadow1' tooltip='3:38 1-10-MIN 11CAR 35 MIN 3 LI: 0.1(Shotgun) 16-M.Cassel pass incomplete short right to 14-Jo.Webb (29-D.Florence).'>56.37</number><number>0.99</number>
+<number shadow='shadow1' tooltip='3:34 2-10-MIN 11CAR 35 MIN 3 LI: 0.1(Shotgun) 16-M.Cassel pass short right to 14-Jo.Webb to MIN 26 for 15 yards(31-J.Dockery).'>56.43</number><number>0.99</number>
+<number shadow='shadow1' tooltip='3:08 1-10-MIN 26CAR 35 MIN 3 LI: 0.1(Shotgun) 16-M.Cassel pass incomplete short left to 15-G.Jennings.'>56.87</number><number>0.99</number>
+<number shadow='shadow1' tooltip='3:03 2-10-MIN 26CAR 35 MIN 3 LI: 0.1(Shotgun) 32-T.Gerhart up the middle to MIN 32 for 6 yards(96-W.Horton).'>56.95</number><number>0.99</number>
+<number shadow='shadow1' tooltip='2:40 3-4-MIN 32CAR 35 MIN 3 LI: 0.1(Shotgun) 16-M.Cassel pass short left to 15-G.Jennings to CAR 48 for 20 yards(56-A.Klein).'>57.33</number><number>0.99</number>
+<number shadow='shadow1' tooltip='2:07 1-10-CAR 48CAR 35 MIN 3 LI: 0.1(Shotgun) 16-M.Cassel pass incomplete short middle to 32-T.Gerhart.'>57.88</number><number>0.99</number>
+<number shadow='shadow1' tooltip='2:02 2-10-CAR 48CAR 35 MIN 3 LI: 0.1(Shotgun) 16-M.Cassel pass short left to 14-Jo.Webb to CAR 45 for 3 yards(56-A.Klein).'>57.97</number><number>0.99</number>
+<number shadow='shadow1' tooltip='1:57 3-7-CAR 45CAR 35 MIN 3 LI: 0.1(Shotgun) 16-M.Cassel scrambles up the middle to CAR 44 for 1 yard(56-A.Klein).'>58.05</number><number>0.99</number>
+<number shadow='shadow1' tooltip='1:24 4-6-CAR 44CAR 35 MIN 3 LI: 0.1(Shotgun) 16-M.Cassel pass incomplete to 81-J.Simpson (57-J.Senn)PENALTY on CAR-57-J.Senn Illegal Use of Hands 5 yards enforced at CAR 44 - No Play.'>58.6</number><number>0.99</number>
+<number shadow='shadow1' tooltip='1:19 1-10-CAR 39CAR 35 MIN 3 LI: 0.1(Shotgun) 16-M.Cassel pass short right to 15-G.Jennings pushed ob at CAR 32 for 7 yards(29-D.Florence).'>58.68</number><number>0.99</number>
+<number shadow='shadow1' tooltip='1:14 2-3-CAR 32CAR 35 MIN 3 LI: 0.1(Shotgun) 16-M.Cassel pass short right to 82-K.Rudolph to CAR 23 for 9 yards(27-Q.Mikell).'>58.77</number><number>0.99</number>
+<number shadow='shadow1' tooltip='1:07 1-10-CAR 23CAR 35 MIN 3 LI: 0.1(Shotgun) 16-M.Cassel pass short right to 82-K.Rudolph for 23 yards TOUCHDOWN.'>58.88</number><number>0.99</number>
+<number shadow='shadow1' tooltip='1:07 CAR 35 MIN 3 LI: 3-B.Walsh extra point is GOOD Center-46-C.Loeffler Holder-18-J.Locke.'>58.92</number><number>0.99</number>
+<number shadow='shadow1' tooltip='1:07 CAR 35 MIN 10 LI: 18-J.Locke kicks 61 yards from MIN 35 to CAR 419-T.Ginn ran ob at CAR 19 for 15 yards.'>58.97</number><number>0.99</number>
+<number shadow='shadow1' tooltip='0:56 1-10-CAR 19CAR 35 MIN 10 LI: 0.13-D.Anderson kneels to CAR 19 for no gain.'>59.07</number><number>0.99</number>
+<number shadow='shadow1' tooltip='0:30 2-10-CAR 19CAR 35 MIN 10 LI: 0.13-D.Anderson kneels to CAR 18 for -1 yards.'>59.5</number><number>1</number>
+<number>60</number><number>1</number>
+</row> </chart_data>
+       <draw>
+
+
+
+      <image x='45' y='298'  url='nfllogos/42x50png/CAR.gif'  layer='foreground' glow = 'glow1'/>
+      <image x='45' y='350'  url='nfllogos/42x50png/MIN.gif'     layer='foreground' glow = 'glow1'/>
+
+
+      <rect x='130' y='300' width='250' height='40' fill_color='008acf' bevel='bevel1' />
+      <text x='135' y='300' width='250' height='40' h_align='left' v_align='middle' color='ffffff' shadow='shadow2' glow='winnerglow'>Carolina Panthers</text>
+
+      <rect x='130' y='350' width='250' height='40' fill_color='262456' bevel='bevel1'  />
+      <text x='135' y='350' width='250' height='40' h_align='left' v_align='middle' color='ffffff' shadow='shadow2' glow=''>Minnesota Vikings</text>
+
+      <rect x='420' y='300' width='60' height='40' fill_color='008acf' bevel='bevel1'  />
+      <text x='420' y='300' width='60' height='40' h_align='center' v_align='middle' color='ffffff' shadow='shadow2' transition='none' glow='winnerglow'>35</text>
+
+      <rect x='420' y='350' width='60' height='40' fill_color='262456' bevel='bevel1' />
+      <text x='420' y='350' width='60' height='40' h_align='center' v_align='middle' color='ffffff' shadow='shadow2' transition='none' glow=''>10</text>
+
+      <text x='-3' y='12'  width='60' height='40' h_align='center' v_align='middle' size='13' shadow='shadow2'>CARWin </text>
+      <text x='-3' y='218' width='60' height='40' h_align='center' v_align='middle' size='13' shadow='shadow2'>MINWin </text>
+
+     
+              <rect x='540' y='300' width='100' height='35' fill_color='000000' fill_alpha='50'/>
+              <text x='540' y='300' width='100' height='35' h_align='center' v_align='middle' color='ffffff' size='15' shadow='shadow2' >Final</text>
+
+              <text x='540' y='340' width='40' h_align='center' color='000000' size='12' shadow='shadow2'>CBF</text>
+              <text x='600' y='340' width='40' h_align='center' color='000000' size='12' shadow='shadow2'>EI</text>
+
+              <rect x='540' y='360' width='40' height='30' fill_color='000000' fill_alpha='50' />
+              <text x='540' y='360' width='40' height='30' size='12' h_align='center' v_align='middle' color='FFFFFF' shadow='shadow2'>2</text>
+
+              <rect x='600' y='360' width='40' height='30' fill_color='000000' fill_alpha='50' />
+              <text x='600' y='360' width='40' height='30' size='12' h_align='center' v_align='middle' color='FFFFFF' shadow='shadow2'>2.1</text>
+
+              <text x='20' y='420' width='70' height='25' size='12' h_align='left' v_align='middle' color='000000' >10/13/2013</text>
+              <text x='100' y='420' width='200' height='25' size='12' h_align='left' v_align='middle' color='000000' >Mall of America Field at HHH Metrodome</text>
+
+   </draw></chart>

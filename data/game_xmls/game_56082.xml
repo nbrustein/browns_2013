@@ -1,0 +1,305 @@
+
+<chart>
+   <license>ETAS9P33ESHO.945CWK-2XOI1X0-7L</license>
+   <chart_type>scatter</chart_type>
+   <chart_pref trend_thickness='0' line_thickness='3' point_size='0'/>
+
+   <series_color>
+      <color>ffff00</color>
+   </series_color>
+
+   <chart_rect x='45' y='20' width='630' height='230' positive_color='cacaca'  />
+
+  <chart_border top_thickness='0'
+                 bottom_thickness='0'
+                 left_thickness='0'
+                 right_thickness='0'
+                 color='000000'
+                 />
+
+   <tooltip font='Arial' bold='true' size='11' />
+
+   <chart_note type='flag'
+               color='000000'
+               alpha='90'
+               bold='FALSE'
+               size='10'
+               background_color='ffffe0'
+               background_alpha='50'
+               shadow='shadow2'
+               />
+
+   <chart_grid_h thickness='2' color='ffffff' type='dashed'  />
+   <chart_grid_v thickness='2' color='ffffff'   />
+		>
+
+   <legend layout='hide' />
+
+   <chart_guide horizontal='TRUE'
+             vertical='TRUE'
+             thickness='1'
+             color='006400'
+             alpha='100'
+             type='solid'
+             snap_h='TRUE'
+             snap_v='TRUE'
+             radius='3'
+             fill_color='006400'
+             fill_alpha='100'
+             line_color='006400'
+             line_alpha='80'
+             line_thickness='1'
+             text_h_alpha='50'
+             text_v_alpha='00'
+             suffix_h=' WP'
+             decimals='2'
+             bold='FALSE'
+             size='11'
+             text_color='FFFFFF'
+             background_color='006400'
+             />
+   <filter>
+      <shadow id='shadow1' distance='2' angle='60' blurX='5' blurY='5' alpha='50' />
+      <bevel id='bevel1' angle='45' blurX='5' blurY='5' distance='0' />
+      <glow id='glow1' color='ffffff' alpha='0' blurX='7' blurY='7' strength='6' quality='2' inner='FALSE' knockout='FALSE' />
+      <glow id='winnerglow' color='ffffff' alpha='0' blurX='7' blurY='7' strength='5' quality='2' inner='FALSE' knockout='FALSE' />
+   </filter>
+
+    <axis_value_label>
+         <string></string>
+          <string> </string>
+          <null/>
+          <string> </string>
+          <string></string>
+
+       </axis_value_label>
+		
+	   <axis_ticks category_ticks='false'/>
+
+       <axis_value min='0' max='1' steps='4'  decimals='2' show_min='true' size='13' shadow='shadow2' />     
+            <axis_category
+               min='0'
+               max='60'
+               steps='4'
+               mode='all'
+               decimals='0'
+               size='13'
+               shadow='shadow2'
+               />
+
+       <axis_category_label>
+          <string>Kickoff</string>
+          <string></string>
+          <string>Halftime</string>
+          <string></string>
+          <string>End</string>
+
+       </axis_category_label>
+
+
+        <chart_data>
+       <row>
+	      <null/><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number>
+              <number>x</number><number>y</number>
+              </row><row><string></string>
+
+                     <number shadow='shadow1'>0</number><number>.5</number><number shadow='shadow1' tooltip='15:00 NYJ 0 MIA 0 LI: 2-N.Folk kicks 65 yards from NYJ 35 to end zone Touchback.'>0.09</number><number>0.48</number>
+<number shadow='shadow1' tooltip='14:37 1-10-MIA 33NYJ 0 MIA 0 LI: 1.5(No Huddle) 26-L.Miller left end to MIA 34 for 1 yard(31-A.Cromartie).'>0.38</number><number>0.48</number>
+<number shadow='shadow1' tooltip='14:05 2-9-MIA 34NYJ 0 MIA 0 LI: 1.326-L.Miller left guard to MIA 38 for 4 yards(94-D.Harrison).'>0.92</number><number>0.49</number>
+<number shadow='shadow1' tooltip='13:19 3-5-MIA 38NYJ 0 MIA 0 LI: 1.1(Shotgun) 17-R.Tannehill pass short middle to 42-C.Clay to MIA 47 for 9 yards(26-D.Landry).'>1.68</number><number>0.44</number>
+<number shadow='shadow1' tooltip='12:41 1-10-MIA 47NYJ 0 MIA 0 LI: 1.3(No Huddle Shotgun) 17-R.Tannehill pass incomplete short left to 82-B.Hartline [98-Q.Coples].'>2.32</number><number>0.45</number>
+<number shadow='shadow1' tooltip='12:36 2-10-MIA 47NYJ 0 MIA 0 LI: 1.233-Dan.Thomas right tackle to MIA 46 for -1 yards(98-Q.Coples).'>2.4</number><number>0.49</number>
+<number shadow='shadow1' tooltip='11:54 3-11-MIA 46NYJ 0 MIA 0 LI: 0.9(Shotgun) 17-R.Tannehill pass incomplete short middle to 42-C.Clay (39-A.Allen).'>3.1</number><number>0.52</number>
+<number shadow='shadow1' tooltip='11:49 4-11-MIA 46NYJ 0 MIA 0 LI: 0.6(Punt formation) 2-B.Fields punts 18 yards to NYJ 36 Center-92-J.Denney out of bounds.'>3.18</number><number>0.54</number>
+<number shadow='shadow1' tooltip='11:42 1-10-NYJ 36NYJ 0 MIA 0 LI: 1.4(Shotgun) 33-C.Ivory left guard to NYJ 38 for 2 yards(98-J.Odrick).'>3.3</number><number>0.53</number>
+<number shadow='shadow1' tooltip='11:07 2-8-NYJ 38NYJ 0 MIA 0 LI: 1.3(No Huddle Shotgun) 7-G.Smith pass incomplete short middle to 11-J.Kerley.'>3.88</number><number>0.51</number>
+<number shadow='shadow1' tooltip='11:03 3-8-NYJ 38NYJ 0 MIA 0 LI: 1.1(Shotgun) 7-G.Smith scrambles right end pushed ob at NYJ 42 for 4 yards(21-B.Grimes).'>3.95</number><number>0.48</number>
+<number shadow='shadow1' tooltip='10:32 4-4-NYJ 42NYJ 0 MIA 0 LI: 0.7(Punt formation) 1-R.Quigley punts 48 yards to MIA 10 Center-46-T.Purdum34-M.Thigpen pushed ob at MIA 25 for 15 yards(25-A.Green).'>4.47</number><number>0.47</number>
+<number shadow='shadow1' tooltip='10:21 1-10-MIA 25NYJ 0 MIA 0 LI: 1.6(Shotgun) 17-R.Tannehill pass short right to 11-M.Wallace to MIA 37 for 12 yards(27-D.Milliner).'>4.65</number><number>0.45</number>
+<number shadow='shadow1' tooltip='9:46 1-10-MIA 37NYJ 0 MIA 0 LI: 1.526-L.Miller right end to MIA 37 for no gain (96-M.Wilkerson).'>5.23</number><number>0.48</number>
+<number shadow='shadow1' tooltip='9:09 2-10-MIA 37NYJ 0 MIA 0 LI: 1.217-R.Tannehill pass incomplete short left to 82-B.Hartline.'>5.85</number><number>0.5</number>
+<number shadow='shadow1' tooltip='9:03 3-10-MIA 37NYJ 0 MIA 0 LI: 1(Shotgun) 17-R.Tannehill pass short middle to 34-M.Thigpen to MIA 46 for 9 yards(52-D.Harris)Miami challenged the runner was down by contact ruling and the play was REVERSED(Shotgun) 17-R.Tannehill pass short middle to 34-M.Thigpen to MIA 48 for 11 yards(52-D.Harris).'>5.95</number><number>0.44</number>
+<number shadow='shadow1' tooltip='8:01 1-10-MIA 48NYJ 0 MIA 0 LI: 1.326-L.Miller right tackle to MIA 49 for 1 yard(93-K.Ellis).'>6.98</number><number>0.45</number>
+<number shadow='shadow1' tooltip='7:24 2-9-MIA 49NYJ 0 MIA 0 LI: 1.2(Shotgun) 17-R.Tannehill pass incomplete deep right to 82-B.Hartline.'>7.6</number><number>0.47</number>
+<number shadow='shadow1' tooltip='7:18 3-9-MIA 49NYJ 0 MIA 0 LI: 1(Shotgun) 17-R.Tannehill pass incomplete deep right to 14-Mar.Moore.'>7.7</number><number>0.51</number>
+<number shadow='shadow1' tooltip='7:11 4-9-MIA 49NYJ 0 MIA 0 LI: 0.6(Punt formation) 2-B.Fields punts 51 yards to end zone Center-92-J.Denney Touchback.'>7.82</number><number>0.52</number>
+<number shadow='shadow1' tooltip='7:02 1-10-NYJ 20NYJ 0 MIA 0 LI: 1.6(Shotgun) 33-C.Ivory right tackle to NYJ 24 for 4 yards(59-D.Ellerbe).'>7.97</number><number>0.51</number>
+<number shadow='shadow1' tooltip='6:31 2-6-NYJ 24NYJ 0 MIA 0 LI: 1.4(Shotgun) 29-B.Powell right end ran ob at NYJ 31 for 7 yards(52-P.Wheeler).'>8.48</number><number>0.54</number>
+<number shadow='shadow1' tooltip='6:08 1-10-NYJ 31NYJ 0 MIA 0 LI: 1.5Direct snap to 29-B.Powell 29-B.Powell left end to NYJ 31 for no gain (55-K.Misi).'>8.87</number><number>0.51</number>
+<number shadow='shadow1' tooltip='5:36 2-10-NYJ 31NYJ 0 MIA 0 LI: 1.2(Shotgun) 7-G.Smith pass incomplete short left to 81-K.Winslow.'>9.4</number><number>0.49</number>
+<number shadow='shadow1' tooltip='5:31 3-10-NYJ 31NYJ 0 MIA 0 LI: 1(Shotgun) 7-G.Smith pass deep right to 86-D.Nelson ran ob at MIA 45 for 24 yards.'>9.48</number><number>0.58</number>
+<number shadow='shadow1' tooltip='5:07 1-10-MIA 45NYJ 0 MIA 0 LI: 1.4(Shotgun) 33-C.Ivory right guard to MIA 41 for 4 yards(91-C.Wake; 52-P.Wheeler).'>9.88</number><number>0.58</number>
+<number shadow='shadow1' tooltip='4:34 2-6-MIA 41NYJ 0 MIA 0 LI: 1.3(Shotgun) 11-J.Kerley up the middle to MIA 40 for 1 yard(52-P.Wheeler).'>10.43</number><number>0.56</number>
+<number shadow='shadow1' tooltip='3:58 3-5-MIA 40NYJ 0 MIA 0 LI: 1.1(Shotgun) 7-G.Smith pass incomplete short left to 10-S.Holmes (21-B.Grimes).'>11.03</number><number>0.5</number>
+<number shadow='shadow1' tooltip='3:53 4-5-MIA 40NYJ 0 MIA 0 LI: 0.5(Punt formation) 1-R.Quigley punts 29 yards to MIA 11 Center-46-T.Purdum fair catch by 34-M.Thigpen.'>11.12</number><number>0.5</number>
+<number shadow='shadow1' tooltip='3:47 1-10-MIA 11NYJ 0 MIA 0 LI: 1.717-R.Tannehill pass short middle to 82-B.Hartline to MIA 36 for 25 yards(26-D.Landry).'>11.22</number><number>0.46</number>
+<number shadow='shadow1' tooltip='3:07 1-10-MIA 36NYJ 0 MIA 0 LI: 1.4(Shotgun) 26-L.Miller right end to MIA 40 for 4 yards(26-D.Landry; 50-G.McIntyre).'>11.88</number><number>0.46</number>
+<number shadow='shadow1' tooltip='2:31 2-6-MIA 40NYJ 0 MIA 0 LI: 1.326-L.Miller right tackle to MIA 40 for no gain (94-D.Harrison).'>12.48</number><number>0.48</number>
+<number shadow='shadow1' tooltip='1:50 3-6-MIA 40NYJ 0 MIA 0 LI: 1.1(Shotgun) 17-R.Tannehill pass short right to 14-Mar.Moore to MIA 47 for 7 yards(56-D.Davis).'>13.17</number><number>0.44</number>
+<number shadow='shadow1' tooltip='1:09 1-10-MIA 47NYJ 0 MIA 0 LI: 1.333-Dan.Thomas right guard to MIA 48 for 1 yard(52-D.Harris; 72-C.Schlauderaff).'>13.85</number><number>0.45</number>
+<number shadow='shadow1' tooltip='0:29 2-9-MIA 48NYJ 0 MIA 0 LI: 1.217-R.Tannehill pass short middle to 18-R.Matthews to NYJ 41 for 11 yards(26-D.Landry).'>14.52</number><number>0.41</number>
+<number shadow='shadow1' tooltip='15:00 1-10-NYJ 41NYJ 0 MIA 0 LI: 1.426-L.Miller left tackle to NYJ 42 for -1 yards(94-D.Harrison).'>15</number><number>0.44</number>
+<number shadow='shadow1' tooltip='14:22 2-11-NYJ 42NYJ 0 MIA 0 LI: 1.126-L.Miller left guard to NYJ 30 for 12 yards(26-D.Landry).'>15.63</number><number>0.38</number>
+<number shadow='shadow1' tooltip='13:41 1-10-NYJ 30NYJ 0 MIA 0 LI: 1.617-R.Tannehill pass incomplete short right to 11-M.Wallace.'>16.32</number><number>0.4</number>
+<number shadow='shadow1' tooltip='13:37 2-10-NYJ 30NYJ 0 MIA 0 LI: 1.417-R.Tannehill pass incomplete short right to 18-R.Matthews.'>16.38</number><number>0.42</number>
+<number shadow='shadow1' tooltip='13:32 3-10-NYJ 30NYJ 0 MIA 0 LI: 1.2(Shotgun) 17-R.Tannehill pass short right to 18-R.Matthews to NYJ 9 for 21 yards(22-E.Reed) [52-D.Harris].'>16.47</number><number>0.33</number>
+<number shadow='shadow1' tooltip='12:46 1-9-NYJ 9NYJ 0 MIA 0 LI: 1.7(Shotgun) 17-R.Tannehill pass incomplete short right to 42-C.Clay (27-D.Milliner).'>17.23</number><number>0.34</number>
+<number shadow='shadow1' tooltip='12:41 2-9-NYJ 9NYJ 0 MIA 0 LI: 1.6(Shotgun) 26-L.Miller up the middle to NYJ 5 for 4 yards(91-S.Richardson).'>17.32</number><number>0.34</number>
+<number shadow='shadow1' tooltip='11:56 3-5-NYJ 5NYJ 0 MIA 0 LI: 1.6(Shotgun) 17-R.Tannehill pass short right to 11-M.Wallace for 5 yards TOUCHDOWN.'>18.07</number><number>0.29</number>
+<number shadow='shadow1' tooltip='11:56 NYJ 0 MIA 0 LI: 9-C.Sturgis extra point is GOOD Center-92-J.Denney Holder-2-B.Fields.'>18.11</number><number>0.29</number>
+<number shadow='shadow1' tooltip='11:56 NYJ 0 MIA 7 LI: 9-C.Sturgis kicks 65 yards from MIA 35 to end zone Touchback.'>18.16</number><number>0.28</number>
+<number shadow='shadow1' tooltip='11:28 1-10-NYJ 37NYJ 0 MIA 7 LI: 1.2(Shotgun) 33-C.Ivory up the middle to NYJ 41 for 4 yards(55-K.Misi).'>18.53</number><number>0.3</number>
+<number shadow='shadow1' tooltip='11:00 2-6-NYJ 41NYJ 0 MIA 7 LI: 1.1(Shotgun) 33-C.Ivory right guard to NYJ 46 for 5 yards(52-P.Wheeler)First Down Measurement.'>19</number><number>0.31</number>
+<number shadow='shadow1' tooltip='10:24 3-1-NYJ 46NYJ 0 MIA 7 LI: 1.129-B.Powell left guard to NYJ 45 for -1 yards(55-K.Misi).'>19.6</number><number>0.27</number>
+<number shadow='shadow1' tooltip='9:53 4-2-NYJ 45NYJ 0 MIA 7 LI: 0.8(Punt formation) 1-R.Quigley punts 43 yards to MIA 12 Center-46-T.Purdum34-M.Thigpen to MIA 16 for 4 yards(35-I.Trufant).'>20.12</number><number>0.28</number>
+<number shadow='shadow1' tooltip='9:43 1-10-MIA 16NYJ 0 MIA 7 LI: 0.926-L.Miller up the middle to MIA 20 for 4 yards(97-C.Pace).'>20.28</number><number>0.26</number>
+<number shadow='shadow1' tooltip='9:05 2-6-MIA 20NYJ 0 MIA 7 LI: 117-R.Tannehill pass incomplete deep middle to 18-R.Matthews.'>20.92</number><number>0.27</number>
+<number shadow='shadow1' tooltip='8:58 3-6-MIA 20NYJ 0 MIA 7 LI: 0.9(Shotgun) 17-R.Tannehill pass incomplete deep right to 11-M.Wallace.'>21.03</number><number>0.3</number>
+<number shadow='shadow1' tooltip='8:52 4-6-MIA 20NYJ 0 MIA 7 LI: 0.6(Punt formation) 2-B.Fields punts 58 yards to NYJ 22 Center-92-J.Denney11-J.Kerley to NYJ 29 for 7 yards(45-A.Spitler).'>21.13</number><number>0.28</number>
+<number shadow='shadow1' tooltip='8:41 1-10-NYJ 29NYJ 0 MIA 7 LI: 1.1(Shotgun) 7-G.Smith pass short right to 17-G.Salas pushed ob at NYJ 35 for 6 yards(59-D.Ellerbe).'>21.32</number><number>0.29</number>
+<number shadow='shadow1' tooltip='8:09 2-4-NYJ 35NYJ 0 MIA 7 LI: 1.1(Shotgun) 7-G.Smith pass short middle to 11-J.Kerley to NYJ 47 for 12 yards(21-B.Grimes).'>21.85</number><number>0.31</number>
+<number shadow='shadow1' tooltip='7:33 1-10-NYJ 47NYJ 0 MIA 7 LI: 1.1(Shotgun) 29-B.Powell right guard to MIA 48 for 5 yards(59-D.Ellerbe).'>22.45</number><number>0.31</number>
+<number shadow='shadow1' tooltip='7:01 2-5-MIA 48NYJ 0 MIA 7 LI: 1(Shotgun) 7-G.Smith pass deep right to 10-S.Holmes to MIA 25 for 23 yards(28-N.Carroll).'>22.98</number><number>0.35</number>
+<number shadow='shadow1' tooltip='6:29 1-10-MIA 25NYJ 0 MIA 7 LI: 1(Shotgun) 7-G.Smith scrambles right end ran ob at MIA 21 for 4 yards(91-C.Wake).'>23.52</number><number>0.39</number>
+<number shadow='shadow1' tooltip='5:59 2-6-MIA 21NYJ 0 MIA 7 LI: 1.3(Shotgun) 29-B.Powell left guard to MIA 14 for 7 yards(20-R.Jones).'>24.02</number><number>0.43</number>
+<number shadow='shadow1' tooltip='5:24 1-10-MIA 14NYJ 0 MIA 7 LI: 1.6(Shotgun) 7-G.Smith pass short left to 10-S.Holmes to MIA 6 for 8 yards(21-B.Grimes).'>24.6</number><number>0.45</number>
+<number shadow='shadow1' tooltip='4:53 2-2-MIA 6NYJ 0 MIA 7 LI: 1.8(Shotgun) 7-G.Smith pass short left to 11-J.Kerley to MIA 6 for no gain (27-J.Wilson).'>25.12</number><number>0.42</number>
+<number shadow='shadow1' tooltip='4:05 3-2-MIA 6NYJ 0 MIA 7 LI: 1.6(Shotgun) 7-G.Smith right tackle to MIA 1 for 5 yards(30-C.Clemons).'>25.92</number><number>0.46</number>
+<number shadow='shadow1' tooltip='3:24 1-1-MIA 1NYJ 0 MIA 7 LI: 291-S.Richardson up the middle for 1 yard TOUCHDOWN.'>26.6</number><number>0.47</number>
+<number shadow='shadow1' tooltip='3:24 NYJ 0 MIA 7 LI: 2-N.Folk extra point is GOOD Center-46-T.Purdum Holder-1-R.Quigley.'>26.64</number><number>0.47</number>
+<number shadow='shadow1' tooltip='3:24 NYJ 7 MIA 7 LI: 2-N.Folk kicks 70 yards from NYJ 35 to MIA -534-M.Thigpen to MIA 33 for 38 yards(26-D.Landry).'>26.69</number><number>0.46</number>
+<number shadow='shadow1' tooltip='3:12 1-10-MIA 33NYJ 7 MIA 7 LI: 1.5(Shotgun) 17-R.Tannehill pass short right to 26-L.Miller to MIA 37 for 4 yards(78-L.Douzable).'>26.8</number><number>0.47</number>
+<number shadow='shadow1' tooltip='2:38 2-6-MIA 37NYJ 7 MIA 7 LI: 1.3(Shotgun) 17-R.Tannehill pass incomplete short right to 11-M.Wallace (27-D.Milliner).'>27.37</number><number>0.49</number>
+<number shadow='shadow1' tooltip='2:34 3-6-MIA 37NYJ 7 MIA 7 LI: 1.1(Shotgun) 17-R.Tannehill pass incomplete short right to 18-R.Matthews.'>27.43</number><number>0.53</number>
+<number shadow='shadow1' tooltip='2:29 4-6-MIA 37NYJ 7 MIA 7 LI: 0.7(Punt formation) 2-B.Fields punts 63 yards to end zone Center-92-J.Denney Touchback.'>27.52</number><number>0.52</number>
+<number shadow='shadow1' tooltip='2:21 1-10-NYJ 20NYJ 7 MIA 7 LI: 1.6(Shotgun) 7-G.Smith pass short middle to 11-J.Kerley to NYJ 32 for 12 yards(27-J.Wilson).'>27.65</number><number>0.54</number>
+<number shadow='shadow1' tooltip='2:00 1-10-NYJ 32NYJ 7 MIA 7 LI: 1.5(Shotgun) 29-B.Powell left tackle to NYJ 37 for 5 yards(27-J.Wilson).'>28</number><number>0.53</number>
+<number shadow='shadow1' tooltip='1:36 2-5-NYJ 37NYJ 7 MIA 7 LI: 1.3(No Huddle Shotgun) 7-G.Smith pass incomplete short right to 29-B.Powell.'>28.4</number><number>0.51</number>
+<number shadow='shadow1' tooltip='1:30 3-5-NYJ 37NYJ 7 MIA 7 LI: 1.1(Shotgun) 7-G.Smith pass short left to 10-S.Holmes ran ob at NYJ 47 for 10 yards(20-R.Jones).'>28.5</number><number>0.56</number>
+<number shadow='shadow1' tooltip='1:25 1-10-NYJ 47NYJ 7 MIA 7 LI: 1.3(Shotgun) 29-B.Powell right guard to 50 for 3 yards(30-C.Clemons).'>28.58</number><number>0.56</number>
+<number shadow='shadow1' tooltip='1:01 2-7-50NYJ 7 MIA 7 LI: 1.3(No Huddle Shotgun) 7-G.Smith pass incomplete short middle to 87-J.Cumberland [91-C.Wake].'>28.98</number><number>0.58</number>
+<number shadow='shadow1' tooltip='0:57 1-10-MIA 45NYJ 7 MIA 7 LI: 1.4(Shotgun) 40-T.Bohanon right tackle to MIA 37 for 8 yards(59-D.Ellerbe).'>29.05</number><number>0.59</number>
+<number shadow='shadow1' tooltip='0:51 2-2-MIA 37NYJ 7 MIA 7 LI: 1.4(Shotgun) 40-T.Bohanon left guard to MIA 33 for 4 yards(20-R.Jones).'>29.15</number><number>0.61</number>
+<number shadow='shadow1' tooltip='0:47 1-10-MIA 33NYJ 7 MIA 7 LI: 1.5(Shotgun) 7-G.Smith pass deep right to 86-D.Nelson to MIA 2 for 31 yards(20-R.Jones).'>29.22</number><number>0.71</number>
+<number shadow='shadow1' tooltip='0:21 1-2-MIA 2NYJ 7 MIA 7 LI: 2.1(No Huddle Shotgun) 7-G.Smith pass incomplete short right to 17-G.Salas.'>29.65</number><number>0.7</number>
+<number shadow='shadow1' tooltip='0:17 1-7-MIA 7NYJ 7 MIA 7 LI: 2(Shotgun) 7-G.Smith pass incomplete short left to 87-J.Cumberland.'>29.72</number><number>0.69</number>
+<number shadow='shadow1' tooltip='0:13 2-7-MIA 7NYJ 7 MIA 7 LI: 1.9(Shotgun) 7-G.Smith pass incomplete short middle to 11-J.Kerley [59-D.Ellerbe].'>29.78</number><number>0.67</number>
+<number shadow='shadow1' tooltip='0:09 3-7-MIA 7NYJ 7 MIA 7 LI: 1.7(Shotgun) 7-G.Smith right guard for 7 yards TOUCHDOWN.'>29.85</number><number>0.73</number>
+<number shadow='shadow1' tooltip='0:09 NYJ 7 MIA 7 LI: 2-N.Folk extra point is GOOD Center-46-T.Purdum Holder-1-R.Quigley.'>29.89</number><number>0.73</number>
+<number shadow='shadow1' tooltip='0:09 NYJ 14 MIA 7 LI: 2-N.Folk kicks 47 yards from NYJ 35 to MIA 1834-M.Thigpen ran ob at MIA 18 for no gain.'>29.94</number><number>0.74</number>
+<number shadow='shadow1' tooltip='0:02 1-10-MIA 18NYJ 14 MIA 7 LI: 117-R.Tannehill kneels to MIA 17 for -1 yards.'>29.97</number><number>0.77</number>
+<number shadow='shadow1' tooltip='0:02 NYJ 14 MIA 7 LI: 9-C.Sturgis kicks 70 yards from MIA 35 to NYJ -531-A.Cromartie to NYJ 11 for 16 yards(41-C.Owens).'>30.06</number><number>0.75</number>
+<number shadow='shadow1' tooltip='14:53 1-10-NYJ 11NYJ 14 MIA 7 LI: 1.8(Shotgun) 29-B.Powell left guard to NYJ 12 for 1 yard(52-P.Wheeler; 55-K.Misi).'>30.12</number><number>0.73</number>
+<number shadow='shadow1' tooltip='14:36 2-9-NYJ 12NYJ 14 MIA 7 LI: 1.6(Shotgun) 29-B.Powell left end to NYJ 15 for 3 yards(96-P.Soliai; 52-P.Wheeler).'>30.4</number><number>0.73</number>
+<number shadow='shadow1' tooltip='13:59 3-6-NYJ 15NYJ 14 MIA 7 LI: 1.1(Shotgun) 7-G.Smith pass incomplete short left to 11-J.Kerley.'>31.02</number><number>0.69</number>
+<number shadow='shadow1' tooltip='13:43 4-6-NYJ 15NYJ 14 MIA 7 LI: 0.7(Punt formation) 1-R.Quigley punts 54 yards to MIA 31 Center-46-T.Purdum34-M.Thigpen to MIA 39 for 8 yards(21-E.Lankster).'>31.28</number><number>0.71</number>
+<number shadow='shadow1' tooltip='13:33 1-10-MIA 39NYJ 14 MIA 7 LI: 1.1(Shotgun) 17-R.Tannehill pass incomplete short right to 14-Mar.Moore.'>31.45</number><number>0.72</number>
+<number shadow='shadow1' tooltip='13:26 2-10-MIA 39NYJ 14 MIA 7 LI: 126-L.Miller right guard to MIA 39 for no gain (26-D.Landry; 52-D.Harris).'>31.57</number><number>0.75</number>
+<number shadow='shadow1' tooltip='13:04 2-20-MIA 29NYJ 14 MIA 7 LI: 0.8(Shotgun) 17-R.Tannehill pass short right to 11-M.Wallace to MIA 28 for -1 yards(97-C.Pace).'>31.93</number><number>0.77</number>
+<number shadow='shadow1' tooltip='12:20 3-21-MIA 28NYJ 14 MIA 7 LI: 0.7(Shotgun) 17-R.Tannehill scrambles right guard to MIA 48 for 20 yards(27-D.Milliner).'>32.67</number><number>0.76</number>
+<number shadow='shadow1' tooltip='11:45 4-1-MIA 48NYJ 14 MIA 7 LI: 0.542-C.Clay right tackle to MIA 48 for no gain (52-D.Harris).'>33.25</number><number>0.81</number>
+<number shadow='shadow1' tooltip='11:40 1-10-MIA 48NYJ 14 MIA 7 LI: 1.2(Shotgun) 29-B.Powell right tackle to MIA 46 for 2 yards(59-D.Ellerbe).'>33.33</number><number>0.8</number>
+<number shadow='shadow1' tooltip='10:49 1-18-NYJ 44NYJ 14 MIA 7 LI: 1.2(Shotgun) 7-G.Smith pass short right to 29-B.Powell to NYJ 40 for -4 yards(59-D.Ellerbe).'>34.18</number><number>0.77</number>
+<number shadow='shadow1' tooltip='10:32 2-22-NYJ 40NYJ 14 MIA 7 LI: 1(Shotgun) 7-G.Smith pass short middle to 11-J.Kerley to NYJ 47 for 7 yards(95-D.Jordan).'>34.47</number><number>0.77</number>
+<number shadow='shadow1' tooltip='9:53 3-15-NYJ 47NYJ 14 MIA 7 LI: 0.8(Shotgun) 7-G.Smith scrambles right end to MIA 41 for 12 yards(20-R.Jones).'>35.12</number><number>0.78</number>
+<number shadow='shadow1' tooltip='9:05 4-3-MIA 41NYJ 14 MIA 7 LI: 0.7(Punt formation) PENALTY on NYJ-40-T.Bohanon False Start 5 yards enforced at MIA 41 - No Play.'>35.92</number><number>0.77</number>
+<number shadow='shadow1' tooltip='8:56 4-8-MIA 46NYJ 14 MIA 7 LI: 0.7(Punt formation) 1-R.Quigley punts 36 yards to MIA 10 Center-46-T.Purdum downed by NYJ-56-D.Davis.'>36.07</number><number>0.78</number>
+<number shadow='shadow1' tooltip='8:52 1-10-MIA 10NYJ 14 MIA 7 LI: 1.117-R.Tannehill pass incomplete deep right to 11-M.Wallace.'>36.13</number><number>0.78</number>
+<number shadow='shadow1' tooltip='8:47 2-10-MIA 10NYJ 14 MIA 7 LI: 1.126-L.Miller up the middle to MIA 12 for 2 yards(94-D.Harrison).'>36.22</number><number>0.79</number>
+<number shadow='shadow1' tooltip='8:03 3-8-MIA 12NYJ 14 MIA 7 LI: 1(Shotgun) 17-R.Tannehill pass short right to 11-M.Wallace to MIA 25 for 13 yards(27-D.Milliner).'>36.95</number><number>0.76</number>
+<number shadow='shadow1' tooltip='7:30 1-10-MIA 25NYJ 14 MIA 7 LI: 0.926-L.Miller right end to MIA 34 for 9 yards(27-D.Milliner 26-D.Landry).'>37.5</number><number>0.73</number>
+<number shadow='shadow1' tooltip='6:51 2-1-MIA 34NYJ 14 MIA 7 LI: 1.1(Shotgun) 17-R.Tannehill pass short left to 18-R.Matthews to MIA 39 for 5 yards(35-I.Trufant).'>38.15</number><number>0.73</number>
+<number shadow='shadow1' tooltip='6:11 1-10-MIA 39NYJ 14 MIA 7 LI: 126-L.Miller up the middle to MIA 46 for 7 yards(22-E.Reed).'>38.82</number><number>0.71</number>
+<number shadow='shadow1' tooltip='5:30 2-3-MIA 46NYJ 14 MIA 7 LI: 1.1(Shotgun) 17-R.Tannehill pass deep middle to 18-R.Matthews to NYJ 33 for 21 yards(22-E.Reed).'>39.5</number><number>0.67</number>
+<number shadow='shadow1' tooltip='4:50 1-10-NYJ 33NYJ 14 MIA 7 LI: 1.3(Shotgun) 26-L.Miller right guard to NYJ 29 for 4 yards(52-D.Harris).'>40.17</number><number>0.67</number>
+<number shadow='shadow1' tooltip='4:15 2-6-NYJ 29NYJ 14 MIA 7 LI: 1.2(Shotgun) 17-R.Tannehill pass incomplete deep right to 11-M.Wallace (27-D.Milliner).'>40.75</number><number>0.69</number>
+<number shadow='shadow1' tooltip='4:09 3-6-NYJ 29NYJ 14 MIA 7 LI: 1(Shotgun) 17-R.Tannehill pass short right intended for 11-M.Wallace INTERCEPTED by 27-D.Milliner at NYJ 2227-D.Milliner to NYJ 22 for no gain (11-M.Wallace).'>40.85</number><number>0.77</number>
+<number shadow='shadow1' tooltip='4:02 1-10-NYJ 11NYJ 14 MIA 7 LI: 1.9(Shotgun) 7-G.Smith left end to NYJ 14 for 3 yards(20-R.Jones).'>40.97</number><number>0.77</number>
+<number shadow='shadow1' tooltip='3:29 2-7-NYJ 14NYJ 14 MIA 7 LI: 1.9(Shotgun) 7-G.Smith pass short left to 11-J.Kerley to NYJ 23 for 9 yards(21-B.Grimes) [30-C.Clemons].'>41.52</number><number>0.79</number>
+<number shadow='shadow1' tooltip='2:54 1-10-NYJ 23NYJ 14 MIA 7 LI: 1.47-G.Smith pass short right to 86-D.Nelson to NYJ 29 for 6 yards(28-N.Carroll).'>42.1</number><number>0.8</number>
+<number shadow='shadow1' tooltip='2:19 2-4-NYJ 29NYJ 14 MIA 7 LI: 1.3(Shotgun) 29-B.Powell right guard to NYJ 32 for 3 yards(94-R.Starks).'>42.68</number><number>0.81</number>
+<number shadow='shadow1' tooltip='1:36 3-1-NYJ 32NYJ 14 MIA 7 LI: 1.3(Shotgun) 29-B.Powell right guard to NYJ 34 for 2 yards(53-J.Jenkins).'>43.4</number><number>0.82</number>
+<number shadow='shadow1' tooltip='1:04 1-10-NYJ 34NYJ 14 MIA 7 LI: 1.37-G.Smith pass incomplete short right to 29-B.Powell (55-K.Misi).'>43.93</number><number>0.82</number>
+<number shadow='shadow1' tooltip='0:55 2-10-NYJ 34NYJ 14 MIA 7 LI: 1.3(Shotgun) 7-G.Smith pass short middle to 81-K.Winslow pushed ob at MIA 32 for 34 yards(20-R.Jones).'>44.08</number><number>0.87</number>
+<number shadow='shadow1' tooltip='0:33 1-10-MIA 32NYJ 14 MIA 7 LI: 0.9(Shotgun) 29-B.Powell up the middle to MIA 29 for 3 yards(50-O.Vernon).'>44.45</number><number>0.87</number>
+<number shadow='shadow1' tooltip='15:00 2-7-MIA 29NYJ 14 MIA 7 LI: 0.829-B.Powell right guard to MIA 26 for 3 yards(95-D.Jordan).'>45</number><number>0.88</number>
+<number shadow='shadow1' tooltip='14:20 3-4-MIA 26NYJ 14 MIA 7 LI: 0.8(Shotgun) 7-G.Smith pass short right to 82-Z.Sudfeld to MIA 19 for 7 yards(21-B.Grimes).'>45.67</number><number>0.9</number>
+<number shadow='shadow1' tooltip='13:39 1-10-MIA 19NYJ 14 MIA 7 LI: 0.8(Shotgun) 7-G.Smith pass incomplete short left to 81-K.Winslow.'>46.35</number><number>0.91</number>
+<number shadow='shadow1' tooltip='13:34 2-10-MIA 19NYJ 14 MIA 7 LI: 0.9(Shotgun) 29-B.Powell right tackle to MIA 18 for 1 yard(50-O.Vernon).'>46.43</number><number>0.9</number>
+<number shadow='shadow1' tooltip='12:58 3-9-MIA 18NYJ 14 MIA 7 LI: 0.7(Shotgun) 7-G.Smith pass incomplete deep right to 86-D.Nelson.'>47.03</number><number>0.88</number>
+<number shadow='shadow1' tooltip='12:51 4-9-MIA 18NYJ 14 MIA 7 LI: 0.5(Field Goal formation) 2-N.Folk 35 yard field goal is No Good Wide Right Center-46-T.Purdum Holder-1-R.Quigley.'>47.15</number><number>0.81</number>
+<number shadow='shadow1' tooltip='12:46 1-10-MIA 26NYJ 14 MIA 7 LI: 0.826-L.Miller up the middle to MIA 27 for 1 yard(96-M.Wilkerson; 94-D.Harrison).'>47.23</number><number>0.81</number>
+<number shadow='shadow1' tooltip='12:10 2-9-MIA 27NYJ 14 MIA 7 LI: 0.926-L.Miller up the middle to MIA 43 for 16 yards(26-D.Landry).'>47.83</number><number>0.77</number>
+<number shadow='shadow1' tooltip='11:30 1-10-MIA 43NYJ 14 MIA 7 LI: 1.2(Shotgun) 26-L.Miller right guard to MIA 48 for 5 yards(97-C.Pace).'>48.5</number><number>0.76</number>
+<number shadow='shadow1' tooltip='10:51 2-5-MIA 48NYJ 14 MIA 7 LI: 1.3(Shotgun) 17-R.Tannehill pass short left to 42-C.Clay to 50 for 2 yards(52-D.Harris).'>49.15</number><number>0.78</number>
+<number shadow='shadow1' tooltip='10:08 3-3-50NYJ 14 MIA 7 LI: 1.2(Shotgun) 17-R.Tannehill pass short right to 11-M.Wallace to MIA 46 for -4 yards(35-I.Trufant).'>49.87</number><number>0.86</number>
+<number shadow='shadow1' tooltip='9:27 4-7-MIA 46NYJ 14 MIA 7 LI: 0.5(Punt formation) 2-B.Fields punts 54 yards to end zone Center-92-J.Denney Touchback.'>50.55</number><number>0.86</number>
+<number shadow='shadow1' tooltip='9:18 1-10-NYJ 20NYJ 14 MIA 7 LI: 1.929-B.Powell right guard to NYJ 22 for 2 yards(52-P.Wheeler).'>50.7</number><number>0.85</number>
+<number shadow='shadow1' tooltip='8:39 2-8-NYJ 22NYJ 14 MIA 7 LI: 1.7(Shotgun) 29-B.Powell left guard to NYJ 32 for 10 yards(52-P.Wheeler).'>51.35</number><number>0.88</number>
+<number shadow='shadow1' tooltip='8:05 1-10-NYJ 32NYJ 14 MIA 7 LI: 1.9(Shotgun) 29-B.Powell up the middle to NYJ 45 for 13 yards(30-C.Clemons).'>51.92</number><number>0.92</number>
+<number shadow='shadow1' tooltip='7:19 1-10-NYJ 45NYJ 14 MIA 7 LI: 1.9(Shotgun) 25-A.Green left guard to NYJ 45 for no gain (20-R.Jones).'>52.68</number><number>0.93</number>
+<number shadow='shadow1' tooltip='6:37 2-10-NYJ 45NYJ 14 MIA 7 LI: 1.9(Shotgun) Direct snap to 29-B.Powell 29-B.Powell pass deep left to 87-J.Cumberland ran ob at MIA 25 for 30 yards(20-R.Jones).'>53.38</number><number>0.96</number>
+<number shadow='shadow1' tooltip='6:02 1-10-MIA 25NYJ 14 MIA 7 LI: 0.97-G.Smith pass short right to 86-D.Nelson to MIA 25 for no gain (20-R.Jones).'>53.97</number><number>0.92</number>
+<number shadow='shadow1' tooltip='5:18 2-10-MIA 25NYJ 14 MIA 7 LI: 0.5(Shotgun) 29-B.Powell up the middle to MIA 22 for 3 yards(98-J.Odrick).'>54.7</number><number>0.93</number>
+<number shadow='shadow1' tooltip='4:36 3-7-MIA 22NYJ 14 MIA 7 LI: 0.8(Shotgun) 7-G.Smith pass short right to 86-D.Nelson ran ob at MIA 17 for 5 yards(28-N.Carroll).'>55.4</number><number>0.91</number>
+<number shadow='shadow1' tooltip='4:22 4-2-MIA 17NYJ 14 MIA 7 LI: 0.7(Field Goal formation) 2-N.Folk 35 yard field goal is GOOD Center-46-T.Purdum Holder-1-R.Quigley.'>55.63</number><number>0.92</number>
+<number shadow='shadow1' tooltip='4:22 NYJ 17 MIA 7 LI: 2-N.Folk kicks 57 yards from NYJ 35 to MIA 842-C.Clay to MIA 23 for 15 yards(54-N.Bellore).'>55.72</number><number>0.92</number>
+<number shadow='shadow1' tooltip='4:12 1-10-MIA 23NYJ 17 MIA 7 LI: 0.6(Shotgun) 17-R.Tannehill pass deep middle intended for 14-Mar.Moore INTERCEPTED by 22-E.Reed at MIA 4322-E.Reed to MIA 26 for 17 yards(18-R.Matthews).'>55.8</number><number>0.98</number>
+<number shadow='shadow1' tooltip='3:59 1-10-MIA 13NYJ 17 MIA 7 LI: 0.629-B.Powell up the middle to MIA 9 for 4 yards(59-D.Ellerbe).'>56.02</number><number>0.98</number>
+<number shadow='shadow1' tooltip='3:54 2-6-MIA 9NYJ 17 MIA 7 LI: 0.6(Shotgun) 91-S.Richardson left guard to MIA 8 for 1 yard(20-R.Jones; 52-P.Wheeler).'>56.1</number><number>0.98</number>
+<number shadow='shadow1' tooltip='3:47 3-5-MIA 8NYJ 17 MIA 7 LI: 0.5(Shotgun) 29-B.Powell right guard to MIA 8 for no gain (94-R.Starks).'>56.22</number><number>0.98</number>
+<number shadow='shadow1' tooltip='3:03 4-5-MIA 8NYJ 17 MIA 7 LI: 0.1(Field Goal formation) 2-N.Folk 26 yard field goal is GOOD Center-46-T.Purdum Holder-1-R.Quigley.'>56.95</number><number>0.97</number>
+<number shadow='shadow1' tooltip='3:03 NYJ 20 MIA 7 LI: 2-N.Folk kicks 51 yards from NYJ 35 to MIA 1434-M.Thigpen MUFFS catch and recovers at MIA 1734-M.Thigpen to MIA 17 for no gain (54-N.Bellore).'>57.04</number><number>0.99</number>
+<number shadow='shadow1' tooltip='2:54 1-10-MIA 17NYJ 20 MIA 7 LI: 0.1(Shotgun) 17-R.Tannehill pass short middle to 14-Mar.Moore to MIA 30 for 13 yards(31-A.Cromartie).'>57.1</number><number>0.96</number>
+<number shadow='shadow1' tooltip='2:34 1-10-MIA 30NYJ 20 MIA 7 LI: 0.1(No Huddle Shotgun) 17-R.Tannehill pass short middle to 42-C.Clay to NYJ 49 for 21 yards(56-D.Davis).'>57.43</number><number>0.92</number>
+<number shadow='shadow1' tooltip='2:09 1-10-NYJ 49NYJ 20 MIA 7 LI: 0.7(No Huddle Shotgun) 17-R.Tannehill pass incomplete short middle to 14-Mar.Moore [98-Q.Coples].'>57.85</number><number>0.96</number>
+<number shadow='shadow1' tooltip='2:04 2-10-NYJ 49NYJ 20 MIA 7 LI: 0.3(Shotgun) PENALTY on MIA-11-M.Wallace False Start 5 yards enforced at NYJ 49 - No Play.'>57.93</number><number>0.97</number>
+<number shadow='shadow1' tooltip='1:59 1-10-NYJ 49NYJ 20 MIA 7 LI: 0.5(Shotgun) 17-R.Tannehill pass short left to 14-Mar.Moore ran ob at NYJ 44 for 5 yards.'>58.02</number><number>0.96</number>
+<number shadow='shadow1' tooltip='1:55 2-5-NYJ 44NYJ 20 MIA 7 LI: 0.3(Shotgun) 17-R.Tannehill pass short right to 42-C.Clay to NYJ 33 for 11 yards(22-E.Reed).'>58.08</number><number>0.98</number>
+<number shadow='shadow1' tooltip='1:39 1-10-NYJ 33NYJ 20 MIA 7 LI: 0.117-R.Tannehill spiked the ball to stop the clock.'>58.35</number><number>0.97</number>
+<number shadow='shadow1' tooltip='1:37 2-10-NYJ 33NYJ 20 MIA 7 LI: 0.2(Shotgun) 17-R.Tannehill pass deep middle intended for 11-M.Wallace INTERCEPTED by 27-D.Milliner at NYJ 1227-D.Milliner to NYJ 24 for 12 yards(14-Mar.Moore).'>58.38</number><number>0.99</number>
+<number shadow='shadow1' tooltip='1:30 1-10-NYJ 24NYJ 20 MIA 7 LI: 0.17-G.Smith kneels to NYJ 23 for -1 yards.'>58.5</number><number>0.99</number>
+<number shadow='shadow1' tooltip='0:50 2-11-NYJ 23NYJ 20 MIA 7 LI: 0.17-G.Smith kneels to NYJ 22 for -1 yards.'>59.17</number><number>0.99</number>
+<number shadow='shadow1' tooltip='0:32 3-12-NYJ 22NYJ 20 MIA 7 LI: 0.17-G.Smith kneels to NYJ 21 for -1 yards.'>59.47</number><number>1</number>
+<number>60</number><number>1</number>
+</row> </chart_data>
+       <draw>
+
+
+
+      <image x='45' y='298'  url='nfllogos/42x50png/NYJ.gif'  layer='foreground' glow = 'glow1'/>
+      <image x='45' y='350'  url='nfllogos/42x50png/MIA.gif'     layer='foreground' glow = 'glow1'/>
+
+
+      <rect x='130' y='300' width='250' height='40' fill_color='00422f' bevel='bevel1' />
+      <text x='135' y='300' width='250' height='40' h_align='left' v_align='middle' color='ffffff' shadow='shadow2' glow='winnerglow'>New York Jets</text>
+
+      <rect x='130' y='350' width='250' height='40' fill_color='006c76' bevel='bevel1'  />
+      <text x='135' y='350' width='250' height='40' h_align='left' v_align='middle' color='ffffff' shadow='shadow2' glow=''>Miami Dolphins</text>
+
+      <rect x='420' y='300' width='60' height='40' fill_color='00422f' bevel='bevel1'  />
+      <text x='420' y='300' width='60' height='40' h_align='center' v_align='middle' color='ffffff' shadow='shadow2' transition='none' glow='winnerglow'>20</text>
+
+      <rect x='420' y='350' width='60' height='40' fill_color='006c76' bevel='bevel1' />
+      <text x='420' y='350' width='60' height='40' h_align='center' v_align='middle' color='ffffff' shadow='shadow2' transition='none' glow=''>7</text>
+
+      <text x='-3' y='12'  width='60' height='40' h_align='center' v_align='middle' size='13' shadow='shadow2'>NYJWin </text>
+      <text x='-3' y='218' width='60' height='40' h_align='center' v_align='middle' size='13' shadow='shadow2'>MIAWin </text>
+
+     
+              <rect x='540' y='300' width='100' height='35' fill_color='000000' fill_alpha='50'/>
+              <text x='540' y='300' width='100' height='35' h_align='center' v_align='middle' color='ffffff' size='15' shadow='shadow2' >Final</text>
+
+              <text x='540' y='340' width='40' h_align='center' color='000000' size='12' shadow='shadow2'>CBF</text>
+              <text x='600' y='340' width='40' h_align='center' color='000000' size='12' shadow='shadow2'>EI</text>
+
+              <rect x='540' y='360' width='40' height='30' fill_color='000000' fill_alpha='50' />
+              <text x='540' y='360' width='40' height='30' size='12' h_align='center' v_align='middle' color='FFFFFF' shadow='shadow2'>4</text>
+
+              <rect x='600' y='360' width='40' height='30' fill_color='000000' fill_alpha='50' />
+              <text x='600' y='360' width='40' height='30' size='12' h_align='center' v_align='middle' color='FFFFFF' shadow='shadow2'>3.4</text>
+
+              <text x='20' y='420' width='70' height='25' size='12' h_align='left' v_align='middle' color='000000' >12/29/2013</text>
+              <text x='100' y='420' width='200' height='25' size='12' h_align='left' v_align='middle' color='000000' >Sun Life Stadium</text>
+
+   </draw></chart>

@@ -1,0 +1,305 @@
+
+<chart>
+   <license>ETAS9P33ESHO.945CWK-2XOI1X0-7L</license>
+   <chart_type>scatter</chart_type>
+   <chart_pref trend_thickness='0' line_thickness='3' point_size='0'/>
+
+   <series_color>
+      <color>ffff00</color>
+   </series_color>
+
+   <chart_rect x='45' y='20' width='630' height='230' positive_color='cacaca'  />
+
+  <chart_border top_thickness='0'
+                 bottom_thickness='0'
+                 left_thickness='0'
+                 right_thickness='0'
+                 color='000000'
+                 />
+
+   <tooltip font='Arial' bold='true' size='11' />
+
+   <chart_note type='flag'
+               color='000000'
+               alpha='90'
+               bold='FALSE'
+               size='10'
+               background_color='ffffe0'
+               background_alpha='50'
+               shadow='shadow2'
+               />
+
+   <chart_grid_h thickness='2' color='ffffff' type='dashed'  />
+   <chart_grid_v thickness='2' color='ffffff'   />
+		>
+
+   <legend layout='hide' />
+
+   <chart_guide horizontal='TRUE'
+             vertical='TRUE'
+             thickness='1'
+             color='006400'
+             alpha='100'
+             type='solid'
+             snap_h='TRUE'
+             snap_v='TRUE'
+             radius='3'
+             fill_color='006400'
+             fill_alpha='100'
+             line_color='006400'
+             line_alpha='80'
+             line_thickness='1'
+             text_h_alpha='50'
+             text_v_alpha='00'
+             suffix_h=' WP'
+             decimals='2'
+             bold='FALSE'
+             size='11'
+             text_color='FFFFFF'
+             background_color='006400'
+             />
+   <filter>
+      <shadow id='shadow1' distance='2' angle='60' blurX='5' blurY='5' alpha='50' />
+      <bevel id='bevel1' angle='45' blurX='5' blurY='5' distance='0' />
+      <glow id='glow1' color='ffffff' alpha='0' blurX='7' blurY='7' strength='6' quality='2' inner='FALSE' knockout='FALSE' />
+      <glow id='winnerglow' color='ffffff' alpha='0' blurX='7' blurY='7' strength='5' quality='2' inner='FALSE' knockout='FALSE' />
+   </filter>
+
+    <axis_value_label>
+         <string></string>
+          <string> </string>
+          <null/>
+          <string> </string>
+          <string></string>
+
+       </axis_value_label>
+		
+	   <axis_ticks category_ticks='false'/>
+
+       <axis_value min='0' max='1' steps='4'  decimals='2' show_min='true' size='13' shadow='shadow2' />     
+            <axis_category
+               min='0'
+               max='60'
+               steps='4'
+               mode='all'
+               decimals='0'
+               size='13'
+               shadow='shadow2'
+               />
+
+       <axis_category_label>
+          <string>Kickoff</string>
+          <string></string>
+          <string>Halftime</string>
+          <string></string>
+          <string>End</string>
+
+       </axis_category_label>
+
+
+        <chart_data>
+       <row>
+	      <null/><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number>
+              <number>x</number><number>y</number>
+              </row><row><string></string>
+
+                     <number shadow='shadow1'>0</number><number>.5</number><number shadow='shadow1' tooltip='15:00 DET 0 ARZ 0 LI: 4-J.Feely kicks 74 yards from ARZ 35 to DET -915-M.Spurlock Touchback.'>0.09</number><number>0.52</number>
+<number shadow='shadow1' tooltip='14:19 2-18-DET 12DET 0 ARZ 0 LI: 1.4(Shotgun) 9-M.Stafford pass short right to 83-P.Edwards to DET 22 for 10 yards(25-J.Powers; 56-K.Dansby)PENALTY on DET Illegal Substitution 5 yards enforced at DET 12 - No Play.'>0.68</number><number>0.45</number>
+<number shadow='shadow1' tooltip='14:02 2-23-DET 7DET 0 ARZ 0 LI: 1.321-R.Bush up the middle to DET 13 for 6 yards(55-J.Abraham).'>0.97</number><number>0.46</number>
+<number shadow='shadow1' tooltip='13:21 3-17-DET 13DET 0 ARZ 0 LI: 1.3(Shotgun) 9-M.Stafford pass short middle to 21-R.Bush to DET 28 for 15 yards(56-K.Dansby).'>1.65</number><number>0.46</number>
+<number shadow='shadow1' tooltip='12:51 4-2-DET 28DET 0 ARZ 0 LI: 0.86-S.Martin punts 56 yards to ARZ 16 Center-48-D.Muhlbach21-P.Peterson to ARZ 21 for 5 yards(58-A.Palmer).'>2.15</number><number>0.48</number>
+<number shadow='shadow1' tooltip='12:41 1-10-ARZ 21DET 0 ARZ 0 LI: 1.63-C.Palmer pass short middle to 11-L.Fitzgerald to ARZ 32 for 11 yards(26-L.Delmas).'>2.32</number><number>0.46</number>
+<number shadow='shadow1' tooltip='12:02 1-10-ARZ 32DET 0 ARZ 0 LI: 1.53-C.Palmer pass short middle to 81-J.Dray to ARZ 46 for 14 yards(27-G.Quin).'>2.97</number><number>0.44</number>
+<number shadow='shadow1' tooltip='11:28 1-10-ARZ 46DET 0 ARZ 0 LI: 1.428-R.Mendenhall up the middle to ARZ 47 for 1 yard(99-C.Mosley).'>3.53</number><number>0.45</number>
+<number shadow='shadow1' tooltip='10:50 2-9-ARZ 47DET 0 ARZ 0 LI: 1.2(Shotgun) 3-C.Palmer pass incomplete deep left to 11-L.Fitzgerald.'>4.17</number><number>0.47</number>
+<number shadow='shadow1' tooltip='10:44 3-9-ARZ 47DET 0 ARZ 0 LI: 1(Shotgun) 3-C.Palmer pass incomplete deep middle to 12-A.Roberts (27-G.Quin).'>4.27</number><number>0.51</number>
+<number shadow='shadow1' tooltip='10:38 4-9-ARZ 47DET 0 ARZ 0 LI: 0.69-D.Zastudil punts 42 yards to DET 11 Center-82-M.Leach15-M.Spurlock pushed ob at DET 21 for 10 yards(94-S.Acho)PENALTY on DET-28-D.Bentley Offensive Holding 5 yards enforced at DET 11.'>4.37</number><number>0.5</number>
+<number shadow='shadow1' tooltip='10:29 1-10-DET 6DET 0 ARZ 0 LI: 1.89-M.Stafford pass short right to 13-N.Burleson to DET 10 for 4 yards(25-J.Powers).'>4.52</number><number>0.49</number>
+<number shadow='shadow1' tooltip='9:56 2-6-DET 10DET 0 ARZ 0 LI: 1.621-R.Bush right end ran ob at DET 18 for 8 yards(26-R.Johnson).'>5.07</number><number>0.51</number>
+<number shadow='shadow1' tooltip='9:18 1-10-DET 18DET 0 ARZ 0 LI: 1.6(Shotgun) 9-M.Stafford pass incomplete deep right to 18-K.Durham [97-L.Alexander].'>5.7</number><number>0.5</number>
+<number shadow='shadow1' tooltip='9:12 2-10-DET 18DET 0 ARZ 0 LI: 1.5(Shotgun) 9-M.Stafford pass short right to 35-J.Bell to DET 27 for 9 yards(93-C.Campbell).'>5.8</number><number>0.52</number>
+<number shadow='shadow1' tooltip='8:28 3-1-DET 27DET 0 ARZ 0 LI: 1.4(Shotgun) 9-M.Stafford pass short middle to 81-C.Johnson to DET 36 for 9 yards(21-P.Peterson).'>6.53</number><number>0.54</number>
+<number shadow='shadow1' tooltip='7:45 1-10-DET 36DET 0 ARZ 0 LI: 1.4(Shotgun) 9-M.Stafford pass short right to 21-R.Bush to DET 39 for 3 yards(37-Y.Bell).'>7.25</number><number>0.54</number>
+<number shadow='shadow1' tooltip='7:05 2-7-DET 39DET 0 ARZ 0 LI: 1.3(Shotgun) 21-R.Bush up the middle to DET 46 for 7 yards(56-K.Dansby).'>7.92</number><number>0.56</number>
+<number shadow='shadow1' tooltip='6:28 1-10-DET 46DET 0 ARZ 0 LI: 1.4(Shotgun) 9-M.Stafford pass short left to 13-N.Burleson to ARZ 46 for 8 yards(32-T.Mathieu).'>8.53</number><number>0.57</number>
+<number shadow='shadow1' tooltip='5:50 2-2-ARZ 46DET 0 ARZ 0 LI: 1.39-M.Stafford pass short right to 87-B.Pettigrew to ARZ 34 for 12 yards(56-K.Dansby).'>9.17</number><number>0.61</number>
+<number shadow='shadow1' tooltip='5:06 1-10-ARZ 34DET 0 ARZ 0 LI: 1.5(Shotgun) 9-M.Stafford pass incomplete deep right to 18-K.Durham.'>9.9</number><number>0.58</number>
+<number shadow='shadow1' tooltip='5:01 2-10-ARZ 34DET 0 ARZ 0 LI: 1.221-R.Bush up the middle to ARZ 38 for -4 yards(22-T.Jefferson).'>9.98</number><number>0.53</number>
+<number shadow='shadow1' tooltip='4:15 3-14-ARZ 38DET 0 ARZ 0 LI: 0.8(Shotgun) 9-M.Stafford pass short right to 35-J.Bell to ARZ 34 for 4 yards(26-R.Johnson).'>10.75</number><number>0.52</number>
+<number shadow='shadow1' tooltip='3:39 4-10-ARZ 34DET 0 ARZ 0 LI: 0.62-D.Akers 52 yard field goal is No Good Wide Left Center-48-D.Muhlbach Holder-6-S.MartinPENALTY on ARZ-31-J.Bethel Running Into the Kicker 5 yards enforced at ARZ 34 - No Play.'>11.35</number><number>0.54</number>
+<number shadow='shadow1' tooltip='3:33 4-5-ARZ 29DET 0 ARZ 0 LI: 0.72-D.Akers 47 yard field goal is No Good Wide Right Center-48-D.Muhlbach Holder-6-S.Martin.'>11.45</number><number>0.45</number>
+<number shadow='shadow1' tooltip='3:28 1-10-ARZ 37DET 0 ARZ 0 LI: 1.528-R.Mendenhall up the middle to ARZ 48 for 11 yards(27-G.Quin).'>11.53</number><number>0.44</number>
+<number shadow='shadow1' tooltip='2:56 1-10-ARZ 48DET 0 ARZ 0 LI: 1.328-R.Mendenhall right tackle to DET 46 for 6 yards(23-C.Houston)PENALTY on ARZ-81-J.Dray Offensive Holding 10 yards enforced at ARZ 48 - No Play.'>12.07</number><number>0.45</number>
+<number shadow='shadow1' tooltip='2:28 1-20-ARZ 38DET 0 ARZ 0 LI: 1.53-C.Palmer pass short left to 15-M.Floyd to ARZ 44 for 6 yards(28-D.Bentley).'>12.53</number><number>0.47</number>
+<number shadow='shadow1' tooltip='1:48 2-14-ARZ 44DET 0 ARZ 0 LI: 1.13-C.Palmer pass short right to 12-A.Roberts to DET 44 for 12 yards(23-C.Houston) [90-N.Suh].'>13.2</number><number>0.45</number>
+<number shadow='shadow1' tooltip='1:07 3-2-DET 44DET 0 ARZ 0 LI: 1.1(Shotgun) 3-C.Palmer pass short right to 81-J.Dray pushed ob at DET 43 for 1 yard(28-D.Bentley).'>13.88</number><number>0.5</number>
+<number shadow='shadow1' tooltip='0:45 4-1-DET 43DET 0 ARZ 0 LI: 0.59-D.Zastudil punts 36 yards to DET 7 Center-82-M.Leach fair catch by 15-M.Spurlock.'>14.25</number><number>0.5</number>
+<number shadow='shadow1' tooltip='0:38 1-10-DET 7DET 0 ARZ 0 LI: 1.89-M.Stafford pass incomplete short left to 13-N.Burleson.'>14.37</number><number>0.47</number>
+<number shadow='shadow1' tooltip='0:35 2-10-DET 7DET 0 ARZ 0 LI: 1.5(Shotgun) 21-R.Bush right tackle to DET 10 for 3 yards(90-D.Dockett).'>14.42</number><number>0.47</number>
+<number shadow='shadow1' tooltip='15:00 3-7-DET 10DET 0 ARZ 0 LI: 1.4(Shotgun) 9-M.Stafford sacked at DET 5 for -5 yards(93-C.Campbell).'>15</number><number>0.42</number>
+<number shadow='shadow1' tooltip='14:31 4-12-DET 5DET 0 ARZ 0 LI: 16-S.Martin punts 47 yards to ARZ 48 Center-48-D.Muhlbach21-P.Peterson ran ob at ARZ 48 for no gain.'>15.48</number><number>0.44</number>
+<number shadow='shadow1' tooltip='14:24 1-10-ARZ 48DET 0 ARZ 0 LI: 1.33-C.Palmer pass short left to 28-R.Mendenhall to DET 32 for 20 yards(54-D.Levy).'>15.6</number><number>0.39</number>
+<number shadow='shadow1' tooltip='13:39 1-10-DET 32DET 0 ARZ 0 LI: 1.538-A.Ellington up the middle to DET 35 for -3 yards(90-N.Suh).'>16.35</number><number>0.42</number>
+<number shadow='shadow1' tooltip='13:03 2-13-DET 35DET 0 ARZ 0 LI: 1.2PENALTY on ARZ-73-E.Winston False Start 5 yards enforced at DET 35 - No Play.'>16.95</number><number>0.46</number>
+<number shadow='shadow1' tooltip='12:38 2-18-DET 40DET 0 ARZ 0 LI: 0.9(Shotgun) 3-C.Palmer pass short right to 13-J.Brown to DET 29 for 11 yards(90-N.Suh).'>17.37</number><number>0.41</number>
+<number shadow='shadow1' tooltip='11:55 3-7-DET 29DET 0 ARZ 0 LI: 1.2(Shotgun) 3-C.Palmer pass incomplete deep right to 15-M.Floyd (23-C.Houston).'>18.08</number><number>0.45</number>
+<number shadow='shadow1' tooltip='11:49 4-7-DET 29DET 0 ARZ 0 LI: 0.84-J.Feely 47 yard field goal is GOOD Center-82-M.Leach Holder-9-D.Zastudil.'>18.18</number><number>0.41</number>
+<number shadow='shadow1' tooltip='11:49 DET 0 ARZ 3 LI: 4-J.Feely kicks 68 yards from ARZ 35 to DET -315-M.Spurlock Touchback.'>18.27</number><number>0.39</number>
+<number shadow='shadow1' tooltip='11:10 1-10-DET 32DET 0 ARZ 3 LI: 1.121-R.Bush up the middle to DET 28 for -4 yards(37-Y.Bell).'>18.83</number><number>0.4</number>
+<number shadow='shadow1' tooltip='10:31 2-14-DET 28DET 0 ARZ 3 LI: 1(Shotgun) 9-M.Stafford pass short left to 81-C.Johnson for 72 yards TOUCHDOWN.'>19.48</number><number>0.62</number>
+<number shadow='shadow1' tooltip='10:31 DET 0 ARZ 3 LI: 2-D.Akers extra point is GOOD Center-48-D.Muhlbach Holder-6-S.Martin.'>19.52</number><number>0.62</number>
+<number shadow='shadow1' tooltip='10:31 DET 7 ARZ 3 LI: 2-D.Akers kicks 65 yards from DET 35 to end zone Touchback.'>19.57</number><number>0.63</number>
+<number shadow='shadow1' tooltip='10:20 1-10-ARZ 20DET 7 ARZ 3 LI: 1.128-R.Mendenhall up the middle to ARZ 31 for 11 yards(28-D.Bentley).'>19.67</number><number>0.61</number>
+<number shadow='shadow1' tooltip='9:45 1-10-ARZ 31DET 7 ARZ 3 LI: 1.128-R.Mendenhall right tackle to ARZ 33 for 2 yards(58-A.Palmer).'>20.25</number><number>0.62</number>
+<number shadow='shadow1' tooltip='9:07 2-8-ARZ 33DET 7 ARZ 3 LI: 1(Shotgun) 3-C.Palmer pass short middle to 28-R.Mendenhall to ARZ 41 for 8 yards(54-D.Levy) [94-E.Ansah].'>20.88</number><number>0.6</number>
+<number shadow='shadow1' tooltip='8:26 1-10-ARZ 41DET 7 ARZ 3 LI: 1.129-A.Smith right tackle to ARZ 42 for 1 yard(27-G.Quin).'>21.57</number><number>0.61</number>
+<number shadow='shadow1' tooltip='7:50 2-9-ARZ 42DET 7 ARZ 3 LI: 13-C.Palmer pass short left to 11-L.Fitzgerald ran ob at DET 36 for 22 yards(54-D.Levy).'>22.17</number><number>0.56</number>
+<number shadow='shadow1' tooltip='7:38 1-10-DET 36DET 7 ARZ 3 LI: 1.13-C.Palmer pass deep left to 38-A.Ellington for 36 yards TOUCHDOWN.'>22.37</number><number>0.4</number>
+<number shadow='shadow1' tooltip='7:38 DET 7 ARZ 3 LI: 4-J.Feely extra point is GOOD Center-82-M.Leach Holder-9-D.Zastudil.'>22.41</number><number>0.4</number>
+<number shadow='shadow1' tooltip='7:38 DET 7 ARZ 10 LI: 4-J.Feely kicks 73 yards from ARZ 35 to DET -815-M.Spurlock to DET 28 for 36 yards(4-J.Feely; 94-S.Acho).'>22.46</number><number>0.37</number>
+<number shadow='shadow1' tooltip='7:25 1-10-DET 8DET 7 ARZ 10 LI: 1.421-R.Bush up the middle to DET 10 for 2 yards(96-R.Talley).'>22.58</number><number>0.37</number>
+<number shadow='shadow1' tooltip='6:42 2-8-DET 10DET 7 ARZ 10 LI: 1.4(Shotgun) 9-M.Stafford pass short right to 13-N.Burleson to DET 15 for 5 yards(21-P.Peterson).'>23.3</number><number>0.37</number>
+<number shadow='shadow1' tooltip='5:59 3-3-DET 15DET 7 ARZ 10 LI: 0.9(Shotgun) 9-M.Stafford pass short middle to 21-R.Bush to DET 41 for 26 yards(22-T.Jefferson)DET-21-R.Bush was injured during the playHis return is Questionable.'>24.02</number><number>0.43</number>
+<number shadow='shadow1' tooltip='5:36 1-10-DET 41DET 7 ARZ 10 LI: 1.135-J.Bell right tackle to DET 39 for -2 yards(90-D.Dockett).'>24.4</number><number>0.42</number>
+<number shadow='shadow1' tooltip='5:00 2-12-DET 39DET 7 ARZ 10 LI: 1(Shotgun) 9-M.Stafford pass short left to 35-J.Bell to DET 48 for 9 yards(56-K.Dansby).'>25</number><number>0.43</number>
+<number shadow='shadow1' tooltip='4:18 3-3-DET 48DET 7 ARZ 10 LI: 1(Shotgun) 9-M.Stafford pass short middle to 13-N.Burleson to ARZ 45 for 7 yards(32-T.Mathieu).'>25.7</number><number>0.47</number>
+<number shadow='shadow1' tooltip='3:40 1-10-ARZ 45DET 7 ARZ 10 LI: 1.335-J.Bell left end to ARZ 25 for 20 yards(56-K.Dansby).'>26.33</number><number>0.52</number>
+<number shadow='shadow1' tooltip='2:57 1-10-ARZ 25DET 7 ARZ 10 LI: 1.5PENALTY on ARZ-98-F.Rucker Encroachment 5 yards enforced at ARZ 25 - No Play.'>27.05</number><number>0.53</number>
+<number shadow='shadow1' tooltip='2:36 1-5-ARZ 20DET 7 ARZ 10 LI: 1.59-M.Stafford pass incomplete deep right to 81-C.JohnsonPENALTY on ARZ-21-P.Peterson Defensive Holding 5 yards enforced at ARZ 20 - No Play.'>27.4</number><number>0.54</number>
+<number shadow='shadow1' tooltip='2:31 1-10-ARZ 15DET 7 ARZ 10 LI: 1.5(Shotgun) 9-M.Stafford pass incomplete short right to 41-T.Riddick (32-T.Mathieu).'>27.48</number><number>0.56</number>
+<number shadow='shadow1' tooltip='2:30 2-10-ARZ 15DET 7 ARZ 10 LI: 1.79-M.Stafford pass short right to 13-N.Burleson to ARZ 3 for 12 yards(32-T.Mathieu).'>27.5</number><number>0.6</number>
+<number shadow='shadow1' tooltip='2:00 1-3-ARZ 3DET 7 ARZ 10 LI: 2.1(Shotgun) 9-M.Stafford pass short left to 81-C.Johnson for 3 yards TOUCHDOWN.'>28</number><number>0.63</number>
+<number shadow='shadow1' tooltip='2:00 DET 7 ARZ 10 LI: 2-D.Akers extra point is GOOD Center-48-D.Muhlbach Holder-6-S.Martin.'>28.04</number><number>0.63</number>
+<number shadow='shadow1' tooltip='2:00 DET 14 ARZ 10 LI: 2-D.Akers kicks 65 yards from DET 35 to end zone Touchback.'>28.09</number><number>0.64</number>
+<number shadow='shadow1' tooltip='1:35 1-10-ARZ 39DET 14 ARZ 10 LI: 1.3(No Huddle Shotgun) 3-C.Palmer pass short left to 29-A.Smith to ARZ 44 for 5 yards(31-R.Mathis).'>28.42</number><number>0.6</number>
+<number shadow='shadow1' tooltip='1:13 2-5-ARZ 44DET 14 ARZ 10 LI: 1.23-C.Palmer pass incomplete short left to 12-A.Roberts (31-R.Mathis).'>28.78</number><number>0.62</number>
+<number shadow='shadow1' tooltip='1:08 3-5-ARZ 44DET 14 ARZ 10 LI: 1(Shotgun) PENALTY on ARZ-3-C.Palmer Delay of Game 5 yards enforced at ARZ 44 - No Play.'>28.87</number><number>0.64</number>
+<number shadow='shadow1' tooltip='1:04 4-10-ARZ 39DET 14 ARZ 10 LI: 0.59-D.Zastudil punts 48 yards to DET 13 Center-82-M.Leach15-M.Spurlock to DET 21 for 8 yards(31-J.Bethel).'>28.93</number><number>0.67</number>
+<number shadow='shadow1' tooltip='0:53 1-10-DET 21DET 14 ARZ 10 LI: 1.6(Shotgun) 21-R.Bush up the middle to DET 21 for no gain (52-J.Brinkley).'>29.12</number><number>0.66</number>
+<number shadow='shadow1' tooltip='0:15 2-10-DET 21DET 14 ARZ 10 LI: 1.535-J.Bell left end to DET 20 for -1 yards(32-T.Mathieu).'>29.75</number><number>0.63</number>
+<number shadow='shadow1' tooltip='0:15 DET 14 ARZ 10 LI: 6-S.Martin kicks 65 yards from DET 35 to end zone Touchback.'>29.84</number><number>0.65</number>
+<number shadow='shadow1' tooltip='15:00 1-10-ARZ 20DET 14 ARZ 10 LI: 1.228-R.Mendenhall right tackle to ARZ 22 for 2 yards(23-C.Houston).'>30</number><number>0.66</number>
+<number shadow='shadow1' tooltip='14:23 2-8-ARZ 22DET 14 ARZ 10 LI: 1.138-A.Ellington right end to ARZ 32 for 10 yards(28-D.Bentley; 26-L.Delmas).'>30.62</number><number>0.64</number>
+<number shadow='shadow1' tooltip='13:45 1-10-ARZ 32DET 14 ARZ 10 LI: 1.13-C.Palmer pass incomplete short left to 81-J.Dray.'>31.25</number><number>0.64</number>
+<number shadow='shadow1' tooltip='13:42 2-10-ARZ 32DET 14 ARZ 10 LI: 1.13-C.Palmer pass short left to 81-J.Dray to ARZ 36 for 4 yards(31-R.Mathis).'>31.3</number><number>0.65</number>
+<number shadow='shadow1' tooltip='13:01 3-6-ARZ 36DET 14 ARZ 10 LI: 1(Shotgun) 3-C.Palmer pass incomplete short middle to 11-L.Fitzgerald [94-E.Ansah].'>31.98</number><number>0.69</number>
+<number shadow='shadow1' tooltip='12:56 4-6-ARZ 36DET 14 ARZ 10 LI: 0.69-D.Zastudil punts 52 yards to DET 12 Center-82-M.Leach15-M.Spurlock to DET 6 for -6 yards(29-A.Smith).'>32.07</number><number>0.67</number>
+<number shadow='shadow1' tooltip='12:43 1-10-DET 6DET 14 ARZ 10 LI: 2.521-R.Bush up the middle to DET 13 for 7 yards(90-D.Dockett).'>32.28</number><number>0.66</number>
+<number shadow='shadow1' tooltip='12:02 2-3-DET 13DET 14 ARZ 10 LI: 2.39-M.Stafford FUMBLES (Aborted) at DET 7 RECOVERED by ARZ-93-C.Campbell at DET 793-C.Campbell to DET 7 for no gain (75-L.Warford).'>32.97</number><number>0.42</number>
+<number shadow='shadow1' tooltip='11:54 1-7-DET 7DET 14 ARZ 10 LI: 2.528-R.Mendenhall up the middle to DET 5 for 2 yards(77-I.Idonije).'>33.1</number><number>0.42</number>
+<number shadow='shadow1' tooltip='11:23 2-5-DET 5DET 14 ARZ 10 LI: 2.53-C.Palmer pass incomplete short right to 15-M.Floyd (23-C.Houston).'>33.62</number><number>0.46</number>
+<number shadow='shadow1' tooltip='11:18 3-5-DET 5DET 14 ARZ 10 LI: 2.1PENALTY on ARZ-15-M.Floyd False Start 5 yards enforced at DET 5 - No Play.'>33.7</number><number>0.49</number>
+<number shadow='shadow1' tooltip='10:37 4-5-DET 5DET 14 ARZ 10 LI: 1.24-J.Feely 23 yard field goal is GOOD Center-82-M.Leach Holder-9-D.Zastudil.'>34.38</number><number>0.57</number>
+<number shadow='shadow1' tooltip='10:37 DET 14 ARZ 13 LI: 4-J.Feely kicks 65 yards from ARZ 35 to end zone Touchback.'>34.47</number><number>0.55</number>
+<number shadow='shadow1' tooltip='10:28 2-10-DET 20DET 14 ARZ 13 LI: 1.5(Shotgun) 9-M.Stafford pass incomplete short right to 87-B.Pettigrew (56-K.Dansby).'>34.53</number><number>0.53</number>
+<number shadow='shadow1' tooltip='10:24 3-10-DET 20DET 14 ARZ 13 LI: 1.3(Shotgun) 9-M.Stafford pass incomplete short middle to 87-B.Pettigrew.'>34.6</number><number>0.5</number>
+<number shadow='shadow1' tooltip='10:18 4-10-DET 20DET 14 ARZ 13 LI: 16-S.Martin punts 52 yards to ARZ 28 Center-48-D.Muhlbach fair catch by 21-P.Peterson.'>34.7</number><number>0.53</number>
+<number shadow='shadow1' tooltip='10:11 1-10-ARZ 28DET 14 ARZ 13 LI: 1.33-C.Palmer pass deep right to 21-P.Peterson to ARZ 45 for 17 yards(54-D.Levy).'>34.82</number><number>0.49</number>
+<number shadow='shadow1' tooltip='9:47 1-10-ARZ 45DET 14 ARZ 13 LI: 1.428-R.Mendenhall right tackle to ARZ 47 for 2 yards(54-D.Levy).'>35.22</number><number>0.49</number>
+<number shadow='shadow1' tooltip='9:08 2-8-ARZ 47DET 14 ARZ 13 LI: 1.3(Shotgun) 28-R.Mendenhall up the middle to DET 44 for 9 yards(91-J.Jones).'>35.87</number><number>0.46</number>
+<number shadow='shadow1' tooltip='8:33 1-10-DET 44DET 14 ARZ 13 LI: 1.43-C.Palmer pass short right to 81-J.Dray to DET 40 for 4 yards(23-C.Houston).'>36.45</number><number>0.46</number>
+<number shadow='shadow1' tooltip='8:00 2-6-DET 40DET 14 ARZ 13 LI: 1.430-S.Taylor up the middle to DET 38 for 2 yards(94-E.Ansah).'>37</number><number>0.48</number>
+<number shadow='shadow1' tooltip='7:16 3-4-DET 38DET 14 ARZ 13 LI: 1.1(Shotgun) 3-C.Palmer pass short right intended for 81-J.Dray INTERCEPTED by 54-D.Levy [90-N.Suh] at DET 3454-D.Levy for 66 yards TOUCHDOWN.'>37.73</number><number>0.77</number>
+<number shadow='shadow1' tooltip='7:16 DET 14 ARZ 13 LI: 2-D.Akers extra point is GOOD Center-48-D.Muhlbach Holder-6-S.Martin.'>37.77</number><number>0.77</number>
+<number shadow='shadow1' tooltip='7:16 DET 21 ARZ 13 LI: 6-S.Martin kicks 65 yards from DET 35 to end zone Touchback.'>37.82</number><number>0.78</number>
+<number shadow='shadow1' tooltip='7:04 1-10-ARZ 20DET 21 ARZ 13 LI: 1.128-R.Mendenhall left tackle to ARZ 29 for 9 yards(97-J.Bannan; 99-C.Mosley).'>37.93</number><number>0.77</number>
+<number shadow='shadow1' tooltip='6:33 2-1-ARZ 29DET 21 ARZ 13 LI: 1.128-R.Mendenhall up the middle to ARZ 37 for 8 yards(23-C.Houston).'>38.45</number><number>0.76</number>
+<number shadow='shadow1' tooltip='5:55 1-10-ARZ 37DET 21 ARZ 13 LI: 13-C.Palmer pass incomplete deep right to 11-L.FitzgeraldPENALTY on DET-28-D.Bentley Defensive Pass Interference 28 yards enforced at ARZ 37 - No Play.'>39.08</number><number>0.7</number>
+<number shadow='shadow1' tooltip='5:48 1-10-DET 35DET 21 ARZ 13 LI: 1.2(Shotgun) 21-P.Peterson pass deep right to 18-K.Taylor ran ob at DET 18 for 17 yards.'>39.2</number><number>0.67</number>
+<number shadow='shadow1' tooltip='5:34 1-10-DET 18DET 21 ARZ 13 LI: 1.23-C.Palmer pass incomplete deep middle to 15-M.Floyd (31-R.Mathis).'>39.43</number><number>0.67</number>
+<number shadow='shadow1' tooltip='5:28 2-10-DET 18DET 21 ARZ 13 LI: 1.238-A.Ellington up the middle to DET 21 for -3 yards(90-N.Suh).'>39.53</number><number>0.71</number>
+<number shadow='shadow1' tooltip='4:49 3-13-DET 21DET 21 ARZ 13 LI: 0.9(Shotgun) 3-C.Palmer sacked at DET 25 for -4 yards(79-W.Young).'>40.18</number><number>0.75</number>
+<number shadow='shadow1' tooltip='4:17 4-17-DET 25DET 21 ARZ 13 LI: 0.64-J.Feely 43 yard field goal is GOOD Center-82-M.Leach Holder-9-D.Zastudil.'>40.72</number><number>0.73</number>
+<number shadow='shadow1' tooltip='4:17 DET 21 ARZ 16 LI: 4-J.Feely kicks 65 yards from ARZ 35 to end zone Touchback.'>40.81</number><number>0.72</number>
+<number shadow='shadow1' tooltip='3:38 2-5-DET 25DET 21 ARZ 16 LI: 1.59-M.Stafford scrambles right end to DET 26 for 1 yard(56-K.Dansby).'>41.37</number><number>0.72</number>
+<number shadow='shadow1' tooltip='2:49 3-4-DET 26DET 21 ARZ 16 LI: 1.3(Shotgun) 9-M.Stafford pass incomplete short middle to 81-C.Johnson.'>42.18</number><number>0.68</number>
+<number shadow='shadow1' tooltip='2:46 4-4-DET 26DET 21 ARZ 16 LI: 0.96-S.Martin punts 48 yards to ARZ 26 Center-48-D.Muhlbach fair catch by 21-P.Peterson.'>42.23</number><number>0.7</number>
+<number shadow='shadow1' tooltip='2:38 1-10-ARZ 26DET 21 ARZ 16 LI: 1.23-C.Palmer pass incomplete short right to 11-L.Fitzgerald.'>42.37</number><number>0.71</number>
+<number shadow='shadow1' tooltip='2:32 2-10-ARZ 26DET 21 ARZ 16 LI: 1.1(Shotgun) 3-C.Palmer pass short right to 12-A.Roberts to ARZ 31 for 5 yards(23-C.Houston).'>42.47</number><number>0.71</number>
+<number shadow='shadow1' tooltip='1:49 3-5-ARZ 31DET 21 ARZ 16 LI: 1(Shotgun) 3-C.Palmer sacked at ARZ 25 for -6 yards(94-E.Ansah)FUMBLES (94-E.Ansah) RECOVERED by DET-79-W.Young at ARZ 2679-W.Young to ARZ 26 for no gain (74-P.Fanaika)PENALTY on DET-79-W.Young Illegal Use of Hands 5 yards enforced at ARZ 31 - No Play.'>43.18</number><number>0.68</number>
+<number shadow='shadow1' tooltip='1:42 1-10-ARZ 36DET 21 ARZ 16 LI: 1.33-C.Palmer pass to 18-K.Taylor to DET 48 for 16 yards(23-C.Houston)PENALTY on DET-77-I.Idonije Roughing the Passer 15 yards enforced at DET 48.'>43.3</number><number>0.61</number>
+<number shadow='shadow1' tooltip='1:13 1-10-DET 33DET 21 ARZ 16 LI: 1.428-R.Mendenhall up the middle to DET 30 for 3 yards(27-G.Quin).'>43.78</number><number>0.61</number>
+<number shadow='shadow1' tooltip='0:40 2-7-DET 30DET 21 ARZ 16 LI: 1.43-C.Palmer pass short left to 18-K.Taylor ran ob at DET 23 for 7 yards.'>44.33</number><number>0.59</number>
+<number shadow='shadow1' tooltip='0:05 1-10-DET 23DET 21 ARZ 16 LI: 1.53-C.Palmer pass incomplete deep right to 12-A.Roberts.'>44.92</number><number>0.57</number>
+<number shadow='shadow1' tooltip='15:00 2-10-DET 23DET 21 ARZ 16 LI: 1.7(Shotgun) 3-C.Palmer pass incomplete short left to 18-K.Taylor (91-J.Jones).'>45</number><number>0.6</number>
+<number shadow='shadow1' tooltip='14:56 3-10-DET 23DET 21 ARZ 16 LI: 1.4(Shotgun) 3-C.Palmer pass short right to 81-J.Dray to DET 15 for 8 yards(55-S.Tulloch) [79-W.Young].'>45.07</number><number>0.63</number>
+<number shadow='shadow1' tooltip='14:23 4-2-DET 15DET 21 ARZ 16 LI: 14-J.Feely 33 yard field goal is GOOD Center-82-M.Leach Holder-9-D.Zastudil.'>45.62</number><number>0.63</number>
+<number shadow='shadow1' tooltip='14:23 DET 21 ARZ 19 LI: 4-J.Feely kicks 74 yards from ARZ 35 to DET -915-M.Spurlock Touchback.'>45.71</number><number>0.61</number>
+<number shadow='shadow1' tooltip='14:17 1-10-DET 20DET 21 ARZ 19 LI: 1.8(Shotgun) 9-M.Stafford pass short left to 35-J.Bell to DET 29 for 9 yards(26-R.Johnson).'>45.72</number><number>0.63</number>
+<number shadow='shadow1' tooltip='13:42 2-1-DET 29DET 21 ARZ 19 LI: 1.835-J.Bell up the middle to DET 36 for 7 yards(26-R.Johnson).'>46.3</number><number>0.65</number>
+<number shadow='shadow1' tooltip='13:00 1-10-DET 36DET 21 ARZ 19 LI: 1.835-J.Bell up the middle to DET 36 for no gain (96-R.Talley).'>47</number><number>0.64</number>
+<number shadow='shadow1' tooltip='12:17 2-10-DET 36DET 21 ARZ 19 LI: 1.7(Shotgun) 9-M.Stafford pass short right to 35-J.Bell to DET 46 for 10 yards(26-R.Johnson).'>47.72</number><number>0.69</number>
+<number shadow='shadow1' tooltip='11:32 1-10-DET 46DET 21 ARZ 19 LI: 2.19-M.Stafford pass short right to 81-C.Johnson to ARZ 36 for 18 yards(26-R.Johnson).'>48.47</number><number>0.75</number>
+<number shadow='shadow1' tooltip='10:50 1-10-ARZ 36DET 21 ARZ 19 LI: 235-J.Bell up the middle to ARZ 34 for 2 yards(96-R.Talley).'>49.17</number><number>0.73</number>
+<number shadow='shadow1' tooltip='10:08 2-8-ARZ 34DET 21 ARZ 19 LI: 1.7(Shotgun) 9-M.Stafford pass short left to 87-B.Pettigrew to ARZ 31 for 3 yards(22-T.Jefferson).'>49.87</number><number>0.74</number>
+<number shadow='shadow1' tooltip='9:28 3-5-ARZ 31DET 21 ARZ 19 LI: 1.79-M.Stafford pass short middle to 81-C.Johnson to ARZ 29 for 2 yards(56-K.Dansby).'>50.53</number><number>0.69</number>
+<number shadow='shadow1' tooltip='8:52 4-3-ARZ 29DET 21 ARZ 19 LI: 1.12-D.Akers 47 yard field goal is BLOCKED (31-J.Bethel) Center-48-D.Muhlbach Holder-6-S.Martin RECOVERED by ARZ-96-R.Talley at ARZ 4296-R.Talley pushed ob at ARZ 42 for no gain (87-B.Pettigrew).'>51.13</number><number>0.51</number>
+<number shadow='shadow1' tooltip='8:43 1-10-ARZ 42DET 21 ARZ 19 LI: 2.728-R.Mendenhall up the middle to ARZ 47 for 5 yards(27-G.Quin).'>51.28</number><number>0.51</number>
+<number shadow='shadow1' tooltip='8:08 2-5-ARZ 47DET 21 ARZ 19 LI: 2.728-R.Mendenhall up the middle to ARZ 47 for no gain (55-S.Tulloch).'>51.87</number><number>0.56</number>
+<number shadow='shadow1' tooltip='7:27 3-5-ARZ 47DET 21 ARZ 19 LI: 2.3(Shotgun) 3-C.Palmer pass short right to 38-A.Ellington to DET 47 for 6 yards(28-D.Bentley)FUMBLES (28-D.Bentley) recovered by ARZ-12-A.Roberts at DET 4912-A.Roberts to DET 49 for no gain (28-D.Bentley)Arizona challenged the fumble ruling and the play was REVERSED(Shotgun) 3-C.Palmer pass short right to 38-A.Ellington to DET 47 for 6 yards(28-D.Bentley).'>52.55</number><number>0.48</number>
+<number shadow='shadow1' tooltip='6:52 1-10-DET 47DET 21 ARZ 19 LI: 2.9PENALTY on DET-79-W.Young Defensive Offside 5 yards enforced at DET 47 - No Play.'>53.13</number><number>0.45</number>
+<number shadow='shadow1' tooltip='6:35 1-5-DET 42DET 21 ARZ 19 LI: 329-A.Smith up the middle to DET 44 for -2 yards(55-S.Tulloch).'>53.42</number><number>0.48</number>
+<number shadow='shadow1' tooltip='5:58 2-7-DET 44DET 21 ARZ 19 LI: 2.6(Shotgun) 3-C.Palmer pass incomplete deep left to 12-A.Roberts.'>54.03</number><number>0.55</number>
+<number shadow='shadow1' tooltip='5:52 3-7-DET 44DET 21 ARZ 19 LI: 1.9(Shotgun) 3-C.Palmer pass incomplete deep middle to 15-M.FloydArizona challenged the incomplete pass ruling and the play was Upheld(Timeout #1.)'>54.13</number><number>0.66</number>
+<number shadow='shadow1' tooltip='5:42 4-7-DET 44DET 21 ARZ 19 LI: 0.79-D.Zastudil punts 36 yards to DET 8 Center-82-M.Leach downed by ARZ-82-M.Leach.'>54.3</number><number>0.65</number>
+<number shadow='shadow1' tooltip='5:32 1-10-DET 8DET 21 ARZ 19 LI: 3.635-J.Bell up the middle to DET 8 for no gain (37-Y.Bell).'>54.47</number><number>0.62</number>
+<number shadow='shadow1' tooltip='4:49 2-10-DET 8DET 21 ARZ 19 LI: 3.1(Shotgun) 9-M.Stafford pass incomplete short middle to 35-J.Bell.'>55.18</number><number>0.56</number>
+<number shadow='shadow1' tooltip='4:44 3-10-DET 8DET 21 ARZ 19 LI: 2.5(Shotgun) 9-M.Stafford pass incomplete short middle to 87-B.Pettigrew (37-Y.Bell).'>55.27</number><number>0.47</number>
+<number shadow='shadow1' tooltip='4:39 4-10-DET 8DET 21 ARZ 19 LI: 1.66-S.Martin punts 58 yards to ARZ 34 Center-48-D.Muhlbach21-P.Peterson to ARZ 39 for 5 yards(24-D.Gomes).'>55.35</number><number>0.47</number>
+<number shadow='shadow1' tooltip='4:28 1-10-ARZ 39DET 21 ARZ 19 LI: 3.738-A.Ellington right end to DET 45 for 16 yards(55-S.Tulloch).'>55.53</number><number>0.46</number>
+<number shadow='shadow1' tooltip='3:47 1-10-DET 45DET 21 ARZ 19 LI: 3.328-R.Mendenhall up the middle to DET 45 for no gain (55-S.Tulloch).'>56.22</number><number>0.53</number>
+<number shadow='shadow1' tooltip='3:09 2-10-DET 45DET 21 ARZ 19 LI: 3.1(Shotgun) 3-C.Palmer pass short middle to 15-M.Floyd to DET 34 for 11 yards(23-C.Houston).'>56.85</number><number>0.32</number>
+<number shadow='shadow1' tooltip='2:28 1-10-DET 34DET 21 ARZ 19 LI: 5.729-A.Smith up the middle to DET 32 for 2 yards(79-W.Young).'>57.53</number><number>0.36</number>
+<number shadow='shadow1' tooltip='2:23 2-8-DET 32DET 21 ARZ 19 LI: 5.33-C.Palmer pass incomplete deep left to 12-A.Roberts.'>57.62</number><number>0.45</number>
+<number shadow='shadow1' tooltip='2:17 3-8-DET 32DET 21 ARZ 19 LI: 4.5(Shotgun) 3-C.Palmer pass incomplete deep right to 12-A.RobertsPENALTY on DET-28-D.Bentley Defensive Pass Interference 31 yards enforced at DET 32 - No Play.'>57.72</number><number>0.1</number>
+<number shadow='shadow1' tooltip='2:09 1-1-DET 1DET 21 ARZ 19 LI: 7.23-C.Palmer pass incomplete short right.'>57.85</number><number>0.17</number>
+<number shadow='shadow1' tooltip='2:03 2-1-DET 1DET 21 ARZ 19 LI: 6.528-R.Mendenhall up the middle for 1 yard TOUCHDOWN.'>57.95</number><number>0.25</number>
+<number shadow='shadow1' tooltip='2:03 DET 21 ARZ 25 LI: 4-J.Feely kicks 65 yards from ARZ 35 to end zone Touchback.'>58.04</number><number>0.22</number>
+<number shadow='shadow1' tooltip='1:32 1-10-DET 37DET 21 ARZ 25 LI: 2.7(No Huddle Shotgun) 9-M.Stafford pass incomplete short middle to 35-J.Bell.'>58.47</number><number>0.12</number>
+<number shadow='shadow1' tooltip='1:27 2-10-DET 37DET 21 ARZ 25 LI: 1.1(Shotgun) 9-M.Stafford pass incomplete deep left to 81-C.Johnson (21-P.Peterson).'>58.55</number><number>0.1</number>
+<number shadow='shadow1' tooltip='1:22 3-10-DET 37DET 21 ARZ 25 LI: 0.99-M.Stafford pass short left to 13-N.Burleson to DET 43 for 6 yards(21-P.Peterson).'>58.63</number><number>0.03</number>
+<number shadow='shadow1' tooltip='1:15 4-4-DET 43DET 21 ARZ 25 LI: 0.2(Shotgun) 9-M.Stafford pass short right to 13-N.Burleson to DET 46 for 3 yards(32-T.Mathieu).'>58.75</number><number>0.02</number>
+<number shadow='shadow1' tooltip='1:09 1-10-DET 46DET 21 ARZ 25 LI: 2.43-C.Palmer kneels to DET 47 for -1 yards.'>58.85</number><number>0.01</number>
+<number shadow='shadow1' tooltip='0:26 2-11-DET 47DET 21 ARZ 25 LI: 1.23-C.Palmer kneels to DET 48 for -1 yards.'>59.57</number><number>0</number>
+<number>60</number><number>0</number>
+</row> </chart_data>
+       <draw>
+
+
+
+      <image x='45' y='298'  url='nfllogos/42x50png/DET.gif'  layer='foreground' glow = 'glow1'/>
+      <image x='45' y='350'  url='nfllogos/42x50png/ARZ.gif'     layer='foreground' glow = 'glow1'/>
+
+
+      <rect x='130' y='300' width='250' height='40' fill_color='0064ae' bevel='bevel1' />
+      <text x='135' y='300' width='250' height='40' h_align='left' v_align='middle' color='ffffff' shadow='shadow2' glow=''>Detroit Lions</text>
+
+      <rect x='130' y='350' width='250' height='40' fill_color='b0063a' bevel='bevel1'  />
+      <text x='135' y='350' width='250' height='40' h_align='left' v_align='middle' color='ffffff' shadow='shadow2' glow='winnerglow'>Arizona Cardinals</text>
+
+      <rect x='420' y='300' width='60' height='40' fill_color='0064ae' bevel='bevel1'  />
+      <text x='420' y='300' width='60' height='40' h_align='center' v_align='middle' color='ffffff' shadow='shadow2' transition='none' glow=''>21</text>
+
+      <rect x='420' y='350' width='60' height='40' fill_color='b0063a' bevel='bevel1' />
+      <text x='420' y='350' width='60' height='40' h_align='center' v_align='middle' color='ffffff' shadow='shadow2' transition='none' glow='winnerglow'>25</text>
+
+      <text x='-3' y='12'  width='60' height='40' h_align='center' v_align='middle' size='13' shadow='shadow2'>DETWin </text>
+      <text x='-3' y='218' width='60' height='40' h_align='center' v_align='middle' size='13' shadow='shadow2'>ARZWin </text>
+
+     
+              <rect x='540' y='300' width='100' height='35' fill_color='000000' fill_alpha='50'/>
+              <text x='540' y='300' width='100' height='35' h_align='center' v_align='middle' color='ffffff' size='15' shadow='shadow2' >Final</text>
+
+              <text x='540' y='340' width='40' h_align='center' color='000000' size='12' shadow='shadow2'>CBF</text>
+              <text x='600' y='340' width='40' h_align='center' color='000000' size='12' shadow='shadow2'>EI</text>
+
+              <rect x='540' y='360' width='40' height='30' fill_color='000000' fill_alpha='50' />
+              <text x='540' y='360' width='40' height='30' size='12' h_align='center' v_align='middle' color='FFFFFF' shadow='shadow2'>5</text>
+
+              <rect x='600' y='360' width='40' height='30' fill_color='000000' fill_alpha='50' />
+              <text x='600' y='360' width='40' height='30' size='12' h_align='center' v_align='middle' color='FFFFFF' shadow='shadow2'>5.7</text>
+
+              <text x='20' y='420' width='70' height='25' size='12' h_align='left' v_align='middle' color='000000' >9/15/2013</text>
+              <text x='100' y='420' width='200' height='25' size='12' h_align='left' v_align='middle' color='000000' >University of Phoenix Stadium</text>
+
+   </draw></chart>

@@ -1,0 +1,308 @@
+
+<chart>
+   <license>ETAS9P33ESHO.945CWK-2XOI1X0-7L</license>
+   <chart_type>scatter</chart_type>
+   <chart_pref trend_thickness='0' line_thickness='3' point_size='0'/>
+
+   <series_color>
+      <color>ffff00</color>
+   </series_color>
+
+   <chart_rect x='45' y='20' width='630' height='230' positive_color='cacaca'  />
+
+  <chart_border top_thickness='0'
+                 bottom_thickness='0'
+                 left_thickness='0'
+                 right_thickness='0'
+                 color='000000'
+                 />
+
+   <tooltip font='Arial' bold='true' size='11' />
+
+   <chart_note type='flag'
+               color='000000'
+               alpha='90'
+               bold='FALSE'
+               size='10'
+               background_color='ffffe0'
+               background_alpha='50'
+               shadow='shadow2'
+               />
+
+   <chart_grid_h thickness='2' color='ffffff' type='dashed'  />
+   <chart_grid_v thickness='2' color='ffffff'   />
+		>
+
+   <legend layout='hide' />
+
+   <chart_guide horizontal='TRUE'
+             vertical='TRUE'
+             thickness='1'
+             color='006400'
+             alpha='100'
+             type='solid'
+             snap_h='TRUE'
+             snap_v='TRUE'
+             radius='3'
+             fill_color='006400'
+             fill_alpha='100'
+             line_color='006400'
+             line_alpha='80'
+             line_thickness='1'
+             text_h_alpha='50'
+             text_v_alpha='00'
+             suffix_h=' WP'
+             decimals='2'
+             bold='FALSE'
+             size='11'
+             text_color='FFFFFF'
+             background_color='006400'
+             />
+   <filter>
+      <shadow id='shadow1' distance='2' angle='60' blurX='5' blurY='5' alpha='50' />
+      <bevel id='bevel1' angle='45' blurX='5' blurY='5' distance='0' />
+      <glow id='glow1' color='ffffff' alpha='0' blurX='7' blurY='7' strength='6' quality='2' inner='FALSE' knockout='FALSE' />
+      <glow id='winnerglow' color='ffffff' alpha='0' blurX='7' blurY='7' strength='5' quality='2' inner='FALSE' knockout='FALSE' />
+   </filter>
+
+    <axis_value_label>
+         <string></string>
+          <string> </string>
+          <null/>
+          <string> </string>
+          <string></string>
+
+       </axis_value_label>
+		
+	   <axis_ticks category_ticks='false'/>
+
+       <axis_value min='0' max='1' steps='4'  decimals='2' show_min='true' size='13' shadow='shadow2' />     
+            <axis_category
+               min='0'
+               max='60'
+               steps='4'
+               mode='all'
+               decimals='0'
+               size='13'
+               shadow='shadow2'
+               />
+
+       <axis_category_label>
+          <string>Kickoff</string>
+          <string></string>
+          <string>Halftime</string>
+          <string></string>
+          <string>End</string>
+
+       </axis_category_label>
+
+
+        <chart_data>
+       <row>
+	      <null/><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number>
+              <number>x</number><number>y</number>
+              </row><row><string></string>
+
+                     <number shadow='shadow1'>0</number><number>.5</number><number shadow='shadow1' tooltip='15:00 ARZ 0 JAX 0 LI: 4-J.Feely kicks 67 yards from ARZ 35 to JAX -230-J.Todman to JAX 29 for 31 yards(4-J.Feely).'>0.09</number><number>0.47</number>
+<number shadow='shadow1' tooltip='14:29 2-1-JAX 38ARZ 0 JAX 0 LI: 1.4(No Huddle Shotgun) 32-M.Jones-Drew right end to JAX 38 for no gain (56-K.Dansby).'>0.52</number><number>0.47</number>
+<number shadow='shadow1' tooltip='13:49 3-1-JAX 38ARZ 0 JAX 0 LI: 1.332-M.Jones-Drew up the middle to JAX 38 for no gain (56-K.Dansby).'>1.18</number><number>0.53</number>
+<number shadow='shadow1' tooltip='13:04 4-1-JAX 38ARZ 0 JAX 0 LI: 0.77-C.Henne pass short left to 88-D.Noble for 62 yards TOUCHDOWN.'>1.93</number><number>0.29</number>
+<number shadow='shadow1' tooltip='13:04 ARZ 0 JAX 0 LI: 10-J.Scobee extra point is GOOD Center-46-C.Tinker Holder-19-B.Anger.'>1.97</number><number>0.29</number>
+<number shadow='shadow1' tooltip='13:04 ARZ 0 JAX 7 LI: 10-J.Scobee kicks 65 yards from JAX 35 to end zone Touchback.'>2.02</number><number>0.28</number>
+<number shadow='shadow1' tooltip='12:53 1-10-ARZ 20ARZ 0 JAX 7 LI: 1.53-C.Palmer pass short middle to 81-J.Dray to ARZ 33 for 13 yards(55-G.Hayes).'>2.12</number><number>0.3</number>
+<number shadow='shadow1' tooltip='12:20 1-10-ARZ 33ARZ 0 JAX 7 LI: 1.43-C.Palmer pass short middle to 86-J.Ballard to JAX 38 for 29 yards(26-J.Evans).'>2.67</number><number>0.34</number>
+<number shadow='shadow1' tooltip='11:49 1-10-JAX 38ARZ 0 JAX 7 LI: 128-R.Mendenhall up the middle to JAX 40 for -2 yards(97-R.Miller).'>3.18</number><number>0.34</number>
+<number shadow='shadow1' tooltip='11:09 2-12-JAX 40ARZ 0 JAX 7 LI: 1.13-C.Palmer pass short right to 21-P.Peterson ran ob at JAX 29 for 11 yards.'>3.85</number><number>0.36</number>
+<number shadow='shadow1' tooltip='10:31 3-1-JAX 29ARZ 0 JAX 7 LI: 0.928-R.Mendenhall up the middle to JAX 27 for 2 yards(37-J.Cyprien).'>4.48</number><number>0.36</number>
+<number shadow='shadow1' tooltip='9:56 1-10-JAX 27ARZ 0 JAX 7 LI: 0.9(Shotgun) 3-C.Palmer pass short left to 12-A.Roberts to JAX 23 for 4 yards(37-J.Cyprien).'>5.07</number><number>0.4</number>
+<number shadow='shadow1' tooltip='9:18 2-6-JAX 23ARZ 0 JAX 7 LI: 1.238-A.Ellington up the middle to JAX 25 for -2 yards(50-R.Allen).'>5.7</number><number>0.37</number>
+<number shadow='shadow1' tooltip='8:39 3-8-JAX 25ARZ 0 JAX 7 LI: 0.9(Shotgun) 3-C.Palmer pass short left to 15-M.Floyd ran ob at JAX 14 for 11 yards.'>6.35</number><number>0.44</number>
+<number shadow='shadow1' tooltip='8:01 1-10-JAX 14ARZ 0 JAX 7 LI: 1.43-C.Palmer pass incomplete short middle to 11-L.Fitzgerald (23-A.Ball).'>6.98</number><number>0.42</number>
+<number shadow='shadow1' tooltip='7:57 2-10-JAX 14ARZ 0 JAX 7 LI: 1.2(Shotgun) 3-C.Palmer pass short middle to 11-L.Fitzgerald for 14 yards TOUCHDOWN.'>7.05</number><number>0.47</number>
+<number shadow='shadow1' tooltip='7:57 ARZ 0 JAX 7 LI: 4-J.Feely extra point is GOOD Center-82-M.Leach Holder-9-D.Zastudil.'>7.09</number><number>0.47</number>
+<number shadow='shadow1' tooltip='7:57 ARZ 7 JAX 7 LI: 4-J.Feely kicks 70 yards from ARZ 35 to JAX -530-J.Todman pushed ob at ARZ 46 for 59 yards(31-J.Bethel).'>7.14</number><number>0.42</number>
+<number shadow='shadow1' tooltip='7:43 1-10-ARZ 46ARZ 7 JAX 7 LI: 1.432-M.Jones-Drew up the middle to ARZ 43 for 3 yards(92-D.Williams)PENALTY on ARZ-58-D.Washington Face Mask (15 Yards) 15 yards enforced at ARZ 43.'>7.28</number><number>0.38</number>
+<number shadow='shadow1' tooltip='7:17 1-10-ARZ 28ARZ 7 JAX 7 LI: 1.5(Shotgun) 32-M.Jones-Drew up the middle to ARZ 26 for 2 yards(55-J.Abraham).'>7.72</number><number>0.38</number>
+<number shadow='shadow1' tooltip='6:49 2-8-ARZ 26ARZ 7 JAX 7 LI: 1.57-C.Henne pass short right to 86-C.Harbor to ARZ 5 for 21 yards(37-Y.Bell).'>8.18</number><number>0.32</number>
+<number shadow='shadow1' tooltip='6:31 1-5-ARZ 5ARZ 7 JAX 7 LI: 1.8(Shotgun) 32-M.Jones-Drew up the middle to ARZ 5 for no gain (92-D.Williams).'>8.48</number><number>0.32</number>
+<number shadow='shadow1' tooltip='5:53 2-5-ARZ 5ARZ 7 JAX 7 LI: 1.8(Shotgun) 7-C.Henne pass short left to 18-A.Sanders pushed ob at ARZ 3 for 2 yards(32-T.Mathieu).'>9.12</number><number>0.34</number>
+<number shadow='shadow1' tooltip='5:16 3-3-ARZ 3ARZ 7 JAX 7 LI: 1.6(Shotgun) 7-C.Henne pass incomplete short middle to 89-M.LewisPENALTY on ARZ-37-Y.Bell Unsportsmanlike Conduct 2 yards enforced at ARZ 3.'>9.73</number><number>0.3</number>
+<number shadow='shadow1' tooltip='5:12 1-1-ARZ 1ARZ 7 JAX 7 LI: 232-M.Jones-Drew up the middle for 1 yard TOUCHDOWN.'>9.8</number><number>0.29</number>
+<number shadow='shadow1' tooltip='5:12 ARZ 7 JAX 7 LI: 10-J.Scobee extra point is GOOD Center-46-C.Tinker Holder-19-B.Anger.'>9.84</number><number>0.29</number>
+<number shadow='shadow1' tooltip='5:12 ARZ 7 JAX 14 LI: 10-J.Scobee kicks 65 yards from JAX 35 to end zone Touchback.'>9.89</number><number>0.28</number>
+<number shadow='shadow1' tooltip='4:33 2-5-ARZ 25ARZ 7 JAX 14 LI: 1.43-C.Palmer pass incomplete deep middle to 15-M.Floyd (23-A.Ball).'>10.45</number><number>0.27</number>
+<number shadow='shadow1' tooltip='4:29 3-5-ARZ 25ARZ 7 JAX 14 LI: 1.3(Shotgun) 3-C.Palmer pass short left to 38-A.Ellington to ARZ 36 for 11 yards(55-G.Hayes).'>10.52</number><number>0.3</number>
+<number shadow='shadow1' tooltip='3:55 1-10-ARZ 36ARZ 7 JAX 14 LI: 1.33-C.Palmer pass short right to 84-R.Housler to ARZ 43 for 7 yards(53-J.Lotulelei).'>11.08</number><number>0.32</number>
+<number shadow='shadow1' tooltip='3:17 2-3-ARZ 43ARZ 7 JAX 14 LI: 1.328-R.Mendenhall up the middle to ARZ 44 for 1 yard(50-R.Allen).'>11.72</number><number>0.31</number>
+<number shadow='shadow1' tooltip='2:35 3-2-ARZ 44ARZ 7 JAX 14 LI: 1.2(Shotgun) 38-A.Ellington left end to ARZ 47 for 3 yards(37-J.Cyprien).'>12.42</number><number>0.32</number>
+<number shadow='shadow1' tooltip='1:55 1-10-ARZ 47ARZ 7 JAX 14 LI: 1.23-C.Palmer pass short right to 28-R.Mendenhall to ARZ 48 for 1 yard(53-J.Lotulelei).'>13.08</number><number>0.31</number>
+<number shadow='shadow1' tooltip='1:11 2-9-ARZ 48ARZ 7 JAX 14 LI: 1.128-R.Mendenhall right end to ARZ 45 for -3 yards(99-S.Marks).'>13.82</number><number>0.3</number>
+<number shadow='shadow1' tooltip='0:26 3-12-ARZ 45ARZ 7 JAX 14 LI: 1.1(Shotgun) 3-C.Palmer pass incomplete short right to 15-M.Floyd [55-G.Hayes].'>14.57</number><number>0.28</number>
+<number shadow='shadow1' tooltip='0:20 4-12-ARZ 45ARZ 7 JAX 14 LI: 0.99-D.Zastudil punts 50 yards to JAX 5 Center-82-M.Leach18-A.Sanders to JAX 9 for 4 yards(31-J.Bethel).'>14.67</number><number>0.3</number>
+<number shadow='shadow1' tooltip='0:10 1-10-JAX 9ARZ 7 JAX 14 LI: 1.47-C.Henne pass short left to 84-C.Shorts to JAX 20 for 11 yards(58-D.Washington).'>14.83</number><number>0.28</number>
+<number shadow='shadow1' tooltip='15:00 1-10-JAX 20ARZ 7 JAX 14 LI: 0.9(Shotgun) 7-C.Henne pass short right to 18-A.Sanders pushed ob at JAX 35 for 15 yards(32-T.Mathieu).'>15</number><number>0.24</number>
+<number shadow='shadow1' tooltip='14:25 1-10-JAX 35ARZ 7 JAX 14 LI: 1.17-C.Henne pass short middle to 32-M.Jones-Drew to JAX 33 for -2 yards(56-K.Dansby).'>15.58</number><number>0.25</number>
+<number shadow='shadow1' tooltip='13:51 2-12-JAX 33ARZ 7 JAX 14 LI: 0.9(Shotgun) 30-J.Todman up the middle to JAX 37 for 4 yards(26-R.Johnson).'>16.15</number><number>0.26</number>
+<number shadow='shadow1' tooltip='13:15 3-8-JAX 37ARZ 7 JAX 14 LI: 0.8(Shotgun) PENALTY on JAX-18-A.Sanders False Start 5 yards enforced at JAX 37 - No Play.'>16.75</number><number>0.27</number>
+<number shadow='shadow1' tooltip='12:56 3-13-JAX 32ARZ 7 JAX 14 LI: 0.7(Shotgun) 7-C.Henne pass short right to 13-K.Taylor to JAX 37 for 5 yards(90-D.Dockett).'>17.07</number><number>0.29</number>
+<number shadow='shadow1' tooltip='12:26 4-8-JAX 37ARZ 7 JAX 14 LI: 0.5(Punt formation) PENALTY on JAX-16-D.Robinson False Start 5 yards enforced at JAX 37 - No Play.'>17.57</number><number>0.29</number>
+<number shadow='shadow1' tooltip='12:15 4-13-JAX 32ARZ 7 JAX 14 LI: 0.5(Punt formation) 19-B.Anger punts 56 yards to ARZ 12 Center-46-C.Tinker21-P.Peterson to ARZ 20 for 8 yards(52-J.Thomas).'>17.75</number><number>0.28</number>
+<number shadow='shadow1' tooltip='12:05 1-10-ARZ 20ARZ 7 JAX 14 LI: 1.428-R.Mendenhall up the middle to ARZ 25 for 5 yards(27-D.Gratz).'>17.92</number><number>0.28</number>
+<number shadow='shadow1' tooltip='11:33 2-5-ARZ 25ARZ 7 JAX 14 LI: 1.33-C.Palmer pass short right to 11-L.Fitzgerald to ARZ 26 for 1 yard(37-J.Cyprien).'>18.45</number><number>0.27</number>
+<number shadow='shadow1' tooltip='10:52 3-4-ARZ 26ARZ 7 JAX 14 LI: 1.1(Shotgun) 3-C.Palmer pass incomplete deep right to 12-A.Roberts.'>19.13</number><number>0.24</number>
+<number shadow='shadow1' tooltip='10:45 4-4-ARZ 26ARZ 7 JAX 14 LI: 0.8(Punt formation) 9-D.Zastudil punts 57 yards to JAX 17 Center-82-M.Leach18-A.Sanders to JAX 28 for 11 yards(26-R.Johnson).'>19.25</number><number>0.24</number>
+<number shadow='shadow1' tooltip='10:31 4-4-ARZ 26ARZ 7 JAX 14 LI: 0.89-D.Zastudil punts 37 yards to JAX 37 Center-82-M.Leach18-A.Sanders to JAX 40 for 3 yards(13-J.Brown).'>19.48</number><number>0.23</number>
+<number shadow='shadow1' tooltip='10:28 1-10-JAX 40ARZ 7 JAX 14 LI: 132-M.Jones-Drew right end to JAX 40 for no gain (92-D.Williams).'>19.53</number><number>0.24</number>
+<number shadow='shadow1' tooltip='10:05 2-10-JAX 40ARZ 7 JAX 14 LI: 0.9(No Huddle Shotgun) 7-C.Henne pass short left to 45-W.Taufoou pushed ob at JAX 45 for 5 yards(25-J.Powers).'>19.92</number><number>0.24</number>
+<number shadow='shadow1' tooltip='9:40 3-5-JAX 45ARZ 7 JAX 14 LI: 0.8(No Huddle Shotgun) 7-C.Henne pass short left to 32-M.Jones-Drew to JAX 46 for 1 yard(58-D.Washington).'>20.33</number><number>0.28</number>
+<number shadow='shadow1' tooltip='9:04 4-4-JAX 46ARZ 7 JAX 14 LI: 0.4(Punt formation) 19-B.Anger punts 51 yards to ARZ 3 Center-46-C.Tinker downed by JAX-50-R.Allen.'>20.93</number><number>0.27</number>
+<number shadow='shadow1' tooltip='8:51 1-10-ARZ 3ARZ 7 JAX 14 LI: 1.43-C.Palmer pass short middle to 84-R.Housler to ARZ 17 for 14 yards(23-A.Ball) [90-A.Branch].'>21.15</number><number>0.27</number>
+<number shadow='shadow1' tooltip='7:43 1-15-ARZ 12ARZ 7 JAX 14 LI: 1.4(Shotgun) 3-C.Palmer pass incomplete short left to 11-L.Fitzgerald (99-S.Marks).'>22.28</number><number>0.24</number>
+<number shadow='shadow1' tooltip='7:40 2-15-ARZ 12ARZ 7 JAX 14 LI: 1.1(Shotgun) 3-C.Palmer pass short left to 84-R.Housler pushed ob at ARZ 23 for 11 yards(37-J.Cyprien)PENALTY on ARZ-12-A.Roberts Offensive Holding 10 yards enforced at ARZ 23.'>22.33</number><number>0.25</number>
+<number shadow='shadow1' tooltip='7:14 2-14-ARZ 13ARZ 7 JAX 14 LI: 1.2(Shotgun) 3-C.Palmer pass deep right to 11-L.Fitzgerald to ARZ 30 for 17 yards(37-J.Cyprien).'>22.77</number><number>0.29</number>
+<number shadow='shadow1' tooltip='6:44 1-10-ARZ 30ARZ 7 JAX 14 LI: 1.23-C.Palmer pass incomplete deep right to 84-R.Housler [58-J.Babin].'>23.27</number><number>0.28</number>
+<number shadow='shadow1' tooltip='6:37 2-10-ARZ 30ARZ 7 JAX 14 LI: 1.138-A.Ellington left end to ARZ 30 for no gain (23-A.Ball).'>23.38</number><number>0.26</number>
+<number shadow='shadow1' tooltip='6:01 3-10-ARZ 30ARZ 7 JAX 14 LI: 0.9(Shotgun) 3-C.Palmer pass incomplete deep middle to 15-M.Floyd (23-A.Ball).'>23.98</number><number>0.24</number>
+<number shadow='shadow1' tooltip='5:54 4-10-ARZ 30ARZ 7 JAX 14 LI: 0.7(Punt formation) 9-D.Zastudil punts 58 yards to JAX 12 Center-82-M.Leach18-A.Sanders to JAX 24 for 12 yards(26-R.Johnson).'>24.1</number><number>0.25</number>
+<number shadow='shadow1' tooltip='5:43 1-10-JAX 24ARZ 7 JAX 14 LI: 1(Shotgun) 7-C.Henne pass short left to 86-C.Harbor to JAX 26 for 2 yards(25-J.Powers).'>24.28</number><number>0.25</number>
+<number shadow='shadow1' tooltip='5:13 2-8-JAX 26ARZ 7 JAX 14 LI: 1(No Huddle Shotgun) 32-M.Jones-Drew up the middle to JAX 28 for 2 yards(91-M.Shaughnessy).'>24.78</number><number>0.26</number>
+<number shadow='shadow1' tooltip='4:40 3-6-JAX 28ARZ 7 JAX 14 LI: 0.9(Shotgun) 7-C.Henne sacked at JAX 22 for -6 yards(93-C.Campbell).'>25.33</number><number>0.3</number>
+<number shadow='shadow1' tooltip='4:11 4-12-JAX 22ARZ 7 JAX 14 LI: 0.6(Punt formation) 19-B.Anger punts 58 yards to ARZ 20 Center-46-C.Tinker21-P.Peterson ran ob at ARZ 30 for 10 yards.'>25.82</number><number>0.29</number>
+<number shadow='shadow1' tooltip='4:01 1-10-ARZ 30ARZ 7 JAX 14 LI: 1.23-C.Palmer pass deep middle to 84-R.Housler to JAX 49 for 21 yards(37-J.Cyprien).'>25.98</number><number>0.32</number>
+<number shadow='shadow1' tooltip='3:30 1-10-JAX 49ARZ 7 JAX 14 LI: 1.13-C.Palmer pass deep right to 15-M.Floyd ran ob at JAX 27 for 22 yards.'>26.5</number><number>0.35</number>
+<number shadow='shadow1' tooltip='2:50 1-10-JAX 27ARZ 7 JAX 14 LI: 1.13-C.Palmer pass incomplete deep right to 84-R.Housler.'>27.17</number><number>0.37</number>
+<number shadow='shadow1' tooltip='2:43 2-10-JAX 27ARZ 7 JAX 14 LI: 1.33-C.Palmer pass deep middle to 15-M.Floyd to JAX 5 for 22 yards(58-J.Babin).'>27.28</number><number>0.44</number>
+<number shadow='shadow1' tooltip='2:00 1-5-JAX 5ARZ 7 JAX 14 LI: 1.828-R.Mendenhall left end for 5 yards TOUCHDOWN.'>28</number><number>0.47</number>
+<number shadow='shadow1' tooltip='2:00 ARZ 7 JAX 14 LI: 4-J.Feely extra point is GOOD Center-82-M.Leach Holder-9-D.Zastudil.'>28.04</number><number>0.47</number>
+<number shadow='shadow1' tooltip='2:00 ARZ 14 JAX 14 LI: 4-J.Feely kicks 68 yards from ARZ 35 to JAX -330-J.Todman to JAX 24 for 27 yards(32-T.Mathieu).'>28.09</number><number>0.48</number>
+<number shadow='shadow1' tooltip='1:49 1-10-JAX 24ARZ 14 JAX 14 LI: 1.5(Shotgun) 7-C.Henne pass short right to 18-A.Sanders to JAX 24 for no gain (58-D.Washington).'>28.18</number><number>0.49</number>
+<number shadow='shadow1' tooltip='1:27 2-10-JAX 24ARZ 14 JAX 14 LI: 1.4(No Huddle Shotgun) 7-C.Henne pass short right to 12-M.Brown pushed ob at JAX 32 for 8 yards(25-J.Powers).'>28.55</number><number>0.48</number>
+<number shadow='shadow1' tooltip='1:22 3-2-JAX 32ARZ 14 JAX 14 LI: 1.3(Shotgun) 7-C.Henne pass incomplete short right to 12-M.Brown (25-J.Powers).'>28.63</number><number>0.53</number>
+<number shadow='shadow1' tooltip='1:18 4-2-JAX 32ARZ 14 JAX 14 LI: 0.8(Punt formation) 19-B.Anger punts 56 yards to ARZ 12 Center-46-C.Tinker21-P.Peterson to ARZ 16 for 4 yards(52-J.Thomas).'>28.7</number><number>0.51</number>
+<number shadow='shadow1' tooltip='1:05 1-10-ARZ 16ARZ 14 JAX 14 LI: 1.5(Shotgun) 38-A.Ellington up the middle to ARZ 9 for -7 yards(90-A.Branch).'>28.92</number><number>0.47</number>
+<number shadow='shadow1' tooltip='0:27 2-17-ARZ 9ARZ 14 JAX 14 LI: 1.7(No Huddle) 38-A.Ellington up the middle to ARZ 10 for 1 yard(20-M.Harris; 55-G.Hayes).'>29.55</number><number>0.45</number>
+<number shadow='shadow1' tooltip='0:22 3-16-ARZ 10ARZ 14 JAX 14 LI: 1.5(Shotgun) 3-C.Palmer pass incomplete deep left to 15-M.Floyd (23-A.Ball) [59-R.Davis].'>29.63</number><number>0.43</number>
+<number shadow='shadow1' tooltip='0:16 4-16-ARZ 10ARZ 14 JAX 14 LI: 1.3(Punt formation) 9-D.Zastudil punts 46 yards to JAX 44 Center-82-M.Leach18-A.Sanders pushed ob at ARZ 42 for 14 yards(51-K.Minter).'>29.73</number><number>0.41</number>
+<number shadow='shadow1' tooltip='0:05 1-10-ARZ 42ARZ 14 JAX 14 LI: 1.410-J.Scobee 60 yard field goal is No Good Wide Left Center-46-C.Tinker Holder-19-B.Anger.'>29.92</number><number>0.53</number>
+<number shadow='shadow1' tooltip='0:05 ARZ 14 JAX 14 LI: 10-J.Scobee kicks 65 yards from JAX 35 to end zone Touchback.'>30.01</number><number>0.52</number>
+<number shadow='shadow1' tooltip='14:25 2-10-ARZ 20ARZ 14 JAX 14 LI: 1.4(Shotgun) 3-C.Palmer pass deep right to 15-M.Floyd ran ob at JAX 43 for 37 yards.'>30.58</number><number>0.58</number>
+<number shadow='shadow1' tooltip='13:58 1-10-JAX 43ARZ 14 JAX 14 LI: 1.33-C.Palmer pass deep right to 11-L.Fitzgerald to JAX 26 for 17 yards(27-D.Gratz).'>31.03</number><number>0.62</number>
+<number shadow='shadow1' tooltip='13:25 1-10-JAX 26ARZ 14 JAX 14 LI: 1.528-R.Mendenhall left end to JAX 25 for 1 yard(50-R.Allen).'>31.58</number><number>0.66</number>
+<number shadow='shadow1' tooltip='12:43 2-9-JAX 25ARZ 14 JAX 14 LI: 1.9(Shotgun) 3-C.Palmer pass short right to 84-R.Housler to JAX 10 for 15 yards(37-J.Cyprien).'>32.28</number><number>0.71</number>
+<number shadow='shadow1' tooltip='12:00 1-10-JAX 10ARZ 14 JAX 14 LI: 2.13-C.Palmer pass short middle to 81-J.Dray to JAX 5 for 5 yards(50-R.Allen).'>33</number><number>0.71</number>
+<number shadow='shadow1' tooltip='11:22 2-5-JAX 5ARZ 14 JAX 14 LI: 2.1(Shotgun) 3-C.Palmer pass short left to 84-R.Housler to JAX 3 for 2 yards(20-M.Harris).'>33.63</number><number>0.7</number>
+<number shadow='shadow1' tooltip='10:44 3-3-JAX 3ARZ 14 JAX 14 LI: 23-C.Palmer pass incomplete short middle to 84-R.Housler.'>34.27</number><number>0.64</number>
+<number shadow='shadow1' tooltip='10:37 4-3-JAX 3ARZ 14 JAX 14 LI: 1.4(Field Goal formation) 4-J.Feely 21 yard field goal is GOOD Center-82-M.Leach Holder-9-D.Zastudil.'>34.38</number><number>0.62</number>
+<number shadow='shadow1' tooltip='10:37 ARZ 17 JAX 14 LI: 4-J.Feely kicks 65 yards from ARZ 35 to end zone Touchback.'>34.47</number><number>0.64</number>
+<number shadow='shadow1' tooltip='10:07 1-10-JAX 35ARZ 17 JAX 14 LI: 1.3(No Huddle Shotgun) 32-M.Jones-Drew up the middle to JAX 35 for no gain (90-D.Dockett).'>34.88</number><number>0.6</number>
+<number shadow='shadow1' tooltip='9:34 2-10-JAX 35ARZ 17 JAX 14 LI: 1.3(Shotgun) 7-C.Henne pass short middle to 32-M.Jones-Drew to JAX 41 for 6 yards(26-R.Johnson).'>35.43</number><number>0.6</number>
+<number shadow='shadow1' tooltip='9:09 3-4-JAX 41ARZ 17 JAX 14 LI: 1.1(No Huddle Shotgun) 7-C.Henne pass incomplete short right to 89-M.Lewis (58-D.Washington).'>35.85</number><number>0.65</number>
+<number shadow='shadow1' tooltip='9:05 4-4-JAX 41ARZ 17 JAX 14 LI: 0.7(Punt formation) 19-B.Anger punts 50 yards to ARZ 9 Center-46-C.Tinker fair catch by 21-P.Peterson.'>35.92</number><number>0.63</number>
+<number shadow='shadow1' tooltip='8:58 1-10-ARZ 9ARZ 17 JAX 14 LI: 2.328-R.Mendenhall right guard to ARZ 13 for 4 yards(94-J.Mincey).'>36.03</number><number>0.62</number>
+<number shadow='shadow1' tooltip='8:23 2-6-ARZ 13ARZ 17 JAX 14 LI: 2.23-C.Palmer sacked at ARZ 9 for -4 yards(90-A.Branch).'>36.62</number><number>0.58</number>
+<number shadow='shadow1' tooltip='7:44 3-10-ARZ 9ARZ 17 JAX 14 LI: 1.8(Shotgun) 3-C.Palmer pass short middle to 15-M.Floyd for 91 yards TOUCHDOWN.'>37.27</number><number>0.81</number>
+<number shadow='shadow1' tooltip='7:44 ARZ 17 JAX 14 LI: 4-J.Feely extra point is GOOD Center-82-M.Leach Holder-9-D.Zastudil.'>37.31</number><number>0.81</number>
+<number shadow='shadow1' tooltip='7:44 ARZ 24 JAX 14 LI: 4-J.Feely kicks 65 yards from ARZ 35 to end zone Touchback.'>37.36</number><number>0.82</number>
+<number shadow='shadow1' tooltip='7:26 1-10-JAX 20ARZ 24 JAX 14 LI: 1.27-C.Henne pass short right to 89-M.Lewis to JAX 28 for 8 yards(32-T.Mathieu).'>37.57</number><number>0.81</number>
+<number shadow='shadow1' tooltip='7:01 2-2-JAX 28ARZ 24 JAX 14 LI: 1.1(No Huddle Shotgun) 32-M.Jones-Drew right guard to JAX 29 for 1 yard(93-C.Campbell).'>37.98</number><number>0.81</number>
+<number shadow='shadow1' tooltip='6:27 3-1-JAX 29ARZ 24 JAX 14 LI: 1.2(Shotgun) 7-C.Henne pass deep right to 18-A.Sanders to ARZ 42 for 29 yards(25-J.Powers) [58-D.Washington].'>38.55</number><number>0.76</number>
+<number shadow='shadow1' tooltip='5:56 1-10-ARZ 42ARZ 24 JAX 14 LI: 1.17-C.Henne pass incomplete short left to 86-C.Harbor.'>39.07</number><number>0.78</number>
+<number shadow='shadow1' tooltip='5:53 2-10-ARZ 42ARZ 24 JAX 14 LI: 0.9(Shotgun) 7-C.Henne pass incomplete short left to 18-A.Sanders.'>39.12</number><number>0.79</number>
+<number shadow='shadow1' tooltip='5:50 3-10-ARZ 42ARZ 24 JAX 14 LI: 0.8(Shotgun) 7-C.Henne pass incomplete short left to 89-M.Lewis.'>39.17</number><number>0.82</number>
+<number shadow='shadow1' tooltip='5:46 4-10-ARZ 42ARZ 24 JAX 14 LI: 0.5(Punt formation) 19-B.Anger punts 33 yards to ARZ 9 Center-46-C.Tinker21-P.Peterson MUFFS catch and recovers at ARZ 1021-P.Peterson to ARZ 10 for no gain (46-C.Tinker)Jacksonville challenged the loose ball recovery ruling and the play was Upheld(Timeout #2 at 05:34.)'>39.23</number><number>0.82</number>
+<number shadow='shadow1' tooltip='5:34 1-10-ARZ 10ARZ 24 JAX 14 LI: 1.328-R.Mendenhall up the middle to ARZ 10 for no gain (93-T.Alualu).'>39.43</number><number>0.82</number>
+<number shadow='shadow1' tooltip='4:46 2-10-ARZ 10ARZ 24 JAX 14 LI: 1.3(Shotgun) 28-R.Mendenhall up the middle to ARZ 10 for no gain (93-T.Alualu).'>40.23</number><number>0.81</number>
+<number shadow='shadow1' tooltip='4:01 3-10-ARZ 10ARZ 24 JAX 14 LI: 1.2(Shotgun) 3-C.Palmer pass short left to 38-A.Ellington to ARZ 9 for -1 yards(58-J.Babin).'>40.98</number><number>0.78</number>
+<number shadow='shadow1' tooltip='3:23 4-11-ARZ 9ARZ 24 JAX 14 LI: 0.99-D.Zastudil punts 43 yards to JAX 48 Center-82-M.Leach18-A.Sanders to ARZ 42 for 10 yards(59-M.Benard).'>41.62</number><number>0.78</number>
+<number shadow='shadow1' tooltip='3:09 1-10-ARZ 42ARZ 24 JAX 14 LI: 1(Shotgun) 7-C.Henne pass short right to 89-M.Lewis pushed ob at ARZ 36 for 6 yards(91-M.Shaughnessy).'>41.85</number><number>0.77</number>
+<number shadow='shadow1' tooltip='2:40 2-4-ARZ 36ARZ 24 JAX 14 LI: 1(Shotgun) 7-C.Henne pass incomplete short left to 13-K.Taylor (93-C.Campbell).'>42.33</number><number>0.79</number>
+<number shadow='shadow1' tooltip='2:34 3-4-ARZ 36ARZ 24 JAX 14 LI: 0.8(Shotgun) 7-C.Henne sacked at ARZ 43 for -7 yards(55-J.Abraham).'>42.43</number><number>0.85</number>
+<number shadow='shadow1' tooltip='2:00 4-11-ARZ 43ARZ 24 JAX 14 LI: 0.4(Punt formation) 19-B.Anger punts 41 yards to ARZ 2 Center-46-C.Tinker downed by JAX-35-D.McCray.'>43</number><number>0.84</number>
+<number shadow='shadow1' tooltip='1:50 1-10-ARZ 2ARZ 24 JAX 14 LI: 1.428-R.Mendenhall up the middle to ARZ 2 for no gain (24-W.Blackmon; 94-J.Mincey).'>43.17</number><number>0.83</number>
+<number shadow='shadow1' tooltip='1:09 2-10-ARZ 2ARZ 24 JAX 14 LI: 1.3(Shotgun) 3-C.Palmer pass short right to 15-M.Floyd to ARZ 12 for 10 yards(24-W.Blackmon).'>43.85</number><number>0.86</number>
+<number shadow='shadow1' tooltip='0:39 1-10-ARZ 12ARZ 24 JAX 14 LI: 1.53-C.Palmer sacked at ARZ 6 for -6 yards(97-R.Miller).'>44.35</number><number>0.84</number>
+<number shadow='shadow1' tooltip='15:00 2-16-ARZ 6ARZ 24 JAX 14 LI: 1.3(Shotgun) 3-C.Palmer pass short right to 12-A.Roberts pushed ob at ARZ 14 for 8 yards(24-W.Blackmon).'>45</number><number>0.86</number>
+<number shadow='shadow1' tooltip='14:20 3-8-ARZ 14ARZ 24 JAX 14 LI: 1.5(Shotgun) 3-C.Palmer sacked at ARZ 7 for -7 yards(58-J.Babin).'>45.67</number><number>0.81</number>
+<number shadow='shadow1' tooltip='14:01 4-15-ARZ 7ARZ 24 JAX 14 LI: 19-D.Zastudil punts 48 yards to JAX 45 Center-82-M.Leach18-A.Sanders to 50 for 5 yards(52-J.Brinkley)ARZ-16-T.Williams was injured during the playHe is Out.'>45.98</number><number>0.82</number>
+<number shadow='shadow1' tooltip='13:49 1-10-50ARZ 24 JAX 14 LI: 1PENALTY on JAX-63-B.Meester False Start 5 yards enforced at 50 - No Play.'>46.18</number><number>0.83</number>
+<number shadow='shadow1' tooltip='13:07 2-13-JAX 47ARZ 24 JAX 14 LI: 0.7(No Huddle Shotgun) 7-C.Henne pass short middle to 13-K.Taylor to ARZ 38 for 15 yards(26-R.Johnson).'>46.88</number><number>0.8</number>
+<number shadow='shadow1' tooltip='12:22 1-15-ARZ 43ARZ 24 JAX 14 LI: 1(Shotgun) 32-M.Jones-Drew left end to ARZ 42 for 1 yard(58-D.Washington).'>47.63</number><number>0.85</number>
+<number shadow='shadow1' tooltip='11:52 2-14-ARZ 42ARZ 24 JAX 14 LI: 0.7(Shotgun) 7-C.Henne pass short left to 30-J.Todman to ARZ 47 for -5 yards(56-K.Dansby).'>48.13</number><number>0.9</number>
+<number shadow='shadow1' tooltip='11:25 3-19-ARZ 47ARZ 24 JAX 14 LI: 0.3(Shotgun) 7-C.Henne pass incomplete short left to 89-M.Lewis (59-M.Benard).'>48.58</number><number>0.91</number>
+<number shadow='shadow1' tooltip='11:19 4-19-ARZ 47ARZ 24 JAX 14 LI: 0.2(Punt formation) 19-B.Anger punts 37 yards to ARZ 10 Center-46-C.Tinker fair catch by 21-P.Peterson.'>48.68</number><number>0.91</number>
+<number shadow='shadow1' tooltip='11:12 1-10-ARZ 10ARZ 24 JAX 14 LI: 1.83-C.Palmer pass incomplete short right to 11-L.Fitzgerald (94-J.Mincey).'>48.8</number><number>0.88</number>
+<number shadow='shadow1' tooltip='11:07 2-10-ARZ 10ARZ 24 JAX 14 LI: 1.528-R.Mendenhall up the middle to ARZ 11 for 1 yard(20-M.Harris).'>48.88</number><number>0.87</number>
+<number shadow='shadow1' tooltip='10:27 3-9-ARZ 11ARZ 24 JAX 14 LI: 1.2(Shotgun) 3-C.Palmer pass short middle to 11-L.Fitzgerald to ARZ 17 for 6 yards(26-J.Evans).'>49.55</number><number>0.85</number>
+<number shadow='shadow1' tooltip='9:56 4-3-ARZ 17ARZ 24 JAX 14 LI: 0.7(Punt formation) 9-D.Zastudil punts 41 yards to JAX 42 Center-82-M.Leach fair catch by 18-A.Sanders.'>50.07</number><number>0.86</number>
+<number shadow='shadow1' tooltip='9:51 1-10-JAX 42ARZ 24 JAX 14 LI: 17-C.Henne pass short left to 32-M.Jones-Drew to ARZ 37 for 21 yards(32-T.Mathieu)PENALTY on JAX-78-C.Bradfield Offensive Holding 10 yards enforced at JAX 42 - No Play.'>50.15</number><number>0.89</number>
+<number shadow='shadow1' tooltip='9:25 1-20-JAX 32ARZ 24 JAX 14 LI: 0.7(Shotgun) 7-C.Henne pass short right intended for 13-K.Taylor INTERCEPTED by 25-J.Powers at JAX 4125-J.Powers to JAX 32 for 9 yards(30-J.Todman)PENALTY on JAX-30-J.Todman Tripping 10 yards enforced at JAX 32.'>50.58</number><number>0.97</number>
+<number shadow='shadow1' tooltip='9:19 1-10-JAX 22ARZ 24 JAX 14 LI: 0.63-C.Palmer pass short right to 28-R.Mendenhall to JAX 11 for 11 yards(24-W.Blackmon).'>50.68</number><number>0.97</number>
+<number shadow='shadow1' tooltip='8:32 1-10-JAX 11ARZ 24 JAX 14 LI: 0.33-C.Palmer pass short left to 11-L.Fitzgerald to JAX 5 for 6 yards(23-A.Ball).'>51.47</number><number>0.98</number>
+<number shadow='shadow1' tooltip='7:53 2-4-JAX 5ARZ 24 JAX 14 LI: 0.438-A.Ellington right end to JAX 4 for 1 yard(58-J.Babin).'>52.12</number><number>0.97</number>
+<number shadow='shadow1' tooltip='7:12 3-3-JAX 4ARZ 24 JAX 14 LI: 0.2(Shotgun) 3-C.Palmer pass incomplete short left to 15-M.FloydPENALTY on ARZ-3-C.Palmer Intentional Grounding 10 yards enforced at JAX 4.'>52.8</number><number>0.95</number>
+<number shadow='shadow1' tooltip='7:07 4-13-JAX 14ARZ 24 JAX 14 LI: 0.14-J.Feely 32 yard field goal is GOOD Center-82-M.Leach Holder-9-D.Zastudil.'>52.88</number><number>0.95</number>
+<number shadow='shadow1' tooltip='7:07 ARZ 27 JAX 14 LI: 4-J.Feely kicks 69 yards from ARZ 35 to JAX -430-J.Todman to JAX 23 for 27 yards(30-S.Taylor).'>52.97</number><number>0.95</number>
+<number shadow='shadow1' tooltip='6:57 1-10-JAX 23ARZ 27 JAX 14 LI: 0.4(Shotgun) 7-C.Henne pass short left to 18-A.Sanders to JAX 34 for 11 yards(55-J.Abraham).'>53.05</number><number>0.94</number>
+<number shadow='shadow1' tooltip='6:30 1-10-JAX 34ARZ 27 JAX 14 LI: 0.5(No Huddle Shotgun) 7-C.Henne pass short right to 32-M.Jones-Drew pushed ob at JAX 41 for 7 yards(58-D.Washington).'>53.5</number><number>0.94</number>
+<number shadow='shadow1' tooltip='5:51 1-10-50ARZ 27 JAX 14 LI: 0.7(No Huddle Shotgun) 7-C.Henne pass incomplete short left to 13-K.Taylor (55-J.Abraham).'>54.15</number><number>0.94</number>
+<number shadow='shadow1' tooltip='5:38 2-10-50ARZ 27 JAX 14 LI: 0.4(Shotgun) 7-C.Henne pass short middle to 86-C.Harbor to ARZ 41 for 9 yards(37-Y.Bell).'>54.37</number><number>0.93</number>
+<number shadow='shadow1' tooltip='5:25 3-1-ARZ 41ARZ 27 JAX 14 LI: 0.5(No Huddle Shotgun) 30-J.Todman up the middle to ARZ 36 for 5 yards(26-R.Johnson).'>54.58</number><number>0.9</number>
+<number shadow='shadow1' tooltip='5:03 1-10-ARZ 36ARZ 27 JAX 14 LI: 0.8(No Huddle Shotgun) 7-C.Henne pass short right to 18-A.Sanders to ARZ 34 for 2 yards(59-M.Benard).'>54.95</number><number>0.92</number>
+<number shadow='shadow1' tooltip='4:35 2-8-ARZ 34ARZ 27 JAX 14 LI: 0.6(No Huddle Shotgun) 32-M.Jones-Drew up the middle to ARZ 32 for 2 yards(37-Y.Bell).'>55.42</number><number>0.94</number>
+<number shadow='shadow1' tooltip='4:08 3-6-ARZ 32ARZ 27 JAX 14 LI: 0.4(No Huddle Shotgun) 7-C.Henne pass incomplete short left to 18-A.Sanders.'>55.87</number><number>0.97</number>
+<number shadow='shadow1' tooltip='4:02 4-6-ARZ 32ARZ 27 JAX 14 LI: 0.1(Shotgun) 7-C.Henne pass incomplete deep right to 84-C.Shorts.'>55.97</number><number>0.98</number>
+<number shadow='shadow1' tooltip='3:55 1-10-ARZ 33ARZ 27 JAX 14 LI: 0.738-A.Ellington left end to ARZ 35 for 2 yards(50-R.Allen).'>56.08</number><number>0.98</number>
+<number shadow='shadow1' tooltip='3:18 2-8-ARZ 35ARZ 27 JAX 14 LI: 0.63-C.Palmer pass short left to 28-R.Mendenhall to ARZ 36 for 1 yard(53-J.Lotulelei).'>56.7</number><number>0.98</number>
+<number shadow='shadow1' tooltip='2:31 3-7-ARZ 36ARZ 27 JAX 14 LI: 0.6(Shotgun) 3-C.Palmer pass short right to 12-A.Roberts to ARZ 38 for 2 yards(58-J.Babin; 50-R.Allen).'>57.48</number><number>0.97</number>
+<number shadow='shadow1' tooltip='2:27 4-5-ARZ 38ARZ 27 JAX 14 LI: 0.59-D.Zastudil punts 35 yards to JAX 27 Center-82-M.Leach fair catch by 18-A.Sanders.'>57.55</number><number>0.97</number>
+<number shadow='shadow1' tooltip='2:22 1-10-JAX 27ARZ 27 JAX 14 LI: 0.1(Shotgun) 7-C.Henne pass incomplete short middle to 84-C.Shorts (56-K.Dansby).'>57.63</number><number>0.98</number>
+<number shadow='shadow1' tooltip='2:18 2-10-JAX 27ARZ 27 JAX 14 LI: 0.1(No Huddle Shotgun) 7-C.Henne pass incomplete short middle to 84-C.Shorts.'>57.7</number><number>0.98</number>
+<number shadow='shadow1' tooltip='2:12 3-10-JAX 27ARZ 27 JAX 14 LI: 0.1(Shotgun) 7-C.Henne pass short left to 18-A.Sanders to JAX 29 for 2 yards(21-P.Peterson) [59-M.Benard].'>57.8</number><number>0.99</number>
+<number shadow='shadow1' tooltip='2:06 4-8-JAX 29ARZ 27 JAX 14 LI: 0.1(Shotgun) 7-C.Henne pass short right to 84-C.Shorts to JAX 40 for 11 yards(25-J.Powers).'>57.9</number><number>0.95</number>
+<number shadow='shadow1' tooltip='1:59 1-10-JAX 40ARZ 27 JAX 14 LI: 0.3(Shotgun) 7-C.Henne pass short left to 18-A.Sanders to JAX 40 for no gain (25-J.Powers).'>58.02</number><number>0.99</number>
+<number shadow='shadow1' tooltip='1:38 2-10-JAX 40ARZ 27 JAX 14 LI: 0.1(No Huddle Shotgun) 7-C.Henne pass short middle intended for 86-C.Harbor INTERCEPTED by 37-Y.Bell at 5037-Y.Bell to JAX 44 for 6 yards.'>58.37</number><number>0.99</number>
+<number shadow='shadow1' tooltip='1:32 1-10-JAX 44ARZ 27 JAX 14 LI: 0.13-C.Palmer kneels to JAX 45 for -1 yards.'>58.47</number><number>0.99</number>
+<number shadow='shadow1' tooltip='0:53 2-11-JAX 45ARZ 27 JAX 14 LI: 0.13-C.Palmer kneels to JAX 46 for -1 yards.'>59.12</number><number>0.99</number>
+<number shadow='shadow1' tooltip='0:24 3-12-JAX 46ARZ 27 JAX 14 LI: 0.13-C.Palmer kneels to JAX 47 for -1 yards.'>59.6</number><number>1</number>
+<number>60</number><number>1</number>
+</row> </chart_data>
+       <draw>
+
+
+
+      <image x='45' y='298'  url='nfllogos/42x50png/ARZ.gif'  layer='foreground' glow = 'glow1'/>
+      <image x='45' y='350'  url='nfllogos/42x50png/JAX.gif'     layer='foreground' glow = 'glow1'/>
+
+
+      <rect x='130' y='300' width='250' height='40' fill_color='b0063a' bevel='bevel1' />
+      <text x='135' y='300' width='250' height='40' h_align='left' v_align='middle' color='ffffff' shadow='shadow2' glow='winnerglow'>Arizona Cardinals</text>
+
+      <rect x='130' y='350' width='250' height='40' fill_color='01687f' bevel='bevel1'  />
+      <text x='135' y='350' width='250' height='40' h_align='left' v_align='middle' color='ffffff' shadow='shadow2' glow=''>Jacksonville Jaguars</text>
+
+      <rect x='420' y='300' width='60' height='40' fill_color='b0063a' bevel='bevel1'  />
+      <text x='420' y='300' width='60' height='40' h_align='center' v_align='middle' color='ffffff' shadow='shadow2' transition='none' glow='winnerglow'>27</text>
+
+      <rect x='420' y='350' width='60' height='40' fill_color='01687f' bevel='bevel1' />
+      <text x='420' y='350' width='60' height='40' h_align='center' v_align='middle' color='ffffff' shadow='shadow2' transition='none' glow=''>14</text>
+
+      <text x='-3' y='12'  width='60' height='40' h_align='center' v_align='middle' size='13' shadow='shadow2'>ARZWin </text>
+      <text x='-3' y='218' width='60' height='40' h_align='center' v_align='middle' size='13' shadow='shadow2'>JAXWin </text>
+
+     
+              <rect x='540' y='300' width='100' height='35' fill_color='000000' fill_alpha='50'/>
+              <text x='540' y='300' width='100' height='35' h_align='center' v_align='middle' color='ffffff' size='15' shadow='shadow2' >Final</text>
+
+              <text x='540' y='340' width='40' h_align='center' color='000000' size='12' shadow='shadow2'>CBF</text>
+              <text x='600' y='340' width='40' h_align='center' color='000000' size='12' shadow='shadow2'>EI</text>
+
+              <rect x='540' y='360' width='40' height='30' fill_color='000000' fill_alpha='50' />
+              <text x='540' y='360' width='40' height='30' size='12' h_align='center' v_align='middle' color='FFFFFF' shadow='shadow2'>4</text>
+
+              <rect x='600' y='360' width='40' height='30' fill_color='000000' fill_alpha='50' />
+              <text x='600' y='360' width='40' height='30' size='12' h_align='center' v_align='middle' color='FFFFFF' shadow='shadow2'>3.7</text>
+
+              <text x='20' y='420' width='70' height='25' size='12' h_align='left' v_align='middle' color='000000' >11/17/2013</text>
+              <text x='100' y='420' width='200' height='25' size='12' h_align='left' v_align='middle' color='000000' >Everbank Field</text>
+
+   </draw></chart>

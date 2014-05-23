@@ -1,0 +1,309 @@
+
+<chart>
+   <license>ETAS9P33ESHO.945CWK-2XOI1X0-7L</license>
+   <chart_type>scatter</chart_type>
+   <chart_pref trend_thickness='0' line_thickness='3' point_size='0'/>
+
+   <series_color>
+      <color>ffff00</color>
+   </series_color>
+
+   <chart_rect x='45' y='20' width='630' height='230' positive_color='cacaca'  />
+
+  <chart_border top_thickness='0'
+                 bottom_thickness='0'
+                 left_thickness='0'
+                 right_thickness='0'
+                 color='000000'
+                 />
+
+   <tooltip font='Arial' bold='true' size='11' />
+
+   <chart_note type='flag'
+               color='000000'
+               alpha='90'
+               bold='FALSE'
+               size='10'
+               background_color='ffffe0'
+               background_alpha='50'
+               shadow='shadow2'
+               />
+
+   <chart_grid_h thickness='2' color='ffffff' type='dashed'  />
+   <chart_grid_v thickness='2' color='ffffff'   />
+		>
+
+   <legend layout='hide' />
+
+   <chart_guide horizontal='TRUE'
+             vertical='TRUE'
+             thickness='1'
+             color='006400'
+             alpha='100'
+             type='solid'
+             snap_h='TRUE'
+             snap_v='TRUE'
+             radius='3'
+             fill_color='006400'
+             fill_alpha='100'
+             line_color='006400'
+             line_alpha='80'
+             line_thickness='1'
+             text_h_alpha='50'
+             text_v_alpha='00'
+             suffix_h=' WP'
+             decimals='2'
+             bold='FALSE'
+             size='11'
+             text_color='FFFFFF'
+             background_color='006400'
+             />
+   <filter>
+      <shadow id='shadow1' distance='2' angle='60' blurX='5' blurY='5' alpha='50' />
+      <bevel id='bevel1' angle='45' blurX='5' blurY='5' distance='0' />
+      <glow id='glow1' color='ffffff' alpha='0' blurX='7' blurY='7' strength='6' quality='2' inner='FALSE' knockout='FALSE' />
+      <glow id='winnerglow' color='ffffff' alpha='0' blurX='7' blurY='7' strength='5' quality='2' inner='FALSE' knockout='FALSE' />
+   </filter>
+
+    <axis_value_label>
+         <string></string>
+          <string> </string>
+          <null/>
+          <string> </string>
+          <string></string>
+
+       </axis_value_label>
+		
+	   <axis_ticks category_ticks='false'/>
+
+       <axis_value min='0' max='1' steps='4'  decimals='2' show_min='true' size='13' shadow='shadow2' />     
+            <axis_category
+               min='0'
+               max='60'
+               steps='4'
+               mode='all'
+               decimals='0'
+               size='13'
+               shadow='shadow2'
+               />
+
+       <axis_category_label>
+          <string>Kickoff</string>
+          <string></string>
+          <string>Halftime</string>
+          <string></string>
+          <string>End</string>
+
+       </axis_category_label>
+
+
+        <chart_data>
+       <row>
+	      <null/><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number>
+              <number>x</number><number>y</number>
+              </row><row><string></string>
+
+                     <number shadow='shadow1'>0</number><number>.5</number><number shadow='shadow1' tooltip='15:00 BUF 0 MIA 0 LI: 2-D.Carpenter kicks 64 yards from BUF 35 to MIA 134-M.Thigpen to MIA 16 for 15 yards(81-M.Easley).'>0.09</number><number>0.49</number>
+<number shadow='shadow1' tooltip='14:19 2-5-MIA 21BUF 0 MIA 0 LI: 1.5PENALTY on MIA-71-J.Martin False Start 5 yards enforced at MIA 21 - No Play.'>0.68</number><number>0.51</number>
+<number shadow='shadow1' tooltip='13:58 2-10-MIA 16BUF 0 MIA 0 LI: 1.4(Shotgun) 33-D.Thomas right end to MIA 20 for 4 yards(99-M.Dareus).'>1.03</number><number>0.51</number>
+<number shadow='shadow1' tooltip='13:32 3-6-MIA 20BUF 0 MIA 0 LI: 1.3(No Huddle Shotgun) 17-R.Tannehill pass short left intended for 10-B.Gibson INTERCEPTED by 37-N.Robey at MIA 1937-N.Robey for 19 yards TOUCHDOWN.'>1.47</number><number>0.71</number>
+<number shadow='shadow1' tooltip='13:32 BUF 0 MIA 0 LI: 2-D.Carpenter extra point is GOOD Center-65-G.Sanborn Holder-8-B.Moorman.'>1.51</number><number>0.71</number>
+<number shadow='shadow1' tooltip='13:32 BUF 7 MIA 0 LI: 2-D.Carpenter kicks 74 yards from BUF 35 to MIA -934-M.Thigpen Touchback.'>1.56</number><number>0.72</number>
+<number shadow='shadow1' tooltip='12:53 2-4-MIA 26BUF 7 MIA 0 LI: 1.5(Shotgun) 26-L.Miller up the middle to MIA 28 for 2 yards(99-M.Dareus; 97-C.Bryant).'>2.12</number><number>0.72</number>
+<number shadow='shadow1' tooltip='12:19 3-2-MIA 28BUF 7 MIA 0 LI: 1.3(Shotgun) 17-R.Tannehill pass incomplete short right to 42-C.Clay.'>2.68</number><number>0.74</number>
+<number shadow='shadow1' tooltip='12:12 4-2-MIA 28BUF 7 MIA 0 LI: 1.1(Punt formation) 2-B.Fields punts 46 yards to BUF 26 Center-92-J.Denney21-L.McKelvin pushed ob at BUF 26 for no gain (45-A.Spitler)PENALTY on BUF-15-C.Hogan Offensive Holding 10 yards enforced at BUF 26.'>2.8</number><number>0.7</number>
+<number shadow='shadow1' tooltip='12:00 1-10-BUF 16BUF 7 MIA 0 LI: 0.8(Shotgun) 9-T.Lewis sacked at BUF 11 for -5 yards(50-O.Vernon).'>3</number><number>0.7</number>
+<number shadow='shadow1' tooltip='11:27 2-15-BUF 11BUF 7 MIA 0 LI: 1.4(Shotgun) 9-T.Lewis pass incomplete short right to 13-S.Johnson.'>3.55</number><number>0.69</number>
+<number shadow='shadow1' tooltip='11:23 3-15-BUF 11BUF 7 MIA 0 LI: 1.3(Shotgun) 9-T.Lewis pass short left to 22-F.Jackson pushed ob at BUF 32 for 21 yards(28-N.Carroll)BUF-22-F.Jackson was injured during the playHis return is Questionable.'>3.62</number><number>0.74</number>
+<number shadow='shadow1' tooltip='11:02 1-10-BUF 32BUF 7 MIA 0 LI: 0.928-C.Spiller left guard to BUF 33 for 1 yard(96-P.Soliai; 55-K.Misi).'>3.97</number><number>0.75</number>
+<number shadow='shadow1' tooltip='10:31 2-9-BUF 33BUF 7 MIA 0 LI: 19-T.Lewis pass short right to 28-C.Spiller to BUF 28 for -5 yards(98-J.Odrick).'>4.48</number><number>0.72</number>
+<number shadow='shadow1' tooltip='9:53 3-14-BUF 28BUF 7 MIA 0 LI: 0.8(Shotgun) 9-T.Lewis pass incomplete short right to 20-T.Choice.'>5.12</number><number>0.7</number>
+<number shadow='shadow1' tooltip='9:48 4-14-BUF 28BUF 7 MIA 0 LI: 0.6(Punt formation) 8-B.Moorman punts 62 yards to MIA 10 Center-65-G.Sanborn34-M.Thigpen to MIA 14 for 4 yards(81-M.Easley)PENALTY on MIA-25-R.Stanford Offensive Holding 7 yards enforced at MIA 14.'>5.2</number><number>0.73</number>
+<number shadow='shadow1' tooltip='9:34 1-10-MIA 7BUF 7 MIA 0 LI: 1.417-R.Tannehill pass incomplete short left to 11-M.Wallace.'>5.43</number><number>0.76</number>
+<number shadow='shadow1' tooltip='9:29 2-10-MIA 7BUF 7 MIA 0 LI: 1.126-L.Miller left tackle to MIA 10 for 3 yards(52-A.Moats).'>5.52</number><number>0.77</number>
+<number shadow='shadow1' tooltip='8:52 3-7-MIA 10BUF 7 MIA 0 LI: 1(Shotgun) 17-R.Tannehill pass incomplete short right to 82-B.Hartline [37-N.Robey].'>6.13</number><number>0.8</number>
+<number shadow='shadow1' tooltip='8:47 4-7-MIA 10BUF 7 MIA 0 LI: 0.7(Punt formation) 2-B.Fields punts 74 yards to BUF 16 Center-92-J.Denney downed by MIA-36-D.JonesPENALTY on MIA-36-D.Jones Illegal Touch Kick 5 yards enforced at MIA 10 - No Play.'>6.22</number><number>0.81</number>
+<number shadow='shadow1' tooltip='8:26 4-12-MIA 5BUF 7 MIA 0 LI: 0.6(Punt formation) 2-B.Fields punts 53 yards to BUF 42 Center-92-J.Denney21-L.McKelvin to MIA 44 for 14 yards(93-J.Trusnik).'>6.57</number><number>0.81</number>
+<number shadow='shadow1' tooltip='8:22 1-10-MIA 44BUF 7 MIA 0 LI: 1.39-T.Lewis pass short right to 85-L.Smith to MIA 26 for 18 yards(93-J.Trusnik).'>6.63</number><number>0.86</number>
+<number shadow='shadow1' tooltip='7:46 1-10-MIA 26BUF 7 MIA 0 LI: 1.528-C.Spiller left end ran ob at MIA 15 for 11 yards(30-C.Clemons).'>7.23</number><number>0.88</number>
+<number shadow='shadow1' tooltip='7:20 1-10-MIA 15BUF 7 MIA 0 LI: 1.5(No Huddle) 20-T.Choice up the middle to MIA 12 for 3 yards(94-R.Starks; 52-P.Wheeler)MIA-50-O.Vernon was injured during the playHis return is Probable.'>7.67</number><number>0.87</number>
+<number shadow='shadow1' tooltip='6:53 2-7-MIA 12BUF 7 MIA 0 LI: 1.49-T.Lewis pass short right to 84-S.Chandler to MIA 6 for 6 yards(20-R.Jones; 21-B.Grimes).'>8.12</number><number>0.88</number>
+<number shadow='shadow1' tooltip='6:25 3-1-MIA 6BUF 7 MIA 0 LI: 1.5(No Huddle) 20-T.Choice left guard to MIA 3 for 3 yards(52-P.Wheeler).'>8.58</number><number>0.88</number>
+<number shadow='shadow1' tooltip='5:52 1-3-MIA 3BUF 7 MIA 0 LI: 1.5(Shotgun) 22-F.Jackson right guard for 3 yards TOUCHDOWN.'>9.13</number><number>0.9</number>
+<number shadow='shadow1' tooltip='5:52 BUF 7 MIA 0 LI: 2-D.Carpenter extra point is GOOD Center-65-G.Sanborn Holder-8-B.Moorman.'>9.17</number><number>0.9</number>
+<number shadow='shadow1' tooltip='5:52 BUF 14 MIA 0 LI: 2-D.Carpenter kicks 71 yards from BUF 35 to MIA -634-M.Thigpen Touchback.'>9.22</number><number>0.9</number>
+<number shadow='shadow1' tooltip='5:42 2-10-MIA 20BUF 14 MIA 0 LI: 0.517-R.Tannehill pass deep right to 11-M.Wallace to MIA 38 for 18 yards(69-J.Ross).'>9.3</number><number>0.89</number>
+<number shadow='shadow1' tooltip='5:03 1-10-MIA 38BUF 14 MIA 0 LI: 0.133-D.Thomas right guard to MIA 47 for 9 yards(31-J.Byrd).'>9.95</number><number>0.86</number>
+<number shadow='shadow1' tooltip='4:20 2-1-MIA 47BUF 14 MIA 0 LI: 0.233-D.Thomas left tackle to MIA 49 for 2 yards(52-A.Moats).'>10.67</number><number>0.87</number>
+<number shadow='shadow1' tooltip='3:47 1-10-MIA 49BUF 14 MIA 0 LI: 0.1(Shotgun) 17-R.Tannehill pass short left to 82-B.Hartline to BUF 37 for 14 yards(23-A.Williams)PENALTY on BUF-50-K.Alonso Personal Foul 15 yards enforced at BUF 37.'>11.22</number><number>0.83</number>
+<number shadow='shadow1' tooltip='3:23 1-10-BUF 22BUF 14 MIA 0 LI: 0.133-D.Thomas right guard to BUF 17 for 5 yards(31-J.Byrd).'>11.62</number><number>0.76</number>
+<number shadow='shadow1' tooltip='2:45 2-5-BUF 17BUF 14 MIA 0 LI: 0.3(Shotgun) 17-R.Tannehill pass incomplete short middle to 10-B.Gibson (37-N.Robey).'>12.25</number><number>0.77</number>
+<number shadow='shadow1' tooltip='2:37 3-5-BUF 17BUF 14 MIA 0 LI: 0.2(Shotgun) 17-R.Tannehill pass deep left intended for 82-B.Hartline INTERCEPTED by 23-A.Williams at BUF -123-A.Williams to BUF 2 for 3 yards(82-B.Hartline).'>12.38</number><number>0.76</number>
+<number shadow='shadow1' tooltip='2:30 1-10-BUF 2BUF 14 MIA 0 LI: 0.222-F.Jackson left guard to BUF 3 for 1 yard(93-J.Trusnik).'>12.5</number><number>0.83</number>
+<number shadow='shadow1' tooltip='2:06 2-9-BUF 3BUF 14 MIA 0 LI: 0.9(Shotgun) 9-T.Lewis pass short left to 10-R.Woods pushed ob at BUF 10 for 7 yards(28-N.Carroll).'>12.9</number><number>0.84</number>
+<number shadow='shadow1' tooltip='1:28 3-2-BUF 10BUF 14 MIA 0 LI: 0.9(Shotgun) 9-T.Lewis pass short right to 13-S.Johnson pushed ob at BUF 24 for 14 yards(20-R.Jones).'>13.53</number><number>0.84</number>
+<number shadow='shadow1' tooltip='0:57 1-10-BUF 24BUF 14 MIA 0 LI: 0.128-C.Spiller left end ran ob at BUF 19 for -5 yards(50-O.Vernon).'>14.05</number><number>0.88</number>
+<number shadow='shadow1' tooltip='0:30 2-15-BUF 19BUF 14 MIA 0 LI: 0.59-T.Lewis FUMBLES (Aborted) at BUF 14 recovered by BUF-20-T.Choice at BUF 1420-T.Choice to BUF 14 for no gain (91-C.Wake).'>14.5</number><number>0.88</number>
+<number shadow='shadow1' tooltip='15:00 3-20-BUF 14BUF 14 MIA 0 LI: 1.2(Shotgun) 9-T.Lewis pass short right to 22-F.Jackson to BUF 30 for 16 yards(52-P.Wheeler).'>15</number><number>0.9</number>
+<number shadow='shadow1' tooltip='14:33 4-4-BUF 30BUF 14 MIA 0 LI: 0.6(Punt formation) 8-B.Moorman punts 39 yards to MIA 31 Center-65-G.Sanborn34-M.Thigpen to MIA 38 for 7 yards(53-N.Bradham).'>15.45</number><number>0.89</number>
+<number shadow='shadow1' tooltip='14:22 1-10-MIA 38BUF 14 MIA 0 LI: 0.1(Shotgun) 26-L.Miller up the middle to BUF 32 for 30 yards(25-D.Searcy).'>15.63</number><number>0.84</number>
+<number shadow='shadow1' tooltip='13:46 1-10-BUF 32BUF 14 MIA 0 LI: 0.2(Shotgun) 11-M.Wallace left end to BUF 20 for 12 yards(24-S.Gilmore).'>16.23</number><number>0.83</number>
+<number shadow='shadow1' tooltip='13:03 1-10-BUF 20BUF 14 MIA 0 LI: 0.317-R.Tannehill pass short left to 82-B.Hartline to BUF 13 for 7 yards(24-S.Gilmore).'>16.95</number><number>0.76</number>
+<number shadow='shadow1' tooltip='12:25 2-3-BUF 13BUF 14 MIA 0 LI: 1.117-R.Tannehill pass short right to 26-L.Miller pushed ob at BUF 9 for 4 yards(91-M.Lawson).'>17.58</number><number>0.78</number>
+<number shadow='shadow1' tooltip='11:46 1-9-BUF 9BUF 14 MIA 0 LI: 0.9(Shotgun) 17-R.Tannehill up the middle to BUF 7 for 2 yards(95-K.Williams).'>18.23</number><number>0.78</number>
+<number shadow='shadow1' tooltip='11:07 2-7-BUF 7BUF 14 MIA 0 LI: 1(No Huddle Shotgun) 17-R.Tannehill pass short right to 42-C.Clay for 7 yards TOUCHDOWN.'>18.88</number><number>0.74</number>
+<number shadow='shadow1' tooltip='11:07 BUF 14 MIA 0 LI: 9-C.Sturgis extra point is GOOD Center-92-J.Denney Holder-2-B.Fields.'>18.92</number><number>0.74</number>
+<number shadow='shadow1' tooltip='11:07 BUF 14 MIA 7 LI: 9-C.Sturgis kicks 68 yards from MIA 35 to BUF -388-M.Goodwin to BUF 20 for 23 yards(56-J.Freeny).'>18.97</number><number>0.73</number>
+<number shadow='shadow1' tooltip='10:54 1-10-BUF 20BUF 14 MIA 7 LI: 0.928-C.Spiller left guard to BUF 22 for 2 yards(50-O.Vernon).'>19.1</number><number>0.74</number>
+<number shadow='shadow1' tooltip='10:22 2-8-BUF 22BUF 14 MIA 7 LI: 1(Shotgun) 9-T.Lewis pass incomplete deep left to 13-S.Johnson.'>19.63</number><number>0.72</number>
+<number shadow='shadow1' tooltip='10:16 3-8-BUF 22BUF 14 MIA 7 LI: 0.8(Shotgun) 9-T.Lewis pass short middle to 11-T.Graham to BUF 28 for 6 yards(20-R.Jones).'>19.73</number><number>0.71</number>
+<number shadow='shadow1' tooltip='9:40 4-2-BUF 28BUF 14 MIA 7 LI: 0.6(Punt formation) 8-B.Moorman punts 43 yards to MIA 29 Center-65-G.Sanborn fair catch by 34-M.Thigpen.'>20.33</number><number>0.72</number>
+<number shadow='shadow1' tooltip='9:31 1-10-MIA 29BUF 14 MIA 7 LI: 1.233-D.Thomas left tackle to MIA 31 for 2 yards(99-M.Dareus).'>20.48</number><number>0.72</number>
+<number shadow='shadow1' tooltip='8:58 2-8-MIA 31BUF 14 MIA 7 LI: 1.117-R.Tannehill pass short left to 82-B.Hartline to MIA 36 for 5 yards(23-A.Williams).'>21.03</number><number>0.72</number>
+<number shadow='shadow1' tooltip='8:14 3-3-MIA 36BUF 14 MIA 7 LI: 1(Shotgun) 17-R.Tannehill pass incomplete short left to 26-L.Miller.'>21.77</number><number>0.75</number>
+<number shadow='shadow1' tooltip='8:09 4-3-MIA 36BUF 14 MIA 7 LI: 0.7(Punt formation) 2-B.Fields punts 47 yards to BUF 17 Center-92-J.Denney fair catch by 21-L.McKelvin.'>21.85</number><number>0.73</number>
+<number shadow='shadow1' tooltip='8:01 1-10-BUF 17BUF 14 MIA 7 LI: 0.99-T.Lewis pass short left to 28-C.Spiller to BUF 23 for 6 yards(21-B.Grimes)PENALTY on BUF-59-D.Legursky Offensive Holding 8 yards enforced at BUF 17 - No Play.'>21.98</number><number>0.72</number>
+<number shadow='shadow1' tooltip='7:46 1-18-BUF 9BUF 14 MIA 7 LI: 1.6(Shotgun) 9-T.Lewis pass short right to 13-S.Johnson to BUF 19 for 10 yards(53-J.Jenkins).'>22.23</number><number>0.74</number>
+<number shadow='shadow1' tooltip='7:07 2-8-BUF 19BUF 14 MIA 7 LI: 1(Shotgun) 9-T.Lewis pass short middle intended for 13-S.Johnson INTERCEPTED by 30-C.Clemons [98-J.Odrick] at BUF 3130-C.Clemons to BUF 31 for no gain (13-S.Johnson).'>22.88</number><number>0.66</number>
+<number shadow='shadow1' tooltip='6:59 1-10-BUF 31BUF 14 MIA 7 LI: 126-L.Miller right tackle to BUF 29 for 2 yards(31-J.Byrd).'>23.02</number><number>0.66</number>
+<number shadow='shadow1' tooltip='6:27 2-8-BUF 29BUF 14 MIA 7 LI: 0.9(Shotgun) 26-L.Miller left end to BUF 33 for -4 yards(94-M.Williams).'>23.55</number><number>0.69</number>
+<number shadow='shadow1' tooltip='5:59 3-12-BUF 33BUF 14 MIA 7 LI: 0.8(Shotgun) 17-R.Tannehill pass incomplete short middle to 26-L.Miller.'>24.02</number><number>0.71</number>
+<number shadow='shadow1' tooltip='5:55 4-12-BUF 33BUF 14 MIA 7 LI: 0.6(Field Goal formation) 9-C.Sturgis 51 yard field goal is No Good Wide Right Center-92-J.Denney Holder-2-B.Fields.'>24.08</number><number>0.78</number>
+<number shadow='shadow1' tooltip='5:50 1-10-BUF 41BUF 14 MIA 7 LI: 1.138-F.Summers right tackle to MIA 43 for 16 yards(53-J.Jenkins).'>24.17</number><number>0.81</number>
+<number shadow='shadow1' tooltip='5:17 1-10-MIA 43BUF 14 MIA 7 LI: 1.1(Shotgun) 38-F.Summers up the middle to MIA 45 for -2 yards(79-D.Shelby; 94-R.Starks).'>24.72</number><number>0.78</number>
+<number shadow='shadow1' tooltip='4:42 2-12-MIA 45BUF 14 MIA 7 LI: 0.9(Shotgun) 9-T.Lewis pass incomplete short right to 13-S.Johnson.'>25.3</number><number>0.76</number>
+<number shadow='shadow1' tooltip='4:38 3-12-MIA 45BUF 14 MIA 7 LI: 0.7(Shotgun) PENALTY on BUF-11-T.Graham False Start 5 yards enforced at MIA 45 - No Play.'>25.37</number><number>0.75</number>
+<number shadow='shadow1' tooltip='4:26 1-10-MIA 20BUF 14 MIA 7 LI: 1.19-T.Lewis pass short left to 22-F.Jackson pushed ob at MIA 16 for 4 yards(20-R.Jones).'>25.57</number><number>0.84</number>
+<number shadow='shadow1' tooltip='3:56 2-6-MIA 16BUF 14 MIA 7 LI: 1(Shotgun) 9-T.Lewis pass incomplete short right to 13-S.Johnson [95-D.Jordan].'>26.07</number><number>0.83</number>
+<number shadow='shadow1' tooltip='3:51 3-6-MIA 16BUF 14 MIA 7 LI: 0.9(Shotgun) 9-T.Lewis sacked at MIA 22 for -6 yards(94-R.Starks)FUMBLES (94-R.Starks) and recovers at MIA 219-T.Lewis to MIA 21 for no gain (95-D.Jordan).'>26.15</number><number>0.79</number>
+<number shadow='shadow1' tooltip='3:19 4-11-MIA 21BUF 14 MIA 7 LI: 0.6(Field Goal formation) 2-D.Carpenter 39 yard field goal is GOOD Center-65-G.Sanborn Holder-8-B.Moorman.'>26.68</number><number>0.8</number>
+<number shadow='shadow1' tooltip='3:19 BUF 17 MIA 7 LI: 2-D.Carpenter kicks 74 yards from BUF 35 to MIA -934-M.Thigpen Touchback.'>26.77</number><number>0.81</number>
+<number shadow='shadow1' tooltip='2:51 2-5-MIA 25BUF 17 MIA 7 LI: 1(No Huddle Shotgun) 17-R.Tannehill pass incomplete short right to 11-M.Wallace.'>27.15</number><number>0.82</number>
+<number shadow='shadow1' tooltip='2:46 3-5-MIA 25BUF 17 MIA 7 LI: 0.9(Shotgun) 17-R.Tannehill pass short right to 11-M.Wallace to MIA 19 for -6 yards(21-L.McKelvin).'>27.23</number><number>0.86</number>
+<number shadow='shadow1' tooltip='2:00 4-11-MIA 19BUF 17 MIA 7 LI: 0.7(Punt formation) 2-B.Fields punts 58 yards to BUF 23 Center-92-J.Denney downed by MIA-44-J.Kovacs.'>28</number><number>0.83</number>
+<number shadow='shadow1' tooltip='1:47 1-10-BUF 23BUF 17 MIA 7 LI: 1.29-T.Lewis pass incomplete short left to 13-S.Johnson.'>28.22</number><number>0.82</number>
+<number shadow='shadow1' tooltip='1:44 2-10-BUF 23BUF 17 MIA 7 LI: 1.1(Shotgun) 9-T.Lewis pass incomplete short middle to 22-F.Jackson.'>28.27</number><number>0.81</number>
+<number shadow='shadow1' tooltip='1:40 3-10-BUF 23BUF 17 MIA 7 LI: 1(Shotgun) 9-T.Lewis pass short middle to 22-F.Jackson to BUF 31 for 8 yards(53-J.Jenkins).'>28.33</number><number>0.79</number>
+<number shadow='shadow1' tooltip='1:34 4-2-BUF 31BUF 17 MIA 7 LI: 0.6(Punt formation) 8-B.Moorman punts 44 yards to MIA 25 Center-65-G.Sanborn34-M.Thigpen to MIA 25 for no gain (81-M.Easley).'>28.43</number><number>0.8</number>
+<number shadow='shadow1' tooltip='1:25 1-10-MIA 25BUF 17 MIA 7 LI: 1.2(Shotgun) 17-R.Tannehill pass deep left to 82-B.Hartline pushed ob at MIA 42 for 17 yards(23-A.Williams)The Replay Assistant challenged the pass completion ruling and the play was REVERSED(Shotgun) 17-R.Tannehill pass incomplete deep left to 82-B.Hartline.'>28.58</number><number>0.81</number>
+<number shadow='shadow1' tooltip='1:21 2-10-MIA 25BUF 17 MIA 7 LI: 1.1(Shotgun) 17-R.Tannehill pass deep right to 11-M.Wallace to BUF 29 for 46 yards(24-S.Gilmore).'>28.65</number><number>0.72</number>
+<number shadow='shadow1' tooltip='0:43 1-10-BUF 29BUF 17 MIA 7 LI: 1.2(No Huddle Shotgun) 17-R.Tannehill pass incomplete short right to 42-C.Clay.'>29.28</number><number>0.73</number>
+<number shadow='shadow1' tooltip='0:38 2-10-BUF 29BUF 17 MIA 7 LI: 1.1(Shotgun) 17-R.Tannehill pass incomplete short middle to 84-M.Egnew.'>29.37</number><number>0.73</number>
+<number shadow='shadow1' tooltip='0:34 2-10-BUF 29BUF 17 MIA 7 LI: 1.1(Shotgun) 17-R.Tannehill pass deep left to 10-B.Gibson ran ob at BUF 13 for 16 yardsThe Replay Assistant challenged the pass completion ruling and the play was Upheld.'>29.43</number><number>0.68</number>
+<number shadow='shadow1' tooltip='0:28 1-10-BUF 13BUF 17 MIA 7 LI: 1.4(Shotgun) 17-R.Tannehill pass short middle to 10-B.Gibson for 13 yards TOUCHDOWN.'>29.53</number><number>0.64</number>
+<number shadow='shadow1' tooltip='0:28 BUF 17 MIA 7 LI: 9-C.Sturgis extra point is GOOD Center-92-J.Denney Holder-2-B.Fields.'>29.57</number><number>0.64</number>
+<number shadow='shadow1' tooltip='0:28 BUF 17 MIA 14 LI: 9-C.Sturgis kicks 65 yards from MIA 35 to end zone Touchback.'>29.62</number><number>0.63</number>
+<number shadow='shadow1' tooltip='0:21 1-10-BUF 20BUF 17 MIA 14 LI: 1.79-T.Lewis kneels to BUF 19 for -1 yards.'>29.65</number><number>0.61</number>
+<number shadow='shadow1' tooltip='0:21 BUF 17 MIA 14 LI: 9-C.Sturgis kicks 65 yards from MIA 35 to end zone Touchback.'>29.74</number><number>0.63</number>
+<number shadow='shadow1' tooltip='15:00 1-10-BUF 20BUF 17 MIA 14 LI: 1.728-C.Spiller up the middle to BUF 21 for 1 yard(93-J.Trusnik).'>30</number><number>0.62</number>
+<number shadow='shadow1' tooltip='14:29 2-9-BUF 21BUF 17 MIA 14 LI: 1.5(Shotgun) 9-T.Lewis pass short left to 28-C.Spiller to BUF 21 for no gain (20-R.Jones).'>30.52</number><number>0.62</number>
+<number shadow='shadow1' tooltip='13:49 3-9-BUF 21BUF 17 MIA 14 LI: 1.5(Shotgun) 9-T.Lewis pass short right to 13-S.Johnson pushed ob at BUF 29 for 8 yards(24-D.Patterson).'>31.18</number><number>0.61</number>
+<number shadow='shadow1' tooltip='13:36 4-1-BUF 29BUF 17 MIA 14 LI: 1.2(Punt formation) 8-B.Moorman punts 37 yards to MIA 34 Center-65-G.Sanborn out of bounds.'>31.4</number><number>0.6</number>
+<number shadow='shadow1' tooltip='13:29 1-10-MIA 34BUF 17 MIA 14 LI: 1.217-R.Tannehill pass short left to 82-B.Hartline to MIA 49 for 15 yards(23-A.Williams).'>31.52</number><number>0.56</number>
+<number shadow='shadow1' tooltip='12:35 1-10-MIA 49BUF 17 MIA 14 LI: 1.433-D.Thomas up the middle to BUF 45 for 6 yards(23-A.Williams).'>32.42</number><number>0.54</number>
+<number shadow='shadow1' tooltip='12:11 2-4-BUF 45BUF 17 MIA 14 LI: 1.5(Shotgun) 33-D.Thomas left guard to BUF 42 for 3 yards(99-M.Dareus; 50-K.Alonso).'>32.82</number><number>0.54</number>
+<number shadow='shadow1' tooltip='11:33 3-1-BUF 42BUF 17 MIA 14 LI: 1.433-D.Thomas right end to BUF 26 for 16 yards(21-L.McKelvin).'>33.45</number><number>0.48</number>
+<number shadow='shadow1' tooltip='10:51 1-10-BUF 26BUF 17 MIA 14 LI: 1.817-R.Tannehill pass short left to 11-M.Wallace to BUF 15 for 11 yards(23-A.Williams).'>34.15</number><number>0.45</number>
+<number shadow='shadow1' tooltip='10:17 1-10-BUF 15BUF 17 MIA 14 LI: 1.9(Shotgun) 26-L.Miller up the middle to BUF 9 for 6 yards(25-D.Searcy).'>34.72</number><number>0.38</number>
+<number shadow='shadow1' tooltip='9:41 2-4-BUF 9BUF 17 MIA 14 LI: 2.5(Shotgun) 17-R.Tannehill left tackle to BUF 6 for 3 yards(50-K.Alonso).'>35.32</number><number>0.38</number>
+<number shadow='shadow1' tooltip='9:00 3-1-BUF 6BUF 17 MIA 14 LI: 2.526-L.Miller left end to BUF 4 for 2 yards(37-N.Robey)BUF-91-M.Lawson was injured during the playHis return is Questionable.'>36</number><number>0.38</number>
+<number shadow='shadow1' tooltip='8:16 1-4-BUF 4BUF 17 MIA 14 LI: 2.5(Shotgun) 17-R.Tannehill up the middle to BUF 4 for no gain (99-M.Dareus).'>36.73</number><number>0.38</number>
+<number shadow='shadow1' tooltip='7:36 2-4-BUF 4BUF 17 MIA 14 LI: 2.533-D.Thomas left tackle to BUF 4 for no gain (50-K.Alonso).'>37.4</number><number>0.42</number>
+<number shadow='shadow1' tooltip='6:53 3-4-BUF 4BUF 17 MIA 14 LI: 2.1(Shotgun) 17-R.Tannehill pass short right to 10-B.Gibson for 4 yards TOUCHDOWN.'>38.12</number><number>0.34</number>
+<number shadow='shadow1' tooltip='6:53 BUF 17 MIA 14 LI: 9-C.Sturgis extra point is GOOD Center-92-J.Denney Holder-2-B.Fields.'>38.16</number><number>0.34</number>
+<number shadow='shadow1' tooltip='6:53 BUF 17 MIA 21 LI: 9-C.Sturgis kicks 65 yards from MIA 35 to BUF 088-M.Goodwin to BUF 26 for 26 yards(45-A.Spitler).'>38.21</number><number>0.34</number>
+<number shadow='shadow1' tooltip='6:40 1-10-BUF 26BUF 17 MIA 21 LI: 1.222-F.Jackson right tackle to BUF 30 for 4 yards(79-D.Shelby).'>38.33</number><number>0.35</number>
+<number shadow='shadow1' tooltip='6:05 2-6-BUF 30BUF 17 MIA 21 LI: 1.3(Shotgun) 22-F.Jackson right guard to BUF 29 for -1 yards(93-J.Trusnik).'>38.92</number><number>0.33</number>
+<number shadow='shadow1' tooltip='5:24 3-7-BUF 29BUF 17 MIA 21 LI: 1.1(No Huddle Shotgun) 9-T.Lewis pass short left to 13-S.Johnson to BUF 36 for 7 yards(20-R.Jones).'>39.6</number><number>0.37</number>
+<number shadow='shadow1' tooltip='4:48 1-10-BUF 36BUF 17 MIA 21 LI: 1.4(No Huddle Shotgun) 9-T.Lewis up the middle to BUF 44 for 8 yards(20-R.Jones).'>40.2</number><number>0.38</number>
+<number shadow='shadow1' tooltip='4:16 2-2-BUF 44BUF 17 MIA 21 LI: 1.4(No Huddle Shotgun) 9-T.Lewis sacked at BUF 35 for -9 yards(20-R.Jones).'>40.73</number><number>0.33</number>
+<number shadow='shadow1' tooltip='3:43 3-11-BUF 35BUF 17 MIA 21 LI: 1.1(Shotgun) 9-T.Lewis pass short left to 13-S.Johnson to MIA 48 for 17 yards(27-J.Wilson)PENALTY on MIA-53-J.Jenkins Roughing the Passer 15 yards enforced at MIA 48.'>41.28</number><number>0.44</number>
+<number shadow='shadow1' tooltip='3:27 1-10-MIA 33BUF 17 MIA 21 LI: 1.522-F.Jackson up the middle to MIA 27 for 6 yards(98-J.Odrick).'>41.55</number><number>0.45</number>
+<number shadow='shadow1' tooltip='2:48 2-4-MIA 27BUF 17 MIA 21 LI: 1.59-T.Lewis pass short middle to 10-R.Woods to MIA 16 for 11 yards(21-B.Grimes).'>42.2</number><number>0.47</number>
+<number shadow='shadow1' tooltip='2:20 1-10-MIA 16BUF 17 MIA 21 LI: 1.59-T.Lewis left end to MIA 12 for 4 yards(52-P.Wheeler).'>42.67</number><number>0.55</number>
+<number shadow='shadow1' tooltip='1:44 2-6-MIA 12BUF 17 MIA 21 LI: 2.220-T.Choice right tackle to MIA 7 for 5 yards(93-J.Trusnik).'>43.27</number><number>0.57</number>
+<number shadow='shadow1' tooltip='1:05 3-1-MIA 7BUF 17 MIA 21 LI: 2.4(Shotgun) 22-F.Jackson up the middle to MIA 4 for 3 yards(94-R.Starks).'>43.92</number><number>0.57</number>
+<number shadow='shadow1' tooltip='0:26 1-4-MIA 4BUF 17 MIA 21 LI: 2.5(Shotgun) 22-F.Jackson left tackle to MIA 4 for no gain (52-P.Wheeler).'>44.57</number><number>0.57</number>
+<number shadow='shadow1' tooltip='15:00 2-4-MIA 4BUF 17 MIA 21 LI: 2.5(Shotgun) 9-T.Lewis pass incomplete short middle to 13-S.Johnson.'>45</number><number>0.53</number>
+<number shadow='shadow1' tooltip='14:58 3-4-MIA 4BUF 17 MIA 21 LI: 2.1(Shotgun) 9-T.Lewis scrambles up the middle to MIA 2 for 2 yards(79-D.Shelby; 52-P.Wheeler).'>45.03</number><number>0.42</number>
+<number shadow='shadow1' tooltip='14:20 4-2-MIA 2BUF 17 MIA 21 LI: 1(Field Goal formation) 2-D.Carpenter 20 yard field goal is GOOD Center-65-G.Sanborn Holder-8-B.Moorman.'>45.67</number><number>0.41</number>
+<number shadow='shadow1' tooltip='14:20 BUF 20 MIA 21 LI: 2-D.Carpenter kicks 74 yards from BUF 35 to MIA -934-M.Thigpen Touchback.'>45.76</number><number>0.43</number>
+<number shadow='shadow1' tooltip='14:11 2-10-MIA 20BUF 20 MIA 21 LI: 1.6(Shotgun) 17-R.Tannehill pass incomplete short left to 18-R.Matthews (37-N.Robey).'>45.82</number><number>0.48</number>
+<number shadow='shadow1' tooltip='14:07 3-10-MIA 20BUF 20 MIA 21 LI: 1.3(Shotgun) 17-R.Tannehill pass short middle to 11-M.Wallace to MIA 27 for 7 yards(23-A.Williams).'>45.88</number><number>0.5</number>
+<number shadow='shadow1' tooltip='13:29 4-3-MIA 27BUF 20 MIA 21 LI: 1(Punt formation) 2-B.Fields punts 35 yards to BUF 38 Center-92-J.Denney out of boundsPENALTY on BUF-93-J.Westerman Offensive Holding 10 yards enforced at BUF 38.'>46.52</number><number>0.49</number>
+<number shadow='shadow1' tooltip='13:22 1-10-BUF 28BUF 20 MIA 21 LI: 1.89-T.Lewis pass incomplete deep left to 10-R.Woods.'>46.63</number><number>0.47</number>
+<number shadow='shadow1' tooltip='13:16 2-10-BUF 28BUF 20 MIA 21 LI: 1.6(Shotgun) 9-T.Lewis pass short left to 28-C.Spiller to BUF 29 for 1 yard(93-J.Trusnik).'>46.73</number><number>0.45</number>
+<number shadow='shadow1' tooltip='12:34 3-9-BUF 29BUF 20 MIA 21 LI: 1.5(Shotgun) 9-T.Lewis pass short right to 84-S.Chandler to BUF 41 for 12 yards(52-P.Wheeler).'>47.43</number><number>0.52</number>
+<number shadow='shadow1' tooltip='11:59 1-10-BUF 41BUF 20 MIA 21 LI: 222-F.Jackson up the middle to BUF 45 for 4 yards(20-R.Jones).'>48.02</number><number>0.53</number>
+<number shadow='shadow1' tooltip='11:26 2-6-BUF 45BUF 20 MIA 21 LI: 2.19-T.Lewis pass incomplete deep right to 84-S.Chandler (55-K.Misi) [94-R.Starks].'>48.57</number><number>0.49</number>
+<number shadow='shadow1' tooltip='11:18 3-6-BUF 45BUF 20 MIA 21 LI: 1.7(Shotgun) 9-T.Lewis pass short left to 13-S.Johnson to 50 for 5 yards(28-N.Carroll).'>48.7</number><number>0.42</number>
+<number shadow='shadow1' tooltip='10:36 4-1-50BUF 20 MIA 21 LI: 1(Punt formation) 8-B.Moorman punts 50 yards to end zone Center-65-G.Sanborn Touchback.'>49.4</number><number>0.42</number>
+<number shadow='shadow1' tooltip='10:27 1-10-MIA 20BUF 20 MIA 21 LI: 2.4(Shotgun) 17-R.Tannehill sacked at MIA 11 for -9 yards(53-N.Bradham)PENALTY on BUF-24-S.Gilmore Defensive Holding 5 yards enforced at MIA 20 - No Play.'>49.55</number><number>0.4</number>
+<number shadow='shadow1' tooltip='10:06 1-10-MIA 25BUF 20 MIA 21 LI: 2.5(Shotgun) 26-L.Miller up the middle to MIA 26 for 1 yard(99-M.Dareus).'>49.9</number><number>0.4</number>
+<number shadow='shadow1' tooltip='9:32 2-9-MIA 26BUF 20 MIA 21 LI: 2.6(Shotgun) 17-R.Tannehill pass deep left to 82-B.Hartline to MIA 45 for 19 yards(24-S.Gilmore; 35-J.Leonhard).'>50.47</number><number>0.31</number>
+<number shadow='shadow1' tooltip='8:55 1-10-MIA 45BUF 20 MIA 21 LI: 3(Shotgun) 26-L.Miller right guard to MIA 46 for 1 yard(53-N.Bradham).'>51.08</number><number>0.32</number>
+<number shadow='shadow1' tooltip='8:14 2-9-MIA 46BUF 20 MIA 21 LI: 317-R.Tannehill pass short left to 82-B.Hartline to BUF 45 for 9 yards(24-S.Gilmore).'>51.77</number><number>0.25</number>
+<number shadow='shadow1' tooltip='7:44 1-10-BUF 45BUF 20 MIA 21 LI: 3.3(Shotgun) 17-R.Tannehill pass short right to 10-B.Gibson to BUF 43 for 2 yards(31-J.Byrd).'>52.27</number><number>0.29</number>
+<number shadow='shadow1' tooltip='7:02 2-8-BUF 43BUF 20 MIA 21 LI: 2.717-R.Tannehill sacked at BUF 48 for -5 yards(94-M.Williams).'>52.97</number><number>0.37</number>
+<number shadow='shadow1' tooltip='6:27 3-13-BUF 48BUF 20 MIA 21 LI: 2.2(Shotgun) 17-R.Tannehill pass short right to 33-D.Thomas to 50 for -2 yards(50-K.Alonso).'>53.55</number><number>0.43</number>
+<number shadow='shadow1' tooltip='5:48 4-15-50BUF 20 MIA 21 LI: 1.1(Punt formation) 2-B.Fields punts 43 yards to BUF 7 Center-92-J.Denney fair catch by 21-L.McKelvin.'>54.2</number><number>0.39</number>
+<number shadow='shadow1' tooltip='5:42 1-10-BUF 7BUF 20 MIA 21 LI: 2.528-C.Spiller left tackle to BUF 8 for 1 yard(96-P.Soliai).'>54.3</number><number>0.37</number>
+<number shadow='shadow1' tooltip='5:11 2-9-BUF 8BUF 20 MIA 21 LI: 2.39-T.Lewis sacked at BUF 3 for -5 yards(24-D.Patterson).'>54.82</number><number>0.23</number>
+<number shadow='shadow1' tooltip='4:31 3-14-BUF 3BUF 20 MIA 21 LI: 0.9(Shotgun) 9-T.Lewis pass short middle to 10-R.Woods to BUF 9 for 6 yards(20-R.Jones).'>55.48</number><number>0.19</number>
+<number shadow='shadow1' tooltip='3:50 4-8-BUF 9BUF 20 MIA 21 LI: 0.4(Punt formation) 8-B.Moorman punts 43 yards to MIA 48 Center-65-G.Sanborn34-M.Thigpen to MIA 48 for no gain (93-J.Westerman).'>56.17</number><number>0.2</number>
+<number shadow='shadow1' tooltip='3:39 1-10-MIA 48BUF 20 MIA 21 LI: 333-D.Thomas right tackle to 50 for 2 yards(55-J.Hughes).'>56.35</number><number>0.18</number>
+<number shadow='shadow1' tooltip='2:57 2-8-50BUF 20 MIA 21 LI: 317-R.Tannehill sacked at MIA 44 for -6 yards(94-M.Williams)FUMBLES (94-M.Williams) RECOVERED by BUF-95-K.Williams at MIA 3495-K.Williams to MIA 34 for no gain (51-M.Pouncey).'>57.05</number><number>0.67</number>
+<number shadow='shadow1' tooltip='2:48 1-10-MIA 34BUF 20 MIA 21 LI: 5.222-F.Jackson up the middle to MIA 33 for 1 yard(30-C.Clemons).'>57.2</number><number>0.61</number>
+<number shadow='shadow1' tooltip='2:42 2-9-MIA 33BUF 20 MIA 21 LI: 4.722-F.Jackson right guard to MIA 28 for 5 yards(96-P.Soliai).'>57.3</number><number>0.62</number>
+<number shadow='shadow1' tooltip='2:37 3-4-MIA 28BUF 20 MIA 21 LI: 4.822-F.Jackson right tackle to MIA 18 for 10 yards(21-B.Grimes).'>57.38</number><number>0.8</number>
+<number shadow='shadow1' tooltip='2:26 1-10-MIA 18BUF 20 MIA 21 LI: 6.820-T.Choice right tackle to MIA 13 for 5 yards(55-K.Misi).'>57.57</number><number>0.81</number>
+<number shadow='shadow1' tooltip='2:00 2-5-MIA 13BUF 20 MIA 21 LI: 7.220-T.Choice left guard to MIA 11 for 2 yards(79-D.Shelby).'>58</number><number>0.84</number>
+<number shadow='shadow1' tooltip='1:19 3-3-MIA 11BUF 20 MIA 21 LI: 820-T.Choice left tackle to MIA 13 for -2 yards(52-P.Wheeler).'>58.68</number><number>0.8</number>
+<number shadow='shadow1' tooltip='0:36 4-5-MIA 13BUF 20 MIA 21 LI: 7.9(Field Goal formation) 2-D.Carpenter 31 yard field goal is GOOD Center-65-G.Sanborn Holder-8-B.Moorman.'>59.4</number><number>0.86</number>
+<number shadow='shadow1' tooltip='0:36 BUF 23 MIA 21 LI: 2-D.Carpenter kicks 63 yards from BUF 35 to MIA 234-M.Thigpen ran ob at MIA 46 for 44 yards.'>59.49</number><number>0.91</number>
+<number shadow='shadow1' tooltip='0:23 1-10-MIA 46BUF 23 MIA 21 LI: 0.8(Shotgun) 17-R.Tannehill pass incomplete short right to 11-M.Wallace (21-L.McKelvin).'>59.62</number><number>0.96</number>
+<number shadow='shadow1' tooltip='0:19 2-10-MIA 46BUF 23 MIA 21 LI: 0.3(Shotgun) 17-R.Tannehill pass incomplete deep left to 82-B.Hartline.'>59.68</number><number>0.94</number>
+<number shadow='shadow1' tooltip='0:13 3-10-MIA 46BUF 23 MIA 21 LI: 0.5(Shotgun) 17-R.Tannehill pass incomplete deep left to 82-B.Hartline.'>59.78</number><number>0.99</number>
+<number shadow='shadow1' tooltip='0:06 4-10-MIA 46BUF 23 MIA 21 LI: 0.1(Shotgun) 17-R.Tannehill pass incomplete deep right to 10-B.Gibson (24-S.Gilmore) [94-M.Williams].'>59.9</number><number>1</number>
+<number>60</number><number>1</number>
+</row> </chart_data>
+       <draw>
+
+
+
+      <image x='45' y='298'  url='nfllogos/42x50png/BUF.gif'  layer='foreground' glow = 'glow1'/>
+      <image x='45' y='350'  url='nfllogos/42x50png/MIA.gif'     layer='foreground' glow = 'glow1'/>
+
+
+      <rect x='130' y='300' width='250' height='40' fill_color='004b86' bevel='bevel1' />
+      <text x='135' y='300' width='250' height='40' h_align='left' v_align='middle' color='ffffff' shadow='shadow2' glow='winnerglow'>Buffalo Bills</text>
+
+      <rect x='130' y='350' width='250' height='40' fill_color='006c76' bevel='bevel1'  />
+      <text x='135' y='350' width='250' height='40' h_align='left' v_align='middle' color='ffffff' shadow='shadow2' glow=''>Miami Dolphins</text>
+
+      <rect x='420' y='300' width='60' height='40' fill_color='004b86' bevel='bevel1'  />
+      <text x='420' y='300' width='60' height='40' h_align='center' v_align='middle' color='ffffff' shadow='shadow2' transition='none' glow='winnerglow'>23</text>
+
+      <rect x='420' y='350' width='60' height='40' fill_color='006c76' bevel='bevel1' />
+      <text x='420' y='350' width='60' height='40' h_align='center' v_align='middle' color='ffffff' shadow='shadow2' transition='none' glow=''>21</text>
+
+      <text x='-3' y='12'  width='60' height='40' h_align='center' v_align='middle' size='13' shadow='shadow2'>BUFWin </text>
+      <text x='-3' y='218' width='60' height='40' h_align='center' v_align='middle' size='13' shadow='shadow2'>MIAWin </text>
+
+     
+              <rect x='540' y='300' width='100' height='35' fill_color='000000' fill_alpha='50'/>
+              <text x='540' y='300' width='100' height='35' h_align='center' v_align='middle' color='ffffff' size='15' shadow='shadow2' >Final</text>
+
+              <text x='540' y='340' width='40' h_align='center' color='000000' size='12' shadow='shadow2'>CBF</text>
+              <text x='600' y='340' width='40' h_align='center' color='000000' size='12' shadow='shadow2'>EI</text>
+
+              <rect x='540' y='360' width='40' height='30' fill_color='000000' fill_alpha='50' />
+              <text x='540' y='360' width='40' height='30' size='12' h_align='center' v_align='middle' color='FFFFFF' shadow='shadow2'>6</text>
+
+              <rect x='600' y='360' width='40' height='30' fill_color='000000' fill_alpha='50' />
+              <text x='600' y='360' width='40' height='30' size='12' h_align='center' v_align='middle' color='FFFFFF' shadow='shadow2'>5.1</text>
+
+              <text x='20' y='420' width='70' height='25' size='12' h_align='left' v_align='middle' color='000000' >10/20/2013</text>
+              <text x='100' y='420' width='200' height='25' size='12' h_align='left' v_align='middle' color='000000' >Sun Life Stadium</text>
+
+   </draw></chart>

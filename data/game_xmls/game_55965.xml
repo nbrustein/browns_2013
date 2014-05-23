@@ -1,0 +1,305 @@
+
+<chart>
+   <license>ETAS9P33ESHO.945CWK-2XOI1X0-7L</license>
+   <chart_type>scatter</chart_type>
+   <chart_pref trend_thickness='0' line_thickness='3' point_size='0'/>
+
+   <series_color>
+      <color>ffff00</color>
+   </series_color>
+
+   <chart_rect x='45' y='20' width='630' height='230' positive_color='cacaca'  />
+
+  <chart_border top_thickness='0'
+                 bottom_thickness='0'
+                 left_thickness='0'
+                 right_thickness='0'
+                 color='000000'
+                 />
+
+   <tooltip font='Arial' bold='true' size='11' />
+
+   <chart_note type='flag'
+               color='000000'
+               alpha='90'
+               bold='FALSE'
+               size='10'
+               background_color='ffffe0'
+               background_alpha='50'
+               shadow='shadow2'
+               />
+
+   <chart_grid_h thickness='2' color='ffffff' type='dashed'  />
+   <chart_grid_v thickness='2' color='ffffff'   />
+		>
+
+   <legend layout='hide' />
+
+   <chart_guide horizontal='TRUE'
+             vertical='TRUE'
+             thickness='1'
+             color='006400'
+             alpha='100'
+             type='solid'
+             snap_h='TRUE'
+             snap_v='TRUE'
+             radius='3'
+             fill_color='006400'
+             fill_alpha='100'
+             line_color='006400'
+             line_alpha='80'
+             line_thickness='1'
+             text_h_alpha='50'
+             text_v_alpha='00'
+             suffix_h=' WP'
+             decimals='2'
+             bold='FALSE'
+             size='11'
+             text_color='FFFFFF'
+             background_color='006400'
+             />
+   <filter>
+      <shadow id='shadow1' distance='2' angle='60' blurX='5' blurY='5' alpha='50' />
+      <bevel id='bevel1' angle='45' blurX='5' blurY='5' distance='0' />
+      <glow id='glow1' color='ffffff' alpha='0' blurX='7' blurY='7' strength='6' quality='2' inner='FALSE' knockout='FALSE' />
+      <glow id='winnerglow' color='ffffff' alpha='0' blurX='7' blurY='7' strength='5' quality='2' inner='FALSE' knockout='FALSE' />
+   </filter>
+
+    <axis_value_label>
+         <string></string>
+          <string> </string>
+          <null/>
+          <string> </string>
+          <string></string>
+
+       </axis_value_label>
+		
+	   <axis_ticks category_ticks='false'/>
+
+       <axis_value min='0' max='1' steps='4'  decimals='2' show_min='true' size='13' shadow='shadow2' />            
+        <axis_category
+               min='0'
+               max='75'
+               steps='5'
+               mode='trim'
+               decimals='0'
+               size='13'
+               shadow='shadow2'
+               />
+
+       <axis_category_label>
+          <string>Kickoff</string>
+          <string></string>
+          <string>Halftime</string>
+          <string></string>
+          <string>Regulation</string>
+          <string>OT</string>
+       </axis_category_label>
+
+
+         <chart_data>
+       <row>
+	      <null/><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number>
+              <number>x</number><number>y</number>
+              </row><row><string></string>
+
+                     <number shadow='shadow1'>0</number><number>.5</number><number shadow='shadow1' tooltip='15:00 TB 0 SEA 0 LI: 9-M.Koenen kicks 65 yards from TB 35 to end zone Touchback.'>0.09</number><number>0.48</number>
+<number shadow='shadow1' tooltip='14:26 2-5-SEA 25TB 0 SEA 0 LI: 1.424-M.Lynch right end pushed ob at SEA 38 for 13 yards(23-M.Barron).'>0.57</number><number>0.45</number>
+<number shadow='shadow1' tooltip='13:55 1-10-SEA 38TB 0 SEA 0 LI: 1.53-R.Wilson pass short middle to 24-M.Lynch to SEA 38 for no gain (94-A.Clayborn) [93-G.McCoy].'>1.08</number><number>0.48</number>
+<number shadow='shadow1' tooltip='13:18 2-10-SEA 38TB 0 SEA 0 LI: 1.224-M.Lynch left tackle to TB 48 for 14 yards(23-M.Barron; 37-K.Tandy).'>1.7</number><number>0.43</number>
+<number shadow='shadow1' tooltip='12:39 1-10-TB 48TB 0 SEA 0 LI: 1.3(Shotgun) 3-R.Wilson pass incomplete short right to 86-Z.Miller.'>2.35</number><number>0.45</number>
+<number shadow='shadow1' tooltip='12:35 2-10-TB 48TB 0 SEA 0 LI: 1.13-R.Wilson scrambles right end pushed ob at TB 47 for 1 yard(54-L.David).'>2.42</number><number>0.47</number>
+<number shadow='shadow1' tooltip='12:02 3-9-TB 47TB 0 SEA 0 LI: 0.9(Shotgun) 3-R.Wilson pass short middle to 86-Z.Miller to TB 37 for 10 yards(23-M.Barron).'>2.97</number><number>0.4</number>
+<number shadow='shadow1' tooltip='11:25 1-10-TB 37TB 0 SEA 0 LI: 1.524-M.Lynch left end to TB 26 for 11 yards(23-M.Barron).'>3.58</number><number>0.37</number>
+<number shadow='shadow1' tooltip='10:44 1-10-TB 26TB 0 SEA 0 LI: 1.6(Shotgun) 22-R.Turbin right guard to TB 23 for 3 yards(54-L.David; 50-D.Teo-Nesheim).'>4.27</number><number>0.37</number>
+<number shadow='shadow1' tooltip='10:05 2-7-TB 23TB 0 SEA 0 LI: 1.53-R.Wilson pass short right to 89-D.Baldwin to TB 21 for 2 yards(59-M.Foster; 27-J.Banks).'>4.92</number><number>0.39</number>
+<number shadow='shadow1' tooltip='9:26 3-5-TB 21TB 0 SEA 0 LI: 1.3(Shotgun) 3-R.Wilson pass short left intended for 86-Z.Miller INTERCEPTED by 23-M.Barron at TB 1123-M.Barron to TB 14 for 3 yards(15-J.Kearse).'>5.57</number><number>0.5</number>
+<number shadow='shadow1' tooltip='9:19 1-10-TB 14TB 0 SEA 0 LI: 1.725-M.James left tackle to TB 19 for 5 yards(99-T.McDaniel; 29-E.Thomas).'>5.68</number><number>0.5</number>
+<number shadow='shadow1' tooltip='8:39 2-5-TB 19TB 0 SEA 0 LI: 1.425-M.James right guard to TB 23 for 4 yards(54-B.Wagner; 91-C.Clemons).'>6.35</number><number>0.51</number>
+<number shadow='shadow1' tooltip='7:54 3-1-TB 23TB 0 SEA 0 LI: 1.4#72 Eligible 25-M.James up the middle to TB 25 for 2 yards(50-K.Wright).'>7.1</number><number>0.53</number>
+<number shadow='shadow1' tooltip='7:15 1-10-TB 25TB 0 SEA 0 LI: 1.6(Shotgun) 8-M.Glennon pass incomplete short middle to 83-V.JacksonPENALTY on SEA-79-R.Bryant Defensive Offside 5 yards enforced at TB 25 - No Play.'>7.75</number><number>0.54</number>
+<number shadow='shadow1' tooltip='7:09 1-5-TB 30TB 0 SEA 0 LI: 1.6#72 Eligible 8-M.Glennon pass incomplete deep left to 18-S.DawsonPENALTY on SEA-39-B.Browner Defensive Pass Interference 13 yards enforced at TB 30 - No Play.'>7.85</number><number>0.55</number>
+<number shadow='shadow1' tooltip='7:04 1-10-TB 43TB 0 SEA 0 LI: 1.325-M.James left tackle to TB 46 for 3 yards(50-K.Wright; 79-R.Bryant).'>7.93</number><number>0.55</number>
+<number shadow='shadow1' tooltip='6:26 2-7-TB 46TB 0 SEA 0 LI: 1.38-M.Glennon sacked at TB 35 for -11 yards(54-B.Wagner).'>8.57</number><number>0.49</number>
+<number shadow='shadow1' tooltip='5:45 3-18-TB 35TB 0 SEA 0 LI: 0.9(Shotgun) 8-M.Glennon pass short left to 30-B.Leonard pushed ob at TB 43 for 8 yards(29-E.Thomas).'>9.25</number><number>0.48</number>
+<number shadow='shadow1' tooltip='5:19 4-10-TB 43TB 0 SEA 0 LI: 0.69-M.Koenen punts 57 yards to end zone Center-48-A.Economos Touchback.'>9.68</number><number>0.48</number>
+<number shadow='shadow1' tooltip='5:10 1-10-SEA 20TB 0 SEA 0 LI: 1.63-R.Wilson pass incomplete short middle to 86-Z.MillerPENALTY on TB-52-J.Casillas Roughing the Passer 15 yards enforced at SEA 20 - No Play.'>9.83</number><number>0.46</number>
+<number shadow='shadow1' tooltip='5:06 1-10-SEA 35TB 0 SEA 0 LI: 1.422-R.Turbin right tackle to SEA 40 for 5 yards(97-A.Spence; 37-K.Tandy).'>9.9</number><number>0.46</number>
+<number shadow='shadow1' tooltip='4:24 2-5-SEA 40TB 0 SEA 0 LI: 1.322-R.Turbin right tackle to SEA 42 for 2 yards(54-L.David; 93-G.McCoy).'>10.6</number><number>0.47</number>
+<number shadow='shadow1' tooltip='3:46 3-3-SEA 42TB 0 SEA 0 LI: 1.2(Shotgun) 22-R.Turbin left end pushed ob at SEA 44 for 2 yards(23-M.Barron).'>11.23</number><number>0.52</number>
+<number shadow='shadow1' tooltip='3:07 4-1-SEA 44TB 0 SEA 0 LI: 0.69-J.Ryan punts 45 yards to TB 11 Center-49-C.Gresham18-S.Dawson MUFFS catch and recovers at TB 1018-S.Dawson to TB 10 for no gain (20-J.Lane).'>11.88</number><number>0.5</number>
+<number shadow='shadow1' tooltip='2:53 1-10-TB 10TB 0 SEA 0 LI: 1.725-M.James left end to TB 12 for 2 yards(54-B.Wagner).'>12.12</number><number>0.49</number>
+<number shadow='shadow1' tooltip='2:14 2-8-TB 12TB 0 SEA 0 LI: 1.68-M.Glennon pass incomplete short left to 83-V.Jackson (39-B.Browner).'>12.77</number><number>0.47</number>
+<number shadow='shadow1' tooltip='2:10 3-8-TB 12TB 0 SEA 0 LI: 1.4(Shotgun) 8-M.Glennon pass short left to 81-T.Wright to TB 26 for 14 yards(50-K.Wright).'>12.83</number><number>0.53</number>
+<number shadow='shadow1' tooltip='1:31 1-10-TB 26TB 0 SEA 0 LI: 1.6(Shotgun) Direct snap to 25-M.James 25-M.James right tackle to TB 24 for -2 yards(99-T.McDaniel)PENALTY on TB-25-M.James False Start 5 yards enforced at TB 26 - No Play.'>13.48</number><number>0.52</number>
+<number shadow='shadow1' tooltip='0:58 1-15-TB 21TB 0 SEA 0 LI: 1.625-M.James left tackle pushed ob at TB 42 for 21 yards(31-K.Chancellor).'>14.03</number><number>0.55</number>
+<number shadow='shadow1' tooltip='0:26 1-10-TB 42TB 0 SEA 0 LI: 1.430-B.Leonard left tackle to 50 for 8 yards(31-K.Chancellor).'>14.57</number><number>0.56</number>
+<number shadow='shadow1' tooltip='15:00 2-2-50TB 0 SEA 0 LI: 1.3#72 Eligible 25-M.James right guard to 50 for no gain (69-C.McDonald; 31-K.Chancellor).'>15</number><number>0.54</number>
+<number shadow='shadow1' tooltip='14:19 3-2-50TB 0 SEA 0 LI: 1.1(Shotgun) 8-M.Glennon pass short right to 83-V.Jackson to SEA 44 for 6 yards(25-R.Sherman).'>15.68</number><number>0.58</number>
+<number shadow='shadow1' tooltip='13:40 1-10-SEA 44TB 0 SEA 0 LI: 1.4(Shotgun) 8-M.Glennon pass incomplete deep left to 18-S.Dawson (29-E.Thomas)PENALTY on SEA-29-E.Thomas Defensive Pass Interference 22 yards enforced at SEA 44 - No Play.'>16.33</number><number>0.63</number>
+<number shadow='shadow1' tooltip='13:32 1-10-SEA 22TB 0 SEA 0 LI: 1.525-M.James left tackle to SEA 13 for 9 yards(29-E.Thomas 54-B.Wagner).'>16.47</number><number>0.7</number>
+<number shadow='shadow1' tooltip='12:52 2-1-SEA 13TB 0 SEA 0 LI: 225-M.James right tackle to SEA 12 for 1 yard(91-C.Clemons; 92-B.Mebane).'>17.13</number><number>0.68</number>
+<number shadow='shadow1' tooltip='11:59 1-10-SEA 12TB 0 SEA 0 LI: 1.8(Shotgun) 8-M.Glennon pass short middle to 81-T.Wright for 12 yards TOUCHDOWN.'>18.02</number><number>0.71</number>
+<number shadow='shadow1' tooltip='11:59 TB 0 SEA 0 LI: 4-R.Lindell extra point is GOOD Center-48-A.Economos Holder-9-M.Koenen.'>18.06</number><number>0.71</number>
+<number shadow='shadow1' tooltip='11:59 TB 7 SEA 0 LI: 9-M.Koenen kicks onside 11 yards from TB 35 to TB 46RECOVERED by TB-21-M.Adams.'>18.11</number><number>0.71</number>
+<number shadow='shadow1' tooltip='11:44 1-10-SEA 24TB 7 SEA 0 LI: 1.4(Shotgun) 22-R.Turbin left tackle to SEA 33 for 9 yards(23-M.Barron).'>18.27</number><number>0.71</number>
+<number shadow='shadow1' tooltip='11:09 2-1-SEA 33TB 7 SEA 0 LI: 1.224-M.Lynch left tackle to SEA 36 for 3 yards(95-G.Gibson; 24-D.Revis).'>18.85</number><number>0.7</number>
+<number shadow='shadow1' tooltip='10:33 1-10-SEA 36TB 7 SEA 0 LI: 1.2(Shotgun) 3-R.Wilson pass incomplete short right to 89-D.Baldwin (23-M.Barron).'>19.45</number><number>0.71</number>
+<number shadow='shadow1' tooltip='10:27 2-10-SEA 36TB 7 SEA 0 LI: 1.13-R.Wilson pass incomplete short left to 89-D.Baldwin (36-D.Gorrer).'>19.55</number><number>0.72</number>
+<number shadow='shadow1' tooltip='10:23 3-10-SEA 36TB 7 SEA 0 LI: 1(Shotgun) 3-R.Wilson scrambles right end to SEA 45 for 9 yards(21-M.Adams).'>19.62</number><number>0.73</number>
+<number shadow='shadow1' tooltip='9:45 4-1-SEA 45TB 7 SEA 0 LI: 0.89-J.Ryan punts 39 yards to TB 16 Center-49-C.Gresham fair catch by 17-E.Page.'>20.25</number><number>0.73</number>
+<number shadow='shadow1' tooltip='9:37 1-10-TB 16TB 7 SEA 0 LI: 125-M.James right tackle to TB 17 for 1 yard(99-T.McDaniel; 50-K.Wright).'>20.38</number><number>0.73</number>
+<number shadow='shadow1' tooltip='8:57 2-9-TB 17TB 7 SEA 0 LI: 0.925-M.James right tackle to TB 25 for 8 yards(31-K.Chancellor).'>21.05</number><number>0.75</number>
+<number shadow='shadow1' tooltip='8:17 3-1-TB 25TB 7 SEA 0 LI: 1#72 Eligible8-M.Glennon pass short right to 41-E.Lorig ran ob at TB 32 for 7 yards.'>21.72</number><number>0.76</number>
+<number shadow='shadow1' tooltip='7:50 1-10-TB 32TB 7 SEA 0 LI: 125-M.James up the middle to TB 43 for 11 yards(31-K.Chancellor; 25-R.Sherman).'>22.17</number><number>0.78</number>
+<number shadow='shadow1' tooltip='7:18 1-10-TB 43TB 7 SEA 0 LI: 1.130-B.Leonard left end to TB 44 for 1 yard(50-K.Wright).'>22.7</number><number>0.77</number>
+<number shadow='shadow1' tooltip='6:40 2-9-TB 44TB 7 SEA 0 LI: 0.98-M.Glennon pass short right to 41-E.Lorig to TB 46 for 2 yards(54-B.Wagner).'>23.33</number><number>0.76</number>
+<number shadow='shadow1' tooltip='5:53 3-7-TB 46TB 7 SEA 0 LI: 0.8(Shotgun) 8-M.Glennon pass short right to 11-T.Underwood to SEA 45 for 9 yards(29-E.Thomas) [51-B.Irvin].'>24.12</number><number>0.8</number>
+<number shadow='shadow1' tooltip='5:13 1-10-SEA 45TB 7 SEA 0 LI: 1.125-M.James right end to SEA 41 for 4 yards(54-B.Wagner).'>24.78</number><number>0.8</number>
+<number shadow='shadow1' tooltip='4:31 2-6-SEA 41TB 7 SEA 0 LI: 125-M.James right tackle to SEA 39 for 2 yards(97-J.Hill; 50-K.Wright).'>25.48</number><number>0.79</number>
+<number shadow='shadow1' tooltip='3:47 3-4-SEA 39TB 7 SEA 0 LI: 0.9(Shotgun) 8-M.Glennon pass short left to 30-B.Leonard to SEA 20 for 19 yards(29-E.Thomas).'>26.22</number><number>0.84</number>
+<number shadow='shadow1' tooltip='3:04 1-10-SEA 20TB 7 SEA 0 LI: 1.1(Shotgun) 8-M.Glennon pass deep left to 11-T.Underwood for 20 yards TOUCHDOWN.'>26.93</number><number>0.9</number>
+<number shadow='shadow1' tooltip='3:04 TB 7 SEA 0 LI: 4-R.Lindell extra point is GOOD Center-48-A.Economos Holder-9-M.Koenen.'>26.97</number><number>0.9</number>
+<number shadow='shadow1' tooltip='3:04 TB 14 SEA 0 LI: 9-M.Koenen kicks 63 yards from TB 35 to SEA 215-J.Kearse to SEA 32 for 30 yards(89-R.Shepard)FUMBLES (89-R.Shepard) RECOVERED by TB-9-M.Koenen at SEA 369-M.Koenen to SEA 31 for 5 yards(42-C.Maragos).'>27.02</number><number>0.93</number>
+<number shadow='shadow1' tooltip='2:46 1-10-SEA 31TB 14 SEA 0 LI: 0.3(Shotgun) 8-M.Glennon pass deep left to 81-T.Wright to SEA 4 for 27 yards(29-E.Thomas)PENALTY on SEA-29-E.Thomas Unnecessary Roughness 2 yards enforced at SEA 4.'>27.23</number><number>0.95</number>
+<number shadow='shadow1' tooltip='2:23 1-2-SEA 2TB 14 SEA 0 LI: 0.4#72 Eligible25-M.James pass short middle to 84-T.Crabtree for 2 yards TOUCHDOWN.'>27.62</number><number>0.96</number>
+<number shadow='shadow1' tooltip='2:23 TB 14 SEA 0 LI: 4-R.Lindell extra point is GOOD Center-48-A.Economos Holder-9-M.Koenen.'>27.66</number><number>0.96</number>
+<number shadow='shadow1' tooltip='2:23 TB 21 SEA 0 LI: 9-M.Koenen kicks 65 yards from TB 35 to end zone Touchback.'>27.71</number><number>0.96</number>
+<number shadow='shadow1' tooltip='2:16 1-10-SEA 20TB 21 SEA 0 LI: 0.224-M.Lynch left tackle to SEA 24 for 4 yards(93-G.McCoy; 91-D.Bowers).'>27.73</number><number>0.95</number>
+<number shadow='shadow1' tooltip='2:00 2-6-SEA 24TB 21 SEA 0 LI: 0.23-R.Wilson scrambles up the middle ran ob at SEA 40 for 16 yardsPENALTY on TB-93-G.McCoy Unnecessary Roughness 15 yards enforced at SEA 40.'>28</number><number>0.94</number>
+<number shadow='shadow1' tooltip='1:50 1-10-TB 45TB 21 SEA 0 LI: 0.2(Shotgun) 3-R.Wilson pass incomplete deep left to 89-D.BaldwinPENALTY on TB-21-M.Adams Defensive Pass Interference 29 yards enforced at TB 45 - No Play.'>28.17</number><number>0.92</number>
+<number shadow='shadow1' tooltip='1:45 1-10-TB 16TB 21 SEA 0 LI: 0.2(Shotgun) 3-R.Wilson pass short middle to 15-J.Kearse for 16 yards TOUCHDOWN [93-G.McCoy]SEA-73-M.Bowie was injured during the playPENALTY on TB-93-G.McCoy Roughing the Passer 15 yards enforced between downs.'>28.25</number><number>0.9</number>
+<number shadow='shadow1' tooltip='1:45 TB 21 SEA 0 LI: 4-S.Hauschka extra point is GOOD Center-49-C.Gresham Holder-9-J.Ryan.'>28.29</number><number>0.9</number>
+<number shadow='shadow1' tooltip='1:45 TB 21 SEA 7 LI: 4-S.Hauschka kicks 37 yards from 50 to TB 13 fair catch by 17-E.Page.'>28.34</number><number>0.9</number>
+<number shadow='shadow1' tooltip='1:34 2-6-TB 17TB 21 SEA 7 LI: 0.625-M.James right tackle to TB 19 for 2 yards(99-T.McDaniel).'>28.43</number><number>0.9</number>
+<number shadow='shadow1' tooltip='1:28 3-4-TB 19TB 21 SEA 7 LI: 0.6(Shotgun) 30-B.Leonard up the middle to TB 24 for 5 yards(50-K.Wright; 56-C.Avril).'>28.53</number><number>0.9</number>
+<number shadow='shadow1' tooltip='0:48 1-10-TB 24TB 21 SEA 7 LI: 0.525-M.James right tackle to TB 27 for 3 yards(51-B.Irvin).'>29.2</number><number>0.9</number>
+<number shadow='shadow1' tooltip='0:02 2-7-TB 27TB 21 SEA 7 LI: 0.48-M.Glennon kneels to TB 25 for -2 yards.'>29.97</number><number>0.9</number>
+<number shadow='shadow1' tooltip='0:02 TB 21 SEA 7 LI: 4-S.Hauschka kicks 65 yards from SEA 35 to end zone Touchback.'>30.06</number><number>0.9</number>
+<number shadow='shadow1' tooltip='14:23 2-1-TB 29TB 21 SEA 7 LI: 0.425-M.James right tackle to TB 32 for 3 yards(50-K.Wright).'>30.62</number><number>0.89</number>
+<number shadow='shadow1' tooltip='13:44 1-10-TB 32TB 21 SEA 7 LI: 0.3#72 Eligible8-M.Glennon pass incomplete deep middle to 83-V.Jackson [25-R.Sherman].'>31.27</number><number>0.91</number>
+<number shadow='shadow1' tooltip='13:39 2-10-TB 32TB 21 SEA 7 LI: 0.525-M.James left guard to TB 38 for 6 yards(50-K.Wright; 29-E.Thomas).'>31.35</number><number>0.91</number>
+<number shadow='shadow1' tooltip='12:55 3-4-TB 38TB 21 SEA 7 LI: 0.4(Shotgun) 8-M.Glennon pass short middle to 30-B.Leonard to SEA 49 for 13 yards(54-B.Wagner; 29-E.Thomas).'>32.08</number><number>0.91</number>
+<number shadow='shadow1' tooltip='12:13 1-10-SEA 49TB 21 SEA 7 LI: 0.318-S.Dawson right end to SEA 35 for 14 yards(56-C.Avril).'>32.78</number><number>0.93</number>
+<number shadow='shadow1' tooltip='11:31 1-10-SEA 35TB 21 SEA 7 LI: 0.325-M.James up the middle to SEA 17 for 18 yards(25-R.Sherman).'>33.48</number><number>0.95</number>
+<number shadow='shadow1' tooltip='10:47 1-10-SEA 17TB 21 SEA 7 LI: 0.3(Shotgun) 8-M.Glennon pass incomplete short left.'>34.22</number><number>0.95</number>
+<number shadow='shadow1' tooltip='10:40 2-10-SEA 17TB 21 SEA 7 LI: 0.325-M.James up the middle to SEA 15 for 2 yards(69-C.McDonald; 92-B.Mebane).'>34.33</number><number>0.95</number>
+<number shadow='shadow1' tooltip='10:02 3-8-SEA 15TB 21 SEA 7 LI: 0.2(Shotgun) 8-M.Glennon pass incomplete short right to 11-T.Underwood.'>34.97</number><number>0.93</number>
+<number shadow='shadow1' tooltip='9:53 4-8-SEA 15TB 21 SEA 7 LI: 0.14-R.Lindell 33 yard field goal is GOOD Center-48-A.Economos Holder-9-M.Koenen.'>35.12</number><number>0.93</number>
+<number shadow='shadow1' tooltip='9:53 TB 24 SEA 7 LI: 9-M.Koenen kicks 55 yards from TB 35 to SEA 1015-J.Kearse to SEA 14 for 4 yards(46-S.Larsen).'>35.21</number><number>0.93</number>
+<number shadow='shadow1' tooltip='9:43 1-10-SEA 14TB 24 SEA 7 LI: 0.43-R.Wilson pass short right to 81-G.Tate to SEA 16 for 2 yards(54-L.David; 59-M.Foster).'>35.28</number><number>0.94</number>
+<number shadow='shadow1' tooltip='9:05 2-8-SEA 16TB 24 SEA 7 LI: 0.4(Shotgun) 3-R.Wilson pass deep right to 86-Z.Miller to SEA 33 for 17 yards(59-M.Foster).'>35.92</number><number>0.93</number>
+<number shadow='shadow1' tooltip='8:19 1-10-SEA 33TB 24 SEA 7 LI: 0.424-M.Lynch left tackle to SEA 46 for 13 yards(54-L.David).'>36.68</number><number>0.93</number>
+<number shadow='shadow1' tooltip='7:42 1-10-SEA 46TB 24 SEA 7 LI: 0.424-M.Lynch left tackle pushed ob at SEA 48 for 2 yards(23-M.Barron)PENALTY on SEA-86-Z.Miller Offensive Holding 10 yards enforced at SEA 48.'>37.3</number><number>0.93</number>
+<number shadow='shadow1' tooltip='7:22 1-18-SEA 38TB 24 SEA 7 LI: 0.4(Shotgun) 22-R.Turbin up the middle to 50 for 12 yards(59-M.Foster).'>37.63</number><number>0.94</number>
+<number shadow='shadow1' tooltip='6:46 2-6-50TB 24 SEA 7 LI: 0.3(Shotgun) 3-R.Wilson pass short right to 24-M.Lynch to TB 48 for 2 yards(54-L.David).'>38.23</number><number>0.95</number>
+<number shadow='shadow1' tooltip='6:06 3-4-TB 48TB 24 SEA 7 LI: 0.2(Shotgun) 3-R.Wilson pass short middle to 81-G.Tate to TB 29 for 19 yards(23-M.Barron).'>38.9</number><number>0.93</number>
+<number shadow='shadow1' tooltip='5:20 1-10-TB 29TB 24 SEA 7 LI: 0.43-R.Wilson pass deep left to 89-D.Baldwin ran ob at TB 10 for 19 yards.'>39.67</number><number>0.88</number>
+<number shadow='shadow1' tooltip='5:06 1-10-TB 10TB 24 SEA 7 LI: 1(No Huddle Shotgun) 3-R.Wilson right end for 10 yards TOUCHDOWN.'>39.9</number><number>0.85</number>
+<number shadow='shadow1' tooltip='5:06 TB 24 SEA 7 LI: 4-S.Hauschka extra point is GOOD Center-49-C.Gresham Holder-9-J.Ryan.'>39.94</number><number>0.85</number>
+<number shadow='shadow1' tooltip='5:06 TB 24 SEA 14 LI: 4-S.Hauschka kicks 65 yards from SEA 35 to end zone Touchback.'>39.99</number><number>0.84</number>
+<number shadow='shadow1' tooltip='5:00 1-10-TB 20TB 24 SEA 14 LI: 1.125-M.James right tackle to TB 23 for 3 yards(54-B.Wagner 99-T.McDaniel).'>40</number><number>0.85</number>
+<number shadow='shadow1' tooltip='4:22 2-7-TB 23TB 24 SEA 14 LI: 1.125-M.James left tackle to TB 40 for 17 yards(31-K.Chancellor).'>40.63</number><number>0.88</number>
+<number shadow='shadow1' tooltip='3:42 1-10-TB 40TB 24 SEA 14 LI: 1.125-M.James left tackle to TB 44 for 4 yards(54-B.Wagner; 29-E.Thomas)PENALTY on TB-84-T.Crabtree Offensive Holding 10 yards enforced at TB 40 - No Play.'>41.3</number><number>0.87</number>
+<number shadow='shadow1' tooltip='3:13 1-20-TB 30TB 24 SEA 14 LI: 1.230-B.Leonard right guard to TB 32 for 2 yards(99-T.McDaniel; 72-M.Bennett).'>41.78</number><number>0.85</number>
+<number shadow='shadow1' tooltip='2:34 2-18-TB 32TB 24 SEA 14 LI: 0.930-B.Leonard left tackle to TB 36 for 4 yards(79-R.Bryant; 99-T.McDaniel).'>42.43</number><number>0.85</number>
+<number shadow='shadow1' tooltip='2:02 3-14-TB 36TB 24 SEA 14 LI: 0.8(Shotgun) 8-M.Glennon pass short left to 30-B.Leonard to TB 44 for 8 yards(56-C.Avril).'>42.97</number><number>0.85</number>
+<number shadow='shadow1' tooltip='1:19 4-6-TB 44TB 24 SEA 14 LI: 0.69-M.Koenen punts 52 yards to SEA 4 Center-48-A.Economos81-G.Tate ran ob at TB 25 for 71 yards.'>43.68</number><number>0.76</number>
+<number shadow='shadow1' tooltip='0:58 1-10-TB 25TB 24 SEA 14 LI: 1.1(Shotgun) 24-M.Lynch left guard to TB 23 for 2 yards(54-L.David).'>44.03</number><number>0.76</number>
+<number shadow='shadow1' tooltip='0:12 2-8-TB 23TB 24 SEA 14 LI: 1.2(Shotgun) 3-R.Wilson pass short right to 83-R.Lockette to TB 18 for 5 yards(37-K.Tandy)Tampa Bay challenged the pass completion ruling and the play was Upheld(Timeout #1.)'>44.8</number><number>0.76</number>
+<number shadow='shadow1' tooltip='15:00 3-3-TB 18TB 24 SEA 14 LI: 1.2(Shotgun) 3-R.Wilson pass incomplete short left to 89-D.Baldwin.'>45</number><number>0.82</number>
+<number shadow='shadow1' tooltip='14:51 4-3-TB 18TB 24 SEA 14 LI: 0.64-S.Hauschka 36 yard field goal is GOOD Center-49-C.Gresham Holder-9-J.Ryan.'>45.15</number><number>0.82</number>
+<number shadow='shadow1' tooltip='14:51 TB 24 SEA 17 LI: 4-S.Hauschka kicks 66 yards from SEA 35 to TB -117-E.Page to TB 17 for 18 yards(15-J.Kearse; 42-C.Maragos).'>45.24</number><number>0.8</number>
+<number shadow='shadow1' tooltip='14:39 1-10-TB 17TB 24 SEA 17 LI: 1.58-M.Glennon pass short left to 41-E.Lorig pushed ob at TB 22 for 5 yards(51-B.Irvin).'>45.35</number><number>0.82</number>
+<number shadow='shadow1' tooltip='14:13 2-5-TB 22TB 24 SEA 17 LI: 1.525-M.James right tackle to TB 33 for 11 yards(29-E.Thomas).'>45.78</number><number>0.84</number>
+<number shadow='shadow1' tooltip='13:34 1-10-TB 33TB 24 SEA 17 LI: 1.48-M.Glennon pass short left to 25-M.James to TB 38 for 5 yards(50-K.Wright).'>46.43</number><number>0.85</number>
+<number shadow='shadow1' tooltip='13:00 2-5-TB 38TB 24 SEA 17 LI: 1.425-M.James left end to TB 40 for 2 yards(54-B.Wagner).'>47</number><number>0.85</number>
+<number shadow='shadow1' tooltip='12:16 3-3-TB 40TB 24 SEA 17 LI: 1.3(Shotgun) 8-M.Glennon sacked at TB 33 for -7 yards(72-M.Bennett).'>47.73</number><number>0.81</number>
+<number shadow='shadow1' tooltip='11:45 4-10-TB 33TB 24 SEA 17 LI: 1.19-M.Koenen punts 42 yards to SEA 25 Center-48-A.Economos out of bounds.'>48.25</number><number>0.82</number>
+<number shadow='shadow1' tooltip='11:37 1-10-SEA 25TB 24 SEA 17 LI: 0.9(Shotgun) 3-R.Wilson pass short left to 89-D.Baldwin pushed ob at TB 47 for 28 yards(24-D.Revis) [94-A.Clayborn].'>48.38</number><number>0.74</number>
+<number shadow='shadow1' tooltip='11:21 1-10-TB 47TB 24 SEA 17 LI: 1.324-M.Lynch right end to TB 49 for -2 yards(97-A.Spence 92-W.Gholston).'>48.65</number><number>0.78</number>
+<number shadow='shadow1' tooltip='10:41 2-12-TB 49TB 24 SEA 17 LI: 1.13-R.Wilson pass short middle to 24-M.Lynch to TB 40 for 9 yards(56-D.Watson; 54-L.David).'>49.32</number><number>0.76</number>
+<number shadow='shadow1' tooltip='10:01 3-3-TB 40TB 24 SEA 17 LI: 1.2(Shotgun) 3-R.Wilson pass short right to 89-D.Baldwin to TB 34 for 6 yards(24-D.Revis).'>49.98</number><number>0.7</number>
+<number shadow='shadow1' tooltip='9:26 1-10-TB 34TB 24 SEA 17 LI: 1.722-R.Turbin right tackle to TB 30 for 4 yards(23-M.Barron 90-D.Landri).'>50.57</number><number>0.73</number>
+<number shadow='shadow1' tooltip='8:49 2-6-TB 30TB 24 SEA 17 LI: 1.43-R.Wilson pass incomplete short middle to 24-M.Lynch [95-G.Gibson].'>51.18</number><number>0.75</number>
+<number shadow='shadow1' tooltip='8:44 3-6-TB 30TB 24 SEA 17 LI: 1.2(Shotgun) 3-R.Wilson pass deep left to 15-J.Kearse to TB 3 for 27 yards(21-M.Adams).'>51.27</number><number>0.59</number>
+<number shadow='shadow1' tooltip='7:59 1-3-TB 3TB 24 SEA 17 LI: 2.73-R.Wilson pass short middle intended for 89-D.Baldwin INTERCEPTED by 37-K.Tandy at TB 037-K.Tandy to TB 6 for 6 yards(86-Z.Miller; 64-J.Sweezy)PENALTY on SEA-3-R.Wilson Face Mask (15 Yards) 15 yards enforced at TB 6.'>52.02</number><number>0.87</number>
+<number shadow='shadow1' tooltip='7:51 1-10-TB 21TB 24 SEA 17 LI: 1.925-M.James left tackle to TB 24 for 3 yards(72-M.Bennett; 54-B.Wagner).'>52.15</number><number>0.88</number>
+<number shadow='shadow1' tooltip='7:10 2-7-TB 24TB 24 SEA 17 LI: 1.9(Shotgun) 8-M.Glennon pass short middle to 83-V.Jackson to TB 29 for 5 yards(39-B.Browner).'>52.83</number><number>0.88</number>
+<number shadow='shadow1' tooltip='6:27 3-2-TB 29TB 24 SEA 17 LI: 1.7(Shotgun) 8-M.Glennon pass incomplete short left.'>53.55</number><number>0.84</number>
+<number shadow='shadow1' tooltip='6:19 4-2-TB 29TB 24 SEA 17 LI: 1.39-M.Koenen punts 30 yards to SEA 41 Center-48-A.Economos out of bounds.'>53.68</number><number>0.81</number>
+<number shadow='shadow1' tooltip='6:13 1-10-SEA 41TB 24 SEA 17 LI: 1.4(Shotgun) 24-M.Lynch left guard to SEA 44 for 3 yards(29-L.Johnson).'>53.78</number><number>0.85</number>
+<number shadow='shadow1' tooltip='5:42 2-7-SEA 44TB 24 SEA 17 LI: 1.124-M.Lynch right tackle to SEA 48 for 4 yards(93-G.McCoy 52-J.Casillas).'>54.3</number><number>0.86</number>
+<number shadow='shadow1' tooltip='5:09 3-3-SEA 48TB 24 SEA 17 LI: 1(Shotgun) 24-M.Lynch left tackle to TB 48 for 4 yards(54-L.David; 90-D.Landri).'>54.85</number><number>0.79</number>
+<number shadow='shadow1' tooltip='4:28 1-10-TB 48TB 24 SEA 17 LI: 1.63-R.Wilson pass deep right to 86-Z.Miller to TB 26 for 22 yards(37-K.Tandy) [94-A.Clayborn].'>55.53</number><number>0.76</number>
+<number shadow='shadow1' tooltip='3:52 1-10-TB 26TB 24 SEA 17 LI: 1.8(Shotgun) 22-R.Turbin up the middle to TB 26 for no gain (23-M.Barron).'>56.13</number><number>0.81</number>
+<number shadow='shadow1' tooltip='3:19 2-10-TB 26TB 24 SEA 17 LI: 1.5(Shotgun) 3-R.Wilson pass short right to 81-G.Tate to TB 18 for 8 yards(90-D.Landri) [50-D.Teo-Nesheim].'>56.68</number><number>0.79</number>
+<number shadow='shadow1' tooltip='2:35 3-2-TB 18TB 24 SEA 17 LI: 1.9(Shotgun) 24-M.Lynch right end pushed ob at TB 15 for 3 yards(92-W.Gholston).'>57.42</number><number>0.74</number>
+<number shadow='shadow1' tooltip='2:29 1-10-TB 15TB 24 SEA 17 LI: 2.4(Shotgun) 3-R.Wilson right tackle to TB 12 for 3 yards(54-L.David).'>57.52</number><number>0.73</number>
+<number shadow='shadow1' tooltip='2:01 2-7-TB 12TB 24 SEA 17 LI: 2.6(Shotgun) 24-M.Lynch right tackle to TB 10 for 2 yards(93-G.McCoy; 57-A.Hayward)TB-93-G.McCoy was injured during the play.'>57.98</number><number>0.79</number>
+<number shadow='shadow1' tooltip='1:56 3-5-TB 10TB 24 SEA 17 LI: 2(Shotgun) 3-R.Wilson pass short right to 89-D.Baldwin for 10 yards TOUCHDOWN.'>58.07</number><number>0.66</number>
+<number shadow='shadow1' tooltip='1:56 TB 24 SEA 17 LI: 4-S.Hauschka extra point is GOOD Center-49-C.Gresham Holder-9-J.Ryan.'>58.11</number><number>0.66</number>
+<number shadow='shadow1' tooltip='1:56 TB 24 SEA 24 LI: 4-S.Hauschka kicks 62 yards from SEA 35 to TB 317-E.Page to TB 28 for 25 yards(57-M.Morgan; 41-B.Maxwell).'>58.16</number><number>0.66</number>
+<number shadow='shadow1' tooltip='1:45 1-10-TB 28TB 24 SEA 24 LI: 5(Shotgun) 8-M.Glennon pass short left to 81-T.Wright to TB 33 for 5 yards(50-K.Wright).'>58.25</number><number>0.59</number>
+<number shadow='shadow1' tooltip='1:23 2-5-TB 33TB 24 SEA 24 LI: 4.4(No Huddle Shotgun) 8-M.Glennon scrambles up the middle to TB 43 for 10 yards(28-W.Thurmond).'>58.62</number><number>0.67</number>
+<number shadow='shadow1' tooltip='0:56 1-10-TB 43TB 24 SEA 24 LI: 4.5(No Huddle Shotgun) 8-M.Glennon pass incomplete short left.'>59.07</number><number>0.59</number>
+<number shadow='shadow1' tooltip='0:50 2-10-TB 43TB 24 SEA 24 LI: 3.7(Shotgun) 8-M.Glennon pass short right to 25-M.James pushed ob at TB 46 for 3 yards(29-E.Thomas).'>59.17</number><number>0.6</number>
+<number shadow='shadow1' tooltip='0:44 3-7-TB 46TB 24 SEA 24 LI: 3.5(Shotgun) 8-M.Glennon scrambles left end to 50 for 4 yards(29-E.Thomas; 51-B.Irvin).'>59.27</number><number>0.48</number>
+<number shadow='shadow1' tooltip='0:25 4-3-50TB 24 SEA 24 LI: 1.6#72 Eligible(Run formation) PENALTY on TB-8-M.Glennon Delay of Game 5 yards enforced at 50 - No Play.'>59.58</number><number>0.48</number>
+<number shadow='shadow1' tooltip='0:16 1-10-SEA 33TB 24 SEA 24 LI: 3.8(Shotgun) 3-R.Wilson pass short right to 24-M.Lynch to SEA 38 for 5 yards(93-G.McCoy; 27-J.Banks).'>59.73</number><number>0.54</number>
+<number shadow='shadow1' tooltip='0:16 TB 24 SEA 24 LI: 4-S.Hauschka kicks 65 yards from SEA 35 to end zone Touchback.'>59.82</number><number>0.47</number>
+<number shadow='shadow1' tooltip='15:00 1-10-TB 20TB 24 SEA 24 LI: 3.5(Shotgun) 8-M.Glennon scrambles right end ran ob at TB 21 for 1 yard.'>60</number><number>0.5</number>
+<number shadow='shadow1' tooltip='14:33 2-9-TB 21TB 24 SEA 24 LI: 3.725-M.James right guard to TB 23 for 2 yards(91-C.Clemons 31-K.Chancellor).'>60.45</number><number>0.47</number>
+<number shadow='shadow1' tooltip='13:51 3-7-TB 23TB 24 SEA 24 LI: 3.3(Shotgun) 8-M.Glennon sacked at TB 16 for -7 yards(sack split by 54-B.Wagner and 56-C.Avril).'>61.15</number><number>0.33</number>
+<number shadow='shadow1' tooltip='13:17 4-14-TB 16TB 24 SEA 24 LI: 2.39-M.Koenen punts 52 yards to SEA 32 Center-48-A.Economos81-G.Tate pushed ob at SEA 40 for 8 yards(52-J.Casillas).'>61.72</number><number>0.36</number>
+<number shadow='shadow1' tooltip='13:04 1-10-SEA 40TB 24 SEA 24 LI: 424-M.Lynch left tackle pushed ob at 50 for 10 yards(23-M.Barron).'>61.93</number><number>0.29</number>
+<number shadow='shadow1' tooltip='12:43 1-10-50TB 24 SEA 24 LI: 4.224-M.Lynch up the middle to TB 47 for 3 yards(90-D.Landri).'>62.28</number><number>0.29</number>
+<number shadow='shadow1' tooltip='12:05 2-7-TB 47TB 24 SEA 24 LI: 43-R.Wilson pass short left to 89-D.Baldwin to TB 37 for 10 yards(27-J.Banks).'>62.92</number><number>0.22</number>
+<number shadow='shadow1' tooltip='11:27 1-10-TB 37TB 24 SEA 24 LI: 424-M.Lynch right tackle to TB 33 for 4 yards(94-A.Clayborn 54-L.David).'>63.55</number><number>0.19</number>
+<number shadow='shadow1' tooltip='10:54 2-6-TB 33TB 24 SEA 24 LI: 424-M.Lynch left tackle to TB 33 for no gain (90-D.Landri).'>64.1</number><number>0.22</number>
+<number shadow='shadow1' tooltip='10:17 3-6-TB 33TB 24 SEA 24 LI: 3.7(Shotgun) 24-M.Lynch right tackle to TB 19 for 14 yards(29-L.Johnson; 37-K.Tandy).'>64.72</number><number>0.12</number>
+<number shadow='shadow1' tooltip='9:34 1-10-TB 19TB 24 SEA 24 LI: 3.424-M.Lynch left tackle to TB 6 for 13 yards(24-D.Revis).'>65.43</number><number>0.02</number>
+<number shadow='shadow1' tooltip='8:50 1-6-TB 6TB 24 SEA 24 LI: 2.83-R.Wilson kneels to TB 9 for -3 yards.'>66.17</number><number>0.01</number>
+<number shadow='shadow1' tooltip='8:16 2-9-TB 9TB 24 SEA 24 LI: 3.34-S.Hauschka 27 yard field goal is GOOD Center-49-C.Gresham Holder-9-J.Ryan.'>66.73</number><number>0</number>
+<number>66.73</number><number>0</number>
+</row> </chart_data>
+       <draw>
+
+
+
+      <image x='45' y='298'  url='nfllogos/42x50png/TB.gif'  layer='foreground' glow = 'glow1'/>
+      <image x='45' y='350'  url='nfllogos/42x50png/SEA.gif'     layer='foreground' glow = 'glow1'/>
+
+
+      <rect x='130' y='300' width='250' height='40' fill_color='ca2f39' bevel='bevel1' />
+      <text x='135' y='300' width='250' height='40' h_align='left' v_align='middle' color='ffffff' shadow='shadow2' glow=''>Tampa Bay Buccaneers</text>
+
+      <rect x='130' y='350' width='250' height='40' fill_color='283e67' bevel='bevel1'  />
+      <text x='135' y='350' width='250' height='40' h_align='left' v_align='middle' color='ffffff' shadow='shadow2' glow='winnerglow'>Seattle Seahawks</text>
+
+      <rect x='420' y='300' width='60' height='40' fill_color='ca2f39' bevel='bevel1'  />
+      <text x='420' y='300' width='60' height='40' h_align='center' v_align='middle' color='ffffff' shadow='shadow2' transition='none' glow=''>24</text>
+
+      <rect x='420' y='350' width='60' height='40' fill_color='283e67' bevel='bevel1' />
+      <text x='420' y='350' width='60' height='40' h_align='center' v_align='middle' color='ffffff' shadow='shadow2' transition='none' glow='winnerglow'>27</text>
+
+      <text x='-3' y='12'  width='60' height='40' h_align='center' v_align='middle' size='13' shadow='shadow2'>TBWin </text>
+      <text x='-3' y='218' width='60' height='40' h_align='center' v_align='middle' size='13' shadow='shadow2'>SEAWin </text>
+
+     
+              <rect x='540' y='300' width='100' height='35' fill_color='000000' fill_alpha='50'/>
+              <text x='540' y='300' width='100' height='35' h_align='center' v_align='middle' color='ffffff' size='15' shadow='shadow2' >Final</text>
+
+              <text x='540' y='340' width='40' h_align='center' color='000000' size='12' shadow='shadow2'>CBF</text>
+              <text x='600' y='340' width='40' h_align='center' color='000000' size='12' shadow='shadow2'>EI</text>
+
+              <rect x='540' y='360' width='40' height='30' fill_color='000000' fill_alpha='50' />
+              <text x='540' y='360' width='40' height='30' size='12' h_align='center' v_align='middle' color='FFFFFF' shadow='shadow2'>25</text>
+
+              <rect x='600' y='360' width='40' height='30' fill_color='000000' fill_alpha='50' />
+              <text x='600' y='360' width='40' height='30' size='12' h_align='center' v_align='middle' color='FFFFFF' shadow='shadow2'>4.3</text>
+
+              <text x='20' y='420' width='70' height='25' size='12' h_align='left' v_align='middle' color='000000' >11/3/2013</text>
+              <text x='100' y='420' width='200' height='25' size='12' h_align='left' v_align='middle' color='000000' >CenturyLink Field</text>
+
+   </draw></chart>

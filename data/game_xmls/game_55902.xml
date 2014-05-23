@@ -1,0 +1,302 @@
+
+<chart>
+   <license>ETAS9P33ESHO.945CWK-2XOI1X0-7L</license>
+   <chart_type>scatter</chart_type>
+   <chart_pref trend_thickness='0' line_thickness='3' point_size='0'/>
+
+   <series_color>
+      <color>ffff00</color>
+   </series_color>
+
+   <chart_rect x='45' y='20' width='630' height='230' positive_color='cacaca'  />
+
+  <chart_border top_thickness='0'
+                 bottom_thickness='0'
+                 left_thickness='0'
+                 right_thickness='0'
+                 color='000000'
+                 />
+
+   <tooltip font='Arial' bold='true' size='11' />
+
+   <chart_note type='flag'
+               color='000000'
+               alpha='90'
+               bold='FALSE'
+               size='10'
+               background_color='ffffe0'
+               background_alpha='50'
+               shadow='shadow2'
+               />
+
+   <chart_grid_h thickness='2' color='ffffff' type='dashed'  />
+   <chart_grid_v thickness='2' color='ffffff'   />
+		>
+
+   <legend layout='hide' />
+
+   <chart_guide horizontal='TRUE'
+             vertical='TRUE'
+             thickness='1'
+             color='006400'
+             alpha='100'
+             type='solid'
+             snap_h='TRUE'
+             snap_v='TRUE'
+             radius='3'
+             fill_color='006400'
+             fill_alpha='100'
+             line_color='006400'
+             line_alpha='80'
+             line_thickness='1'
+             text_h_alpha='50'
+             text_v_alpha='00'
+             suffix_h=' WP'
+             decimals='2'
+             bold='FALSE'
+             size='11'
+             text_color='FFFFFF'
+             background_color='006400'
+             />
+   <filter>
+      <shadow id='shadow1' distance='2' angle='60' blurX='5' blurY='5' alpha='50' />
+      <bevel id='bevel1' angle='45' blurX='5' blurY='5' distance='0' />
+      <glow id='glow1' color='ffffff' alpha='0' blurX='7' blurY='7' strength='6' quality='2' inner='FALSE' knockout='FALSE' />
+      <glow id='winnerglow' color='ffffff' alpha='0' blurX='7' blurY='7' strength='5' quality='2' inner='FALSE' knockout='FALSE' />
+   </filter>
+
+    <axis_value_label>
+         <string></string>
+          <string> </string>
+          <null/>
+          <string> </string>
+          <string></string>
+
+       </axis_value_label>
+		
+	   <axis_ticks category_ticks='false'/>
+
+       <axis_value min='0' max='1' steps='4'  decimals='2' show_min='true' size='13' shadow='shadow2' />     
+            <axis_category
+               min='0'
+               max='60'
+               steps='4'
+               mode='all'
+               decimals='0'
+               size='13'
+               shadow='shadow2'
+               />
+
+       <axis_category_label>
+          <string>Kickoff</string>
+          <string></string>
+          <string>Halftime</string>
+          <string></string>
+          <string>End</string>
+
+       </axis_category_label>
+
+
+        <chart_data>
+       <row>
+	      <null/><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number>
+              <number>x</number><number>y</number>
+              </row><row><string></string>
+
+                     <number shadow='shadow1'>0</number><number>.5</number><number shadow='shadow1' tooltip='15:00 NE 0 CIN 0 LI: 2-M.Nugent kicks 71 yards from CIN 35 to NE -633-L.Washington to NE 13 for 19 yards(30-C.Peerman).'>0.09</number><number>0.5</number>
+<number shadow='shadow1' tooltip='14:29 2-6-NE 17NE 0 CIN 0 LI: 1.512-T.Brady sacked at NE 9 for -8 yards(97-G.Atkins).'>0.52</number><number>0.45</number>
+<number shadow='shadow1' tooltip='13:49 3-14-NE 9NE 0 CIN 0 LI: 1.2(Shotgun) 12-T.Brady pass short left to 38-B.Bolden to NE 15 for 6 yards(55-V.Burfict).'>1.18</number><number>0.44</number>
+<number shadow='shadow1' tooltip='13:21 4-8-NE 15NE 0 CIN 0 LI: 0.96-R.Allen punts 53 yards to CIN 32 Center-48-D.Aiken24-A.Jones to CIN 35 for 3 yards(52-D.Fletcher)PENALTY on CIN-27-D.Kirkpatrick Offensive Holding 10 yards enforced at CIN 32{Jones credited with a return for 0 yards due to the penalty}'>1.65</number><number>0.48</number>
+<number shadow='shadow1' tooltip='13:07 1-10-CIN 22NE 0 CIN 0 LI: 1.642-B.Green-Ellis right guard to CIN 35 for 13 yards(28-S.Gregory).'>1.88</number><number>0.46</number>
+<number shadow='shadow1' tooltip='12:36 1-10-CIN 35NE 0 CIN 0 LI: 1.4(Shotgun) 42-B.Green-Ellis right tackle to CIN 37 for 2 yards(72-J.Vellano; 55-B.Spikes).'>2.4</number><number>0.47</number>
+<number shadow='shadow1' tooltip='12:05 2-8-CIN 37NE 0 CIN 0 LI: 1.3(Shotgun) 42-B.Green-Ellis left guard to CIN 41 for 4 yards(55-B.Spikes).'>2.92</number><number>0.47</number>
+<number shadow='shadow1' tooltip='11:30 3-4-CIN 41NE 0 CIN 0 LI: 1.2(Shotgun) 42-B.Green-Ellis right guard to CIN 44 for 3 yards(51-J.Mayo).'>3.5</number><number>0.52</number>
+<number shadow='shadow1' tooltip='10:52 4-1-CIN 44NE 0 CIN 0 LI: 0.610-K.Huber punts 52 yards to NE 4 Center-46-C.Harris11-J.Edelman to NE 14 for 10 yards(82-M.Jones; 81-Al.Smith).'>4.13</number><number>0.5</number>
+<number shadow='shadow1' tooltip='10:39 1-10-NE 14NE 0 CIN 0 LI: 1.729-L.Blount left guard to NE 16 for 2 yards(97-G.Atkins; 96-C.Dunlap).'>4.35</number><number>0.49</number>
+<number shadow='shadow1' tooltip='10:05 2-8-NE 16NE 0 CIN 0 LI: 1.4(Shotgun) 12-T.Brady pass short middle to 85-K.Thompkins to NE 22 for 6 yards(58-R.Maualuga).'>4.92</number><number>0.5</number>
+<number shadow='shadow1' tooltip='9:27 3-2-NE 22NE 0 CIN 0 LI: 1.412-T.Brady sacked at NE 14 for -8 yards(95-W.Gilberry).'>5.55</number><number>0.44</number>
+<number shadow='shadow1' tooltip='9:02 4-10-NE 14NE 0 CIN 0 LI: 1.16-R.Allen punts 49 yards to CIN 37 Center-48-D.Aiken24-A.Jones to CIN 47 for 10 yards(48-D.Aiken).'>5.97</number><number>0.44</number>
+<number shadow='shadow1' tooltip='8:51 1-10-CIN 47NE 0 CIN 0 LI: 1.325-G.Bernard left end to CIN 45 for -2 yards(55-B.Spikes).'>6.15</number><number>0.46</number>
+<number shadow='shadow1' tooltip='8:10 2-12-CIN 45NE 0 CIN 0 LI: 1.2(Shotgun) 14-A.Dalton sacked at CIN 37 for -8 yards(sack split by 95-Cha.Jones and 50-R.Ninkovich).'>6.83</number><number>0.52</number>
+<number shadow='shadow1' tooltip='7:47 3-20-CIN 37NE 0 CIN 0 LI: 0.8(Shotgun) 14-A.Dalton pass short right to 84-J.Gresham pushed ob at CIN 43 for 6 yards(25-K.Arrington).'>7.22</number><number>0.52</number>
+<number shadow='shadow1' tooltip='7:21 4-14-CIN 43NE 0 CIN 0 LI: 0.610-K.Huber punts 45 yards to NE 12 Center-46-C.Harris out of bounds.'>7.65</number><number>0.5</number>
+<number shadow='shadow1' tooltip='7:14 1-10-NE 12NE 0 CIN 0 LI: 1.729-L.Blount right guard to NE 22 for 10 yards(43-G.Iloka; 32-C.Crocker).'>7.77</number><number>0.52</number>
+<number shadow='shadow1' tooltip='6:38 1-10-NE 22NE 0 CIN 0 LI: 1.629-L.Blount left guard to NE 29 for 7 yards(55-V.Burfict).'>8.37</number><number>0.53</number>
+<number shadow='shadow1' tooltip='6:01 2-3-NE 29NE 0 CIN 0 LI: 1.512-T.Brady pass short left to 85-K.Thompkins to NE 34 for 5 yards(24-A.Jones).'>8.98</number><number>0.54</number>
+<number shadow='shadow1' tooltip='5:30 1-10-NE 34NE 0 CIN 0 LI: 1.512-T.Brady pass incomplete short right to 38-B.Bolden.'>9.5</number><number>0.52</number>
+<number shadow='shadow1' tooltip='5:24 2-10-NE 34NE 0 CIN 0 LI: 1.3(Shotgun) 38-B.Bolden up the middle to NE 37 for 3 yards(97-G.Atkins; 94-D.Peko).'>9.6</number><number>0.51</number>
+<number shadow='shadow1' tooltip='4:39 3-7-NE 37NE 0 CIN 0 LI: 1.1(Shotgun) 12-T.Brady pass incomplete short middle to 11-J.Edelman [99-M.Hunt].'>10.35</number><number>0.47</number>
+<number shadow='shadow1' tooltip='4:33 4-7-NE 37NE 0 CIN 0 LI: 0.76-R.Allen punts 44 yards to CIN 19 Center-48-D.Aiken out of bounds.'>10.45</number><number>0.49</number>
+<number shadow='shadow1' tooltip='4:24 1-10-CIN 19NE 0 CIN 0 LI: 1.514-A.Dalton pass short left to 85-T.Eifert pushed ob at CIN 30 for 11 yards(32-D.McCourty).'>10.6</number><number>0.46</number>
+<number shadow='shadow1' tooltip='4:09 1-10-CIN 30NE 0 CIN 0 LI: 1.6(Shotgun) 14-A.Dalton right end to CIN 39 for 9 yards(32-D.McCourty).'>10.85</number><number>0.45</number>
+<number shadow='shadow1' tooltip='3:33 2-1-CIN 39NE 0 CIN 0 LI: 1.4(Shotgun) 42-B.Green-Ellis right tackle to CIN 41 for 2 yards(55-B.Spikes).'>11.45</number><number>0.45</number>
+<number shadow='shadow1' tooltip='2:54 1-10-CIN 41NE 0 CIN 0 LI: 1.4(Shotgun) 14-A.Dalton pass deep middle to 84-J.Gresham to NE 47 for 12 yards(31-A.Talib).'>12.1</number><number>0.43</number>
+<number shadow='shadow1' tooltip='2:12 1-10-NE 47NE 0 CIN 0 LI: 1.314-A.Dalton pass short middle to 85-T.Eifert to NE 25 for 22 yards(32-D.McCourty; 51-J.Mayo).'>12.8</number><number>0.37</number>
+<number shadow='shadow1' tooltip='1:37 1-10-NE 25NE 0 CIN 0 LI: 1.642-B.Green-Ellis right tackle to NE 12 for 13 yards(32-D.McCourty; 30-D.Harmon).'>13.38</number><number>0.33</number>
+<number shadow='shadow1' tooltip='0:52 1-10-NE 12NE 0 CIN 0 LI: 1.7(Shotgun) 25-G.Bernard up the middle to NE 9 for 3 yards(51-J.Mayo; 55-B.Spikes).'>14.13</number><number>0.33</number>
+<number shadow='shadow1' tooltip='0:12 2-7-NE 9NE 0 CIN 0 LI: 1.7(Shotgun) 14-A.Dalton pass short middle intended for 85-T.Eifert INTERCEPTED by 55-B.Spikes at NE 555-B.Spikes to NE 8 for 3 yards(85-T.Eifert).'>14.8</number><number>0.5</number>
+<number shadow='shadow1' tooltip='15:00 1-10-NE 8NE 0 CIN 0 LI: 1.8(Shotgun) 12-T.Brady pass short right to 80-D.Amendola to NE 15 for 7 yards(55-V.Burfict).'>15</number><number>0.5</number>
+<number shadow='shadow1' tooltip='14:20 2-3-NE 15NE 0 CIN 0 LI: 1.529-L.Blount left guard to NE 15 for no gain (96-C.Dunlap).'>15.67</number><number>0.48</number>
+<number shadow='shadow1' tooltip='13:37 3-3-NE 15NE 0 CIN 0 LI: 1.3(Shotgun) 12-T.Brady pass short right to 38-B.Bolden pushed ob at NE 29 for 14 yards(26-T.Mays).'>16.38</number><number>0.53</number>
+<number shadow='shadow1' tooltip='13:07 1-10-NE 29NE 0 CIN 0 LI: 1.429-L.Blount left guard to NE 33 for 4 yards(55-V.Burfict; 97-G.Atkins).'>16.88</number><number>0.53</number>
+<number shadow='shadow1' tooltip='12:30 2-6-NE 33NE 0 CIN 0 LI: 1.311-J.Edelman left end to NE 40 for 7 yards(58-R.Maualuga){End around}'>17.5</number><number>0.55</number>
+<number shadow='shadow1' tooltip='12:00 1-10-NE 40NE 0 CIN 0 LI: 1.412-T.Brady pass incomplete deep left to 11-J.Edelman.'>18</number><number>0.53</number>
+<number shadow='shadow1' tooltip='11:53 2-10-NE 40NE 0 CIN 0 LI: 1.229-L.Blount left end to NE 43 for 3 yards(43-G.Iloka; 92-J.Harrison).'>18.12</number><number>0.52</number>
+<number shadow='shadow1' tooltip='11:07 3-7-NE 43NE 0 CIN 0 LI: 1(Shotgun) 12-T.Brady pass incomplete deep right to 80-D.Amendola.'>18.88</number><number>0.48</number>
+<number shadow='shadow1' tooltip='10:57 1-10-CIN 22NE 0 CIN 0 LI: 1.5(Shotgun) 14-A.Dalton pass short right to 84-J.Gresham to CIN 26 for 4 yards(32-D.McCourty).'>19.05</number><number>0.48</number>
+<number shadow='shadow1' tooltip='10:24 2-6-CIN 26NE 0 CIN 0 LI: 1.4(Shotgun) 25-G.Bernard left end to CIN 26 for no gain (55-B.Spikes; 95-Cha.Jones).'>19.6</number><number>0.5</number>
+<number shadow='shadow1' tooltip='9:44 3-6-CIN 26NE 0 CIN 0 LI: 1.2(Shotgun) 14-A.Dalton pass short right to 25-G.Bernard to CIN 27 for 1 yard(51-J.Mayo).'>20.27</number><number>0.54</number>
+<number shadow='shadow1' tooltip='9:13 4-5-CIN 27NE 0 CIN 0 LI: 0.710-K.Huber punts 35 yards to NE 38 Center-46-C.Harris11-J.Edelman MUFFS catch and recovers at NE 4111-J.Edelman to NE 41 for no gain (30-C.Peerman)PENALTY on CIN-37-C.Lewis-Harris Player Out of Bounds on Punt 5 yards enforced at NE 41.'>20.78</number><number>0.56</number>
+<number shadow='shadow1' tooltip='9:03 1-10-NE 46NE 0 CIN 0 LI: 1.329-L.Blount left guard to CIN 49 for 5 yards(55-V.Burfict).'>20.95</number><number>0.56</number>
+<number shadow='shadow1' tooltip='8:32 2-5-CIN 49NE 0 CIN 0 LI: 1.2(Shotgun) 12-T.Brady pass short right to 47-M.Hoomanawanui to CIN 47 for 2 yards(96-C.Dunlap)PENALTY on CIN-96-C.Dunlap Horse Collar Tackle 15 yards enforced at CIN 47.'>21.47</number><number>0.6</number>
+<number shadow='shadow1' tooltip='8:08 1-10-CIN 32NE 0 CIN 0 LI: 1.412-T.Brady pass incomplete deep middle to 47-M.Hoomanawanui.'>21.87</number><number>0.59</number>
+<number shadow='shadow1' tooltip='8:02 2-10-CIN 32NE 0 CIN 0 LI: 1.329-L.Blount left tackle to CIN 25 for 7 yards(96-C.Dunlap)FUMBLES (96-C.Dunlap) RECOVERED by CIN-20-R.Nelson at CIN 2420-R.Nelson to CIN 30 for 6 yards(76-S.Vollmer).'>21.97</number><number>0.46</number>
+<number shadow='shadow1' tooltip='7:54 1-10-CIN 30NE 0 CIN 0 LI: 1.5(Shotgun) 82-M.Jones left end pushed ob at CIN 38 for 8 yards(95-Cha.Jones){Reverse from Bernard to Jones}'>22.1</number><number>0.46</number>
+<number shadow='shadow1' tooltip='7:21 2-2-CIN 38NE 0 CIN 0 LI: 1.342-B.Green-Ellis right tackle to CIN 35 for -3 yards(55-B.Spikes).'>22.65</number><number>0.49</number>
+<number shadow='shadow1' tooltip='6:44 3-5-CIN 35NE 0 CIN 0 LI: 1.1(Shotgun) 14-A.Dalton pass short left to 18-A.Green ran ob at NE 47 for 18 yards.'>23.27</number><number>0.43</number>
+<number shadow='shadow1' tooltip='6:15 1-10-NE 47NE 0 CIN 0 LI: 1.314-A.Dalton pass incomplete short right to 42-B.Green-Ellis.'>23.75</number><number>0.45</number>
+<number shadow='shadow1' tooltip='6:08 2-10-NE 47NE 0 CIN 0 LI: 1.1(Shotgun) 14-A.Dalton pass short middle to 18-A.Green to NE 36 for 11 yards(31-A.Talib).'>23.87</number><number>0.41</number>
+<number shadow='shadow1' tooltip='5:33 1-10-NE 36NE 0 CIN 0 LI: 1.3(Shotgun) 14-A.Dalton pass short middle to 82-M.Jones to NE 25 for 11 yards(25-K.Arrington).'>24.45</number><number>0.38</number>
+<number shadow='shadow1' tooltip='5:01 1-10-NE 25NE 0 CIN 0 LI: 1.5(Shotgun) 25-G.Bernard right guard to NE 23 for 2 yards(51-J.Mayo).'>24.98</number><number>0.36</number>
+<number shadow='shadow1' tooltip='4:27 2-8-NE 23NE 0 CIN 0 LI: 1.6(Shotgun) 14-A.Dalton sacked at NE 32 for -9 yards(94-ChrJones).'>25.55</number><number>0.44</number>
+<number shadow='shadow1' tooltip='3:48 3-17-NE 32NE 0 CIN 0 LI: 1(Shotgun) 14-A.Dalton pass short right to 12-M.Sanu pushed ob at NE 21 for 11 yards(37-A.Dennard).'>26.2</number><number>0.42</number>
+<number shadow='shadow1' tooltip='3:17 4-6-NE 21NE 0 CIN 0 LI: 12-M.Nugent 39 yard field goal is GOOD Center-46-C.Harris Holder-10-K.Huber.'>26.72</number><number>0.4</number>
+<number shadow='shadow1' tooltip='3:17 NE 0 CIN 3 LI: 2-M.Nugent kicks 69 yards from CIN 35 to NE -432-D.McCourty to NE 21 for 25 yards(80-O.Charles).'>26.81</number><number>0.39</number>
+<number shadow='shadow1' tooltip='3:08 1-10-NE 21NE 0 CIN 3 LI: 1.1(Shotgun) 12-T.Brady pass short left to 80-D.Amendola ran ob at NE 32 for 11 yards.'>26.87</number><number>0.41</number>
+<number shadow='shadow1' tooltip='2:41 1-10-NE 32NE 0 CIN 3 LI: 1.138-B.Bolden left tackle to NE 40 for 8 yards(20-R.Nelson; 32-C.Crocker).'>27.32</number><number>0.43</number>
+<number shadow='shadow1' tooltip='2:03 2-2-NE 40NE 0 CIN 3 LI: 1.212-T.Brady pass deep left to 11-J.Edelman ran ob at CIN 42 for 18 yards(24-A.Jones).'>27.95</number><number>0.49</number>
+<number shadow='shadow1' tooltip='1:57 1-10-CIN 42NE 0 CIN 3 LI: 1.5(Shotgun) 12-T.Brady pass incomplete short left to 80-D.Amendola [96-C.Dunlap].'>28.05</number><number>0.45</number>
+<number shadow='shadow1' tooltip='1:50 2-10-CIN 42NE 0 CIN 3 LI: 1.1(Shotgun) 12-T.Brady pass short right to 17-A.Dobson to CIN 46 for -4 yards(32-C.Crocker).'>28.17</number><number>0.41</number>
+<number shadow='shadow1' tooltip='1:11 3-14-CIN 46NE 0 CIN 3 LI: 0.8(Shotgun) 12-T.Brady pass short middle to 85-K.Thompkins to CIN 31 for 15 yards(23-T.Newman)The Replay Assistant challenged the pass completion ruling and the play was REVERSED(Shotgun) 12-T.Brady pass incomplete short middle.'>28.82</number><number>0.38</number>
+<number shadow='shadow1' tooltip='1:07 4-14-CIN 46NE 0 CIN 3 LI: 0.56-R.Allen punts 39 yards to CIN 7 Center-48-D.Aiken downed by NE-91-J.Collins.'>28.88</number><number>0.38</number>
+<number shadow='shadow1' tooltip='0:57 1-10-CIN 7NE 0 CIN 3 LI: 2.142-B.Green-Ellis up the middle to CIN 10 for 3 yards(93-T.Kelly).'>29.05</number><number>0.4</number>
+<number shadow='shadow1' tooltip='0:52 2-7-CIN 10NE 0 CIN 3 LI: 1.842-B.Green-Ellis right guard to CIN 12 for 2 yards(72-J.Vellano; 55-B.Spikes).'>29.13</number><number>0.41</number>
+<number shadow='shadow1' tooltip='0:48 3-5-CIN 12NE 0 CIN 3 LI: 1.7(Shotgun) 42-B.Green-Ellis left tackle to CIN 14 for 2 yards(51-J.Mayo).'>29.2</number><number>0.45</number>
+<number shadow='shadow1' tooltip='0:44 4-3-CIN 14NE 0 CIN 3 LI: 1.310-K.Huber punts 35 yards to CIN 49 Center-46-C.Harris fair catch by 11-J.Edelman.'>29.27</number><number>0.46</number>
+<number shadow='shadow1' tooltip='0:37 1-10-CIN 49NE 0 CIN 3 LI: 1.4(Shotgun) 12-T.Brady pass deep middle to 80-D.Amendola to CIN 28 for 21 yards(32-C.Crocker).'>29.38</number><number>0.52</number>
+<number shadow='shadow1' tooltip='0:23 1-10-CIN 28NE 0 CIN 3 LI: 1.612-T.Brady spiked the ball to stop the clock.'>29.62</number><number>0.51</number>
+<number shadow='shadow1' tooltip='0:22 2-10-CIN 28NE 0 CIN 3 LI: 1.5(Shotgun) 12-T.Brady pass incomplete short right to 80-D.Amendola [95-W.Gilberry].'>29.63</number><number>0.48</number>
+<number shadow='shadow1' tooltip='0:19 3-10-CIN 28NE 0 CIN 3 LI: 1.2(Shotgun) 12-T.Brady pass short right to 38-B.Bolden pushed ob at CIN 24 for 4 yards(23-T.Newman).'>29.68</number><number>0.45</number>
+<number shadow='shadow1' tooltip='0:13 4-6-CIN 24NE 0 CIN 3 LI: 0.93-S.Gostkowski 42 yard field goal is GOOD Center-48-D.Aiken Holder-6-R.Allen.'>29.78</number><number>0.47</number>
+<number shadow='shadow1' tooltip='0:13 NE 3 CIN 3 LI: 3-S.Gostkowski kicks 65 yards from NE 35 to end zone Touchback.'>29.87</number><number>0.48</number>
+<number shadow='shadow1' tooltip='0:08 NE 3 CIN 3 LI: 3-S.Gostkowski kicks 66 yards from NE 35 to CIN -119-B.Tate to CIN 28 for 29 yards(99-M.Buchanan; 43-N.Ebner).'>29.96</number><number>0.47</number>
+<number shadow='shadow1' tooltip='14:54 1-10-CIN 28NE 3 CIN 3 LI: 1.514-A.Dalton pass incomplete short left to 85-T.Eifert.'>30.1</number><number>0.49</number>
+<number shadow='shadow1' tooltip='14:50 2-10-CIN 28NE 3 CIN 3 LI: 1.3(Shotgun) 14-A.Dalton pass incomplete short right to 18-A.Green.'>30.17</number><number>0.51</number>
+<number shadow='shadow1' tooltip='14:45 3-10-CIN 28NE 3 CIN 3 LI: 1.1(Shotgun) 14-A.Dalton pass incomplete short right to 18-A.Green (31-A.Talib).'>30.25</number><number>0.54</number>
+<number shadow='shadow1' tooltip='14:37 4-10-CIN 28NE 3 CIN 3 LI: 0.810-K.Huber punts 51 yards to NE 21 Center-46-C.Harris11-J.Edelman to NE 45 for 24 yards(82-M.Jones).'>30.38</number><number>0.56</number>
+<number shadow='shadow1' tooltip='14:24 1-10-NE 45NE 3 CIN 3 LI: 1.412-T.Brady pass short right to 85-K.Thompkins to 50 for 5 yards(23-T.Newman).'>30.6</number><number>0.56</number>
+<number shadow='shadow1' tooltip='13:51 2-5-50NE 3 CIN 3 LI: 1.3(Shotgun) 12-T.Brady pass short middle to 38-B.Bolden pushed ob at CIN 43 for 7 yards(55-V.Burfict).'>31.15</number><number>0.58</number>
+<number shadow='shadow1' tooltip='13:31 1-10-CIN 43NE 3 CIN 3 LI: 1.3(Shotgun) 12-T.Brady pass incomplete short right to 80-D.Amendola.'>31.48</number><number>0.56</number>
+<number shadow='shadow1' tooltip='13:25 2-10-CIN 43NE 3 CIN 3 LI: 1.138-B.Bolden right end to CIN 42 for 1 yard(94-D.Peko; 97-G.Atkins).'>31.58</number><number>0.54</number>
+<number shadow='shadow1' tooltip='12:39 3-9-CIN 42NE 3 CIN 3 LI: 0.9(Shotgun) 12-T.Brady sacked at NE 48 for -10 yards(55-V.Burfict).'>32.35</number><number>0.49</number>
+<number shadow='shadow1' tooltip='12:12 4-19-NE 48NE 3 CIN 3 LI: 0.66-R.Allen punts 43 yards to CIN 9 Center-48-D.Aiken downed by NE-26-L.Ryan.'>32.8</number><number>0.5</number>
+<number shadow='shadow1' tooltip='12:00 1-10-CIN 9NE 3 CIN 3 LI: 2.1(Shotgun) 42-B.Green-Ellis left guard to CIN 14 for 5 yards(93-T.Kelly; 50-R.Ninkovich).'>33</number><number>0.51</number>
+<number shadow='shadow1' tooltip='11:17 2-5-CIN 14NE 3 CIN 3 LI: 2(Shotgun) 14-A.Dalton pass incomplete short left to 25-G.Bernard (51-J.Mayo).'>33.72</number><number>0.52</number>
+<number shadow='shadow1' tooltip='11:10 3-5-CIN 14NE 3 CIN 3 LI: 1.9(Shotgun) 14-A.Dalton scrambles left end ran ob at CIN 20 for 6 yards(51-J.Mayo).'>33.83</number><number>0.48</number>
+<number shadow='shadow1' tooltip='10:43 1-10-CIN 20NE 3 CIN 3 LI: 1.6(Shotgun) 14-A.Dalton pass short right to 18-A.Green ran ob at CIN 32 for 12 yards(31-A.Talib).'>34.28</number><number>0.46</number>
+<number shadow='shadow1' tooltip='10:07 1-10-CIN 32NE 3 CIN 3 LI: 1.525-G.Bernard right tackle to CIN 41 for 9 yards(51-J.Mayo).'>34.88</number><number>0.45</number>
+<number shadow='shadow1' tooltip='9:31 2-1-CIN 41NE 3 CIN 3 LI: 1.4(Shotgun) 14-A.Dalton pass short right to 84-J.Gresham to CIN 43 for 2 yards(31-A.Talib).'>35.48</number><number>0.45</number>
+<number shadow='shadow1' tooltip='8:54 1-10-CIN 43NE 3 CIN 3 LI: 1.342-B.Green-Ellis left tackle to CIN 46 for 3 yards(72-J.Vellano).'>36.1</number><number>0.45</number>
+<number shadow='shadow1' tooltip='8:18 2-7-CIN 46NE 3 CIN 3 LI: 1.3(Shotgun) 14-A.Dalton pass short middle to 85-T.Eifert to NE 42 for 12 yards(28-S.Gregory).'>36.7</number><number>0.41</number>
+<number shadow='shadow1' tooltip='7:36 1-10-NE 42NE 3 CIN 3 LI: 1.5(Shotgun) 14-A.Dalton pass short middle to 12-M.Sanu to NE 25 for 17 yards(28-S.Gregory)NE-28-S.Gregory was injured during the play.'>37.4</number><number>0.37</number>
+<number shadow='shadow1' tooltip='7:02 1-10-NE 25NE 3 CIN 3 LI: 1.614-A.Dalton sacked at NE 33 for -8 yards(sack split by 51-J.Mayo and 94-ChrJones).'>37.97</number><number>0.41</number>
+<number shadow='shadow1' tooltip='6:33 2-18-NE 33NE 3 CIN 3 LI: 1.3(Shotgun) 25-G.Bernard right guard to NE 32 for 1 yard(55-B.Spikes).'>38.45</number><number>0.42</number>
+<number shadow='shadow1' tooltip='5:55 3-17-NE 32NE 3 CIN 3 LI: 1.2(Shotgun) 14-A.Dalton pass incomplete deep right to 18-A.Green.'>39.08</number><number>0.45</number>
+<number shadow='shadow1' tooltip='5:48 4-17-NE 32NE 3 CIN 3 LI: 0.92-M.Nugent 50 yard field goal is GOOD Center-46-C.Harris Holder-10-K.Huber.'>39.2</number><number>0.38</number>
+<number shadow='shadow1' tooltip='5:48 NE 3 CIN 6 LI: 2-M.Nugent kicks 65 yards from CIN 35 to NE 032-D.McCourty pushed ob at NE 22 for 22 yards(37-C.Lewis-Harris).'>39.29</number><number>0.37</number>
+<number shadow='shadow1' tooltip='5:35 1-10-NE 22NE 3 CIN 6 LI: 1.329-L.Blount left tackle to NE 25 for 3 yards(75-D.Still).'>39.42</number><number>0.38</number>
+<number shadow='shadow1' tooltip='4:55 2-7-NE 25NE 3 CIN 6 LI: 1.4(Shotgun) 12-T.Brady pass deep middle to 11-J.Edelman to NE 42 for 17 yards(58-R.Maualuga).'>40.08</number><number>0.43</number>
+<number shadow='shadow1' tooltip='4:22 1-10-NE 42NE 3 CIN 6 LI: 1.512-T.Brady pass incomplete deep middle to 85-K.Thompkins [92-J.Harrison].'>40.63</number><number>0.41</number>
+<number shadow='shadow1' tooltip='4:16 2-10-NE 42NE 3 CIN 6 LI: 1.3(Shotgun) 38-B.Bolden left tackle to NE 42 for no gain (95-W.Gilberry; 32-C.Crocker).'>40.73</number><number>0.39</number>
+<number shadow='shadow1' tooltip='3:34 3-10-NE 42NE 3 CIN 6 LI: 1.1(Shotgun) 12-T.Brady sacked at NE 34 for -8 yards(97-G.Atkins)PENALTY on CIN-96-C.Dunlap Defensive Offside 5 yards enforced at NE 42 - No Play.'>41.43</number><number>0.41</number>
+<number shadow='shadow1' tooltip='3:09 3-5-NE 47NE 3 CIN 6 LI: 1.2(Shotgun) 12-T.Brady pass short left to 38-B.Bolden to 50 for 3 yards(55-V.Burfict).'>41.85</number><number>0.36</number>
+<number shadow='shadow1' tooltip='2:22 4-2-50NE 3 CIN 6 LI: 0.76-R.Allen punts 43 yards to CIN 7 Center-48-D.Aiken downed by NE-48-D.Aiken.'>42.63</number><number>0.38</number>
+<number shadow='shadow1' tooltip='2:09 1-10-CIN 7NE 3 CIN 6 LI: 2.2(Shotgun) 14-A.Dalton pass short left to 18-A.Green pushed ob at CIN 10 for 3 yards(25-K.Arrington).'>42.85</number><number>0.39</number>
+<number shadow='shadow1' tooltip='1:38 2-7-CIN 10NE 3 CIN 6 LI: 2.1(Shotgun) 14-A.Dalton sacked at CIN 2 for -8 yards(93-T.Kelly 51-J.Mayo).'>43.37</number><number>0.44</number>
+<number shadow='shadow1' tooltip='1:10 3-15-CIN 2NE 3 CIN 6 LI: 1.7(Shotgun) 14-A.Dalton pass deep left to 82-M.Jones to CIN 30 for 28 yards(32-D.McCourty).'>43.83</number><number>0.33</number>
+<number shadow='shadow1' tooltip='0:32 1-10-CIN 30NE 3 CIN 6 LI: 1.725-G.Bernard right end to NE 42 for 28 yards(32-D.McCourty; 37-A.Dennard).'>44.47</number><number>0.26</number>
+<number shadow='shadow1' tooltip='15:00 1-10-NE 42NE 3 CIN 6 LI: 1.714-A.Dalton pass short right to 85-T.Eifert to NE 40 for 2 yards(54-D.Hightower; 95-Cha.Jones).'>45</number><number>0.28</number>
+<number shadow='shadow1' tooltip='14:18 2-8-NE 40NE 3 CIN 6 LI: 1.4(Shotgun) 14-A.Dalton scrambles right end to NE 34 for 6 yards(55-B.Spikes)NE-93-T.Kelly was injured during the play.'>45.7</number><number>0.27</number>
+<number shadow='shadow1' tooltip='13:54 3-2-NE 34NE 3 CIN 6 LI: 1.442-B.Green-Ellis right guard to NE 30 for 4 yards(94-ChrJones; 55-B.Spikes).'>46.1</number><number>0.23</number>
+<number shadow='shadow1' tooltip='13:20 1-10-NE 30NE 3 CIN 6 LI: 1.7(Shotgun) 14-A.Dalton pass short left to 85-T.Eifert to NE 24 for 6 yards(32-D.McCourty).'>46.67</number><number>0.21</number>
+<number shadow='shadow1' tooltip='12:44 2-4-NE 24NE 3 CIN 6 LI: 1.725-G.Bernard right guard to NE 23 for 1 yard(55-B.Spikes).'>47.27</number><number>0.21</number>
+<number shadow='shadow1' tooltip='11:39 3-3-NE 23NE 3 CIN 6 LI: 1.6(Shotgun) 14-A.Dalton pass short right to 18-A.Green to NE 6 for 17 yards(31-A.Talib).'>48.35</number><number>0.13</number>
+<number shadow='shadow1' tooltip='11:32 1-6-NE 6NE 3 CIN 6 LI: 2.142-B.Green-Ellis right guard to NE 1 for 5 yards(32-D.McCourty).'>48.47</number><number>0.12</number>
+<number shadow='shadow1' tooltip='11:02 2-1-NE 1NE 3 CIN 6 LI: 2.142-B.Green-Ellis right guard to NE 1 for no gain (50-R.Ninkovich).'>48.97</number><number>0.12</number>
+<number shadow='shadow1' tooltip='10:14 3-1-NE 1NE 3 CIN 6 LI: 1.9PENALTY on CIN-94-D.Peko False Start 4 yards enforced at NE 1 - No Play.'>49.77</number><number>0.15</number>
+<number shadow='shadow1' tooltip='9:27 4-1-NE 1NE 3 CIN 6 LI: 1.142-B.Green-Ellis up the middle for 1 yard TOUCHDOWN.'>50.55</number><number>0.1</number>
+<number shadow='shadow1' tooltip='9:27 NE 3 CIN 6 LI: 2-M.Nugent extra point is GOOD Center-46-C.Harris Holder-10-K.Huber.'>50.59</number><number>0.1</number>
+<number shadow='shadow1' tooltip='9:27 NE 3 CIN 13 LI: 2-M.Nugent kicks 68 yards from CIN 35 to NE -332-D.McCourty to NE 24 for 27 yards(30-C.Peerman).'>50.64</number><number>0.09</number>
+<number shadow='shadow1' tooltip='9:15 1-10-NE 24NE 3 CIN 13 LI: 0.629-L.Blount left tackle to NE 30 for 6 yards(96-C.Dunlap).'>50.75</number><number>0.1</number>
+<number shadow='shadow1' tooltip='8:43 2-4-NE 30NE 3 CIN 13 LI: 0.712-T.Brady pass short middle to 17-A.Dobson to CIN 14 for 56 yards(43-G.Iloka)FUMBLES (43-G.Iloka) and recovers at CIN 1717-A.Dobson to CIN 17 for no gain (58-R.Maualuga){Pass credited for 53 yards due to the 3 yards loss after the fumble}'>51.28</number><number>0.2</number>
+<number shadow='shadow1' tooltip='7:57 1-10-CIN 17NE 3 CIN 13 LI: 1.4(Shotgun) 12-T.Brady pass deep left to 80-D.Amendola to CIN 1 for 16 yards(32-C.Crocker).'>52.05</number><number>0.26</number>
+<number shadow='shadow1' tooltip='7:18 1-1-CIN 1NE 3 CIN 13 LI: 2.129-L.Blount left tackle to CIN 1 for no gain (57-V.Rey).'>52.7</number><number>0.21</number>
+<number shadow='shadow1' tooltip='6:42 2-1-CIN 1NE 3 CIN 13 LI: 1.612-T.Brady pass incomplete short right to 77-N.Solder.'>53.3</number><number>0.21</number>
+<number shadow='shadow1' tooltip='6:36 3-1-CIN 1NE 3 CIN 13 LI: 1.6(Shotgun) 12-T.Brady pass incomplete short left to 11-J.Edelman (24-A.Jones).'>53.4</number><number>0.11</number>
+<number shadow='shadow1' tooltip='6:30 4-1-CIN 1NE 3 CIN 13 LI: 0.73-S.Gostkowski 19 yard field goal is GOOD Center-48-D.Aiken Holder-6-R.Allen.'>53.5</number><number>0.11</number>
+<number shadow='shadow1' tooltip='6:30 NE 6 CIN 13 LI: 3-S.Gostkowski kicks 65 yards from NE 35 to end zone Touchback.'>53.59</number><number>0.11</number>
+<number shadow='shadow1' tooltip='5:49 2-3-CIN 27NE 6 CIN 13 LI: 1.625-G.Bernard right tackle to CIN 36 for 9 yards(28-S.Gregory).'>54.18</number><number>0.08</number>
+<number shadow='shadow1' tooltip='5:10 1-10-CIN 36NE 6 CIN 13 LI: 1.425-G.Bernard left guard to CIN 41 for 5 yards(94-ChrJones).'>54.83</number><number>0.08</number>
+<number shadow='shadow1' tooltip='4:26 2-5-CIN 41NE 6 CIN 13 LI: 1.425-G.Bernard left tackle to CIN 44 for 3 yards(28-S.Gregory).'>55.57</number><number>0.1</number>
+<number shadow='shadow1' tooltip='3:40 3-2-CIN 44NE 6 CIN 13 LI: 1(Shotgun) 14-A.Dalton pass short left to 25-G.Bernard pushed ob at 50 for 6 yards(32-D.McCourty).'>56.33</number><number>0.04</number>
+<number shadow='shadow1' tooltip='3:34 1-10-50NE 6 CIN 13 LI: 1.425-G.Bernard left end to NE 49 for 1 yard(32-D.McCourty)FUMBLES (32-D.McCourty) RECOVERED by NE-51-J.Mayo at CIN 4651-J.Mayo to CIN 44 for 2 yards(65-C.Boling).'>56.43</number><number>0.2</number>
+<number shadow='shadow1' tooltip='3:26 1-10-CIN 44NE 6 CIN 13 LI: 1.6(Shotgun) 12-T.Brady pass incomplete deep right to 17-A.Dobson (23-T.Newman).'>56.57</number><number>0.13</number>
+<number shadow='shadow1' tooltip='3:18 2-10-CIN 44NE 6 CIN 13 LI: 0.9(Shotgun) 12-T.Brady pass incomplete short left to 80-D.Amendola (32-C.Crocker).'>56.7</number><number>0.1</number>
+<number shadow='shadow1' tooltip='3:12 3-10-CIN 44NE 6 CIN 13 LI: 0.6(Shotgun) 12-T.Brady sacked at CIN 49 for -5 yards(95-W.Gilberry)FUMBLES (95-W.Gilberry) and recovers at CIN 4912-T.Brady to CIN 49 for no gain (32-C.Crocker).'>56.8</number><number>0.02</number>
+<number shadow='shadow1' tooltip='2:40 4-15-CIN 49NE 6 CIN 13 LI: 0.16-R.Allen punts 40 yards to CIN 9 Center-48-D.Aiken fair catch by 19-B.Tate.'>57.33</number><number>0.02</number>
+<number shadow='shadow1' tooltip='2:32 1-10-CIN 9NE 6 CIN 13 LI: 2.542-B.Green-Ellis up the middle to CIN 12 for 3 yards(28-S.Gregory).'>57.47</number><number>0.06</number>
+<number shadow='shadow1' tooltip='2:27 2-7-CIN 12NE 6 CIN 13 LI: 242-B.Green-Ellis left tackle to CIN 17 for 5 yards(54-D.Hightower).'>57.55</number><number>0.07</number>
+<number shadow='shadow1' tooltip='2:20 3-2-CIN 17NE 6 CIN 13 LI: 1.942-B.Green-Ellis up the middle to CIN 17 for no gain (51-J.Mayo).'>57.67</number><number>0.15</number>
+<number shadow='shadow1' tooltip='2:00 4-2-CIN 17NE 6 CIN 13 LI: 1.210-K.Huber punts 57 yards to NE 26 Center-46-C.Harris11-J.Edelman ran ob at NE 35 for 9 yards(57-V.Rey).'>58</number><number>0.12</number>
+<number shadow='shadow1' tooltip='1:48 1-10-NE 35NE 6 CIN 13 LI: 1.1(Shotgun) 12-T.Brady pass incomplete short right to 38-B.Bolden.'>58.2</number><number>0.05</number>
+<number shadow='shadow1' tooltip='1:44 2-10-NE 35NE 6 CIN 13 LI: 0.4(Shotgun) 12-T.Brady pass incomplete short middle to 11-J.Edelman.'>58.27</number><number>0.05</number>
+<number shadow='shadow1' tooltip='1:40 3-10-NE 35NE 6 CIN 13 LI: 0.4(Shotgun) 12-T.Brady pass short middle to 38-B.Bolden to NE 41 for 6 yards(26-T.Mays) [95-W.Gilberry].'>58.33</number><number>0.01</number>
+<number shadow='shadow1' tooltip='0:53 4-4-NE 41NE 6 CIN 13 LI: 0.1(Shotgun) 12-T.Brady pass incomplete short left to 85-K.ThompkinsPENALTY on CIN-32-C.Crocker Defensive Offside 5 yards enforced at NE 41 - No Play.'>59.12</number><number>0.06</number>
+<number shadow='shadow1' tooltip='0:49 1-10-NE 46NE 6 CIN 13 LI: 0.5(Shotgun) 12-T.Brady pass incomplete short left to 11-J.Edelman (32-C.Crocker).'>59.18</number><number>0.04</number>
+<number shadow='shadow1' tooltip='0:43 2-10-NE 46NE 6 CIN 13 LI: 0.3(Shotgun) 38-B.Bolden up the middle to CIN 42 for 12 yards(24-A.Jones).'>59.28</number><number>0.1</number>
+<number shadow='shadow1' tooltip='0:36 1-10-CIN 42NE 6 CIN 13 LI: 0.9(Shotgun) 12-T.Brady pass incomplete deep left.'>59.4</number><number>0.05</number>
+<number shadow='shadow1' tooltip='0:30 2-10-CIN 42NE 6 CIN 13 LI: 0.4(Shotgun) 12-T.Brady pass incomplete short left to 85-K.ThompkinsPENALTY on CIN-95-W.Gilberry Roughing the Passer 15 yards enforced at CIN 42 - No Play.'>59.5</number><number>0.21</number>
+<number shadow='shadow1' tooltip='0:26 1-10-CIN 27NE 6 CIN 13 LI: 2(Shotgun) 12-T.Brady pass deep left intended for 17-A.Dobson INTERCEPTED by 24-A.Jones at CIN 324-A.Jones to CIN 3 for no gain (17-A.Dobson).'>59.57</number><number>0.01</number>
+<number shadow='shadow1' tooltip='0:16 1-10-CIN 3NE 6 CIN 13 LI: 414-A.Dalton kneels to CIN 3 for no gain.'>59.73</number><number>0</number>
+<number>60</number><number>0</number>
+</row> </chart_data>
+       <draw>
+
+
+
+      <image x='45' y='298'  url='nfllogos/42x50png/NE.gif'  layer='foreground' glow = 'glow1'/>
+      <image x='45' y='350'  url='nfllogos/42x50png/CIN.gif'     layer='foreground' glow = 'glow1'/>
+
+
+      <rect x='130' y='300' width='250' height='40' fill_color='003052' bevel='bevel1' />
+      <text x='135' y='300' width='250' height='40' h_align='left' v_align='middle' color='ffffff' shadow='shadow2' glow=''>New England Patriots</text>
+
+      <rect x='130' y='350' width='250' height='40' fill_color='ff652b' bevel='bevel1'  />
+      <text x='135' y='350' width='250' height='40' h_align='left' v_align='middle' color='ffffff' shadow='shadow2' glow='winnerglow'>Cincinnati Bengals</text>
+
+      <rect x='420' y='300' width='60' height='40' fill_color='003052' bevel='bevel1'  />
+      <text x='420' y='300' width='60' height='40' h_align='center' v_align='middle' color='ffffff' shadow='shadow2' transition='none' glow=''>6</text>
+
+      <rect x='420' y='350' width='60' height='40' fill_color='ff652b' bevel='bevel1' />
+      <text x='420' y='350' width='60' height='40' h_align='center' v_align='middle' color='ffffff' shadow='shadow2' transition='none' glow='winnerglow'>13</text>
+
+      <text x='-3' y='12'  width='60' height='40' h_align='center' v_align='middle' size='13' shadow='shadow2'>NEWin </text>
+      <text x='-3' y='218' width='60' height='40' h_align='center' v_align='middle' size='13' shadow='shadow2'>CINWin </text>
+
+     
+              <rect x='540' y='300' width='100' height='35' fill_color='000000' fill_alpha='50'/>
+              <text x='540' y='300' width='100' height='35' h_align='center' v_align='middle' color='ffffff' size='15' shadow='shadow2' >Final</text>
+
+              <text x='540' y='340' width='40' h_align='center' color='000000' size='12' shadow='shadow2'>CBF</text>
+              <text x='600' y='340' width='40' h_align='center' color='000000' size='12' shadow='shadow2'>EI</text>
+
+              <rect x='540' y='360' width='40' height='30' fill_color='000000' fill_alpha='50' />
+              <text x='540' y='360' width='40' height='30' size='12' h_align='center' v_align='middle' color='FFFFFF' shadow='shadow2'>3</text>
+
+              <rect x='600' y='360' width='40' height='30' fill_color='000000' fill_alpha='50' />
+              <text x='600' y='360' width='40' height='30' size='12' h_align='center' v_align='middle' color='FFFFFF' shadow='shadow2'>4.9</text>
+
+              <text x='20' y='420' width='70' height='25' size='12' h_align='left' v_align='middle' color='000000' >10/6/2013</text>
+              <text x='100' y='420' width='200' height='25' size='12' h_align='left' v_align='middle' color='000000' >Paul Brown Stadium</text>
+
+   </draw></chart>

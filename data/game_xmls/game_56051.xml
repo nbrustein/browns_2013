@@ -1,0 +1,320 @@
+
+<chart>
+   <license>ETAS9P33ESHO.945CWK-2XOI1X0-7L</license>
+   <chart_type>scatter</chart_type>
+   <chart_pref trend_thickness='0' line_thickness='3' point_size='0'/>
+
+   <series_color>
+      <color>ffff00</color>
+   </series_color>
+
+   <chart_rect x='45' y='20' width='630' height='230' positive_color='cacaca'  />
+
+  <chart_border top_thickness='0'
+                 bottom_thickness='0'
+                 left_thickness='0'
+                 right_thickness='0'
+                 color='000000'
+                 />
+
+   <tooltip font='Arial' bold='true' size='11' />
+
+   <chart_note type='flag'
+               color='000000'
+               alpha='90'
+               bold='FALSE'
+               size='10'
+               background_color='ffffe0'
+               background_alpha='50'
+               shadow='shadow2'
+               />
+
+   <chart_grid_h thickness='2' color='ffffff' type='dashed'  />
+   <chart_grid_v thickness='2' color='ffffff'   />
+		>
+
+   <legend layout='hide' />
+
+   <chart_guide horizontal='TRUE'
+             vertical='TRUE'
+             thickness='1'
+             color='006400'
+             alpha='100'
+             type='solid'
+             snap_h='TRUE'
+             snap_v='TRUE'
+             radius='3'
+             fill_color='006400'
+             fill_alpha='100'
+             line_color='006400'
+             line_alpha='80'
+             line_thickness='1'
+             text_h_alpha='50'
+             text_v_alpha='00'
+             suffix_h=' WP'
+             decimals='2'
+             bold='FALSE'
+             size='11'
+             text_color='FFFFFF'
+             background_color='006400'
+             />
+   <filter>
+      <shadow id='shadow1' distance='2' angle='60' blurX='5' blurY='5' alpha='50' />
+      <bevel id='bevel1' angle='45' blurX='5' blurY='5' distance='0' />
+      <glow id='glow1' color='ffffff' alpha='0' blurX='7' blurY='7' strength='6' quality='2' inner='FALSE' knockout='FALSE' />
+      <glow id='winnerglow' color='ffffff' alpha='0' blurX='7' blurY='7' strength='5' quality='2' inner='FALSE' knockout='FALSE' />
+   </filter>
+
+    <axis_value_label>
+         <string></string>
+          <string> </string>
+          <null/>
+          <string> </string>
+          <string></string>
+
+       </axis_value_label>
+		
+	   <axis_ticks category_ticks='false'/>
+
+       <axis_value min='0' max='1' steps='4'  decimals='2' show_min='true' size='13' shadow='shadow2' />     
+            <axis_category
+               min='0'
+               max='60'
+               steps='4'
+               mode='all'
+               decimals='0'
+               size='13'
+               shadow='shadow2'
+               />
+
+       <axis_category_label>
+          <string>Kickoff</string>
+          <string></string>
+          <string>Halftime</string>
+          <string></string>
+          <string>End</string>
+
+       </axis_category_label>
+
+
+        <chart_data>
+       <row>
+	      <null/><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number>
+              <number>x</number><number>y</number>
+              </row><row><string></string>
+
+                     <number shadow='shadow1'>0</number><number>.5</number><number shadow='shadow1' tooltip='15:00 PHI 0 MIN 0 LI: 6-A.Henery kicks 46 yards from PHI 35 to MIN 1923-J.Banyard to MIN 25 for 6 yards(16-B.Smith).'>0.09</number><number>0.47</number>
+<number shadow='shadow1' tooltip='14:23 2-1-MIN 34PHI 0 MIN 0 LI: 1.544-M.Asiata up the middle to MIN 34 for no gain (59-D.Ryans).'>0.62</number><number>0.47</number>
+<number shadow='shadow1' tooltip='13:42 3-1-MIN 34PHI 0 MIN 0 LI: 1.444-M.Asiata up the middle to MIN 37 for 3 yards(98-C.Barwin).'>1.3</number><number>0.45</number>
+<number shadow='shadow1' tooltip='13:07 1-10-MIN 37PHI 0 MIN 0 LI: 1.516-M.Cassel pass short left to 15-G.Jennings to MIN 45 for 8 yards(26-C.Williams).'>1.88</number><number>0.45</number>
+<number shadow='shadow1' tooltip='12:35 2-2-MIN 45PHI 0 MIN 0 LI: 1.344-M.Asiata left tackle to MIN 49 for 4 yards(91-F.Cox).'>2.42</number><number>0.44</number>
+<number shadow='shadow1' tooltip='11:55 1-10-MIN 49PHI 0 MIN 0 LI: 1.316-M.Cassel pass short left to 86-C.Ford to PHI 33 for 18 yards(23-P.Chung).'>3.08</number><number>0.39</number>
+<number shadow='shadow1' tooltip='11:16 1-10-PHI 33PHI 0 MIN 0 LI: 1.5(Shotgun) PENALTY on MIN-40-R.Ellison False Start 5 yards enforced at PHI 33 - No Play.'>3.73</number><number>0.4</number>
+<number shadow='shadow1' tooltip='10:58 1-15-PHI 38PHI 0 MIN 0 LI: 1.5(Shotgun) 16-M.Cassel pass short right to 84-C.Patterson to PHI 35 for 3 yards(22-B.Boykin) [58-T.Cole].'>4.03</number><number>0.42</number>
+<number shadow='shadow1' tooltip='10:23 2-12-PHI 35PHI 0 MIN 0 LI: 1.244-M.Asiata right tackle to PHI 36 for -1 yards(58-T.Cole).'>4.62</number><number>0.47</number>
+<number shadow='shadow1' tooltip='9:44 3-13-PHI 36PHI 0 MIN 0 LI: 0.7(Shotgun) 16-M.Cassel sacked at PHI 37 for -1 yards(98-C.Barwin).'>5.27</number><number>0.5</number>
+<number shadow='shadow1' tooltip='9:33 4-14-PHI 37PHI 0 MIN 0 LI: 0.53-B.Walsh 55 yard field goal is No Good Wide Left Center-46-C.Loeffler Holder-18-J.Locke.'>5.45</number><number>0.56</number>
+<number shadow='shadow1' tooltip='9:30 1-10-PHI 45PHI 0 MIN 0 LI: 1.4(No Huddle Shotgun) 9-N.Foles pass short left to 14-R.Cooper ran ob at PHI 44 for -1 yards(34-A.Sendejo).'>5.5</number><number>0.53</number>
+<number shadow='shadow1' tooltip='9:07 2-11-PHI 44PHI 0 MIN 0 LI: 1.1(No Huddle Shotgun) 25-L.McCoy up the middle to PHI 45 for 1 yard(52-C.Greenway).'>5.88</number><number>0.52</number>
+<number shadow='shadow1' tooltip='8:34 3-10-PHI 45PHI 0 MIN 0 LI: 1(No Huddle Shotgun) 9-N.Foles pass incomplete short left to 86-Z.Ertz.'>6.43</number><number>0.48</number>
+<number shadow='shadow1' tooltip='8:29 4-10-PHI 45PHI 0 MIN 0 LI: 0.6(Punt formation) 8-D.Jones punts 46 yards to MIN 9 Center-46-J.Dorenbos fair catch by 35-M.Sherels.'>6.52</number><number>0.5</number>
+<number shadow='shadow1' tooltip='8:22 1-10-MIN 9PHI 0 MIN 0 LI: 1.744-M.Asiata up the middle to MIN 11 for 2 yards(95-M.Kendricks).'>6.63</number><number>0.51</number>
+<number shadow='shadow1' tooltip='7:45 2-8-MIN 11PHI 0 MIN 0 LI: 1.616-M.Cassel pass short left to 17-J.Wright to MIN 37 for 26 yards(59-D.Ryans).'>7.25</number><number>0.45</number>
+<number shadow='shadow1' tooltip='6:59 1-10-MIN 37PHI 0 MIN 0 LI: 1.5(Shotgun) 16-M.Cassel pass short right to 15-G.Jennings ran ob at MIN 43 for 6 yards.'>8.02</number><number>0.45</number>
+<number shadow='shadow1' tooltip='6:26 2-4-MIN 43PHI 0 MIN 0 LI: 1.3(Shotgun) 16-M.Cassel pass deep right to 15-G.Jennings for 57 yards TOUCHDOWN.'>8.57</number><number>0.29</number>
+<number shadow='shadow1' tooltip='6:26 PHI 0 MIN 0 LI: 3-B.Walsh extra point is GOOD Center-46-C.Loeffler Holder-18-J.Locke.'>8.61</number><number>0.29</number>
+<number shadow='shadow1' tooltip='6:26 PHI 0 MIN 7 LI: 3-B.Walsh kicks 74 yards from MIN 35 to PHI -922-B.Boykin Touchback.'>8.66</number><number>0.28</number>
+<number shadow='shadow1' tooltip='6:18 1-10-PHI 20PHI 0 MIN 7 LI: 1.5(No Huddle Shotgun) 25-L.McCoy left end to PHI 36 for 16 yards(22-H.Smith).'>8.7</number><number>0.3</number>
+<number shadow='shadow1' tooltip='5:56 1-10-PHI 36PHI 0 MIN 7 LI: 1.3(No Huddle Shotgun) 9-N.Foles pass incomplete deep left to 81-J.Avant.'>9.07</number><number>0.29</number>
+<number shadow='shadow1' tooltip='5:49 1-20-PHI 26PHI 0 MIN 7 LI: 1.5(No Huddle Shotgun) 9-N.Foles right end to PHI 35 for 9 yards(33-J.Sanford).'>9.18</number><number>0.3</number>
+<number shadow='shadow1' tooltip='5:16 2-11-PHI 35PHI 0 MIN 7 LI: 1.3(No Huddle Shotgun) 9-N.Foles pass incomplete short right to 32-C.Polk.'>9.73</number><number>0.29</number>
+<number shadow='shadow1' tooltip='5:10 3-11-PHI 35PHI 0 MIN 7 LI: 1.2(No Huddle Shotgun) 9-N.Foles scrambles left tackle to MIN 44 for 21 yards(22-H.Smith).'>9.83</number><number>0.33</number>
+<number shadow='shadow1' tooltip='4:31 1-10-MIN 44PHI 0 MIN 7 LI: 1.1(No Huddle Shotgun) 9-N.Foles pass short right to 25-L.McCoy to MIN 20 for 24 yards(35-M.Sherels).'>10.48</number><number>0.37</number>
+<number shadow='shadow1' tooltip='4:05 1-10-MIN 20PHI 0 MIN 7 LI: 0.8(No Huddle Shotgun) 9-N.Foles scrambles left end to MIN 14 for 6 yards.'>10.92</number><number>0.44</number>
+<number shadow='shadow1' tooltip='3:38 2-4-MIN 14PHI 0 MIN 7 LI: 1.4(No Huddle Shotgun) 25-L.McCoy right guard to MIN 14 for no gain (57-A.Cole; 22-H.Smith).'>11.37</number><number>0.42</number>
+<number shadow='shadow1' tooltip='3:02 3-4-MIN 14PHI 0 MIN 7 LI: 1.2(No Huddle Shotgun) 9-N.Foles sacked at MIN 17 for -3 yards(69-J.Allen).'>11.97</number><number>0.35</number>
+<number shadow='shadow1' tooltip='2:39 4-7-MIN 17PHI 0 MIN 7 LI: 0.56-A.Henery 35 yard field goal is GOOD Center-46-J.Dorenbos Holder-8-D.Jones.'>12.35</number><number>0.35</number>
+<number shadow='shadow1' tooltip='2:39 PHI 3 MIN 7 LI: 6-A.Henery kicks 40 yards from PHI 35 to MIN 2542-J.Felton to MIN 38 for 13 yards(55-B.Graham).'>12.44</number><number>0.33</number>
+<number shadow='shadow1' tooltip='2:31 1-10-MIN 38PHI 3 MIN 7 LI: 1.416-M.Cassel pass deep middle to 15-G.Jennings to PHI 40 for 22 yards(24-B.Fletcher).'>12.48</number><number>0.28</number>
+<number shadow='shadow1' tooltip='1:50 1-10-PHI 40PHI 3 MIN 7 LI: 1.444-M.Asiata up the middle to PHI 39 for 1 yard(95-M.Kendricks).'>13.17</number><number>0.29</number>
+<number shadow='shadow1' tooltip='1:09 2-9-PHI 39PHI 3 MIN 7 LI: 1.2(Shotgun) 16-M.Cassel pass deep right to 81-J.Simpson to PHI 20 for 19 yards(21-R.Carmichael; 59-D.Ryans).'>13.85</number><number>0.24</number>
+<number shadow='shadow1' tooltip='0:43 1-10-PHI 20PHI 3 MIN 7 LI: 1.344-M.Asiata up the middle to PHI 17 for 3 yards(42-K.Coleman).'>14.28</number><number>0.23</number>
+<number shadow='shadow1' tooltip='15:00 2-7-PHI 17PHI 3 MIN 7 LI: 1.3(Shotgun) 16-M.Cassel pass incomplete deep middle to 84-C.Patterson.'>15</number><number>0.25</number>
+<number shadow='shadow1' tooltip='14:55 3-7-PHI 17PHI 3 MIN 7 LI: 1.1(Shotgun) 16-M.Cassel pass short right to 44-M.Asiata to PHI 9 for 8 yards(75-V.Curry).'>15.08</number><number>0.21</number>
+<number shadow='shadow1' tooltip='14:11 1-9-PHI 9PHI 3 MIN 7 LI: 1.4(Shotgun) 16-M.Cassel pass incomplete short middle to 81-J.Simpson.'>15.82</number><number>0.21</number>
+<number shadow='shadow1' tooltip='14:05 2-9-PHI 9PHI 3 MIN 7 LI: 1.4(Shotgun) 44-M.Asiata right guard to PHI 3 for 6 yards(29-N.Allen; 95-M.Kendricks).'>15.92</number><number>0.21</number>
+<number shadow='shadow1' tooltip='13:26 3-3-PHI 3PHI 3 MIN 7 LI: 1.4(Shotgun) 16-M.Cassel pass incomplete short left to 14-Jo.Webb.'>16.57</number><number>0.28</number>
+<number shadow='shadow1' tooltip='13:22 4-3-PHI 3PHI 3 MIN 7 LI: 0.73-B.Walsh 21 yard field goal is GOOD Center-46-C.Loeffler Holder-18-J.Locke.'>16.63</number><number>0.29</number>
+<number shadow='shadow1' tooltip='13:22 PHI 3 MIN 10 LI: 3-B.Walsh kicks 74 yards from MIN 35 to PHI -922-B.Boykin Touchback.'>16.72</number><number>0.28</number>
+<number shadow='shadow1' tooltip='12:55 2-8-PHI 22PHI 3 MIN 10 LI: 1.2(No Huddle Shotgun) 9-N.Foles pass incomplete short right to 10-D.Jackson.'>17.08</number><number>0.26</number>
+<number shadow='shadow1' tooltip='12:50 3-8-PHI 22PHI 3 MIN 10 LI: 1.1(No Huddle Shotgun) 9-N.Foles pass short right to 10-D.Jackson to PHI 39 for 17 yards(35-M.Sherels) [57-A.Cole].'>17.17</number><number>0.31</number>
+<number shadow='shadow1' tooltip='12:15 1-10-PHI 39PHI 3 MIN 10 LI: 1.3(No Huddle Shotgun) 9-N.Foles pass deep right to 10-D.Jackson to MIN 41 for 20 yards(35-M.Sherels).'>17.75</number><number>0.33</number>
+<number shadow='shadow1' tooltip='11:59 1-10-MIN 41PHI 3 MIN 10 LI: 1(No Huddle Shotgun) 9-N.Foles pass incomplete deep left to 14-R.Cooper.'>18.02</number><number>0.32</number>
+<number shadow='shadow1' tooltip='11:52 2-10-MIN 41PHI 3 MIN 10 LI: 0.9(No Huddle Shotgun) 9-N.Foles pass short right to 16-B.Smith to MIN 27 for 14 yards(22-H.Smith).'>18.13</number><number>0.35</number>
+<number shadow='shadow1' tooltip='11:18 1-10-MIN 27PHI 3 MIN 10 LI: 0.9(No Huddle Shotgun) 9-N.Foles pass short right to 86-Z.Ertz to MIN 23 for 4 yards(57-A.Cole) [93-K.Williams].'>18.7</number><number>0.39</number>
+<number shadow='shadow1' tooltip='10:40 2-6-MIN 23PHI 3 MIN 10 LI: 1.2(No Huddle Shotgun) 9-N.Foles scrambles up the middle to MIN 18 for 5 yards(96-B.Robison; 57-A.Cole).'>19.33</number><number>0.4</number>
+<number shadow='shadow1' tooltip='9:54 3-1-MIN 18PHI 3 MIN 10 LI: 1.3(No Huddle Shotgun) 9-N.Foles up the middle to MIN 18 for no gain (69-J.Allen).'>20.1</number><number>0.33</number>
+<number shadow='shadow1' tooltip='9:08 4-1-MIN 18PHI 3 MIN 10 LI: 0.610-D.Jackson left end for 18 yards TOUCHDOWN NULLIFIED by Penalty.'>20.87</number><number>0.29</number>
+<number shadow='shadow1' tooltip='8:55 4-16-MIN 33PHI 3 MIN 10 LI: 0.56-A.Henery 51 yard field goal is GOOD Center-46-J.Dorenbos Holder-8-D.Jones.'>21.08</number><number>0.34</number>
+<number shadow='shadow1' tooltip='8:55 PHI 6 MIN 10 LI: 6-A.Henery kicks 42 yards from PHI 35 to MIN 2386-C.Ford to MIN 25 for 2 yards(32-C.Polk; 16-B.Smith).'>21.17</number><number>0.34</number>
+<number shadow='shadow1' tooltip='8:21 2-4-MIN 31PHI 6 MIN 10 LI: 1.1(Shotgun) 16-M.Cassel pass short left to 15-G.Jennings to MIN 37 for 6 yards(42-K.Coleman).'>21.65</number><number>0.32</number>
+<number shadow='shadow1' tooltip='7:40 1-10-MIN 37PHI 6 MIN 10 LI: 1.244-M.Asiata left tackle to MIN 37 for no gain (91-F.Cox).'>22.33</number><number>0.33</number>
+<number shadow='shadow1' tooltip='7:05 2-10-MIN 37PHI 6 MIN 10 LI: 1.1(Shotgun) 16-M.Cassel pass short left to 15-G.Jennings ran ob at MIN 46 for 9 yards [96-B.Logan].'>22.92</number><number>0.32</number>
+<number shadow='shadow1' tooltip='6:35 3-1-MIN 46PHI 6 MIN 10 LI: 144-M.Asiata left tackle to MIN 47 for 1 yard(91-F.Cox; 96-B.Logan).'>23.42</number><number>0.31</number>
+<number shadow='shadow1' tooltip='5:54 1-10-MIN 47PHI 6 MIN 10 LI: 1.1(Shotgun) 16-M.Cassel pass incomplete short right to 44-M.Asiata.'>24.1</number><number>0.31</number>
+<number shadow='shadow1' tooltip='5:49 2-10-MIN 47PHI 6 MIN 10 LI: 1.116-M.Cassel pass incomplete deep right to 15-G.Jennings.'>24.18</number><number>0.33</number>
+<number shadow='shadow1' tooltip='5:43 3-10-MIN 47PHI 6 MIN 10 LI: 0.9(Shotgun) PENALTY on PHI-58-T.Cole Neutral Zone Infraction 5 yards enforced at MIN 47 - No Play.'>24.28</number><number>0.32</number>
+<number shadow='shadow1' tooltip='5:01 1-10-PHI 36PHI 6 MIN 10 LI: 1.116-M.Cassel scrambles up the middle to PHI 35 for 1 yard(72-C.Thornton; 91-F.Cox).'>24.98</number><number>0.29</number>
+<number shadow='shadow1' tooltip='4:19 2-9-PHI 35PHI 6 MIN 10 LI: 1.116-M.Cassel pass short right to 15-G.Jennings to PHI 29 for 6 yards(24-B.Fletcher).'>25.68</number><number>0.28</number>
+<number shadow='shadow1' tooltip='3:35 3-3-PHI 29PHI 6 MIN 10 LI: 1(Shotgun) 84-C.Patterson right end to PHI 26 for 3 yards(22-B.Boykin).'>26.42</number><number>0.26</number>
+<number shadow='shadow1' tooltip='3:14 1-10-PHI 26PHI 6 MIN 10 LI: 1.244-M.Asiata right end to PHI 24 for 2 yards(98-C.Barwin).'>26.77</number><number>0.24</number>
+<number shadow='shadow1' tooltip='2:38 2-8-PHI 24PHI 6 MIN 10 LI: 1.384-C.Patterson left end to PHI 12 for 12 yards(29-N.Allen).'>27.37</number><number>0.2</number>
+<number shadow='shadow1' tooltip='2:00 1-10-PHI 12PHI 6 MIN 10 LI: 1.4(Shotgun) 16-M.Cassel pass short left to 44-M.Asiata to PHI 7 for 5 yards(95-M.Kendricks; 29-N.Allen).'>28</number><number>0.19</number>
+<number shadow='shadow1' tooltip='1:18 2-5-PHI 7PHI 6 MIN 10 LI: 1.4(Shotgun) 16-M.Cassel pass incomplete short left to 44-M.Asiata.'>28.7</number><number>0.22</number>
+<number shadow='shadow1' tooltip='1:14 3-5-PHI 7PHI 6 MIN 10 LI: 1.1(Shotgun) 16-M.Cassel pass incomplete short right to 81-J.Simpson.'>28.77</number><number>0.17</number>
+<number shadow='shadow1' tooltip='1:10 1-1-PHI 1PHI 6 MIN 10 LI: 1.644-M.Asiata up the middle for 1 yard TOUCHDOWN.'>28.83</number><number>0.17</number>
+<number shadow='shadow1' tooltip='1:10 PHI 6 MIN 10 LI: 3-B.Walsh extra point is GOOD Center-46-C.Loeffler Holder-18-J.Locke.'>28.87</number><number>0.17</number>
+<number shadow='shadow1' tooltip='1:10 PHI 6 MIN 17 LI: 3-B.Walsh kicks 74 yards from MIN 35 to PHI -922-B.Boykin Touchback.'>28.92</number><number>0.16</number>
+<number shadow='shadow1' tooltip='1:02 2-10-PHI 20PHI 6 MIN 17 LI: 0.9(No Huddle Shotgun) 9-N.Foles pass short middle to 14-R.Cooper to PHI 27 for 7 yards(57-A.Cole).'>28.97</number><number>0.15</number>
+<number shadow='shadow1' tooltip='0:41 3-3-PHI 27PHI 6 MIN 17 LI: 0.8(No Huddle Shotgun) 9-N.Foles pass short left to 14-R.Cooper to PHI 37 for 10 yards(36-R.Blanton).'>29.32</number><number>0.19</number>
+<number shadow='shadow1' tooltip='0:35 1-10-PHI 37PHI 6 MIN 17 LI: 1.1(Shotgun) 9-N.Foles pass deep middle to 10-D.Jackson to MIN 42 for 21 yards(57-A.Cole).'>29.42</number><number>0.22</number>
+<number shadow='shadow1' tooltip='0:28 1-10-MIN 42PHI 6 MIN 17 LI: 1.1(Shotgun) 9-N.Foles pass short middle to 10-D.Jackson pushed ob at MIN 36 for 6 yards(35-M.Sherels).'>29.53</number><number>0.22</number>
+<number shadow='shadow1' tooltip='0:22 2-4-MIN 36PHI 6 MIN 17 LI: 1(No Huddle Shotgun) 9-N.Foles pass incomplete deep left to 10-D.Jackson [69-J.Allen].'>29.63</number><number>0.2</number>
+<number shadow='shadow1' tooltip='0:14 3-4-MIN 36PHI 6 MIN 17 LI: 0.8(No Huddle Shotgun) 9-N.Foles pass short right to 25-L.McCoy to MIN 14 for 22 yards(52-C.Greenway).'>29.77</number><number>0.29</number>
+<number shadow='shadow1' tooltip='0:05 1-10-MIN 14PHI 6 MIN 17 LI: 1.46-A.Henery 33 yard field goal is GOOD Center-46-J.Dorenbos Holder-8-D.Jones.'>29.92</number><number>0.21</number>
+<number shadow='shadow1' tooltip='0:05 PHI 9 MIN 17 LI: 3-B.Walsh kicks 74 yards from MIN 35 to PHI -922-B.Boykin Touchback.'>30.01</number><number>0.24</number>
+<number shadow='shadow1' tooltip='14:57 1-10-PHI 20PHI 9 MIN 17 LI: 1.1(No Huddle Shotgun) 9-N.Foles pass short left to 25-L.McCoy to PHI 26 for 6 yards(34-A.Sendejo).'>30.05</number><number>0.24</number>
+<number shadow='shadow1' tooltip='14:30 2-4-PHI 26PHI 9 MIN 17 LI: 1(No Huddle Shotgun) 9-N.Foles sacked at PHI 14 for -12 yards(96-B.Robison).'>30.5</number><number>0.2</number>
+<number shadow='shadow1' tooltip='13:54 3-16-PHI 14PHI 9 MIN 17 LI: 0.8(No Huddle Shotgun) 9-N.Foles pass incomplete deep right to 81-J.Avant.'>31.1</number><number>0.18</number>
+<number shadow='shadow1' tooltip='13:48 4-16-PHI 14PHI 9 MIN 17 LI: 0.68-D.Jones punts 38 yards to MIN 48 Center-46-J.Dorenbos fair catch by 84-C.Patterson.'>31.2</number><number>0.18</number>
+<number shadow='shadow1' tooltip='13:41 1-10-MIN 48PHI 9 MIN 17 LI: 1.144-M.Asiata left tackle to 50 for 2 yards(91-F.Cox; 26-C.Williams).'>31.32</number><number>0.18</number>
+<number shadow='shadow1' tooltip='13:03 2-8-50PHI 9 MIN 17 LI: 1.116-M.Cassel pass deep right to 17-J.Wright to PHI 8 for 42 yards(24-B.Fletcher).'>31.95</number><number>0.11</number>
+<number shadow='shadow1' tooltip='12:40 1-8-PHI 8PHI 9 MIN 17 LI: 1.1(Shotgun) 16-M.Cassel pass short middle to 44-M.Asiata to PHI 6 for 2 yards(96-B.Logan).'>32.33</number><number>0.11</number>
+<number shadow='shadow1' tooltip='12:07 2-6-PHI 6PHI 9 MIN 17 LI: 1.1(Shotgun) 16-M.Cassel up the middle for 6 yards TOUCHDOWN.'>32.88</number><number>0.09</number>
+<number shadow='shadow1' tooltip='12:07 PHI 9 MIN 17 LI: 3-B.Walsh extra point is GOOD Center-46-C.Loeffler Holder-18-J.Locke.'>32.92</number><number>0.09</number>
+<number shadow='shadow1' tooltip='12:07 PHI 9 MIN 24 LI: 3-B.Walsh kicks 65 yards from MIN 35 to end zone Touchback.'>32.97</number><number>0.08</number>
+<number shadow='shadow1' tooltip='11:29 1-10-PHI 33PHI 9 MIN 24 LI: 0.3(No Huddle Shotgun) 9-N.Foles pass incomplete short middle to 10-D.Jackson.'>33.52</number><number>0.09</number>
+<number shadow='shadow1' tooltip='11:24 2-10-PHI 33PHI 9 MIN 24 LI: 0.3(No Huddle Shotgun) 25-L.McCoy right end to PHI 40 for 7 yards(34-A.Sendejo).'>33.6</number><number>0.09</number>
+<number shadow='shadow1' tooltip='10:48 3-3-PHI 40PHI 9 MIN 24 LI: 0.3(No Huddle Shotgun) 9-N.Foles pass short left to 10-D.Jackson pushed ob at MIN 44 for 16 yards(36-R.Blanton).'>34.2</number><number>0.11</number>
+<number shadow='shadow1' tooltip='10:26 1-10-MIN 44PHI 9 MIN 24 LI: 0.4(No Huddle) 9-N.Foles pass deep left intended for 10-D.Jackson INTERCEPTED by 27-S.Prater at MIN 527-S.Prater to MIN 35 for 30 yards(14-R.Cooper).'>34.57</number><number>0.07</number>
+<number shadow='shadow1' tooltip='10:10 1-10-MIN 35PHI 9 MIN 24 LI: 0.444-M.Asiata left guard to MIN 38 for 3 yards(91-F.Cox; 58-T.Cole).'>34.83</number><number>0.06</number>
+<number shadow='shadow1' tooltip='9:30 2-7-MIN 38PHI 9 MIN 24 LI: 0.544-M.Asiata left tackle to MIN 36 for -2 yards(58-T.Cole).'>35.5</number><number>0.07</number>
+<number shadow='shadow1' tooltip='8:51 3-9-MIN 36PHI 9 MIN 24 LI: 0.4(Shotgun) 16-M.Cassel pass short right to 15-G.Jennings to MIN 44 for 8 yards(22-B.Boykin).'>36.15</number><number>0.07</number>
+<number shadow='shadow1' tooltip='8:15 4-1-MIN 44PHI 9 MIN 24 LI: 0.3(Punt formation) PENALTY on MIN-83-R.Smith False Start 5 yards enforced at MIN 44 - No Play.'>36.75</number><number>0.07</number>
+<number shadow='shadow1' tooltip='8:04 4-6-MIN 39PHI 9 MIN 24 LI: 0.318-J.Locke punts 56 yards to PHI 5 Center-46-C.Loeffler10-D.Jackson to PHI 5 for no gain (54-G.Hodges).'>36.93</number><number>0.07</number>
+<number shadow='shadow1' tooltip='7:52 4-6-MIN 39PHI 9 MIN 24 LI: 0.318-J.Locke punts 47 yards to PHI 14 Center-46-C.Loeffler10-D.Jackson ran ob at PHI 15 for 1 yard.'>37.13</number><number>0.06</number>
+<number shadow='shadow1' tooltip='7:40 1-10-PHI 15PHI 9 MIN 24 LI: 0.3(Shotgun) 9-N.Foles pass incomplete deep right to 13-D.Johnson.'>37.33</number><number>0.06</number>
+<number shadow='shadow1' tooltip='7:31 2-10-PHI 15PHI 9 MIN 24 LI: 0.3(No Huddle Shotgun) 9-N.Foles pass short middle to 86-Z.Ertz to PHI 24 for 9 yards(52-C.Greenway; 57-A.Cole).'>37.48</number><number>0.06</number>
+<number shadow='shadow1' tooltip='7:03 3-1-PHI 24PHI 9 MIN 24 LI: 0.2(No Huddle Shotgun) 25-L.McCoy right end to PHI 24 for no gain (22-H.Smith; 52-C.Greenway).'>37.95</number><number>0.05</number>
+<number shadow='shadow1' tooltip='6:26 4-1-PHI 24PHI 9 MIN 24 LI: 0.1(No Huddle Shotgun) 25-L.McCoy up the middle to PHI 24 for no gain (57-A.Cole; 52-C.Greenway)Philadelphia challenged the first down ruling and the play was Upheld(Timeout #1 at 06:04.)'>38.57</number><number>0.04</number>
+<number shadow='shadow1' tooltip='6:04 1-10-PHI 24PHI 9 MIN 24 LI: 0.2(Shotgun) 16-M.Cassel pass incomplete short right to 81-J.Simpson.'>38.93</number><number>0.04</number>
+<number shadow='shadow1' tooltip='5:59 2-10-PHI 24PHI 9 MIN 24 LI: 0.216-M.Cassel sacked at PHI 31 for -7 yards(59-D.Ryans).'>39.02</number><number>0.05</number>
+<number shadow='shadow1' tooltip='5:24 3-17-PHI 31PHI 9 MIN 24 LI: 0.1(Shotgun) 16-M.Cassel pass short right to 17-J.Wright to PHI 20 for 11 yards(21-R.Carmichael).'>39.6</number><number>0.04</number>
+<number shadow='shadow1' tooltip='4:45 4-6-PHI 20PHI 9 MIN 24 LI: 0.13-B.Walsh 38 yard field goal is GOOD Center-46-C.Loeffler Holder-18-J.Locke.'>40.25</number><number>0.04</number>
+<number shadow='shadow1' tooltip='4:45 PHI 9 MIN 27 LI: 3-B.Walsh kicks 71 yards from MIN 35 to PHI -622-B.Boykin to PHI 30 for 36 yards(14-Jo.Webb).'>40.34</number><number>0.04</number>
+<number shadow='shadow1' tooltip='4:38 1-10-PHI 30PHI 9 MIN 27 LI: 0.2(Shotgun) 9-N.Foles pass incomplete deep left to 81-J.Avant.'>40.37</number><number>0.04</number>
+<number shadow='shadow1' tooltip='4:33 2-10-PHI 30PHI 9 MIN 27 LI: 0.2(No Huddle Shotgun) 9-N.Foles pass incomplete short left to 14-R.Cooper.'>40.45</number><number>0.04</number>
+<number shadow='shadow1' tooltip='4:28 3-10-PHI 30PHI 9 MIN 27 LI: 0.2(No Huddle Shotgun) 9-N.Foles pass short middle to 81-J.Avant to PHI 43 for 13 yards(36-R.Blanton).'>40.53</number><number>0.05</number>
+<number shadow='shadow1' tooltip='4:03 1-10-PHI 43PHI 9 MIN 27 LI: 0.2(No Huddle Shotgun) 9-N.Foles pass short right to 10-D.Jackson pushed ob at MIN 42 for 15 yards(35-M.Sherels).'>40.95</number><number>0.05</number>
+<number shadow='shadow1' tooltip='3:49 1-10-MIN 42PHI 9 MIN 27 LI: 0.2(No Huddle) 25-L.McCoy up the middle to MIN 30 for 12 yards(22-H.Smith).'>41.18</number><number>0.05</number>
+<number shadow='shadow1' tooltip='3:20 1-10-MIN 30PHI 9 MIN 27 LI: 0.2(No Huddle Shotgun) 9-N.Foles pass deep left to 10-D.Jackson for 30 yards TOUCHDOWN.'>41.67</number><number>0.11</number>
+<number shadow='shadow1' tooltip='3:20 PHI 9 MIN 27 LI: 6-A.Henery extra point is GOOD Center-46-J.Dorenbos Holder-8-D.Jones.'>41.71</number><number>0.11</number>
+<number shadow='shadow1' tooltip='3:20 PHI 16 MIN 27 LI: 6-A.Henery kicks 40 yards from PHI 35 to MIN 2517-J.Wright to MIN 34 for 9 yards(16-B.Smith).'>41.76</number><number>0.1</number>
+<number shadow='shadow1' tooltip='3:09 1-10-MIN 34PHI 16 MIN 27 LI: 144-M.Asiata left tackle to MIN 38 for 4 yards(55-B.Graham; 23-P.Chung).'>41.85</number><number>0.1</number>
+<number shadow='shadow1' tooltip='2:32 2-6-MIN 38PHI 16 MIN 27 LI: 0.916-M.Cassel pass short right to 15-G.Jennings to MIN 45 for 7 yards(24-B.Fletcher).'>42.47</number><number>0.08</number>
+<number shadow='shadow1' tooltip='2:04 1-10-MIN 45PHI 16 MIN 27 LI: 144-M.Asiata up the middle to MIN 41 for -4 yards(72-C.Thornton).'>42.93</number><number>0.09</number>
+<number shadow='shadow1' tooltip='1:30 2-14-MIN 41PHI 16 MIN 27 LI: 0.916-M.Cassel pass short left intended for 17-J.Wright INTERCEPTED by 95-M.Kendricks at MIN 4795-M.Kendricks to MIN 45 for 2 yards(86-C.Ford).'>43.5</number><number>0.17</number>
+<number shadow='shadow1' tooltip='1:18 1-10-MIN 45PHI 16 MIN 27 LI: 0.9(Shotgun) 9-N.Foles pass short middle to 86-Z.Ertz to MIN 28 for 17 yards(34-A.Sendejo).'>43.7</number><number>0.2</number>
+<number shadow='shadow1' tooltip='0:43 1-10-MIN 28PHI 16 MIN 27 LI: 1(No Huddle Shotgun) 9-N.Foles pass short left to 87-B.Celek to MIN 3 for 25 yards(22-H.Smith).'>44.28</number><number>0.27</number>
+<number shadow='shadow1' tooltip='0:19 1-3-MIN 3PHI 16 MIN 27 LI: 1.6(Shotgun) 9-N.Foles pass short left to 86-Z.Ertz for 3 yards TOUCHDOWN.'>44.68</number><number>0.25</number>
+<number shadow='shadow1' tooltip='0:19 PHI 22 MIN 27 LI: 6-A.Henery kicks 34 yards from PHI 35 to MIN 3186-C.Ford to MIN 46 for 15 yards(24-B.Fletcher).'>44.77</number><number>0.22</number>
+<number shadow='shadow1' tooltip='0:12 1-10-MIN 46PHI 22 MIN 27 LI: 1.416-M.Cassel pass deep right to 17-J.Wright pushed ob at PHI 38 for 16 yards(24-B.Fletcher).'>44.8</number><number>0.19</number>
+<number shadow='shadow1' tooltip='15:00 1-10-PHI 38PHI 22 MIN 27 LI: 1.316-M.Cassel sacked at PHI 42 for -4 yards(95-M.Kendricks).'>45</number><number>0.22</number>
+<number shadow='shadow1' tooltip='14:30 2-14-PHI 42PHI 22 MIN 27 LI: 1.1(Shotgun) 16-M.Cassel pass incomplete short left to 15-G.Jennings.'>45.5</number><number>0.24</number>
+<number shadow='shadow1' tooltip='14:26 3-14-PHI 42PHI 22 MIN 27 LI: 0.9(Shotgun) 16-M.Cassel pass short middle to 86-C.Ford to PHI 5 for 37 yards(23-P.Chung).'>45.57</number><number>0.1</number>
+<number shadow='shadow1' tooltip='13:42 1-5-PHI 5PHI 22 MIN 27 LI: 1.544-M.Asiata up the middle to PHI 1 for 4 yards(91-F.Cox).'>46.3</number><number>0.08</number>
+<number shadow='shadow1' tooltip='13:04 2-1-PHI 1PHI 22 MIN 27 LI: 1.644-M.Asiata left guard for 1 yard TOUCHDOWN.'>46.93</number><number>0.09</number>
+<number shadow='shadow1' tooltip='13:04 PHI 22 MIN 27 LI: 3-B.Walsh extra point is GOOD Center-46-C.Loeffler Holder-18-J.Locke.'>46.97</number><number>0.09</number>
+<number shadow='shadow1' tooltip='13:04 PHI 22 MIN 34 LI: 3-B.Walsh kicks 68 yards from MIN 35 to PHI -316-B.Smith to PHI 44 for 47 yards(3-B.Walsh; 83-R.Smith).'>47.02</number><number>0.11</number>
+<number shadow='shadow1' tooltip='12:52 1-10-PHI 44PHI 22 MIN 34 LI: 0.7(No Huddle Shotgun) 9-N.Foles pass incomplete deep left to 86-Z.Ertz.'>47.13</number><number>0.1</number>
+<number shadow='shadow1' tooltip='12:47 2-10-PHI 44PHI 22 MIN 34 LI: 0.6(No Huddle Shotgun) 9-N.Foles pass short middle to 10-D.Jackson to MIN 48 for 8 yards(36-R.Blanton).'>47.22</number><number>0.1</number>
+<number shadow='shadow1' tooltip='12:10 3-2-MIN 48PHI 22 MIN 34 LI: 0.6(No Huddle Shotgun) 9-N.Foles sacked at PHI 42 for -10 yards(69-J.Allen).'>47.83</number><number>0.06</number>
+<number shadow='shadow1' tooltip='11:44 4-12-PHI 42PHI 22 MIN 34 LI: 0.38-D.Jones punts 38 yards to MIN 20 Center-46-J.Dorenbos fair catch by 35-M.Sherels.'>48.27</number><number>0.06</number>
+<number shadow='shadow1' tooltip='11:38 1-10-MIN 20PHI 22 MIN 34 LI: 1(Shotgun) 16-M.Cassel pass deep left to 15-G.Jennings to PHI 49 for 31 yards(23-P.Chung).'>48.37</number><number>0.03</number>
+<number shadow='shadow1' tooltip='10:56 1-10-PHI 49PHI 22 MIN 34 LI: 0.844-M.Asiata right end to MIN 49 for -2 yards(95-M.Kendricks).'>49.07</number><number>0.06</number>
+<number shadow='shadow1' tooltip='10:14 2-27-MIN 34PHI 22 MIN 34 LI: 0.8(Shotgun) 16-M.Cassel pass short left to 84-C.Patterson to MIN 41 for 7 yards(58-T.Cole).'>49.77</number><number>0.06</number>
+<number shadow='shadow1' tooltip='9:40 3-20-MIN 41PHI 22 MIN 34 LI: 0.744-M.Asiata left guard to MIN 41 for no gain (75-V.Curry; 58-T.Cole).'>50.33</number><number>0.06</number>
+<number shadow='shadow1' tooltip='9:01 4-20-MIN 41PHI 22 MIN 34 LI: 0.718-J.Locke punts 50 yards to PHI 9 Center-69-J.Allen out of bounds.'>50.98</number><number>0.05</number>
+<number shadow='shadow1' tooltip='8:48 1-10-PHI 4PHI 22 MIN 34 LI: 0.3(Shotgun) 9-N.Foles pass short left to 25-L.McCoy to PHI 6 for 2 yards(33-J.Sanford) [93-K.Williams].'>51.2</number><number>0.03</number>
+<number shadow='shadow1' tooltip='8:20 2-8-PHI 6PHI 22 MIN 34 LI: 0.1(No Huddle Shotgun) 9-N.Foles pass incomplete deep right to 86-Z.Ertz.'>51.67</number><number>0.03</number>
+<number shadow='shadow1' tooltip='8:14 3-8-PHI 6PHI 22 MIN 34 LI: 0.1(No Huddle Shotgun) 9-N.Foles pass incomplete deep right to 10-D.Jackson [95-S.Floyd].'>51.77</number><number>0.02</number>
+<number shadow='shadow1' tooltip='8:08 4-8-PHI 6PHI 22 MIN 34 LI: 0.18-D.Jones punts 43 yards to PHI 49 Center-46-J.Dorenbos35-M.Sherels to PHI 36 for 13 yards(85-J.Casey).'>51.87</number><number>0.01</number>
+<number shadow='shadow1' tooltip='7:55 1-10-PHI 36PHI 22 MIN 34 LI: 0.7(Shotgun) 44-M.Asiata left end to PHI 26 for 10 yards(23-P.Chung).'>52.08</number><number>0.02</number>
+<number shadow='shadow1' tooltip='7:34 1-10-PHI 13PHI 22 MIN 34 LI: 0.3(Shotgun) 16-M.Cassel pass short left to 15-G.Jennings to PHI 10 for 3 yards(23-P.Chung).'>52.43</number><number>0.01</number>
+<number shadow='shadow1' tooltip='6:58 1-5-PHI 5PHI 22 MIN 34 LI: 0.3(Shotgun) 16-M.Cassel pass short left to 84-C.Patterson for 5 yards TOUCHDOWN.'>53.03</number><number>0.01</number>
+<number shadow='shadow1' tooltip='6:58 PHI 22 MIN 34 LI: 3-B.Walsh extra point is GOOD Center-46-C.Loeffler Holder-18-J.Locke.'>53.07</number><number>0.01</number>
+<number shadow='shadow1' tooltip='6:58 PHI 22 MIN 41 LI: 3-B.Walsh kicks 65 yards from MIN 35 to end zone Touchback.'>53.12</number><number>0.01</number>
+<number shadow='shadow1' tooltip='6:32 1-10-PHI 34PHI 22 MIN 41 LI: 0.1(No Huddle Shotgun) 9-N.Foles pass short left to 10-D.Jackson pushed ob at PHI 45 for 11 yards(35-M.Sherels).'>53.47</number><number>0.01</number>
+<number shadow='shadow1' tooltip='6:20 1-10-PHI 45PHI 22 MIN 41 LI: 0.1(No Huddle Shotgun) 9-N.Foles pass incomplete short right to 25-L.McCoy.'>53.67</number><number>0.01</number>
+<number shadow='shadow1' tooltip='6:15 2-10-PHI 45PHI 22 MIN 41 LI: 0.1(No Huddle Shotgun) 9-N.Foles pass incomplete deep right to 14-R.Cooper.'>53.75</number><number>0.01</number>
+<number shadow='shadow1' tooltip='6:10 3-10-PHI 45PHI 22 MIN 41 LI: 0.1(No Huddle Shotgun) 9-N.Foles pass short left to 10-D.Jackson pushed ob at MIN 4 for 51 yards(22-H.Smith) [69-J.Allen].'>53.83</number><number>0.01</number>
+<number shadow='shadow1' tooltip='5:23 1-4-MIN 4PHI 22 MIN 41 LI: 0.1(No Huddle Shotgun) PENALTY on PHI-9-N.Foles Delay of Game 5 yards enforced at MIN 4 - No Play.'>54.62</number><number>0.01</number>
+<number shadow='shadow1' tooltip='5:08 1-9-MIN 9PHI 22 MIN 41 LI: 0.1(No Huddle Shotgun) 9-N.Foles sacked at MIN 16 for -7 yards(96-B.Robison).'>54.87</number><number>0.01</number>
+<number shadow='shadow1' tooltip='4:33 2-16-MIN 16PHI 22 MIN 41 LI: 0.1(No Huddle Shotgun) 9-N.Foles pass deep right to 81-J.Avant for 16 yards TOUCHDOWN.'>55.45</number><number>0.03</number>
+<number shadow='shadow1' tooltip='4:33 PHI 30 MIN 41 LI: 6-A.Henery kicks onside 13 yards from PHI 35 to PHI 4881-J.Simpson (didn&#39;t try to advance) to PHI 48 for no gain (85-J.Casey).'>55.54</number><number>0.01</number>
+<number shadow='shadow1' tooltip='4:25 1-10-PHI 48PHI 30 MIN 41 LI: 1.344-M.Asiata up the middle to PHI 45 for 3 yards(98-C.Barwin).'>55.58</number><number>0.01</number>
+<number shadow='shadow1' tooltip='3:43 2-7-PHI 45PHI 30 MIN 41 LI: 1.144-M.Asiata up the middle to PHI 48 for -3 yards(58-T.Cole).'>56.28</number><number>0.01</number>
+<number shadow='shadow1' tooltip='3:01 3-10-PHI 48PHI 30 MIN 41 LI: 1.3(Shotgun) 16-M.Cassel pass short right to 84-C.Patterson pushed ob at PHI 37 for 11 yards(24-B.Fletcher).'>56.98</number><number>0.01</number>
+<number shadow='shadow1' tooltip='2:56 1-10-PHI 37PHI 30 MIN 41 LI: 0.744-M.Asiata right guard to PHI 35 for 2 yards(59-D.Ryans; 96-B.Logan).'>57.07</number><number>0.01</number>
+<number shadow='shadow1' tooltip='2:12 2-8-PHI 35PHI 30 MIN 41 LI: 0.444-M.Asiata up the middle to PHI 37 for -2 yards(95-M.Kendricks).'>57.8</number><number>0.01</number>
+<number shadow='shadow1' tooltip='2:08 3-10-PHI 37PHI 30 MIN 41 LI: 0.4(Shotgun) 16-M.Cassel pass incomplete deep right to 84-C.Patterson.'>57.87</number><number>0.01</number>
+<number shadow='shadow1' tooltip='2:02 1-7-PHI 7PHI 30 MIN 41 LI: 0.144-M.Asiata left tackle to PHI 4 for 3 yards(91-F.Cox).'>57.97</number><number>0.01</number>
+<number shadow='shadow1' tooltip='1:57 2-4-PHI 4PHI 30 MIN 41 LI: 0.144-M.Asiata right guard to PHI 5 for -1 yards(72-C.Thornton; 95-M.Kendricks).'>58.05</number><number>0.01</number>
+<number shadow='shadow1' tooltip='1:13 3-5-PHI 5PHI 30 MIN 41 LI: 0.144-M.Asiata left guard for 5 yards TOUCHDOWN.'>58.78</number><number>0.01</number>
+<number shadow='shadow1' tooltip='1:13 PHI 30 MIN 41 LI: 3-B.Walsh extra point is GOOD Center-46-C.Loeffler Holder-18-J.Locke.'>58.82</number><number>0.01</number>
+<number shadow='shadow1' tooltip='1:13 PHI 30 MIN 48 LI: 3-B.Walsh kicks 65 yards from MIN 35 to end zone Touchback.'>58.87</number><number>0.01</number>
+<number shadow='shadow1' tooltip='1:04 2-10-PHI 20PHI 30 MIN 48 LI: 0.1(No Huddle Shotgun) 9-N.Foles pass short right to 86-Z.Ertz to PHI 31 for 11 yards(36-R.Blanton).'>58.93</number><number>0.01</number>
+<number shadow='shadow1' tooltip='0:40 1-10-PHI 31PHI 30 MIN 48 LI: 0.1(No Huddle Shotgun) 9-N.Foles pass short middle to 86-Z.Ertz to PHI 44 for 13 yards(36-R.Blanton).'>59.33</number><number>0.01</number>
+<number shadow='shadow1' tooltip='0:16 1-10-PHI 44PHI 30 MIN 48 LI: 0.1(No Huddle Shotgun) 9-N.Foles pass short right to 81-J.Avant to MIN 45 for 11 yards(36-R.Blanton).'>59.73</number><number>0</number>
+<number>60</number><number>0</number>
+</row> </chart_data>
+       <draw>
+
+
+
+      <image x='45' y='298'  url='nfllogos/42x50png/PHI.gif'  layer='foreground' glow = 'glow1'/>
+      <image x='45' y='350'  url='nfllogos/42x50png/MIN.gif'     layer='foreground' glow = 'glow1'/>
+
+
+      <rect x='130' y='300' width='250' height='40' fill_color='00444c' bevel='bevel1' />
+      <text x='135' y='300' width='250' height='40' h_align='left' v_align='middle' color='ffffff' shadow='shadow2' glow=''>Philadelphia Eagles</text>
+
+      <rect x='130' y='350' width='250' height='40' fill_color='262456' bevel='bevel1'  />
+      <text x='135' y='350' width='250' height='40' h_align='left' v_align='middle' color='ffffff' shadow='shadow2' glow='winnerglow'>Minnesota Vikings</text>
+
+      <rect x='420' y='300' width='60' height='40' fill_color='00444c' bevel='bevel1'  />
+      <text x='420' y='300' width='60' height='40' h_align='center' v_align='middle' color='ffffff' shadow='shadow2' transition='none' glow=''>30</text>
+
+      <rect x='420' y='350' width='60' height='40' fill_color='262456' bevel='bevel1' />
+      <text x='420' y='350' width='60' height='40' h_align='center' v_align='middle' color='ffffff' shadow='shadow2' transition='none' glow='winnerglow'>48</text>
+
+      <text x='-3' y='12'  width='60' height='40' h_align='center' v_align='middle' size='13' shadow='shadow2'>PHIWin </text>
+      <text x='-3' y='218' width='60' height='40' h_align='center' v_align='middle' size='13' shadow='shadow2'>MINWin </text>
+
+     
+              <rect x='540' y='300' width='100' height='35' fill_color='000000' fill_alpha='50'/>
+              <text x='540' y='300' width='100' height='35' h_align='center' v_align='middle' color='ffffff' size='15' shadow='shadow2' >Final</text>
+
+              <text x='540' y='340' width='40' h_align='center' color='000000' size='12' shadow='shadow2'>CBF</text>
+              <text x='600' y='340' width='40' h_align='center' color='000000' size='12' shadow='shadow2'>EI</text>
+
+              <rect x='540' y='360' width='40' height='30' fill_color='000000' fill_alpha='50' />
+              <text x='540' y='360' width='40' height='30' size='12' h_align='center' v_align='middle' color='FFFFFF' shadow='shadow2'>2</text>
+
+              <rect x='600' y='360' width='40' height='30' fill_color='000000' fill_alpha='50' />
+              <text x='600' y='360' width='40' height='30' size='12' h_align='center' v_align='middle' color='FFFFFF' shadow='shadow2'>3.3</text>
+
+              <text x='20' y='420' width='70' height='25' size='12' h_align='left' v_align='middle' color='000000' >12/15/2013</text>
+              <text x='100' y='420' width='200' height='25' size='12' h_align='left' v_align='middle' color='000000' >Mall of America Field at HHH Metrodome</text>
+
+   </draw></chart>

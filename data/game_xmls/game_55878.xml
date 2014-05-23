@@ -1,0 +1,318 @@
+
+<chart>
+   <license>ETAS9P33ESHO.945CWK-2XOI1X0-7L</license>
+   <chart_type>scatter</chart_type>
+   <chart_pref trend_thickness='0' line_thickness='3' point_size='0'/>
+
+   <series_color>
+      <color>ffff00</color>
+   </series_color>
+
+   <chart_rect x='45' y='20' width='630' height='230' positive_color='cacaca'  />
+
+  <chart_border top_thickness='0'
+                 bottom_thickness='0'
+                 left_thickness='0'
+                 right_thickness='0'
+                 color='000000'
+                 />
+
+   <tooltip font='Arial' bold='true' size='11' />
+
+   <chart_note type='flag'
+               color='000000'
+               alpha='90'
+               bold='FALSE'
+               size='10'
+               background_color='ffffe0'
+               background_alpha='50'
+               shadow='shadow2'
+               />
+
+   <chart_grid_h thickness='2' color='ffffff' type='dashed'  />
+   <chart_grid_v thickness='2' color='ffffff'   />
+		>
+
+   <legend layout='hide' />
+
+   <chart_guide horizontal='TRUE'
+             vertical='TRUE'
+             thickness='1'
+             color='006400'
+             alpha='100'
+             type='solid'
+             snap_h='TRUE'
+             snap_v='TRUE'
+             radius='3'
+             fill_color='006400'
+             fill_alpha='100'
+             line_color='006400'
+             line_alpha='80'
+             line_thickness='1'
+             text_h_alpha='50'
+             text_v_alpha='00'
+             suffix_h=' WP'
+             decimals='2'
+             bold='FALSE'
+             size='11'
+             text_color='FFFFFF'
+             background_color='006400'
+             />
+   <filter>
+      <shadow id='shadow1' distance='2' angle='60' blurX='5' blurY='5' alpha='50' />
+      <bevel id='bevel1' angle='45' blurX='5' blurY='5' distance='0' />
+      <glow id='glow1' color='ffffff' alpha='0' blurX='7' blurY='7' strength='6' quality='2' inner='FALSE' knockout='FALSE' />
+      <glow id='winnerglow' color='ffffff' alpha='0' blurX='7' blurY='7' strength='5' quality='2' inner='FALSE' knockout='FALSE' />
+   </filter>
+
+    <axis_value_label>
+         <string></string>
+          <string> </string>
+          <null/>
+          <string> </string>
+          <string></string>
+
+       </axis_value_label>
+		
+	   <axis_ticks category_ticks='false'/>
+
+       <axis_value min='0' max='1' steps='4'  decimals='2' show_min='true' size='13' shadow='shadow2' />     
+            <axis_category
+               min='0'
+               max='60'
+               steps='4'
+               mode='all'
+               decimals='0'
+               size='13'
+               shadow='shadow2'
+               />
+
+       <axis_category_label>
+          <string>Kickoff</string>
+          <string></string>
+          <string>Halftime</string>
+          <string></string>
+          <string>End</string>
+
+       </axis_category_label>
+
+
+        <chart_data>
+       <row>
+	      <null/><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number>
+              <number>x</number><number>y</number>
+              </row><row><string></string>
+
+                     <number shadow='shadow1'>0</number><number>.5</number><number shadow='shadow1' tooltip='15:00 DET 0 WAS 0 LI: 1-J.Potter kicks 65 yards from WAS 35 to end zone Touchback.'>0.09</number><number>0.52</number>
+<number shadow='shadow1' tooltip='14:40 2-17-DET 13DET 0 WAS 0 LI: 1.5(No Huddle Shotgun) 35-J.Bell right tackle to DET 22 for 9 yards(56-P.Riley; 91-R.Kerrigan).'>0.33</number><number>0.48</number>
+<number shadow='shadow1' tooltip='13:59 3-8-DET 22DET 0 WAS 0 LI: 1.2(Shotgun) 9-M.Stafford pass deep right to 81-C.Johnson to DET 45 for 23 yards(23-D.Hall; 31-B.Meriweather).'>1.02</number><number>0.56</number>
+<number shadow='shadow1' tooltip='13:22 1-10-DET 45DET 0 WAS 0 LI: 1.4(No Huddle) 35-J.Bell left end to DET 47 for 2 yards(56-P.Riley; 98-B.Orakpo).'>1.63</number><number>0.55</number>
+<number shadow='shadow1' tooltip='12:57 2-8-DET 47DET 0 WAS 0 LI: 1.2(No Huddle) 9-M.Stafford pass incomplete short right to 87-B.Pettigrew [91-R.Kerrigan].'>2.05</number><number>0.53</number>
+<number shadow='shadow1' tooltip='12:52 3-8-DET 47DET 0 WAS 0 LI: 1(Shotgun) 9-M.Stafford pass incomplete short middle to 87-B.Pettigrew.'>2.13</number><number>0.49</number>
+<number shadow='shadow1' tooltip='12:48 4-8-DET 47DET 0 WAS 0 LI: 0.66-S.Martin punts 53 yards to end zone Center-48-D.Muhlbach Touchback.'>2.2</number><number>0.48</number>
+<number shadow='shadow1' tooltip='12:39 1-10-WAS 20DET 0 WAS 0 LI: 1.688-P.Garcon right end to WAS 30 for 10 yards(31-R.Mathis)End around'>2.35</number><number>0.46</number>
+<number shadow='shadow1' tooltip='12:04 1-10-WAS 30DET 0 WAS 0 LI: 1.6(Shotgun) 46-A.Morris left end to WAS 39 for 9 yards(26-L.Delmas; 55-S.Tulloch).'>2.93</number><number>0.45</number>
+<number shadow='shadow1' tooltip='11:25 2-1-WAS 39DET 0 WAS 0 LI: 1.410-R.Griffin pass short left to 88-P.Garcon to WAS 36 for -3 yards(98-N.Fairley; 26-L.Delmas).'>3.58</number><number>0.48</number>
+<number shadow='shadow1' tooltip='10:44 3-4-WAS 36DET 0 WAS 0 LI: 1.2(Shotgun) 10-R.Griffin pass short right to 85-L.Hankerson pushed ob at WAS 42 for 6 yards(23-C.Houston).'>4.27</number><number>0.45</number>
+<number shadow='shadow1' tooltip='10:16 1-10-WAS 42DET 0 WAS 0 LI: 1.4(Shotgun) 10-R.Griffin right end pushed ob at WAS 49 for 7 yards(27-G.Quin).'>4.73</number><number>0.44</number>
+<number shadow='shadow1' tooltip='9:50 2-3-WAS 49DET 0 WAS 0 LI: 1.310-R.Griffin pass incomplete deep left to 82-L.Paulsen.'>5.17</number><number>0.46</number>
+<number shadow='shadow1' tooltip='9:44 3-3-WAS 49DET 0 WAS 0 LI: 1.1(Shotgun) 10-R.Griffin pass incomplete short middle to 11-A.Robinson (23-C.Houston).'>5.27</number><number>0.51</number>
+<number shadow='shadow1' tooltip='9:39 4-3-WAS 49DET 0 WAS 0 LI: 0.66-S.Rocca punts 42 yards to DET 9 Center-57-N.Sundberg fair catch by 15-M.Spurlock.'>5.35</number><number>0.5</number>
+<number shadow='shadow1' tooltip='9:31 1-10-DET 9DET 0 WAS 0 LI: 1.7(Shotgun) 9-M.Stafford pass short right intended for 81-C.Johnson INTERCEPTED by 23-D.Hall at DET 1723-D.Hall for 17 yards TOUCHDOWN.'>5.48</number><number>0.29</number>
+<number shadow='shadow1' tooltip='9:31 DET 0 WAS 0 LI: 1-J.Potter extra point is GOOD Center-57-N.Sundberg Holder-6-S.Rocca.'>5.52</number><number>0.29</number>
+<number shadow='shadow1' tooltip='9:31 DET 0 WAS 7 LI: 1-J.Potter kicks 65 yards from WAS 35 to DET 015-M.Spurlock to DET 15 for 15 yards(53-B.Kehl)WAS-24-B.Rambo was injured during the playHis return is Probable cramps'>5.57</number><number>0.27</number>
+<number shadow='shadow1' tooltip='9:19 1-10-DET 15DET 0 WAS 7 LI: 1.535-J.Bell left guard to DET 15 for no gain (56-P.Riley; 95-C.Neild).'>5.68</number><number>0.26</number>
+<number shadow='shadow1' tooltip='8:36 2-10-DET 15DET 0 WAS 7 LI: 1.4(Shotgun) 9-M.Stafford pass incomplete short right to 13-N.Burleson.'>6.4</number><number>0.25</number>
+<number shadow='shadow1' tooltip='8:33 3-10-DET 15DET 0 WAS 7 LI: 1.3(Shotgun) 9-M.Stafford pass short middle to 35-J.Bell to WAS 48 for 37 yards(26-J.Wilson) [56-P.Riley]PENALTY on WAS-56-P.Riley Roughing the Passer 15 yards enforced at WAS 48.'>6.45</number><number>0.35</number>
+<number shadow='shadow1' tooltip='7:59 1-10-WAS 33DET 0 WAS 7 LI: 0.935-J.Bell up the middle to WAS 35 for -2 yards(59-L.Fletcher 26-J.Wilson).'>7.02</number><number>0.33</number>
+<number shadow='shadow1' tooltip='7:15 2-12-WAS 35DET 0 WAS 7 LI: 0.8(Shotgun) 9-M.Stafford pass short left to 13-N.Burleson pushed ob at WAS 29 for 6 yards(23-D.Hall).'>7.75</number><number>0.34</number>
+<number shadow='shadow1' tooltip='6:42 3-6-WAS 29DET 0 WAS 7 LI: 0.7(Shotgun) 9-M.Stafford pass incomplete deep right to 81-C.JohnsonPENALTY on WAS-59-L.Fletcher Defensive Holding 5 yards enforced at WAS 29 - No Play.'>8.3</number><number>0.36</number>
+<number shadow='shadow1' tooltip='6:37 1-10-WAS 24DET 0 WAS 7 LI: 0.8(Shotgun) 9-M.Stafford pass short left to 13-N.Burleson to WAS 23 for 1 yard(39-D.Amerson).'>8.38</number><number>0.4</number>
+<number shadow='shadow1' tooltip='5:53 2-9-WAS 23DET 0 WAS 7 LI: 1.2(Shotgun) 9-M.Stafford pass short middle to 35-J.Bell to WAS 12 for 11 yards(56-P.Riley; 59-L.Fletcher) [96-B.Cofield]WAS-98-B.Orakpo was injured during the playHis return is Questionable Head injury'>9.12</number><number>0.44</number>
+<number shadow='shadow1' tooltip='5:20 1-10-WAS 12DET 0 WAS 7 LI: 1.3(Shotgun) 35-J.Bell right guard for 12 yards TOUCHDOWN.'>9.67</number><number>0.47</number>
+<number shadow='shadow1' tooltip='5:20 DET 0 WAS 7 LI: 2-D.Akers extra point is GOOD Center-48-D.Muhlbach Holder-6-S.Martin.'>9.71</number><number>0.47</number>
+<number shadow='shadow1' tooltip='5:20 DET 7 WAS 7 LI: 6-S.Martin kicks 65 yards from DET 35 to WAS 025-C.Thompson to WAS 16 for 16 yards(24-D.Gomes).'>9.76</number><number>0.47</number>
+<number shadow='shadow1' tooltip='5:05 1-10-WAS 19DET 7 WAS 7 LI: 1.5(Shotgun) 46-A.Morris left end to WAS 20 for 1 yard(54-D.Levy).'>9.92</number><number>0.5</number>
+<number shadow='shadow1' tooltip='4:30 2-9-WAS 20DET 7 WAS 7 LI: 1.410-R.Griffin pass incomplete short right to 46-A.Morris [94-E.Ansah].'>10.5</number><number>0.52</number>
+<number shadow='shadow1' tooltip='4:24 3-9-WAS 20DET 7 WAS 7 LI: 1.2(Shotgun) 10-R.Griffin pass short left to 89-S.Moss to WAS 25 for 5 yards(26-L.Delmas; 98-N.Fairley).'>10.6</number><number>0.54</number>
+<number shadow='shadow1' tooltip='3:52 4-4-WAS 25DET 7 WAS 7 LI: 0.96-S.Rocca punts 60 yards to DET 15 Center-57-N.Sundberg15-M.Spurlock to DET 24 for 9 yards(45-J.Murphy 36-D.Young)PENALTY on DET-52-R.McIntosh Offensive Holding 7 yards enforced at DET 15Penalty on DET-50-Tr.Lewis Illegal Block Above the Waist declined.'>11.13</number><number>0.5</number>
+<number shadow='shadow1' tooltip='3:39 1-10-DET 8DET 7 WAS 7 LI: 1.89-M.Stafford pass deep middle to 81-C.Johnson to DET 26 for 18 yards(23-D.Hall).'>11.35</number><number>0.53</number>
+<number shadow='shadow1' tooltip='3:04 1-10-DET 26DET 7 WAS 7 LI: 1.635-J.Bell left tackle to DET 30 for 4 yards(59-L.Fletcher 26-J.Wilson).'>11.93</number><number>0.52</number>
+<number shadow='shadow1' tooltip='2:26 2-6-DET 30DET 7 WAS 7 LI: 1.4(Shotgun) 9-M.Stafford pass incomplete short middle to 13-N.Burleson.'>12.57</number><number>0.5</number>
+<number shadow='shadow1' tooltip='2:22 3-6-DET 30DET 7 WAS 7 LI: 1.2(Shotgun) 9-M.Stafford pass deep middle to 81-C.Johnson to 50 for 20 yards(31-B.Meriweather).'>12.63</number><number>0.57</number>
+<number shadow='shadow1' tooltip='1:43 1-10-50DET 7 WAS 7 LI: 1.4(Shotgun) 9-M.Stafford pass short middle to 84-R.Broyles to WAS 33 for 17 yards(31-B.Meriweather).'>13.28</number><number>0.61</number>
+<number shadow='shadow1' tooltip='0:59 1-10-WAS 33DET 7 WAS 7 LI: 1.59-M.Stafford pass short middle to 13-N.Burleson to WAS 18 for 15 yards(31-B.Meriweather).'>14.02</number><number>0.64</number>
+<number shadow='shadow1' tooltip='0:17 1-10-WAS 18DET 7 WAS 7 LI: 1.5(Shotgun) 35-J.Bell up the middle to WAS 5 for 13 yards(91-R.Kerrigan).'>14.72</number><number>0.68</number>
+<number shadow='shadow1' tooltip='15:00 1-5-WAS 5DET 7 WAS 7 LI: 1.8(Shotgun) 9-M.Stafford pass incomplete short left to 35-J.Bell.'>15</number><number>0.68</number>
+<number shadow='shadow1' tooltip='14:56 2-5-WAS 5DET 7 WAS 7 LI: 1.8(Shotgun) 9-M.Stafford pass incomplete short right to 81-C.Johnson (91-R.Kerrigan) [96-B.Cofield].'>15.07</number><number>0.65</number>
+<number shadow='shadow1' tooltip='14:53 3-5-WAS 5DET 7 WAS 7 LI: 1.5(Shotgun) 9-M.Stafford pass short middle to 80-J.Fauria for 5 yards TOUCHDOWN.'>15.12</number><number>0.71</number>
+<number shadow='shadow1' tooltip='14:53 DET 7 WAS 7 LI: 2-D.Akers extra point is GOOD Center-48-D.Muhlbach Holder-6-S.Martin.'>15.16</number><number>0.71</number>
+<number shadow='shadow1' tooltip='14:53 DET 14 WAS 7 LI: 6-S.Martin kicks 65 yards from DET 35 to end zone Touchback.'>15.21</number><number>0.72</number>
+<number shadow='shadow1' tooltip='14:47 1-10-WAS 20DET 14 WAS 7 LI: 1.4(Shotgun) 10-R.Griffin pass short middle to 86-J.Reed to WAS 31 for 11 yards(27-G.Quin).'>15.22</number><number>0.7</number>
+<number shadow='shadow1' tooltip='14:14 1-10-WAS 31DET 14 WAS 7 LI: 1.3(Shotgun) 46-A.Morris left guard to WAS 35 for 4 yards(79-W.Young 90-N.Suh).'>15.77</number><number>0.7</number>
+<number shadow='shadow1' tooltip='13:39 2-6-WAS 35DET 14 WAS 7 LI: 1.3(Shotgun) 46-A.Morris right end to WAS 37 for 2 yards(79-W.Young 94-E.Ansah).'>16.35</number><number>0.71</number>
+<number shadow='shadow1' tooltip='13:03 3-4-WAS 37DET 14 WAS 7 LI: 1.110-R.Griffin pass short right to 88-P.Garcon to WAS 44 for 7 yards(54-D.Levy 23-C.Houston).'>16.95</number><number>0.68</number>
+<number shadow='shadow1' tooltip='12:27 1-10-WAS 44DET 14 WAS 7 LI: 1.3(Shotgun) 46-A.Morris left end to WAS 49 for 5 yards(79-W.Young).'>17.55</number><number>0.69</number>
+<number shadow='shadow1' tooltip='11:51 2-5-WAS 49DET 14 WAS 7 LI: 1.1(Shotgun) 10-R.Griffin pass short middle to 88-P.Garcon to DET 43 for 8 yards(23-C.Houston).'>18.15</number><number>0.67</number>
+<number shadow='shadow1' tooltip='11:11 1-10-DET 43DET 14 WAS 7 LI: 1.1(Shotgun) 10-R.Griffin pass short right to 82-L.Paulsen to DET 30 for 13 yards(58-A.Palmer).'>18.82</number><number>0.65</number>
+<number shadow='shadow1' tooltip='10:34 1-10-DET 30DET 14 WAS 7 LI: 1(Shotgun) 10-R.Griffin pass short right to 85-L.Hankerson pushed ob at DET 25 for 5 yards(28-D.Bentley).'>19.43</number><number>0.65</number>
+<number shadow='shadow1' tooltip='10:10 2-5-DET 25DET 14 WAS 7 LI: 0.946-A.Morris left end to DET 15 for 10 yards(27-G.Quin; 54-D.Levy)PENALTY on WAS-88-P.Garcon Illegal Formation 5 yards enforced at DET 25 - No Play88-P.Garcon covered up the tight end'>19.83</number><number>0.66</number>
+<number shadow='shadow1' tooltip='9:41 2-10-DET 30DET 14 WAS 7 LI: 0.910-R.Griffin pass short left to 86-J.Reed pushed ob at DET 19 for 11 yards(27-G.Quin).'>20.32</number><number>0.64</number>
+<number shadow='shadow1' tooltip='9:07 1-10-DET 19DET 14 WAS 7 LI: 0.910-R.Griffin pass short right intended for 88-P.Garcon INTERCEPTED by 23-C.Houston [79-W.Young] at DET 1323-C.Houston to DET 17 for 4 yards(88-P.Garcon).'>20.88</number><number>0.73</number>
+<number shadow='shadow1' tooltip='8:58 1-10-DET 17DET 14 WAS 7 LI: 0.935-J.Bell up the middle to DET 18 for 1 yard(56-P.Riley; 91-R.Kerrigan).'>21.03</number><number>0.73</number>
+<number shadow='shadow1' tooltip='8:15 2-9-DET 18DET 14 WAS 7 LI: 0.9(Shotgun) 9-M.Stafford pass short middle to 41-T.Riddick to DET 26 for 8 yards(56-P.Riley).'>21.75</number><number>0.75</number>
+<number shadow='shadow1' tooltip='7:37 3-1-DET 26DET 14 WAS 7 LI: 19-M.Stafford pass short right to 85-T.Scheffler to DET 25 for -1 yards(91-R.Kerrigan).'>22.38</number><number>0.71</number>
+<number shadow='shadow1' tooltip='7:04 4-2-DET 25DET 14 WAS 7 LI: 0.66-S.Martin punts 54 yards to WAS 21 Center-48-D.Muhlbach25-C.Thompson to WAS 28 for 7 yards(52-R.McIntosh; 29-J.Wendling).'>22.93</number><number>0.72</number>
+<number shadow='shadow1' tooltip='6:53 1-10-WAS 28DET 14 WAS 7 LI: 1.1(Shotgun) 10-R.Griffin pass deep right to 11-A.Robinson to DET 43 for 29 yards(55-S.Tulloch; 58-A.Palmer)PENALTY on WAS-71-T.Williams Offensive Holding 10 yards enforced at WAS 28 - No Play.'>23.12</number><number>0.73</number>
+<number shadow='shadow1' tooltip='6:19 1-20-WAS 18DET 14 WAS 7 LI: 1.210-R.Griffin pass incomplete short left to 86-J.Reed.'>23.68</number><number>0.76</number>
+<number shadow='shadow1' tooltip='6:14 2-20-WAS 18DET 14 WAS 7 LI: 0.9(Shotgun) 10-R.Griffin pass short middle to 86-J.Reed to WAS 30 for 12 yards(27-G.Quin)DET-91-J.Jones was injured during the playHe is Out Knee'>23.77</number><number>0.74</number>
+<number shadow='shadow1' tooltip='5:27 3-3-WAS 35DET 14 WAS 7 LI: 0.9(Shotgun) 10-R.Griffin pass short middle to 15-J.Morgan to WAS 47 for 12 yards(31-R.Mathis).'>24.55</number><number>0.69</number>
+<number shadow='shadow1' tooltip='4:53 1-10-WAS 47DET 14 WAS 7 LI: 1.110-R.Griffin pass incomplete deep middle to 88-P.Garcon.'>25.12</number><number>0.71</number>
+<number shadow='shadow1' tooltip='4:47 2-10-WAS 47DET 14 WAS 7 LI: 0.946-A.Morris right guard to DET 48 for 5 yards(27-G.Quin).'>25.22</number><number>0.71</number>
+<number shadow='shadow1' tooltip='4:07 3-5-DET 48DET 14 WAS 7 LI: 0.8(Shotgun) 10-R.Griffin pass short right to 89-S.Moss pushed ob at DET 30 for 18 yards(23-C.Houston).'>25.88</number><number>0.65</number>
+<number shadow='shadow1' tooltip='3:38 1-10-DET 30DET 14 WAS 7 LI: 1.246-A.Morris right end for 30 yards TOUCHDOWN.'>26.37</number><number>0.53</number>
+<number shadow='shadow1' tooltip='3:38 DET 14 WAS 7 LI: 1-J.Potter extra point is GOOD Center-57-N.Sundberg Holder-6-S.Rocca.'>26.41</number><number>0.53</number>
+<number shadow='shadow1' tooltip='3:38 DET 14 WAS 14 LI: 1-J.Potter kicks 65 yards from WAS 35 to end zone Touchback.'>26.46</number><number>0.52</number>
+<number shadow='shadow1' tooltip='3:29 1-10-DET 20DET 14 WAS 14 LI: 1.6(Shotgun) 41-T.Riddick left guard to DET 22 for 2 yards(72-S.Bowen; 64-K.Golston).'>26.52</number><number>0.5</number>
+<number shadow='shadow1' tooltip='2:52 2-8-DET 22DET 14 WAS 14 LI: 1.3(Shotgun) 9-M.Stafford pass short middle to 81-C.Johnson to DET 35 for 13 yards(31-B.Meriweather).'>27.13</number><number>0.54</number>
+<number shadow='shadow1' tooltip='2:12 1-10-DET 35DET 14 WAS 14 LI: 1.441-T.Riddick left end to DET 31 for -4 yards(98-B.Orakpo).'>27.8</number><number>0.51</number>
+<number shadow='shadow1' tooltip='2:00 2-14-DET 31DET 14 WAS 14 LI: 1.2(Shotgun) 9-M.Stafford pass short middle to 13-N.Burleson pushed ob at WAS 28 for 41 yards(31-B.Meriweather).'>28</number><number>0.62</number>
+<number shadow='shadow1' tooltip='1:50 1-10-WAS 28DET 14 WAS 14 LI: 1.5(Shotgun) 9-M.Stafford pass short middle to 84-R.Broyles to WAS 14 for 14 yards(31-B.Meriweather).'>28.17</number><number>0.69</number>
+<number shadow='shadow1' tooltip='1:09 1-10-WAS 14DET 14 WAS 14 LI: 1.9(Shotgun) 9-M.Stafford pass incomplete short right to 81-C.Johnson (23-D.Hall).'>28.85</number><number>0.67</number>
+<number shadow='shadow1' tooltip='1:03 2-10-WAS 14DET 14 WAS 14 LI: 1.7(Shotgun) 9-M.Stafford pass incomplete short middle to 81-C.Johnson [72-S.Bowen].'>28.95</number><number>0.65</number>
+<number shadow='shadow1' tooltip='0:58 3-10-WAS 14DET 14 WAS 14 LI: 1.5(Shotgun) 9-M.Stafford pass incomplete short middle to 81-C.Johnson [56-P.Riley].'>29.03</number><number>0.6</number>
+<number shadow='shadow1' tooltip='0:49 4-10-WAS 14DET 14 WAS 14 LI: 12-D.Akers 32 yard field goal is GOOD Center-48-D.Muhlbach Holder-6-S.Martin.'>29.18</number><number>0.61</number>
+<number shadow='shadow1' tooltip='0:49 DET 17 WAS 14 LI: 6-S.Martin kicks 69 yards from DET 35 to WAS -425-C.Thompson to WAS 22 for 26 yards(29-J.Wendling; 52-R.McIntosh).'>29.27</number><number>0.62</number>
+<number shadow='shadow1' tooltip='0:38 1-10-WAS 22DET 17 WAS 14 LI: 1.110-R.Griffin pass incomplete short right to 88-P.GarconPENALTY on DET-23-C.Houston Defensive Pass Interference 4 yards enforced at WAS 22 - No Play.'>29.37</number><number>0.61</number>
+<number shadow='shadow1' tooltip='0:36 1-10-WAS 26DET 17 WAS 14 LI: 1.1(Shotgun) 10-R.Griffin pass short middle to 86-J.Reed to WAS 35 for 9 yards(54-D.Levy).'>29.4</number><number>0.58</number>
+<number shadow='shadow1' tooltip='0:17 2-1-WAS 35DET 17 WAS 14 LI: 1.3(No Huddle Shotgun) 10-R.Griffin pass short middle to 89-S.Moss to WAS 41 for 6 yards(55-S.Tulloch).'>29.72</number><number>0.57</number>
+<number shadow='shadow1' tooltip='0:13 1-10-WAS 41DET 17 WAS 14 LI: 1.3(Shotgun) 10-R.Griffin sacked at WAS 33 for -8 yards(94-E.Ansah)FUMBLES (94-E.Ansah) and recovers at WAS 2810-R.Griffin to WAS 28 for no gain (90-N.Suh)PENALTY on DET-98-N.Fairley Unnecessary Roughness 15 yards enforced at WAS 28.'>29.78</number><number>0.57</number>
+<number shadow='shadow1' tooltip='0:02 1-10-WAS 43DET 17 WAS 14 LI: 1.3(Shotgun) 10-R.Griffin pass incomplete deep right to 85-L.Hankerson.'>29.97</number><number>0.64</number>
+<number shadow='shadow1' tooltip='0:02 DET 17 WAS 14 LI: 6-S.Martin kicks 50 yards from DET 35 to WAS 15 out of bounds.'>30.06</number><number>0.57</number>
+<number shadow='shadow1' tooltip='14:21 2-6-WAS 44DET 17 WAS 14 LI: 1.1(Shotgun) 10-R.Griffin pass deep left to 88-P.Garcon pushed ob at DET 29 for 27 yards(26-L.Delmas).'>30.65</number><number>0.49</number>
+<number shadow='shadow1' tooltip='13:38 1-10-DET 29DET 17 WAS 14 LI: 1.6(Shotgun) 46-A.Morris up the middle to DET 29 for no gain (94-E.Ansah; 98-N.Fairley).'>31.37</number><number>0.48</number>
+<number shadow='shadow1' tooltip='13:01 2-10-DET 29DET 17 WAS 14 LI: 1.7(Shotgun) 46-A.Morris right end to DET 25 for 4 yards(78-C.Hilliard; 94-E.Ansah).'>31.98</number><number>0.49</number>
+<number shadow='shadow1' tooltip='12:22 3-6-DET 25DET 17 WAS 14 LI: 1.6(Shotgun) 10-R.Griffin pass incomplete short middle to 85-L.Hankerson (31-R.Mathis).'>32.63</number><number>0.56</number>
+<number shadow='shadow1' tooltip='12:16 4-6-DET 25DET 17 WAS 14 LI: 0.91-J.Potter 43 yard field goal is GOOD Center-57-N.Sundberg Holder-6-S.Rocca.'>32.73</number><number>0.53</number>
+<number shadow='shadow1' tooltip='12:16 DET 17 WAS 17 LI: 1-J.Potter kicks 65 yards from WAS 35 to end zone Touchback.'>32.82</number><number>0.52</number>
+<number shadow='shadow1' tooltip='11:38 2-4-DET 26DET 17 WAS 17 LI: 1.4(Shotgun) 35-J.Bell left tackle to DET 26 for no gain (91-R.Kerrigan).'>33.37</number><number>0.5</number>
+<number shadow='shadow1' tooltip='10:58 3-4-DET 26DET 17 WAS 17 LI: 1.2(Shotgun) 9-M.Stafford pass incomplete short middle to 18-K.Durham.'>34.03</number><number>0.46</number>
+<number shadow='shadow1' tooltip='10:53 4-4-DET 26DET 17 WAS 17 LI: 0.86-S.Martin punts 51 yards to WAS 23 Center-48-D.Muhlbach25-C.Thompson to WAS 27 for 4 yards(52-R.McIntosh; 50-Tr.Lewis).'>34.12</number><number>0.47</number>
+<number shadow='shadow1' tooltip='10:42 1-10-WAS 27DET 17 WAS 17 LI: 1.510-R.Griffin pass incomplete deep middle to 89-S.Moss (28-D.Bentley) [90-N.Suh].'>34.3</number><number>0.49</number>
+<number shadow='shadow1' tooltip='10:36 2-10-WAS 27DET 17 WAS 17 LI: 1.346-A.Morris left tackle to WAS 28 for 1 yard(99-C.Mosley)PENALTY on DET-99-C.Mosley Face Mask (15 Yards) 15 yards enforced at WAS 28.'>34.4</number><number>0.45</number>
+<number shadow='shadow1' tooltip='10:18 1-10-WAS 43DET 17 WAS 17 LI: 1.346-A.Morris right tackle to WAS 44 for 1 yard(99-C.Mosley).'>34.7</number><number>0.46</number>
+<number shadow='shadow1' tooltip='9:39 2-9-WAS 44DET 17 WAS 17 LI: 1.210-R.Griffin pass short right to 85-L.Hankerson pushed ob at DET 46 for 10 yards(23-C.Houston).'>35.35</number><number>0.42</number>
+<number shadow='shadow1' tooltip='9:07 1-10-DET 46DET 17 WAS 17 LI: 1.410-R.Griffin sacked at WAS 41 for -13 yards(94-E.Ansah).'>35.88</number><number>0.49</number>
+<number shadow='shadow1' tooltip='8:28 2-23-WAS 41DET 17 WAS 17 LI: 1(Shotgun) 10-R.Griffin pass short left to 88-P.Garcon to WAS 46 for 5 yards(90-N.Suh).'>36.53</number><number>0.5</number>
+<number shadow='shadow1' tooltip='7:49 3-18-WAS 46DET 17 WAS 17 LI: 0.8(Shotgun) 10-R.Griffin pass short middle to 89-S.Moss to DET 41 for 13 yards(55-S.Tulloch).'>37.18</number><number>0.5</number>
+<number shadow='shadow1' tooltip='7:14 4-5-DET 41DET 17 WAS 17 LI: 0.66-S.Rocca punts 31 yards to DET 10 Center-57-N.Sundberg fair catch by 15-M.Spurlock.'>37.77</number><number>0.5</number>
+<number shadow='shadow1' tooltip='7:07 1-10-DET 10DET 17 WAS 17 LI: 2.235-J.Bell left guard to DET 15 for 5 yards(55-N.Barnett; 26-J.Wilson).'>37.88</number><number>0.5</number>
+<number shadow='shadow1' tooltip='6:24 2-5-DET 15DET 17 WAS 17 LI: 1.5(Shotgun) 9-M.Stafford pass short right to 85-T.Scheffler to DET 21 for 6 yards(55-N.Barnett).'>38.6</number><number>0.52</number>
+<number shadow='shadow1' tooltip='5:41 1-10-DET 21DET 17 WAS 17 LI: 1.6(Shotgun) 9-M.Stafford pass short middle to 81-C.Johnson to DET 33 for 12 yards(26-J.Wilson).'>39.32</number><number>0.54</number>
+<number shadow='shadow1' tooltip='5:03 1-10-DET 33DET 17 WAS 17 LI: 1.6(Shotgun) 35-J.Bell right guard to DET 44 for 11 yards(31-B.Meriweather; 91-R.Kerrigan).'>39.95</number><number>0.56</number>
+<number shadow='shadow1' tooltip='4:22 1-10-DET 44DET 17 WAS 17 LI: 1.5(Shotgun) 9-M.Stafford pass incomplete deep right to 41-T.Riddick.'>40.63</number><number>0.54</number>
+<number shadow='shadow1' tooltip='4:17 2-10-DET 44DET 17 WAS 17 LI: 1.3(Shotgun) 35-J.Bell up the middle to DET 45 for 1 yard(96-B.Cofield).'>40.72</number><number>0.52</number>
+<number shadow='shadow1' tooltip='3:35 3-9-DET 45DET 17 WAS 17 LI: 1.1(Shotgun) 9-M.Stafford pass incomplete deep left to 81-C.Johnson [96-B.Cofield].'>41.42</number><number>0.48</number>
+<number shadow='shadow1' tooltip='3:27 4-9-DET 45DET 17 WAS 17 LI: 0.86-S.Martin punts 35 yards to WAS 20 Center-48-D.Muhlbach out of bounds.'>41.55</number><number>0.48</number>
+<number shadow='shadow1' tooltip='3:21 1-10-WAS 20DET 17 WAS 17 LI: 1.7(Shotgun) 46-A.Morris left guard to WAS 23 for 3 yards(54-D.Levy; 55-S.Tulloch).'>41.65</number><number>0.49</number>
+<number shadow='shadow1' tooltip='2:49 2-7-WAS 23DET 17 WAS 17 LI: 1.546-A.Morris left end to WAS 24 for 1 yard(94-E.Ansah).'>42.18</number><number>0.51</number>
+<number shadow='shadow1' tooltip='1:54 3-11-WAS 19DET 17 WAS 17 LI: 1.3(Shotgun) 10-R.Griffin pass short right to 86-J.Reed to WAS 26 for 7 yards(26-L.Delmas; 94-E.Ansah).'>43.1</number><number>0.55</number>
+<number shadow='shadow1' tooltip='1:23 4-4-WAS 26DET 17 WAS 17 LI: 0.96-S.Rocca punts 63 yards to DET 11 Center-57-N.Sundberg15-M.Spurlock pushed ob at DET 20 for 9 yards(82-L.Paulsen).'>43.62</number><number>0.52</number>
+<number shadow='shadow1' tooltip='1:13 1-10-DET 20DET 17 WAS 17 LI: 1.8(Shotgun) 9-M.Stafford pass short left to 35-J.Bell to DET 25 for 5 yards(59-L.Fletcher; 98-B.Orakpo).'>43.78</number><number>0.52</number>
+<number shadow='shadow1' tooltip='0:36 2-5-DET 25DET 17 WAS 17 LI: 1.7(Shotgun) 9-M.Stafford pass incomplete short middle to 13-N.Burleson (39-D.Amerson 56-P.Riley).'>44.4</number><number>0.5</number>
+<number shadow='shadow1' tooltip='0:33 3-5-DET 25DET 17 WAS 17 LI: 1.5(Shotgun) 9-M.Stafford pass short right to 84-R.Broyles to DET 28 for 3 yards(23-D.Hall 93-P.Merling).'>44.45</number><number>0.45</number>
+<number shadow='shadow1' tooltip='15:00 4-2-DET 28DET 17 WAS 17 LI: 0.96-S.Martin punts 72 yards to end zone Center-48-D.Muhlbach Touchback.'>45</number><number>0.48</number>
+<number shadow='shadow1' tooltip='14:51 1-10-WAS 20DET 17 WAS 17 LI: 1.810-R.Griffin pass incomplete short middle to 85-L.Hankerson.'>45.15</number><number>0.5</number>
+<number shadow='shadow1' tooltip='14:47 2-10-WAS 20DET 17 WAS 17 LI: 1.610-R.Griffin scrambles right end pushed ob at WAS 22 for 2 yards(54-D.Levy).'>45.22</number><number>0.52</number>
+<number shadow='shadow1' tooltip='14:16 3-8-WAS 22DET 17 WAS 17 LI: 1.4(Shotgun) 10-R.Griffin pass short left to 88-P.Garcon pushed ob at WAS 39 for 17 yards(31-R.Mathis).'>45.73</number><number>0.43</number>
+<number shadow='shadow1' tooltip='13:52 1-10-WAS 39DET 17 WAS 17 LI: 1.9(Shotgun) 46-A.Morris left tackle to WAS 43 for 4 yards(90-N.Suh).'>46.13</number><number>0.44</number>
+<number shadow='shadow1' tooltip='13:17 2-6-WAS 43DET 17 WAS 17 LI: 1.7(Shotgun) 10-R.Griffin pass short right to 15-J.Morgan pushed ob at 50 for 7 yards(23-C.Houston).'>46.72</number><number>0.4</number>
+<number shadow='shadow1' tooltip='12:50 1-10-50DET 17 WAS 17 LI: 210-R.Griffin scrambles up the middle to DET 29 for 21 yardsFUMBLES RECOVERED by DET-27-G.Quin at DET 2527-G.Quin to DET 25 for no gain (82-L.Paulsen).'>47.17</number><number>0.53</number>
+<number shadow='shadow1' tooltip='12:38 1-10-DET 25DET 17 WAS 17 LI: 1.9(Shotgun) 9-M.Stafford pass deep right to 81-C.Johnson ran ob at DET 43 for 18 yards.'>47.37</number><number>0.58</number>
+<number shadow='shadow1' tooltip='12:13 1-10-DET 43DET 17 WAS 17 LI: 29-M.Stafford pass deep middle to 13-N.Burleson to WAS 10 for 47 yards(59-L.Fletcher).'>47.78</number><number>0.76</number>
+<number shadow='shadow1' tooltip='11:26 1-10-WAS 10DET 17 WAS 17 LI: 2.6(Shotgun) 9-M.Stafford pass incomplete short left to 80-J.Fauria [98-B.Orakpo].'>48.57</number><number>0.74</number>
+<number shadow='shadow1' tooltip='11:21 2-10-WAS 10DET 17 WAS 17 LI: 2.4(Shotgun) 9-M.Stafford pass incomplete short right to 18-K.Durham (39-D.Amerson) [98-B.Orakpo].'>48.65</number><number>0.7</number>
+<number shadow='shadow1' tooltip='11:17 3-10-WAS 10DET 17 WAS 17 LI: 2(Shotgun) 9-M.Stafford pass incomplete short middle to 80-J.Fauria.'>48.72</number><number>0.63</number>
+<number shadow='shadow1' tooltip='11:13 4-10-WAS 10DET 17 WAS 17 LI: 1.32-D.Akers 28 yard field goal is GOOD Center-48-D.Muhlbach Holder-6-S.Martin.'>48.78</number><number>0.63</number>
+<number shadow='shadow1' tooltip='11:13 DET 20 WAS 17 LI: 6-S.Martin kicks 71 yards from DET 35 to WAS -615-J.Morgan to WAS 13 for 19 yards(29-J.Wendling; 52-R.McIntosh).'>48.87</number><number>0.67</number>
+<number shadow='shadow1' tooltip='11:03 1-10-WAS 13DET 20 WAS 17 LI: 1.9(Shotgun) 10-R.Griffin pass short middle to 82-L.Paulsen to WAS 32 for 19 yards(54-D.Levy 26-L.Delmas).'>48.95</number><number>0.62</number>
+<number shadow='shadow1' tooltip='10:31 1-10-WAS 32DET 20 WAS 17 LI: 1.9(Shotgun) 46-A.Morris right guard to WAS 35 for 3 yards(90-N.Suh 79-W.Young).'>49.48</number><number>0.6</number>
+<number shadow='shadow1' tooltip='9:55 2-7-WAS 35DET 20 WAS 17 LI: 2.1(Shotgun) 10-R.Griffin pass short left to 88-P.Garcon to WAS 43 for 8 yards(54-D.Levy).'>50.08</number><number>0.56</number>
+<number shadow='shadow1' tooltip='9:15 1-10-WAS 43DET 20 WAS 17 LI: 2.4(Shotgun) 10-R.Griffin pass short middle to 11-A.Robinson for 57 yards TOUCHDOWNThe Replay Assistant challenged the pass completion ruling and the play was REVERSED(Shotgun) 10-R.Griffin pass incomplete deep middle to 11-A.Robinson (31-R.Mathis)Receiver did not maintain possession as he was rolling to the ground.'>50.75</number><number>0.61</number>
+<number shadow='shadow1' tooltip='9:05 2-10-WAS 43DET 20 WAS 17 LI: 2(Shotgun) 10-R.Griffin FUMBLES (Aborted) at WAS 33 and recovers at WAS 3310-R.Griffin to WAS 33 for no gain (79-W.Young).'>50.92</number><number>0.7</number>
+<number shadow='shadow1' tooltip='8:35 3-20-WAS 33DET 20 WAS 17 LI: 1.4(Shotgun) 10-R.Griffin scrambles left end pushed ob at WAS 36 for 3 yards(31-R.Mathis).'>51.42</number><number>0.72</number>
+<number shadow='shadow1' tooltip='8:23 4-17-WAS 36DET 20 WAS 17 LI: 1.26-S.Rocca punts 35 yards to DET 29 Center-57-N.Sundberg out of bounds.'>51.62</number><number>0.73</number>
+<number shadow='shadow1' tooltip='8:15 1-10-DET 29DET 20 WAS 17 LI: 2.6(Shotgun) 9-M.Stafford pass short left to 35-J.Bell to DET 45 for 16 yards(56-P.Riley).'>51.75</number><number>0.8</number>
+<number shadow='shadow1' tooltip='7:36 1-10-DET 45DET 20 WAS 17 LI: 2.935-J.Bell right guard to DET 46 for 1 yard(95-C.Neild).'>52.4</number><number>0.79</number>
+<number shadow='shadow1' tooltip='6:58 2-9-DET 46DET 20 WAS 17 LI: 2.6(Shotgun) 9-M.Stafford pass deep left to 18-K.Durham to WAS 21 for 33 yards(39-D.Amerson).'>53.03</number><number>0.89</number>
+<number shadow='shadow1' tooltip='6:16 1-10-WAS 21DET 20 WAS 17 LI: 1.935-J.Bell up the middle to WAS 12 for 9 yards(31-B.Meriweather).'>53.73</number><number>0.89</number>
+<number shadow='shadow1' tooltip='5:35 2-1-WAS 12DET 20 WAS 17 LI: 1.5(Shotgun) 35-J.Bell to WAS 12 for no gain (56-P.Riley; 91-R.Kerrigan).'>54.42</number><number>0.87</number>
+<number shadow='shadow1' tooltip='5:06 3-1-WAS 12DET 20 WAS 17 LI: 1.235-J.Bell left guard to WAS 12 for no gain (39-D.Amerson; 96-B.Cofield).'>54.9</number><number>0.77</number>
+<number shadow='shadow1' tooltip='4:47 4-1-WAS 12DET 20 WAS 17 LI: 0.19-M.Stafford left tackle to WAS 10 for 2 yards(98-B.Orakpo 56-P.Riley)QB sneak'>55.22</number><number>0.87</number>
+<number shadow='shadow1' tooltip='4:08 1-10-WAS 10DET 20 WAS 17 LI: 0.5(Shotgun) 35-J.Bell right guard to WAS 11 for -1 yards(56-P.Riley 59-L.Fletcher).'>55.87</number><number>0.84</number>
+<number shadow='shadow1' tooltip='4:02 2-11-WAS 11DET 20 WAS 17 LI: 0.2(Shotgun) 9-M.Stafford pass short middle to 81-C.Johnson for 11 yards TOUCHDOWN.'>55.97</number><number>0.92</number>
+<number shadow='shadow1' tooltip='4:02 DET 20 WAS 17 LI: 2-D.Akers extra point is GOOD Center-48-D.Muhlbach Holder-6-S.Martin.'>56.01</number><number>0.92</number>
+<number shadow='shadow1' tooltip='4:02 DET 27 WAS 17 LI: 6-S.Martin kicks 64 yards from DET 35 to WAS 115-J.Morgan to WAS 25 for 24 yards(50-Tr.Lewis; 58-A.Palmer).'>56.06</number><number>0.93</number>
+<number shadow='shadow1' tooltip='3:51 1-10-WAS 25DET 27 WAS 17 LI: 0.6(Shotgun) 10-R.Griffin pass short right to 82-L.Paulsen to WAS 34 for 9 yards(23-C.Houston; 54-D.Levy) [79-W.Young].'>56.15</number><number>0.95</number>
+<number shadow='shadow1' tooltip='3:29 2-1-WAS 34DET 27 WAS 17 LI: 0.3(No Huddle Shotgun) 10-R.Griffin pass incomplete short right to 82-L.Paulsen.'>56.52</number><number>0.95</number>
+<number shadow='shadow1' tooltip='3:28 3-1-WAS 34DET 27 WAS 17 LI: 0.3(Shotgun) 10-R.Griffin pass short left to 88-P.Garcon to WAS 38 for 4 yards(31-R.Mathis)PENALTY on DET-31-R.Mathis Unnecessary Roughness 15 yards enforced at WAS 38Hit a defenseless receiver'>56.53</number><number>0.92</number>
+<number shadow='shadow1' tooltip='3:23 1-15-WAS 48DET 27 WAS 17 LI: 0.6(Shotgun) 10-R.Griffin pass short left to 82-L.Paulsen to DET 42 for 10 yards(31-R.Mathis 55-S.Tulloch) [79-W.Young].'>56.62</number><number>0.94</number>
+<number shadow='shadow1' tooltip='2:59 2-5-DET 42DET 27 WAS 17 LI: 0.5(Shotgun) 10-R.Griffin pass to 89-S.Moss to DET 32 for 10 yards(55-S.Tulloch).'>57.02</number><number>0.9</number>
+<number shadow='shadow1' tooltip='2:39 1-10-DET 32DET 27 WAS 17 LI: 0.9(No Huddle Shotgun) 10-R.Griffin pass incomplete short left to 89-S.Moss (31-R.Mathis).'>57.35</number><number>0.95</number>
+<number shadow='shadow1' tooltip='2:36 2-10-DET 32DET 27 WAS 17 LI: 0.4(Shotgun) 10-R.Griffin pass short right to 89-S.Moss pushed ob at DET 18 for 14 yards(26-L.Delmas).'>57.4</number><number>0.89</number>
+<number shadow='shadow1' tooltip='2:29 1-10-DET 18DET 27 WAS 17 LI: 1(Shotgun) 10-R.Griffin pass incomplete short right to 85-L.Hankerson [77-I.Idonije].'>57.52</number><number>0.95</number>
+<number shadow='shadow1' tooltip='2:20 2-10-DET 18DET 27 WAS 17 LI: 0.4(Shotgun) 10-R.Griffin pass short right to 29-R.Helu to DET 3 for 15 yards(26-L.Delmas; 54-D.Levy).'>57.67</number><number>0.89</number>
+<number shadow='shadow1' tooltip='2:00 1-3-DET 3DET 27 WAS 17 LI: 1(Shotgun) 10-R.Griffin pass incomplete short right to 88-P.Garcon [79-W.Young].'>58</number><number>0.96</number>
+<number shadow='shadow1' tooltip='1:53 2-3-DET 3DET 27 WAS 17 LI: 0.3(Shotgun) 10-R.Griffin pass incomplete short middle to 88-P.Garcon (26-L.Delmas).'>58.12</number><number>0.96</number>
+<number shadow='shadow1' tooltip='1:49 3-3-DET 3DET 27 WAS 17 LI: 0.310-R.Griffin pass incomplete short right to 84-N.Paul.'>58.18</number><number>0.99</number>
+<number shadow='shadow1' tooltip='1:44 4-3-DET 3DET 27 WAS 17 LI: 0.11-J.Potter 21 yard field goal is GOOD Center-57-N.Sundberg Holder-6-S.Rocca.'>58.27</number><number>0.99</number>
+<number shadow='shadow1' tooltip='1:44 DET 27 WAS 20 LI: 1-J.Potter kicks onside 8 yards from WAS 35 to WAS 43 downed by WAS-84-N.Paul84-Paul touched ball before going 10 yards'>58.36</number><number>0.99</number>
+<number shadow='shadow1' tooltip='1:36 2-8-WAS 41DET 27 WAS 20 LI: 1(Shotgun) 35-J.Bell right end to WAS 42 for -1 yards(96-B.Cofield; 59-L.Fletcher).'>58.4</number><number>0.97</number>
+<number shadow='shadow1' tooltip='1:30 3-9-WAS 42DET 27 WAS 20 LI: 0.9(Shotgun) 35-J.Bell left end to WAS 45 for -3 yards(72-S.Bowen; 64-K.Golston).'>58.5</number><number>0.95</number>
+<number shadow='shadow1' tooltip='0:44 4-17-50DET 27 WAS 20 LI: 0.36-S.Martin punts 50 yards to end zone Center-48-D.Muhlbach Touchback.'>59.27</number><number>0.98</number>
+<number shadow='shadow1' tooltip='0:38 1-10-WAS 20DET 27 WAS 20 LI: 0.1(Shotgun) 10-R.Griffin pass short left to 29-R.Helu to WAS 27 for 7 yards(31-R.Mathis).'>59.37</number><number>0.99</number>
+<number shadow='shadow1' tooltip='0:19 2-3-WAS 27DET 27 WAS 20 LI: 0.1(No Huddle Shotgun) 10-R.Griffin pass short left to 89-S.Moss ran ob at WAS 38 for 11 yards.'>59.68</number><number>0.98</number>
+<number shadow='shadow1' tooltip='0:12 1-10-WAS 38DET 27 WAS 20 LI: 0.1(Shotgun) 10-R.Griffin pass short right to 29-R.Helu ran ob at DET 49 for 13 yards.'>59.8</number><number>0.97</number>
+<number shadow='shadow1' tooltip='0:06 1-10-DET 49DET 27 WAS 20 LI: 0.2(Shotgun) 10-R.Griffin pass incomplete deep right to 88-P.Garcon.'>59.9</number><number>1</number>
+<number>60</number><number>1</number>
+</row> </chart_data>
+       <draw>
+
+
+
+      <image x='45' y='298'  url='nfllogos/42x50png/DET.gif'  layer='foreground' glow = 'glow1'/>
+      <image x='45' y='350'  url='nfllogos/42x50png/WAS.gif'     layer='foreground' glow = 'glow1'/>
+
+
+      <rect x='130' y='300' width='250' height='40' fill_color='0064ae' bevel='bevel1' />
+      <text x='135' y='300' width='250' height='40' h_align='left' v_align='middle' color='ffffff' shadow='shadow2' glow='winnerglow'>Detroit Lions</text>
+
+      <rect x='130' y='350' width='250' height='40' fill_color='920001' bevel='bevel1'  />
+      <text x='135' y='350' width='250' height='40' h_align='left' v_align='middle' color='ffffff' shadow='shadow2' glow=''>Washington Redskins</text>
+
+      <rect x='420' y='300' width='60' height='40' fill_color='0064ae' bevel='bevel1'  />
+      <text x='420' y='300' width='60' height='40' h_align='center' v_align='middle' color='ffffff' shadow='shadow2' transition='none' glow='winnerglow'>27</text>
+
+      <rect x='420' y='350' width='60' height='40' fill_color='920001' bevel='bevel1' />
+      <text x='420' y='350' width='60' height='40' h_align='center' v_align='middle' color='ffffff' shadow='shadow2' transition='none' glow=''>20</text>
+
+      <text x='-3' y='12'  width='60' height='40' h_align='center' v_align='middle' size='13' shadow='shadow2'>DETWin </text>
+      <text x='-3' y='218' width='60' height='40' h_align='center' v_align='middle' size='13' shadow='shadow2'>WASWin </text>
+
+     
+              <rect x='540' y='300' width='100' height='35' fill_color='000000' fill_alpha='50'/>
+              <text x='540' y='300' width='100' height='35' h_align='center' v_align='middle' color='ffffff' size='15' shadow='shadow2' >Final</text>
+
+              <text x='540' y='340' width='40' h_align='center' color='000000' size='12' shadow='shadow2'>CBF</text>
+              <text x='600' y='340' width='40' h_align='center' color='000000' size='12' shadow='shadow2'>EI</text>
+
+              <rect x='540' y='360' width='40' height='30' fill_color='000000' fill_alpha='50' />
+              <text x='540' y='360' width='40' height='30' size='12' h_align='center' v_align='middle' color='FFFFFF' shadow='shadow2'>4</text>
+
+              <rect x='600' y='360' width='40' height='30' fill_color='000000' fill_alpha='50' />
+              <text x='600' y='360' width='40' height='30' size='12' h_align='center' v_align='middle' color='FFFFFF' shadow='shadow2'>5.4</text>
+
+              <text x='20' y='420' width='70' height='25' size='12' h_align='left' v_align='middle' color='000000' >9/22/2013</text>
+              <text x='100' y='420' width='200' height='25' size='12' h_align='left' v_align='middle' color='000000' >FedExField</text>
+
+   </draw></chart>

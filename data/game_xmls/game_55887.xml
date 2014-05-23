@@ -1,0 +1,305 @@
+
+<chart>
+   <license>ETAS9P33ESHO.945CWK-2XOI1X0-7L</license>
+   <chart_type>scatter</chart_type>
+   <chart_pref trend_thickness='0' line_thickness='3' point_size='0'/>
+
+   <series_color>
+      <color>ffff00</color>
+   </series_color>
+
+   <chart_rect x='45' y='20' width='630' height='230' positive_color='cacaca'  />
+
+  <chart_border top_thickness='0'
+                 bottom_thickness='0'
+                 left_thickness='0'
+                 right_thickness='0'
+                 color='000000'
+                 />
+
+   <tooltip font='Arial' bold='true' size='11' />
+
+   <chart_note type='flag'
+               color='000000'
+               alpha='90'
+               bold='FALSE'
+               size='10'
+               background_color='ffffe0'
+               background_alpha='50'
+               shadow='shadow2'
+               />
+
+   <chart_grid_h thickness='2' color='ffffff' type='dashed'  />
+   <chart_grid_v thickness='2' color='ffffff'   />
+		>
+
+   <legend layout='hide' />
+
+   <chart_guide horizontal='TRUE'
+             vertical='TRUE'
+             thickness='1'
+             color='006400'
+             alpha='100'
+             type='solid'
+             snap_h='TRUE'
+             snap_v='TRUE'
+             radius='3'
+             fill_color='006400'
+             fill_alpha='100'
+             line_color='006400'
+             line_alpha='80'
+             line_thickness='1'
+             text_h_alpha='50'
+             text_v_alpha='00'
+             suffix_h=' WP'
+             decimals='2'
+             bold='FALSE'
+             size='11'
+             text_color='FFFFFF'
+             background_color='006400'
+             />
+   <filter>
+      <shadow id='shadow1' distance='2' angle='60' blurX='5' blurY='5' alpha='50' />
+      <bevel id='bevel1' angle='45' blurX='5' blurY='5' distance='0' />
+      <glow id='glow1' color='ffffff' alpha='0' blurX='7' blurY='7' strength='6' quality='2' inner='FALSE' knockout='FALSE' />
+      <glow id='winnerglow' color='ffffff' alpha='0' blurX='7' blurY='7' strength='5' quality='2' inner='FALSE' knockout='FALSE' />
+   </filter>
+
+    <axis_value_label>
+         <string></string>
+          <string> </string>
+          <null/>
+          <string> </string>
+          <string></string>
+
+       </axis_value_label>
+		
+	   <axis_ticks category_ticks='false'/>
+
+       <axis_value min='0' max='1' steps='4'  decimals='2' show_min='true' size='13' shadow='shadow2' />     
+            <axis_category
+               min='0'
+               max='60'
+               steps='4'
+               mode='all'
+               decimals='0'
+               size='13'
+               shadow='shadow2'
+               />
+
+       <axis_category_label>
+          <string>Kickoff</string>
+          <string></string>
+          <string>Halftime</string>
+          <string></string>
+          <string>End</string>
+
+       </axis_category_label>
+
+
+        <chart_data>
+       <row>
+	      <null/><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number>
+              <number>x</number><number>y</number>
+              </row><row><string></string>
+
+                     <number shadow='shadow1'>0</number><number>.5</number><number shadow='shadow1' tooltip='15:00 CIN 0 CLV 0 LI: 2-M.Nugent kicks 70 yards from CIN 35 to CLV -518-G.Little to CLV 25 for 30 yards(37-C.Lewis-Harris; 51-J.DiManche).'>0.09</number><number>0.47</number>
+<number shadow='shadow1' tooltip='14:16 2-9-CLV 26CIN 0 CLV 0 LI: 1.425-C.Ogbonnaya left tackle to CLV 33 for 7 yards(43-G.Iloka; 92-J.Harrison).'>0.73</number><number>0.48</number>
+<number shadow='shadow1' tooltip='13:38 3-2-CLV 33CIN 0 CLV 0 LI: 1.36-B.Hoyer pass short right to 25-C.Ogbonnaya to CLV 33 for no gain (26-T.Mays).'>1.37</number><number>0.53</number>
+<number shadow='shadow1' tooltip='13:04 4-2-CLV 33CIN 0 CLV 0 LI: 0.8(Punt formation) 5-S.Lanning punts 59 yards to CIN 8 Center-57-C.Yount19-B.Tate to CIN 18 for 10 yards(21-C.Owens).'>1.93</number><number>0.51</number>
+<number shadow='shadow1' tooltip='12:54 1-10-CIN 18CIN 0 CLV 0 LI: 1.642-B.Green-Ellis left guard to CIN 18 for no gain (98-P.Taylor).'>2.1</number><number>0.5</number>
+<number shadow='shadow1' tooltip='12:17 2-10-CIN 18CIN 0 CLV 0 LI: 1.5(Shotgun) 14-A.Dalton pass incomplete deep left to 12-M.Sanu.'>2.72</number><number>0.48</number>
+<number shadow='shadow1' tooltip='12:12 3-10-CIN 18CIN 0 CLV 0 LI: 1.3(Shotgun) 14-A.Dalton pass deep middle to 84-J.Gresham to CIN 44 for 26 yards(39-T.Gipson).'>2.8</number><number>0.56</number>
+<number shadow='shadow1' tooltip='11:33 1-10-CIN 44CIN 0 CLV 0 LI: 1.425-G.Bernard right guard to 50 for 6 yards(71-A.Rubin).'>3.45</number><number>0.56</number>
+<number shadow='shadow1' tooltip='10:58 2-4-50CIN 0 CLV 0 LI: 1.342-B.Green-Ellis left guard to CLV 46 for 4 yards(53-C.Robertson).'>4.03</number><number>0.58</number>
+<number shadow='shadow1' tooltip='10:16 1-10-CLV 46CIN 0 CLV 0 LI: 1.425-G.Bernard right guard to CLV 43 for 3 yards(71-A.Rubin).'>4.73</number><number>0.57</number>
+<number shadow='shadow1' tooltip='9:36 2-7-CLV 43CIN 0 CLV 0 LI: 1.2(Shotgun) 14-A.Dalton pass short middle to 18-A.Green to CLV 39 for 4 yards(43-T.Ward; 53-C.Robertson).'>5.4</number><number>0.56</number>
+<number shadow='shadow1' tooltip='8:54 3-3-CLV 39CIN 0 CLV 0 LI: 1.1(Shotgun) 14-A.Dalton pass incomplete short right to 18-A.Green (99-P.Kruger).'>6.1</number><number>0.5</number>
+<number shadow='shadow1' tooltip='8:49 4-3-CLV 39CIN 0 CLV 0 LI: 0.5(Punt formation) 10-K.Huber punts 34 yards to CLV 5 Center-46-C.Harris fair catch by 15-D.Bess.'>6.18</number><number>0.5</number>
+<number shadow='shadow1' tooltip='8:42 1-10-CLV 5CIN 0 CLV 0 LI: 1.826-W.McGahee left guard to CLV 8 for 3 yards(58-R.Maualuga).'>6.3</number><number>0.51</number>
+<number shadow='shadow1' tooltip='8:11 2-7-CLV 8CIN 0 CLV 0 LI: 1.76-B.Hoyer pass short right to 25-C.Ogbonnaya to CLV 14 for 6 yards(92-J.Harrison; 58-R.Maualuga).'>6.82</number><number>0.5</number>
+<number shadow='shadow1' tooltip='7:29 3-1-CLV 14CIN 0 CLV 0 LI: 1.725-C.Ogbonnaya left tackle to CLV 25 for 11 yards(43-G.Iloka).'>7.52</number><number>0.47</number>
+<number shadow='shadow1' tooltip='6:50 1-10-CLV 25CIN 0 CLV 0 LI: 1.66-B.Hoyer pass short right to 15-D.Bess to CLV 33 for 8 yards(23-T.Newman; 58-R.Maualuga).'>8.17</number><number>0.47</number>
+<number shadow='shadow1' tooltip='6:12 2-2-CLV 33CIN 0 CLV 0 LI: 1.46-B.Hoyer pass short right to 82-G.Barnidge to CLV 35 for 2 yards(23-T.Newman).'>8.8</number><number>0.46</number>
+<number shadow='shadow1' tooltip='5:38 1-10-CLV 35CIN 0 CLV 0 LI: 1.4(Shotgun) 34-B.Rainey right guard to CLV 39 for 4 yards(58-R.Maualuga; 55-V.Burfict).'>9.37</number><number>0.46</number>
+<number shadow='shadow1' tooltip='5:06 2-6-CLV 39CIN 0 CLV 0 LI: 1.3(Shotgun) 6-B.Hoyer pass short left to 80-T.Benjamin to CIN 22 for 39 yards(23-T.Newman).'>9.9</number><number>0.36</number>
+<number shadow='shadow1' tooltip='4:32 1-10-CIN 22CIN 0 CLV 0 LI: 1.6(Shotgun) 34-B.Rainey left guard to CIN 19 for 3 yards(26-T.Mays).'>10.47</number><number>0.36</number>
+<number shadow='shadow1' tooltip='4:05 2-7-CIN 19CIN 0 CLV 0 LI: 1.5(No Huddle Shotgun) 34-B.Rainey left guard to CIN 18 for 1 yard(55-V.Burfict; 75-D.Still).'>10.92</number><number>0.38</number>
+<number shadow='shadow1' tooltip='3:32 3-6-CIN 18CIN 0 CLV 0 LI: 1.3(Shotgun) 6-B.Hoyer pass short middle to 15-D.Bess to CIN 1 for 17 yards(21-B.Ghee).'>11.47</number><number>0.3</number>
+<number shadow='shadow1' tooltip='2:52 1-1-CIN 1CIN 0 CLV 0 LI: 226-W.McGahee left guard to CIN 2 for -1 yards(98-B.Thompson).'>12.13</number><number>0.31</number>
+<number shadow='shadow1' tooltip='2:17 2-2-CIN 2CIN 0 CLV 0 LI: 1.96-B.Hoyer pass short left to 84-J.Cameron for 2 yards TOUCHDOWN.'>12.72</number><number>0.29</number>
+<number shadow='shadow1' tooltip='2:17 CIN 0 CLV 0 LI: 8-B.Cundiff extra point is GOOD Center-57-C.Yount Holder-5-S.Lanning.'>12.76</number><number>0.29</number>
+<number shadow='shadow1' tooltip='2:17 CIN 0 CLV 7 LI: 5-S.Lanning kicks 18 yards from CLV 35 to CIN 4743-G.Iloka (didn t try to advance) to CIN 47 for no gainsquib kick'>12.81</number><number>0.32</number>
+<number shadow='shadow1' tooltip='1:37 2-6-CLV 49CIN 0 CLV 7 LI: 1.1(Shotgun) 14-A.Dalton pass short right to 25-G.Bernard to CLV 39 for 10 yards(23-J.Haden).'>13.38</number><number>0.34</number>
+<number shadow='shadow1' tooltip='1:09 1-10-CLV 39CIN 0 CLV 7 LI: 1.1(Shotgun) 14-A.Dalton sacked at CLV 40 for -1 yards(51-B.Mingo).'>13.85</number><number>0.33</number>
+<number shadow='shadow1' tooltip='0:38 2-11-CLV 40CIN 0 CLV 7 LI: 1(Shotgun) 25-G.Bernard left guard to CLV 42 for -2 yards(99-P.Kruger; 92-D.Bryant).'>14.37</number><number>0.3</number>
+<number shadow='shadow1' tooltip='15:00 3-13-CLV 42CIN 0 CLV 7 LI: 0.8(Shotgun) 14-A.Dalton pass short right to 84-J.Gresham to CLV 31 for 11 yards(23-J.Haden)PENALTY on CLV-92-D.Bryant Illegal Use of Hands 5 yards enforced at CLV 42 - No Play.'>15</number><number>0.34</number>
+<number shadow='shadow1' tooltip='14:39 1-10-CLV 37CIN 0 CLV 7 LI: 114-A.Dalton pass incomplete deep right to 18-A.Green (39-T.Gipson).'>15.35</number><number>0.33</number>
+<number shadow='shadow1' tooltip='14:33 2-10-CLV 37CIN 0 CLV 7 LI: 0.914-A.Dalton pass short left to 85-T.Eifert to CLV 32 for 5 yards(53-C.Robertson).'>15.45</number><number>0.33</number>
+<number shadow='shadow1' tooltip='14:13 3-5-CLV 32CIN 0 CLV 7 LI: 0.8(Shotgun) 14-A.Dalton pass short right to 12-M.Sanu to CLV 25 for 7 yards(53-C.Robertson).'>15.78</number><number>0.35</number>
+<number shadow='shadow1' tooltip='13:40 1-10-CLV 25CIN 0 CLV 7 LI: 0.814-A.Dalton pass incomplete deep right to 84-J.Gresham.'>16.33</number><number>0.38</number>
+<number shadow='shadow1' tooltip='13:33 2-10-CLV 25CIN 0 CLV 7 LI: 1.1(Shotgun) 14-A.Dalton scrambles up the middle to CLV 15 for 10 yards(43-T.Ward).'>16.45</number><number>0.37</number>
+<number shadow='shadow1' tooltip='12:54 1-10-CLV 15CIN 0 CLV 7 LI: 0.825-G.Bernard right guard to CLV 10 for 5 yards(22-B.Skrine).'>17.1</number><number>0.44</number>
+<number shadow='shadow1' tooltip='12:15 2-5-CLV 10CIN 0 CLV 7 LI: 1.525-G.Bernard right guard to CLV 8 for 2 yards(71-A.Rubin).'>17.75</number><number>0.42</number>
+<number shadow='shadow1' tooltip='11:35 3-3-CLV 8CIN 0 CLV 7 LI: 1.3(Shotgun) 14-A.Dalton pass short left to 18-A.Green to CLV 7 for 1 yard(23-J.Haden).'>18.42</number><number>0.35</number>
+<number shadow='shadow1' tooltip='10:50 4-2-CLV 7CIN 0 CLV 7 LI: 0.6(Field Goal formation) 2-M.Nugent 25 yard field goal is GOOD Center-46-C.Harris Holder-10-K.Huber.'>19.17</number><number>0.34</number>
+<number shadow='shadow1' tooltip='10:50 CIN 3 CLV 7 LI: 2-M.Nugent kicks 69 yards from CIN 35 to CLV -418-G.Little to CLV 26 for 30 yards(80-O.Charles; 57-V.Rey).'>19.26</number><number>0.34</number>
+<number shadow='shadow1' tooltip='10:43 1-10-CLV 26CIN 3 CLV 7 LI: 1.36-B.Hoyer pass short right to 84-J.Cameron to CLV 31 for 5 yards(55-V.Burfict; 94-D.Peko).'>19.28</number><number>0.34</number>
+<number shadow='shadow1' tooltip='10:06 2-5-CLV 31CIN 3 CLV 7 LI: 1.26-B.Hoyer pass incomplete deep left to 15-D.Bess [93-M.Johnson].'>19.9</number><number>0.36</number>
+<number shadow='shadow1' tooltip='10:01 3-5-CLV 31CIN 3 CLV 7 LI: 1(Shotgun) 6-B.Hoyer pass deep left to 12-J.Gordon to CIN 36 for 33 yards(24-A.Jones).'>19.98</number><number>0.28</number>
+<number shadow='shadow1' tooltip='9:11 1-10-CIN 36CIN 3 CLV 7 LI: 1.1(Shotgun) 6-B.Hoyer pass incomplete short right to 15-D.Bess [97-G.Atkins].'>20.82</number><number>0.3</number>
+<number shadow='shadow1' tooltip='9:08 2-10-CIN 36CIN 3 CLV 7 LI: 0.934-B.Rainey left tackle to CIN 40 for -4 yards(94-D.Peko; 97-G.Atkins).'>20.87</number><number>0.32</number>
+<number shadow='shadow1' tooltip='8:29 3-14-CIN 40CIN 3 CLV 7 LI: 0.8(Shotgun) 6-B.Hoyer pass deep left to 12-J.Gordon to CIN 24 for 16 yards(58-R.Maualuga; 21-B.Ghee).'>21.52</number><number>0.27</number>
+<number shadow='shadow1' tooltip='8:12 1-10-CIN 24CIN 3 CLV 7 LI: 0.925-C.Ogbonnaya left tackle to CIN 19 for 5 yards(96-C.Dunlap).'>21.8</number><number>0.23</number>
+<number shadow='shadow1' tooltip='7:41 2-5-CIN 19CIN 3 CLV 7 LI: 1.26-B.Hoyer pass incomplete short right to 15-D.Bess.'>22.32</number><number>0.25</number>
+<number shadow='shadow1' tooltip='7:36 3-5-CIN 19CIN 3 CLV 7 LI: 1(Shotgun) 6-B.Hoyer pass incomplete deep left to 18-G.Little.'>22.4</number><number>0.3</number>
+<number shadow='shadow1' tooltip='7:32 4-5-CIN 19CIN 3 CLV 7 LI: 0.5(Field Goal formation) 8-B.Cundiff 37 yard field goal is No Good Wide Left Center-57-C.Yount Holder-5-S.Lanning.'>22.47</number><number>0.37</number>
+<number shadow='shadow1' tooltip='7:29 1-10-CIN 27CIN 3 CLV 7 LI: 125-G.Bernard left end to CIN 33 for 6 yards(22-B.Skrine)pitch out'>22.52</number><number>0.38</number>
+<number shadow='shadow1' tooltip='6:55 2-4-CIN 33CIN 3 CLV 7 LI: 1(Shotgun) 14-A.Dalton pass short left to 18-A.Green to CIN 44 for 11 yards(23-J.Haden).'>23.08</number><number>0.4</number>
+<number shadow='shadow1' tooltip='6:19 1-10-CIN 44CIN 3 CLV 7 LI: 114-A.Dalton pass incomplete deep middle to 12-M.SanuPENALTY on CLV-22-B.Skrine Defensive Pass Interference 40 yards enforced at CIN 44 - No Playflea flicker'>23.68</number><number>0.49</number>
+<number shadow='shadow1' tooltip='6:12 1-10-CLV 16CIN 3 CLV 7 LI: 1.442-B.Green-Ellis left guard to CLV 12 for 4 yards(52-D.Jackson).'>23.8</number><number>0.55</number>
+<number shadow='shadow1' tooltip='5:30 2-6-CLV 12CIN 3 CLV 7 LI: 214-A.Dalton pass incomplete short right to 18-A.Green (23-J.Haden).'>24.5</number><number>0.51</number>
+<number shadow='shadow1' tooltip='5:26 3-6-CLV 12CIN 3 CLV 7 LI: 1.6(Shotgun) 14-A.Dalton pass short left to 85-T.Eifert to CLV 7 for 5 yards(53-C.Robertson; 92-D.Bryant)51 Mingo tipped ball'>24.57</number><number>0.45</number>
+<number shadow='shadow1' tooltip='4:39 4-1-CLV 7CIN 3 CLV 7 LI: 142-B.Green-Ellis left guard to CLV 9 for -2 yards(92-D.Bryant; 52-D.Jackson).'>25.35</number><number>0.35</number>
+<number shadow='shadow1' tooltip='4:35 1-10-CLV 9CIN 3 CLV 7 LI: 226-W.McGahee right guard to CLV 17 for 8 yards(43-G.Iloka).'>25.42</number><number>0.35</number>
+<number shadow='shadow1' tooltip='4:06 2-2-CLV 17CIN 3 CLV 7 LI: 1.426-W.McGahee left guard to CLV 14 for -3 yards(96-C.Dunlap).'>25.9</number><number>0.38</number>
+<number shadow='shadow1' tooltip='3:24 3-5-CLV 14CIN 3 CLV 7 LI: 1.7(Shotgun) 6-B.Hoyer pass incomplete short left to 12-J.Gordon.'>26.6</number><number>0.42</number>
+<number shadow='shadow1' tooltip='3:18 4-5-CLV 14CIN 3 CLV 7 LI: 1.3(Punt formation) 5-S.Lanning punts 42 yards to CIN 44 Center-57-C.Yount19-B.Tate to CIN 49 for 5 yards(53-C.Robertson).'>26.7</number><number>0.42</number>
+<number shadow='shadow1' tooltip='3:09 1-10-CIN 49CIN 3 CLV 7 LI: 1.314-A.Dalton pass incomplete short right to 25-G.Bernard.'>26.85</number><number>0.4</number>
+<number shadow='shadow1' tooltip='3:02 2-10-CIN 49CIN 3 CLV 7 LI: 1.1(Shotgun) 25-G.Bernard left guard to CLV 45 for 6 yards(39-T.Gipson; 53-C.Robertson).'>26.97</number><number>0.4</number>
+<number shadow='shadow1' tooltip='2:21 3-4-CLV 45CIN 3 CLV 7 LI: 1(Shotgun) 14-A.Dalton pass incomplete deep right to 18-A.Green.'>27.65</number><number>0.35</number>
+<number shadow='shadow1' tooltip='2:16 4-4-CLV 45CIN 3 CLV 7 LI: 0.5(Punt formation) 10-K.Huber punts 37 yards to CLV 8 Center-46-C.Harris fair catch by 15-D.Bess.'>27.73</number><number>0.35</number>
+<number shadow='shadow1' tooltip='2:08 1-10-CLV 8CIN 3 CLV 7 LI: 2(Shotgun) 34-B.Rainey left guard to CLV 10 for 2 yards(58-R.Maualuga).'>27.87</number><number>0.37</number>
+<number shadow='shadow1' tooltip='2:00 2-8-CLV 10CIN 3 CLV 7 LI: 1.86-B.Hoyer pass short middle to 25-C.Ogbonnaya to CLV 18 for 8 yards(21-B.Ghee).'>28</number><number>0.33</number>
+<number shadow='shadow1' tooltip='1:36 1-10-CLV 18CIN 3 CLV 7 LI: 1.7(No Huddle Shotgun) 25-C.Ogbonnaya right guard to CLV 20 for 2 yards(55-V.Burfict; 23-T.Newman).'>28.4</number><number>0.35</number>
+<number shadow='shadow1' tooltip='1:15 2-8-CLV 20CIN 3 CLV 7 LI: 1.4(No Huddle Shotgun) 6-B.Hoyer pass short left to 84-J.Cameron to CLV 24 for 4 yards(58-R.Maualuga; 24-A.Jones).'>28.75</number><number>0.35</number>
+<number shadow='shadow1' tooltip='1:08 3-4-CLV 24CIN 3 CLV 7 LI: 1.3(Shotgun) 6-B.Hoyer pass short right to 84-J.Cameron to CLV 39 for 15 yards(55-V.Burfict).'>28.87</number><number>0.3</number>
+<number shadow='shadow1' tooltip='1:03 1-10-CLV 39CIN 3 CLV 7 LI: 1.5(Shotgun) 6-B.Hoyer scrambles right guard to CLV 47 for 8 yards(55-V.Burfict).'>28.95</number><number>0.3</number>
+<number shadow='shadow1' tooltip='0:56 2-2-CLV 47CIN 3 CLV 7 LI: 1.3(No Huddle Shotgun) 6-B.Hoyer pass incomplete deep left to 12-J.Gordon.'>29.07</number><number>0.31</number>
+<number shadow='shadow1' tooltip='0:45 3-2-CLV 47CIN 3 CLV 7 LI: 1.2(Shotgun) 6-B.Hoyer pass short right to 84-J.Cameron to CIN 42 for 11 yards(43-G.Iloka; 55-V.Burfict)PENALTY on CIN Delay of Game 5 yards enforced at CIN 42.'>29.25</number><number>0.27</number>
+<number shadow='shadow1' tooltip='0:36 1-10-CIN 37CIN 3 CLV 7 LI: 1.26-B.Hoyer pass incomplete deep left to 12-J.Gordon.'>29.4</number><number>0.28</number>
+<number shadow='shadow1' tooltip='0:25 2-10-CIN 37CIN 3 CLV 7 LI: 1.1(Shotgun) 6-B.Hoyer pass incomplete short right to 84-J.Cameron.'>29.58</number><number>0.29</number>
+<number shadow='shadow1' tooltip='0:05 3-10-CIN 37CIN 3 CLV 7 LI: 1(Shotgun) 6-B.Hoyer pass short left to 84-J.Cameron to CIN 31 for 6 yards.'>29.92</number><number>0.31</number>
+<number shadow='shadow1' tooltip='0:04 4-4-CIN 31CIN 3 CLV 7 LI: 0.6(Field Goal formation) 8-B.Cundiff 49 yard field goal is No Good Wide Right Center-57-C.Yount Holder-5-S.Lanning.'>29.93</number><number>0.36</number>
+<number shadow='shadow1' tooltip='0:04 CIN 3 CLV 7 LI: 5-S.Lanning kicks 63 yards from CLV 35 to CIN 219-B.Tate to CIN 24 for 22 yards(58-B.Magee).'>30.02</number><number>0.35</number>
+<number shadow='shadow1' tooltip='14:56 1-10-CIN 24CIN 3 CLV 7 LI: 1.1(Shotgun) 14-A.Dalton pass short left to 12-M.Sanu to CIN 34 for 10 yards(53-C.Robertson).'>30.07</number><number>0.37</number>
+<number shadow='shadow1' tooltip='14:24 1-10-CIN 34CIN 3 CLV 7 LI: 1.214-A.Dalton pass incomplete short right to 12-M.Sanu [53-C.Robertson].'>30.6</number><number>0.36</number>
+<number shadow='shadow1' tooltip='14:17 2-10-CIN 34CIN 3 CLV 7 LI: 1.125-G.Bernard left guard to CIN 40 for 6 yards(39-T.Gipson; 52-D.Jackson).'>30.72</number><number>0.37</number>
+<number shadow='shadow1' tooltip='13:38 3-4-CIN 40CIN 3 CLV 7 LI: 1.1(No Huddle Shotgun) 14-A.Dalton pass short middle to 25-G.Bernard to CIN 46 for 6 yards(53-C.Robertson).'>31.37</number><number>0.4</number>
+<number shadow='shadow1' tooltip='12:57 1-10-CIN 46CIN 3 CLV 7 LI: 1.3(Shotgun) 25-G.Bernard left tackle to CIN 47 for 1 yard(98-P.Taylor).'>32.05</number><number>0.39</number>
+<number shadow='shadow1' tooltip='12:20 2-9-CIN 47CIN 3 CLV 7 LI: 1.2(Shotgun) 14-A.Dalton pass short left to 12-M.Sanu to CIN 49 for 2 yards(52-D.Jackson).'>32.67</number><number>0.37</number>
+<number shadow='shadow1' tooltip='11:35 3-7-CIN 49CIN 3 CLV 7 LI: 1.1(Shotgun) 14-A.Dalton sacked at CIN 44 for -5 yards(21-C.Owens)FUMBLES (21-C.Owens) RECOVERED by CLV-21-C.Owens at CIN 4721-C.Owens to CIN 47 for no gain (71-An.Smith)The Replay Assistant challenged the fumble ruling and the play was Upheld.'>33.42</number><number>0.26</number>
+<number shadow='shadow1' tooltip='11:24 1-10-CIN 47CIN 3 CLV 7 LI: 1.46-B.Hoyer pass short right to 34-B.Rainey to CIN 39 for 8 yards(26-T.Mays)PENALTY on CLV-55-A.Mack Illegal Cut 15 yards enforced at CIN 47 - No Play.'>33.6</number><number>0.29</number>
+<number shadow='shadow1' tooltip='10:49 1-25-CLV 38CIN 3 CLV 7 LI: 1.56-B.Hoyer pass short right to 84-J.Cameron to CLV 38 for no gain (55-V.Burfict; 43-G.Iloka).'>34.18</number><number>0.32</number>
+<number shadow='shadow1' tooltip='10:24 2-25-CLV 38CIN 3 CLV 7 LI: 1.26-B.Hoyer pass short left to 34-B.Rainey to CIN 47 for 15 yards(93-M.Johnson).'>34.6</number><number>0.29</number>
+<number shadow='shadow1' tooltip='9:44 3-10-CIN 47CIN 3 CLV 7 LI: 1.1(Shotgun) 6-B.Hoyer pass incomplete short right to 12-J.Gordon.'>35.27</number><number>0.31</number>
+<number shadow='shadow1' tooltip='9:39 4-10-CIN 47CIN 3 CLV 7 LI: 0.9(Punt formation) 5-S.Lanning punts 34 yards to CIN 13 Center-57-C.Yount fair catch by 19-B.Tate.'>35.35</number><number>0.3</number>
+<number shadow='shadow1' tooltip='9:32 1-10-CIN 13CIN 3 CLV 7 LI: 1.142-B.Green-Ellis left guard to CIN 16 for 3 yards(52-D.Jackson).'>35.47</number><number>0.31</number>
+<number shadow='shadow1' tooltip='8:56 2-7-CIN 16CIN 3 CLV 7 LI: 1(Shotgun) 14-A.Dalton pass incomplete deep right to 85-T.Eifert.'>36.07</number><number>0.3</number>
+<number shadow='shadow1' tooltip='8:50 3-7-CIN 16CIN 3 CLV 7 LI: 1(Shotgun) 14-A.Dalton pass incomplete short middle to 18-A.Green (22-B.Skrine).'>36.17</number><number>0.27</number>
+<number shadow='shadow1' tooltip='8:45 4-7-CIN 16CIN 3 CLV 7 LI: 0.7(Punt formation) 10-K.Huber punts 41 yards to CLV 43 Center-46-C.Harris80-T.Benjamin to 50 for 7 yards(26-T.Mays).'>36.25</number><number>0.26</number>
+<number shadow='shadow1' tooltip='8:35 1-10-50CIN 3 CLV 7 LI: 1.526-W.McGahee left guard to CIN 43 for 7 yards(58-R.Maualuga).'>36.42</number><number>0.25</number>
+<number shadow='shadow1' tooltip='8:00 2-3-CIN 43CIN 3 CLV 7 LI: 1.3(Shotgun) 6-B.Hoyer pass incomplete deep left to 18-G.Little.'>37</number><number>0.27</number>
+<number shadow='shadow1' tooltip='7:17 1-10-CIN 32CIN 3 CLV 7 LI: 1.2(Shotgun) 34-B.Rainey right end to CIN 29 for 3 yards(55-V.Burfict)47 (Gray) in at QB'>37.72</number><number>0.23</number>
+<number shadow='shadow1' tooltip='7:06 2-7-CIN 29CIN 3 CLV 7 LI: 1.16-B.Hoyer pass incomplete deep left to 84-J.Cameron (43-G.Iloka).'>37.9</number><number>0.25</number>
+<number shadow='shadow1' tooltip='6:56 3-7-CIN 29CIN 3 CLV 7 LI: 0.9(Shotgun) 6-B.Hoyer pass short right to 12-J.Gordon to CIN 20 for 9 yards(23-T.Newman).'>38.07</number><number>0.2</number>
+<number shadow='shadow1' tooltip='6:28 1-10-CIN 20CIN 3 CLV 7 LI: 1.226-W.McGahee left guard to CIN 25 for -5 yards(92-J.Harrison).'>38.53</number><number>0.24</number>
+<number shadow='shadow1' tooltip='5:53 2-15-CIN 25CIN 3 CLV 7 LI: 1(Shotgun) 6-B.Hoyer sacked at CIN 33 for -8 yards(sack split by 97-G.Atkins and 96-C.Dunlap).'>39.12</number><number>0.29</number>
+<number shadow='shadow1' tooltip='5:20 3-23-CIN 33CIN 3 CLV 7 LI: 0.7(Shotgun) 6-B.Hoyer pass incomplete short right to 15-D.Bess.'>39.67</number><number>0.3</number>
+<number shadow='shadow1' tooltip='5:14 4-23-CIN 33CIN 3 CLV 7 LI: 0.6(Field Goal formation) 8-B.Cundiff 51 yard field goal is GOOD Center-57-C.Yount Holder-5-S.Lanning.'>39.77</number><number>0.24</number>
+<number shadow='shadow1' tooltip='5:14 CIN 3 CLV 10 LI: 5-S.Lanning kicks 71 yards from CLV 35 to CIN -619-B.Tate to CIN 13 for 19 yards(29-L.McFadden).'>39.86</number><number>0.2</number>
+<number shadow='shadow1' tooltip='5:05 1-10-CIN 13CIN 3 CLV 10 LI: 1(Shotgun) 14-A.Dalton pass deep right to 85-T.Eifert to CIN 42 for 29 yards(39-T.Gipson).'>39.92</number><number>0.27</number>
+<number shadow='shadow1' tooltip='4:35 1-10-CIN 42CIN 3 CLV 10 LI: 1.114-A.Dalton pass incomplete short left to 85-T.Eifert (51-B.Mingo)PENALTY on CLV-22-B.Skrine Unnecessary Roughness 15 yards enforced at CIN 42 - No Play.'>40.42</number><number>0.3</number>
+<number shadow='shadow1' tooltip='4:32 1-10-CLV 43CIN 3 CLV 10 LI: 1.125-G.Bernard left guard to CLV 36 for 7 yards(43-T.Ward)PENALTY on CIN-18-A.Green Offensive Holding 10 yards enforced at CLV 39.'>40.47</number><number>0.29</number>
+<number shadow='shadow1' tooltip='4:25 1-16-CLV 49CIN 3 CLV 10 LI: 1.1(Shotgun) 14-A.Dalton pass short middle to 25-G.Bernard to CLV 40 for 9 yards(51-B.Mingo).'>40.58</number><number>0.3</number>
+<number shadow='shadow1' tooltip='4:00 2-7-CLV 40CIN 3 CLV 10 LI: 1.114-A.Dalton pass incomplete short right to 18-A.Green.'>41</number><number>0.27</number>
+<number shadow='shadow1' tooltip='3:33 3-7-CLV 40CIN 3 CLV 10 LI: 0.8(Shotgun) 14-A.Dalton pass short left to 18-A.Green to CLV 33 for 7 yards(21-C.Owens)Cleveland challenged the first down ruling and the play was REVERSED(Shotgun) 14-A.Dalton pass short left to 18-A.Green to CLV 34 for 6 yards(21-C.Owens).'>41.45</number><number>0.25</number>
+<number shadow='shadow1' tooltip='2:45 4-1-CLV 34CIN 3 CLV 10 LI: 0.614-A.Dalton up the middle to CLV 32 for 2 yards(71-A.Rubin).'>42.25</number><number>0.32</number>
+<number shadow='shadow1' tooltip='2:04 1-10-CLV 32CIN 3 CLV 10 LI: 1.314-A.Dalton pass incomplete short right to 18-A.Green.'>42.93</number><number>0.31</number>
+<number shadow='shadow1' tooltip='2:00 2-10-CLV 32CIN 3 CLV 10 LI: 1.2(Shotgun) 14-A.Dalton pass short right to 11-D.Sanzenbacher to CLV 26 for 6 yards(52-D.Jackson).'>43</number><number>0.31</number>
+<number shadow='shadow1' tooltip='1:23 3-4-CLV 26CIN 3 CLV 10 LI: 1.2(No Huddle Shotgun) 14-A.Dalton scrambles right guard to CLV 25 for 1 yard(92-D.Bryant; 51-B.Mingo).'>43.62</number><number>0.27</number>
+<number shadow='shadow1' tooltip='0:41 4-3-CLV 25CIN 3 CLV 10 LI: 0.8(Field Goal formation) 2-M.Nugent 43 yard field goal is GOOD Center-46-C.Harris Holder-10-K.Huber.'>44.32</number><number>0.29</number>
+<number shadow='shadow1' tooltip='0:41 CIN 6 CLV 10 LI: 2-M.Nugent kicks 65 yards from CIN 35 to end zone Touchback.'>44.41</number><number>0.31</number>
+<number shadow='shadow1' tooltip='0:32 2-10-CLV 20CIN 6 CLV 10 LI: 1.526-W.McGahee right tackle to CLV 21 for 1 yard(55-V.Burfict; 92-J.Harrison).'>44.47</number><number>0.33</number>
+<number shadow='shadow1' tooltip='15:00 3-9-CLV 21CIN 6 CLV 10 LI: 1.4(Shotgun) 6-B.Hoyer sacked at CLV 11 for -10 yards(97-G.Atkins).'>45</number><number>0.39</number>
+<number shadow='shadow1' tooltip='14:29 4-19-CLV 11CIN 6 CLV 10 LI: 1.65-S.Lanning punts 51 yards to CIN 38 Center-57-C.Yount fair catch by 19-B.Tate.'>45.52</number><number>0.37</number>
+<number shadow='shadow1' tooltip='14:21 1-10-CIN 38CIN 6 CLV 10 LI: 1.5(Shotgun) 14-A.Dalton pass incomplete short right to 18-A.GreenPENALTY on CIN-68-K.Zeitler Offensive Holding 10 yards enforced at CIN 38 - No Play.'>45.65</number><number>0.34</number>
+<number shadow='shadow1' tooltip='14:14 1-20-CIN 28CIN 6 CLV 10 LI: 1.4(Shotgun) 14-A.Dalton pass short left to 25-G.Bernard to CIN 35 for 7 yards(39-T.Gipson).'>45.77</number><number>0.33</number>
+<number shadow='shadow1' tooltip='13:30 2-13-CIN 35CIN 6 CLV 10 LI: 1.3(Shotgun) 14-A.Dalton pass incomplete short left to 82-M.Jones.'>46.5</number><number>0.31</number>
+<number shadow='shadow1' tooltip='13:25 3-13-CIN 35CIN 6 CLV 10 LI: 1.1(Shotgun) 14-A.Dalton pass short middle to 84-J.Gresham to CLV 41 for 24 yards(43-T.Ward).'>46.58</number><number>0.42</number>
+<number shadow='shadow1' tooltip='13:08 1-10-CLV 41CIN 6 CLV 10 LI: 1.714-A.Dalton FUMBLES (Aborted) at CLV 41 recovered by CIN-25-G.Bernard at CIN 4525-G.Bernard to CIN 45 for no gain (51-B.Mingo).'>46.87</number><number>0.32</number>
+<number shadow='shadow1' tooltip='12:50 2-24-CIN 45CIN 6 CLV 10 LI: 114-A.Dalton pass incomplete deep right to 18-A.Green (23-J.Haden).'>47.17</number><number>0.31</number>
+<number shadow='shadow1' tooltip='12:20 3-24-CIN 45CIN 6 CLV 10 LI: 0.9(Shotgun) 14-A.Dalton pass short right to 84-J.Gresham to CIN 48 for 3 yards(99-P.Kruger; 53-C.Robertson).'>47.67</number><number>0.29</number>
+<number shadow='shadow1' tooltip='11:40 4-21-CIN 48CIN 6 CLV 10 LI: 0.8(Punt formation) 10-K.Huber punts 43 yards to CLV 9 Center-46-C.Harris out of bounds.'>48.33</number><number>0.31</number>
+<number shadow='shadow1' tooltip='11:31 1-10-CLV 9CIN 6 CLV 10 LI: 2.5(Shotgun) 6-B.Hoyer pass short middle to 84-J.Cameron to CLV 15 for 6 yards(58-R.Maualuga; 55-V.Burfict).'>48.48</number><number>0.3</number>
+<number shadow='shadow1' tooltip='10:59 2-4-CLV 15CIN 6 CLV 10 LI: 1.926-W.McGahee right tackle to CLV 20 for 5 yards(23-T.Newman; 55-V.Burfict).'>49.02</number><number>0.26</number>
+<number shadow='shadow1' tooltip='10:16 1-10-CLV 20CIN 6 CLV 10 LI: 2.326-W.McGahee left guard to CLV 24 for 4 yards(94-D.Peko).'>49.73</number><number>0.26</number>
+<number shadow='shadow1' tooltip='9:40 2-6-CLV 24CIN 6 CLV 10 LI: 2.3(Shotgun) 6-B.Hoyer pass short left to 34-B.Rainey to CLV 29 for 5 yards(55-V.Burfict)CIN-55-V.Burfict was injured during the playHis return is Questionable qb scramble'>50.33</number><number>0.24</number>
+<number shadow='shadow1' tooltip='9:18 3-1-CLV 29CIN 6 CLV 10 LI: 2.425-C.Ogbonnaya right guard to CLV 31 for 2 yards(93-M.Johnson; 57-V.Rey).'>50.7</number><number>0.22</number>
+<number shadow='shadow1' tooltip='8:40 1-10-CLV 31CIN 6 CLV 10 LI: 2.66-B.Hoyer pass short left to 12-J.Gordon to CLV 44 for 13 yards(24-A.Jones; 26-T.Mays).'>51.33</number><number>0.17</number>
+<number shadow='shadow1' tooltip='8:06 1-10-CLV 44CIN 6 CLV 10 LI: 2.726-W.McGahee right tackle to CLV 45 for 1 yard(58-R.Maualuga).'>51.9</number><number>0.18</number>
+<number shadow='shadow1' tooltip='7:30 2-9-CLV 45CIN 6 CLV 10 LI: 2.66-B.Hoyer pass deep left to 84-J.Cameron to CIN 24 for 31 yards(43-G.Iloka).'>52.5</number><number>0.1</number>
+<number shadow='shadow1' tooltip='6:50 1-10-CIN 24CIN 6 CLV 10 LI: 1.6(Shotgun) 26-W.McGahee left guard to CIN 15 for 9 yards(98-B.Thompson).'>53.17</number><number>0.05</number>
+<number shadow='shadow1' tooltip='6:13 2-1-CIN 15CIN 6 CLV 10 LI: 1.726-W.McGahee right guard to CIN 10 for 5 yards(98-B.Thompson).'>53.78</number><number>0.07</number>
+<number shadow='shadow1' tooltip='5:40 1-10-CIN 10CIN 6 CLV 10 LI: 1.326-W.McGahee left guard to CIN 1 for 9 yards(26-T.Mays).'>54.33</number><number>0.06</number>
+<number shadow='shadow1' tooltip='4:59 2-1-CIN 1CIN 6 CLV 10 LI: 1.56-B.Hoyer pass short right to 25-C.Ogbonnaya for 1 yard TOUCHDOWN.'>55.02</number><number>0.05</number>
+<number shadow='shadow1' tooltip='4:59 CIN 6 CLV 10 LI: 8-B.Cundiff extra point is GOOD Center-57-C.Yount Holder-5-S.Lanning.'>55.06</number><number>0.05</number>
+<number shadow='shadow1' tooltip='4:59 CIN 6 CLV 17 LI: 5-S.Lanning kicks 65 yards from CLV 35 to CIN 019-B.Tate to CIN 19 for 19 yards(24-J.Bademosi).'>55.11</number><number>0.03</number>
+<number shadow='shadow1' tooltip='4:49 1-10-CIN 19CIN 6 CLV 17 LI: 0.2(Shotgun) 14-A.Dalton pass short left to 18-A.Green to CIN 27 for 8 yards(43-T.Ward).'>55.18</number><number>0.06</number>
+<number shadow='shadow1' tooltip='4:23 2-2-CIN 27CIN 6 CLV 17 LI: 0.5(No Huddle Shotgun) 14-A.Dalton pass short left to 18-A.Green to CIN 32 for 5 yards(23-J.Haden).'>55.62</number><number>0.07</number>
+<number shadow='shadow1' tooltip='3:56 1-10-CIN 32CIN 6 CLV 17 LI: 0.6(No Huddle Shotgun) 14-A.Dalton pass incomplete deep right to 84-J.Gresham (39-T.Gipson).'>56.07</number><number>0.07</number>
+<number shadow='shadow1' tooltip='3:49 2-10-CIN 32CIN 6 CLV 17 LI: 0.6(Shotgun) 14-A.Dalton pass short middle intended for 85-T.Eifert INTERCEPTED by 22-B.Skrine (52-D.Jackson) at CIN 4022-B.Skrine to CIN 35 for 5 yards(85-T.Eifert)ball tipped by 52 Jackson'>56.18</number><number>0.01</number>
+<number shadow='shadow1' tooltip='3:43 1-10-CIN 35CIN 6 CLV 17 LI: 0.726-W.McGahee right guard to CIN 33 for 2 yards(94-D.Peko; 58-R.Maualuga).'>56.28</number><number>0.03</number>
+<number shadow='shadow1' tooltip='3:33 2-8-CIN 33CIN 6 CLV 17 LI: 0.526-W.McGahee left guard to CIN 32 for 1 yard(32-C.Crocker).'>56.45</number><number>0.03</number>
+<number shadow='shadow1' tooltip='2:56 4-11-CIN 36CIN 6 CLV 17 LI: 0.75-S.Lanning punts 28 yards to CIN 8 Center-57-C.Yount out of bounds.'>57.07</number><number>0.01</number>
+<number shadow='shadow1' tooltip='2:51 1-10-CIN 8CIN 6 CLV 17 LI: 0.1(Shotgun) 14-A.Dalton pass incomplete short left to 82-M.Jones (39-T.Gipson).'>57.15</number><number>0.02</number>
+<number shadow='shadow1' tooltip='2:45 2-10-CIN 8CIN 6 CLV 17 LI: 0.1(Shotgun) 14-A.Dalton pass deep right to 18-A.Green to CIN 24 for 16 yards(52-D.Jackson).'>57.25</number><number>0.02</number>
+<number shadow='shadow1' tooltip='2:16 1-10-CIN 24CIN 6 CLV 17 LI: 0.1(No Huddle Shotgun) 14-A.Dalton pass short middle to 25-G.Bernard to CIN 25 for 1 yard(52-D.Jackson).'>57.73</number><number>0.01</number>
+<number shadow='shadow1' tooltip='2:00 2-9-CIN 25CIN 6 CLV 17 LI: 0.1(Shotgun) 14-A.Dalton pass short right to 25-G.Bernard to CIN 30 for 5 yards(52-D.Jackson).'>58</number><number>0.02</number>
+<number shadow='shadow1' tooltip='1:52 3-4-CIN 30CIN 6 CLV 17 LI: 0.1(Shotgun) 14-A.Dalton pass incomplete short left to 12-M.Sanu.'>58.13</number><number>0.01</number>
+<number shadow='shadow1' tooltip='1:47 4-4-CIN 30CIN 6 CLV 17 LI: 0.1(Shotgun) 14-A.Dalton pass incomplete deep left to 82-M.Jones (22-B.Skrine).'>58.22</number><number>0.01</number>
+<number shadow='shadow1' tooltip='1:39 1-10-CIN 30CIN 6 CLV 17 LI: 0.16-B.Hoyer kneels to CIN 30 for no gain.'>58.35</number><number>0.01</number>
+<number shadow='shadow1' tooltip='0:58 2-10-CIN 30CIN 6 CLV 17 LI: 0.16-B.Hoyer kneels to CIN 31 for -1 yards.'>59.03</number><number>0.01</number>
+<number shadow='shadow1' tooltip='0:35 3-11-CIN 31CIN 6 CLV 17 LI: 0.16-B.Hoyer kneels to CIN 31 for no gain.'>59.42</number><number>0</number>
+<number>60</number><number>0</number>
+</row> </chart_data>
+       <draw>
+
+
+
+      <image x='45' y='298'  url='nfllogos/42x50png/CIN.gif'  layer='foreground' glow = 'glow1'/>
+      <image x='45' y='350'  url='nfllogos/42x50png/CLV.gif'     layer='foreground' glow = 'glow1'/>
+
+
+      <rect x='130' y='300' width='250' height='40' fill_color='ff652b' bevel='bevel1' />
+      <text x='135' y='300' width='250' height='40' h_align='left' v_align='middle' color='ffffff' shadow='shadow2' glow=''>Cincinnati Bengals</text>
+
+      <rect x='130' y='350' width='250' height='40' fill_color='522b20' bevel='bevel1'  />
+      <text x='135' y='350' width='250' height='40' h_align='left' v_align='middle' color='ffffff' shadow='shadow2' glow='winnerglow'>Cleveland Browns</text>
+
+      <rect x='420' y='300' width='60' height='40' fill_color='ff652b' bevel='bevel1'  />
+      <text x='420' y='300' width='60' height='40' h_align='center' v_align='middle' color='ffffff' shadow='shadow2' transition='none' glow=''>6</text>
+
+      <rect x='420' y='350' width='60' height='40' fill_color='522b20' bevel='bevel1' />
+      <text x='420' y='350' width='60' height='40' h_align='center' v_align='middle' color='ffffff' shadow='shadow2' transition='none' glow='winnerglow'>17</text>
+
+      <text x='-3' y='12'  width='60' height='40' h_align='center' v_align='middle' size='13' shadow='shadow2'>CINWin </text>
+      <text x='-3' y='218' width='60' height='40' h_align='center' v_align='middle' size='13' shadow='shadow2'>CLVWin </text>
+
+     
+              <rect x='540' y='300' width='100' height='35' fill_color='000000' fill_alpha='50'/>
+              <text x='540' y='300' width='100' height='35' h_align='center' v_align='middle' color='ffffff' size='15' shadow='shadow2' >Final</text>
+
+              <text x='540' y='340' width='40' h_align='center' color='000000' size='12' shadow='shadow2'>CBF</text>
+              <text x='600' y='340' width='40' h_align='center' color='000000' size='12' shadow='shadow2'>EI</text>
+
+              <rect x='540' y='360' width='40' height='30' fill_color='000000' fill_alpha='50' />
+              <text x='540' y='360' width='40' height='30' size='12' h_align='center' v_align='middle' color='FFFFFF' shadow='shadow2'>2</text>
+
+              <rect x='600' y='360' width='40' height='30' fill_color='000000' fill_alpha='50' />
+              <text x='600' y='360' width='40' height='30' size='12' h_align='center' v_align='middle' color='FFFFFF' shadow='shadow2'>4.2</text>
+
+              <text x='20' y='420' width='70' height='25' size='12' h_align='left' v_align='middle' color='000000' >9/29/2013</text>
+              <text x='100' y='420' width='200' height='25' size='12' h_align='left' v_align='middle' color='000000' >FirstEnergy Stadium</text>
+
+   </draw></chart>

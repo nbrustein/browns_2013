@@ -1,0 +1,302 @@
+
+<chart>
+   <license>ETAS9P33ESHO.945CWK-2XOI1X0-7L</license>
+   <chart_type>scatter</chart_type>
+   <chart_pref trend_thickness='0' line_thickness='3' point_size='0'/>
+
+   <series_color>
+      <color>ffff00</color>
+   </series_color>
+
+   <chart_rect x='45' y='20' width='630' height='230' positive_color='cacaca'  />
+
+  <chart_border top_thickness='0'
+                 bottom_thickness='0'
+                 left_thickness='0'
+                 right_thickness='0'
+                 color='000000'
+                 />
+
+   <tooltip font='Arial' bold='true' size='11' />
+
+   <chart_note type='flag'
+               color='000000'
+               alpha='90'
+               bold='FALSE'
+               size='10'
+               background_color='ffffe0'
+               background_alpha='50'
+               shadow='shadow2'
+               />
+
+   <chart_grid_h thickness='2' color='ffffff' type='dashed'  />
+   <chart_grid_v thickness='2' color='ffffff'   />
+		>
+
+   <legend layout='hide' />
+
+   <chart_guide horizontal='TRUE'
+             vertical='TRUE'
+             thickness='1'
+             color='006400'
+             alpha='100'
+             type='solid'
+             snap_h='TRUE'
+             snap_v='TRUE'
+             radius='3'
+             fill_color='006400'
+             fill_alpha='100'
+             line_color='006400'
+             line_alpha='80'
+             line_thickness='1'
+             text_h_alpha='50'
+             text_v_alpha='00'
+             suffix_h=' WP'
+             decimals='2'
+             bold='FALSE'
+             size='11'
+             text_color='FFFFFF'
+             background_color='006400'
+             />
+   <filter>
+      <shadow id='shadow1' distance='2' angle='60' blurX='5' blurY='5' alpha='50' />
+      <bevel id='bevel1' angle='45' blurX='5' blurY='5' distance='0' />
+      <glow id='glow1' color='ffffff' alpha='0' blurX='7' blurY='7' strength='6' quality='2' inner='FALSE' knockout='FALSE' />
+      <glow id='winnerglow' color='ffffff' alpha='0' blurX='7' blurY='7' strength='5' quality='2' inner='FALSE' knockout='FALSE' />
+   </filter>
+
+    <axis_value_label>
+         <string></string>
+          <string> </string>
+          <null/>
+          <string> </string>
+          <string></string>
+
+       </axis_value_label>
+		
+	   <axis_ticks category_ticks='false'/>
+
+       <axis_value min='0' max='1' steps='4'  decimals='2' show_min='true' size='13' shadow='shadow2' />     
+            <axis_category
+               min='0'
+               max='60'
+               steps='4'
+               mode='all'
+               decimals='0'
+               size='13'
+               shadow='shadow2'
+               />
+
+       <axis_category_label>
+          <string>Kickoff</string>
+          <string></string>
+          <string>Halftime</string>
+          <string></string>
+          <string>End</string>
+
+       </axis_category_label>
+
+
+        <chart_data>
+       <row>
+	      <null/><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number>
+              <number>x</number><number>y</number>
+              </row><row><string></string>
+
+                     <number shadow='shadow1'>0</number><number>.5</number><number shadow='shadow1' tooltip='15:00 ARZ 0 SEA 0 LI: 4-S.Hauschka kicks 70 yards from SEA 35 to ARZ -535-J.Arenas to ARZ 20 for 25 yards(29-E.Thomas).'>0.09</number><number>0.52</number>
+<number shadow='shadow1' tooltip='14:53 1-10-ARZ 20ARZ 0 SEA 0 LI: 1.628-R.Mendenhall up the middle to ARZ 24 for 4 yards(31-K.Chancellor; 79-R.Bryant).'>0.12</number><number>0.51</number>
+<number shadow='shadow1' tooltip='14:16 2-6-ARZ 24ARZ 0 SEA 0 LI: 1.43-C.Palmer pass incomplete short right to 84-R.Housler [92-B.Mebane].'>0.73</number><number>0.5</number>
+<number shadow='shadow1' tooltip='14:11 3-6-ARZ 24ARZ 0 SEA 0 LI: 1.3(Shotgun) 3-C.Palmer pass short middle to 10-B.Golden to SEA 13 for 63 yards(25-R.Sherman).'>0.82</number><number>0.67</number>
+<number shadow='shadow1' tooltip='13:20 1-10-SEA 13ARZ 0 SEA 0 LI: 1.7#70 eligible38-A.Ellington right end to SEA 14 for -1 yards(92-B.Mebane).'>1.67</number><number>0.65</number>
+<number shadow='shadow1' tooltip='12:42 2-11-SEA 14ARZ 0 SEA 0 LI: 1.53-C.Palmer pass short left to 81-J.Dray to SEA 9 for 5 yards(53-M.Smith; 54-B.Wagner).'>2.3</number><number>0.64</number>
+<number shadow='shadow1' tooltip='11:59 3-6-SEA 9ARZ 0 SEA 0 LI: 1.4(Shotgun) PENALTY on SEA-91-C.Clemons Defensive Offside 4 yards enforced at SEA 9 - No PlayUnabated to QB.'>3.02</number><number>0.66</number>
+<number shadow='shadow1' tooltip='11:44 3-2-SEA 5ARZ 0 SEA 0 LI: 1.6(Shotgun) 3-C.Palmer pass short middle intended for 84-R.Housler INTERCEPTED by 31-K.Chancellor (41-B.Maxwell) [92-B.Mebane] at SEA -931-K.Chancellor to SEA 7 for 16 yards(79-B.Sowell).'>3.27</number><number>0.5</number>
+<number shadow='shadow1' tooltip='11:36 1-10-SEA 7ARZ 0 SEA 0 LI: 1.824-M.Lynch right end to SEA 23 for 16 yards(22-T.Jefferson; 58-D.Washington).'>3.4</number><number>0.48</number>
+<number shadow='shadow1' tooltip='10:53 1-10-SEA 23ARZ 0 SEA 0 LI: 1.5(Shotgun) 3-R.Wilson scrambles up the middle to SEA 28 for 5 yards.'>4.12</number><number>0.48</number>
+<number shadow='shadow1' tooltip='10:15 2-5-SEA 28ARZ 0 SEA 0 LI: 1.4(Shotgun) 3-R.Wilson pass incomplete deep left to 15-J.Kearse.'>4.75</number><number>0.5</number>
+<number shadow='shadow1' tooltip='10:08 3-5-SEA 28ARZ 0 SEA 0 LI: 1.2(Shotgun) 3-R.Wilson pass incomplete deep right to 81-G.Tate (21-P.Peterson) [91-M.Shaughnessy].'>4.87</number><number>0.54</number>
+<number shadow='shadow1' tooltip='9:59 4-5-SEA 28ARZ 0 SEA 0 LI: 0.89-J.Ryan punts 44 yards to ARZ 28 Center-49-C.Gresham21-P.Peterson to ARZ 34 for 6 yards(55-H.Farwell).'>5.02</number><number>0.54</number>
+<number shadow='shadow1' tooltip='9:49 1-10-ARZ 34ARZ 0 SEA 0 LI: 1.53-C.Palmer pass incomplete short middle to 86-J.Ballard (54-B.Wagner).'>5.18</number><number>0.52</number>
+<number shadow='shadow1' tooltip='9:44 2-10-ARZ 34ARZ 0 SEA 0 LI: 1.328-R.Mendenhall up the middle to ARZ 40 for 6 yards(53-M.Smith).'>5.27</number><number>0.52</number>
+<number shadow='shadow1' tooltip='9:02 3-4-ARZ 40ARZ 0 SEA 0 LI: 1.1(Shotgun) 3-C.Palmer pass incomplete short left to 10-B.Golden.'>5.97</number><number>0.48</number>
+<number shadow='shadow1' tooltip='8:58 4-4-ARZ 40ARZ 0 SEA 0 LI: 0.79-D.Zastudil punts 49 yards to SEA 11 Center-82-M.Leach81-G.Tate to SEA 11 for no gain (31-J.Bethel).'>6.03</number><number>0.5</number>
+<number shadow='shadow1' tooltip='8:47 1-10-SEA 11ARZ 0 SEA 0 LI: 1.724-M.Lynch up the middle to SEA 13 for 2 yards(56-K.Dansby).'>6.22</number><number>0.51</number>
+<number shadow='shadow1' tooltip='8:04 2-8-SEA 13ARZ 0 SEA 0 LI: 1.6(Shotgun) 24-M.Lynch left guard to SEA 18 for 5 yards(58-D.Washington).'>6.93</number><number>0.51</number>
+<number shadow='shadow1' tooltip='7:20 3-3-SEA 18ARZ 0 SEA 0 LI: 1.4(Shotgun) 3-R.Wilson pass incomplete deep left to 15-J.Kearse.'>7.67</number><number>0.55</number>
+<number shadow='shadow1' tooltip='7:16 4-3-SEA 18ARZ 0 SEA 0 LI: 19-J.Ryan punts 41 yards to ARZ 41 Center-49-C.Gresham fair catch by 21-P.Peterson.'>7.73</number><number>0.55</number>
+<number shadow='shadow1' tooltip='7:08 1-10-ARZ 41ARZ 0 SEA 0 LI: 1.4#70 eligible38-A.Ellington right end pushed ob at SEA 33 for 26 yards(29-E.Thomas).'>7.87</number><number>0.61</number>
+<number shadow='shadow1' tooltip='6:40 1-10-SEA 33ARZ 0 SEA 0 LI: 1.5#70 eligible28-R.Mendenhall right tackle to SEA 30 for 3 yards(31-K.Chancellor; 79-R.Bryant).'>8.33</number><number>0.61</number>
+<number shadow='shadow1' tooltip='5:57 2-7-SEA 30ARZ 0 SEA 0 LI: 1.538-A.Ellington right tackle to SEA 31 for -1 yards(20-J.Lane).'>9.05</number><number>0.58</number>
+<number shadow='shadow1' tooltip='5:12 3-8-SEA 31ARZ 0 SEA 0 LI: 1.2(Shotgun) PENALTY on ARZ-71-D.Colledge False Start 5 yards enforced at SEA 31 - No Play.'>9.8</number><number>0.53</number>
+<number shadow='shadow1' tooltip='4:54 3-13-SEA 36ARZ 0 SEA 0 LI: 0.7(Shotgun) 3-C.Palmer pass short middle intended for 11-L.Fitzgerald INTERCEPTED by 25-R.Sherman at SEA 2125-R.Sherman to SEA 21 for no gain (11-L.Fitzgerald)The Replay Assistant challenged the incomplete pass ruling and the play was Upheld.'>10.1</number><number>0.48</number>
+<number shadow='shadow1' tooltip='4:44 1-10-SEA 21ARZ 0 SEA 0 LI: 1.63-R.Wilson pass incomplete short left to 89-D.Baldwin [58-D.Washington].'>10.27</number><number>0.5</number>
+<number shadow='shadow1' tooltip='4:38 2-10-SEA 21ARZ 0 SEA 0 LI: 1.43-R.Wilson pass short middle to 89-D.Baldwin to SEA 29 for 8 yards(56-K.Dansby).'>10.37</number><number>0.49</number>
+<number shadow='shadow1' tooltip='3:58 3-2-SEA 29ARZ 0 SEA 0 LI: 1.3(Shotgun) 3-R.Wilson pass deep right to 15-J.Kearse to SEA 47 for 18 yards(20-A.Cason).'>11.03</number><number>0.44</number>
+<number shadow='shadow1' tooltip='3:17 1-10-SEA 47ARZ 0 SEA 0 LI: 1.3(Shotgun) 24-M.Lynch left end to SEA 49 for 2 yards(90-D.Dockett).'>11.72</number><number>0.45</number>
+<number shadow='shadow1' tooltip='2:42 2-8-SEA 49ARZ 0 SEA 0 LI: 1.2(Shotgun) 24-M.Lynch left guard to ARZ 49 for 2 yards(93-C.Campbell).'>12.3</number><number>0.46</number>
+<number shadow='shadow1' tooltip='2:01 3-6-ARZ 49ARZ 0 SEA 0 LI: 1(Shotgun) 3-R.Wilson pass short left to 83-R.Lockette to ARZ 40 for 9 yards(21-P.Peterson).'>12.98</number><number>0.41</number>
+<number shadow='shadow1' tooltip='1:23 1-10-ARZ 40ARZ 0 SEA 0 LI: 1.43-R.Wilson pass short left to 82-L.Willson to ARZ 37 for 3 yards(25-J.Powers).'>13.62</number><number>0.42</number>
+<number shadow='shadow1' tooltip='0:46 2-7-ARZ 37ARZ 0 SEA 0 LI: 1.33-R.Wilson pass short right to 15-J.Kearse to ARZ 30 for 7 yards(25-J.Powers).'>14.23</number><number>0.38</number>
+<number shadow='shadow1' tooltip='0:04 1-10-ARZ 30ARZ 0 SEA 0 LI: 1.624-M.Lynch left end pushed ob at ARZ 11 for 19 yards(25-J.Powers).'>14.93</number><number>0.33</number>
+<number shadow='shadow1' tooltip='15:00 1-10-ARZ 11ARZ 0 SEA 0 LI: 1.73-R.Wilson pass incomplete short left [22-T.Jefferson].'>15</number><number>0.35</number>
+<number shadow='shadow1' tooltip='14:53 2-10-ARZ 11ARZ 0 SEA 0 LI: 1.524-M.Lynch right end to ARZ 4 for 7 yards(22-T.Jefferson).'>15.12</number><number>0.33</number>
+<number shadow='shadow1' tooltip='14:06 3-3-ARZ 4ARZ 0 SEA 0 LI: 1.7(Shotgun) PENALTY on SEA-3-R.Wilson Delay of Game 5 yards enforced at ARZ 4 - No Play.'>15.9</number><number>0.36</number>
+<number shadow='shadow1' tooltip='13:49 3-8-ARZ 9ARZ 0 SEA 0 LI: 1.4(Shotgun) 3-R.Wilson pass incomplete short right to 15-J.Kearse (20-A.Cason).'>16.18</number><number>0.41</number>
+<number shadow='shadow1' tooltip='13:45 4-8-ARZ 9ARZ 0 SEA 0 LI: 0.94-S.Hauschka 27 yard field goal is GOOD Center-49-C.Gresham Holder-9-J.Ryan.'>16.25</number><number>0.41</number>
+<number shadow='shadow1' tooltip='13:45 ARZ 0 SEA 3 LI: 4-S.Hauschka kicks 66 yards from SEA 35 to ARZ -135-J.Arenas to ARZ 20 for 21 yards(55-H.Farwell).'>16.34</number><number>0.38</number>
+<number shadow='shadow1' tooltip='13:36 1-20-ARZ 10ARZ 0 SEA 3 LI: 1.628-R.Mendenhall up the middle to ARZ 15 for 5 yards(79-R.Bryant; 29-E.Thomas).'>16.4</number><number>0.37</number>
+<number shadow='shadow1' tooltip='12:56 2-15-ARZ 15ARZ 0 SEA 3 LI: 13-C.Palmer sacked at ARZ 5 for -10 yards(54-B.Wagner).'>17.07</number><number>0.34</number>
+<number shadow='shadow1' tooltip='12:17 3-25-ARZ 5ARZ 0 SEA 3 LI: 1.23-C.Palmer pass short left to 38-A.Ellington to ARZ 9 for 4 yards(41-B.Maxwell).'>17.72</number><number>0.33</number>
+<number shadow='shadow1' tooltip='11:49 4-21-ARZ 9ARZ 0 SEA 3 LI: 1.19-D.Zastudil punts 52 yards to SEA 39 Center-82-M.Leach81-G.Tate to ARZ 43 for 18 yards(51-K.Minter).'>18.18</number><number>0.32</number>
+<number shadow='shadow1' tooltip='11:38 1-10-ARZ 43ARZ 0 SEA 3 LI: 1.324-M.Lynch left guard to ARZ 45 for -2 yards(91-M.Shaughnessy 56-K.Dansby).'>18.37</number><number>0.34</number>
+<number shadow='shadow1' tooltip='10:58 2-12-ARZ 45ARZ 0 SEA 3 LI: 1.1(Shotgun) 3-R.Wilson pass incomplete short right to 86-Z.Miller.'>19.03</number><number>0.36</number>
+<number shadow='shadow1' tooltip='10:50 3-12-ARZ 45ARZ 0 SEA 3 LI: 0.9(Shotgun) 3-R.Wilson pass incomplete short right to 86-Z.Miller.'>19.17</number><number>0.38</number>
+<number shadow='shadow1' tooltip='10:46 4-12-ARZ 45ARZ 0 SEA 3 LI: 0.79-J.Ryan punts 41 yards to ARZ 4 Center-49-C.Gresham downed by SEA-20-J.Lane.'>19.23</number><number>0.37</number>
+<number shadow='shadow1' tooltip='10:36 1-10-ARZ 4ARZ 0 SEA 3 LI: 1.528-R.Mendenhall right tackle to ARZ 12 for 8 yards(31-K.Chancellor).'>19.4</number><number>0.41</number>
+<number shadow='shadow1' tooltip='9:32 2-6-ARZ 31ARZ 0 SEA 3 LI: 1#70 eligible(Shotgun) 38-A.Ellington right tackle to ARZ 32 for 1 yard(99-T.McDaniel; 53-M.Smith).'>20.47</number><number>0.4</number>
+<number shadow='shadow1' tooltip='8:51 3-5-ARZ 32ARZ 0 SEA 3 LI: 0.9(Shotgun) 3-C.Palmer pass short left to 12-A.Roberts to ARZ 40 for 8 yards(20-J.Lane).'>21.15</number><number>0.43</number>
+<number shadow='shadow1' tooltip='8:11 1-10-ARZ 40ARZ 0 SEA 3 LI: 1.13-C.Palmer pass incomplete short right to 15-M.Floyd (31-K.Chancellor).'>21.82</number><number>0.43</number>
+<number shadow='shadow1' tooltip='8:06 2-10-ARZ 40ARZ 0 SEA 3 LI: 1.1(Shotgun) 3-C.Palmer pass short middle to 11-L.Fitzgerald to ARZ 45 for 5 yards(54-B.Wagner).'>21.9</number><number>0.42</number>
+<number shadow='shadow1' tooltip='7:25 3-5-ARZ 45ARZ 0 SEA 3 LI: 0.9(Shotgun) 3-C.Palmer pass short right to 11-L.Fitzgerald pushed ob at SEA 47 for 8 yards(30-P.Cox).'>22.58</number><number>0.46</number>
+<number shadow='shadow1' tooltip='6:51 1-10-SEA 47ARZ 0 SEA 3 LI: 1.228-R.Mendenhall up the middle to SEA 38 for 9 yards(25-R.Sherman; 29-E.Thomas).'>23.15</number><number>0.47</number>
+<number shadow='shadow1' tooltip='6:12 2-1-SEA 38ARZ 0 SEA 3 LI: 1.2#70 eligible28-R.Mendenhall up the middle to SEA 34 for 4 yards(79-R.Bryant 25-R.Sherman).'>23.8</number><number>0.49</number>
+<number shadow='shadow1' tooltip='5:36 1-10-SEA 34ARZ 0 SEA 3 LI: 1.328-R.Mendenhall up the middle to SEA 32 for 2 yards(99-T.McDaniel; 92-B.Mebane).'>24.4</number><number>0.49</number>
+<number shadow='shadow1' tooltip='4:57 2-8-SEA 32ARZ 0 SEA 3 LI: 1.3(Shotgun) 3-C.Palmer pass deep right to 15-M.Floyd for 32 yards TOUCHDOWN NULLIFIED by Penalty.'>25.05</number><number>0.43</number>
+<number shadow='shadow1' tooltip='4:50 2-18-SEA 42ARZ 0 SEA 3 LI: 0.8(Shotgun) 38-A.Ellington left tackle to SEA 40 for 2 yards(53-M.Smith; 31-K.Chancellor).'>25.17</number><number>0.42</number>
+<number shadow='shadow1' tooltip='4:10 3-16-SEA 40ARZ 0 SEA 3 LI: 0.7(Shotgun) 3-C.Palmer pass short left to 12-A.Roberts to SEA 23 for 17 yards(31-K.Chancellor 41-B.Maxwell).'>25.83</number><number>0.52</number>
+<number shadow='shadow1' tooltip='3:34 1-10-SEA 23ARZ 0 SEA 3 LI: 1.428-R.Mendenhall up the middle to SEA 21 for 2 yards(31-K.Chancellor).'>26.43</number><number>0.53</number>
+<number shadow='shadow1' tooltip='2:55 2-8-SEA 21ARZ 0 SEA 3 LI: 1.538-A.Ellington left tackle to SEA 21 for no gain (92-B.Mebane).'>27.08</number><number>0.51</number>
+<number shadow='shadow1' tooltip='2:24 3-8-SEA 21ARZ 0 SEA 3 LI: 1.3(Shotgun) 3-C.Palmer pass incomplete short middle to 15-M.Floyd [69-C.McDonald].'>27.6</number><number>0.46</number>
+<number shadow='shadow1' tooltip='2:19 4-8-SEA 21ARZ 0 SEA 3 LI: 0.84-J.Feely 39 yard field goal is GOOD Center-82-M.Leach Holder-9-D.Zastudil.'>27.68</number><number>0.47</number>
+<number shadow='shadow1' tooltip='2:19 ARZ 3 SEA 3 LI: 4-J.Feely kicks 64 yards from ARZ 35 to SEA 122-R.Turbin to SEA 26 for 25 yards(51-K.Minter)FUMBLES (51-K.Minter) RECOVERED by ARZ-23-B.McCann at SEA 2423-B.McCann to SEA 24 for no gain (42-C.Maragos)The Replay Assistant challenged the fumble ruling and the play was REVERSED4-J.Feely kicks 64 yards from ARZ 35 to SEA 122-R.Turbin to SEA 26 for 25 yards(51-K.Minter).'>27.77</number><number>0.47</number>
+<number shadow='shadow1' tooltip='2:11 1-10-SEA 26ARZ 3 SEA 3 LI: 1.5(Shotgun) 24-M.Lynch right guard to SEA 33 for 7 yards(58-D.Washington 90-D.Dockett).'>27.82</number><number>0.47</number>
+<number shadow='shadow1' tooltip='2:00 2-3-SEA 33ARZ 3 SEA 3 LI: 1.4(Shotgun) 3-R.Wilson pass short right to 24-M.Lynch to SEA 35 for 2 yards(22-T.Jefferson).'>28</number><number>0.47</number>
+<number shadow='shadow1' tooltip='1:40 3-1-SEA 35ARZ 3 SEA 3 LI: 1.3(No Huddle Shotgun) 3-R.Wilson pass incomplete deep left to 89-D.Baldwin.'>28.33</number><number>0.53</number>
+<number shadow='shadow1' tooltip='1:32 4-1-SEA 35ARZ 3 SEA 3 LI: 0.79-J.Ryan punts 38 yards to ARZ 27 Center-49-C.Gresham fair catch by 21-P.Peterson.'>28.47</number><number>0.53</number>
+<number shadow='shadow1' tooltip='1:25 1-10-ARZ 27ARZ 3 SEA 3 LI: 1.5PENALTY on ARZ Illegal Substitution 5 yards enforced at ARZ 27 - No Play.'>28.58</number><number>0.52</number>
+<number shadow='shadow1' tooltip='1:00 2-11-ARZ 26ARZ 3 SEA 3 LI: 1.2(No Huddle Shotgun) 3-C.Palmer pass short left to 11-L.Fitzgerald pushed ob at ARZ 31 for 5 yards(20-J.Lane).'>29</number><number>0.5</number>
+<number shadow='shadow1' tooltip='0:55 3-6-ARZ 31ARZ 3 SEA 3 LI: 1.1(Shotgun) 3-C.Palmer pass short middle intended for 38-A.Ellington INTERCEPTED by 53-M.Smith (91-C.Clemons) at ARZ 3553-M.Smith to ARZ 3 for 32 yards(63-L.Sendlein).'>29.08</number><number>0.29</number>
+<number shadow='shadow1' tooltip='0:42 1-3-ARZ 3ARZ 3 SEA 3 LI: 2.124-M.Lynch up the middle to ARZ 1 for 2 yards(31-J.Bethel 25-J.Powers).'>29.3</number><number>0.28</number>
+<number shadow='shadow1' tooltip='0:34 2-1-ARZ 1ARZ 3 SEA 3 LI: 2.2#78 and #61 are eligible 24-M.Lynch right tackle to ARZ 1 for no gain (56-K.Dansby; 92-D.Williams).'>29.43</number><number>0.29</number>
+<number shadow='shadow1' tooltip='0:27 3-1-ARZ 1ARZ 3 SEA 3 LI: 2.13-R.Wilson pass incomplete short middle to 26-M.Robinson [98-F.Rucker].'>29.55</number><number>0.38</number>
+<number shadow='shadow1' tooltip='0:22 4-1-ARZ 1ARZ 3 SEA 3 LI: 1.2(Field Goal formation) PENALTY on SEA-49-C.Gresham False Start 5 yards enforced at ARZ 1 - No Play.'>29.63</number><number>0.38</number>
+<number shadow='shadow1' tooltip='0:17 1-10-ARZ 20ARZ 3 SEA 3 LI: 1.63-C.Palmer kneels to ARZ 19 for -1 yards.'>29.72</number><number>0.47</number>
+<number shadow='shadow1' tooltip='0:17 ARZ 3 SEA 3 LI: 4-J.Feely kicks 65 yards from ARZ 35 to SEA 022-R.Turbin to SEA 26 for 26 yards(59-M.Benard).'>29.81</number><number>0.47</number>
+<number shadow='shadow1' tooltip='14:52 1-10-SEA 26ARZ 3 SEA 3 LI: 1.53-R.Wilson pass incomplete short middle to 81-G.Tate.'>30.13</number><number>0.46</number>
+<number shadow='shadow1' tooltip='14:47 1-10-SEA 31ARZ 3 SEA 3 LI: 1.53-R.Wilson scrambles right tackle ran ob at ARZ 42 for 27 yards.'>30.22</number><number>0.41</number>
+<number shadow='shadow1' tooltip='14:18 1-10-ARZ 42ARZ 3 SEA 3 LI: 1.4(Shotgun) 3-R.Wilson pass short left to 24-M.Lynch pushed ob at ARZ 39 for 3 yards(56-K.Dansby).'>30.7</number><number>0.43</number>
+<number shadow='shadow1' tooltip='13:49 2-7-ARZ 39ARZ 3 SEA 3 LI: 1.224-M.Lynch right end to ARZ 40 for -1 yards(92-D.Williams; 55-J.Abraham).'>31.18</number><number>0.45</number>
+<number shadow='shadow1' tooltip='13:07 3-8-ARZ 40ARZ 3 SEA 3 LI: 1(Shotgun) 3-R.Wilson pass incomplete deep left to 15-J.Kearse (25-J.Powers).'>31.88</number><number>0.5</number>
+<number shadow='shadow1' tooltip='13:01 4-8-ARZ 40ARZ 3 SEA 3 LI: 0.59-J.Ryan punts 27 yards to ARZ 13 Center-49-C.Gresham fair catch by 21-P.Peterson.'>31.98</number><number>0.5</number>
+<number shadow='shadow1' tooltip='12:54 1-10-ARZ 13ARZ 3 SEA 3 LI: 2#70 eligible28-R.Mendenhall right guard to ARZ 17 for 4 yards(92-B.Mebane; 25-R.Sherman).'>32.1</number><number>0.5</number>
+<number shadow='shadow1' tooltip='12:09 2-6-ARZ 17ARZ 3 SEA 3 LI: 1.428-R.Mendenhall up the middle to ARZ 21 for 4 yards(91-C.Clemons; 29-E.Thomas).'>32.85</number><number>0.5</number>
+<number shadow='shadow1' tooltip='11:26 3-2-ARZ 21ARZ 3 SEA 3 LI: 1.33-C.Palmer pass incomplete short middle to 86-J.Ballard.'>33.57</number><number>0.45</number>
+<number shadow='shadow1' tooltip='11:22 4-2-ARZ 21ARZ 3 SEA 3 LI: 0.89-D.Zastudil punts 55 yards to SEA 24 Center-82-M.Leach81-G.Tate to ARZ 47 for 29 yards(37-Y.Bell).'>33.63</number><number>0.43</number>
+<number shadow='shadow1' tooltip='11:07 1-10-ARZ 47ARZ 3 SEA 3 LI: 1.3(Shotgun) 3-R.Wilson pass incomplete deep middle to 89-D.Baldwin (25-J.Powers).'>33.88</number><number>0.45</number>
+<number shadow='shadow1' tooltip='11:00 2-10-ARZ 47ARZ 3 SEA 3 LI: 1.124-M.Lynch right tackle to ARZ 45 for 2 yards(92-D.Williams; 93-C.Campbell).'>34</number><number>0.46</number>
+<number shadow='shadow1' tooltip='10:20 3-8-ARZ 45ARZ 3 SEA 3 LI: 1(Shotgun) 3-R.Wilson pass incomplete deep right [58-D.Washington].'>34.67</number><number>0.51</number>
+<number shadow='shadow1' tooltip='10:09 4-8-ARZ 45ARZ 3 SEA 3 LI: 0.59-J.Ryan punts 28 yards to ARZ 17 Center-49-C.Gresham fair catch by 21-P.Peterson.'>34.85</number><number>0.51</number>
+<number shadow='shadow1' tooltip='10:01 1-10-ARZ 17ARZ 3 SEA 3 LI: 1.5(Shotgun) 3-C.Palmer pass incomplete deep right to 11-L.Fitzgerald.'>34.98</number><number>0.54</number>
+<number shadow='shadow1' tooltip='9:56 1-10-ARZ 34ARZ 3 SEA 3 LI: 1.5#70 is eligible 28-R.Mendenhall left tackle to ARZ 35 for 1 yard(54-B.Wagner; 53-M.Smith).'>35.07</number><number>0.52</number>
+<number shadow='shadow1' tooltip='9:17 2-9-ARZ 35ARZ 3 SEA 3 LI: 1.238-A.Ellington up the middle to ARZ 40 for 5 yards(56-C.Avril; 69-C.McDonald).'>35.72</number><number>0.52</number>
+<number shadow='shadow1' tooltip='8:05 4-3-ARZ 41ARZ 3 SEA 3 LI: 0.79-D.Zastudil punts 47 yards to SEA 12 Center-82-M.Leach fair catch by 81-G.Tate.'>36.92</number><number>0.5</number>
+<number shadow='shadow1' tooltip='7:57 1-10-SEA 12ARZ 3 SEA 3 LI: 2.2(Shotgun) 3-R.Wilson pass short right to 81-G.Tate to SEA 18 for 6 yards(21-P.Peterson).'>37.05</number><number>0.49</number>
+<number shadow='shadow1' tooltip='7:24 2-4-SEA 18ARZ 3 SEA 3 LI: 1.524-M.Lynch left guard to SEA 19 for 1 yard(55-J.Abraham 58-D.Washington).'>37.6</number><number>0.51</number>
+<number shadow='shadow1' tooltip='6:46 3-3-SEA 19ARZ 3 SEA 3 LI: 1.3(Shotgun) 3-R.Wilson pass incomplete deep right.'>38.23</number><number>0.56</number>
+<number shadow='shadow1' tooltip='6:39 4-3-SEA 19ARZ 3 SEA 3 LI: 0.89-J.Ryan punts 36 yards to ARZ 45 Center-49-C.Gresham fair catch by 21-P.Peterson.'>38.35</number><number>0.57</number>
+<number shadow='shadow1' tooltip='6:31 1-10-ARZ 45ARZ 3 SEA 3 LI: 1.6#70 is eligible(Shotgun) 38-A.Ellington right tackle to 50 for 5 yards(29-E.Thomas; 25-R.Sherman).'>38.48</number><number>0.56</number>
+<number shadow='shadow1' tooltip='5:53 2-5-50ARZ 3 SEA 3 LI: 1.43-C.Palmer sacked at 50 for 0 yards(79-R.Bryant).'>39.12</number><number>0.54</number>
+<number shadow='shadow1' tooltip='5:22 3-5-50ARZ 3 SEA 3 LI: 1.2(Shotgun) 3-C.Palmer pass incomplete short right to 15-M.Floyd [54-B.Wagner].'>39.63</number><number>0.49</number>
+<number shadow='shadow1' tooltip='5:17 4-5-50ARZ 3 SEA 3 LI: 0.79-D.Zastudil punts 41 yards to SEA 9 Center-82-M.Leach fair catch by 81-G.Tate.'>39.72</number><number>0.5</number>
+<number shadow='shadow1' tooltip='5:10 1-10-SEA 9ARZ 3 SEA 3 LI: 2.224-M.Lynch left tackle to SEA 10 for 1 yard(92-D.Williams; 58-D.Washington).'>39.83</number><number>0.52</number>
+<number shadow='shadow1' tooltip='4:35 2-9-SEA 10ARZ 3 SEA 3 LI: 224-M.Lynch left tackle to SEA 11 for 1 yard(56-K.Dansby 91-M.Shaughnessy).'>40.42</number><number>0.54</number>
+<number shadow='shadow1' tooltip='3:59 3-8-SEA 11ARZ 3 SEA 3 LI: 1.8(Shotgun) 3-R.Wilson sacked at SEA 4 for -7 yards(93-C.Campbell).'>41.02</number><number>0.6</number>
+<number shadow='shadow1' tooltip='3:42 4-15-SEA 4ARZ 3 SEA 3 LI: 1.39-J.Ryan punts 41 yards to SEA 45 Center-49-C.Gresham21-P.Peterson to SEA 28 for 17 yards(54-B.Wagner).'>41.3</number><number>0.57</number>
+<number shadow='shadow1' tooltip='3:30 1-10-ARZ 45ARZ 3 SEA 3 LI: 1.728-R.Mendenhall left tackle to ARZ 49 for 4 yards(25-R.Sherman).'>41.5</number><number>0.57</number>
+<number shadow='shadow1' tooltip='2:53 2-6-ARZ 49ARZ 3 SEA 3 LI: 1.6#70 is eligible28-R.Mendenhall right tackle to ARZ 48 for -1 yards(72-M.Bennett; 92-B.Mebane).'>42.12</number><number>0.61</number>
+<number shadow='shadow1' tooltip='2:27 1-10-SEA 37ARZ 3 SEA 3 LI: 1.63-C.Palmer pass short right to 38-A.Ellington pushed ob at SEA 33 for 4 yards(31-K.Chancellor).'>42.55</number><number>0.61</number>
+<number shadow='shadow1' tooltip='1:52 2-6-SEA 33ARZ 3 SEA 3 LI: 1.538-A.Ellington right end to SEA 30 for 3 yards(25-R.Sherman; 31-K.Chancellor).'>43.13</number><number>0.61</number>
+<number shadow='shadow1' tooltip='1:08 3-3-SEA 30ARZ 3 SEA 3 LI: 1.5(Shotgun) Direct snap to 38-A.Ellington 38-A.Ellington right guard to SEA 28 for 2 yards(29-E.Thomas).'>43.87</number><number>0.56</number>
+<number shadow='shadow1' tooltip='0:33 4-1-SEA 28ARZ 3 SEA 3 LI: 14-J.Feely 46 yard field goal is GOOD Center-82-M.Leach Holder-9-D.Zastudil.'>44.45</number><number>0.61</number>
+<number shadow='shadow1' tooltip='0:33 ARZ 6 SEA 3 LI: 4-J.Feely kicks 67 yards from ARZ 35 to SEA -222-R.Turbin to SEA 15 for 17 yardsFUMBLES RECOVERED by ARZ-31-J.Bethel at SEA 1531-J.Bethel to SEA 18 for -3 yards(42-C.Maragos).'>44.54</number><number>0.79</number>
+<number shadow='shadow1' tooltip='0:21 1-10-SEA 18ARZ 6 SEA 3 LI: 1.63-C.Palmer pass short right to 81-J.Dray to SEA 15 for 3 yards(31-K.Chancellor).'>44.65</number><number>0.83</number>
+<number shadow='shadow1' tooltip='15:00 2-7-SEA 15ARZ 6 SEA 3 LI: 228-R.Mendenhall left guard to SEA 17 for -2 yards(72-M.Bennett).'>45</number><number>0.78</number>
+<number shadow='shadow1' tooltip='14:17 3-9-SEA 17ARZ 6 SEA 3 LI: 1.5(Shotgun) 3-C.Palmer pass deep right intended for 15-M.Floyd INTERCEPTED by 25-R.Sherman [56-C.Avril] at SEA 0Touchback.'>45.72</number><number>0.63</number>
+<number shadow='shadow1' tooltip='14:10 1-10-SEA 20ARZ 6 SEA 3 LI: 1.63-R.Wilson pass incomplete short right to 89-D.Baldwin (25-J.Powers).'>45.83</number><number>0.64</number>
+<number shadow='shadow1' tooltip='14:04 2-10-SEA 20ARZ 6 SEA 3 LI: 1.5(Shotgun) 3-R.Wilson sacked at SEA 18 for -2 yards(93-C.Campbell).'>45.93</number><number>0.68</number>
+<number shadow='shadow1' tooltip='13:28 3-12-SEA 18ARZ 6 SEA 3 LI: 1.2(Shotgun) 3-R.Wilson sacked at SEA 14 for -4 yards(35-J.Arenas).'>46.53</number><number>0.72</number>
+<number shadow='shadow1' tooltip='13:22 4-16-SEA 14ARZ 6 SEA 3 LI: 1.29-J.Ryan punts 39 yards to ARZ 47 Center-49-C.Gresham fair catch by 21-P.Peterson.'>46.63</number><number>0.72</number>
+<number shadow='shadow1' tooltip='13:13 1-10-ARZ 47ARZ 6 SEA 3 LI: 1.7#70 is eligible28-R.Mendenhall up the middle to ARZ 48 for 1 yard(72-M.Bennett).'>46.78</number><number>0.76</number>
+<number shadow='shadow1' tooltip='12:46 1-10-SEA 37ARZ 6 SEA 3 LI: 1.73-C.Palmer pass incomplete deep right to 11-L.Fitzgerald.'>47.23</number><number>0.8</number>
+<number shadow='shadow1' tooltip='12:39 1-10-SEA 16ARZ 6 SEA 3 LI: 1.628-R.Mendenhall up the middle to SEA 16 for no gain (53-M.Smith)Seattle challenged the fumble ruling and the play was Upheld(Timeout #1.)'>47.35</number><number>0.82</number>
+<number shadow='shadow1' tooltip='12:03 2-10-SEA 16ARZ 6 SEA 3 LI: 1.838-A.Ellington left tackle to SEA 12 for 4 yards(91-C.Clemons; 69-C.McDonald).'>47.95</number><number>0.83</number>
+<number shadow='shadow1' tooltip='11:19 3-6-SEA 12ARZ 6 SEA 3 LI: 1.7(Shotgun) 30-S.Taylor left tackle to SEA 8 for 4 yards(69-C.McDonald 29-E.Thomas).'>48.68</number><number>0.79</number>
+<number shadow='shadow1' tooltip='10:43 4-2-SEA 8ARZ 6 SEA 3 LI: 1.14-J.Feely 26 yard field goal is GOOD Center-82-M.Leach Holder-9-D.Zastudil.'>49.28</number><number>0.78</number>
+<number shadow='shadow1' tooltip='10:43 ARZ 9 SEA 3 LI: 4-J.Feely kicks 63 yards from ARZ 35 to SEA 289-D.Baldwin to SEA 39 for 37 yards(29-A.Smith).'>49.37</number><number>0.74</number>
+<number shadow='shadow1' tooltip='10:31 1-10-SEA 39ARZ 9 SEA 3 LI: 1.424-M.Lynch right end to SEA 43 for 4 yards(98-F.Rucker 37-Y.Bell).'>49.48</number><number>0.73</number>
+<number shadow='shadow1' tooltip='9:55 2-6-SEA 43ARZ 9 SEA 3 LI: 1.6(Shotgun) 3-R.Wilson pass deep left to 81-G.Tate to ARZ 29 for 28 yards(25-J.Powers)FUMBLES (25-J.Powers) recovered by SEA-15-J.Kearse at ARZ 2115-J.Kearse to ARZ 21 for no gain (58-D.Washington).'>50.08</number><number>0.62</number>
+<number shadow='shadow1' tooltip='9:24 1-10-ARZ 21ARZ 9 SEA 3 LI: 224-M.Lynch up the middle to ARZ 18 for 3 yards(91-M.Shaughnessy 90-D.Dockett).'>50.6</number><number>0.61</number>
+<number shadow='shadow1' tooltip='8:33 2-7-ARZ 18ARZ 9 SEA 3 LI: 2.2(Shotgun) 3-R.Wilson pass short middle to 15-J.Kearse to ARZ 5 for 13 yards(20-A.Cason)ARZ-55-J.Abraham was injured during the play.'>51.45</number><number>0.52</number>
+<number shadow='shadow1' tooltip='8:02 1-5-ARZ 5ARZ 9 SEA 3 LI: 3(Shotgun) 3-R.Wilson sacked at ARZ 11 for -6 yards(58-D.Washington).'>51.97</number><number>0.6</number>
+<number shadow='shadow1' tooltip='7:32 2-11-ARZ 11ARZ 9 SEA 3 LI: 2.3(Shotgun) 3-R.Wilson pass short left to 86-Z.Miller for 11 yards TOUCHDOWN.'>52.47</number><number>0.46</number>
+<number shadow='shadow1' tooltip='7:32 ARZ 9 SEA 3 LI: 4-S.Hauschka extra point is Blocked (58-D.Washington) Center-49-C.Gresham Holder-9-J.Ryan.'>52.51</number><number>0.46</number>
+<number shadow='shadow1' tooltip='7:32 ARZ 9 SEA 10 LI: 4-S.Hauschka kicks 65 yards from SEA 35 to end zone Touchback.'>52.56</number><number>0.44</number>
+<number shadow='shadow1' tooltip='7:26 1-10-ARZ 20ARZ 9 SEA 10 LI: 2.53-C.Palmer pass short left to 81-J.Dray to ARZ 28 for 8 yards(31-K.Chancellor) [72-M.Bennett].'>52.57</number><number>0.46</number>
+<number shadow='shadow1' tooltip='6:51 2-2-ARZ 28ARZ 9 SEA 10 LI: 2.638-A.Ellington right guard to ARZ 27 for -1 yards(53-M.Smith; 99-T.McDaniel).'>53.15</number><number>0.43</number>
+<number shadow='shadow1' tooltip='6:13 3-3-ARZ 27ARZ 9 SEA 10 LI: 2.4(Shotgun) 3-C.Palmer pass short right to 86-J.Ballard ran ob at ARZ 44 for 17 yards [69-C.McDonald].'>53.78</number><number>0.53</number>
+<number shadow='shadow1' tooltip='5:46 1-10-ARZ 44ARZ 9 SEA 10 LI: 2.838-A.Ellington left guard to ARZ 49 for 5 yards(53-M.Smith; 91-C.Clemons)SEA-20-J.Lane was injured during the play.'>54.23</number><number>0.51</number>
+<number shadow='shadow1' tooltip='5:15 2-5-ARZ 49ARZ 9 SEA 10 LI: 2.53-C.Palmer pass incomplete short right to 11-L.Fitzgerald.'>54.75</number><number>0.46</number>
+<number shadow='shadow1' tooltip='5:10 3-5-ARZ 49ARZ 9 SEA 10 LI: 2(Shotgun) 3-C.Palmer pass incomplete short left to 10-B.Golden.'>54.83</number><number>0.55</number>
+<number shadow='shadow1' tooltip='5:04 1-10-SEA 46ARZ 9 SEA 10 LI: 2.8#70 is eligible28-R.Mendenhall right tackle to SEA 45 for 1 yard(54-B.Wagner; 51-B.Irvin).'>54.93</number><number>0.5</number>
+<number shadow='shadow1' tooltip='4:21 2-9-SEA 45ARZ 9 SEA 10 LI: 2.6(Shotgun) 38-A.Ellington right end to SEA 35 for 10 yards(29-E.Thomas).'>55.65</number><number>0.64</number>
+<number shadow='shadow1' tooltip='3:38 1-10-SEA 35ARZ 9 SEA 10 LI: 428-R.Mendenhall up the middle to SEA 33 for 2 yards(72-M.Bennett).'>56.37</number><number>0.63</number>
+<number shadow='shadow1' tooltip='2:58 2-8-SEA 33ARZ 9 SEA 10 LI: 4.6#70 is eligible28-R.Mendenhall up the middle to SEA 31 for 2 yards(92-B.Mebane; 72-M.Bennett).'>57.03</number><number>0.57</number>
+<number shadow='shadow1' tooltip='2:20 3-6-SEA 31ARZ 9 SEA 10 LI: 4.6(Shotgun) 3-C.Palmer pass deep left to 15-M.Floyd for 31 yards TOUCHDOWNThe Replay Assistant challenged the incomplete pass ruling and the play was Upheld.'>57.67</number><number>0.87</number>
+<number shadow='shadow1' tooltip='2:20 ARZ 17 SEA 10 LI: 4-J.Feely kicks 59 yards from ARZ 35 to SEA 689-D.Baldwin pushed ob at SEA 26 for 20 yards(35-J.Arenas).'>57.76</number><number>0.88</number>
+<number shadow='shadow1' tooltip='2:06 1-10-SEA 26ARZ 17 SEA 10 LI: 1.1(Shotgun) 3-R.Wilson pass deep left intended for 89-D.Baldwin INTERCEPTED by 56-K.Dansby at SEA 4756-K.Dansby to SEA 47 for no gain (89-D.Baldwin)The Replay Assistant challenged the incomplete pass ruling and the play was Upheld.'>57.9</number><number>0.99</number>
+<number shadow='shadow1' tooltip='1:56 1-10-SEA 47ARZ 17 SEA 10 LI: 1.5#70 is eligible30-S.Taylor up the middle to SEA 36 for 11 yards(25-R.Sherman).'>58.07</number><number>0.99</number>
+<number shadow='shadow1' tooltip='1:46 1-10-SEA 36ARZ 17 SEA 10 LI: 1.13-C.Palmer kneels to SEA 37 for -1 yards.'>58.23</number><number>0.99</number>
+<number shadow='shadow1' tooltip='1:05 2-11-SEA 37ARZ 17 SEA 10 LI: 0.73-C.Palmer kneels to SEA 38 for -1 yards.'>58.92</number><number>0.99</number>
+<number shadow='shadow1' tooltip='0:29 3-12-SEA 38ARZ 17 SEA 10 LI: 0.23-C.Palmer kneels to SEA 39 for -1 yards.'>59.52</number><number>1</number>
+<number>60</number><number>1</number>
+</row> </chart_data>
+       <draw>
+
+
+
+      <image x='45' y='298'  url='nfllogos/42x50png/ARZ.gif'  layer='foreground' glow = 'glow1'/>
+      <image x='45' y='350'  url='nfllogos/42x50png/SEA.gif'     layer='foreground' glow = 'glow1'/>
+
+
+      <rect x='130' y='300' width='250' height='40' fill_color='b0063a' bevel='bevel1' />
+      <text x='135' y='300' width='250' height='40' h_align='left' v_align='middle' color='ffffff' shadow='shadow2' glow='winnerglow'>Arizona Cardinals</text>
+
+      <rect x='130' y='350' width='250' height='40' fill_color='283e67' bevel='bevel1'  />
+      <text x='135' y='350' width='250' height='40' h_align='left' v_align='middle' color='ffffff' shadow='shadow2' glow=''>Seattle Seahawks</text>
+
+      <rect x='420' y='300' width='60' height='40' fill_color='b0063a' bevel='bevel1'  />
+      <text x='420' y='300' width='60' height='40' h_align='center' v_align='middle' color='ffffff' shadow='shadow2' transition='none' glow='winnerglow'>17</text>
+
+      <rect x='420' y='350' width='60' height='40' fill_color='283e67' bevel='bevel1' />
+      <text x='420' y='350' width='60' height='40' h_align='center' v_align='middle' color='ffffff' shadow='shadow2' transition='none' glow=''>10</text>
+
+      <text x='-3' y='12'  width='60' height='40' h_align='center' v_align='middle' size='13' shadow='shadow2'>ARZWin </text>
+      <text x='-3' y='218' width='60' height='40' h_align='center' v_align='middle' size='13' shadow='shadow2'>SEAWin </text>
+
+     
+              <rect x='540' y='300' width='100' height='35' fill_color='000000' fill_alpha='50'/>
+              <text x='540' y='300' width='100' height='35' h_align='center' v_align='middle' color='ffffff' size='15' shadow='shadow2' >Final</text>
+
+              <text x='540' y='340' width='40' h_align='center' color='000000' size='12' shadow='shadow2'>CBF</text>
+              <text x='600' y='340' width='40' h_align='center' color='000000' size='12' shadow='shadow2'>EI</text>
+
+              <rect x='540' y='360' width='40' height='30' fill_color='000000' fill_alpha='50' />
+              <text x='540' y='360' width='40' height='30' size='12' h_align='center' v_align='middle' color='FFFFFF' shadow='shadow2'>4</text>
+
+              <rect x='600' y='360' width='40' height='30' fill_color='000000' fill_alpha='50' />
+              <text x='600' y='360' width='40' height='30' size='12' h_align='center' v_align='middle' color='FFFFFF' shadow='shadow2'>5.2</text>
+
+              <text x='20' y='420' width='70' height='25' size='12' h_align='left' v_align='middle' color='000000' >12/22/2013</text>
+              <text x='100' y='420' width='200' height='25' size='12' h_align='left' v_align='middle' color='000000' >CenturyLink Field</text>
+
+   </draw></chart>

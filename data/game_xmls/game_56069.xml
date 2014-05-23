@@ -1,0 +1,286 @@
+
+<chart>
+   <license>ETAS9P33ESHO.945CWK-2XOI1X0-7L</license>
+   <chart_type>scatter</chart_type>
+   <chart_pref trend_thickness='0' line_thickness='3' point_size='0'/>
+
+   <series_color>
+      <color>ffff00</color>
+   </series_color>
+
+   <chart_rect x='45' y='20' width='630' height='230' positive_color='cacaca'  />
+
+  <chart_border top_thickness='0'
+                 bottom_thickness='0'
+                 left_thickness='0'
+                 right_thickness='0'
+                 color='000000'
+                 />
+
+   <tooltip font='Arial' bold='true' size='11' />
+
+   <chart_note type='flag'
+               color='000000'
+               alpha='90'
+               bold='FALSE'
+               size='10'
+               background_color='ffffe0'
+               background_alpha='50'
+               shadow='shadow2'
+               />
+
+   <chart_grid_h thickness='2' color='ffffff' type='dashed'  />
+   <chart_grid_v thickness='2' color='ffffff'   />
+		>
+
+   <legend layout='hide' />
+
+   <chart_guide horizontal='TRUE'
+             vertical='TRUE'
+             thickness='1'
+             color='006400'
+             alpha='100'
+             type='solid'
+             snap_h='TRUE'
+             snap_v='TRUE'
+             radius='3'
+             fill_color='006400'
+             fill_alpha='100'
+             line_color='006400'
+             line_alpha='80'
+             line_thickness='1'
+             text_h_alpha='50'
+             text_v_alpha='00'
+             suffix_h=' WP'
+             decimals='2'
+             bold='FALSE'
+             size='11'
+             text_color='FFFFFF'
+             background_color='006400'
+             />
+   <filter>
+      <shadow id='shadow1' distance='2' angle='60' blurX='5' blurY='5' alpha='50' />
+      <bevel id='bevel1' angle='45' blurX='5' blurY='5' distance='0' />
+      <glow id='glow1' color='ffffff' alpha='0' blurX='7' blurY='7' strength='6' quality='2' inner='FALSE' knockout='FALSE' />
+      <glow id='winnerglow' color='ffffff' alpha='0' blurX='7' blurY='7' strength='5' quality='2' inner='FALSE' knockout='FALSE' />
+   </filter>
+
+    <axis_value_label>
+         <string></string>
+          <string> </string>
+          <null/>
+          <string> </string>
+          <string></string>
+
+       </axis_value_label>
+		
+	   <axis_ticks category_ticks='false'/>
+
+       <axis_value min='0' max='1' steps='4'  decimals='2' show_min='true' size='13' shadow='shadow2' />     
+            <axis_category
+               min='0'
+               max='60'
+               steps='4'
+               mode='all'
+               decimals='0'
+               size='13'
+               shadow='shadow2'
+               />
+
+       <axis_category_label>
+          <string>Kickoff</string>
+          <string></string>
+          <string>Halftime</string>
+          <string></string>
+          <string>End</string>
+
+       </axis_category_label>
+
+
+        <chart_data>
+       <row>
+	      <null/><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number>
+              <number>x</number><number>y</number>
+              </row><row><string></string>
+
+                     <number shadow='shadow1'>0</number><number>.5</number><number shadow='shadow1' tooltip='15:00 TB 0 SL 0 LI: 4-G.Zuerlein kicks 65 yards from SL 35 to end zone Touchback.'>0.09</number><number>0.52</number>
+<number shadow='shadow1' tooltip='14:29 2-10-TB 20TB 0 SL 0 LI: 1.443-B.Rainey left end to TB 20 for no gain (94-R.Quinn).'>0.52</number><number>0.48</number>
+<number shadow='shadow1' tooltip='13:52 3-10-TB 20TB 0 SL 0 LI: 1.2(Shotgun) 8-M.Glennon pass short left to 30-B.Leonard to TB 20 for no gain (21-J.Jenkins) [90-M.Brockers].'>1.13</number><number>0.5</number>
+<number shadow='shadow1' tooltip='13:23 3-5-TB 25TB 0 SL 0 LI: 1.3(Shotgun) 8-M.Glennon pass incomplete deep left to 80-C.Owusu.'>1.62</number><number>0.46</number>
+<number shadow='shadow1' tooltip='13:15 4-5-TB 25TB 0 SL 0 LI: 0.99-M.Koenen punts 56 yards to SL 19 Center-48-A.Economos19-J.Veltung to SL 33 for 14 yards(56-D.Watson).'>1.75</number><number>0.46</number>
+<number shadow='shadow1' tooltip='13:02 1-10-SL 33TB 0 SL 0 LI: 1.530-Z.Stacy right tackle to SL 36 for 3 yards(54-L.David).'>1.97</number><number>0.47</number>
+<number shadow='shadow1' tooltip='12:24 2-7-SL 36TB 0 SL 0 LI: 1.330-Z.Stacy left tackle to SL 35 for -1 yards(54-L.David).'>2.6</number><number>0.5</number>
+<number shadow='shadow1' tooltip='11:42 3-8-SL 35TB 0 SL 0 LI: 1(Shotgun) 10-K.Clemens pass short middle to 12-S.Bailey to SL 39 for 4 yards(37-K.Tandy)SL-77-J.Long was injured during the playHis return is Doubtful.'>3.3</number><number>0.52</number>
+<number shadow='shadow1' tooltip='11:18 4-4-SL 39TB 0 SL 0 LI: 0.76-J.Hekker punts 46 yards to TB 15 Center-44-J.McQuaide fair catch by 17-E.Page.'>3.7</number><number>0.51</number>
+<number shadow='shadow1' tooltip='11:08 1-10-TB 15TB 0 SL 0 LI: 1.643-B.Rainey right tackle to TB 18 for 3 yards(94-R.Quinn).'>3.87</number><number>0.51</number>
+<number shadow='shadow1' tooltip='10:36 2-7-TB 18TB 0 SL 0 LI: 1.6(Shotgun) 8-M.Glennon pass incomplete short right to 11-T.Underwood.'>4.4</number><number>0.49</number>
+<number shadow='shadow1' tooltip='10:32 3-7-TB 18TB 0 SL 0 LI: 1.4(Shotgun) PENALTY on SL-97-E.Sims Neutral Zone Infraction 5 yards enforced at TB 18 - No Play.'>4.47</number><number>0.5</number>
+<number shadow='shadow1' tooltip='10:13 1-10-TB 44TB 0 SL 0 LI: 1.48-M.Glennon pass short left to 41-E.Lorig to TB 45 for 1 yard(52-A.Ogletree; 97-E.Sims).'>4.78</number><number>0.54</number>
+<number shadow='shadow1' tooltip='9:34 2-9-TB 45TB 0 SL 0 LI: 1.28-M.Glennon pass deep middle to 83-V.Jackson to SL 33 for 22 yards(23-R.McLeod).'>5.43</number><number>0.61</number>
+<number shadow='shadow1' tooltip='8:50 1-10-SL 33TB 0 SL 0 LI: 1.5(Shotgun) 8-M.Glennon pass incomplete deep right to 83-V.Jackson (22-T.Johnson).'>6.17</number><number>0.59</number>
+<number shadow='shadow1' tooltip='8:44 2-10-SL 33TB 0 SL 0 LI: 1.343-B.Rainey right tackle to SL 33 for no gain (55-J.Laurinaitis).'>6.27</number><number>0.57</number>
+<number shadow='shadow1' tooltip='8:04 3-10-SL 33TB 0 SL 0 LI: 1.1(Shotgun) 8-M.Glennon pass deep middle to 83-V.Jackson to SL 3 for 30 yards(23-R.McLeod).'>6.93</number><number>0.69</number>
+<number shadow='shadow1' tooltip='7:21 1-3-SL 3TB 0 SL 0 LI: 1.943-B.Rainey right guard to SL 1 for 2 yards(90-M.Brockers).'>7.65</number><number>0.7</number>
+<number shadow='shadow1' tooltip='6:43 2-1-SL 1TB 0 SL 0 LI: 28-M.Glennon pass incomplete short left to 81-T.Wright.'>8.28</number><number>0.68</number>
+<number shadow='shadow1' tooltip='6:36 3-1-SL 1TB 0 SL 0 LI: 1.843-B.Rainey right end for 1 yard TOUCHDOWN.'>8.4</number><number>0.71</number>
+<number shadow='shadow1' tooltip='6:36 TB 0 SL 0 LI: 4-R.Lindell extra point is GOOD Center-48-A.Economos Holder-9-M.Koenen.'>8.44</number><number>0.71</number>
+<number shadow='shadow1' tooltip='6:36 TB 7 SL 0 LI: 9-M.Koenen kicks 65 yards from TB 35 to end zone Touchback.'>8.49</number><number>0.72</number>
+<number shadow='shadow1' tooltip='6:01 2-6-SL 24TB 7 SL 0 LI: 1.410-K.Clemens pass incomplete short right to 30-Z.Stacy.'>8.98</number><number>0.69</number>
+<number shadow='shadow1' tooltip='5:54 1-10-SL 39TB 7 SL 0 LI: 1.330-Z.Stacy up the middle to SL 40 for 1 yard(92-W.Gholston).'>9.1</number><number>0.69</number>
+<number shadow='shadow1' tooltip='5:07 2-9-SL 40TB 7 SL 0 LI: 1.330-Z.Stacy up the middle to SL 47 for 7 yards(37-K.Tandy).'>9.88</number><number>0.69</number>
+<number shadow='shadow1' tooltip='4:29 3-2-SL 47TB 7 SL 0 LI: 1.110-K.Clemens pass short right to 46-C.Harkey pushed ob at TB 45 for 8 yards(56-D.Watson).'>10.52</number><number>0.67</number>
+<number shadow='shadow1' tooltip='3:48 1-10-TB 45TB 7 SL 0 LI: 1.130-Z.Stacy up the middle to 50 for -5 yards(59-M.Foster).'>11.2</number><number>0.68</number>
+<number shadow='shadow1' tooltip='3:11 2-15-50TB 7 SL 0 LI: 1.2(Shotgun) 10-K.Clemens pass short left to 18-A.Pettis to TB 43 for 7 yards(29-L.Johnson).'>11.82</number><number>0.68</number>
+<number shadow='shadow1' tooltip='2:32 3-8-TB 43TB 7 SL 0 LI: 0.9PENALTY on TB-93-G.McCoy Encroachment 5 yards enforced at TB 43 - No Play.'>12.47</number><number>0.66</number>
+<number shadow='shadow1' tooltip='2:07 3-3-TB 38TB 7 SL 0 LI: 110-K.Clemens pass short left to 83-B.Quick to TB 31 for 7 yards(29-L.Johnson).'>12.88</number><number>0.65</number>
+<number shadow='shadow1' tooltip='1:39 1-10-TB 31TB 7 SL 0 LI: 130-Z.Stacy right guard to TB 24 for 7 yards(93-G.McCoy).'>13.35</number><number>0.63</number>
+<number shadow='shadow1' tooltip='1:02 2-3-TB 24TB 7 SL 0 LI: 130-Z.Stacy left guard to TB 18 for 6 yards(59-M.Foster).'>13.97</number><number>0.63</number>
+<number shadow='shadow1' tooltip='0:25 1-10-TB 18TB 7 SL 0 LI: 0.930-Z.Stacy up the middle to TB 13 for 5 yards(92-W.Gholston; 94-A.Clayborn).'>14.58</number><number>0.56</number>
+<number shadow='shadow1' tooltip='15:00 2-5-TB 13TB 7 SL 0 LI: 1.4(Shotgun) 10-K.Clemens pass short left to 89-J.Cook ran ob at TB 4 for 9 yards(54-L.David).'>15</number><number>0.55</number>
+<number shadow='shadow1' tooltip='14:32 1-4-TB 4TB 7 SL 0 LI: 1.530-Z.Stacy left guard to TB 1 for 3 yards(97-A.Spence).'>15.47</number><number>0.54</number>
+<number shadow='shadow1' tooltip='13:55 2-1-TB 1TB 7 SL 0 LI: 1.630-Z.Stacy up the middle for 1 yard TOUCHDOWN.'>16.08</number><number>0.53</number>
+<number shadow='shadow1' tooltip='13:55 TB 7 SL 0 LI: 4-G.Zuerlein extra point is GOOD Center-44-J.McQuaide Holder-6-J.Hekker.'>16.12</number><number>0.53</number>
+<number shadow='shadow1' tooltip='13:55 TB 7 SL 7 LI: 4-G.Zuerlein kicks 65 yards from SL 35 to end zone Touchback.'>16.17</number><number>0.52</number>
+<number shadow='shadow1' tooltip='13:48 1-10-TB 20TB 7 SL 7 LI: 1.643-B.Rainey right end to TB 19 for -1 yards(52-A.Ogletree).'>16.2</number><number>0.49</number>
+<number shadow='shadow1' tooltip='13:10 2-11-TB 19TB 7 SL 7 LI: 1.38-M.Glennon pass short left to 11-T.Underwood ran ob at TB 26 for 7 yards(58-J.Dunbar).'>16.83</number><number>0.5</number>
+<number shadow='shadow1' tooltip='12:51 3-4-TB 26TB 7 SL 7 LI: 1.28-M.Glennon pass short left to 43-B.Rainey to TB 30 for 4 yards(55-J.Laurinaitis).'>17.15</number><number>0.54</number>
+<number shadow='shadow1' tooltip='12:20 1-10-TB 30TB 7 SL 7 LI: 1.543-B.Rainey right tackle to TB 29 for -1 yards(52-A.Ogletree)FUMBLES (52-A.Ogletree) RECOVERED by SL-95-W.Hayes at TB 2795-W.Hayes to TB 27 for no gain (69-D.Dotson).'>17.67</number><number>0.39</number>
+<number shadow='shadow1' tooltip='12:13 1-10-TB 27TB 7 SL 7 LI: 1.412-S.Bailey left end for 27 yards TOUCHDOWNDouble reverse.'>17.78</number><number>0.29</number>
+<number shadow='shadow1' tooltip='12:13 TB 7 SL 7 LI: 4-G.Zuerlein extra point is GOOD Center-44-J.McQuaide Holder-6-J.Hekker.'>17.82</number><number>0.29</number>
+<number shadow='shadow1' tooltip='12:13 TB 7 SL 14 LI: 4-G.Zuerlein kicks 65 yards from SL 35 to end zone Touchback.'>17.87</number><number>0.28</number>
+<number shadow='shadow1' tooltip='12:04 1-10-TB 20TB 7 SL 14 LI: 1.4(Shotgun) 43-B.Rainey left end to TB 24 for 4 yards(20-D.Stewart).'>17.93</number><number>0.28</number>
+<number shadow='shadow1' tooltip='11:28 2-6-TB 24TB 7 SL 14 LI: 1.38-M.Glennon pass incomplete deep left to 83-V.Jackson.'>18.53</number><number>0.27</number>
+<number shadow='shadow1' tooltip='11:22 3-6-TB 24TB 7 SL 14 LI: 1.2(Shotgun) 8-M.Glennon pass incomplete short right to 83-V.Jackson.'>18.63</number><number>0.24</number>
+<number shadow='shadow1' tooltip='11:19 4-6-TB 24TB 7 SL 14 LI: 0.99-M.Koenen punts 45 yards to SL 31 Center-48-A.Economos downed by TB-57-A.Hayward.'>18.68</number><number>0.25</number>
+<number shadow='shadow1' tooltip='11:08 1-10-SL 31TB 7 SL 14 LI: 0.930-Z.Stacy left end to SL 34 for 3 yards(37-K.Tandy).'>18.87</number><number>0.24</number>
+<number shadow='shadow1' tooltip='10:24 2-7-SL 34TB 7 SL 14 LI: 130-Z.Stacy up the middle to TB 47 for 19 yards(37-K.Tandy).'>19.6</number><number>0.2</number>
+<number shadow='shadow1' tooltip='9:40 1-10-TB 47TB 7 SL 14 LI: 1.110-K.Clemens pass incomplete deep left to 12-S.Bailey [56-D.Watson].'>20.33</number><number>0.22</number>
+<number shadow='shadow1' tooltip='9:35 2-10-TB 47TB 7 SL 14 LI: 0.910-K.Clemens pass incomplete short left to 36-B.Cunningham.'>20.42</number><number>0.24</number>
+<number shadow='shadow1' tooltip='9:31 3-10-TB 47TB 7 SL 14 LI: 0.7(Shotgun) 10-K.Clemens pass deep left to 12-S.Bailey to TB 19 for 28 yards(27-J.Banks).'>20.48</number><number>0.15</number>
+<number shadow='shadow1' tooltip='8:44 1-10-TB 19TB 7 SL 14 LI: 1.230-Z.Stacy left end to TB 4 for 15 yards(38-D.Goldson; 24-D.Revis).'>21.27</number><number>0.12</number>
+<number shadow='shadow1' tooltip='7:58 1-4-TB 4TB 7 SL 14 LI: 1.530-Z.Stacy up the middle to TB 1 for 3 yards(54-L.David).'>22.03</number><number>0.12</number>
+<number shadow='shadow1' tooltip='7:20 2-1-TB 1TB 7 SL 14 LI: 1.430-Z.Stacy left guard to TB 2 for -1 yards(54-L.David).'>22.67</number><number>0.14</number>
+<number shadow='shadow1' tooltip='6:35 3-2-TB 2TB 7 SL 14 LI: 1.2(Shotgun) 10-K.Clemens up the middle to TB 2 for no gain (94-A.Clayborn 93-G.McCoy)FUMBLES (94-A.Clayborn) RECOVERED by TB-37-K.Tandy at TB 437-K.Tandy to TB 4 for no gain (76-R.Saffold).'>23.42</number><number>0.26</number>
+<number shadow='shadow1' tooltip='6:26 1-10-TB 4TB 7 SL 14 LI: 1.38-M.Glennon pass short right to 41-E.Lorig pushed ob at TB 8 for 4 yards(22-T.Johnson; 52-A.Ogletree).'>23.57</number><number>0.24</number>
+<number shadow='shadow1' tooltip='5:56 2-6-TB 8TB 7 SL 14 LI: 1.143-B.Rainey right tackle to TB 10 for 2 yards(25-T.McDonald).'>24.07</number><number>0.24</number>
+<number shadow='shadow1' tooltip='5:10 3-4-TB 10TB 7 SL 14 LI: 1.1(Shotgun) 8-M.Glennon sacked at TB 1 for -9 yards(25-T.McDonald)StLouis challenged the safety ruling and the play was Upheld(Timeout #1.)'>24.83</number><number>0.19</number>
+<number shadow='shadow1' tooltip='4:45 4-13-TB 1TB 7 SL 14 LI: 0.69-M.Koenen punts 42 yards to TB 43 Center-48-A.Economos19-J.Veltung to TB 38 for 5 yards(57-A.Hayward).'>25.25</number><number>0.2</number>
+<number shadow='shadow1' tooltip='4:33 1-10-TB 48TB 7 SL 14 LI: 1.130-Z.Stacy left end to TB 49 for -1 yards(56-D.Watson)FUMBLES (56-D.Watson) RECOVERED by TB-54-L.David at TB 4754-L.David to TB 47 for no gain (83-B.Quick).'>25.45</number><number>0.31</number>
+<number shadow='shadow1' tooltip='4:27 1-10-TB 47TB 7 SL 14 LI: 1.143-B.Rainey left guard to 50 for 3 yards(25-T.McDonald)TB-81-T.Wright was injured during the play.'>25.55</number><number>0.3</number>
+<number shadow='shadow1' tooltip='4:06 2-7-50TB 7 SL 14 LI: 18-M.Glennon pass deep right to 83-V.Jackson to SL 31 for 19 yards(22-T.Johnson).'>25.9</number><number>0.34</number>
+<number shadow='shadow1' tooltip='3:27 1-10-SL 31TB 7 SL 14 LI: 1.143-B.Rainey right tackle to SL 30 for 1 yard(95-W.Hayes).'>26.55</number><number>0.34</number>
+<number shadow='shadow1' tooltip='2:41 2-9-SL 30TB 7 SL 14 LI: 1.1(Shotgun) 8-M.Glennon pass short right to 83-V.Jackson to SL 19 for 11 yards(98-K.Langford).'>27.32</number><number>0.36</number>
+<number shadow='shadow1' tooltip='2:00 1-10-SL 19TB 7 SL 14 LI: 1.143-B.Rainey left tackle to SL 17 for 2 yards(58-J.Dunbar).'>28</number><number>0.38</number>
+<number shadow='shadow1' tooltip='1:29 2-8-SL 17TB 7 SL 14 LI: 1.3(Shotgun) 8-M.Glennon pass incomplete deep right to 83-V.Jackson.'>28.52</number><number>0.42</number>
+<number shadow='shadow1' tooltip='1:22 1-9-SL 9TB 7 SL 14 LI: 1.78-M.Glennon sacked at SL 16 for -7 yards(55-J.Laurinaitis).'>28.63</number><number>0.36</number>
+<number shadow='shadow1' tooltip='0:47 2-16-SL 16TB 7 SL 14 LI: 1.18-M.Glennon sacked at SL 25 for -9 yards(94-R.Quinn).'>29.22</number><number>0.31</number>
+<number shadow='shadow1' tooltip='0:15 3-25-SL 25TB 7 SL 14 LI: 0.8(Shotgun) 8-M.Glennon pass short middle to 81-T.Wright to SL 17 for 8 yards(52-A.Ogletree).'>29.75</number><number>0.32</number>
+<number shadow='shadow1' tooltip='0:03 4-17-SL 17TB 7 SL 14 LI: 0.84-R.Lindell 35 yard field goal is GOOD Center-48-A.Economos Holder-9-M.Koenen.'>29.95</number><number>0.32</number>
+<number shadow='shadow1' tooltip='0:03 TB 10 SL 14 LI: 9-M.Koenen kicks 65 yards from TB 35 to end zone TouchbackTB-49-B.McDougald was injured during the play.'>30.04</number><number>0.33</number>
+<number shadow='shadow1' tooltip='14:18 2-6-SL 24TB 10 SL 14 LI: 1.536-B.Cunningham right end to SL 22 for -2 yards(59-M.Foster).'>30.7</number><number>0.35</number>
+<number shadow='shadow1' tooltip='13:34 3-8-SL 22TB 10 SL 14 LI: 1.4(Shotgun) 10-K.Clemens pass incomplete deep left to 12-S.Bailey [54-L.David].'>31.43</number><number>0.38</number>
+<number shadow='shadow1' tooltip='13:28 4-8-SL 22TB 10 SL 14 LI: 1.16-J.Hekker punts 42 yards to TB 36 Center-44-J.McQuaide downed by SL-51-W.Witherspoon.'>31.53</number><number>0.37</number>
+<number shadow='shadow1' tooltip='13:18 1-10-TB 36TB 10 SL 14 LI: 1.243-B.Rainey left end pushed ob at TB 47 for 11 yards(94-R.Quinn).'>31.7</number><number>0.41</number>
+<number shadow='shadow1' tooltip='12:48 1-10-TB 47TB 10 SL 14 LI: 1.443-B.Rainey up the middle to SL 48 for 5 yards(25-T.McDonald).'>32.2</number><number>0.4</number>
+<number shadow='shadow1' tooltip='12:17 2-5-SL 48TB 10 SL 14 LI: 1.243-B.Rainey left tackle to SL 44 for 4 yards(52-A.Ogletree).'>32.72</number><number>0.41</number>
+<number shadow='shadow1' tooltip='11:38 3-1-SL 44TB 10 SL 14 LI: 1.38-M.Glennon scrambles left end to SL 44 for no gain (21-J.Jenkins).'>33.37</number><number>0.33</number>
+<number shadow='shadow1' tooltip='10:59 4-1-SL 44TB 10 SL 14 LI: 0.58-M.Glennon up the middle to SL 41 for 3 yards(90-M.Brockers).'>34.02</number><number>0.43</number>
+<number shadow='shadow1' tooltip='10:28 1-10-SL 41TB 10 SL 14 LI: 1.58-M.Glennon pass incomplete deep left to 83-V.Jackson.'>34.53</number><number>0.57</number>
+<number shadow='shadow1' tooltip='10:18 1-10-SL 14TB 10 SL 14 LI: 2.443-B.Rainey right guard to SL 13 for 1 yard(98-K.Langford).'>34.7</number><number>0.55</number>
+<number shadow='shadow1' tooltip='9:41 2-9-SL 13TB 10 SL 14 LI: 2.2(Shotgun) 8-M.Glennon pass incomplete short right to 83-V.Jackson (21-J.Jenkins).'>35.32</number><number>0.51</number>
+<number shadow='shadow1' tooltip='9:34 3-9-SL 13TB 10 SL 14 LI: 1.8(Shotgun) 8-M.Glennon pass incomplete short left.'>35.43</number><number>0.43</number>
+<number shadow='shadow1' tooltip='9:26 4-9-SL 13TB 10 SL 14 LI: 14-R.Lindell 32 yard field goal is GOOD Center-48-A.Economos Holder-9-M.Koenen.'>35.57</number><number>0.43</number>
+<number shadow='shadow1' tooltip='9:26 TB 13 SL 14 LI: 9-M.Koenen kicks onside 30 yards from TB 35 to SL 35 out of boundsKick initially touched by TB #48 AEconomos at the TB 47 and batted out of bounds by SL #46 CHarkey.'>35.66</number><number>0.41</number>
+<number shadow='shadow1' tooltip='9:19 1-10-SL 35TB 13 SL 14 LI: 1.530-Z.Stacy right tackle to SL 40 for 5 yards(38-D.Goldson).'>35.68</number><number>0.41</number>
+<number shadow='shadow1' tooltip='8:41 2-5-SL 40TB 13 SL 14 LI: 1.430-Z.Stacy left guard to SL 42 for 2 yards(56-D.Watson).'>36.32</number><number>0.42</number>
+<number shadow='shadow1' tooltip='8:03 3-3-SL 42TB 13 SL 14 LI: 1.3(Shotgun) 10-K.Clemens pass short left to 89-J.Cook to TB 40 for 18 yards(54-L.David).'>36.95</number><number>0.36</number>
+<number shadow='shadow1' tooltip='7:13 1-10-TB 40TB 13 SL 14 LI: 1.430-Z.Stacy up the middle to TB 41 for -1 yards(94-A.Clayborn).'>37.78</number><number>0.38</number>
+<number shadow='shadow1' tooltip='6:38 2-11-TB 41TB 13 SL 14 LI: 1.3(Shotgun) 10-K.Clemens scrambles up the middle to TB 40 for 1 yard(97-A.Spence).'>38.37</number><number>0.4</number>
+<number shadow='shadow1' tooltip='5:55 3-10-TB 40TB 13 SL 14 LI: 1.1(Shotgun) 10-K.Clemens pass short middle to 88-L.Kendricks to TB 36 for 4 yards(38-D.Goldson).'>39.08</number><number>0.44</number>
+<number shadow='shadow1' tooltip='5:16 4-6-TB 36TB 13 SL 14 LI: 0.64-G.Zuerlein 54 yard field goal is GOOD Center-44-J.McQuaide Holder-6-J.Hekker.'>39.73</number><number>0.35</number>
+<number shadow='shadow1' tooltip='5:16 TB 13 SL 17 LI: 4-G.Zuerlein kicks 65 yards from SL 35 to end zone Touchback.'>39.82</number><number>0.33</number>
+<number shadow='shadow1' tooltip='5:08 1-10-TB 20TB 13 SL 17 LI: 1.343-B.Rainey up the middle to TB 19 for -1 yards(98-K.Langford).'>39.87</number><number>0.32</number>
+<number shadow='shadow1' tooltip='4:30 2-11-TB 19TB 13 SL 17 LI: 1.343-B.Rainey up the middle to TB 21 for 2 yards(93-J.Cudjo).'>40.5</number><number>0.31</number>
+<number shadow='shadow1' tooltip='3:45 3-9-TB 21TB 13 SL 17 LI: 1.1(Shotgun) 8-M.Glennon pass short left to 81-T.Wright to TB 28 for 7 yards(55-J.Laurinaitis).'>41.25</number><number>0.29</number>
+<number shadow='shadow1' tooltip='3:01 4-2-TB 28TB 13 SL 17 LI: 0.89-M.Koenen punts 43 yards to SL 29 Center-48-A.Economos19-J.Veltung to SL 44 for 15 yards(36-D.Gorrer).'>41.98</number><number>0.27</number>
+<number shadow='shadow1' tooltip='2:48 1-10-SL 44TB 13 SL 17 LI: 1.430-Z.Stacy left guard to SL 47 for 3 yards(59-M.Foster).'>42.2</number><number>0.27</number>
+<number shadow='shadow1' tooltip='2:03 2-7-SL 47TB 13 SL 17 LI: 1.310-K.Clemens pass short middle to 30-Z.Stacy to TB 48 for 5 yards(59-M.Foster; 57-A.Hayward).'>42.95</number><number>0.27</number>
+<number shadow='shadow1' tooltip='1:22 3-2-TB 48TB 13 SL 17 LI: 1.210-K.Clemens pass short middle to 46-C.Harkey to TB 38 for 10 yards(38-D.Goldson).'>43.63</number><number>0.22</number>
+<number shadow='shadow1' tooltip='0:36 1-10-TB 38TB 13 SL 17 LI: 1.530-Z.Stacy left tackle to TB 35 for 3 yards(27-J.Banks).'>44.4</number><number>0.22</number>
+<number shadow='shadow1' tooltip='15:00 2-7-TB 35TB 13 SL 17 LI: 1.4(Shotgun) 30-Z.Stacy up the middle to TB 32 for 3 yards(92-W.Gholston; 54-L.David).'>45</number><number>0.22</number>
+<number shadow='shadow1' tooltip='14:22 3-4-TB 32TB 13 SL 17 LI: 1.310-K.Clemens pass short left to 13-C.Givens to TB 29 for 3 yards(92-W.Gholston).'>45.63</number><number>0.25</number>
+<number shadow='shadow1' tooltip='13:51 4-1-TB 29TB 13 SL 17 LI: 0.910-K.Clemens left guard to TB 24 for 5 yards(93-G.McCoy).'>46.15</number><number>0.18</number>
+<number shadow='shadow1' tooltip='13:00 1-10-TB 24TB 13 SL 17 LI: 1.510-K.Clemens pass short left to 12-S.Bailey to TB 12 for 12 yards(38-D.Goldson).'>47</number><number>0.12</number>
+<number shadow='shadow1' tooltip='12:42 1-6-TB 6TB 13 SL 17 LI: 1.810-K.Clemens sacked at TB 16 for -10 yards(93-G.McCoy).'>47.3</number><number>0.16</number>
+<number shadow='shadow1' tooltip='12:07 2-16-TB 16TB 13 SL 17 LI: 1.410-K.Clemens pass short middle to 83-B.Quick to TB 7 for 9 yards(54-L.David).'>47.88</number><number>0.14</number>
+<number shadow='shadow1' tooltip='11:24 3-7-TB 7TB 13 SL 17 LI: 1.3(Shotgun) 10-K.Clemens pass incomplete short left to 13-C.Givens.'>48.6</number><number>0.17</number>
+<number shadow='shadow1' tooltip='11:18 4-7-TB 7TB 13 SL 17 LI: 14-G.Zuerlein 25 yard field goal is GOOD Center-44-J.McQuaide Holder-6-J.Hekker.'>48.7</number><number>0.19</number>
+<number shadow='shadow1' tooltip='11:18 TB 13 SL 20 LI: 4-G.Zuerlein kicks 65 yards from SL 35 to end zone Touchback.'>48.79</number><number>0.17</number>
+<number shadow='shadow1' tooltip='11:11 2-10-TB 20TB 13 SL 20 LI: 0.817-E.Page right end to TB 39 for 19 yards(97-E.Sims).'>48.82</number><number>0.22</number>
+<number shadow='shadow1' tooltip='10:32 1-10-TB 39TB 13 SL 20 LI: 1.38-M.Glennon pass short right to 81-T.Wright pushed ob at TB 45 for 6 yards(52-A.Ogletree).'>49.47</number><number>0.24</number>
+<number shadow='shadow1' tooltip='9:59 2-4-TB 45TB 13 SL 20 LI: 1.543-B.Rainey right tackle to TB 46 for 1 yard(55-J.Laurinaitis)SL-98-K.Langford was injured during the play.'>50.02</number><number>0.21</number>
+<number shadow='shadow1' tooltip='9:21 3-3-TB 46TB 13 SL 20 LI: 1.2(Shotgun) 8-M.Glennon sacked at TB 42 for -4 yards(sack split by 52-A.Ogletree and 55-J.Laurinaitis)FUMBLES (52-A.Ogletree) RECOVERED by SL-95-W.Hayes at TB 4395-W.Hayes to TB 44 for -1 yards(41-E.Lorig).'>50.65</number><number>0.11</number>
+<number shadow='shadow1' tooltip='9:07 1-10-SL 41TB 13 SL 20 LI: 1.730-Z.Stacy up the middle to SL 40 for -1 yards(92-W.Gholston).'>50.88</number><number>0.11</number>
+<number shadow='shadow1' tooltip='8:25 2-11-SL 40TB 13 SL 20 LI: 1.810-K.Clemens pass deep right to 13-C.Givens ran ob at TB 39 for 21 yards(27-J.Banks).'>51.58</number><number>0.07</number>
+<number shadow='shadow1' tooltip='7:54 1-10-TB 39TB 13 SL 20 LI: 1.430-Z.Stacy left tackle to TB 39 for no gain (97-A.Spence).'>52.1</number><number>0.07</number>
+<number shadow='shadow1' tooltip='7:01 2-10-TB 39TB 13 SL 20 LI: 1.3(Shotgun) 10-K.Clemens pass short left to 18-A.Pettis to TB 30 for 9 yards(37-K.Tandy).'>52.98</number><number>0.06</number>
+<number shadow='shadow1' tooltip='6:24 3-1-TB 30TB 13 SL 20 LI: 0.930-Z.Stacy up the middle to TB 28 for 2 yards(93-G.McCoy).'>53.6</number><number>0.03</number>
+<number shadow='shadow1' tooltip='5:38 1-10-TB 28TB 13 SL 20 LI: 130-Z.Stacy right tackle to TB 27 for 1 yard(59-M.Foster; 93-G.McCoy).'>54.37</number><number>0.07</number>
+<number shadow='shadow1' tooltip='4:52 2-9-TB 27TB 13 SL 20 LI: 0.830-Z.Stacy up the middle to TB 31 for -4 yards(37-K.Tandy; 92-W.Gholston).'>55.13</number><number>0.09</number>
+<number shadow='shadow1' tooltip='4:07 3-13-TB 31TB 13 SL 20 LI: 0.730-Z.Stacy left tackle to TB 30 for 1 yard(54-L.David).'>55.88</number><number>0.09</number>
+<number shadow='shadow1' tooltip='3:20 4-12-TB 30TB 13 SL 20 LI: 0.44-G.Zuerlein 48 yard field goal is GOOD Center-44-J.McQuaide Holder-6-J.Hekker.'>56.67</number><number>0.07</number>
+<number shadow='shadow1' tooltip='3:20 TB 13 SL 23 LI: 4-G.Zuerlein kicks 65 yards from SL 35 to end zone Touchback.'>56.76</number><number>0.06</number>
+<number shadow='shadow1' tooltip='2:54 1-10-TB 36TB 13 SL 23 LI: 0.5(Shotgun) 8-M.Glennon pass short left to 30-B.Leonard to TB 40 for 4 yards(21-J.Jenkins).'>57.1</number><number>0.07</number>
+<number shadow='shadow1' tooltip='2:31 2-6-TB 40TB 13 SL 23 LI: 0.6(Shotgun) 8-M.Glennon pass short right to 80-C.Owusu to TB 44 for 4 yards(25-T.McDonald).'>57.48</number><number>0.05</number>
+<number shadow='shadow1' tooltip='2:07 3-2-TB 44TB 13 SL 23 LI: 0.4(Shotgun) 8-M.Glennon sacked at TB 36 for -8 yards(91-C.Long).'>57.88</number><number>0.03</number>
+<number shadow='shadow1' tooltip='2:00 4-10-TB 36TB 13 SL 23 LI: 0.2(Shotgun) 8-M.Glennon sacked at TB 32 for -4 yards(94-R.Quinn).'>58</number><number>0.01</number>
+<number shadow='shadow1' tooltip='1:55 1-10-TB 32TB 13 SL 23 LI: 0.330-Z.Stacy left tackle to TB 19 for 13 yards(27-J.Banks).'>58.08</number><number>0.01</number>
+<number shadow='shadow1' tooltip='1:45 1-10-TB 19TB 13 SL 23 LI: 0.130-Z.Stacy right guard to TB 18 for 1 yard(37-K.Tandy).'>58.25</number><number>0.01</number>
+<number shadow='shadow1' tooltip='1:42 2-9-TB 18TB 13 SL 23 LI: 0.130-Z.Stacy left guard to TB 15 for 3 yards(54-L.David).'>58.3</number><number>0.02</number>
+<number shadow='shadow1' tooltip='1:37 3-6-TB 15TB 13 SL 23 LI: 0.130-Z.Stacy right tackle to TB 12 for 3 yards(59-M.Foster).'>58.38</number><number>0.01</number>
+<number shadow='shadow1' tooltip='0:50 4-3-TB 12TB 13 SL 23 LI: 0.110-K.Clemens left end to TB 16 for -4 yards(27-J.Banks).'>59.17</number><number>0.01</number>
+<number shadow='shadow1' tooltip='0:45 1-10-TB 16TB 13 SL 23 LI: 0.1(Shotgun) 8-M.Glennon pass incomplete short right to 81-T.Wright [94-R.Quinn].'>59.25</number><number>0.02</number>
+<number shadow='shadow1' tooltip='0:40 2-10-TB 16TB 13 SL 23 LI: 0.1(Shotgun) 8-M.Glennon pass short left to 80-C.Owusu ran ob at TB 25 for 9 yards(21-J.Jenkins).'>59.33</number><number>0.02</number>
+<number shadow='shadow1' tooltip='0:34 3-1-TB 25TB 13 SL 23 LI: 0.1(Shotgun) 8-M.Glennon sacked at TB 18 for -7 yards(94-R.Quinn).'>59.43</number><number>0</number>
+<number>60</number><number>0</number>
+</row> </chart_data>
+       <draw>
+
+
+
+      <image x='45' y='298'  url='nfllogos/42x50png/TB.gif'  layer='foreground' glow = 'glow1'/>
+      <image x='45' y='350'  url='nfllogos/42x50png/SL.gif'     layer='foreground' glow = 'glow1'/>
+
+
+      <rect x='130' y='300' width='250' height='40' fill_color='ca2f39' bevel='bevel1' />
+      <text x='135' y='300' width='250' height='40' h_align='left' v_align='middle' color='ffffff' shadow='shadow2' glow=''>Tampa Bay Buccaneers</text>
+
+      <rect x='130' y='350' width='250' height='40' fill_color='003159' bevel='bevel1'  />
+      <text x='135' y='350' width='250' height='40' h_align='left' v_align='middle' color='ffffff' shadow='shadow2' glow='winnerglow'>St. Louis Rams</text>
+
+      <rect x='420' y='300' width='60' height='40' fill_color='ca2f39' bevel='bevel1'  />
+      <text x='420' y='300' width='60' height='40' h_align='center' v_align='middle' color='ffffff' shadow='shadow2' transition='none' glow=''>13</text>
+
+      <rect x='420' y='350' width='60' height='40' fill_color='003159' bevel='bevel1' />
+      <text x='420' y='350' width='60' height='40' h_align='center' v_align='middle' color='ffffff' shadow='shadow2' transition='none' glow='winnerglow'>23</text>
+
+      <text x='-3' y='12'  width='60' height='40' h_align='center' v_align='middle' size='13' shadow='shadow2'>TBWin </text>
+      <text x='-3' y='218' width='60' height='40' h_align='center' v_align='middle' size='13' shadow='shadow2'>SLWin </text>
+
+     
+              <rect x='540' y='300' width='100' height='35' fill_color='000000' fill_alpha='50'/>
+              <text x='540' y='300' width='100' height='35' h_align='center' v_align='middle' color='ffffff' size='15' shadow='shadow2' >Final</text>
+
+              <text x='540' y='340' width='40' h_align='center' color='000000' size='12' shadow='shadow2'>CBF</text>
+              <text x='600' y='340' width='40' h_align='center' color='000000' size='12' shadow='shadow2'>EI</text>
+
+              <rect x='540' y='360' width='40' height='30' fill_color='000000' fill_alpha='50' />
+              <text x='540' y='360' width='40' height='30' size='12' h_align='center' v_align='middle' color='FFFFFF' shadow='shadow2'>4</text>
+
+              <rect x='600' y='360' width='40' height='30' fill_color='000000' fill_alpha='50' />
+              <text x='600' y='360' width='40' height='30' size='12' h_align='center' v_align='middle' color='FFFFFF' shadow='shadow2'>3.7</text>
+
+              <text x='20' y='420' width='70' height='25' size='12' h_align='left' v_align='middle' color='000000' >12/22/2013</text>
+              <text x='100' y='420' width='200' height='25' size='12' h_align='left' v_align='middle' color='000000' >Edward Jones Dome</text>
+
+   </draw></chart>

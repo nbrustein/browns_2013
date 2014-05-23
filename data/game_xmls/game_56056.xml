@@ -1,0 +1,295 @@
+
+<chart>
+   <license>ETAS9P33ESHO.945CWK-2XOI1X0-7L</license>
+   <chart_type>scatter</chart_type>
+   <chart_pref trend_thickness='0' line_thickness='3' point_size='0'/>
+
+   <series_color>
+      <color>ffff00</color>
+   </series_color>
+
+   <chart_rect x='45' y='20' width='630' height='230' positive_color='cacaca'  />
+
+  <chart_border top_thickness='0'
+                 bottom_thickness='0'
+                 left_thickness='0'
+                 right_thickness='0'
+                 color='000000'
+                 />
+
+   <tooltip font='Arial' bold='true' size='11' />
+
+   <chart_note type='flag'
+               color='000000'
+               alpha='90'
+               bold='FALSE'
+               size='10'
+               background_color='ffffe0'
+               background_alpha='50'
+               shadow='shadow2'
+               />
+
+   <chart_grid_h thickness='2' color='ffffff' type='dashed'  />
+   <chart_grid_v thickness='2' color='ffffff'   />
+		>
+
+   <legend layout='hide' />
+
+   <chart_guide horizontal='TRUE'
+             vertical='TRUE'
+             thickness='1'
+             color='006400'
+             alpha='100'
+             type='solid'
+             snap_h='TRUE'
+             snap_v='TRUE'
+             radius='3'
+             fill_color='006400'
+             fill_alpha='100'
+             line_color='006400'
+             line_alpha='80'
+             line_thickness='1'
+             text_h_alpha='50'
+             text_v_alpha='00'
+             suffix_h=' WP'
+             decimals='2'
+             bold='FALSE'
+             size='11'
+             text_color='FFFFFF'
+             background_color='006400'
+             />
+   <filter>
+      <shadow id='shadow1' distance='2' angle='60' blurX='5' blurY='5' alpha='50' />
+      <bevel id='bevel1' angle='45' blurX='5' blurY='5' distance='0' />
+      <glow id='glow1' color='ffffff' alpha='0' blurX='7' blurY='7' strength='6' quality='2' inner='FALSE' knockout='FALSE' />
+      <glow id='winnerglow' color='ffffff' alpha='0' blurX='7' blurY='7' strength='5' quality='2' inner='FALSE' knockout='FALSE' />
+   </filter>
+
+    <axis_value_label>
+         <string></string>
+          <string> </string>
+          <null/>
+          <string> </string>
+          <string></string>
+
+       </axis_value_label>
+		
+	   <axis_ticks category_ticks='false'/>
+
+       <axis_value min='0' max='1' steps='4'  decimals='2' show_min='true' size='13' shadow='shadow2' />     
+            <axis_category
+               min='0'
+               max='60'
+               steps='4'
+               mode='all'
+               decimals='0'
+               size='13'
+               shadow='shadow2'
+               />
+
+       <axis_category_label>
+          <string>Kickoff</string>
+          <string></string>
+          <string>Halftime</string>
+          <string></string>
+          <string>End</string>
+
+       </axis_category_label>
+
+
+        <chart_data>
+       <row>
+	      <null/><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number>
+              <number>x</number><number>y</number>
+              </row><row><string></string>
+
+                     <number shadow='shadow1'>0</number><number>.5</number><number shadow='shadow1' tooltip='15:00 NYJ 0 CAR 0 LI: 2-N.Folk kicks 65 yards from NYJ 35 to end zone Touchback.'>0.09</number><number>0.48</number>
+<number shadow='shadow1' tooltip='14:16 2-6-CAR 24NYJ 0 CAR 0 LI: 1.434-De.Williams left tackle to CAR 31 for 7 yards(27-D.Milliner).'>0.73</number><number>0.46</number>
+<number shadow='shadow1' tooltip='13:40 1-10-CAR 31NYJ 0 CAR 0 LI: 1.5(No Huddle) 34-De.Williams right guard to CAR 35 for 4 yards(96-M.Wilkerson; 52-D.Harris).'>1.33</number><number>0.47</number>
+<number shadow='shadow1' tooltip='13:03 2-6-CAR 35NYJ 0 CAR 0 LI: 1.334-De.Williams up the middle to CAR 39 for 4 yards(91-S.Richardson; 94-D.Harrison).'>1.95</number><number>0.47</number>
+<number shadow='shadow1' tooltip='12:24 3-2-CAR 39NYJ 0 CAR 0 LI: 1.2(Shotgun) 1-C.Newton up the middle to CAR 36 for -3 yards(96-M.Wilkerson).'>2.6</number><number>0.53</number>
+<number shadow='shadow1' tooltip='12:00 4-5-CAR 36NYJ 0 CAR 0 LI: 0.78-B.Nortman punts 52 yards to NYJ 12 Center-44-J.Jansen downed by CAR-42-C.Jones.'>3</number><number>0.5</number>
+<number shadow='shadow1' tooltip='11:48 1-10-NYJ 12NYJ 0 CAR 0 LI: 1.733-C.Ivory right guard to NYJ 14 for 2 yards(95-C.Johnson; 27-Q.Mikell).'>3.2</number><number>0.49</number>
+<number shadow='shadow1' tooltip='11:14 2-8-NYJ 14NYJ 0 CAR 0 LI: 1.6(No Huddle Shotgun) 7-G.Smith pass short right to 87-J.Cumberland to NYJ 21 for 7 yards(29-D.Florence; 27-Q.Mikell).'>3.77</number><number>0.51</number>
+<number shadow='shadow1' tooltip='10:58 3-1-NYJ 21NYJ 0 CAR 0 LI: 1.57-G.Smith left end pushed ob at NYJ 31 for 10 yards(27-Q.Mikell).'>4.03</number><number>0.54</number>
+<number shadow='shadow1' tooltip='10:35 1-10-NYJ 31NYJ 0 CAR 0 LI: 1.5(No Huddle) 33-C.Ivory up the middle to NYJ 33 for 2 yards(21-M.Mitchell; 59-L.Kuechly).'>4.42</number><number>0.52</number>
+<number shadow='shadow1' tooltip='10:00 2-8-NYJ 33NYJ 0 CAR 0 LI: 1.3(No Huddle Shotgun) 7-G.Smith pass incomplete short left to 10-S.Holmes.'>5</number><number>0.5</number>
+<number shadow='shadow1' tooltip='9:56 3-8-NYJ 33NYJ 0 CAR 0 LI: 1.1(No Huddle Shotgun) 7-G.Smith sacked at NYJ 26 for -7 yards(41-C.Munnerlyn).'>5.07</number><number>0.46</number>
+<number shadow='shadow1' tooltip='9:24 4-15-NYJ 26NYJ 0 CAR 0 LI: 0.91-R.Quigley punts 41 yards to CAR 33 Center-46-T.Purdum fair catch by 19-T.Ginn.'>5.6</number><number>0.46</number>
+<number shadow='shadow1' tooltip='9:16 1-10-CAR 33NYJ 0 CAR 0 LI: 1.5(Shotgun) 1-C.Newton pass short right to 88-G.Olsen ran ob at CAR 43 for 10 yards.'>5.73</number><number>0.45</number>
+<number shadow='shadow1' tooltip='8:47 1-10-CAR 43NYJ 0 CAR 0 LI: 1.3(Shotgun) 35-M.Tolbert right guard to CAR 45 for 2 yards(56-D.Davis; 98-Q.Coples).'>6.22</number><number>0.46</number>
+<number shadow='shadow1' tooltip='8:04 2-8-CAR 45NYJ 0 CAR 0 LI: 1.2(Shotgun) 1-C.Newton pass deep left to 11-B.LaFell to NYJ 19 for 36 yards(26-D.Landry).'>6.93</number><number>0.36</number>
+<number shadow='shadow1' tooltip='7:18 1-10-NYJ 19NYJ 0 CAR 0 LI: 1.534-De.Williams left guard to NYJ 15 for 4 yards(27-D.Milliner).'>7.7</number><number>0.33</number>
+<number shadow='shadow1' tooltip='6:39 2-6-NYJ 15NYJ 0 CAR 0 LI: 1.8(Shotgun) 11-B.LaFell up the middle to NYJ 9 for 6 yards(96-M.Wilkerson)End around by Brandon LaFell'>8.35</number><number>0.34</number>
+<number shadow='shadow1' tooltip='6:01 1-9-NYJ 9NYJ 0 CAR 0 LI: 1.634-De.Williams left end to NYJ 11 for -2 yards(37-J.Jarrett).'>8.98</number><number>0.35</number>
+<number shadow='shadow1' tooltip='5:19 2-11-NYJ 11NYJ 0 CAR 0 LI: 1.51-C.Newton pass incomplete short right to 34-De.Williams.'>9.68</number><number>0.38</number>
+<number shadow='shadow1' tooltip='5:15 3-11-NYJ 11NYJ 0 CAR 0 LI: 1.2(Shotgun) 1-C.Newton sacked at NYJ 17 for -6 yards(97-C.Pace).'>9.75</number><number>0.43</number>
+<number shadow='shadow1' tooltip='4:43 4-17-NYJ 17NYJ 0 CAR 0 LI: 0.89-G.Gano 35 yard field goal is GOOD Center-44-J.Jansen Holder-8-B.Nortman.'>10.28</number><number>0.42</number>
+<number shadow='shadow1' tooltip='4:43 NYJ 0 CAR 3 LI: 9-G.Gano kicks 65 yards from CAR 35 to end zone Touchback.'>10.37</number><number>0.4</number>
+<number shadow='shadow1' tooltip='4:33 2-10-NYJ 20NYJ 0 CAR 3 LI: 1.3(No Huddle Shotgun) 29-B.Powell up the middle to NYJ 25 for 5 yards(98-S.Lotulelei; 21-M.Mitchell).'>10.45</number><number>0.4</number>
+<number shadow='shadow1' tooltip='3:55 3-5-NYJ 25NYJ 0 CAR 3 LI: 1.2(Shotgun) 7-G.Smith pass short right to 86-D.Nelson to NYJ 41 for 16 yards(29-D.Florence).'>11.08</number><number>0.45</number>
+<number shadow='shadow1' tooltip='3:23 1-10-NYJ 41NYJ 0 CAR 3 LI: 1.3(No Huddle) 15-S.Hakim left end pushed ob at NYJ 49 for 8 yards(21-M.Mitchell).'>11.62</number><number>0.47</number>
+<number shadow='shadow1' tooltip='2:55 2-2-NYJ 49NYJ 0 CAR 3 LI: 1.4(No Huddle) 33-C.Ivory right tackle to CAR 46 for 5 yards(27-Q.Mikell; 93-C.Blackburn).'>12.08</number><number>0.48</number>
+<number shadow='shadow1' tooltip='2:21 1-10-CAR 46NYJ 0 CAR 3 LI: 1.4(No Huddle Shotgun) 7-G.Smith pass short right to 86-D.Nelson to CAR 36 for 10 yards(29-D.Florence).'>12.65</number><number>0.51</number>
+<number shadow='shadow1' tooltip='1:43 1-10-CAR 36NYJ 0 CAR 3 LI: 1.5(No Huddle Shotgun) 29-B.Powell left guard to CAR 34 for 2 yards(59-L.Kuechly; 76-G.Hardy).'>13.28</number><number>0.5</number>
+<number shadow='shadow1' tooltip='1:08 2-8-CAR 34NYJ 0 CAR 3 LI: 1.3(No Huddle) 7-G.Smith sacked at CAR 40 for -6 yards(76-G.Hardy).'>13.87</number><number>0.43</number>
+<number shadow='shadow1' tooltip='0:34 3-14-CAR 40NYJ 0 CAR 3 LI: 0.8(Shotgun) 7-G.Smith pass short middle to 29-B.Powell to CAR 36 for 4 yards(58-T.Davis).'>14.43</number><number>0.4</number>
+<number shadow='shadow1' tooltip='0:01 4-10-CAR 36NYJ 0 CAR 3 LI: 0.42-N.Folk 54 yard field goal is GOOD Center-46-T.Purdum Holder-1-R.Quigley.'>14.98</number><number>0.53</number>
+<number shadow='shadow1' tooltip='0:01 NYJ 3 CAR 3 LI: 2-N.Folk kicks 56 yards from NYJ 35 to CAR 925-K.Barner MUFFS catch recovered by CAR-19-T.Ginn at CAR 1119-T.Ginn to CAR 11 for no gain (21-E.Lankster).'>15.07</number><number>0.5</number>
+<number shadow='shadow1' tooltip='14:20 2-7-CAR 14NYJ 3 CAR 3 LI: 1.8(Shotgun) 34-De.Williams up the middle to CAR 18 for 4 yards(97-C.Pace).'>15.67</number><number>0.51</number>
+<number shadow='shadow1' tooltip='13:39 3-3-CAR 18NYJ 3 CAR 3 LI: 1.3(Shotgun) 1-C.Newton pass short right to 89-S.Smith to CAR 29 for 11 yards(26-D.Landry).'>16.35</number><number>0.47</number>
+<number shadow='shadow1' tooltip='12:53 1-10-CAR 29NYJ 3 CAR 3 LI: 1.435-M.Tolbert right guard to CAR 32 for 3 yards(94-D.Harrison).'>17.12</number><number>0.47</number>
+<number shadow='shadow1' tooltip='12:06 2-7-CAR 32NYJ 3 CAR 3 LI: 1.3(Shotgun) 1-C.Newton pass short left to 11-B.LaFell to CAR 46 for 14 yards(20-K.Wilson).'>17.9</number><number>0.44</number>
+<number shadow='shadow1' tooltip='11:40 1-10-CAR 46NYJ 3 CAR 3 LI: 1.31-C.Newton pass short left to 88-G.Olsen pushed ob at NYJ 27 for 27 yards(26-D.Landry).'>18.33</number><number>0.39</number>
+<number shadow='shadow1' tooltip='11:04 1-10-NYJ 27NYJ 3 CAR 3 LI: 1.435-M.Tolbert left tackle to NYJ 25 for 2 yards(94-D.Harrison; 26-D.Landry).'>18.93</number><number>0.37</number>
+<number shadow='shadow1' tooltip='10:23 2-8-NYJ 25NYJ 3 CAR 3 LI: 1.6(Shotgun) 1-C.Newton pass short left to 34-De.Williams to NYJ 13 for 12 yards(27-D.Milliner).'>19.62</number><number>0.32</number>
+<number shadow='shadow1' tooltip='9:39 1-10-NYJ 13NYJ 3 CAR 3 LI: 1.8(Shotgun) 1-C.Newton pass short left to 89-S.Smith to NYJ 7 for 6 yards(56-D.Davis).'>20.35</number><number>0.31</number>
+<number shadow='shadow1' tooltip='8:55 2-4-NYJ 7NYJ 3 CAR 3 LI: 1.934-De.Williams left end pushed ob at NYJ 6 for 1 yard(96-M.Wilkerson).'>21.08</number><number>0.33</number>
+<number shadow='shadow1' tooltip='8:22 3-3-NYJ 6NYJ 3 CAR 3 LI: 1.7(Shotgun) 1-C.Newton up the middle to NYJ 2 for 4 yards(96-M.Wilkerson; 22-E.Reed).'>21.63</number><number>0.31</number>
+<number shadow='shadow1' tooltip='7:37 1-2-NYJ 2NYJ 3 CAR 3 LI: 1.9(Shotgun) 1-C.Newton pass incomplete short middle to 88-G.Olsen# 63 Geoff Hangartner reported as eligible'>22.38</number><number>0.3</number>
+<number shadow='shadow1' tooltip='7:33 2-2-NYJ 2NYJ 3 CAR 3 LI: 235-M.Tolbert left guard to NYJ 4 for -2 yards(56-D.Davis).'>22.45</number><number>0.33</number>
+<number shadow='shadow1' tooltip='6:54 3-4-NYJ 4NYJ 3 CAR 3 LI: 1.7(Shotgun) 1-C.Newton pass incomplete short left to 88-G.Olsen.'>23.1</number><number>0.39</number>
+<number shadow='shadow1' tooltip='6:49 4-4-NYJ 4NYJ 3 CAR 3 LI: 1.19-G.Gano 22 yard field goal is GOOD Center-44-J.Jansen Holder-8-B.Nortman.'>23.18</number><number>0.4</number>
+<number shadow='shadow1' tooltip='6:49 NYJ 3 CAR 6 LI: 9-G.Gano kicks 65 yards from CAR 35 to end zone Touchback.'>23.27</number><number>0.39</number>
+<number shadow='shadow1' tooltip='6:16 2-7-NYJ 23NYJ 3 CAR 6 LI: 1(No Huddle) 7-G.Smith pass incomplete short right to 11-J.Kerley.'>23.73</number><number>0.38</number>
+<number shadow='shadow1' tooltip='6:09 3-7-NYJ 23NYJ 3 CAR 6 LI: 0.9(Shotgun) 7-G.Smith pass short right to 86-D.Nelson to NYJ 41 for 18 yards(21-M.Mitchell).'>23.85</number><number>0.43</number>
+<number shadow='shadow1' tooltip='5:32 1-10-NYJ 41NYJ 3 CAR 6 LI: 1.1(Shotgun) 33-C.Ivory left tackle pushed ob at CAR 24 for 35 yards(21-M.Mitchell).'>24.47</number><number>0.52</number>
+<number shadow='shadow1' tooltip='5:08 1-10-CAR 24NYJ 3 CAR 6 LI: 1.5(No Huddle Shotgun) 29-B.Powell up the middle to CAR 9 for 15 yards(21-M.Mitchell).'>24.87</number><number>0.57</number>
+<number shadow='shadow1' tooltip='4:31 1-9-CAR 9NYJ 3 CAR 6 LI: 1.833-C.Ivory right end to CAR 10 for -1 yards(95-C.Johnson)NYJ-77-A.Howard was injured during the play.'>25.48</number><number>0.55</number>
+<number shadow='shadow1' tooltip='4:03 2-10-CAR 10NYJ 3 CAR 6 LI: 1.6(Shotgun) 7-G.Smith pass incomplete short right to 10-S.Holmes.'>25.95</number><number>0.52</number>
+<number shadow='shadow1' tooltip='3:56 3-10-CAR 10NYJ 3 CAR 6 LI: 1.37-G.Smith pass incomplete short right to 40-T.Bohanon.'>26.07</number><number>0.47</number>
+<number shadow='shadow1' tooltip='3:53 4-15-CAR 15NYJ 3 CAR 6 LI: 0.82-N.Folk 33 yard field goal is GOOD Center-46-T.Purdum Holder-1-R.Quigley.'>26.12</number><number>0.47</number>
+<number shadow='shadow1' tooltip='3:53 NYJ 6 CAR 6 LI: 2-N.Folk kicks 69 yards from NYJ 35 to CAR -419-T.Ginn to CAR 28 for 32 yards(26-D.Landry).'>26.21</number><number>0.47</number>
+<number shadow='shadow1' tooltip='3:42 1-10-CAR 28NYJ 6 CAR 6 LI: 1.51-C.Newton pass short right to 34-De.Williams for 72 yards TOUCHDOWN.'>26.3</number><number>0.28</number>
+<number shadow='shadow1' tooltip='3:42 NYJ 6 CAR 6 LI: 9-G.Gano extra point is GOOD Center-44-J.Jansen Holder-8-B.Nortman.'>26.34</number><number>0.28</number>
+<number shadow='shadow1' tooltip='3:42 NYJ 6 CAR 13 LI: 9-G.Gano kicks 65 yards from CAR 35 to end zone Touchback.'>26.39</number><number>0.27</number>
+<number shadow='shadow1' tooltip='3:29 1-10-NYJ 20NYJ 6 CAR 13 LI: 1.1(Shotgun) 29-B.Powell up the middle to NYJ 23 for 3 yards(91-C.Cole).'>26.52</number><number>0.26</number>
+<number shadow='shadow1' tooltip='2:29 3-13-NYJ 17NYJ 6 CAR 13 LI: 0.7(No Huddle Shotgun) 7-G.Smith pass short middle to 29-B.Powell to NYJ 21 for 4 yards(59-L.Kuechly).'>27.52</number><number>0.22</number>
+<number shadow='shadow1' tooltip='2:15 4-9-NYJ 21NYJ 6 CAR 13 LI: 0.61-R.Quigley punts 35 yards to CAR 44 Center-46-T.Purdum fair catch by 19-T.Ginn.'>27.75</number><number>0.21</number>
+<number shadow='shadow1' tooltip='2:08 1-10-CAR 44NYJ 6 CAR 13 LI: 1.1(Shotgun) 1-C.Newton pass short right to 34-De.Williams to CAR 47 for 3 yards(31-A.Cromartie).'>27.87</number><number>0.22</number>
+<number shadow='shadow1' tooltip='2:00 2-7-CAR 47NYJ 6 CAR 13 LI: 1(Shotgun) 1-C.Newton pass deep right to 88-G.Olsen to NYJ 30 for 23 yards(20-K.Wilson).'>28</number><number>0.17</number>
+<number shadow='shadow1' tooltip='1:32 1-10-NYJ 30NYJ 6 CAR 13 LI: 1.2(No Huddle Shotgun) 1-C.Newton sacked at NYJ 36 for -6 yards(98-Q.Coples).'>28.47</number><number>0.21</number>
+<number shadow='shadow1' tooltip='1:05 2-16-NYJ 36NYJ 6 CAR 13 LI: 0.8(No Huddle Shotgun) 1-C.Newton pass short right to 35-M.Tolbert pushed ob at NYJ 29 for 7 yards(52-D.Harris).'>28.92</number><number>0.2</number>
+<number shadow='shadow1' tooltip='1:00 3-9-NYJ 29NYJ 6 CAR 13 LI: 0.8(Shotgun) 1-C.Newton scrambles right tackle to NYJ 22 for 7 yards(91-S.Richardson).'>29</number><number>0.21</number>
+<number shadow='shadow1' tooltip='0:13 4-2-NYJ 22NYJ 6 CAR 13 LI: 0.59-G.Gano 40 yard field goal is GOOD Center-44-J.Jansen Holder-8-B.Nortman.'>29.78</number><number>0.2</number>
+<number shadow='shadow1' tooltip='0:13 NYJ 6 CAR 16 LI: 9-G.Gano kicks 65 yards from CAR 35 to end zone Touchback.'>29.87</number><number>0.19</number>
+<number shadow='shadow1' tooltip='0:08 NYJ 6 CAR 16 LI: 9-G.Gano kicks 65 yards from CAR 35 to end zone Touchback.'>29.96</number><number>0.19</number>
+<number shadow='shadow1' tooltip='15:00 1-10-NYJ 20NYJ 6 CAR 16 LI: 1.2(Shotgun) 7-G.Smith sacked at NYJ 12 for -8 yards(41-C.Munnerlyn).'>30</number><number>0.15</number>
+<number shadow='shadow1' tooltip='14:28 2-18-NYJ 12NYJ 6 CAR 16 LI: 0.533-C.Ivory right guard to NYJ 14 for 2 yards(41-C.Munnerlyn).'>30.53</number><number>0.15</number>
+<number shadow='shadow1' tooltip='13:54 3-16-NYJ 14NYJ 6 CAR 16 LI: 0.5(Shotgun) 7-G.Smith pass incomplete short middle to 11-J.Kerley.'>31.1</number><number>0.13</number>
+<number shadow='shadow1' tooltip='13:49 4-16-NYJ 14NYJ 6 CAR 16 LI: 0.31-R.Quigley punts 56 yards to CAR 30 Center-46-T.Purdum19-T.Ginn to CAR 31 for 1 yard(37-J.Jarrett).'>31.18</number><number>0.17</number>
+<number shadow='shadow1' tooltip='13:34 1-10-CAR 20NYJ 6 CAR 16 LI: 1.2(Shotgun) 1-C.Newton pass short right to 11-B.LaFell pushed ob at CAR 31 for 11 yards(31-A.Cromartie).'>31.43</number><number>0.15</number>
+<number shadow='shadow1' tooltip='13:06 1-10-CAR 31NYJ 6 CAR 16 LI: 1.234-De.Williams up the middle to CAR 35 for 4 yards(52-D.Harris).'>31.9</number><number>0.16</number>
+<number shadow='shadow1' tooltip='12:22 2-6-CAR 35NYJ 6 CAR 16 LI: 1(Shotgun) 19-T.Ginn left end to CAR 49 for 14 yards(56-D.Davis)Play was end around by #19 Ted Ginn Jr.'>32.63</number><number>0.13</number>
+<number shadow='shadow1' tooltip='11:35 1-10-CAR 49NYJ 6 CAR 16 LI: 1.11-C.Newton pass deep left to 88-G.Olsen to NYJ 33 for 18 yards(22-E.Reed).'>33.42</number><number>0.09</number>
+<number shadow='shadow1' tooltip='10:51 1-10-NYJ 33NYJ 6 CAR 16 LI: 1.235-M.Tolbert left guard to NYJ 34 for -1 yards(98-Q.Coples).'>34.15</number><number>0.11</number>
+<number shadow='shadow1' tooltip='10:05 2-11-NYJ 34NYJ 6 CAR 16 LI: 11-C.Newton scrambles right tackle to NYJ 32 for 2 yards(97-C.Pace).'>34.92</number><number>0.12</number>
+<number shadow='shadow1' tooltip='9:19 3-9-NYJ 32NYJ 6 CAR 16 LI: 0.9(Shotgun) 1-C.Newton pass short right to 19-T.Ginn ran ob at NYJ 22 for 10 yards.'>35.68</number><number>0.07</number>
+<number shadow='shadow1' tooltip='8:41 1-10-NYJ 22NYJ 6 CAR 16 LI: 1.234-De.Williams left guard pushed ob at NYJ 14 for 8 yards(27-D.Milliner).'>36.32</number><number>0.08</number>
+<number shadow='shadow1' tooltip='8:07 2-2-NYJ 14NYJ 6 CAR 16 LI: 11-C.Newton pass incomplete short right to 11-B.LaFell.'>36.88</number><number>0.09</number>
+<number shadow='shadow1' tooltip='7:59 3-2-NYJ 14NYJ 6 CAR 16 LI: 0.9(Shotgun) 1-C.Newton pass incomplete short left to 88-G.Olsen.'>37.02</number><number>0.11</number>
+<number shadow='shadow1' tooltip='7:55 4-2-NYJ 14NYJ 6 CAR 16 LI: 0.7(Shotgun) 1-C.Newton pass incomplete short left to 89-S.Smith (98-Q.Coples).'>37.08</number><number>0.18</number>
+<number shadow='shadow1' tooltip='7:50 1-10-NYJ 14NYJ 6 CAR 16 LI: 133-C.Ivory left guard to NYJ 20 for 6 yards(59-L.Kuechly).'>37.17</number><number>0.17</number>
+<number shadow='shadow1' tooltip='7:15 2-4-NYJ 20NYJ 6 CAR 16 LI: 1.1(No Huddle Shotgun) 7-G.Smith scrambles right end pushed ob at NYJ 29 for 9 yards(58-T.Davis).'>37.75</number><number>0.2</number>
+<number shadow='shadow1' tooltip='6:53 1-10-NYJ 34NYJ 6 CAR 16 LI: 1.1(Shotgun) 29-B.Powell up the middle to NYJ 37 for 3 yards(99-K.Short; 91-C.Cole).'>38.12</number><number>0.19</number>
+<number shadow='shadow1' tooltip='6:10 2-7-NYJ 37NYJ 6 CAR 16 LI: 17-G.Smith pass incomplete deep right to 15-S.Hakim.'>38.83</number><number>0.18</number>
+<number shadow='shadow1' tooltip='6:03 3-7-NYJ 37NYJ 6 CAR 16 LI: 0.9(No Huddle Shotgun) 7-G.Smith pass short middle to 87-J.Cumberland pushed ob at CAR 28 for 35 yards(59-L.Kuechly).'>38.95</number><number>0.26</number>
+<number shadow='shadow1' tooltip='5:27 1-10-CAR 28NYJ 6 CAR 16 LI: 1.17-G.Smith pass short right to 29-B.Powell to CAR 15 for 13 yards(59-L.Kuechly).'>39.55</number><number>0.28</number>
+<number shadow='shadow1' tooltip='4:45 1-10-CAR 15NYJ 6 CAR 16 LI: 1.1(Shotgun) 33-C.Ivory up the middle to CAR 11 for 4 yards(76-G.Hardy).'>40.25</number><number>0.3</number>
+<number shadow='shadow1' tooltip='4:15 2-6-CAR 11NYJ 6 CAR 16 LI: 1.3(No Huddle Shotgun) 7-G.Smith pass incomplete short left to 10-S.Holmes.'>40.75</number><number>0.32</number>
+<number shadow='shadow1' tooltip='4:10 1-2-CAR 2NYJ 6 CAR 16 LI: 1.591-S.Richardson up the middle to CAR 1 for 1 yard(21-M.Mitchell; 93-C.Blackburn)V# 62 Vladimir Ducasse and #91 Sheldon Richardson repoerted as eligible'>40.83</number><number>0.33</number>
+<number shadow='shadow1' tooltip='3:23 2-1-CAR 1NYJ 6 CAR 16 LI: 1.791-S.Richardson up the middle for 1 yard TOUCHDOWN.'>41.62</number><number>0.34</number>
+<number shadow='shadow1' tooltip='3:23 NYJ 6 CAR 16 LI: 2-N.Folk extra point is GOOD Center-46-T.Purdum Holder-1-R.Quigley.'>41.66</number><number>0.34</number>
+<number shadow='shadow1' tooltip='3:23 NYJ 13 CAR 16 LI: 2-N.Folk kicks 60 yards from NYJ 35 to CAR 525-K.Barner to CAR 22 for 17 yards(32-J.Bush).'>41.71</number><number>0.35</number>
+<number shadow='shadow1' tooltip='3:00 1-10-CAR 22NYJ 13 CAR 16 LI: 1.7(Shotgun) 1-C.Newton pass short left to 88-G.Olsen pushed ob at CAR 32 for 10 yards(27-D.Milliner).'>42</number><number>0.33</number>
+<number shadow='shadow1' tooltip='2:28 1-10-CAR 32NYJ 13 CAR 16 LI: 1.6(Shotgun) 34-De.Williams up the middle to CAR 34 for 2 yards(98-Q.Coples).'>42.53</number><number>0.34</number>
+<number shadow='shadow1' tooltip='1:55 2-8-CAR 34NYJ 13 CAR 16 LI: 1.534-De.Williams right end pushed ob at 50 for 16 yards(26-D.Landry).'>43.08</number><number>0.28</number>
+<number shadow='shadow1' tooltip='1:19 1-10-50NYJ 13 CAR 16 LI: 1.735-M.Tolbert left end to NYJ 41 for 9 yards(26-D.Landry).'>43.68</number><number>0.31</number>
+<number shadow='shadow1' tooltip='0:55 1-20-CAR 40NYJ 13 CAR 16 LI: 1.61-C.Newton scrambles left end to CAR 40 for no gain (52-D.Harris).'>44.08</number><number>0.32</number>
+<number shadow='shadow1' tooltip='0:23 1-30-CAR 30NYJ 13 CAR 16 LI: 1.8(Shotgun) 1-C.Newton pass incomplete short middle to 35-M.Tolbert (94-D.Harrison).'>44.62</number><number>0.4</number>
+<number shadow='shadow1' tooltip='0:19 2-30-CAR 30NYJ 13 CAR 16 LI: 1(Shotgun) 35-M.Tolbert left guard to CAR 31 for 1 yard(96-M.Wilkerson; 52-D.Harris).'>44.68</number><number>0.39</number>
+<number shadow='shadow1' tooltip='15:00 3-29-CAR 31NYJ 13 CAR 16 LI: 1(Shotgun) 1-C.Newton pass incomplete deep left to 89-S.Smith.'>45</number><number>0.4</number>
+<number shadow='shadow1' tooltip='14:52 4-29-CAR 31NYJ 13 CAR 16 LI: 0.98-B.Nortman punts 40 yards to NYJ 29 Center-44-J.Jansen20-K.Wilson to NYJ 29 for no gain (42-C.Jones).'>45.13</number><number>0.39</number>
+<number shadow='shadow1' tooltip='14:45 1-10-NYJ 29NYJ 13 CAR 16 LI: 1.6(Shotgun) 33-C.Ivory left guard to NYJ 28 for -1 yards(76-G.Hardy).'>45.25</number><number>0.37</number>
+<number shadow='shadow1' tooltip='14:28 1-20-NYJ 19NYJ 13 CAR 16 LI: 1.6(Shotgun) 7-G.Smith pass incomplete deep right to 86-D.Nelson.'>45.53</number><number>0.34</number>
+<number shadow='shadow1' tooltip='14:21 2-20-NYJ 19NYJ 13 CAR 16 LI: 1.3(Shotgun) 33-C.Ivory right guard to NYJ 27 for 8 yards(58-T.Davis).'>45.65</number><number>0.35</number>
+<number shadow='shadow1' tooltip='13:36 3-12-NYJ 27NYJ 13 CAR 16 LI: 1.2(Shotgun) 7-G.Smith scrambles up the middle to NYJ 30 for 3 yards(99-K.Short).'>46.4</number><number>0.32</number>
+<number shadow='shadow1' tooltip='12:56 4-9-NYJ 30NYJ 13 CAR 16 LI: 0.91-R.Quigley punt is BLOCKED by 54-J.Williams Center-46-T.Purdum recovered by NYJ-50-G.McIntyre at NYJ 1450-G.McIntyre to NYJ 14 for no gain (47-R.Brockel).'>47.07</number><number>0.15</number>
+<number shadow='shadow1' tooltip='12:50 1-10-NYJ 14NYJ 13 CAR 16 LI: 2.134-De.Williams up the middle to NYJ 10 for 4 yards(97-C.Pace; 91-S.Richardson).'>47.17</number><number>0.14</number>
+<number shadow='shadow1' tooltip='12:12 2-6-NYJ 10NYJ 13 CAR 16 LI: 234-De.Williams left guard to NYJ 3 for 7 yards(22-E.Reed).'>47.8</number><number>0.13</number>
+<number shadow='shadow1' tooltip='11:25 1-3-NYJ 3NYJ 13 CAR 16 LI: 235-M.Tolbert left guard for 3 yards TOUCHDOWNH # 63 Geoff Hangartner reported as eligible The Replay Assistant challenged the runner broke the plane ruling and the play was REVERSED35-M.Tolbert left guard to NYJ 1 for 2 yards(52-D.Harris).'>48.58</number><number>0.12</number>
+<number shadow='shadow1' tooltip='11:18 2-1-NYJ 1NYJ 13 CAR 16 LI: 2.135-M.Tolbert up the middle for 1 yard TOUCHDOWN.'>48.7</number><number>0.11</number>
+<number shadow='shadow1' tooltip='11:18 NYJ 13 CAR 16 LI: 9-G.Gano extra point is GOOD Center-44-J.Jansen Holder-8-B.Nortman.'>48.74</number><number>0.11</number>
+<number shadow='shadow1' tooltip='11:18 NYJ 13 CAR 23 LI: 9-G.Gano kicks 65 yards from CAR 35 to end zone Touchback.'>48.79</number><number>0.1</number>
+<number shadow='shadow1' tooltip='11:05 1-10-NYJ 20NYJ 13 CAR 23 LI: 0.67-G.Smith pass short right end to 10-S.Holmes pushed ob at NYJ 29 for 9 yards(23-M.White).'>48.92</number><number>0.11</number>
+<number shadow='shadow1' tooltip='10:45 2-1-NYJ 29NYJ 13 CAR 23 LI: 0.633-C.Ivory up the middle to NYJ 29 for no gain (93-C.Blackburn).'>49.25</number><number>0.11</number>
+<number shadow='shadow1' tooltip='10:20 3-1-NYJ 29NYJ 13 CAR 23 LI: 0.7(No Huddle) 7-G.Smith up the middle to NYJ 31 for 2 yards(92-D.Edwards).'>49.67</number><number>0.11</number>
+<number shadow='shadow1' tooltip='9:46 1-10-NYJ 31NYJ 13 CAR 23 LI: 0.7(No Huddle Shotgun) 7-G.Smith pass short left to 29-B.Powell to NYJ 29 for -2 yards(58-T.Davis).'>50.23</number><number>0.09</number>
+<number shadow='shadow1' tooltip='9:12 2-12-NYJ 29NYJ 13 CAR 23 LI: 0.6(No Huddle Shotgun) 29-B.Powell right tackle to NYJ 30 for 1 yard(90-F.Alexander).'>50.8</number><number>0.08</number>
+<number shadow='shadow1' tooltip='8:30 3-11-NYJ 30NYJ 13 CAR 23 LI: 0.6(Shotgun) 7-G.Smith pass short middle intended for 10-S.Holmes INTERCEPTED by 41-C.Munnerlyn at NYJ 4141-C.Munnerlyn for 41 yards TOUCHDOWN.'>51.5</number><number>0.02</number>
+<number shadow='shadow1' tooltip='8:30 NYJ 13 CAR 23 LI: 9-G.Gano extra point is GOOD Center-44-J.Jansen Holder-8-B.Nortman.'>51.54</number><number>0.02</number>
+<number shadow='shadow1' tooltip='8:30 NYJ 13 CAR 30 LI: 9-G.Gano kicks 74 yards from CAR 20 to NYJ 631-A.Cromartie to NYJ 28 for 22 yards(54-J.Williams; 55-D.Connor).'>51.59</number><number>0.02</number>
+<number shadow='shadow1' tooltip='8:10 1-10-NYJ 28NYJ 13 CAR 30 LI: 0.1(Shotgun) 7-G.Smith pass incomplete short left to 87-J.Cumberland [21-M.Mitchell].'>51.83</number><number>0.02</number>
+<number shadow='shadow1' tooltip='8:00 2-15-NYJ 23NYJ 13 CAR 30 LI: 0.1(Shotgun) 7-G.Smith scrambles right end to NYJ 37 for 14 yards(90-F.Alexander).'>52</number><number>0.02</number>
+<number shadow='shadow1' tooltip='7:13 3-1-NYJ 37NYJ 13 CAR 30 LI: 0.17-G.Smith pass short right to 40-T.Bohanon to NYJ 40 for 3 yards(59-L.Kuechly)V # 62 Vladimir Ducasse reported as eligible'>52.78</number><number>0.02</number>
+<number shadow='shadow1' tooltip='6:39 1-10-NYJ 40NYJ 13 CAR 30 LI: 0.1(No Huddle Shotgun) 7-G.Smith pass incomplete short left to 10-S.Holmes [76-G.Hardy].'>53.35</number><number>0.01</number>
+<number shadow='shadow1' tooltip='6:35 2-10-NYJ 40NYJ 13 CAR 30 LI: 0.1(Shotgun) 7-G.Smith scrambles up the middle to NYJ 46 for 6 yards(27-Q.Mikell).'>53.42</number><number>0.01</number>
+<number shadow='shadow1' tooltip='6:06 3-4-NYJ 46NYJ 13 CAR 30 LI: 0.1(No Huddle Shotgun) 7-G.Smith pass short left to 10-S.Holmes ran ob at CAR 49 for 5 yards.'>53.9</number><number>0.01</number>
+<number shadow='shadow1' tooltip='5:42 1-10-CAR 49NYJ 13 CAR 30 LI: 0.1(No Huddle Shotgun) 7-G.Smith pass incomplete short left to 10-S.Holmes.'>54.3</number><number>0.01</number>
+<number shadow='shadow1' tooltip='5:39 2-10-CAR 49NYJ 13 CAR 30 LI: 0.1(Shotgun) 7-G.Smith pass deep right to 11-J.Kerley to CAR 24 for 25 yards(21-M.Mitchell).'>54.35</number><number>0.02</number>
+<number shadow='shadow1' tooltip='5:10 1-10-CAR 24NYJ 13 CAR 30 LI: 0.1(Shotgun) 7-G.Smith pass short right to 81-K.Winslow ran ob at CAR 12 for 12 yards.'>54.83</number><number>0.04</number>
+<number shadow='shadow1' tooltip='4:45 1-10-CAR 12NYJ 13 CAR 30 LI: 0.3(No Huddle) 7-G.Smith pass incomplete short left to 10-S.Holmes [76-G.Hardy].'>55.25</number><number>0.03</number>
+<number shadow='shadow1' tooltip='4:40 2-10-CAR 12NYJ 13 CAR 30 LI: 0.2(Shotgun) 29-B.Powell up the middle to CAR 8 for 4 yards(98-S.Lotulelei; 59-L.Kuechly).'>55.33</number><number>0.01</number>
+<number shadow='shadow1' tooltip='3:56 3-6-CAR 8NYJ 13 CAR 30 LI: 0.1(Shotgun) 7-G.Smith pass short right to 87-J.Cumberland for 8 yards TOUCHDOWN.'>56.07</number><number>0.04</number>
+<number shadow='shadow1' tooltip='3:56 NYJ 13 CAR 30 LI: 2-N.Folk extra point is GOOD Center-46-T.Purdum Holder-1-R.Quigley.'>56.11</number><number>0.04</number>
+<number shadow='shadow1' tooltip='3:56 NYJ 20 CAR 30 LI: 2-N.Folk kicks onside 7 yards from NYJ 35 to NYJ 4288-G.Olsen (didn&#39;t try to advance) to NYJ 42 for no gain (37-J.Jarrett).'>56.16</number><number>0.01</number>
+<number shadow='shadow1' tooltip='3:49 1-10-NYJ 42NYJ 20 CAR 30 LI: 0.735-M.Tolbert up the middle to NYJ 40 for 2 yards(50-G.McIntyre; 26-D.Landry).'>56.18</number><number>0.01</number>
+<number shadow='shadow1' tooltip='3:05 2-8-NYJ 40NYJ 20 CAR 30 LI: 0.635-M.Tolbert up the middle to NYJ 37 for 3 yards(94-D.Harrison).'>56.92</number><number>0.01</number>
+<number shadow='shadow1' tooltip='2:58 3-5-NYJ 37NYJ 20 CAR 30 LI: 0.535-M.Tolbert left guard to NYJ 32 for 5 yards(52-D.Harris; 91-S.Richardson).'>57.03</number><number>0.01</number>
+<number shadow='shadow1' tooltip='2:52 1-10-NYJ 32NYJ 20 CAR 30 LI: 0.535-M.Tolbert left guard to NYJ 32 for no gain (56-D.Davis).'>57.13</number><number>0.02</number>
+<number shadow='shadow1' tooltip='2:09 2-10-NYJ 32NYJ 20 CAR 30 LI: 0.234-De.Williams up the middle to NYJ 32 for no gain (26-D.Landry).'>57.85</number><number>0.02</number>
+<number shadow='shadow1' tooltip='2:00 3-10-NYJ 32NYJ 20 CAR 30 LI: 0.234-De.Williams left tackle to NYJ 14 for 18 yards(26-D.Landry).'>58</number><number>0.01</number>
+<number shadow='shadow1' tooltip='1:11 1-10-NYJ 14NYJ 20 CAR 30 LI: 0.11-C.Newton kneels to NYJ 15 for -1 yards.'>58.82</number><number>0.01</number>
+<number shadow='shadow1' tooltip='0:35 2-11-NYJ 15NYJ 20 CAR 30 LI: 0.11-C.Newton kneels to NYJ 16 for -1 yards.'>59.42</number><number>0</number>
+<number>60</number><number>0</number>
+</row> </chart_data>
+       <draw>
+
+
+
+      <image x='45' y='298'  url='nfllogos/42x50png/NYJ.gif'  layer='foreground' glow = 'glow1'/>
+      <image x='45' y='350'  url='nfllogos/42x50png/CAR.gif'     layer='foreground' glow = 'glow1'/>
+
+
+      <rect x='130' y='300' width='250' height='40' fill_color='00422f' bevel='bevel1' />
+      <text x='135' y='300' width='250' height='40' h_align='left' v_align='middle' color='ffffff' shadow='shadow2' glow=''>New York Jets</text>
+
+      <rect x='130' y='350' width='250' height='40' fill_color='008acf' bevel='bevel1'  />
+      <text x='135' y='350' width='250' height='40' h_align='left' v_align='middle' color='ffffff' shadow='shadow2' glow='winnerglow'>Carolina Panthers</text>
+
+      <rect x='420' y='300' width='60' height='40' fill_color='00422f' bevel='bevel1'  />
+      <text x='420' y='300' width='60' height='40' h_align='center' v_align='middle' color='ffffff' shadow='shadow2' transition='none' glow=''>20</text>
+
+      <rect x='420' y='350' width='60' height='40' fill_color='008acf' bevel='bevel1' />
+      <text x='420' y='350' width='60' height='40' h_align='center' v_align='middle' color='ffffff' shadow='shadow2' transition='none' glow='winnerglow'>30</text>
+
+      <text x='-3' y='12'  width='60' height='40' h_align='center' v_align='middle' size='13' shadow='shadow2'>NYJWin </text>
+      <text x='-3' y='218' width='60' height='40' h_align='center' v_align='middle' size='13' shadow='shadow2'>CARWin </text>
+
+     
+              <rect x='540' y='300' width='100' height='35' fill_color='000000' fill_alpha='50'/>
+              <text x='540' y='300' width='100' height='35' h_align='center' v_align='middle' color='ffffff' size='15' shadow='shadow2' >Final</text>
+
+              <text x='540' y='340' width='40' h_align='center' color='000000' size='12' shadow='shadow2'>CBF</text>
+              <text x='600' y='340' width='40' h_align='center' color='000000' size='12' shadow='shadow2'>EI</text>
+
+              <rect x='540' y='360' width='40' height='30' fill_color='000000' fill_alpha='50' />
+              <text x='540' y='360' width='40' height='30' size='12' h_align='center' v_align='middle' color='FFFFFF' shadow='shadow2'>2</text>
+
+              <rect x='600' y='360' width='40' height='30' fill_color='000000' fill_alpha='50' />
+              <text x='600' y='360' width='40' height='30' size='12' h_align='center' v_align='middle' color='FFFFFF' shadow='shadow2'>3.4</text>
+
+              <text x='20' y='420' width='70' height='25' size='12' h_align='left' v_align='middle' color='000000' >12/15/2013</text>
+              <text x='100' y='420' width='200' height='25' size='12' h_align='left' v_align='middle' color='000000' >Bank of America Stadium</text>
+
+   </draw></chart>

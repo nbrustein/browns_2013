@@ -1,0 +1,312 @@
+
+<chart>
+   <license>ETAS9P33ESHO.945CWK-2XOI1X0-7L</license>
+   <chart_type>scatter</chart_type>
+   <chart_pref trend_thickness='0' line_thickness='3' point_size='0'/>
+
+   <series_color>
+      <color>ffff00</color>
+   </series_color>
+
+   <chart_rect x='45' y='20' width='630' height='230' positive_color='cacaca'  />
+
+  <chart_border top_thickness='0'
+                 bottom_thickness='0'
+                 left_thickness='0'
+                 right_thickness='0'
+                 color='000000'
+                 />
+
+   <tooltip font='Arial' bold='true' size='11' />
+
+   <chart_note type='flag'
+               color='000000'
+               alpha='90'
+               bold='FALSE'
+               size='10'
+               background_color='ffffe0'
+               background_alpha='50'
+               shadow='shadow2'
+               />
+
+   <chart_grid_h thickness='2' color='ffffff' type='dashed'  />
+   <chart_grid_v thickness='2' color='ffffff'   />
+		>
+
+   <legend layout='hide' />
+
+   <chart_guide horizontal='TRUE'
+             vertical='TRUE'
+             thickness='1'
+             color='006400'
+             alpha='100'
+             type='solid'
+             snap_h='TRUE'
+             snap_v='TRUE'
+             radius='3'
+             fill_color='006400'
+             fill_alpha='100'
+             line_color='006400'
+             line_alpha='80'
+             line_thickness='1'
+             text_h_alpha='50'
+             text_v_alpha='00'
+             suffix_h=' WP'
+             decimals='2'
+             bold='FALSE'
+             size='11'
+             text_color='FFFFFF'
+             background_color='006400'
+             />
+   <filter>
+      <shadow id='shadow1' distance='2' angle='60' blurX='5' blurY='5' alpha='50' />
+      <bevel id='bevel1' angle='45' blurX='5' blurY='5' distance='0' />
+      <glow id='glow1' color='ffffff' alpha='0' blurX='7' blurY='7' strength='6' quality='2' inner='FALSE' knockout='FALSE' />
+      <glow id='winnerglow' color='ffffff' alpha='0' blurX='7' blurY='7' strength='5' quality='2' inner='FALSE' knockout='FALSE' />
+   </filter>
+
+    <axis_value_label>
+         <string></string>
+          <string> </string>
+          <null/>
+          <string> </string>
+          <string></string>
+
+       </axis_value_label>
+		
+	   <axis_ticks category_ticks='false'/>
+
+       <axis_value min='0' max='1' steps='4'  decimals='2' show_min='true' size='13' shadow='shadow2' />     
+            <axis_category
+               min='0'
+               max='60'
+               steps='4'
+               mode='all'
+               decimals='0'
+               size='13'
+               shadow='shadow2'
+               />
+
+       <axis_category_label>
+          <string>Kickoff</string>
+          <string></string>
+          <string>Halftime</string>
+          <string></string>
+          <string>End</string>
+
+       </axis_category_label>
+
+
+        <chart_data>
+       <row>
+	      <null/><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number>
+              <number>x</number><number>y</number>
+              </row><row><string></string>
+
+                     <number shadow='shadow1'>0</number><number>.5</number><number shadow='shadow1' tooltip='15:00 BLT 0 CLV 0 LI: 9-J.Tucker kicks 67 yards from BLT 35 to CLV -235-F.Whittaker to CLV 20 for 22 yards(24-C.Graham; 23-Ch.Brown).'>0.09</number><number>0.48</number>
+<number shadow='shadow1' tooltip='14:20 2-15-CLV 15BLT 0 CLV 0 LI: 1.326-W.McGahee right guard to CLV 19 for 4 yards(55-T.Suggs).'>0.67</number><number>0.52</number>
+<number shadow='shadow1' tooltip='13:43 3-11-CLV 19BLT 0 CLV 0 LI: 1.2(Shotgun) 17-J.Campbell pass short left to 12-J.Gordon to CLV 23 for 4 yards(24-C.Graham).'>1.28</number><number>0.55</number>
+<number shadow='shadow1' tooltip='13:10 4-7-CLV 23BLT 0 CLV 0 LI: 0.8(Punt formation) 5-S.Lanning punts 57 yards to BLT 20 Center-57-C.Yount17-T.Doss to BLT 47 for 27 yards(57-C.Yount).'>1.83</number><number>0.56</number>
+<number shadow='shadow1' tooltip='12:58 1-10-BLT 47BLT 0 CLV 0 LI: 1.3(Shotgun) 5-J.Flacco pass incomplete short left to 12-J.Jones.'>2.03</number><number>0.55</number>
+<number shadow='shadow1' tooltip='12:54 2-10-BLT 47BLT 0 CLV 0 LI: 1.2(No Huddle Shotgun) 27-R.Rice left guard to CLV 48 for 5 yards(92-D.Bryant; 71-A.Rubin).'>2.1</number><number>0.54</number>
+<number shadow='shadow1' tooltip='12:20 3-5-CLV 48BLT 0 CLV 0 LI: 1(Shotgun) 5-J.Flacco pass incomplete deep right to 12-J.Jones (22-B.Skrine).'>2.67</number><number>0.49</number>
+<number shadow='shadow1' tooltip='12:05 4-5-CLV 48BLT 0 CLV 0 LI: 0.5(Punt formation) 4-S.Koch punts 48 yards to end zone Center-46-M.Cox Touchback.'>2.92</number><number>0.48</number>
+<number shadow='shadow1' tooltip='11:28 2-7-CLV 23BLT 0 CLV 0 LI: 1.4(Shotgun) 17-J.Campbell pass incomplete short left to 84-J.CameronPENALTY on BLT-26-M.Elam Defensive Pass Interference 11 yards enforced at CLV 23 - No Play.'>3.53</number><number>0.46</number>
+<number shadow='shadow1' tooltip='11:25 1-10-CLV 34BLT 0 CLV 0 LI: 1.517-J.Campbell pass short right to 18-G.Little to BLT 34 for 32 yards(53-J.McClain) [99-C.Canty].'>3.58</number><number>0.39</number>
+<number shadow='shadow1' tooltip='10:47 1-10-BLT 34BLT 0 CLV 0 LI: 1.5(Shotgun) 47-M.Gray to BLT 33 for 1 yard(99-C.Canty; 97-A.Jones)Direct snap to 47 (MGray)'>4.22</number><number>0.41</number>
+<number shadow='shadow1' tooltip='10:09 2-9-BLT 33BLT 0 CLV 0 LI: 1.317-J.Campbell pass deep right to 12-J.Gordon to BLT 6 for 27 yards(21-L.Webb).'>4.85</number><number>0.32</number>
+<number shadow='shadow1' tooltip='9:28 1-6-BLT 6BLT 0 CLV 0 LI: 1.8(Shotgun) 26-W.McGahee left guard to BLT 5 for 1 yard(92-H.Ngata; 51-D.Smith).'>5.53</number><number>0.32</number>
+<number shadow='shadow1' tooltip='8:52 2-5-BLT 5BLT 0 CLV 0 LI: 1.817-J.Campbell pass incomplete short right to 12-J.Gordon.'>6.13</number><number>0.35</number>
+<number shadow='shadow1' tooltip='8:46 3-5-BLT 5BLT 0 CLV 0 LI: 1.5(Shotgun) 17-J.Campbell pass short left to 25-C.Ogbonnaya to BLT 1 for 4 yards(22-J.Smith).'>6.23</number><number>0.41</number>
+<number shadow='shadow1' tooltip='8:29 4-1-BLT 1BLT 0 CLV 0 LI: 0.9(Pass formation) 17-J.Campbell pass short right to 15-D.Bess for 1 yard TOUCHDOWN.'>6.52</number><number>0.29</number>
+<number shadow='shadow1' tooltip='8:29 BLT 0 CLV 0 LI: 8-B.Cundiff extra point is GOOD Center-57-C.Yount Holder-5-S.Lanning.'>6.56</number><number>0.29</number>
+<number shadow='shadow1' tooltip='8:29 BLT 0 CLV 7 LI: 8-B.Cundiff kicks 65 yards from CLV 35 to end zone Touchback.'>6.61</number><number>0.28</number>
+<number shadow='shadow1' tooltip='8:02 2-1-BLT 29BLT 0 CLV 7 LI: 1.427-R.Rice right guard to BLT 34 for 5 yards(52-D.Jackson).'>6.97</number><number>0.3</number>
+<number shadow='shadow1' tooltip='7:20 1-10-BLT 34BLT 0 CLV 7 LI: 1.4(No Huddle Shotgun) 27-R.Rice right guard to BLT 36 for 2 yards(99-P.Kruger).'>7.67</number><number>0.3</number>
+<number shadow='shadow1' tooltip='6:53 2-8-BLT 36BLT 0 CLV 7 LI: 1.3(Shotgun) 5-J.Flacco pass short right to 83-D.Thompson to BLT 46 for 10 yards(21-C.Owens).'>8.12</number><number>0.32</number>
+<number shadow='shadow1' tooltip='6:17 1-10-BLT 46BLT 0 CLV 7 LI: 1.327-R.Rice left tackle to BLT 44 for -2 yards(43-T.Ward).'>8.72</number><number>0.31</number>
+<number shadow='shadow1' tooltip='5:41 2-12-BLT 44BLT 0 CLV 7 LI: 1.2(Shotgun) 5-J.Flacco pass incomplete short right to 83-D.Thompson (21-C.Owens).'>9.32</number><number>0.3</number>
+<number shadow='shadow1' tooltip='5:35 3-7-BLT 49BLT 0 CLV 7 LI: 1.1(Shotgun) 5-J.Flacco pass deep middle to 17-T.Doss to CLV 28 for 23 yards(22-B.Skrine) [97-J.Sheard].'>9.42</number><number>0.36</number>
+<number shadow='shadow1' tooltip='4:51 1-10-CLV 28BLT 0 CLV 7 LI: 0.9(Shotgun) 27-R.Rice left guard to CLV 24 for 4 yards(43-T.Ward; 93-J.Hughes).'>10.15</number><number>0.4</number>
+<number shadow='shadow1' tooltip='4:10 2-6-CLV 24BLT 0 CLV 7 LI: 1.2(Shotgun) 5-J.Flacco pass incomplete deep right to 14-M.Brown.'>10.83</number><number>0.38</number>
+<number shadow='shadow1' tooltip='4:06 3-6-CLV 24BLT 0 CLV 7 LI: 1(Shotgun) 5-J.Flacco sacked at CLV 33 for -9 yards(54-Q.Groves).'>10.9</number><number>0.3</number>
+<number shadow='shadow1' tooltip='3:38 4-15-CLV 33BLT 0 CLV 7 LI: 0.4(Field Goal formation) 9-J.Tucker 51 yard field goal is GOOD Center-46-M.Cox Holder-4-S.Koch.'>11.37</number><number>0.35</number>
+<number shadow='shadow1' tooltip='3:38 BLT 3 CLV 7 LI: 9-J.Tucker kicks 65 yards from BLT 35 to end zone Touchback.'>11.46</number><number>0.36</number>
+<number shadow='shadow1' tooltip='2:57 2-8-CLV 22BLT 3 CLV 7 LI: 1.617-J.Campbell pass short right to 35-F.Whittaker to CLV 22 for no gain (53-J.McClain) [97-A.Jones].'>12.05</number><number>0.38</number>
+<number shadow='shadow1' tooltip='2:11 3-8-CLV 22BLT 3 CLV 7 LI: 1.4(Shotgun) 17-J.Campbell sacked at CLV 22 for 0 yardsCLV-17-J.Campbell was injured during the playHis return is ProbablePENALTY on BLT-92-H.Ngata Unnecessary Roughness 15 yards enforced at CLV 22.'>12.82</number><number>0.33</number>
+<number shadow='shadow1' tooltip='1:48 1-10-CLV 37BLT 3 CLV 7 LI: 1.412-J.Gordon left end to CLV 47 for 10 yards(51-D.Smith)end around'>13.2</number><number>0.31</number>
+<number shadow='shadow1' tooltip='1:28 1-10-CLV 47BLT 3 CLV 7 LI: 1.326-W.McGahee right guard to BLT 49 for 4 yards(62-T.Cody)PENALTY on CLV-18-G.Little Unsportsmanlike Conduct 15 yards enforced at BLT 49.'>13.53</number><number>0.36</number>
+<number shadow='shadow1' tooltip='1:00 2-21-CLV 36BLT 3 CLV 7 LI: 1.13-B.Weeden pass short left to 25-C.Ogbonnaya to CLV 34 for -2 yards(62-T.Cody).'>14</number><number>0.38</number>
+<number shadow='shadow1' tooltip='0:15 3-23-CLV 34BLT 3 CLV 7 LI: 1(Shotgun) 3-B.Weeden pass incomplete short right to 84-J.Cameron [59-A.Brown].'>14.75</number><number>0.39</number>
+<number shadow='shadow1' tooltip='0:12 4-23-CLV 34BLT 3 CLV 7 LI: 0.95-S.Lanning punts 47 yards to BLT 19 Center-57-C.Yount fair catch by 17-T.DossPENALTY on BLT-91-C.Upshaw Offensive Holding 9 yards enforced at BLT 19.'>14.8</number><number>0.35</number>
+<number shadow='shadow1' tooltip='0:05 1-10-BLT 10BLT 3 CLV 7 LI: 1.4(Shotgun) 5-J.Flacco pass incomplete short right to 84-E.Dickson (52-D.Jackson).'>14.92</number><number>0.34</number>
+<number shadow='shadow1' tooltip='15:00 2-10-BLT 10BLT 3 CLV 7 LI: 1.330-B.Pierce right tackle to BLT 8 for -2 yards(90-B.Winn).'>15</number><number>0.32</number>
+<number shadow='shadow1' tooltip='14:16 3-12-BLT 8BLT 3 CLV 7 LI: 1.2(Shotgun) 5-J.Flacco pass incomplete short right to 17-T.Doss.'>15.73</number><number>0.3</number>
+<number shadow='shadow1' tooltip='14:11 4-12-BLT 8BLT 3 CLV 7 LI: 1(Punt formation) 4-S.Koch punts 47 yards to CLV 45 Center-46-M.Cox10-A.Edwards to CLV 47 for 2 yards(36-J.Miles).'>15.82</number><number>0.31</number>
+<number shadow='shadow1' tooltip='14:03 1-10-CLV 47BLT 3 CLV 7 LI: 1.317-J.Campbell pass short left to 18-G.Little to BLT 46 for 7 yards(22-J.Smith).'>15.95</number><number>0.31</number>
+<number shadow='shadow1' tooltip='13:26 2-3-BLT 46BLT 3 CLV 7 LI: 1.226-W.McGahee right guard to BLT 44 for 2 yards(97-A.Jones).'>16.57</number><number>0.31</number>
+<number shadow='shadow1' tooltip='12:52 3-1-BLT 44BLT 3 CLV 7 LI: 1.1(Run formation) 26-W.McGahee right guard to BLT 42 for 2 yards(53-J.McClain).'>17.13</number><number>0.29</number>
+<number shadow='shadow1' tooltip='12:12 1-10-BLT 42BLT 3 CLV 7 LI: 1.217-J.Campbell pass incomplete short right to 35-F.Whittaker.'>17.8</number><number>0.31</number>
+<number shadow='shadow1' tooltip='12:08 2-10-BLT 42BLT 3 CLV 7 LI: 117-J.Campbell pass short middle to 18-G.Little to BLT 27 for 15 yards(22-J.Smith).'>17.87</number><number>0.27</number>
+<number shadow='shadow1' tooltip='11:22 1-10-BLT 27BLT 3 CLV 7 LI: 1.117-J.Campbell pass short left to 18-G.Little to BLT 12 for 15 yards(32-J.Ihedigbo)PENALTY on CLV-18-G.Little Taunting 15 yards enforced between downs.'>18.63</number><number>0.27</number>
+<number shadow='shadow1' tooltip='10:54 1-10-BLT 27BLT 3 CLV 7 LI: 1.1(Shotgun) 17-J.Campbell pass incomplete short right to 12-J.Gordon.'>19.1</number><number>0.26</number>
+<number shadow='shadow1' tooltip='10:50 2-10-BLT 27BLT 3 CLV 7 LI: 1.2(Shotgun) 17-J.Campbell scrambles left tackle ran ob at BLT 20 for 7 yards(22-J.Smith).'>19.17</number><number>0.24</number>
+<number shadow='shadow1' tooltip='10:16 3-3-BLT 20BLT 3 CLV 7 LI: 1.3(Shotgun) 17-J.Campbell pass short right to 15-D.Bess for 20 yards TOUCHDOWN.'>19.73</number><number>0.17</number>
+<number shadow='shadow1' tooltip='10:16 BLT 3 CLV 7 LI: 8-B.Cundiff extra point is GOOD Center-57-C.Yount Holder-5-S.Lanning.'>19.77</number><number>0.17</number>
+<number shadow='shadow1' tooltip='10:16 BLT 3 CLV 14 LI: 8-B.Cundiff kicks 65 yards from CLV 35 to end zone TouchbackCLV-56-E.Martin was injured during the playHis return is Questionable.'>19.82</number><number>0.16</number>
+<number shadow='shadow1' tooltip='10:08 1-10-BLT 20BLT 3 CLV 14 LI: 0.6(Shotgun) 27-R.Rice right guard to BLT 17 for -3 yards(98-P.Taylor).'>19.87</number><number>0.15</number>
+<number shadow='shadow1' tooltip='9:38 2-13-BLT 17BLT 3 CLV 14 LI: 0.6(Shotgun) 5-J.Flacco pass short right to 12-J.Jones to BLT 26 for 9 yards(21-C.Owens).'>20.37</number><number>0.16</number>
+<number shadow='shadow1' tooltip='9:10 3-4-BLT 26BLT 3 CLV 14 LI: 0.6(Shotgun) 5-J.Flacco sacked at BLT 18 for -8 yards(21-C.Owens).'>20.83</number><number>0.12</number>
+<number shadow='shadow1' tooltip='8:40 4-12-BLT 18BLT 3 CLV 14 LI: 0.34-S.Koch punts 55 yards to CLV 27 Center-46-M.Cox10-A.Edwards to CLV 39 for 12 yards(23-Ch.Brown).'>21.33</number><number>0.12</number>
+<number shadow='shadow1' tooltip='8:27 1-10-CLV 39BLT 3 CLV 14 LI: 1(Shotgun) 17-J.Campbell pass short right to 18-G.Little to CLV 41 for 2 yards(51-D.Smith).'>21.55</number><number>0.12</number>
+<number shadow='shadow1' tooltip='8:01 2-8-CLV 41BLT 3 CLV 14 LI: 126-W.McGahee left guard to CLV 41 for no gain (90-P.McPhee)FUMBLES (90-P.McPhee) RECOVERED by BLT-32-J.Ihedigbo at CLV 3832-J.Ihedigbo to CLV 38 for no gain (18-G.Little).'>21.98</number><number>0.22</number>
+<number shadow='shadow1' tooltip='7:54 1-10-CLV 38BLT 3 CLV 14 LI: 1(Shotgun) 5-J.Flacco pass short left to 27-R.Rice to CLV 38 for no gain (53-C.Robertson).'>22.1</number><number>0.19</number>
+<number shadow='shadow1' tooltip='7:20 2-10-CLV 38BLT 3 CLV 14 LI: 0.7(Shotgun) 27-R.Rice left guard to CLV 36 for 2 yards(39-T.Gipson)PENALTY on BLT-66-G.Gradkowski Offensive Holding 10 yards enforced at CLV 38 - No Play.'>22.67</number><number>0.17</number>
+<number shadow='shadow1' tooltip='6:56 2-20-CLV 48BLT 3 CLV 14 LI: 0.6(Shotgun) 5-J.Flacco pass incomplete deep left to 82-T.Smith.'>23.07</number><number>0.15</number>
+<number shadow='shadow1' tooltip='6:51 3-20-CLV 48BLT 3 CLV 14 LI: 0.4(Shotgun) 5-J.Flacco pass incomplete deep left to 17-T.Doss.'>23.15</number><number>0.14</number>
+<number shadow='shadow1' tooltip='6:45 4-20-CLV 48BLT 3 CLV 14 LI: 0.3(Punt formation) 4-S.Koch punts 36 yards to CLV 12 Center-46-M.Cox fair catch by 15-D.Bess.'>23.25</number><number>0.14</number>
+<number shadow='shadow1' tooltip='6:37 1-10-CLV 12BLT 3 CLV 14 LI: 1.626-W.McGahee right tackle to CLV 16 for 4 yards(51-D.Smith).'>23.38</number><number>0.16</number>
+<number shadow='shadow1' tooltip='5:55 2-6-CLV 16BLT 3 CLV 14 LI: 1(Shotgun) 17-J.Campbell pass short right to 35-F.Whittaker to CLV 21 for 5 yards(55-T.Suggs).'>24.08</number><number>0.15</number>
+<number shadow='shadow1' tooltip='5:21 3-1-CLV 21BLT 3 CLV 14 LI: 1(Shotgun) 17-J.Campbell pass incomplete short middle to 84-J.Cameron (56-J.Bynes).'>24.65</number><number>0.19</number>
+<number shadow='shadow1' tooltip='5:16 4-1-CLV 21BLT 3 CLV 14 LI: 0.6(Punt formation) 5-S.Lanning punts 54 yards to BLT 25 Center-57-C.Yount fair catch by 17-T.Doss.'>24.73</number><number>0.17</number>
+<number shadow='shadow1' tooltip='5:08 1-10-BLT 25BLT 3 CLV 14 LI: 0.9(Shotgun) 30-B.Pierce left guard to BLT 32 for 7 yards(92-D.Bryant; 53-C.Robertson).'>24.87</number><number>0.17</number>
+<number shadow='shadow1' tooltip='4:34 2-3-BLT 32BLT 3 CLV 14 LI: 0.95-J.Flacco pass incomplete short left to 14-M.Brown [92-D.Bryant].'>25.43</number><number>0.16</number>
+<number shadow='shadow1' tooltip='4:30 3-3-BLT 32BLT 3 CLV 14 LI: 0.8(Shotgun) 5-J.Flacco scrambles right guard to BLT 40 for 8 yards(95-A.Bryant).'>25.5</number><number>0.19</number>
+<number shadow='shadow1' tooltip='3:54 1-10-BLT 40BLT 3 CLV 14 LI: 1(Shotgun) 30-B.Pierce left guard to BLT 40 for no gain (43-T.Ward; 21-C.Owens).'>26.1</number><number>0.18</number>
+<number shadow='shadow1' tooltip='3:18 2-10-BLT 40BLT 3 CLV 14 LI: 0.9(Shotgun) 5-J.Flacco pass deep middle intended for 12-J.Jones INTERCEPTED by 23-J.Haden (39-T.Gipson) at CLV 2323-J.Haden to CLV 23 for no gain (12-J.Jones)tipped by 39 Gibson The Replay Assistant challenged the incomplete pass ruling and the play was Upheld.'>26.7</number><number>0.14</number>
+<number shadow='shadow1' tooltip='3:06 1-10-CLV 23BLT 3 CLV 14 LI: 1.235-F.Whittaker left tackle to CLV 34 for 11 yards(51-D.Smith).'>26.9</number><number>0.12</number>
+<number shadow='shadow1' tooltip='2:33 1-10-CLV 34BLT 3 CLV 14 LI: 1.235-F.Whittaker right tackle to CLV 34 for no gain (55-T.Suggs; 92-H.Ngata).'>27.45</number><number>0.13</number>
+<number shadow='shadow1' tooltip='2:00 2-10-CLV 34BLT 3 CLV 14 LI: 1.1(Shotgun) 17-J.Campbell pass incomplete short right to 84-J.Cameron [51-D.Smith].'>28</number><number>0.15</number>
+<number shadow='shadow1' tooltip='1:55 3-10-CLV 34BLT 3 CLV 14 LI: 0.9(Shotgun) 17-J.Campbell sacked at CLV 21 for -13 yards(51-D.Smith).'>28.08</number><number>0.19</number>
+<number shadow='shadow1' tooltip='1:12 4-23-CLV 21BLT 3 CLV 14 LI: 0.7(Punt formation) 5-S.Lanning punts 54 yards to BLT 25 Center-57-C.Yount17-T.Doss to BLT 33 for 8 yards(21-C.Owens).'>28.8</number><number>0.18</number>
+<number shadow='shadow1' tooltip='1:01 1-10-BLT 33BLT 3 CLV 14 LI: 1(Shotgun) 5-J.Flacco sacked at BLT 32 for -1 yards(95-A.Bryant).'>28.98</number><number>0.16</number>
+<number shadow='shadow1' tooltip='0:55 2-11-BLT 32BLT 3 CLV 14 LI: 0.8(Shotgun) 5-J.Flacco pass right to 27-R.Rice to BLT 35 for 3 yards.'>29.08</number><number>0.16</number>
+<number shadow='shadow1' tooltip='0:30 3-8-BLT 35BLT 3 CLV 14 LI: 0.8(No Huddle Shotgun) 5-J.Flacco pass deep right to 82-T.Smith to CLV 19 for 46 yards(23-J.Haden; 21-C.Owens).'>29.5</number><number>0.26</number>
+<number shadow='shadow1' tooltip='0:20 1-10-CLV 19BLT 3 CLV 14 LI: 1.2(Shotgun) 5-J.Flacco pass incomplete short left to 82-T.Smith (23-J.Haden).'>29.67</number><number>0.25</number>
+<number shadow='shadow1' tooltip='0:15 2-10-CLV 19BLT 3 CLV 14 LI: 1.1(Shotgun) 5-J.Flacco pass short right to 14-M.Brown for 19 yards TOUCHDOWN.'>29.75</number><number>0.32</number>
+<number shadow='shadow1' tooltip='0:15 BLT 3 CLV 14 LI: 9-J.Tucker extra point is GOOD Center-46-M.Cox Holder-4-S.Koch.'>29.79</number><number>0.32</number>
+<number shadow='shadow1' tooltip='0:15 BLT 10 CLV 14 LI: 9-J.Tucker kicks 27 yards from BLT 35 to CLV 3829-L.McFadden to CLV 43 for 5 yards(24-C.Graham)squib kick'>29.84</number><number>0.29</number>
+<number shadow='shadow1' tooltip='0:06 1-10-CLV 43BLT 10 CLV 14 LI: 1.5PENALTY on CLV Delay of Game 5 yards enforced at CLV 43 - No Play.'>29.9</number><number>0.3</number>
+<number shadow='shadow1' tooltip='0:01 2-5-CLV 48BLT 10 CLV 14 LI: 1.3(Shotgun) 17-J.Campbell pass incomplete deep middle to 12-J.Gordon (21-L.Webb).'>29.98</number><number>0.36</number>
+<number shadow='shadow1' tooltip='0:01 BLT 10 CLV 14 LI: 8-B.Cundiff kicks 68 yards from CLV 35 to BLT -312-J.Jones to BLT 20 for 23 yards(33-J.Poyer).'>30.07</number><number>0.34</number>
+<number shadow='shadow1' tooltip='14:55 1-10-BLT 20BLT 10 CLV 14 LI: 1.1(Shotgun) 27-R.Rice left guard to BLT 23 for 3 yards(97-J.Sheard).'>30.08</number><number>0.34</number>
+<number shadow='shadow1' tooltip='14:31 2-7-BLT 23BLT 10 CLV 14 LI: 1.1(Shotgun) 5-J.Flacco pass short right to 82-T.Smith to BLT 31 for 8 yards(53-C.Robertson).'>30.48</number><number>0.36</number>
+<number shadow='shadow1' tooltip='14:04 1-10-BLT 31BLT 10 CLV 14 LI: 1.1(No Huddle Shotgun) 5-J.Flacco pass short left to 84-E.Dickson to BLT 34 for 3 yards(43-T.Ward).'>30.93</number><number>0.37</number>
+<number shadow='shadow1' tooltip='13:31 2-7-BLT 34BLT 10 CLV 14 LI: 1.2(Shotgun) PENALTY on BLT-68-A.Shipley False Start 5 yards enforced at BLT 34 - No Play.'>31.48</number><number>0.35</number>
+<number shadow='shadow1' tooltip='13:14 2-12-BLT 29BLT 10 CLV 14 LI: 1.1(Shotgun) 5-J.Flacco pass incomplete deep left to 14-M.Brown.'>31.77</number><number>0.33</number>
+<number shadow='shadow1' tooltip='13:07 3-12-BLT 29BLT 10 CLV 14 LI: 0.9(Shotgun) 5-J.Flacco scrambles right end to BLT 44 for 15 yards(52-D.Jackson).'>31.88</number><number>0.4</number>
+<number shadow='shadow1' tooltip='12:36 1-10-BLT 44BLT 10 CLV 14 LI: 1.4(Shotgun) 27-R.Rice right guard to BLT 45 for 1 yard(51-B.Mingo; 56-E.Martin).'>32.4</number><number>0.38</number>
+<number shadow='shadow1' tooltip='12:04 2-9-BLT 45BLT 10 CLV 14 LI: 1.2(Shotgun) 5-J.Flacco pass short right to 14-M.Brown to CLV 47 for 8 yards(52-D.Jackson).'>32.93</number><number>0.4</number>
+<number shadow='shadow1' tooltip='11:17 3-1-CLV 47BLT 10 CLV 14 LI: 1.330-B.Pierce right guard to CLV 44 for 3 yards(51-B.Mingo).'>33.72</number><number>0.42</number>
+<number shadow='shadow1' tooltip='10:45 1-10-CLV 44BLT 10 CLV 14 LI: 1.4(Shotgun) 5-J.Flacco pass incomplete short left to 82-T.Smith.'>34.25</number><number>0.4</number>
+<number shadow='shadow1' tooltip='10:41 2-10-CLV 44BLT 10 CLV 14 LI: 1.2(Shotgun) 5-J.Flacco pass short left to 82-T.Smith to CLV 32 for 12 yards(52-D.Jackson; 23-J.Haden).'>34.32</number><number>0.46</number>
+<number shadow='shadow1' tooltip='10:00 1-10-CLV 32BLT 10 CLV 14 LI: 1.6(No Huddle Shotgun) 5-J.Flacco pass short right to 83-D.Thompson to CLV 24 for 8 yards(21-C.Owens)PENALTY on BLT-83-D.Thompson Illegal Touch Pass 5 yards enforced at CLV 32 - No Play.'>35</number><number>0.44</number>
+<number shadow='shadow1' tooltip='9:32 1-15-CLV 37BLT 10 CLV 14 LI: 1.6(Shotgun) 5-J.Flacco pass incomplete deep right to 14-M.Brown.'>35.47</number><number>0.39</number>
+<number shadow='shadow1' tooltip='9:27 2-15-CLV 37BLT 10 CLV 14 LI: 1.1(Shotgun) 5-J.Flacco pass incomplete deep left to 84-E.Dickson.'>35.55</number><number>0.37</number>
+<number shadow='shadow1' tooltip='9:22 3-15-CLV 37BLT 10 CLV 14 LI: 0.9(Shotgun) 5-J.Flacco sacked at CLV 45 for -8 yards(43-T.Ward).'>35.63</number><number>0.32</number>
+<number shadow='shadow1' tooltip='8:50 4-23-CLV 45BLT 10 CLV 14 LI: 0.5(Punt formation) 4-S.Koch punts 45 yards to end zone Center-46-M.Cox Touchback.'>36.17</number><number>0.31</number>
+<number shadow='shadow1' tooltip='8:43 1-10-CLV 20BLT 10 CLV 14 LI: 1.8(Shotgun) 17-J.Campbell pass short right to 18-G.Little to CLV 25 for 5 yards(21-L.Webb).'>36.28</number><number>0.31</number>
+<number shadow='shadow1' tooltip='8:13 2-5-CLV 25BLT 10 CLV 14 LI: 1.7(Shotgun) 17-J.Campbell pass incomplete short left to 18-G.Little (51-D.Smith)PENALTY on BLT-51-D.Smith Unnecessary Roughness 15 yards enforced at CLV 25.'>36.78</number><number>0.28</number>
+<number shadow='shadow1' tooltip='8:09 1-10-CLV 40BLT 10 CLV 14 LI: 1.6(Shotgun) 26-W.McGahee left guard to CLV 40 for no gain (91-C.Upshaw; 51-D.Smith).'>36.85</number><number>0.29</number>
+<number shadow='shadow1' tooltip='7:26 2-10-CLV 40BLT 10 CLV 14 LI: 1.417-J.Campbell pass incomplete short left to 10-A.EdwardsPENALTY on CLV-12-J.Gordon Offensive Pass Interference 10 yards enforced at CLV 40 - No Play.'>37.57</number><number>0.32</number>
+<number shadow='shadow1' tooltip='7:21 2-20-CLV 30BLT 10 CLV 14 LI: 1.4(Shotgun) 17-J.Campbell pass short right to 25-C.Ogbonnaya to CLV 36 for 6 yards(21-L.Webb).'>37.65</number><number>0.32</number>
+<number shadow='shadow1' tooltip='6:48 3-14-CLV 36BLT 10 CLV 14 LI: 1.2(Shotgun) 17-J.Campbell pass short left to 12-J.Gordon to CLV 49 for 13 yards(24-C.Graham; 32-J.Ihedigbo).'>38.2</number><number>0.32</number>
+<number shadow='shadow1' tooltip='6:01 4-1-CLV 49BLT 10 CLV 14 LI: 0.9(Punt formation) 5-S.Lanning punts 38 yards to BLT 13 Center-57-C.Yount17-T.Doss MUFFS catch touched at BLT 13 RECOVERED by CLV-56-E.Martin at BLT 1156-E.Martin to BLT 11 for no gain (24-C.Graham).'>38.98</number><number>0.18</number>
+<number shadow='shadow1' tooltip='5:50 1-10-BLT 11BLT 10 CLV 14 LI: 1.2PENALTY on BLT Defensive 12 On-field 5 yards enforced at BLT 11 - No Play.'>39.17</number><number>0.17</number>
+<number shadow='shadow1' tooltip='5:16 2-3-BLT 4BLT 10 CLV 14 LI: 1.4(Shotgun) 17-J.Campbell pass short right to 82-G.Barnidge for 4 yards TOUCHDOWN.'>39.73</number><number>0.15</number>
+<number shadow='shadow1' tooltip='5:16 BLT 10 CLV 14 LI: 8-B.Cundiff extra point is GOOD Center-57-C.Yount Holder-5-S.Lanning.'>39.77</number><number>0.15</number>
+<number shadow='shadow1' tooltip='5:16 BLT 10 CLV 21 LI: 8-B.Cundiff kicks 60 yards from CLV 35 to BLT 512-J.Jones to BLT 27 for 22 yards(95-A.Bryant).'>39.82</number><number>0.15</number>
+<number shadow='shadow1' tooltip='5:06 1-10-BLT 27BLT 10 CLV 21 LI: 130-B.Pierce left end to BLT 24 for -3 yards(71-A.Rubin).'>39.9</number><number>0.13</number>
+<number shadow='shadow1' tooltip='4:34 2-13-BLT 24BLT 10 CLV 21 LI: 0.8(Shotgun) 5-J.Flacco pass short left to 12-J.Jones to BLT 27 for 3 yards(99-P.Kruger) [71-A.Rubin].'>40.43</number><number>0.12</number>
+<number shadow='shadow1' tooltip='3:57 3-10-BLT 27BLT 10 CLV 21 LI: 0.7(Shotgun) 5-J.Flacco pass short left to 87-D.Clark to BLT 41 for 14 yards(43-T.Ward)Quarterback Scramble'>41.05</number><number>0.16</number>
+<number shadow='shadow1' tooltip='3:20 1-10-BLT 41BLT 10 CLV 21 LI: 0.9(Shotgun) 5-J.Flacco pass incomplete short right to 27-R.Rice (99-P.Kruger).'>41.67</number><number>0.15</number>
+<number shadow='shadow1' tooltip='3:15 2-10-BLT 41BLT 10 CLV 21 LI: 0.8(Shotgun) 27-R.Rice left guard to BLT 44 for 3 yards(53-C.Robertson; 52-D.Jackson).'>41.75</number><number>0.14</number>
+<number shadow='shadow1' tooltip='2:33 3-7-BLT 44BLT 10 CLV 21 LI: 0.7(Shotgun) 5-J.Flacco pass short right to 17-T.Doss to 50 for 6 yards(22-B.Skrine)QB scramble'>42.45</number><number>0.12</number>
+<number shadow='shadow1' tooltip='1:55 4-1-50BLT 10 CLV 21 LI: 0.5(Punt formation) 4-S.Koch punts 42 yards to CLV 8 Center-46-M.Cox fair catch by 15-D.Bess.'>43.08</number><number>0.13</number>
+<number shadow='shadow1' tooltip='1:48 1-10-CLV 8BLT 10 CLV 21 LI: 1.426-W.McGahee right guard to CLV 10 for 2 yards(97-A.Jones).'>43.2</number><number>0.13</number>
+<number shadow='shadow1' tooltip='1:11 2-8-CLV 10BLT 10 CLV 21 LI: 1.3(Shotgun) 17-J.Campbell pass short right to 84-J.Cameron to CLV 14 for 4 yards(21-L.Webb).'>43.82</number><number>0.12</number>
+<number shadow='shadow1' tooltip='0:27 3-4-CLV 14BLT 10 CLV 21 LI: 1.3(Shotgun) 17-J.Campbell scrambles left tackle to CLV 15 for 1 yard(24-C.Graham).'>44.55</number><number>0.15</number>
+<number shadow='shadow1' tooltip='15:00 4-3-CLV 15BLT 10 CLV 21 LI: 0.7(Punt formation) 5-S.Lanning punts 53 yards to BLT 32 Center-57-C.Yount17-T.Doss to CLV 32 for 36 yards(25-C.Ogbonnaya)CLV-56-E.Martin was injured during the playHis return is Probable.'>45</number><number>0.19</number>
+<number shadow='shadow1' tooltip='14:47 1-10-CLV 32BLT 10 CLV 21 LI: 1(Shotgun) 5-J.Flacco pass short left to 14-M.Brown to CLV 18 for 14 yards(23-J.Haden).'>45.22</number><number>0.21</number>
+<number shadow='shadow1' tooltip='14:18 1-10-CLV 18BLT 10 CLV 21 LI: 1.1(Shotgun) 5-J.Flacco pass short right to 82-T.Smith to CLV 14 for 4 yards(23-J.Haden).'>45.7</number><number>0.23</number>
+<number shadow='shadow1' tooltip='13:43 2-6-CLV 14BLT 10 CLV 21 LI: 1.4(Shotgun) 5-J.Flacco pass short left to 83-D.Thompson to CLV 9 for 5 yards(21-C.Owens).'>46.28</number><number>0.25</number>
+<number shadow='shadow1' tooltip='12:58 3-1-CLV 9BLT 10 CLV 21 LI: 1.644-V.Leach right guard to CLV 7 for 2 yards(93-J.Hughes)71 Wagner eligble receiver'>47.03</number><number>0.24</number>
+<number shadow='shadow1' tooltip='12:15 1-7-CLV 7BLT 10 CLV 21 LI: 1.6(Shotgun) 5-J.Flacco pass short left to 14-M.Brown for 7 yards TOUCHDOWN.'>47.75</number><number>0.32</number>
+<number shadow='shadow1' tooltip='12:15 BLT 18 CLV 21 LI: 9-J.Tucker kicks 65 yards from BLT 35 to end zone Touchback.'>47.84</number><number>0.34</number>
+<number shadow='shadow1' tooltip='12:09 1-10-CLV 20BLT 18 CLV 21 LI: 1.9(Shotgun) 17-J.Campbell pass incomplete short right to 15-D.Bess.'>47.85</number><number>0.35</number>
+<number shadow='shadow1' tooltip='12:06 2-10-CLV 20BLT 18 CLV 21 LI: 1.817-J.Campbell pass incomplete short right to 25-C.Ogbonnaya.'>47.9</number><number>0.38</number>
+<number shadow='shadow1' tooltip='12:01 3-10-CLV 20BLT 18 CLV 21 LI: 1.5(Shotgun) 17-J.Campbell pass deep middle to 18-G.Little to BLT 34 for 46 yards(24-C.Graham).'>47.98</number><number>0.21</number>
+<number shadow='shadow1' tooltip='11:29 1-10-BLT 34BLT 18 CLV 21 LI: 1.926-W.McGahee right guard to BLT 34 for no gain (26-M.Elam).'>48.52</number><number>0.23</number>
+<number shadow='shadow1' tooltip='11:04 2-10-BLT 34BLT 18 CLV 21 LI: 1.7(Shotgun) 17-J.Campbell pass incomplete short middle to 84-J.Cameron.'>48.93</number><number>0.26</number>
+<number shadow='shadow1' tooltip='10:59 3-10-BLT 34BLT 18 CLV 21 LI: 1.4(Shotgun) 17-J.Campbell pass incomplete short left to 12-J.Gordon.'>49.02</number><number>0.31</number>
+<number shadow='shadow1' tooltip='10:56 4-10-BLT 34BLT 18 CLV 21 LI: 0.9(Field Goal formation) 8-B.Cundiff punts 34 yards to end zone Center-57-C.Yount Touchbackdirect snap to 8 Cundiff punts the ball'>49.07</number><number>0.35</number>
+<number shadow='shadow1' tooltip='10:49 1-10-BLT 20BLT 18 CLV 21 LI: 1.7(Shotgun) 5-J.Flacco pass short left to 14-M.Brown to BLT 26 for 6 yards(22-B.Skrine).'>49.18</number><number>0.36</number>
+<number shadow='shadow1' tooltip='10:36 2-4-BLT 26BLT 18 CLV 21 LI: 1.8(No Huddle Shotgun) 27-R.Rice right guard to BLT 24 for -2 yards(51-B.Mingo; 43-T.Ward).'>49.4</number><number>0.32</number>
+<number shadow='shadow1' tooltip='9:56 3-6-BLT 24BLT 18 CLV 21 LI: 1.5(Shotgun) 5-J.Flacco sacked at BLT 14 for -10 yards(95-A.Bryant)PENALTY on CLV-43-T.Ward Defensive Holding 5 yards enforced at BLT 24 - No Play.'>50.07</number><number>0.37</number>
+<number shadow='shadow1' tooltip='9:51 1-10-BLT 29BLT 18 CLV 21 LI: 1.9(Shotgun) 5-J.Flacco pass incomplete short right to 12-J.Jones (21-C.Owens).'>50.15</number><number>0.36</number>
+<number shadow='shadow1' tooltip='9:47 2-10-BLT 29BLT 18 CLV 21 LI: 1.8(Shotgun) 30-B.Pierce right guard to BLT 35 for 6 yards(53-C.Robertson; 52-D.Jackson).'>50.22</number><number>0.36</number>
+<number shadow='shadow1' tooltip='9:14 3-4-BLT 35BLT 18 CLV 21 LI: 1.8(Shotgun) 5-J.Flacco pass short right to 12-J.Jones to BLT 38 for 3 yards(21-C.Owens).'>50.77</number><number>0.29</number>
+<number shadow='shadow1' tooltip='8:47 4-1-BLT 38BLT 18 CLV 21 LI: 1.15-J.Flacco right guard to BLT 40 for 2 yards(97-J.Sheard; 52-D.Jackson)71 Wagner eligible'>51.22</number><number>0.41</number>
+<number shadow='shadow1' tooltip='8:04 1-10-BLT 40BLT 18 CLV 21 LI: 2.4(Shotgun) 5-J.Flacco pass short left to 12-J.Jones to BLT 46 for 6 yards(52-D.Jackson).'>51.93</number><number>0.42</number>
+<number shadow='shadow1' tooltip='7:36 2-4-BLT 46BLT 18 CLV 21 LI: 2.5(Shotgun) 27-R.Rice left tackle to BLT 47 for 1 yard(90-B.Winn).'>52.4</number><number>0.37</number>
+<number shadow='shadow1' tooltip='6:58 3-3-BLT 47BLT 18 CLV 21 LI: 2(Shotgun) 5-J.Flacco sacked at BLT 46 for -1 yards(97-J.Sheard).'>53.03</number><number>0.27</number>
+<number shadow='shadow1' tooltip='6:50 4-4-BLT 46BLT 18 CLV 21 LI: 1(Punt formation) 4-S.Koch punts 25 yards to CLV 29 Center-46-M.Cox out of bounds.'>53.17</number><number>0.25</number>
+<number shadow='shadow1' tooltip='6:44 1-10-CLV 29BLT 18 CLV 21 LI: 2.517-J.Campbell pass incomplete short left to 18-G.Little (24-C.Graham).'>53.27</number><number>0.26</number>
+<number shadow='shadow1' tooltip='6:41 2-10-CLV 29BLT 18 CLV 21 LI: 2.426-W.McGahee left guard to CLV 36 for 7 yards(91-C.Upshaw; 53-J.McClain).'>53.32</number><number>0.23</number>
+<number shadow='shadow1' tooltip='6:00 3-3-CLV 36BLT 18 CLV 21 LI: 2.2(Shotgun) 17-J.Campbell scrambles left end to CLV 48 for 12 yards(32-J.Ihedigbo).'>54</number><number>0.15</number>
+<number shadow='shadow1' tooltip='5:25 1-10-CLV 48BLT 18 CLV 21 LI: 2.6(Shotgun) 17-J.Campbell pass short right to 35-F.Whittaker to BLT 44 for 8 yards(53-J.McClain).'>54.58</number><number>0.12</number>
+<number shadow='shadow1' tooltip='4:43 2-2-BLT 44BLT 18 CLV 21 LI: 2.526-W.McGahee right guard to BLT 43 for 1 yard(99-C.Canty).'>55.28</number><number>0.12</number>
+<number shadow='shadow1' tooltip='3:58 3-1-BLT 43BLT 18 CLV 21 LI: 2.326-W.McGahee right guard to BLT 43 for no gain (92-H.Ngata)BWinn (90) reporting eligible'>56.03</number><number>0.16</number>
+<number shadow='shadow1' tooltip='3:12 4-1-BLT 43BLT 18 CLV 21 LI: 1.9(Shotgun) 17-J.Campbell pass short right to 15-D.Bess to BLT 40 for 3 yards(21-L.Webb).'>56.8</number><number>0.07</number>
+<number shadow='shadow1' tooltip='2:18 1-10-BLT 40BLT 18 CLV 21 LI: 2.326-W.McGahee right guard to BLT 37 for 3 yards(99-C.Canty).'>57.7</number><number>0.05</number>
+<number shadow='shadow1' tooltip='2:13 2-7-BLT 37BLT 18 CLV 21 LI: 2.2(Shotgun) 17-J.Campbell pass short middle to 25-C.Ogbonnaya to BLT 20 for 17 yards(51-D.Smith).'>57.78</number><number>0.04</number>
+<number shadow='shadow1' tooltip='2:05 1-10-BLT 20BLT 18 CLV 21 LI: 1.326-W.McGahee right guard to BLT 23 for -3 yards(26-M.Elam).'>57.92</number><number>0.12</number>
+<number shadow='shadow1' tooltip='2:00 2-13-BLT 23BLT 18 CLV 21 LI: 0.6(Shotgun) 17-J.Campbell pass short left to 25-C.Ogbonnaya to BLT 9 for 14 yards(32-J.Ihedigbo)PENALTY on BLT-32-J.Ihedigbo Horse Collar Tackle 5 yards enforced at BLT 9Shovel pass off QB scramble'>58</number><number>0.08</number>
+<number shadow='shadow1' tooltip='1:51 1-4-BLT 4BLT 18 CLV 21 LI: 0.326-W.McGahee right guard to BLT 4 for no gain (98-B.Williams; 92-H.Ngata).'>58.15</number><number>0.04</number>
+<number shadow='shadow1' tooltip='1:46 2-4-BLT 4BLT 18 CLV 21 LI: 0.726-W.McGahee right guard to BLT 4 for no gain (97-A.Jones; 32-J.Ihedigbo).'>58.23</number><number>0.03</number>
+<number shadow='shadow1' tooltip='1:03 3-4-BLT 4BLT 18 CLV 21 LI: 0.326-W.McGahee left guard to BLT 4 for no gain (55-T.Suggs; 21-L.Webb).'>58.95</number><number>0.03</number>
+<number shadow='shadow1' tooltip='0:17 4-4-BLT 4BLT 18 CLV 21 LI: 0.1(Field Goal formation) 8-B.Cundiff 22 yard field goal is GOOD Center-57-C.Yount Holder-5-S.Lanning.'>59.72</number><number>0.04</number>
+<number shadow='shadow1' tooltip='0:17 BLT 18 CLV 24 LI: 8-B.Cundiff kicks 65 yards from CLV 35 to end zone Touchback.'>59.81</number><number>0.02</number>
+<number shadow='shadow1' tooltip='0:07 1-10-BLT 34BLT 18 CLV 24 LI: 0.5(Shotgun) 5-J.Flacco pass short right to 27-R.Rice to CLV 48 for 18 yards(23-J.Haden; 53-C.Robertson).'>59.88</number><number>0</number>
+<number>60</number><number>0</number>
+</row> </chart_data>
+       <draw>
+
+
+
+      <image x='45' y='298'  url='nfllogos/42x50png/BLT.gif'  layer='foreground' glow = 'glow1'/>
+      <image x='45' y='350'  url='nfllogos/42x50png/CLV.gif'     layer='foreground' glow = 'glow1'/>
+
+
+      <rect x='130' y='300' width='250' height='40' fill_color='023273' bevel='bevel1' />
+      <text x='135' y='300' width='250' height='40' h_align='left' v_align='middle' color='ffffff' shadow='shadow2' glow=''>Baltimore Ravens</text>
+
+      <rect x='130' y='350' width='250' height='40' fill_color='522b20' bevel='bevel1'  />
+      <text x='135' y='350' width='250' height='40' h_align='left' v_align='middle' color='ffffff' shadow='shadow2' glow='winnerglow'>Cleveland Browns</text>
+
+      <rect x='420' y='300' width='60' height='40' fill_color='023273' bevel='bevel1'  />
+      <text x='420' y='300' width='60' height='40' h_align='center' v_align='middle' color='ffffff' shadow='shadow2' transition='none' glow=''>18</text>
+
+      <rect x='420' y='350' width='60' height='40' fill_color='522b20' bevel='bevel1' />
+      <text x='420' y='350' width='60' height='40' h_align='center' v_align='middle' color='ffffff' shadow='shadow2' transition='none' glow='winnerglow'>24</text>
+
+      <text x='-3' y='12'  width='60' height='40' h_align='center' v_align='middle' size='13' shadow='shadow2'>BLTWin </text>
+      <text x='-3' y='218' width='60' height='40' h_align='center' v_align='middle' size='13' shadow='shadow2'>CLVWin </text>
+
+     
+              <rect x='540' y='300' width='100' height='35' fill_color='000000' fill_alpha='50'/>
+              <text x='540' y='300' width='100' height='35' h_align='center' v_align='middle' color='ffffff' size='15' shadow='shadow2' >Final</text>
+
+              <text x='540' y='340' width='40' h_align='center' color='000000' size='12' shadow='shadow2'>CBF</text>
+              <text x='600' y='340' width='40' h_align='center' color='000000' size='12' shadow='shadow2'>EI</text>
+
+              <rect x='540' y='360' width='40' height='30' fill_color='000000' fill_alpha='50' />
+              <text x='540' y='360' width='40' height='30' size='12' h_align='center' v_align='middle' color='FFFFFF' shadow='shadow2'>2</text>
+
+              <rect x='600' y='360' width='40' height='30' fill_color='000000' fill_alpha='50' />
+              <text x='600' y='360' width='40' height='30' size='12' h_align='center' v_align='middle' color='FFFFFF' shadow='shadow2'>4.6</text>
+
+              <text x='20' y='420' width='70' height='25' size='12' h_align='left' v_align='middle' color='000000' >11/3/2013</text>
+              <text x='100' y='420' width='200' height='25' size='12' h_align='left' v_align='middle' color='000000' >FirstEnergy Stadium</text>
+
+   </draw></chart>

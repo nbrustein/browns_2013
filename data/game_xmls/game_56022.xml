@@ -1,0 +1,322 @@
+
+<chart>
+   <license>ETAS9P33ESHO.945CWK-2XOI1X0-7L</license>
+   <chart_type>scatter</chart_type>
+   <chart_pref trend_thickness='0' line_thickness='3' point_size='0'/>
+
+   <series_color>
+      <color>ffff00</color>
+   </series_color>
+
+   <chart_rect x='45' y='20' width='630' height='230' positive_color='cacaca'  />
+
+  <chart_border top_thickness='0'
+                 bottom_thickness='0'
+                 left_thickness='0'
+                 right_thickness='0'
+                 color='000000'
+                 />
+
+   <tooltip font='Arial' bold='true' size='11' />
+
+   <chart_note type='flag'
+               color='000000'
+               alpha='90'
+               bold='FALSE'
+               size='10'
+               background_color='ffffe0'
+               background_alpha='50'
+               shadow='shadow2'
+               />
+
+   <chart_grid_h thickness='2' color='ffffff' type='dashed'  />
+   <chart_grid_v thickness='2' color='ffffff'   />
+		>
+
+   <legend layout='hide' />
+
+   <chart_guide horizontal='TRUE'
+             vertical='TRUE'
+             thickness='1'
+             color='006400'
+             alpha='100'
+             type='solid'
+             snap_h='TRUE'
+             snap_v='TRUE'
+             radius='3'
+             fill_color='006400'
+             fill_alpha='100'
+             line_color='006400'
+             line_alpha='80'
+             line_thickness='1'
+             text_h_alpha='50'
+             text_v_alpha='00'
+             suffix_h=' WP'
+             decimals='2'
+             bold='FALSE'
+             size='11'
+             text_color='FFFFFF'
+             background_color='006400'
+             />
+   <filter>
+      <shadow id='shadow1' distance='2' angle='60' blurX='5' blurY='5' alpha='50' />
+      <bevel id='bevel1' angle='45' blurX='5' blurY='5' distance='0' />
+      <glow id='glow1' color='ffffff' alpha='0' blurX='7' blurY='7' strength='6' quality='2' inner='FALSE' knockout='FALSE' />
+      <glow id='winnerglow' color='ffffff' alpha='0' blurX='7' blurY='7' strength='5' quality='2' inner='FALSE' knockout='FALSE' />
+   </filter>
+
+    <axis_value_label>
+         <string></string>
+          <string> </string>
+          <null/>
+          <string> </string>
+          <string></string>
+
+       </axis_value_label>
+		
+	   <axis_ticks category_ticks='false'/>
+
+       <axis_value min='0' max='1' steps='4'  decimals='2' show_min='true' size='13' shadow='shadow2' />     
+            <axis_category
+               min='0'
+               max='60'
+               steps='4'
+               mode='all'
+               decimals='0'
+               size='13'
+               shadow='shadow2'
+               />
+
+       <axis_category_label>
+          <string>Kickoff</string>
+          <string></string>
+          <string>Halftime</string>
+          <string></string>
+          <string>End</string>
+
+       </axis_category_label>
+
+
+        <chart_data>
+       <row>
+	      <null/><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number>
+              <number>x</number><number>y</number>
+              </row><row><string></string>
+
+                     <number shadow='shadow1'>0</number><number>.5</number><number shadow='shadow1' tooltip='15:00 ARZ 0 PHI 0 LI: 6-A.Henery kicks 65 yards from PHI 35 to ARZ 035-J.Arenas to ARZ 26 for 26 yards(85-J.Casey).'>0.09</number><number>0.53</number>
+<number shadow='shadow1' tooltip='14:53 1-10-ARZ 26ARZ 0 PHI 0 LI: 1.628-R.Mendenhall left tackle to ARZ 28 for 2 yards(95-M.Kendricks).'>0.12</number><number>0.51</number>
+<number shadow='shadow1' tooltip='14:20 2-8-ARZ 28ARZ 0 PHI 0 LI: 1.3(Shotgun) 3-C.Palmer pass short right to 12-A.Roberts to ARZ 31 for 3 yards(29-N.Allen; 95-M.Kendricks).'>0.67</number><number>0.5</number>
+<number shadow='shadow1' tooltip='13:32 3-5-ARZ 31ARZ 0 PHI 0 LI: 1.1(Shotgun) 3-C.Palmer sacked at ARZ 23 for -8 yards(58-T.Cole)FUMBLES (58-T.Cole) RECOVERED by PHI-96-B.Logan at ARZ 2596-B.Logan to ARZ 25 for no gain (63-L.Sendlein).'>1.47</number><number>0.37</number>
+<number shadow='shadow1' tooltip='13:26 1-10-ARZ 25ARZ 0 PHI 0 LI: 1.6(Shotgun) 9-N.Foles pass short left to 87-B.Celek pushed ob at ARZ 22 for 3 yards(58-D.Washington).'>1.57</number><number>0.37</number>
+<number shadow='shadow1' tooltip='13:19 2-7-ARZ 22ARZ 0 PHI 0 LI: 1.5(No Huddle Shotgun) 9-N.Foles pass incomplete short left to 87-B.Celek (56-K.Dansby).'>1.68</number><number>0.4</number>
+<number shadow='shadow1' tooltip='13:17 3-7-ARZ 22ARZ 0 PHI 0 LI: 1.2(No Huddle Shotgun) 9-N.Foles pass short middle to 87-B.Celek to ARZ 6 for 16 yards(56-K.Dansby).'>1.72</number><number>0.32</number>
+<number shadow='shadow1' tooltip='12:35 1-6-ARZ 6ARZ 0 PHI 0 LI: 1.8(No Huddle Shotgun) 9-N.Foles pass short right to 86-Z.Ertz for 6 yards TOUCHDOWN.'>2.42</number><number>0.29</number>
+<number shadow='shadow1' tooltip='12:35 ARZ 0 PHI 0 LI: 6-A.Henery extra point is GOOD Center-46-J.Dorenbos Holder-8-D.Jones.'>2.46</number><number>0.29</number>
+<number shadow='shadow1' tooltip='12:35 ARZ 0 PHI 7 LI: 6-A.Henery kicks 65 yards from PHI 35 to end zone Touchback.'>2.51</number><number>0.28</number>
+<number shadow='shadow1' tooltip='11:49 2-6-ARZ 24ARZ 0 PHI 7 LI: 1.43-C.Palmer pass short left to 15-M.Floyd to ARZ 35 for 11 yards(26-C.Williams).'>3.18</number><number>0.3</number>
+<number shadow='shadow1' tooltip='11:15 1-10-ARZ 35ARZ 0 PHI 7 LI: 1.328-R.Mendenhall right end to ARZ 37 for 2 yards(72-C.Thornton).'>3.75</number><number>0.31</number>
+<number shadow='shadow1' tooltip='10:39 2-8-ARZ 37ARZ 0 PHI 7 LI: 1.430-S.Taylor right end to ARZ 40 for 3 yards(95-M.Kendricks).'>4.35</number><number>0.3</number>
+<number shadow='shadow1' tooltip='9:56 3-5-ARZ 40ARZ 0 PHI 7 LI: 1.2(Shotgun) 3-C.Palmer pass short right to 13-J.Brown to ARZ 46 for 6 yards(24-B.Fletcher).'>5.07</number><number>0.34</number>
+<number shadow='shadow1' tooltip='9:30 1-10-PHI 39ARZ 0 PHI 7 LI: 13-C.Palmer pass deep right intended for 15-M.Floyd INTERCEPTED by 29-N.Allen (59-D.Ryans) at PHI 529-N.Allen to PHI 48 for 43 yards(79-B.Sowell).'>5.5</number><number>0.21</number>
+<number shadow='shadow1' tooltip='9:14 1-10-PHI 48ARZ 0 PHI 7 LI: 1.2(Shotgun) 9-N.Foles sacked at PHI 41 for -7 yards(56-K.Dansby).'>5.77</number><number>0.24</number>
+<number shadow='shadow1' tooltip='8:56 2-17-PHI 41ARZ 0 PHI 7 LI: 1(No Huddle) 25-L.McCoy left end to PHI 42 for 1 yard(90-D.Dockett; 56-K.Dansby).'>6.07</number><number>0.26</number>
+<number shadow='shadow1' tooltip='8:23 3-16-PHI 42ARZ 0 PHI 7 LI: 0.8(Shotgun) 9-N.Foles scrambles left end to PHI 49 for 7 yards(93-C.Campbell).'>6.62</number><number>0.28</number>
+<number shadow='shadow1' tooltip='7:50 4-9-PHI 49ARZ 0 PHI 7 LI: 0.58-D.Jones punts 40 yards to ARZ 11 Center-46-J.Dorenbos fair catch by 21-P.Peterson.'>7.17</number><number>0.27</number>
+<number shadow='shadow1' tooltip='7:45 1-10-ARZ 11ARZ 0 PHI 7 LI: 1.428-R.Mendenhall up the middle to ARZ 19 for 8 yards(59-D.Ryans).'>7.25</number><number>0.28</number>
+<number shadow='shadow1' tooltip='7:14 2-2-ARZ 19ARZ 0 PHI 7 LI: 1.528-R.Mendenhall right end to ARZ 24 for 5 yards(72-C.Thornton).'>7.77</number><number>0.29</number>
+<number shadow='shadow1' tooltip='6:42 1-10-ARZ 24ARZ 0 PHI 7 LI: 1.53-C.Palmer pass short right to 81-J.Dray to ARZ 41 for 17 yards(98-C.Barwin).'>8.3</number><number>0.31</number>
+<number shadow='shadow1' tooltip='6:01 1-10-ARZ 41ARZ 0 PHI 7 LI: 1.328-R.Mendenhall up the middle to ARZ 46 for 5 yards(59-D.Ryans).'>8.98</number><number>0.32</number>
+<number shadow='shadow1' tooltip='5:24 2-5-ARZ 46ARZ 0 PHI 7 LI: 1.328-R.Mendenhall up the middle to ARZ 47 for 1 yard(72-C.Thornton).'>9.6</number><number>0.31</number>
+<number shadow='shadow1' tooltip='4:43 3-4-ARZ 47ARZ 0 PHI 7 LI: 1.1(Shotgun) 3-C.Palmer pass incomplete short right to 84-R.Housler.'>10.28</number><number>0.29</number>
+<number shadow='shadow1' tooltip='4:39 4-4-ARZ 47ARZ 0 PHI 7 LI: 0.99-D.Zastudil punts 35 yards to PHI 18 Center-82-M.Leach fair catch by 10-D.Jackson.'>10.35</number><number>0.29</number>
+<number shadow='shadow1' tooltip='4:31 1-10-PHI 18ARZ 0 PHI 7 LI: 0.8(Shotgun) 9-N.Foles pass deep left to 86-Z.Ertz to PHI 40 for 22 yards(37-Y.Bell).'>10.48</number><number>0.23</number>
+<number shadow='shadow1' tooltip='4:08 1-10-PHI 40ARZ 0 PHI 7 LI: 1.1(No Huddle) 25-L.McCoy right end to PHI 42 for 2 yards(58-D.Washington).'>10.87</number><number>0.23</number>
+<number shadow='shadow1' tooltip='3:41 2-8-PHI 42ARZ 0 PHI 7 LI: 1.1(No Huddle Shotgun) 25-L.McCoy right end to PHI 43 for 1 yard(58-D.Washington).'>11.32</number><number>0.24</number>
+<number shadow='shadow1' tooltip='3:20 3-7-PHI 43ARZ 0 PHI 7 LI: 1(No Huddle Shotgun) 25-L.McCoy right tackle to PHI 48 for 5 yards(59-M.Benard).'>11.67</number><number>0.28</number>
+<number shadow='shadow1' tooltip='2:52 4-2-PHI 48ARZ 0 PHI 7 LI: 0.58-D.Jones punts 43 yards to ARZ 9 Center-46-J.Dorenbos21-P.Peterson to ARZ 12 for 3 yards(30-C.Anderson).'>12.13</number><number>0.27</number>
+<number shadow='shadow1' tooltip='2:42 1-10-ARZ 12ARZ 0 PHI 7 LI: 1.4(Shotgun) 3-C.Palmer pass short right to 30-S.Taylor to ARZ 28 for 16 yards(59-D.Ryans).'>12.3</number><number>0.29</number>
+<number shadow='shadow1' tooltip='2:05 1-10-ARZ 28ARZ 0 PHI 7 LI: 1.43-C.Palmer pass short right to 11-L.Fitzgerald to ARZ 37 for 9 yards(24-B.Fletcher).'>12.92</number><number>0.3</number>
+<number shadow='shadow1' tooltip='1:31 2-1-ARZ 37ARZ 0 PHI 7 LI: 1.328-R.Mendenhall right guard to PHI 49 for 14 yards(59-D.Ryans).'>13.48</number><number>0.33</number>
+<number shadow='shadow1' tooltip='0:53 1-10-PHI 49ARZ 0 PHI 7 LI: 1.23-C.Palmer sacked at ARZ 42 for -9 yards(59-D.Ryans).'>14.12</number><number>0.29</number>
+<number shadow='shadow1' tooltip='0:20 2-19-ARZ 42ARZ 0 PHI 7 LI: 1(Shotgun) 3-C.Palmer pass short left to 10-B.Golden to ARZ 46 for 4 yards(26-C.Williams).'>14.67</number><number>0.29</number>
+<number shadow='shadow1' tooltip='15:00 3-15-ARZ 46ARZ 0 PHI 7 LI: 0.9(Shotgun) 3-C.Palmer pass incomplete deep right to 12-A.Roberts.'>15</number><number>0.28</number>
+<number shadow='shadow1' tooltip='14:54 4-15-ARZ 46ARZ 0 PHI 7 LI: 0.89-D.Zastudil punts 52 yards to PHI 2 Center-82-M.Leach downed by ARZ-23-B.McCann.'>15.1</number><number>0.3</number>
+<number shadow='shadow1' tooltip='14:44 1-10-PHI 2ARZ 0 PHI 7 LI: 1.4(Shotgun) 9-N.Foles pass short right to 25-L.McCoy pushed ob at PHI 8 for 6 yards(91-M.Shaughnessy).'>15.27</number><number>0.3</number>
+<number shadow='shadow1' tooltip='14:23 2-4-PHI 8ARZ 0 PHI 7 LI: 1.4(No Huddle Shotgun) 25-L.McCoy left end ran ob at PHI 13 for 5 yards(25-J.Powers).'>15.62</number><number>0.3</number>
+<number shadow='shadow1' tooltip='14:07 1-10-PHI 13ARZ 0 PHI 7 LI: 1.4(No Huddle Shotgun) 9-N.Foles pass short right to 10-D.Jackson pushed ob at PHI 27 for 14 yards(37-Y.Bell).'>15.88</number><number>0.26</number>
+<number shadow='shadow1' tooltip='13:41 1-10-PHI 27ARZ 0 PHI 7 LI: 0.9(No Huddle Shotgun) 34-B.Brown right guard to PHI 33 for 6 yards(56-K.Dansby).'>16.32</number><number>0.24</number>
+<number shadow='shadow1' tooltip='13:18 2-4-PHI 33ARZ 0 PHI 7 LI: 1(No Huddle Shotgun) 34-B.Brown left end ran ob at PHI 25 for -8 yards(58-D.Washington).'>16.7</number><number>0.28</number>
+<number shadow='shadow1' tooltip='12:45 3-12-PHI 25ARZ 0 PHI 7 LI: 0.7(No Huddle Shotgun) 9-N.Foles pass short right to 86-Z.Ertz to PHI 25 for no gain (58-D.Washington).'>17.25</number><number>0.3</number>
+<number shadow='shadow1' tooltip='12:18 4-12-PHI 25ARZ 0 PHI 7 LI: 0.58-D.Jones punts 37 yards to ARZ 38 Center-46-J.Dorenbos35-J.Arenas MUFFS catch recovered by ARZ-20-A.Cason at ARZ 2720-A.Cason to ARZ 43 for 16 yards(30-C.Anderson)FUMBLES (30-C.Anderson) RECOVERED by PHI-85-J.Casey at ARZ 4685-J.Casey to ARZ 46 for no gain (52-J.Brinkley)The Replay Assistant challenged the fumble ruling and the play was REVERSED8-D.Jones punts 37 yards to ARZ 3835-J.Arenas MUFFS catch recovered by ARZ-20-A.Cason at ARZ 2720-A.Cason to ARZ 43 for 16 yards(42-K.Coleman).'>17.7</number><number>0.31</number>
+<number shadow='shadow1' tooltip='12:03 1-10-ARZ 43ARZ 0 PHI 7 LI: 1.23-C.Palmer pass incomplete deep left to 10-B.Golden (23-P.Chung).'>17.95</number><number>0.3</number>
+<number shadow='shadow1' tooltip='11:57 2-10-ARZ 43ARZ 0 PHI 7 LI: 1.130-S.Taylor left end to ARZ 48 for 5 yards(96-B.Logan).'>18.05</number><number>0.3</number>
+<number shadow='shadow1' tooltip='11:14 3-5-ARZ 48ARZ 0 PHI 7 LI: 1(Shotgun) 3-C.Palmer pass short middle to 12-A.Roberts to PHI 47 for 5 yards(95-M.Kendricks)Philadelphia challenged the first down ruling and the play was REVERSED(Shotgun) 3-C.Palmer pass short middle to 12-A.Roberts to PHI 48 for 4 yards(95-M.Kendricks).'>18.77</number><number>0.28</number>
+<number shadow='shadow1' tooltip='10:35 4-1-PHI 48ARZ 0 PHI 7 LI: 0.728-R.Mendenhall right tackle to PHI 45 for 3 yards(59-D.Ryans).'>19.42</number><number>0.32</number>
+<number shadow='shadow1' tooltip='9:56 1-10-PHI 45ARZ 0 PHI 7 LI: 128-R.Mendenhall right tackle to PHI 33 for 12 yards(24-B.Fletcher).'>20.07</number><number>0.34</number>
+<number shadow='shadow1' tooltip='9:18 1-10-PHI 33ARZ 0 PHI 7 LI: 128-R.Mendenhall right guard to PHI 33 for no gain (55-B.Graham; 95-M.Kendricks).'>20.7</number><number>0.33</number>
+<number shadow='shadow1' tooltip='8:36 2-10-PHI 33ARZ 0 PHI 7 LI: 0.93-C.Palmer sacked at PHI 43 for -10 yards(55-B.Graham 96-B.Logan).'>21.4</number><number>0.29</number>
+<number shadow='shadow1' tooltip='7:59 3-20-PHI 43ARZ 0 PHI 7 LI: 0.7(Shotgun) 3-C.Palmer pass deep left to 11-L.Fitzgerald for 43 yards TOUCHDOWN.'>22.02</number><number>0.47</number>
+<number shadow='shadow1' tooltip='7:59 ARZ 0 PHI 7 LI: 4-J.Feely extra point is GOOD Center-82-M.Leach Holder-9-D.Zastudil.'>22.06</number><number>0.47</number>
+<number shadow='shadow1' tooltip='7:59 ARZ 7 PHI 7 LI: 4-J.Feely kicks 66 yards from ARZ 35 to PHI -122-B.Boykin to PHI 22 for 23 yards(35-J.Arenas).'>22.11</number><number>0.48</number>
+<number shadow='shadow1' tooltip='7:44 1-10-PHI 22ARZ 7 PHI 7 LI: 1.4(No Huddle Shotgun) 9-N.Foles pass short right to 25-L.McCoy to PHI 41 for 19 yards(37-Y.Bell).'>22.27</number><number>0.45</number>
+<number shadow='shadow1' tooltip='7:17 1-10-PHI 41ARZ 7 PHI 7 LI: 1.3(No Huddle) 25-L.McCoy right end to 50 for 9 yards(90-D.Dockett).'>22.72</number><number>0.44</number>
+<number shadow='shadow1' tooltip='6:54 2-1-50ARZ 7 PHI 7 LI: 1.3(No Huddle) 9-N.Foles pass deep left to 81-J.Avant to ARZ 30 for 20 yards(32-T.Mathieu).'>23.1</number><number>0.39</number>
+<number shadow='shadow1' tooltip='6:26 1-10-ARZ 30ARZ 7 PHI 7 LI: 1.5(No Huddle Shotgun) 9-N.Foles pass incomplete short left to 14-R.Cooper [58-D.Washington].'>23.57</number><number>0.4</number>
+<number shadow='shadow1' tooltip='6:20 2-10-ARZ 30ARZ 7 PHI 7 LI: 1.4(No Huddle Shotgun) 9-N.Foles pass short left to 14-R.Cooper to ARZ 6 for 24 yards(26-R.Johnson).'>23.67</number><number>0.31</number>
+<number shadow='shadow1' tooltip='5:44 1-6-ARZ 6ARZ 7 PHI 7 LI: 1.9(No Huddle Shotgun) 16-B.Smith FUMBLES (Aborted) at ARZ 12 and recovers at ARZ 1116-B.Smith to ARZ 10 for 1 yard(55-J.Abraham).'>24.27</number><number>0.33</number>
+<number shadow='shadow1' tooltip='5:08 2-10-ARZ 10ARZ 7 PHI 7 LI: 1.7(No Huddle) 25-L.McCoy up the middle to ARZ 8 for 2 yards(91-M.Shaughnessy).'>24.87</number><number>0.35</number>
+<number shadow='shadow1' tooltip='4:37 3-8-ARZ 8ARZ 7 PHI 7 LI: 1.5(No Huddle Shotgun) 9-N.Foles sacked at ARZ 14 for -6 yards(55-J.Abraham).'>25.38</number><number>0.4</number>
+<number shadow='shadow1' tooltip='4:05 4-14-ARZ 14ARZ 7 PHI 7 LI: 16-A.Henery 32 yard field goal is GOOD Center-46-J.Dorenbos Holder-8-D.Jones.'>25.92</number><number>0.4</number>
+<number shadow='shadow1' tooltip='4:05 ARZ 7 PHI 10 LI: 6-A.Henery kicks 64 yards from PHI 35 to ARZ 135-J.Arenas to ARZ 22 for 21 yards(42-K.Coleman).'>26.01</number><number>0.39</number>
+<number shadow='shadow1' tooltip='3:56 1-10-ARZ 22ARZ 7 PHI 10 LI: 13-C.Palmer pass short middle to 81-J.Dray to ARZ 28 for 6 yards(59-D.Ryans).'>26.07</number><number>0.41</number>
+<number shadow='shadow1' tooltip='3:23 2-4-ARZ 28ARZ 7 PHI 10 LI: 1.228-R.Mendenhall left tackle to ARZ 33 for 5 yards(96-B.Logan).'>26.62</number><number>0.41</number>
+<number shadow='shadow1' tooltip='2:47 1-10-ARZ 33ARZ 7 PHI 10 LI: 1.13-C.Palmer pass incomplete short right to 15-M.Floyd (91-F.Cox).'>27.22</number><number>0.41</number>
+<number shadow='shadow1' tooltip='2:43 2-10-ARZ 33ARZ 7 PHI 10 LI: 1.1(Shotgun) 3-C.Palmer pass incomplete short right to 12-A.Roberts (24-B.Fletcher 58-T.Cole).'>27.28</number><number>0.4</number>
+<number shadow='shadow1' tooltip='2:38 3-10-ARZ 33ARZ 7 PHI 10 LI: 1(Shotgun) 3-C.Palmer pass incomplete short left to 15-M.Floyd.'>27.37</number><number>0.37</number>
+<number shadow='shadow1' tooltip='2:32 4-10-ARZ 33ARZ 7 PHI 10 LI: 0.79-D.Zastudil punts 48 yards to PHI 19 Center-82-M.Leach10-D.Jackson to PHI 22 for 3 yards(31-J.Bethel).'>27.47</number><number>0.38</number>
+<number shadow='shadow1' tooltip='2:22 1-10-PHI 22ARZ 7 PHI 10 LI: 1.5(Shotgun) 9-N.Foles pass deep right to 10-D.Jackson ran ob at PHI 47 for 25 yards(21-P.Peterson).'>27.63</number><number>0.33</number>
+<number shadow='shadow1' tooltip='2:06 1-10-PHI 47ARZ 7 PHI 10 LI: 1.4(No Huddle Shotgun) 9-N.Foles pass incomplete deep left to 81-J.Avant.'>27.9</number><number>0.34</number>
+<number shadow='shadow1' tooltip='2:01 2-10-PHI 47ARZ 7 PHI 10 LI: 1.3(No Huddle Shotgun) 9-N.Foles pass short right to 25-L.McCoy pushed ob at ARZ 48 for 5 yards(21-P.Peterson).'>27.98</number><number>0.34</number>
+<number shadow='shadow1' tooltip='1:52 3-5-ARZ 48ARZ 7 PHI 10 LI: 1.2(Shotgun) 9-N.Foles pass short right to 25-L.McCoy pushed ob at ARZ 42 for 6 yards(58-D.Washington).'>28.13</number><number>0.31</number>
+<number shadow='shadow1' tooltip='1:46 1-10-ARZ 42ARZ 7 PHI 10 LI: 1.3(No Huddle Shotgun) 9-N.Foles pass incomplete deep right to 10-D.Jackson (21-P.Peterson).'>28.23</number><number>0.32</number>
+<number shadow='shadow1' tooltip='1:38 2-10-ARZ 42ARZ 7 PHI 10 LI: 1.2(Shotgun) 9-N.Foles pass incomplete short right to 81-J.Avant (21-P.Peterson).'>28.37</number><number>0.34</number>
+<number shadow='shadow1' tooltip='1:33 3-10-ARZ 42ARZ 7 PHI 10 LI: 1(No Huddle Shotgun) 9-N.Foles pass short right to 14-R.Cooper to ARZ 34 for 8 yards(26-R.Johnson).'>28.45</number><number>0.36</number>
+<number shadow='shadow1' tooltip='0:43 4-2-ARZ 34ARZ 7 PHI 10 LI: 0.5(Shotgun) 25-L.McCoy up the middle to ARZ 29 for 5 yards(59-M.Benard).'>29.28</number><number>0.28</number>
+<number shadow='shadow1' tooltip='0:25 1-10-ARZ 29ARZ 7 PHI 10 LI: 1.1(No Huddle) 9-N.Foles pass incomplete deep left to 14-R.Cooper.'>29.58</number><number>0.2</number>
+<number shadow='shadow1' tooltip='0:19 1-1-ARZ 1ARZ 7 PHI 10 LI: 1.5(Shotgun) 9-N.Foles pass short right to 87-B.Celek for 1 yard TOUCHDOWN.'>29.68</number><number>0.2</number>
+<number shadow='shadow1' tooltip='0:19 ARZ 7 PHI 10 LI: 6-A.Henery extra point is GOOD Center-46-J.Dorenbos Holder-8-D.Jones.'>29.72</number><number>0.2</number>
+<number shadow='shadow1' tooltip='0:19 ARZ 7 PHI 17 LI: 6-A.Henery kicks 54 yards from PHI 35 to ARZ 1135-J.Arenas to ARZ 22 for 11 yards(21-R.Carmichael).'>29.77</number><number>0.19</number>
+<number shadow='shadow1' tooltip='0:11 1-10-ARZ 22ARZ 7 PHI 17 LI: 1.13-C.Palmer kneels to ARZ 21 for -1 yards.'>29.82</number><number>0.16</number>
+<number shadow='shadow1' tooltip='0:11 ARZ 7 PHI 17 LI: 4-J.Feely kicks 65 yards from ARZ 35 to end zone Touchback.'>29.91</number><number>0.17</number>
+<number shadow='shadow1' tooltip='15:00 1-10-PHI 20ARZ 7 PHI 17 LI: 1.2(No Huddle Shotgun) 9-N.Foles pass short right to 25-L.McCoy pushed ob at PHI 20 for no gain (56-K.Dansby).'>30</number><number>0.18</number>
+<number shadow='shadow1' tooltip='14:39 2-10-PHI 20ARZ 7 PHI 17 LI: 1.1(No Huddle Shotgun) 9-N.Foles up the middle to PHI 29 for 9 yards.'>30.35</number><number>0.17</number>
+<number shadow='shadow1' tooltip='14:17 3-1-PHI 29ARZ 7 PHI 17 LI: 1.1(No Huddle Shotgun) 9-N.Foles up the middle to PHI 32 for 3 yards(58-D.Washington).'>30.72</number><number>0.15</number>
+<number shadow='shadow1' tooltip='13:52 1-10-PHI 32ARZ 7 PHI 17 LI: 1.2(No Huddle Shotgun) 25-L.McCoy right end to PHI 32 for no gain (93-C.Campbell).'>31.13</number><number>0.16</number>
+<number shadow='shadow1' tooltip='13:12 2-10-PHI 32ARZ 7 PHI 17 LI: 1.1(No Huddle Shotgun) 9-N.Foles pass incomplete short right to 14-R.Cooper.'>31.8</number><number>0.18</number>
+<number shadow='shadow1' tooltip='13:07 3-10-PHI 32ARZ 7 PHI 17 LI: 0.9(Shotgun) 9-N.Foles pass short left to 14-R.Cooper to PHI 48 for 16 yards(25-J.Powers).'>31.88</number><number>0.13</number>
+<number shadow='shadow1' tooltip='12:44 1-10-PHI 48ARZ 7 PHI 17 LI: 1.1(No Huddle) 34-B.Brown left end to ARZ 47 for 5 yards(91-M.Shaughnessy).'>32.27</number><number>0.13</number>
+<number shadow='shadow1' tooltip='12:15 2-5-ARZ 47ARZ 7 PHI 17 LI: 1(No Huddle Shotgun) 9-N.Foles pass short right to 10-D.Jackson to 50 for -3 yards(32-T.Mathieu).'>32.75</number><number>0.16</number>
+<number shadow='shadow1' tooltip='11:30 3-8-50ARZ 7 PHI 17 LI: 0.8(No Huddle Shotgun) 9-N.Foles pass short right to 86-Z.Ertz to ARZ 34 for 16 yards(26-R.Johnson).'>33.5</number><number>0.09</number>
+<number shadow='shadow1' tooltip='11:05 1-10-ARZ 34ARZ 7 PHI 17 LI: 1.2(No Huddle) 9-N.Foles pass incomplete short right to 81-J.Avant (92-D.Williams).'>33.92</number><number>0.11</number>
+<number shadow='shadow1' tooltip='11:02 2-10-ARZ 34ARZ 7 PHI 17 LI: 1(No Huddle Shotgun) 25-L.McCoy right tackle to ARZ 22 for 12 yards(56-K.Dansby).'>33.97</number><number>0.07</number>
+<number shadow='shadow1' tooltip='10:37 1-10-ARZ 22ARZ 7 PHI 17 LI: 1.2(No Huddle) 9-N.Foles FUMBLES (Aborted) at ARZ 22 ball out of bounds at ARZ 24.'>34.38</number><number>0.11</number>
+<number shadow='shadow1' tooltip='10:21 2-12-ARZ 24ARZ 7 PHI 17 LI: 0.9(Shotgun) 9-N.Foles pass deep middle to 86-Z.Ertz for 24 yards TOUCHDOWN.'>34.65</number><number>0.08</number>
+<number shadow='shadow1' tooltip='10:21 ARZ 7 PHI 17 LI: 6-A.Henery extra point is GOOD Center-46-J.Dorenbos Holder-8-D.Jones.'>34.69</number><number>0.08</number>
+<number shadow='shadow1' tooltip='10:21 ARZ 7 PHI 24 LI: 6-A.Henery kicks 66 yards from PHI 35 to ARZ -135-J.Arenas to ARZ 20 for 21 yards(50-C.Matthews).'>34.74</number><number>0.07</number>
+<number shadow='shadow1' tooltip='10:10 1-10-ARZ 20ARZ 7 PHI 24 LI: 0.428-R.Mendenhall right tackle to ARZ 27 for 7 yards(29-N.Allen).'>34.83</number><number>0.06</number>
+<number shadow='shadow1' tooltip='9:38 2-3-ARZ 27ARZ 7 PHI 24 LI: 0.228-R.Mendenhall right tackle to ARZ 30 for 3 yards(29-N.Allen).'>35.37</number><number>0.07</number>
+<number shadow='shadow1' tooltip='8:56 1-10-ARZ 30ARZ 7 PHI 24 LI: 0.428-R.Mendenhall right tackle to ARZ 30 for no gain (95-M.Kendricks).'>36.07</number><number>0.07</number>
+<number shadow='shadow1' tooltip='8:29 1-20-ARZ 20ARZ 7 PHI 24 LI: 0.5(Shotgun) 3-C.Palmer pass short left to 30-S.Taylor pushed ob at ARZ 49 for 29 yards(29-N.Allen).'>36.52</number><number>0.08</number>
+<number shadow='shadow1' tooltip='8:03 1-10-ARZ 49ARZ 7 PHI 24 LI: 0.43-C.Palmer pass incomplete deep middle to 11-L.Fitzgerald (26-C.Williams).'>36.95</number><number>0.06</number>
+<number shadow='shadow1' tooltip='7:59 2-10-ARZ 49ARZ 7 PHI 24 LI: 0.3(Shotgun) 3-C.Palmer pass short left to 84-R.Housler to PHI 41 for 10 yards.'>37.02</number><number>0.07</number>
+<number shadow='shadow1' tooltip='7:29 1-10-PHI 41ARZ 7 PHI 24 LI: 0.43-C.Palmer pass short right to 84-R.Housler to PHI 36 for 5 yards(29-N.Allen).'>37.52</number><number>0.06</number>
+<number shadow='shadow1' tooltip='6:47 2-5-PHI 36ARZ 7 PHI 24 LI: 0.23-C.Palmer pass short right to 11-L.Fitzgerald to PHI 29 for 7 yards(29-N.Allen).'>38.22</number><number>0.08</number>
+<number shadow='shadow1' tooltip='6:09 1-10-PHI 29ARZ 7 PHI 24 LI: 0.43-C.Palmer pass incomplete deep left to 15-M.Floyd.'>38.85</number><number>0.08</number>
+<number shadow='shadow1' tooltip='6:03 1-10-PHI 24ARZ 7 PHI 24 LI: 0.528-R.Mendenhall left end to PHI 23 for 1 yard(72-C.Thornton; 98-C.Barwin).'>38.95</number><number>0.08</number>
+<number shadow='shadow1' tooltip='5:25 2-9-PHI 23ARZ 7 PHI 24 LI: 0.5(Shotgun) 3-C.Palmer pass incomplete deep right to 11-L.Fitzgerald.'>39.58</number><number>0.08</number>
+<number shadow='shadow1' tooltip='5:20 3-9-PHI 23ARZ 7 PHI 24 LI: 0.5(Shotgun) 3-C.Palmer pass deep right to 15-M.Floyd for 23 yards TOUCHDOWN.'>39.67</number><number>0.15</number>
+<number shadow='shadow1' tooltip='5:20 ARZ 7 PHI 24 LI: 4-J.Feely extra point is GOOD Center-82-M.Leach Holder-9-D.Zastudil.'>39.71</number><number>0.15</number>
+<number shadow='shadow1' tooltip='5:20 ARZ 14 PHI 24 LI: 4-J.Feely kicks 67 yards from ARZ 35 to PHI -216-B.Smith to PHI 29 for 31 yards(10-B.Golden).'>39.76</number><number>0.15</number>
+<number shadow='shadow1' tooltip='5:08 1-10-PHI 29ARZ 14 PHI 24 LI: 1(Shotgun) 9-N.Foles pass incomplete short left to 10-D.Jackson (93-C.Campbell).'>39.87</number><number>0.15</number>
+<number shadow='shadow1' tooltip='5:02 2-10-PHI 29ARZ 14 PHI 24 LI: 1(No Huddle Shotgun) 25-L.McCoy up the middle to PHI 27 for -2 yards(91-M.Shaughnessy).'>39.97</number><number>0.17</number>
+<number shadow='shadow1' tooltip='4:30 3-12-PHI 27ARZ 14 PHI 24 LI: 0.8(No Huddle Shotgun) 9-N.Foles sacked at PHI 14 for -13 yards(91-M.Shaughnessy).'>40.5</number><number>0.21</number>
+<number shadow='shadow1' tooltip='4:00 4-25-PHI 14ARZ 14 PHI 24 LI: 0.98-D.Jones punts 69 yards to ARZ 17 Center-46-J.Dorenbos downed by PHI-42-K.Coleman.'>41</number><number>0.16</number>
+<number shadow='shadow1' tooltip='3:45 1-10-ARZ 17ARZ 14 PHI 24 LI: 1.13-C.Palmer sacked at ARZ 8 for -9 yards(55-B.Graham).'>41.25</number><number>0.12</number>
+<number shadow='shadow1' tooltip='3:03 2-19-ARZ 8ARZ 14 PHI 24 LI: 0.730-S.Taylor left tackle to ARZ 15 for 7 yards(95-M.Kendricks).'>41.95</number><number>0.13</number>
+<number shadow='shadow1' tooltip='2:22 3-12-ARZ 15ARZ 14 PHI 24 LI: 0.9(Shotgun) 3-C.Palmer pass short left to 15-M.Floyd to ARZ 31 for 16 yards(26-C.Williams).'>42.63</number><number>0.17</number>
+<number shadow='shadow1' tooltip='1:45 1-10-ARZ 31ARZ 14 PHI 24 LI: 128-R.Mendenhall right end to ARZ 32 for 1 yard(77-D.Square).'>43.25</number><number>0.15</number>
+<number shadow='shadow1' tooltip='1:03 2-9-ARZ 32ARZ 14 PHI 24 LI: 0.8(Shotgun) 3-C.Palmer pass deep left intended for 12-A.Roberts INTERCEPTED by 26-C.Williams at PHI 3426-C.Williams to PHI 49 for 15 yards(11-L.Fitzgerald).'>43.95</number><number>0.1</number>
+<number shadow='shadow1' tooltip='0:51 1-10-PHI 49ARZ 14 PHI 24 LI: 19-N.Foles pass incomplete deep left to 87-B.Celek.'>44.15</number><number>0.1</number>
+<number shadow='shadow1' tooltip='0:45 2-10-PHI 49ARZ 14 PHI 24 LI: 1(No Huddle Shotgun) 9-N.Foles pass incomplete short right to 25-L.McCoy.'>44.25</number><number>0.11</number>
+<number shadow='shadow1' tooltip='0:42 3-10-PHI 49ARZ 14 PHI 24 LI: 0.9(No Huddle Shotgun) 25-L.McCoy left end to ARZ 46 for 5 yards(56-K.Dansby).'>44.3</number><number>0.12</number>
+<number shadow='shadow1' tooltip='15:00 4-5-ARZ 46ARZ 14 PHI 24 LI: 0.68-D.Jones punts 35 yards to ARZ 11 Center-46-J.Dorenbos fair catch by 21-P.Peterson.'>45</number><number>0.11</number>
+<number shadow='shadow1' tooltip='14:52 1-10-ARZ 11ARZ 14 PHI 24 LI: 0.73-C.Palmer pass short left to 11-L.Fitzgerald to ARZ 13 for 2 yards(26-C.Williams).'>45.13</number><number>0.11</number>
+<number shadow='shadow1' tooltip='14:15 2-8-ARZ 13ARZ 14 PHI 24 LI: 0.73-C.Palmer pass short right to 84-R.Housler pushed ob at ARZ 19 for 6 yards(24-B.Fletcher).'>45.75</number><number>0.11</number>
+<number shadow='shadow1' tooltip='13:48 3-2-ARZ 19ARZ 14 PHI 24 LI: 0.6(Shotgun) 3-C.Palmer sacked at ARZ 11 for -8 yards(58-T.Cole).'>46.2</number><number>0.08</number>
+<number shadow='shadow1' tooltip='13:21 4-10-ARZ 11ARZ 14 PHI 24 LI: 0.49-D.Zastudil punts 43 yards to PHI 46 Center-82-M.Leach10-D.Jackson for 54 yards TOUCHDOWN NULLIFIED by Penalty.'>46.65</number><number>0.09</number>
+<number shadow='shadow1' tooltip='13:06 1-10-PHI 36ARZ 14 PHI 24 LI: 1.1(Shotgun) 9-N.Foles pass incomplete deep left to 86-Z.Ertz.'>46.9</number><number>0.09</number>
+<number shadow='shadow1' tooltip='13:01 2-10-PHI 36ARZ 14 PHI 24 LI: 1.1(No Huddle Shotgun) 25-L.McCoy up the middle pushed ob at ARZ 29 for 35 yards(26-R.Johnson).'>46.98</number><number>0.08</number>
+<number shadow='shadow1' tooltip='12:36 2-1-PHI 45ARZ 14 PHI 24 LI: 1(Shotgun) 9-N.Foles pass short left to 87-B.Celek to ARZ 46 for 9 yards(37-Y.Bell; 58-D.Washington).'>47.4</number><number>0.07</number>
+<number shadow='shadow1' tooltip='12:03 1-10-ARZ 46ARZ 14 PHI 24 LI: 0.99-N.Foles pass incomplete deep left to 14-R.Cooper.'>47.95</number><number>0.07</number>
+<number shadow='shadow1' tooltip='12:02 2-10-ARZ 46ARZ 14 PHI 24 LI: 0.9(Shotgun) 9-N.Foles sacked at ARZ 46 for 0 yards(56-K.Dansby).'>47.97</number><number>0.08</number>
+<number shadow='shadow1' tooltip='11:26 3-10-ARZ 46ARZ 14 PHI 24 LI: 0.8(No Huddle Shotgun) 9-N.Foles sacked at PHI 45 for -9 yards(sack split by 93-C.Campbell and 59-M.Benard).'>48.57</number><number>0.1</number>
+<number shadow='shadow1' tooltip='11:07 4-19-PHI 45ARZ 14 PHI 24 LI: 0.88-D.Jones punts 39 yards to ARZ 16 Center-46-J.Dorenbos downed by PHI-30-C.Anderson.'>48.88</number><number>0.09</number>
+<number shadow='shadow1' tooltip='10:58 1-10-ARZ 16ARZ 14 PHI 24 LI: 0.528-R.Mendenhall right end to ARZ 21 for 5 yards(98-C.Barwin; 59-D.Ryans).'>49.03</number><number>0.09</number>
+<number shadow='shadow1' tooltip='10:19 2-5-ARZ 21ARZ 14 PHI 24 LI: 0.53-C.Palmer pass incomplete short right to 84-R.Housler (75-V.Curry).'>49.68</number><number>0.08</number>
+<number shadow='shadow1' tooltip='10:18 3-5-ARZ 21ARZ 14 PHI 24 LI: 0.4(Shotgun) 3-C.Palmer pass incomplete short left to 30-S.Taylor.'>49.7</number><number>0.06</number>
+<number shadow='shadow1' tooltip='10:04 4-5-ARZ 21ARZ 14 PHI 24 LI: 0.29-D.Zastudil punts 53 yards to PHI 26 Center-82-M.Leach10-D.Jackson to PHI 34 for 8 yards(31-J.Bethel).'>49.93</number><number>0.07</number>
+<number shadow='shadow1' tooltip='10:00 1-10-PHI 34ARZ 14 PHI 24 LI: 1.2(Shotgun) 25-L.McCoy left tackle to PHI 37 for 3 yards(26-R.Johnson).'>50</number><number>0.06</number>
+<number shadow='shadow1' tooltip='9:30 2-7-PHI 37ARZ 14 PHI 24 LI: 1.2(No Huddle Shotgun) 25-L.McCoy up the middle to PHI 44 for 7 yards(26-R.Johnson).'>50.5</number><number>0.04</number>
+<number shadow='shadow1' tooltip='8:53 1-10-PHI 44ARZ 14 PHI 24 LI: 1.3(No Huddle Shotgun) 34-B.Brown right guard to PHI 49 for 5 yards(56-K.Dansby; 90-D.Dockett).'>51.12</number><number>0.04</number>
+<number shadow='shadow1' tooltip='8:15 2-5-PHI 49ARZ 14 PHI 24 LI: 1.2(No Huddle Shotgun) 34-B.Brown right end to PHI 45 for -4 yards(91-M.Shaughnessy).'>51.75</number><number>0.06</number>
+<number shadow='shadow1' tooltip='7:33 3-9-PHI 45ARZ 14 PHI 24 LI: 1(No Huddle Shotgun) 9-N.Foles pass incomplete short left to 10-D.Jackson.'>52.45</number><number>0.07</number>
+<number shadow='shadow1' tooltip='7:25 4-9-PHI 45ARZ 14 PHI 24 LI: 0.98-D.Jones punts 41 yards to ARZ 14 Center-46-J.Dorenbos fair catch by 21-P.Peterson.'>52.58</number><number>0.06</number>
+<number shadow='shadow1' tooltip='7:20 1-10-ARZ 14ARZ 14 PHI 24 LI: 0.4(Shotgun) 3-C.Palmer pass incomplete short right to 84-R.Housler.'>52.67</number><number>0.06</number>
+<number shadow='shadow1' tooltip='7:16 2-10-ARZ 14ARZ 14 PHI 24 LI: 0.4(Shotgun) 3-C.Palmer pass short right to 15-M.Floyd pushed ob at ARZ 29 for 15 yards(95-M.Kendricks).'>52.73</number><number>0.08</number>
+<number shadow='shadow1' tooltip='6:47 1-10-ARZ 29ARZ 14 PHI 24 LI: 0.6(No Huddle Shotgun) 3-C.Palmer pass short right to 11-L.Fitzgerald to ARZ 40 for 11 yards(29-N.Allen).'>53.22</number><number>0.11</number>
+<number shadow='shadow1' tooltip='6:18 1-10-ARZ 40ARZ 14 PHI 24 LI: 0.8(No Huddle Shotgun) 3-C.Palmer pass incomplete deep right to 12-A.RobertsArizona challenged the incomplete pass ruling and the play was REVERSED(No Huddle Shotgun) 3-C.Palmer pass deep right to 12-A.Roberts to PHI 43 for 17 yards(24-B.Fletcher).'>53.7</number><number>0.14</number>
+<number shadow='shadow1' tooltip='6:02 1-10-PHI 43ARZ 14 PHI 24 LI: 1(Shotgun) 3-C.Palmer pass deep right to 15-M.Floyd to PHI 9 for 34 yards(29-N.Allen).'>53.97</number><number>0.14</number>
+<number shadow='shadow1' tooltip='5:33 1-9-PHI 9ARZ 14 PHI 24 LI: 1(No Huddle Shotgun) 3-C.Palmer pass incomplete short left to 11-L.Fitzgerald (22-B.Boykin).'>54.45</number><number>0.14</number>
+<number shadow='shadow1' tooltip='5:29 2-9-PHI 9ARZ 14 PHI 24 LI: 1(Shotgun) 3-C.Palmer pass incomplete short left to 84-R.Housler.'>54.52</number><number>0.17</number>
+<number shadow='shadow1' tooltip='5:25 1-1-PHI 1ARZ 14 PHI 24 LI: 1.328-R.Mendenhall up the middle to PHI 3 for -2 yards(59-D.Ryans).'>54.58</number><number>0.16</number>
+<number shadow='shadow1' tooltip='4:49 2-3-PHI 3ARZ 14 PHI 24 LI: 1.13-C.Palmer pass short right to 81-J.Dray for 3 yards TOUCHDOWN.'>55.18</number><number>0.17</number>
+<number shadow='shadow1' tooltip='4:49 ARZ 14 PHI 24 LI: 4-J.Feely extra point is GOOD Center-82-M.Leach Holder-9-D.Zastudil.'>55.22</number><number>0.17</number>
+<number shadow='shadow1' tooltip='4:49 ARZ 21 PHI 24 LI: 4-J.Feely kicks 66 yards from ARZ 35 to PHI -122-B.Boykin to PHI 31 for 32 yards(59-M.Benard).'>55.27</number><number>0.16</number>
+<number shadow='shadow1' tooltip='4:37 1-10-PHI 31ARZ 21 PHI 24 LI: 2.625-L.McCoy left end to PHI 31 for no gain (56-K.Dansby).'>55.38</number><number>0.16</number>
+<number shadow='shadow1' tooltip='4:34 1-5-PHI 36ARZ 21 PHI 24 LI: 2.5(Shotgun) 25-L.McCoy up the middle to PHI 34 for -2 yards(91-M.Shaughnessy).'>55.43</number><number>0.21</number>
+<number shadow='shadow1' tooltip='4:00 2-7-PHI 34ARZ 21 PHI 24 LI: 1.9(No Huddle Shotgun) 9-N.Foles pass short middle intended for 10-D.Jackson INTERCEPTED by 21-P.Peterson at PHI 4321-P.Peterson to PHI 43 for no gain (14-R.Cooper).'>56</number><number>0.15</number>
+<number shadow='shadow1' tooltip='3:51 1-10-PHI 39ARZ 21 PHI 24 LI: 2.4(Shotgun) 9-N.Foles left end to PHI 45 for 6 yards(55-J.Abraham).'>56.15</number><number>0.14</number>
+<number shadow='shadow1' tooltip='3:11 2-4-PHI 45ARZ 21 PHI 24 LI: 2.4(No Huddle Shotgun) 25-L.McCoy left end to PHI 46 for 1 yard(66-A.Taamu).'>56.82</number><number>0.13</number>
+<number shadow='shadow1' tooltip='2:29 3-3-PHI 46ARZ 21 PHI 24 LI: 2.7(No Huddle Shotgun) 9-N.Foles right end to PHI 47 for 1 yard(58-D.Washington).'>57.52</number><number>0.17</number>
+<number shadow='shadow1' tooltip='2:18 4-2-PHI 47ARZ 21 PHI 24 LI: 2.28-D.Jones punts 43 yards to ARZ 10 Center-46-J.Dorenbos downed by PHI.'>57.7</number><number>0.12</number>
+<number shadow='shadow1' tooltip='2:03 1-10-ARZ 10ARZ 21 PHI 24 LI: 0.63-C.Palmer pass short right to 12-A.Roberts ran ob at ARZ 15 for 5 yards.'>57.95</number><number>0.12</number>
+<number shadow='shadow1' tooltip='1:59 3-5-ARZ 15ARZ 21 PHI 24 LI: 0.7(Shotgun) 3-C.Palmer pass incomplete short left to 12-A.Roberts.'>58.02</number><number>0.09</number>
+<number shadow='shadow1' tooltip='1:55 4-5-ARZ 15ARZ 21 PHI 24 LI: 0.4(Shotgun) 3-C.Palmer pass incomplete short right to 15-M.Floyd (24-B.Fletcher).'>58.08</number><number>0.05</number>
+<number shadow='shadow1' tooltip='1:51 1-10-ARZ 15ARZ 21 PHI 24 LI: 0.9(Shotgun) 25-L.McCoy right end to ARZ 12 for 3 yards(37-Y.Bell).'>58.15</number><number>0.05</number>
+<number shadow='shadow1' tooltip='1:47 2-7-ARZ 12ARZ 21 PHI 24 LI: 0.7(Shotgun) 25-L.McCoy right guard to ARZ 9 for 3 yards(66-A.Taamu).'>58.22</number><number>0.08</number>
+<number shadow='shadow1' tooltip='1:42 3-4-ARZ 9ARZ 21 PHI 24 LI: 0.3(Shotgun) PENALTY on ARZ-91-M.Shaughnessy Defensive Holding 5 yards enforced at ARZ 9 - No Play.'>58.3</number><number>0.06</number>
+<number shadow='shadow1' tooltip='1:12 1-4-ARZ 4ARZ 21 PHI 24 LI: 0.1PENALTY on ARZ-58-D.Washington Unsportsmanlike Conduct 2 yards enforced at ARZ 4 - No Play.'>58.8</number><number>0.06</number>
+<number shadow='shadow1' tooltip='0:42 2-4-ARZ 4ARZ 21 PHI 24 LI: 0.19-N.Foles kneels to ARZ 5 for -1 yards.'>59.3</number><number>0.02</number>
+<number shadow='shadow1' tooltip='0:22 3-5-ARZ 5ARZ 21 PHI 24 LI: 0.19-N.Foles kneels to ARZ 6 for -1 yards.'>59.63</number><number>0</number>
+<number>60</number><number>0</number>
+</row> </chart_data>
+       <draw>
+
+
+
+      <image x='45' y='298'  url='nfllogos/42x50png/ARZ.gif'  layer='foreground' glow = 'glow1'/>
+      <image x='45' y='350'  url='nfllogos/42x50png/PHI.gif'     layer='foreground' glow = 'glow1'/>
+
+
+      <rect x='130' y='300' width='250' height='40' fill_color='b0063a' bevel='bevel1' />
+      <text x='135' y='300' width='250' height='40' h_align='left' v_align='middle' color='ffffff' shadow='shadow2' glow=''>Arizona Cardinals</text>
+
+      <rect x='130' y='350' width='250' height='40' fill_color='00444c' bevel='bevel1'  />
+      <text x='135' y='350' width='250' height='40' h_align='left' v_align='middle' color='ffffff' shadow='shadow2' glow='winnerglow'>Philadelphia Eagles</text>
+
+      <rect x='420' y='300' width='60' height='40' fill_color='b0063a' bevel='bevel1'  />
+      <text x='420' y='300' width='60' height='40' h_align='center' v_align='middle' color='ffffff' shadow='shadow2' transition='none' glow=''>21</text>
+
+      <rect x='420' y='350' width='60' height='40' fill_color='00444c' bevel='bevel1' />
+      <text x='420' y='350' width='60' height='40' h_align='center' v_align='middle' color='ffffff' shadow='shadow2' transition='none' glow='winnerglow'>24</text>
+
+      <text x='-3' y='12'  width='60' height='40' h_align='center' v_align='middle' size='13' shadow='shadow2'>ARZWin </text>
+      <text x='-3' y='218' width='60' height='40' h_align='center' v_align='middle' size='13' shadow='shadow2'>PHIWin </text>
+
+     
+              <rect x='540' y='300' width='100' height='35' fill_color='000000' fill_alpha='50'/>
+              <text x='540' y='300' width='100' height='35' h_align='center' v_align='middle' color='ffffff' size='15' shadow='shadow2' >Final</text>
+
+              <text x='540' y='340' width='40' h_align='center' color='000000' size='12' shadow='shadow2'>CBF</text>
+              <text x='600' y='340' width='40' h_align='center' color='000000' size='12' shadow='shadow2'>EI</text>
+
+              <rect x='540' y='360' width='40' height='30' fill_color='000000' fill_alpha='50' />
+              <text x='540' y='360' width='40' height='30' size='12' h_align='center' v_align='middle' color='FFFFFF' shadow='shadow2'>2</text>
+
+              <rect x='600' y='360' width='40' height='30' fill_color='000000' fill_alpha='50' />
+              <text x='600' y='360' width='40' height='30' size='12' h_align='center' v_align='middle' color='FFFFFF' shadow='shadow2'>3.6</text>
+
+              <text x='20' y='420' width='70' height='25' size='12' h_align='left' v_align='middle' color='000000' >12/1/2013</text>
+              <text x='100' y='420' width='200' height='25' size='12' h_align='left' v_align='middle' color='000000' >Lincoln Financial Field</text>
+
+   </draw></chart>

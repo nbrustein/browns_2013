@@ -1,0 +1,319 @@
+
+<chart>
+   <license>ETAS9P33ESHO.945CWK-2XOI1X0-7L</license>
+   <chart_type>scatter</chart_type>
+   <chart_pref trend_thickness='0' line_thickness='3' point_size='0'/>
+
+   <series_color>
+      <color>ffff00</color>
+   </series_color>
+
+   <chart_rect x='45' y='20' width='630' height='230' positive_color='cacaca'  />
+
+  <chart_border top_thickness='0'
+                 bottom_thickness='0'
+                 left_thickness='0'
+                 right_thickness='0'
+                 color='000000'
+                 />
+
+   <tooltip font='Arial' bold='true' size='11' />
+
+   <chart_note type='flag'
+               color='000000'
+               alpha='90'
+               bold='FALSE'
+               size='10'
+               background_color='ffffe0'
+               background_alpha='50'
+               shadow='shadow2'
+               />
+
+   <chart_grid_h thickness='2' color='ffffff' type='dashed'  />
+   <chart_grid_v thickness='2' color='ffffff'   />
+		>
+
+   <legend layout='hide' />
+
+   <chart_guide horizontal='TRUE'
+             vertical='TRUE'
+             thickness='1'
+             color='006400'
+             alpha='100'
+             type='solid'
+             snap_h='TRUE'
+             snap_v='TRUE'
+             radius='3'
+             fill_color='006400'
+             fill_alpha='100'
+             line_color='006400'
+             line_alpha='80'
+             line_thickness='1'
+             text_h_alpha='50'
+             text_v_alpha='00'
+             suffix_h=' WP'
+             decimals='2'
+             bold='FALSE'
+             size='11'
+             text_color='FFFFFF'
+             background_color='006400'
+             />
+   <filter>
+      <shadow id='shadow1' distance='2' angle='60' blurX='5' blurY='5' alpha='50' />
+      <bevel id='bevel1' angle='45' blurX='5' blurY='5' distance='0' />
+      <glow id='glow1' color='ffffff' alpha='0' blurX='7' blurY='7' strength='6' quality='2' inner='FALSE' knockout='FALSE' />
+      <glow id='winnerglow' color='ffffff' alpha='0' blurX='7' blurY='7' strength='5' quality='2' inner='FALSE' knockout='FALSE' />
+   </filter>
+
+    <axis_value_label>
+         <string></string>
+          <string> </string>
+          <null/>
+          <string> </string>
+          <string></string>
+
+       </axis_value_label>
+		
+	   <axis_ticks category_ticks='false'/>
+
+       <axis_value min='0' max='1' steps='4'  decimals='2' show_min='true' size='13' shadow='shadow2' />            
+        <axis_category
+               min='0'
+               max='75'
+               steps='5'
+               mode='trim'
+               decimals='0'
+               size='13'
+               shadow='shadow2'
+               />
+
+       <axis_category_label>
+          <string>Kickoff</string>
+          <string></string>
+          <string>Halftime</string>
+          <string></string>
+          <string>Regulation</string>
+          <string>OT</string>
+       </axis_category_label>
+
+
+         <chart_data>
+       <row>
+	      <null/><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number>
+              <number>x</number><number>y</number>
+              </row><row><string></string>
+
+                     <number shadow='shadow1'>0</number><number>.5</number><number shadow='shadow1' tooltip='15:00 KC 0 SD 0 LI: 9-N.Novak kicks 65 yards from SD 35 to KC 035-Q.Demps Touchback.'>0.09</number><number>0.52</number>
+<number shadow='shadow1' tooltip='14:27 2-7-KC 23KC 0 SD 0 LI: 1.434-K.Davis right end to KC 35 for 12 yards(29-S.Wright 32-E.Weddle).'>0.55</number><number>0.54</number>
+<number shadow='shadow1' tooltip='13:51 1-10-KC 35KC 0 SD 0 LI: 1.4(Shotgun) 10-C.Daniel pass incomplete to 84-S.McGrath (56-D.Butler).'>1.15</number><number>0.52</number>
+<number shadow='shadow1' tooltip='13:39 2-10-KC 35KC 0 SD 0 LI: 1.210-C.Daniel pass deep right to 15-A.Jenkins ran ob at SD 17 for 48 yards.'>1.35</number><number>0.65</number>
+<number shadow='shadow1' tooltip='13:24 1-10-SD 17KC 0 SD 0 LI: 1.6(Shotgun) 34-K.Davis up the middle for 17 yards TOUCHDOWN.'>1.6</number><number>0.71</number>
+<number shadow='shadow1' tooltip='13:24 KC 0 SD 0 LI: 6-R.Succop extra point is GOOD Center-43-T.Gafford Holder-2-D.Colquitt.'>1.64</number><number>0.71</number>
+<number shadow='shadow1' tooltip='13:24 KC 7 SD 0 LI: 6-R.Succop kicks 65 yards from KC 35 to SD 023-R.Brown to SD 22 for 22 yards(42-A.Sherman 55-A.Jordan).'>1.69</number><number>0.72</number>
+<number shadow='shadow1' tooltip='12:58 1-10-SD 22KC 7 SD 0 LI: 1.5(Shotgun) 17-P.Rivers pass short right to 85-A.Gates to SD 28 for 6 yards(57-N.Johnson).'>2.03</number><number>0.7</number>
+<number shadow='shadow1' tooltip='12:28 2-4-SD 28KC 7 SD 0 LI: 1.5(Shotgun) 24-R.Mathews up the middle pushed ob at KC 28 for 44 yards(38-R.Parker).'>2.53</number><number>0.64</number>
+<number shadow='shadow1' tooltip='11:57 1-10-KC 28KC 7 SD 0 LI: 0.924-R.Mathews up the middle to KC 24 for 4 yards(57-N.Johnson).'>3.05</number><number>0.6</number>
+<number shadow='shadow1' tooltip='11:27 2-6-KC 24KC 7 SD 0 LI: 1.2(Shotgun) 24-R.Mathews up the middle to KC 22 for 2 yards(51-F.Zombo 97-A.Bailey).'>3.55</number><number>0.61</number>
+<number shadow='shadow1' tooltip='10:44 3-4-KC 22KC 7 SD 0 LI: 1.1(Shotgun) 17-P.Rivers pass deep left to 89-L.Green for 22 yards TOUCHDOWN [77-M.Catapano].'>4.27</number><number>0.53</number>
+<number shadow='shadow1' tooltip='10:44 KC 7 SD 0 LI: 9-N.Novak extra point is GOOD Center-47-M.Windt Holder-5-M.Scifres.'>4.31</number><number>0.53</number>
+<number shadow='shadow1' tooltip='10:44 KC 7 SD 7 LI: 9-N.Novak kicks 71 yards from SD 35 to KC -635-Q.Demps to KC 35 for 41 yards(9-N.Novak).'>4.36</number><number>0.54</number>
+<number shadow='shadow1' tooltip='10:30 1-10-KC 35KC 7 SD 7 LI: 1.4(Shotgun) 10-C.Daniel left end to KC 40 for 5 yards(50-M.Teo).'>4.5</number><number>0.54</number>
+<number shadow='shadow1' tooltip='9:55 2-5-KC 40KC 7 SD 7 LI: 1.310-C.Daniel sacked at KC 34 for -6 yards(94-C.Liuget).'>5.08</number><number>0.5</number>
+<number shadow='shadow1' tooltip='9:16 3-11-KC 34KC 7 SD 7 LI: 1.1(Shotgun) 10-C.Daniel pass short right to 32-C.Gray pushed ob at KC 32 for -2 yards(32-E.Weddle).'>5.73</number><number>0.47</number>
+<number shadow='shadow1' tooltip='8:48 4-13-KC 32KC 7 SD 7 LI: 0.82-D.Colquitt punts 38 yards to SD 30 Center-43-T.Gafford downed by KC-88-J.Hemingway.'>6.2</number><number>0.46</number>
+<number shadow='shadow1' tooltip='8:38 1-10-SD 30KC 7 SD 7 LI: 1.6(Shotgun) 17-P.Rivers sacked at SD 23 for -7 yards(52-J.Johnson).'>6.37</number><number>0.51</number>
+<number shadow='shadow1' tooltip='8:00 2-17-SD 23KC 7 SD 7 LI: 1.2(Shotgun) 17-P.Rivers pass short middle intended for 13-K.Allen INTERCEPTED by 38-R.Parker at SD 3738-R.Parker to SD 23 for 14 yards(66-J.Clary).'>7</number><number>0.63</number>
+<number shadow='shadow1' tooltip='7:50 1-10-SD 23KC 7 SD 7 LI: 1.5(Shotgun) 10-C.Daniel pass incomplete short left to 88-J.Hemingway [54-M.Ingram].'>7.17</number><number>0.62</number>
+<number shadow='shadow1' tooltip='7:45 2-10-SD 23KC 7 SD 7 LI: 1.4(Shotgun) 10-C.Daniel pass short right to 32-C.Gray to SD 20 for 3 yards(37-J.Addae).'>7.25</number><number>0.61</number>
+<number shadow='shadow1' tooltip='7:04 3-7-SD 20KC 7 SD 7 LI: 1.3(Shotgun) 10-C.Daniel pass short middle to 88-J.Hemingway to SD 15 for 5 yardsFUMBLES and recovers at SD 1588-J.Hemingway to SD 9 for 6 yards(25-D.Stuckey).'>7.93</number><number>0.66</number>
+<number shadow='shadow1' tooltip='6:40 1-9-SD 9KC 7 SD 7 LI: 1.6(Shotgun) 34-K.Davis up the middle to SD 7 for 2 yards(56-D.Butler).'>8.33</number><number>0.67</number>
+<number shadow='shadow1' tooltip='6:03 2-7-SD 7KC 7 SD 7 LI: 1.734-K.Davis left end pushed ob at SD 4 for 3 yards(37-J.Addae).'>8.95</number><number>0.66</number>
+<number shadow='shadow1' tooltip='5:34 3-4-SD 4KC 7 SD 7 LI: 1.6(Shotgun) 10-C.Daniel up the middle to SD 1 for 3 yards(56-D.Butler 50-M.Teo).'>9.43</number><number>0.66</number>
+<number shadow='shadow1' tooltip='5:12 3-2-SD 2KC 7 SD 7 LI: 1.6(Shotgun) 10-C.Daniel pass short right to 22-D.McCluster for 2 yards TOUCHDOWN.'>9.8</number><number>0.71</number>
+<number shadow='shadow1' tooltip='5:12 KC 7 SD 7 LI: 6-R.Succop extra point is GOOD Center-43-T.Gafford Holder-2-D.Colquitt.'>9.84</number><number>0.71</number>
+<number shadow='shadow1' tooltip='5:12 KC 14 SD 7 LI: 6-R.Succop kicks 65 yards from KC 35 to end zone Touchback.'>9.89</number><number>0.72</number>
+<number shadow='shadow1' tooltip='4:39 2-7-SD 23KC 14 SD 7 LI: 1.424-R.Mathews right tackle to SD 24 for 1 yard(96-J.Howard).'>10.35</number><number>0.73</number>
+<number shadow='shadow1' tooltip='3:56 3-6-SD 24KC 14 SD 7 LI: 1.3(Shotgun) 17-P.Rivers pass short left to 13-K.Allen to SD 48 for 24 yards(38-R.Parker).'>11.07</number><number>0.68</number>
+<number shadow='shadow1' tooltip='3:20 1-10-SD 48KC 14 SD 7 LI: 1.2(Shotgun) 39-D.Woodhead right tackle to 50 for 2 yards(96-J.Howard).'>11.67</number><number>0.68</number>
+<number shadow='shadow1' tooltip='2:41 2-8-50KC 14 SD 7 LI: 1.2(Shotgun) 17-P.Rivers pass short left to 11-E.Royal to KC 20 for 30 yards(23-K.Lewis).'>12.32</number><number>0.63</number>
+<number shadow='shadow1' tooltip='2:03 1-10-KC 20KC 14 SD 7 LI: 0.8(Shotgun) 24-R.Mathews left end to KC 14 for 6 yards(97-A.Bailey).'>12.95</number><number>0.55</number>
+<number shadow='shadow1' tooltip='1:26 2-4-KC 14KC 14 SD 7 LI: 1.5(Shotgun) 39-D.Woodhead up the middle to KC 10 for 4 yards(52-J.Johnson 96-J.Howard).'>13.57</number><number>0.56</number>
+<number shadow='shadow1' tooltip='0:46 1-10-KC 10KC 14 SD 7 LI: 1.3(Shotgun) 24-R.Mathews up the middle to KC 8 for 2 yards(95-J.Martin).'>14.23</number><number>0.57</number>
+<number shadow='shadow1' tooltip='0:01 2-8-KC 8KC 14 SD 7 LI: 1.3(Shotgun) 17-P.Rivers pass short middle to 39-D.Woodhead to KC 4 for 4 yards(35-Q.Demps).'>14.98</number><number>0.58</number>
+<number shadow='shadow1' tooltip='15:00 3-4-KC 4KC 14 SD 7 LI: 1.2(Shotgun) 17-P.Rivers pass short left to 85-A.Gates for 4 yards TOUCHDOWN [51-F.Zombo].'>15</number><number>0.53</number>
+<number shadow='shadow1' tooltip='15:00 KC 14 SD 7 LI: 9-N.Novak extra point is GOOD Center-47-M.Windt Holder-5-M.Scifres.'>15.04</number><number>0.53</number>
+<number shadow='shadow1' tooltip='15:00 KC 14 SD 14 LI: 9-N.Novak kicks 70 yards from SD 35 to KC -535-Q.Demps to KC 24 for 29 yards(97-B.Bird 32-E.Weddle).'>15.09</number><number>0.52</number>
+<number shadow='shadow1' tooltip='14:50 1-10-KC 24KC 14 SD 14 LI: 1.534-K.Davis up the middle to KC 30 for 6 yards(71-L.Guy 56-D.Butler).'>15.17</number><number>0.53</number>
+<number shadow='shadow1' tooltip='14:15 2-4-KC 30KC 14 SD 14 LI: 1.510-C.Daniel pass incomplete short left to 15-A.Jenkins.'>15.75</number><number>0.51</number>
+<number shadow='shadow1' tooltip='14:11 3-4-KC 30KC 14 SD 14 LI: 1.3(Shotgun) 10-C.Daniel pass short right to 22-D.McCluster to KC 39 for 9 yards(56-D.Butler).'>15.82</number><number>0.55</number>
+<number shadow='shadow1' tooltip='13:37 1-10-KC 39KC 14 SD 14 LI: 1.415-A.Jenkins right end to KC 40 for 1 yard(29-S.Wright).'>16.38</number><number>0.53</number>
+<number shadow='shadow1' tooltip='12:50 2-9-KC 40KC 14 SD 14 LI: 1.210-C.Daniel pass short left to 15-A.Jenkins to SD 46 for 14 yards(38-M.Gilchrist).'>17.17</number><number>0.57</number>
+<number shadow='shadow1' tooltip='12:16 1-10-SD 46KC 14 SD 14 LI: 1.334-K.Davis left end to SD 41 for 5 yards(56-D.Butler).'>17.73</number><number>0.57</number>
+<number shadow='shadow1' tooltip='11:37 2-5-SD 41KC 14 SD 14 LI: 1.234-K.Davis right tackle to SD 40 for 1 yard(92-C.Thomas 71-L.Guy).'>18.38</number><number>0.55</number>
+<number shadow='shadow1' tooltip='10:56 3-4-SD 40KC 14 SD 14 LI: 110-C.Daniel pass incomplete short right to 34-K.Davis.'>19.07</number><number>0.5</number>
+<number shadow='shadow1' tooltip='10:51 4-4-SD 40KC 14 SD 14 LI: 0.52-D.Colquitt punts 40 yards to end zone Center-43-T.Gafford Touchback.'>19.15</number><number>0.48</number>
+<number shadow='shadow1' tooltip='10:43 1-10-SD 20KC 14 SD 14 LI: 1.524-R.Mathews up the middle to SD 24 for 4 yards(57-N.Johnson).'>19.28</number><number>0.49</number>
+<number shadow='shadow1' tooltip='10:08 2-6-SD 24KC 14 SD 14 LI: 1.3(Shotgun) 17-P.Rivers pass short middle to 24-R.Mathews to SD 29 for 5 yards(52-J.Johnson).'>19.87</number><number>0.48</number>
+<number shadow='shadow1' tooltip='9:26 3-1-SD 29KC 14 SD 14 LI: 1.333-L.McClain up the middle to SD 32 for 3 yards(95-J.Martin).'>20.57</number><number>0.46</number>
+<number shadow='shadow1' tooltip='8:43 1-10-SD 32KC 14 SD 14 LI: 1.424-R.Mathews up the middle to SD 34 for 2 yards(95-J.Martin 35-Q.Demps).'>21.28</number><number>0.48</number>
+<number shadow='shadow1' tooltip='8:04 2-8-SD 34KC 14 SD 14 LI: 1.2(Shotgun) 17-P.Rivers scrambles up the middle to SD 36 for 2 yards(95-J.Martin).'>21.93</number><number>0.49</number>
+<number shadow='shadow1' tooltip='7:20 3-6-SD 36KC 14 SD 14 LI: 1(Shotgun) 17-P.Rivers pass incomplete short middle to 13-K.Allen (31-M.Cooper).'>22.67</number><number>0.53</number>
+<number shadow='shadow1' tooltip='7:10 4-6-SD 36KC 14 SD 14 LI: 0.65-M.Scifres punts 50 yards to KC 14 Center-47-M.Windt fair catch by 22-D.McCluster.'>22.83</number><number>0.5</number>
+<number shadow='shadow1' tooltip='7:04 1-10-KC 14KC 14 SD 14 LI: 1.834-K.Davis left end to KC 10 for -4 yards(92-C.Thomas).'>22.93</number><number>0.47</number>
+<number shadow='shadow1' tooltip='6:27 2-14-KC 10KC 14 SD 14 LI: 1.634-K.Davis left end to KC 19 for 9 yards(32-E.Weddle).'>23.55</number><number>0.49</number>
+<number shadow='shadow1' tooltip='5:41 3-5-KC 19KC 14 SD 14 LI: 1.2(Shotgun) 10-C.Daniel scrambles up the middle to KC 48 for 29 yards(29-S.Wright).'>24.32</number><number>0.56</number>
+<number shadow='shadow1' tooltip='5:01 1-10-KC 48KC 14 SD 14 LI: 1.334-K.Davis left tackle to KC 49 for 1 yard(71-L.Guy 50-M.Teo).'>24.98</number><number>0.55</number>
+<number shadow='shadow1' tooltip='4:19 2-9-KC 49KC 14 SD 14 LI: 1.210-C.Daniel scrambles right end to SD 42 for 9 yards(56-D.Butler 54-M.Ingram).'>25.68</number><number>0.59</number>
+<number shadow='shadow1' tooltip='3:34 1-10-SD 42KC 14 SD 14 LI: 1.434-K.Davis right tackle to SD 24 for 18 yards(32-E.Weddle 31-R.Marshall).'>26.43</number><number>0.63</number>
+<number shadow='shadow1' tooltip='2:55 1-10-SD 24KC 14 SD 14 LI: 1.534-K.Davis right tackle to SD 25 for -1 yards(56-D.Butler).'>27.08</number><number>0.63</number>
+<number shadow='shadow1' tooltip='2:14 2-11-SD 25KC 14 SD 14 LI: 1.6(Shotgun) 10-C.Daniel pass short left to 22-D.McCluster to SD 13 for 12 yards(32-E.Weddle).'>27.77</number><number>0.69</number>
+<number shadow='shadow1' tooltip='2:00 1-10-SD 13KC 14 SD 14 LI: 1.9(Shotgun) 10-C.Daniel pass short right to 34-K.Davis to SD 7 for 6 yards(56-D.Butler).'>28</number><number>0.7</number>
+<number shadow='shadow1' tooltip='1:52 2-4-SD 7KC 14 SD 14 LI: 234-K.Davis up the middle to SD 2 for 5 yards(50-M.Teo 31-R.Marshall).'>28.13</number><number>0.7</number>
+<number shadow='shadow1' tooltip='1:10 1-2-SD 2KC 14 SD 14 LI: 234-K.Davis right tackle for 2 yards TOUCHDOWN.'>28.83</number><number>0.72</number>
+<number shadow='shadow1' tooltip='1:10 KC 14 SD 14 LI: 6-R.Succop extra point is GOOD Center-43-T.Gafford Holder-2-D.Colquitt.'>28.87</number><number>0.72</number>
+<number shadow='shadow1' tooltip='1:10 KC 21 SD 14 LI: 6-R.Succop kicks 67 yards from KC 35 to SD -223-R.Brown to SD 18 for 20 yards(81-R.Gordon 54-D.Moses).'>28.92</number><number>0.74</number>
+<number shadow='shadow1' tooltip='1:00 1-10-SD 18KC 21 SD 14 LI: 1(Shotgun) 17-P.Rivers pass short left to 39-D.Woodhead pushed ob at SD 22 for 4 yards(21-D.Robinson).'>29</number><number>0.74</number>
+<number shadow='shadow1' tooltip='0:55 2-6-SD 22KC 21 SD 14 LI: 1(Shotgun) 17-P.Rivers sacked at SD 22 for 0 yards(51-F.Zombo).'>29.08</number><number>0.75</number>
+<number shadow='shadow1' tooltip='0:45 3-6-SD 22KC 21 SD 14 LI: 0.9(Shotgun) 17-P.Rivers pass incomplete short middle to 86-V.Brown.'>29.25</number><number>0.78</number>
+<number shadow='shadow1' tooltip='0:40 4-6-SD 22KC 21 SD 14 LI: 0.65-M.Scifres punts 39 yards to KC 39 Center-47-M.Windt fair catch by 22-D.McCluster.'>29.33</number><number>0.78</number>
+<number shadow='shadow1' tooltip='0:32 1-10-KC 39KC 21 SD 14 LI: 1.1(Shotgun) 10-C.Daniel pass short left to 34-K.Davis to KC 38 for -1 yards(32-E.Weddle).'>29.47</number><number>0.73</number>
+<number shadow='shadow1' tooltip='0:32 KC 21 SD 14 LI: 6-R.Succop kicks 70 yards from KC 35 to SD -523-R.Brown to SD 23 for 28 yards(32-C.Gray).'>29.56</number><number>0.74</number>
+<number shadow='shadow1' tooltip='14:54 1-10-SD 23KC 21 SD 14 LI: 1(Shotgun) 17-P.Rivers pass short right to 24-R.Mathews to SD 29 for 6 yards(31-M.Cooper 39-H.Abdullah).'>30.1</number><number>0.73</number>
+<number shadow='shadow1' tooltip='14:26 2-4-SD 29KC 21 SD 14 LI: 124-R.Mathews up the middle to SD 30 for 1 yard(39-H.Abdullah).'>30.57</number><number>0.74</number>
+<number shadow='shadow1' tooltip='13:46 3-3-SD 30KC 21 SD 14 LI: 0.9(Shotgun) 17-P.Rivers pass incomplete deep right to 11-E.Royal.'>31.23</number><number>0.78</number>
+<number shadow='shadow1' tooltip='13:40 4-3-SD 30KC 21 SD 14 LI: 0.55-M.Scifres punts 52 yards to KC 18 Center-47-M.Windt fair catch by 22-D.McCluster.'>31.33</number><number>0.76</number>
+<number shadow='shadow1' tooltip='13:32 1-10-KC 18KC 21 SD 14 LI: 1.434-K.Davis up the middle to KC 18 for no gain (50-M.Teo).'>31.47</number><number>0.74</number>
+<number shadow='shadow1' tooltip='13:00 2-10-KC 18KC 21 SD 14 LI: 1.2(Shotgun) 10-C.Daniel scrambles up the middle to KC 24 for 6 yards(38-M.Gilchrist).'>32</number><number>0.75</number>
+<number shadow='shadow1' tooltip='12:18 3-4-KC 24KC 21 SD 14 LI: 1.2(Shotgun) 10-C.Daniel pass short left to 88-J.Hemingway to KC 27 for 3 yards(29-S.Wright).'>32.7</number><number>0.73</number>
+<number shadow='shadow1' tooltip='11:36 4-1-KC 27KC 21 SD 14 LI: 0.92-D.Colquitt punts 52 yards to SD 21 Center-43-T.Gafford fair catch by 13-K.Allen.'>33.4</number><number>0.75</number>
+<number shadow='shadow1' tooltip='11:27 1-10-SD 21KC 21 SD 14 LI: 124-R.Mathews right end to SD 24 for 3 yards(38-R.Parker).'>33.55</number><number>0.74</number>
+<number shadow='shadow1' tooltip='10:46 2-7-SD 24KC 21 SD 14 LI: 1(Shotgun) 24-R.Mathews right tackle to SD 28 for 4 yards(52-J.Johnson 97-A.Bailey).'>34.23</number><number>0.75</number>
+<number shadow='shadow1' tooltip='10:02 3-3-SD 28KC 21 SD 14 LI: 0.9(Shotgun) 17-P.Rivers pass incomplete deep left to 11-E.Royal.'>34.97</number><number>0.78</number>
+<number shadow='shadow1' tooltip='9:55 4-3-SD 28KC 21 SD 14 LI: 0.65-M.Scifres punts 39 yards to KC 33 Center-47-M.Windt22-D.McCluster to SD 35 for 32 yards(25-D.Stuckey).'>35.08</number><number>0.83</number>
+<number shadow='shadow1' tooltip='9:44 1-10-SD 35KC 21 SD 14 LI: 1.134-K.Davis up the middle to SD 35 for no gain (92-C.Thomas 96-J.Johnson).'>35.27</number><number>0.81</number>
+<number shadow='shadow1' tooltip='9:10 2-10-SD 35KC 21 SD 14 LI: 0.8(Shotgun) 10-C.Daniel up the middle to SD 34 for 1 yard(91-K.Reyes 54-M.Ingram).'>35.83</number><number>0.8</number>
+<number shadow='shadow1' tooltip='8:27 3-9-SD 34KC 21 SD 14 LI: 0.7(Shotgun) 10-C.Daniel pass incomplete short right to 15-A.Jenkins.'>36.55</number><number>0.84</number>
+<number shadow='shadow1' tooltip='8:23 1-10-SD 29KC 21 SD 14 LI: 0.9(Shotgun) 10-C.Daniel pass incomplete short middle to 32-C.Gray.'>36.62</number><number>0.84</number>
+<number shadow='shadow1' tooltip='8:16 2-10-SD 29KC 21 SD 14 LI: 0.910-C.Daniel pass incomplete short left to 34-K.Davis.'>36.73</number><number>0.82</number>
+<number shadow='shadow1' tooltip='8:11 3-10-SD 29KC 21 SD 14 LI: 0.7(Shotgun) 10-C.Daniel pass short left to 88-J.Hemingway to SD 28 for 1 yard(25-D.Stuckey 32-E.Weddle).'>36.82</number><number>0.78</number>
+<number shadow='shadow1' tooltip='7:30 4-9-SD 28KC 21 SD 14 LI: 0.36-R.Succop 46 yard field goal is GOOD Center-43-T.Gafford Holder-2-D.Colquitt.'>37.5</number><number>0.81</number>
+<number shadow='shadow1' tooltip='7:30 KC 24 SD 14 LI: 6-R.Succop kicks 70 yards from KC 35 to SD -523-R.Brown Touchback.'>37.59</number><number>0.82</number>
+<number shadow='shadow1' tooltip='6:47 2-13-SD 17KC 24 SD 14 LI: 1(Shotgun) 17-P.Rivers pass incomplete deep left to 16-S.Ajirotutu (38-R.Parker).'>38.22</number><number>0.86</number>
+<number shadow='shadow1' tooltip='6:39 3-13-SD 17KC 24 SD 14 LI: 0.8(Shotgun) 17-P.Rivers pass deep middle to 85-A.Gates to SD 33 for 16 yards(38-R.Parker).'>38.35</number><number>0.8</number>
+<number shadow='shadow1' tooltip='6:03 1-10-SD 33KC 24 SD 14 LI: 1.224-R.Mathews left end to SD 35 for 2 yards(97-A.Bailey).'>38.95</number><number>0.81</number>
+<number shadow='shadow1' tooltip='5:23 2-8-SD 35KC 24 SD 14 LI: 1.1(Shotgun) 17-P.Rivers pass short left to 39-D.Woodhead to SD 39 for 4 yards(39-H.Abdullah).'>39.62</number><number>0.82</number>
+<number shadow='shadow1' tooltip='4:43 3-4-SD 39KC 24 SD 14 LI: 0.9(Shotgun) 17-P.Rivers pass incomplete short middle to 89-L.Green.'>40.28</number><number>0.85</number>
+<number shadow='shadow1' tooltip='4:37 4-4-SD 39KC 24 SD 14 LI: 0.65-M.Scifres punts 52 yards to KC 9 Center-47-M.Windt fair catch by 22-D.McCluster.'>40.38</number><number>0.83</number>
+<number shadow='shadow1' tooltip='4:28 1-10-KC 9KC 24 SD 14 LI: 1.4(Shotgun) 34-K.Davis up the middle to KC 12 for 3 yards(32-E.Weddle 71-L.Guy).'>40.53</number><number>0.83</number>
+<number shadow='shadow1' tooltip='3:51 2-7-KC 12KC 24 SD 14 LI: 1.410-C.Daniel right end to KC 19 for 7 yards(50-M.Teo).'>41.15</number><number>0.85</number>
+<number shadow='shadow1' tooltip='3:03 1-10-KC 19KC 24 SD 14 LI: 1.1(Shotgun) 34-K.Davis up the middle to KC 20 for 1 yard(50-M.Teo 54-M.Ingram).'>41.95</number><number>0.84</number>
+<number shadow='shadow1' tooltip='2:27 2-9-KC 20KC 24 SD 14 LI: 132-C.Gray right end to KC 19 for -1 yards(92-C.Thomas 50-M.Teo).'>42.55</number><number>0.84</number>
+<number shadow='shadow1' tooltip='1:46 3-10-KC 19KC 24 SD 14 LI: 1(Shotgun) 10-C.Daniel sacked at KC 14 for -5 yards(91-K.Reyes).'>43.23</number><number>0.81</number>
+<number shadow='shadow1' tooltip='1:27 4-15-KC 14KC 24 SD 14 LI: 1.12-D.Colquitt punts 54 yards to SD 32 Center-43-T.Gafford13-K.Allen to SD 31 for -1 yards(52-J.Johnson).'>43.55</number><number>0.84</number>
+<number shadow='shadow1' tooltip='1:14 1-10-SD 31KC 24 SD 14 LI: 0.9(Shotgun) 17-P.Rivers pass short left to 13-K.Allen to SD 37 for 6 yards(27-S.Smith).'>43.77</number><number>0.83</number>
+<number shadow='shadow1' tooltip='0:45 2-4-SD 37KC 24 SD 14 LI: 0.924-R.Mathews left end to SD 38 for 1 yard(95-J.Martin).'>44.25</number><number>0.85</number>
+<number shadow='shadow1' tooltip='0:05 3-3-SD 38KC 24 SD 14 LI: 0.7(Shotgun) 17-P.Rivers pass short left to 39-D.Woodhead pushed ob at SD 46 for 8 yards(39-H.Abdullah).'>44.92</number><number>0.82</number>
+<number shadow='shadow1' tooltip='15:00 1-10-SD 46KC 24 SD 14 LI: 111-E.Royal left end to KC 39 for 15 yards(39-H.Abdullah 57-N.Johnson).'>45</number><number>0.79</number>
+<number shadow='shadow1' tooltip='14:24 1-10-KC 39KC 24 SD 14 LI: 1.2(Shotgun) 24-R.Mathews up the middle to KC 35 for 4 yards(97-A.Bailey).'>45.6</number><number>0.8</number>
+<number shadow='shadow1' tooltip='13:54 2-6-KC 35KC 24 SD 14 LI: 1.124-R.Mathews right end to KC 15 for 20 yards(35-Q.Demps).'>46.1</number><number>0.75</number>
+<number shadow='shadow1' tooltip='13:22 1-10-KC 15KC 24 SD 14 LI: 1.424-R.Mathews up the middle to KC 13 for 2 yards(97-A.Bailey).'>46.63</number><number>0.73</number>
+<number shadow='shadow1' tooltip='12:44 2-8-KC 13KC 24 SD 14 LI: 1.6(Shotgun) 17-P.Rivers pass incomplete short right to 13-K.Allen (31-M.Cooper).'>47.27</number><number>0.77</number>
+<number shadow='shadow1' tooltip='12:39 3-8-KC 13KC 24 SD 14 LI: 1.3(Shotgun) 17-P.Rivers pass short left to 85-A.Gates to KC 5 for 8 yards(27-S.Smith)KC-27-S.Smith was injured during the play.'>47.35</number><number>0.73</number>
+<number shadow='shadow1' tooltip='12:27 1-8-KC 8KC 24 SD 14 LI: 1.724-R.Mathews right tackle to KC 6 for 2 yards(52-J.Johnson 99-J.Powe)KC-52-J.Johnson was injured during the play.'>47.55</number><number>0.73</number>
+<number shadow='shadow1' tooltip='11:50 2-6-KC 6KC 24 SD 14 LI: 1.7(Shotgun) 17-P.Rivers pass short left to 11-E.Royal for 6 yards TOUCHDOWN.'>48.17</number><number>0.68</number>
+<number shadow='shadow1' tooltip='11:50 KC 24 SD 14 LI: 9-N.Novak extra point is GOOD Center-47-M.Windt Holder-5-M.Scifres.'>48.21</number><number>0.68</number>
+<number shadow='shadow1' tooltip='11:50 KC 24 SD 21 LI: 9-N.Novak kicks 70 yards from SD 35 to KC -534-K.Davis ran ob at KC 20 for 25 yards(31-R.Marshall).'>48.26</number><number>0.67</number>
+<number shadow='shadow1' tooltip='11:38 1-10-KC 20KC 24 SD 21 LI: 234-K.Davis up the middle to KC 20 for no gain (94-C.Liuget).'>48.37</number><number>0.65</number>
+<number shadow='shadow1' tooltip='11:00 2-10-KC 20KC 24 SD 21 LI: 1.9(Shotgun) 10-C.Daniel pass short left to 15-A.Jenkins pushed ob at KC 25 for 5 yards.'>49</number><number>0.66</number>
+<number shadow='shadow1' tooltip='10:31 3-5-KC 25KC 24 SD 21 LI: 1.9(Shotgun) 10-C.Daniel pass short right to 88-J.Hemingway to KC 31 for 6 yards(29-S.Wright).'>49.48</number><number>0.71</number>
+<number shadow='shadow1' tooltip='9:53 1-10-KC 31KC 24 SD 21 LI: 2.434-K.Davis up the middle to KC 29 for -2 yards(50-M.Teo).'>50.12</number><number>0.71</number>
+<number shadow='shadow1' tooltip='9:14 2-12-KC 29KC 24 SD 21 LI: 2.4(Shotgun) 10-C.Daniel pass short right to 22-D.McCluster to KC 26 for -3 yards(38-M.Gilchrist).'>50.77</number><number>0.66</number>
+<number shadow='shadow1' tooltip='8:32 3-15-KC 26KC 24 SD 21 LI: 2(Shotgun) 10-C.Daniel pass short middle to 32-C.Gray to KC 32 for 6 yards(32-E.Weddle).'>51.47</number><number>0.66</number>
+<number shadow='shadow1' tooltip='7:49 4-9-KC 32KC 24 SD 21 LI: 1.72-D.Colquitt punts 45 yards to SD 23 Center-43-T.Gafford13-K.Allen to SD 30 for 7 yards(55-A.Jordan 51-F.Zombo).'>52.18</number><number>0.65</number>
+<number shadow='shadow1' tooltip='7:37 1-10-SD 30KC 24 SD 21 LI: 2.1(Shotgun) 17-P.Rivers pass short right to 39-D.Woodhead to SD 39 for 9 yards(97-A.Bailey).'>52.38</number><number>0.6</number>
+<number shadow='shadow1' tooltip='7:08 2-1-SD 39KC 24 SD 21 LI: 2.524-R.Mathews right end to SD 46 for 7 yards(31-M.Cooper 39-H.Abdullah).'>52.87</number><number>0.57</number>
+<number shadow='shadow1' tooltip='6:30 1-10-SD 46KC 24 SD 21 LI: 2.7(Shotgun) 17-P.Rivers pass incomplete short middle to 24-R.Mathews.'>53.5</number><number>0.63</number>
+<number shadow='shadow1' tooltip='6:26 2-10-SD 46KC 24 SD 21 LI: 2.1(Shotgun) 17-P.Rivers pass short right to 13-K.Allen to KC 46 for 8 yards(31-M.Cooper).'>53.57</number><number>0.66</number>
+<number shadow='shadow1' tooltip='5:43 3-2-KC 46KC 24 SD 21 LI: 1.8(Shotgun) 17-P.Rivers pass short left to 13-K.Allen to KC 8 for 38 yards(55-A.Jordan).'>54.28</number><number>0.36</number>
+<number shadow='shadow1' tooltip='4:57 1-8-KC 8KC 24 SD 21 LI: 424-R.Mathews up the middle to KC 5 for 3 yards(96-J.Howard).'>55.05</number><number>0.35</number>
+<number shadow='shadow1' tooltip='4:17 2-5-KC 5KC 24 SD 21 LI: 4(Shotgun) 17-P.Rivers up the middle to KC 4 for 1 yard(97-A.Bailey 95-J.Martin).'>55.72</number><number>0.41</number>
+<number shadow='shadow1' tooltip='3:31 3-4-KC 4KC 24 SD 21 LI: 3.4(Shotgun) 17-P.Rivers pass incomplete short right [51-F.Zombo].'>56.48</number><number>0.58</number>
+<number shadow='shadow1' tooltip='3:24 4-4-KC 4KC 24 SD 21 LI: 1.89-N.Novak 22 yard field goal is GOOD Center-47-M.Windt Holder-5-M.Scifres.'>56.6</number><number>0.64</number>
+<number shadow='shadow1' tooltip='3:24 KC 24 SD 24 LI: 9-N.Novak kicks 65 yards from SD 35 to end zone Touchback.'>56.69</number><number>0.57</number>
+<number shadow='shadow1' tooltip='2:40 1-10-KC 34KC 24 SD 24 LI: 4.7(Shotgun) 10-C.Daniel pass short left to 84-S.McGrath to KC 45 for 11 yards(38-M.Gilchrist).'>57.33</number><number>0.7</number>
+<number shadow='shadow1' tooltip='2:31 1-10-KC 45KC 24 SD 24 LI: 4.210-C.Daniel pass deep right to 88-J.Hemingway to SD 31 for 24 yards(31-R.Marshall).'>57.48</number><number>0.82</number>
+<number shadow='shadow1' tooltip='2:00 1-10-SD 31KC 24 SD 24 LI: 5.134-K.Davis up the middle to SD 29 for 2 yards(96-J.Johnson 32-E.Weddle).'>58</number><number>0.77</number>
+<number shadow='shadow1' tooltip='1:55 2-8-SD 29KC 24 SD 24 LI: 4.534-K.Davis right end to SD 24 for 5 yards(32-E.Weddle).'>58.08</number><number>0.79</number>
+<number shadow='shadow1' tooltip='1:49 3-3-SD 24KC 24 SD 24 LI: 4.2Direct snap to 32-C.Gray 32-C.Gray left end to SD 21 for 3 yards(56-D.Butler 25-D.Stuckey).'>58.18</number><number>0.86</number>
+<number shadow='shadow1' tooltip='1:39 1-10-SD 21KC 24 SD 24 LI: 4.534-K.Davis up the middle to SD 20 for 1 yard(94-C.Liuget 96-J.Johnson).'>58.35</number><number>0.83</number>
+<number shadow='shadow1' tooltip='1:33 2-9-SD 20KC 24 SD 24 LI: 4.134-K.Davis up the middle to SD 22 for -2 yards(54-M.Ingram 50-M.Teo).'>58.45</number><number>0.84</number>
+<number shadow='shadow1' tooltip='0:53 3-11-SD 22KC 24 SD 24 LI: 3.934-K.Davis up the middle to SD 23 for -1 yards(56-D.Butler).'>59.12</number><number>0.85</number>
+<number shadow='shadow1' tooltip='0:08 4-12-SD 23KC 24 SD 24 LI: 3.76-R.Succop 41 yard field goal is No Good Wide Right Center-43-T.Gafford Holder-2-D.Colquitt.'>59.87</number><number>0.47</number>
+<number shadow='shadow1' tooltip='0:04 1-10-SD 31KC 24 SD 24 LI: 2.917-P.Rivers kneels dead ball declared at SD 30 for -1 yards.'>59.93</number><number>0.55</number>
+<number shadow='shadow1' tooltip='0:04 KC 24 SD 24 LI: 6-R.Succop kicks 70 yards from KC 35 to SD -523-R.Brown Touchback.'>60.02</number><number>0.47</number>
+<number shadow='shadow1' tooltip='14:33 2-5-SD 25KC 24 SD 24 LI: 2.5(Shotgun) 39-D.Woodhead up the middle to SD 25 for no gain (35-Q.Demps).'>60.45</number><number>0.58</number>
+<number shadow='shadow1' tooltip='13:41 2-15-SD 15KC 24 SD 24 LI: 2(Shotgun) 17-P.Rivers pass short middle to 13-K.Allen to SD 28 for 13 yards(21-D.Robinson).'>61.32</number><number>0.5</number>
+<number shadow='shadow1' tooltip='12:58 3-2-SD 28KC 24 SD 24 LI: 2.3(Shotgun) 17-P.Rivers pass incomplete short middle to 85-A.Gates.'>62.03</number><number>0.59</number>
+<number shadow='shadow1' tooltip='12:33 1-10-SD 30KC 24 SD 24 LI: 2.839-D.Woodhead up the middle to SD 33 for 3 yards(97-A.Bailey).'>62.45</number><number>0.45</number>
+<number shadow='shadow1' tooltip='12:09 2-7-SD 33KC 24 SD 24 LI: 2.6(Shotgun) 39-D.Woodhead up the middle to SD 39 for 6 yards(96-J.Howard).'>62.85</number><number>0.43</number>
+<number shadow='shadow1' tooltip='11:29 3-1-SD 39KC 24 SD 24 LI: 2.524-R.Mathews up the middle to SD 49 for 10 yards(38-R.Parker).'>63.52</number><number>0.38</number>
+<number shadow='shadow1' tooltip='10:47 1-10-SD 49KC 24 SD 24 LI: 2.524-R.Mathews up the middle to KC 49 for 2 yards(96-J.Howard 57-N.Johnson).'>64.22</number><number>0.37</number>
+<number shadow='shadow1' tooltip='10:10 2-8-KC 49KC 24 SD 24 LI: 2.524-R.Mathews up the middle to KC 35 for 14 yards(23-K.Lewis).'>64.83</number><number>0.3</number>
+<number shadow='shadow1' tooltip='9:29 1-10-KC 35KC 24 SD 24 LI: 2.724-R.Mathews right end to KC 34 for 1 yard(51-F.Zombo).'>65.52</number><number>0.32</number>
+<number shadow='shadow1' tooltip='8:48 2-9-KC 34KC 24 SD 24 LI: 2.539-D.Woodhead right end to KC 31 for 3 yards(31-M.Cooper).'>66.2</number><number>0.32</number>
+<number shadow='shadow1' tooltip='8:18 3-6-KC 31KC 24 SD 24 LI: 2.4(Shotgun) 17-P.Rivers pass short left to 39-D.Woodhead to KC 23 for 8 yards(55-A.Jordan).'>66.7</number><number>0.25</number>
+<number shadow='shadow1' tooltip='7:35 1-10-KC 23KC 24 SD 24 LI: 2.911-E.Royal left end to KC 21 for 2 yards(39-H.Abdullah 77-M.Catapano).'>67.42</number><number>0.23</number>
+<number shadow='shadow1' tooltip='6:54 2-8-KC 21KC 24 SD 24 LI: 3.1(Shotgun) 17-P.Rivers pass short middle to 39-D.Woodhead to KC 16 for 5 yards(39-H.Abdullah).'>68.1</number><number>0.22</number>
+<number shadow='shadow1' tooltip='6:11 3-3-KC 16KC 24 SD 24 LI: 3(Shotgun) 17-P.Rivers pass short right to 11-E.Royal to KC 18 for -2 yards(21-D.Robinson).'>68.82</number><number>0.27</number>
+<number shadow='shadow1' tooltip='5:35 4-5-KC 18KC 24 SD 24 LI: 2.69-N.Novak 36 yard field goal is GOOD Center-47-M.Windt Holder-5-M.Scifres.'>69.42</number><number>0.55</number>
+<number shadow='shadow1' tooltip='5:35 KC 24 SD 27 LI: 9-N.Novak kicks 69 yards from SD 35 to KC -435-Q.Demps to KC 26 for 30 yards(89-L.Green 32-E.Weddle).'>69.51</number><number>0.24</number>
+<number shadow='shadow1' tooltip='5:24 1-10-KC 26KC 24 SD 27 LI: 0.1(Shotgun) 10-C.Daniel pass short right to 81-R.Gordon to KC 29 for 3 yards(50-M.Teo).'>69.6</number><number>0.25</number>
+<number shadow='shadow1' tooltip='4:42 2-7-KC 29KC 24 SD 27 LI: 0.1(Shotgun) 10-C.Daniel pass short middle to 22-D.McCluster ran ob at SD 43 for 28 yards(32-E.Weddle).'>70.3</number><number>0.43</number>
+<number shadow='shadow1' tooltip='4:34 1-10-SD 43KC 24 SD 27 LI: 0.110-C.Daniel scrambles right end ran ob at SD 41 for 2 yards(38-M.Gilchrist).'>70.43</number><number>0.45</number>
+<number shadow='shadow1' tooltip='4:27 2-8-SD 41KC 24 SD 27 LI: 0.1(Shotgun) 10-C.Daniel pass incomplete deep left to 15-A.Jenkins.'>70.55</number><number>0.5</number>
+<number shadow='shadow1' tooltip='4:22 1-10-SD 36KC 24 SD 27 LI: 0.134-K.Davis right end to SD 41 for -5 yards(56-D.Butler 91-K.Reyes).'>70.63</number><number>0.34</number>
+<number shadow='shadow1' tooltip='3:38 2-15-SD 41KC 24 SD 27 LI: 0.1(Shotgun) 10-C.Daniel pass incomplete deep left to 15-A.Jenkins [52-R.Walker].'>71.37</number><number>0.25</number>
+<number shadow='shadow1' tooltip='3:31 3-15-SD 41KC 24 SD 27 LI: 0.110-C.Daniel pass incomplete deep middle to 15-A.Jenkins (37-J.Addae) [94-C.Liuget].'>71.48</number><number>0.13</number>
+<number shadow='shadow1' tooltip='3:25 4-15-SD 41KC 24 SD 27 LI: 0.110-C.Daniel pass incomplete deep middle to 15-A.Jenkins.'>71.58</number><number>0</number>
+<number>71.58</number><number>0</number>
+</row> </chart_data>
+       <draw>
+
+
+
+      <image x='45' y='298'  url='nfllogos/42x50png/KC.gif'  layer='foreground' glow = 'glow1'/>
+      <image x='45' y='350'  url='nfllogos/42x50png/SD.gif'     layer='foreground' glow = 'glow1'/>
+
+
+      <rect x='130' y='300' width='250' height='40' fill_color='ee2f2b' bevel='bevel1' />
+      <text x='135' y='300' width='250' height='40' h_align='left' v_align='middle' color='ffffff' shadow='shadow2' glow=''>Kansas City Chiefs</text>
+
+      <rect x='130' y='350' width='250' height='40' fill_color='087ac3' bevel='bevel1'  />
+      <text x='135' y='350' width='250' height='40' h_align='left' v_align='middle' color='ffffff' shadow='shadow2' glow='winnerglow'>San Diego Chargers</text>
+
+      <rect x='420' y='300' width='60' height='40' fill_color='ee2f2b' bevel='bevel1'  />
+      <text x='420' y='300' width='60' height='40' h_align='center' v_align='middle' color='ffffff' shadow='shadow2' transition='none' glow=''>24</text>
+
+      <rect x='420' y='350' width='60' height='40' fill_color='087ac3' bevel='bevel1' />
+      <text x='420' y='350' width='60' height='40' h_align='center' v_align='middle' color='ffffff' shadow='shadow2' transition='none' glow='winnerglow'>27</text>
+
+      <text x='-3' y='12'  width='60' height='40' h_align='center' v_align='middle' size='13' shadow='shadow2'>KCWin </text>
+      <text x='-3' y='218' width='60' height='40' h_align='center' v_align='middle' size='13' shadow='shadow2'>SDWin </text>
+
+     
+              <rect x='540' y='300' width='100' height='35' fill_color='000000' fill_alpha='50'/>
+              <text x='540' y='300' width='100' height='35' h_align='center' v_align='middle' color='ffffff' size='15' shadow='shadow2' >Final</text>
+
+              <text x='540' y='340' width='40' h_align='center' color='000000' size='12' shadow='shadow2'>CBF</text>
+              <text x='600' y='340' width='40' h_align='center' color='000000' size='12' shadow='shadow2'>EI</text>
+
+              <rect x='540' y='360' width='40' height='30' fill_color='000000' fill_alpha='50' />
+              <text x='540' y='360' width='40' height='30' size='12' h_align='center' v_align='middle' color='FFFFFF' shadow='shadow2'>7</text>
+
+              <rect x='600' y='360' width='40' height='30' fill_color='000000' fill_alpha='50' />
+              <text x='600' y='360' width='40' height='30' size='12' h_align='center' v_align='middle' color='FFFFFF' shadow='shadow2'>6.9</text>
+
+              <text x='20' y='420' width='70' height='25' size='12' h_align='left' v_align='middle' color='000000' >12/29/2013</text>
+              <text x='100' y='420' width='200' height='25' size='12' h_align='left' v_align='middle' color='000000' >Qualcomm Stadium</text>
+
+   </draw></chart>

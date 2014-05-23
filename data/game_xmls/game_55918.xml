@@ -1,0 +1,287 @@
+
+<chart>
+   <license>ETAS9P33ESHO.945CWK-2XOI1X0-7L</license>
+   <chart_type>scatter</chart_type>
+   <chart_pref trend_thickness='0' line_thickness='3' point_size='0'/>
+
+   <series_color>
+      <color>ffff00</color>
+   </series_color>
+
+   <chart_rect x='45' y='20' width='630' height='230' positive_color='cacaca'  />
+
+  <chart_border top_thickness='0'
+                 bottom_thickness='0'
+                 left_thickness='0'
+                 right_thickness='0'
+                 color='000000'
+                 />
+
+   <tooltip font='Arial' bold='true' size='11' />
+
+   <chart_note type='flag'
+               color='000000'
+               alpha='90'
+               bold='FALSE'
+               size='10'
+               background_color='ffffe0'
+               background_alpha='50'
+               shadow='shadow2'
+               />
+
+   <chart_grid_h thickness='2' color='ffffff' type='dashed'  />
+   <chart_grid_v thickness='2' color='ffffff'   />
+		>
+
+   <legend layout='hide' />
+
+   <chart_guide horizontal='TRUE'
+             vertical='TRUE'
+             thickness='1'
+             color='006400'
+             alpha='100'
+             type='solid'
+             snap_h='TRUE'
+             snap_v='TRUE'
+             radius='3'
+             fill_color='006400'
+             fill_alpha='100'
+             line_color='006400'
+             line_alpha='80'
+             line_thickness='1'
+             text_h_alpha='50'
+             text_v_alpha='00'
+             suffix_h=' WP'
+             decimals='2'
+             bold='FALSE'
+             size='11'
+             text_color='FFFFFF'
+             background_color='006400'
+             />
+   <filter>
+      <shadow id='shadow1' distance='2' angle='60' blurX='5' blurY='5' alpha='50' />
+      <bevel id='bevel1' angle='45' blurX='5' blurY='5' distance='0' />
+      <glow id='glow1' color='ffffff' alpha='0' blurX='7' blurY='7' strength='6' quality='2' inner='FALSE' knockout='FALSE' />
+      <glow id='winnerglow' color='ffffff' alpha='0' blurX='7' blurY='7' strength='5' quality='2' inner='FALSE' knockout='FALSE' />
+   </filter>
+
+    <axis_value_label>
+         <string></string>
+          <string> </string>
+          <null/>
+          <string> </string>
+          <string></string>
+
+       </axis_value_label>
+		
+	   <axis_ticks category_ticks='false'/>
+
+       <axis_value min='0' max='1' steps='4'  decimals='2' show_min='true' size='13' shadow='shadow2' />     
+            <axis_category
+               min='0'
+               max='60'
+               steps='4'
+               mode='all'
+               decimals='0'
+               size='13'
+               shadow='shadow2'
+               />
+
+       <axis_category_label>
+          <string>Kickoff</string>
+          <string></string>
+          <string>Halftime</string>
+          <string></string>
+          <string>End</string>
+
+       </axis_category_label>
+
+
+        <chart_data>
+       <row>
+	      <null/><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number>
+              <number>x</number><number>y</number>
+              </row><row><string></string>
+
+                     <number shadow='shadow1'>0</number><number>.5</number><number shadow='shadow1' tooltip='15:00 SL 0 HST 0 LI: 4-R.Bullock kicks 62 yards from HST 35 to SL 336-B.Cunningham pushed ob at SL 33 for 30 yards(31-S.Keo).'>0.09</number><number>0.54</number>
+<number shadow='shadow1' tooltip='14:53 1-10-SL 33SL 0 HST 0 LI: 1.530-Z.Stacy up the middle to SL 33 for no gain (94-A.Smith).'>0.12</number><number>0.52</number>
+<number shadow='shadow1' tooltip='14:19 2-10-SL 33SL 0 HST 0 LI: 1.330-Z.Stacy right guard to SL 35 for 2 yards(59-W.Mercilus; 53-J.Mays).'>0.68</number><number>0.5</number>
+<number shadow='shadow1' tooltip='13:19 3-3-SL 40SL 0 HST 0 LI: 1.1(Shotgun) 8-S.Bradford pass incomplete short middle to 13-C.Givens [99-J.Watt].'>1.68</number><number>0.48</number>
+<number shadow='shadow1' tooltip='12:50 4-3-SL 40SL 0 HST 0 LI: 0.76-J.Hekker punts 47 yards to HST 13 Center-44-J.McQuaide out of bounds(The punt hang time was 5.1 seconds.)'>2.17</number><number>0.5</number>
+<number shadow='shadow1' tooltip='12:11 1-10-HST 13SL 0 HST 0 LI: 1.723-A.Foster right guard to HST 31 for 18 yards(22-T.Johnson 23-R.McLeod).'>2.82</number><number>0.46</number>
+<number shadow='shadow1' tooltip='11:39 1-10-HST 31SL 0 HST 0 LI: 1.523-A.Foster left guard to HST 33 for 2 yards(98-K.Langford; 52-A.Ogletree).'>3.35</number><number>0.48</number>
+<number shadow='shadow1' tooltip='11:06 2-8-HST 33SL 0 HST 0 LI: 1.323-A.Foster up the middle to HST 44 for 11 yards(22-T.Johnson).'>3.9</number><number>0.44</number>
+<number shadow='shadow1' tooltip='10:28 1-10-HST 44SL 0 HST 0 LI: 1.423-A.Foster left tackle to HST 42 for -2 yards(97-E.Sims).'>4.53</number><number>0.47</number>
+<number shadow='shadow1' tooltip='9:47 2-12-HST 42SL 0 HST 0 LI: 1.28-M.Schaub pass incomplete short right to 23-A.Foster.'>5.22</number><number>0.49</number>
+<number shadow='shadow1' tooltip='9:42 3-12-HST 42SL 0 HST 0 LI: 1(Shotgun) 8-M.Schaub pass short left to 23-A.Foster to 50 for 8 yards(52-A.Ogletree)PENALTY on HST-76-D.Brown Face Mask (15 Yards) 15 yards enforced at HST 42 - No Play.'>5.3</number><number>0.53</number>
+<number shadow='shadow1' tooltip='9:16 3-27-HST 27SL 0 HST 0 LI: 0.9(Shotgun) 23-A.Foster left end pushed ob at HST 31 for 4 yards(52-A.Ogletree).'>5.73</number><number>0.54</number>
+<number shadow='shadow1' tooltip='9:00 4-23-HST 31SL 0 HST 0 LI: 0.79-S.Lechler punts 34 yards to SL 35 Center-46-J.Weeks downed by HST-11-D.Posey(The punt hang time was 4.9 seconds.)'>6</number><number>0.54</number>
+<number shadow='shadow1' tooltip='8:47 1-10-SL 35SL 0 HST 0 LI: 1.48-S.Bradford pass incomplete short left to 88-L.Kendricks.'>6.22</number><number>0.52</number>
+<number shadow='shadow1' tooltip='8:43 2-10-SL 35SL 0 HST 0 LI: 1.28-S.Bradford pass incomplete deep right to 83-B.QuickPenalty on HST-94-A.Smith Roughing the Passer declinedPENALTY on HST-25-K.Jackson Defensive Pass Interference 40 yards enforced at SL 35 - No Play.'>6.28</number><number>0.63</number>
+<number shadow='shadow1' tooltip='8:33 1-10-HST 25SL 0 HST 0 LI: 1.630-Z.Stacy up the middle to HST 25 for no gain (38-D.Manning).'>6.45</number><number>0.61</number>
+<number shadow='shadow1' tooltip='7:57 2-10-HST 25SL 0 HST 0 LI: 1.4(Shotgun) 8-S.Bradford pass short left to 13-C.Givens to HST 12 for 13 yards(38-D.Manning).'>7.05</number><number>0.67</number>
+<number shadow='shadow1' tooltip='7:19 1-10-HST 12SL 0 HST 0 LI: 1.730-Z.Stacy up the middle to HST 6 for 6 yards(58-B.Reed 56-B.Cushing).'>7.68</number><number>0.68</number>
+<number shadow='shadow1' tooltip='6:42 2-4-HST 6SL 0 HST 0 LI: 1.830-Z.Stacy up the middle to HST 2 for 4 yards(20-E.Reed 24-J.Joseph).'>8.3</number><number>0.69</number>
+<number shadow='shadow1' tooltip='6:05 1-2-HST 2SL 0 HST 0 LI: 1.98-S.Bradford pass short right to 46-C.Harkey for 2 yards TOUCHDOWN.'>8.92</number><number>0.71</number>
+<number shadow='shadow1' tooltip='6:05 SL 0 HST 0 LI: 4-G.Zuerlein extra point is GOOD Center-44-J.McQuaide Holder-6-J.Hekker.'>8.96</number><number>0.71</number>
+<number shadow='shadow1' tooltip='6:05 SL 7 HST 0 LI: 4-G.Zuerlein kicks 71 yards from SL 35 to HST -638-D.Manning to HST 12 for 18 yards(20-D.Stewart).'>9.01</number><number>0.73</number>
+<number shadow='shadow1' tooltip='5:52 1-10-HST 12SL 7 HST 0 LI: 1.48-M.Schaub sacked at HST 11 for -1 yards(90-M.Brockers).'>9.13</number><number>0.75</number>
+<number shadow='shadow1' tooltip='5:15 2-11-HST 11SL 7 HST 0 LI: 1.28-M.Schaub pass short middle to 10-D.Hopkins to HST 33 for 22 yards(22-T.Johnson).'>9.75</number><number>0.7</number>
+<number shadow='shadow1' tooltip='4:37 1-10-HST 33SL 7 HST 0 LI: 1.48-M.Schaub pass short left to 33-G.Jones to HST 37 for 4 yards(21-J.Jenkins; 58-J.Dunbar).'>10.38</number><number>0.7</number>
+<number shadow='shadow1' tooltip='4:09 2-6-HST 37SL 7 HST 0 LI: 1.323-A.Foster right end pushed ob at HST 42 for 5 yards(55-J.Laurinaitis)PENALTY on HST-75-D.Newton Offensive Holding 10 yards enforced at HST 40.'>10.85</number><number>0.71</number>
+<number shadow='shadow1' tooltip='3:49 2-13-HST 30SL 7 HST 0 LI: 1.4(Shotgun) 8-M.Schaub pass short right to 44-B.Tate to HST 40 for 10 yards(22-T.Johnson 52-A.Ogletree)PENALTY on SL Personal Foul 15 yards enforced at HST 40.'>11.18</number><number>0.67</number>
+<number shadow='shadow1' tooltip='3:39 1-10-SL 45SL 7 HST 0 LI: 1.144-B.Tate left tackle to SL 45 for no gain (90-M.Brockers).'>11.35</number><number>0.67</number>
+<number shadow='shadow1' tooltip='2:33 2-10-SL 45SL 7 HST 0 LI: 1.18-M.Schaub pass short middle to 80-A.Johnson pushed ob at SL 26 for 19 yards(52-A.Ogletree).'>12.45</number><number>0.64</number>
+<number shadow='shadow1' tooltip='2:01 1-10-SL 26SL 7 HST 0 LI: 0.98-M.Schaub pass short middle to 10-D.Hopkins to SL 14 for 12 yards(52-A.Ogletree) [94-R.Quinn]FUMBLES (52-A.Ogletree) RECOVERED by SL-55-J.Laurinaitis at SL 1455-J.Laurinaitis to HST 43 for 43 yards(79-B.Brooks).'>12.98</number><number>0.81</number>
+<number shadow='shadow1' tooltip='1:44 1-10-HST 43SL 7 HST 0 LI: 1.230-Z.Stacy up the middle to HST 36 for 7 yards(56-B.Cushing 53-J.Mays).'>13.27</number><number>0.81</number>
+<number shadow='shadow1' tooltip='1:06 2-3-HST 36SL 7 HST 0 LI: 1.18-S.Bradford pass short left to 11-T.Austin to HST 33 for 3 yards(25-K.Jackson).'>13.9</number><number>0.83</number>
+<number shadow='shadow1' tooltip='0:26 1-10-HST 33SL 7 HST 0 LI: 1.330-Z.Stacy right tackle to HST 31 for 2 yards(59-W.Mercilus 93-J.Crick).'>14.57</number><number>0.83</number>
+<number shadow='shadow1' tooltip='15:00 2-8-HST 31SL 7 HST 0 LI: 1.38-S.Bradford pass short right to 13-C.Givens pushed ob at HST 24 for 7 yards(58-B.Reed).'>15</number><number>0.85</number>
+<number shadow='shadow1' tooltip='14:32 3-1-HST 24SL 7 HST 0 LI: 1.4PENALTY on SL-65-C.Williams False Start 5 yards enforced at HST 24 - No Play.'>15.47</number><number>0.82</number>
+<number shadow='shadow1' tooltip='14:11 3-6-HST 29SL 7 HST 0 LI: 1.1(Shotgun) 8-S.Bradford pass short right to 30-Z.Stacy to HST 24 for 5 yards(36-D.Swearinger).'>15.82</number><number>0.79</number>
+<number shadow='shadow1' tooltip='13:26 4-1-HST 24SL 7 HST 0 LI: 0.84-G.Zuerlein 42 yard field goal is GOOD Center-44-J.McQuaide Holder-6-J.Hekker.'>16.57</number><number>0.81</number>
+<number shadow='shadow1' tooltip='13:26 SL 10 HST 0 LI: 4-G.Zuerlein kicks 65 yards from SL 35 to end zone Touchback.'>16.66</number><number>0.82</number>
+<number shadow='shadow1' tooltip='12:49 1-10-HST 32SL 10 HST 0 LI: 0.68-M.Schaub pass short right to 10-D.Hopkins to HST 45 for 13 yards(20-D.Stewart).'>17.18</number><number>0.77</number>
+<number shadow='shadow1' tooltip='12:12 1-10-HST 45SL 10 HST 0 LI: 0.823-A.Foster right guard to SL 32 for 23 yards(23-R.McLeod).'>17.8</number><number>0.74</number>
+<number shadow='shadow1' tooltip='11:30 1-10-SL 32SL 10 HST 0 LI: 123-A.Foster up the middle to SL 10 for 22 yards(52-A.Ogletree).'>18.5</number><number>0.66</number>
+<number shadow='shadow1' tooltip='10:48 1-10-SL 10SL 10 HST 0 LI: 1.723-A.Foster right end to SL 5 for 5 yards(91-C.Long).'>19.2</number><number>0.66</number>
+<number shadow='shadow1' tooltip='10:05 2-5-SL 5SL 10 HST 0 LI: 1.744-B.Tate up the middle to SL 4 for 1 yard(97-E.Sims).'>19.92</number><number>0.68</number>
+<number shadow='shadow1' tooltip='9:21 3-4-SL 4SL 10 HST 0 LI: 1.5(Shotgun) PENALTY on HST-75-D.Newton False Start 5 yards enforced at SL 4 - No Play.'>20.65</number><number>0.7</number>
+<number shadow='shadow1' tooltip='9:00 3-9-SL 9SL 10 HST 0 LI: 1.3(Shotgun) 8-M.Schaub pass short left to 82-K.Martin pushed ob at SL 2 for 7 yards(21-J.Jenkins).'>21</number><number>0.74</number>
+<number shadow='shadow1' tooltip='8:24 4-2-SL 2SL 10 HST 0 LI: 14-R.Bullock 20 yard field goal is GOOD Center-46-J.Weeks Holder-9-S.Lechler.'>21.6</number><number>0.75</number>
+<number shadow='shadow1' tooltip='8:24 SL 10 HST 3 LI: 4-R.Bullock kicks 73 yards from HST 35 to SL -836-B.Cunningham Touchback.'>21.69</number><number>0.74</number>
+<number shadow='shadow1' tooltip='8:14 2-10-SL 20SL 10 HST 3 LI: 126-D.Richardson up the middle to SL 20 for no gain (94-A.Smith).'>21.77</number><number>0.72</number>
+<number shadow='shadow1' tooltip='7:35 3-10-SL 20SL 10 HST 3 LI: 0.8(Shotgun) 8-S.Bradford pass short right to 26-D.Richardson pushed ob at SL 38 for 18 yards(38-D.Manning).'>22.42</number><number>0.77</number>
+<number shadow='shadow1' tooltip='7:04 1-10-SL 38SL 10 HST 3 LI: 126-D.Richardson left guard to SL 42 for 4 yards(97-T.McClain 56-B.Cushing).'>22.93</number><number>0.77</number>
+<number shadow='shadow1' tooltip='6:07 2-1-SL 47SL 10 HST 3 LI: 1.130-Z.Stacy up the middle to HST 45 for 8 yards(20-E.Reed).'>23.88</number><number>0.8</number>
+<number shadow='shadow1' tooltip='5:25 1-10-HST 45SL 10 HST 3 LI: 1.18-S.Bradford scrambles right end to HST 41 for 4 yards(59-W.Mercilus)PENALTY on HST-56-B.Cushing Unnecessary Roughness 15 yards enforced at HST 41.'>24.58</number><number>0.83</number>
+<number shadow='shadow1' tooltip='5:01 1-10-HST 26SL 10 HST 3 LI: 1.130-Z.Stacy left guard to HST 8 for 18 yards(58-B.Reed).'>24.98</number><number>0.87</number>
+<number shadow='shadow1' tooltip='4:16 1-8-HST 8SL 10 HST 3 LI: 1.326-D.Richardson up the middle to HST 7 for 1 yard(92-E.Mitchell 20-E.Reed).'>25.73</number><number>0.87</number>
+<number shadow='shadow1' tooltip='3:30 2-7-HST 7SL 10 HST 3 LI: 1.330-Z.Stacy up the middle to HST 2 for 5 yards(38-D.Manning 58-B.Reed).'>26.5</number><number>0.86</number>
+<number shadow='shadow1' tooltip='2:48 3-2-HST 2SL 10 HST 3 LI: 1.28-S.Bradford pass short left to 88-L.Kendricks for 2 yards TOUCHDOWN.'>27.2</number><number>0.9</number>
+<number shadow='shadow1' tooltip='2:48 SL 10 HST 3 LI: 4-G.Zuerlein extra point is GOOD Center-44-J.McQuaide Holder-6-J.Hekker.'>27.24</number><number>0.9</number>
+<number shadow='shadow1' tooltip='2:48 SL 17 HST 3 LI: 4-G.Zuerlein kicks 65 yards from SL 35 to end zone Touchback.'>27.29</number><number>0.9</number>
+<number shadow='shadow1' tooltip='2:38 2-10-HST 20SL 17 HST 3 LI: 0.4(Shotgun) 8-M.Schaub pass short right to 82-K.Martin pushed ob at HST 25 for 5 yards(23-R.McLeod).'>27.37</number><number>0.9</number>
+<number shadow='shadow1' tooltip='2:05 3-5-HST 25SL 17 HST 3 LI: 0.3(Shotgun) 8-M.Schaub pass short middle to 80-A.Johnson to HST 40 for 15 yards(27-M.Giordano).'>27.92</number><number>0.89</number>
+<number shadow='shadow1' tooltip='1:58 1-10-HST 40SL 17 HST 3 LI: 0.4(Shotgun) 8-M.Schaub pass short left to 23-A.Foster pushed ob at SL 19 for 41 yards(22-T.Johnson).'>28.03</number><number>0.84</number>
+<number shadow='shadow1' tooltip='1:47 1-10-SL 19SL 17 HST 3 LI: 0.6(Shotgun) 8-M.Schaub sacked at SL 22 for -3 yards(90-M.Brockers).'>28.22</number><number>0.84</number>
+<number shadow='shadow1' tooltip='1:37 2-13-SL 22SL 17 HST 3 LI: 0.6(Shotgun) 8-M.Schaub pass short middle to 23-A.Foster to SL 17 for 5 yards(27-M.Giordano).'>28.38</number><number>0.84</number>
+<number shadow='shadow1' tooltip='0:59 3-8-SL 17SL 17 HST 3 LI: 0.6(Shotgun) 8-M.Schaub pass incomplete deep right to 10-D.Hopkins.'>29.02</number><number>0.87</number>
+<number shadow='shadow1' tooltip='0:53 4-8-SL 17SL 17 HST 3 LI: 0.34-R.Bullock 35 yard field goal is GOOD Center-46-J.Weeks Holder-9-S.Lechler.'>29.12</number><number>0.87</number>
+<number shadow='shadow1' tooltip='0:53 SL 17 HST 6 LI: 4-R.Bullock kicks 66 yards from HST 35 to SL -136-B.Cunningham ran ob at SL 25 for 26 yards(21-B.McCain).'>29.21</number><number>0.87</number>
+<number shadow='shadow1' tooltip='0:43 1-10-SL 25SL 17 HST 6 LI: 1.230-Z.Stacy up the middle to SL 29 for 4 yards(92-E.Mitchell; 94-A.Smith).'>29.28</number><number>0.83</number>
+<number shadow='shadow1' tooltip='0:43 SL 17 HST 6 LI: 4-G.Zuerlein kicks 63 yards from SL 35 to HST 2 out of bounds.'>29.37</number><number>0.81</number>
+<number shadow='shadow1' tooltip='15:00 1-10-HST 40SL 17 HST 6 LI: 1.18-M.Schaub pass short right to 80-A.Johnson to SL 49 for 11 yards(22-T.Johnson).'>30</number><number>0.79</number>
+<number shadow='shadow1' tooltip='14:21 1-10-SL 49SL 17 HST 6 LI: 1.18-M.Schaub pass incomplete short left to 80-A.Johnson.'>30.65</number><number>0.81</number>
+<number shadow='shadow1' tooltip='14:15 2-10-SL 49SL 17 HST 6 LI: 0.923-A.Foster left guard to SL 49 for no gain (90-M.Brockers).'>30.75</number><number>0.83</number>
+<number shadow='shadow1' tooltip='13:51 3-10-SL 49SL 17 HST 6 LI: 0.78-M.Schaub pass short middle to 88-G.Graham to SL 44 for 5 yards(23-R.McLeod; 55-J.Laurinaitis).'>31.15</number><number>0.85</number>
+<number shadow='shadow1' tooltip='13:12 4-5-SL 44SL 17 HST 6 LI: 0.59-S.Lechler punts 44 yards to end zone Center-46-J.Weeks Touchback.'>31.8</number><number>0.86</number>
+<number shadow='shadow1' tooltip='13:02 1-10-SL 20SL 17 HST 6 LI: 1.18-S.Bradford pass short right to 30-Z.Stacy to SL 26 for 6 yards(58-B.Reed 56-B.Cushing) [59-W.Mercilus].'>31.97</number><number>0.86</number>
+<number shadow='shadow1' tooltip='12:29 2-4-SL 26SL 17 HST 6 LI: 130-Z.Stacy up the middle to SL 24 for -2 yards(56-B.Cushing).'>32.52</number><number>0.85</number>
+<number shadow='shadow1' tooltip='11:47 3-6-SL 24SL 17 HST 6 LI: 0.9(Shotgun) 8-S.Bradford pass short right to 89-J.Cook to SL 35 for 11 yards(36-D.Swearinger).'>33.22</number><number>0.88</number>
+<number shadow='shadow1' tooltip='11:14 1-10-SL 35SL 17 HST 6 LI: 1.130-Z.Stacy left tackle to SL 49 for 14 yards(20-E.Reed).'>33.77</number><number>0.9</number>
+<number shadow='shadow1' tooltip='10:26 1-10-SL 49SL 17 HST 6 LI: 1.18-S.Bradford pass incomplete short left to 83-B.Quick.'>34.57</number><number>0.89</number>
+<number shadow='shadow1' tooltip='10:23 2-10-SL 49SL 17 HST 6 LI: 18-S.Bradford pass short right to 18-A.Pettis to HST 39 for 12 yards(53-J.Mays).'>34.62</number><number>0.92</number>
+<number shadow='shadow1' tooltip='9:43 1-10-HST 39SL 17 HST 6 LI: 1.130-Z.Stacy up the middle to HST 41 for -2 yards(93-J.Crick).'>35.28</number><number>0.89</number>
+<number shadow='shadow1' tooltip='9:02 2-12-HST 41SL 17 HST 6 LI: 0.88-S.Bradford pass deep left to 89-J.Cook pushed ob at HST 7 for 34 yards(31-S.Keo) [58-B.Reed].'>35.97</number><number>0.94</number>
+<number shadow='shadow1' tooltip='8:27 1-7-HST 7SL 17 HST 6 LI: 0.930-Z.Stacy left guard to HST 4 for 3 yards(31-S.Keo).'>36.55</number><number>0.94</number>
+<number shadow='shadow1' tooltip='7:46 2-4-HST 4SL 17 HST 6 LI: 0.98-S.Bradford pass short left to 83-B.Quick for 4 yards TOUCHDOWN.'>37.23</number><number>0.94</number>
+<number shadow='shadow1' tooltip='7:46 SL 17 HST 6 LI: 4-G.Zuerlein extra point is GOOD Center-44-J.McQuaide Holder-6-J.Hekker.'>37.27</number><number>0.94</number>
+<number shadow='shadow1' tooltip='7:46 SL 24 HST 6 LI: 4-G.Zuerlein kicks 70 yards from SL 35 to HST -582-K.Martin to HST 10 for 15 yards(23-R.McLeod)FUMBLES (23-R.McLeod) RECOVERED by SL-53-D.Bates at HST 1153-D.Bates for 11 yards TOUCHDOWN.'>37.32</number><number>0.98</number>
+<number shadow='shadow1' tooltip='7:30 1-10-HST 31SL 31 HST 6 LI: 0.18-M.Schaub pass incomplete short right to 84-R.Griffin.'>37.5</number><number>0.97</number>
+<number shadow='shadow1' tooltip='7:22 2-10-HST 31SL 31 HST 6 LI: 0.18-M.Schaub pass short middle to 80-A.Johnson to HST 44 for 13 yards(52-A.Ogletree 55-J.Laurinaitis).'>37.63</number><number>0.97</number>
+<number shadow='shadow1' tooltip='6:52 1-10-HST 44SL 31 HST 6 LI: 0.18-M.Schaub pass incomplete short middle to 23-A.Foster (22-T.Johnson).'>38.13</number><number>0.97</number>
+<number shadow='shadow1' tooltip='6:44 2-10-HST 44SL 31 HST 6 LI: 0.123-A.Foster left end to SL 48 for 8 yards(23-R.McLeod).'>38.27</number><number>0.97</number>
+<number shadow='shadow1' tooltip='6:12 3-2-SL 48SL 31 HST 6 LI: 0.123-A.Foster right guard to SL 39 for 9 yards(98-K.Langford).'>38.8</number><number>0.97</number>
+<number shadow='shadow1' tooltip='5:43 1-10-SL 39SL 31 HST 6 LI: 0.18-M.Schaub pass short right to 80-A.Johnson to SL 35 for 4 yards(20-D.Stewart).'>39.28</number><number>0.97</number>
+<number shadow='shadow1' tooltip='5:09 2-6-SL 35SL 31 HST 6 LI: 0.123-A.Foster up the middle to SL 30 for 5 yards(55-J.Laurinaitis).'>39.85</number><number>0.97</number>
+<number shadow='shadow1' tooltip='4:29 3-1-SL 30SL 31 HST 6 LI: 0.123-A.Foster left tackle to SL 23 for 7 yards(95-W.Hayes).'>40.52</number><number>0.97</number>
+<number shadow='shadow1' tooltip='3:54 1-10-SL 23SL 31 HST 6 LI: 0.18-M.Schaub sacked at SL 29 for -6 yards(91-C.Long)HST-8-M.Schaub was injured during the play.'>41.1</number><number>0.98</number>
+<number shadow='shadow1' tooltip='3:31 2-16-SL 29SL 31 HST 6 LI: 0.1(Shotgun) 13-T.Yates pass short middle to 23-A.Foster to SL 25 for 4 yards(52-A.Ogletree 22-T.Johnson).'>41.48</number><number>0.98</number>
+<number shadow='shadow1' tooltip='2:55 3-12-SL 25SL 31 HST 6 LI: 0.1(Shotgun) 13-T.Yates pass short right to 23-A.Foster to SL 18 for 7 yards(52-A.Ogletree; 22-T.Johnson).'>42.08</number><number>0.98</number>
+<number shadow='shadow1' tooltip='2:11 4-5-SL 18SL 31 HST 6 LI: 0.1(Shotgun) 13-T.Yates pass incomplete short left to 10-D.HopkinsPENALTY on SL-91-C.Long Defensive Offside 5 yards enforced at SL 18 - No Play.'>42.82</number><number>0.97</number>
+<number shadow='shadow1' tooltip='2:06 1-10-SL 13SL 31 HST 6 LI: 0.123-A.Foster up the middle to SL 9 for 4 yards(98-K.Langford).'>42.9</number><number>0.97</number>
+<number shadow='shadow1' tooltip='1:34 2-6-SL 9SL 31 HST 6 LI: 0.113-T.Yates pass incomplete short right to 33-G.Jones.'>43.43</number><number>0.97</number>
+<number shadow='shadow1' tooltip='1:28 3-6-SL 9SL 31 HST 6 LI: 0.1(Shotgun) 13-T.Yates pass short middle to 11-D.Posey to SL 6 for 3 yards(95-W.Hayes).'>43.53</number><number>0.98</number>
+<number shadow='shadow1' tooltip='0:50 4-3-SL 6SL 31 HST 6 LI: 0.1(Shotgun) 13-T.Yates pass short right intended for 88-G.Graham INTERCEPTED by 52-A.Ogletree at SL 252-A.Ogletree for 98 yards TOUCHDOWN.'>44.17</number><number>0.98</number>
+<number shadow='shadow1' tooltip='0:50 SL 31 HST 6 LI: 4-G.Zuerlein extra point is GOOD Center-44-J.McQuaide Holder-6-J.Hekker.'>44.21</number><number>0.98</number>
+<number shadow='shadow1' tooltip='0:50 SL 38 HST 6 LI: 4-G.Zuerlein kicks 71 yards from SL 35 to HST -682-K.Martin to HST 19 for 25 yards(50-R.Armstrong).'>44.26</number><number>0.99</number>
+<number shadow='shadow1' tooltip='0:30 1-10-HST 19SL 38 HST 6 LI: 0.123-A.Foster left tackle to HST 23 for 4 yards(98-K.Langford).'>44.5</number><number>0.99</number>
+<number shadow='shadow1' tooltip='15:00 2-6-HST 23SL 38 HST 6 LI: 0.113-T.Yates pass short middle to 80-A.Johnson to HST 37 for 14 yards(52-A.Ogletree).'>45</number><number>0.99</number>
+<number shadow='shadow1' tooltip='14:33 1-10-HST 37SL 38 HST 6 LI: 0.123-A.Foster right guard to HST 38 for 1 yard(98-K.Langford).'>45.45</number><number>0.98</number>
+<number shadow='shadow1' tooltip='13:59 2-9-HST 38SL 38 HST 6 LI: 0.113-T.Yates pass short left to 88-G.Graham to SL 42 for 20 yards(58-J.Dunbar; 55-J.Laurinaitis) [93-J.Cudjo]PENALTY on SL Roughing the Passer 15 yards enforced at SL 42.'>46.02</number><number>0.98</number>
+<number shadow='shadow1' tooltip='13:28 1-10-SL 27SL 38 HST 6 LI: 0.113-T.Yates pass short left to 80-A.Johnson to SL 15 for 12 yards(58-J.Dunbar).'>46.53</number><number>0.97</number>
+<number shadow='shadow1' tooltip='12:52 1-10-SL 15SL 38 HST 6 LI: 0.213-T.Yates sacked at SL 15 for 0 yards(21-J.Jenkins).'>47.13</number><number>0.98</number>
+<number shadow='shadow1' tooltip='12:10 2-10-SL 15SL 38 HST 6 LI: 0.113-T.Yates pass deep left intended for 88-G.Graham INTERCEPTED by 21-J.Jenkins at SL -221-J.Jenkins to SL 3 for 5 yards(10-D.Hopkins).'>47.83</number><number>0.99</number>
+<number shadow='shadow1' tooltip='11:56 1-10-SL 3SL 38 HST 6 LI: 0.130-Z.Stacy left guard to SL 8 for 5 yards(25-K.Jackson).'>48.07</number><number>0.99</number>
+<number shadow='shadow1' tooltip='11:16 2-5-SL 8SL 38 HST 6 LI: 0.1PENALTY on SL-63-S.Wells False Start 4 yards enforced at SL 8 - No Play.'>48.73</number><number>0.99</number>
+<number shadow='shadow1' tooltip='10:56 2-9-SL 4SL 38 HST 6 LI: 0.130-Z.Stacy left guard to SL 6 for 2 yards(92-E.Mitchell).'>49.07</number><number>0.98</number>
+<number shadow='shadow1' tooltip='10:16 3-7-SL 6SL 38 HST 6 LI: 0.130-Z.Stacy left tackle to SL 9 for 3 yards(94-A.Smith).'>49.73</number><number>0.98</number>
+<number shadow='shadow1' tooltip='9:27 4-4-SL 9SL 38 HST 6 LI: 0.16-J.Hekker punts 42 yards to HST 49 Center-44-J.McQuaide31-S.Keo to SL 47 for 4 yards(50-R.Armstrong)(The punt hang time was 3.3 seconds.)'>50.55</number><number>0.98</number>
+<number shadow='shadow1' tooltip='9:17 1-10-SL 47SL 38 HST 6 LI: 0.123-A.Foster right tackle to SL 41 for 6 yards(55-J.Laurinaitis).'>50.72</number><number>0.98</number>
+<number shadow='shadow1' tooltip='8:47 2-4-SL 41SL 38 HST 6 LI: 0.123-A.Foster left tackle to SL 42 for -1 yards(90-M.Brockers).'>51.22</number><number>0.99</number>
+<number shadow='shadow1' tooltip='8:11 3-5-SL 42SL 38 HST 6 LI: 0.1(Shotgun) 13-T.Yates pass incomplete short left to 23-A.Foster.'>51.82</number><number>0.99</number>
+<number shadow='shadow1' tooltip='8:04 4-5-SL 42SL 38 HST 6 LI: 0.1(Shotgun) 13-T.Yates pass short middle to 18-L.Jean to SL 36 for 6 yards(23-R.McLeod 58-J.Dunbar) [97-E.Sims]PENALTY on SL Roughing the Passer 15 yards enforced at SL 36.'>51.93</number><number>0.98</number>
+<number shadow='shadow1' tooltip='7:38 1-10-SL 21SL 38 HST 6 LI: 0.144-B.Tate up the middle to SL 19 for 2 yards(97-E.Sims)PENALTY on SL Illegal Use of Hands 5 yards enforced at SL 19.'>52.37</number><number>0.98</number>
+<number shadow='shadow1' tooltip='7:12 1-10-SL 14SL 38 HST 6 LI: 0.144-B.Tate left tackle to SL 14 for no gain (90-M.Brockers 91-C.Long).'>52.8</number><number>0.99</number>
+<number shadow='shadow1' tooltip='6:27 2-10-SL 14SL 38 HST 6 LI: 0.113-T.Yates pass incomplete short right to 11-D.Posey (91-C.Long)PENALTY on SL-94-R.Quinn Defensive Offside 5 yards enforced at SL 14 - No Play.'>53.55</number><number>0.99</number>
+<number shadow='shadow1' tooltip='6:23 2-5-SL 9SL 38 HST 6 LI: 0.144-B.Tate right tackle to SL 5 for 4 yards(22-T.Johnson 55-J.Laurinaitis).'>53.62</number><number>0.99</number>
+<number shadow='shadow1' tooltip='5:48 3-1-SL 5SL 38 HST 6 LI: 0.144-B.Tate left end to SL 5 for no gain (20-D.Stewart; 98-K.Langford).'>54.2</number><number>0.99</number>
+<number shadow='shadow1' tooltip='5:05 4-1-SL 5SL 38 HST 6 LI: 0.1(Shotgun) 44-B.Tate right guard to SL 2 for 3 yards(55-J.Laurinaitis).'>54.92</number><number>0.99</number>
+<number shadow='shadow1' tooltip='4:25 1-2-SL 2SL 38 HST 6 LI: 0.144-B.Tate left guard to SL 1 for 1 yard(98-K.Langford).'>55.58</number><number>0.99</number>
+<number shadow='shadow1' tooltip='3:48 2-1-SL 1SL 38 HST 6 LI: 0.144-B.Tate left guard to SL 1 for no gain (93-J.Cudjo; 58-J.Dunbar)Houston challenged the runner broke the plane ruling and the play was Upheld(Timeout #2.)'>56.2</number><number>0.99</number>
+<number shadow='shadow1' tooltip='3:25 3-1-SL 1SL 38 HST 6 LI: 0.144-B.Tate left guard for 1 yard TOUCHDOWN.'>56.58</number><number>0.99</number>
+<number shadow='shadow1' tooltip='3:25 SL 38 HST 6 LI: 4-R.Bullock extra point is GOOD Center-46-J.Weeks Holder-9-S.Lechler.'>56.62</number><number>0.99</number>
+<number shadow='shadow1' tooltip='3:25 SL 38 HST 13 LI: 4-R.Bullock kicks 62 yards from HST 35 to SL 311-T.Austin to SL 11 for 8 yards(50-B.Braman).'>56.67</number><number>0.99</number>
+<number shadow='shadow1' tooltip='3:10 1-10-SL 11SL 38 HST 13 LI: 0.136-B.Cunningham left guard to SL 12 for 1 yard(93-J.Crick; 57-J.Tuggle).'>56.83</number><number>0.99</number>
+<number shadow='shadow1' tooltip='3:00 2-9-SL 12SL 38 HST 13 LI: 0.1PENALTY on SL-88-L.Kendricks False Start 5 yards enforced at SL 12 - No Play.'>57</number><number>0.99</number>
+<number shadow='shadow1' tooltip='2:20 3-11-SL 10SL 38 HST 13 LI: 0.136-B.Cunningham up the middle to SL 17 for 7 yards(31-S.Keo 26-B.Harris).'>57.67</number><number>0.99</number>
+<number shadow='shadow1' tooltip='2:00 4-4-SL 17SL 38 HST 13 LI: 0.16-J.Hekker punts 46 yards to HST 37 Center-44-J.McQuaide31-S.Keo to HST 39 for 2 yards(27-M.Giordano)(The punt hang time was 5.0 seconds.)'>58</number><number>0.99</number>
+<number shadow='shadow1' tooltip='1:50 1-10-HST 39SL 38 HST 13 LI: 0.1(Shotgun) 13-T.Yates pass short left to 44-B.Tate to HST 39 for no gain (90-M.Brockers).'>58.17</number><number>0.99</number>
+<number shadow='shadow1' tooltip='1:29 2-10-HST 39SL 38 HST 13 LI: 0.1(Shotgun) 13-T.Yates pass short middle to 44-B.Tate to HST 45 for 6 yards(58-J.Dunbar).'>58.52</number><number>0.99</number>
+<number shadow='shadow1' tooltip='1:04 3-4-HST 45SL 38 HST 13 LI: 0.1(No Huddle Shotgun) 13-T.Yates pass short right to 84-R.Griffin to SL 45 for 10 yards(58-J.Dunbar).'>58.93</number><number>0.99</number>
+<number shadow='shadow1' tooltip='0:50 1-10-SL 45SL 38 HST 13 LI: 0.1(Shotgun) 13-T.Yates pass short middle to 18-L.Jean to SL 37 for 8 yards(58-J.Dunbar).'>59.17</number><number>0.99</number>
+<number shadow='shadow1' tooltip='0:30 2-2-SL 2SL 38 HST 13 LI: 0.113-T.Yates pass incomplete short middle to 44-B.Tate.'>59.5</number><number>0.99</number>
+<number shadow='shadow1' tooltip='0:25 3-2-SL 37SL 38 HST 13 LI: 0.1(Shotgun) 13-T.Yates pass short middle to 84-R.Griffin to SL 29 for 8 yards(58-J.Dunbar).'>59.58</number><number>0.99</number>
+<number>60</number><number>1</number>
+</row> </chart_data>
+       <draw>
+
+
+
+      <image x='45' y='298'  url='nfllogos/42x50png/SL.gif'  layer='foreground' glow = 'glow1'/>
+      <image x='45' y='350'  url='nfllogos/42x50png/HST.gif'     layer='foreground' glow = 'glow1'/>
+
+
+      <rect x='130' y='300' width='250' height='40' fill_color='003159' bevel='bevel1' />
+      <text x='135' y='300' width='250' height='40' h_align='left' v_align='middle' color='ffffff' shadow='shadow2' glow='winnerglow'>St. Louis Rams</text>
+
+      <rect x='130' y='350' width='250' height='40' fill_color='002c44' bevel='bevel1'  />
+      <text x='135' y='350' width='250' height='40' h_align='left' v_align='middle' color='ffffff' shadow='shadow2' glow=''>Houston Texans</text>
+
+      <rect x='420' y='300' width='60' height='40' fill_color='003159' bevel='bevel1'  />
+      <text x='420' y='300' width='60' height='40' h_align='center' v_align='middle' color='ffffff' shadow='shadow2' transition='none' glow='winnerglow'>38</text>
+
+      <rect x='420' y='350' width='60' height='40' fill_color='002c44' bevel='bevel1' />
+      <text x='420' y='350' width='60' height='40' h_align='center' v_align='middle' color='ffffff' shadow='shadow2' transition='none' glow=''>13</text>
+
+      <text x='-3' y='12'  width='60' height='40' h_align='center' v_align='middle' size='13' shadow='shadow2'>SLWin </text>
+      <text x='-3' y='218' width='60' height='40' h_align='center' v_align='middle' size='13' shadow='shadow2'>HSTWin </text>
+
+     
+              <rect x='540' y='300' width='100' height='35' fill_color='000000' fill_alpha='50'/>
+              <text x='540' y='300' width='100' height='35' h_align='center' v_align='middle' color='ffffff' size='15' shadow='shadow2' >Final</text>
+
+              <text x='540' y='340' width='40' h_align='center' color='000000' size='12' shadow='shadow2'>CBF</text>
+              <text x='600' y='340' width='40' h_align='center' color='000000' size='12' shadow='shadow2'>EI</text>
+
+              <rect x='540' y='360' width='40' height='30' fill_color='000000' fill_alpha='50' />
+              <text x='540' y='360' width='40' height='30' size='12' h_align='center' v_align='middle' color='FFFFFF' shadow='shadow2'>2</text>
+
+              <rect x='600' y='360' width='40' height='30' fill_color='000000' fill_alpha='50' />
+              <text x='600' y='360' width='40' height='30' size='12' h_align='center' v_align='middle' color='FFFFFF' shadow='shadow2'>2.0</text>
+
+              <text x='20' y='420' width='70' height='25' size='12' h_align='left' v_align='middle' color='000000' >10/13/2013</text>
+              <text x='100' y='420' width='200' height='25' size='12' h_align='left' v_align='middle' color='000000' >Reliant Stadium</text>
+
+   </draw></chart>

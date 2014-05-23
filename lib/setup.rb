@@ -1,0 +1,6 @@
+require 'rubygems'
+require 'active_support/all'
+require 'pp'
+require 'hpricot'
+require 'open-uri'
+require 'fileutils'

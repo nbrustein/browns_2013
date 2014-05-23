@@ -1,0 +1,295 @@
+
+<chart>
+   <license>ETAS9P33ESHO.945CWK-2XOI1X0-7L</license>
+   <chart_type>scatter</chart_type>
+   <chart_pref trend_thickness='0' line_thickness='3' point_size='0'/>
+
+   <series_color>
+      <color>ffff00</color>
+   </series_color>
+
+   <chart_rect x='45' y='20' width='630' height='230' positive_color='cacaca'  />
+
+  <chart_border top_thickness='0'
+                 bottom_thickness='0'
+                 left_thickness='0'
+                 right_thickness='0'
+                 color='000000'
+                 />
+
+   <tooltip font='Arial' bold='true' size='11' />
+
+   <chart_note type='flag'
+               color='000000'
+               alpha='90'
+               bold='FALSE'
+               size='10'
+               background_color='ffffe0'
+               background_alpha='50'
+               shadow='shadow2'
+               />
+
+   <chart_grid_h thickness='2' color='ffffff' type='dashed'  />
+   <chart_grid_v thickness='2' color='ffffff'   />
+		>
+
+   <legend layout='hide' />
+
+   <chart_guide horizontal='TRUE'
+             vertical='TRUE'
+             thickness='1'
+             color='006400'
+             alpha='100'
+             type='solid'
+             snap_h='TRUE'
+             snap_v='TRUE'
+             radius='3'
+             fill_color='006400'
+             fill_alpha='100'
+             line_color='006400'
+             line_alpha='80'
+             line_thickness='1'
+             text_h_alpha='50'
+             text_v_alpha='00'
+             suffix_h=' WP'
+             decimals='2'
+             bold='FALSE'
+             size='11'
+             text_color='FFFFFF'
+             background_color='006400'
+             />
+   <filter>
+      <shadow id='shadow1' distance='2' angle='60' blurX='5' blurY='5' alpha='50' />
+      <bevel id='bevel1' angle='45' blurX='5' blurY='5' distance='0' />
+      <glow id='glow1' color='ffffff' alpha='0' blurX='7' blurY='7' strength='6' quality='2' inner='FALSE' knockout='FALSE' />
+      <glow id='winnerglow' color='ffffff' alpha='0' blurX='7' blurY='7' strength='5' quality='2' inner='FALSE' knockout='FALSE' />
+   </filter>
+
+    <axis_value_label>
+         <string></string>
+          <string> </string>
+          <null/>
+          <string> </string>
+          <string></string>
+
+       </axis_value_label>
+		
+	   <axis_ticks category_ticks='false'/>
+
+       <axis_value min='0' max='1' steps='4'  decimals='2' show_min='true' size='13' shadow='shadow2' />     
+            <axis_category
+               min='0'
+               max='60'
+               steps='4'
+               mode='all'
+               decimals='0'
+               size='13'
+               shadow='shadow2'
+               />
+
+       <axis_category_label>
+          <string>Kickoff</string>
+          <string></string>
+          <string>Halftime</string>
+          <string></string>
+          <string>End</string>
+
+       </axis_category_label>
+
+
+        <chart_data>
+       <row>
+	      <null/><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number>
+              <number>x</number><number>y</number>
+              </row><row><string></string>
+
+                     <number shadow='shadow1'>0</number><number>.5</number><number shadow='shadow1' tooltip='15:00 CAR 0 SF 0 LI: 9-G.Gano kicks 73 yards from CAR 35 to SF -824-A.Dixon Touchback.'>0.09</number><number>0.48</number>
+<number shadow='shadow1' tooltip='14:18 2-9-SF 21CAR 0 SF 0 LI: 1.4(Shotgun) 7-C.Kaepernick pass short left to 49-B.Miller pushed ob at SF 31 for 10 yards(59-L.Kuechly)Caught at SF 21 10-yds YAC'>0.7</number><number>0.46</number>
+<number shadow='shadow1' tooltip='13:43 1-10-SF 31CAR 0 SF 0 LI: 1.521-F.Gore left guard pushed ob at SF 42 for 11 yards(59-L.Kuechly).'>1.28</number><number>0.45</number>
+<number shadow='shadow1' tooltip='13:06 1-10-SF 42CAR 0 SF 0 LI: 1.47-C.Kaepernick pass incomplete deep right to 81-A.Boldin (41-C.Munnerlyn).'>1.9</number><number>0.47</number>
+<number shadow='shadow1' tooltip='13:01 2-10-SF 42CAR 0 SF 0 LI: 1.2(Shotgun) 21-F.Gore up the middle to CAR 41 for 17 yards(27-Q.Mikell).'>1.98</number><number>0.41</number>
+<number shadow='shadow1' tooltip='12:22 1-10-CAR 41CAR 0 SF 0 LI: 1.421-F.Gore right tackle to CAR 38 for 3 yards(59-L.Kuechly).'>2.63</number><number>0.42</number>
+<number shadow='shadow1' tooltip='11:50 2-7-CAR 38CAR 0 SF 0 LI: 1.37-C.Kaepernick pass short left to 81-A.Boldin pushed ob at CAR 33 for 5 yards(23-M.White)Caught at CAR 34 1-yd YAC'>3.17</number><number>0.41</number>
+<number shadow='shadow1' tooltip='11:28 3-2-CAR 33CAR 0 SF 0 LI: 1.3(Shotgun) 21-F.Gore right tackle to CAR 34 for -1 yards(95-C.Johnson).'>3.53</number><number>0.48</number>
+<number shadow='shadow1' tooltip='10:51 4-3-CAR 34CAR 0 SF 0 LI: 0.69-P.Dawson 53 yard field goal is GOOD Center-47-K.McDermott Holder-4-A.Lee.'>4.15</number><number>0.42</number>
+<number shadow='shadow1' tooltip='10:51 CAR 0 SF 3 LI: 9-P.Dawson kicks 66 yards from SF 35 to CAR -119-T.Ginn to CAR 22 for 23 yards(57-M.Wilhoite).'>4.24</number><number>0.41</number>
+<number shadow='shadow1' tooltip='10:39 1-10-CAR 22CAR 0 SF 3 LI: 1.31-C.Newton pass incomplete short left to 34-De.Williams (51-D.Skuta).'>4.35</number><number>0.4</number>
+<number shadow='shadow1' tooltip='10:34 2-10-CAR 22CAR 0 SF 3 LI: 1.2(Shotgun) 34-De.Williams up the middle to CAR 23 for 1 yard(52-P.Willis).'>4.43</number><number>0.39</number>
+<number shadow='shadow1' tooltip='9:52 3-9-CAR 23CAR 0 SF 3 LI: 1.1(Shotgun) 1-C.Newton sacked at CAR 11 for -12 yards(55-A.Brooks).'>5.13</number><number>0.34</number>
+<number shadow='shadow1' tooltip='9:18 4-21-CAR 11CAR 0 SF 3 LI: 1.18-B.Nortman punts 65 yards to SF 24 Center-44-J.Jansen23-L.James to SF 26 for 2 yards(22-J.Thomas)SF-88-G.Celek was injured during the playHe is Out.'>5.7</number><number>0.38</number>
+<number shadow='shadow1' tooltip='9:07 1-10-SF 26CAR 0 SF 3 LI: 1.7(Shotgun) 23-L.James left tackle to SF 25 for -1 yards(59-L.Kuechly).'>5.88</number><number>0.4</number>
+<number shadow='shadow1' tooltip='8:26 2-11-SF 25CAR 0 SF 3 LI: 1.57-C.Kaepernick pass short right to 82-M.Manningham to SF 35 for 10 yards(41-C.Munnerlyn)Caught at SF 35 0-yds YAC'>6.57</number><number>0.37</number>
+<number shadow='shadow1' tooltip='7:40 3-1-SF 35CAR 0 SF 3 LI: 1.5A.Snyder reported as eligible 21-F.Gore left guard to SF 34 for -1 yards(56-A.Klein).'>7.33</number><number>0.42</number>
+<number shadow='shadow1' tooltip='6:59 4-2-SF 34CAR 0 SF 3 LI: 14-A.Lee punts 60 yards to CAR 6 Center-47-K.McDermott19-T.Ginn to CAR 27 for 21 yards(27-C.Spillman).'>8.02</number><number>0.42</number>
+<number shadow='shadow1' tooltip='6:45 1-10-CAR 27CAR 0 SF 3 LI: 1.3(Shotgun) 35-M.Tolbert up the middle to CAR 31 for 4 yards(90-G.Dorsey 55-A.Brooks).'>8.25</number><number>0.42</number>
+<number shadow='shadow1' tooltip='6:05 2-6-CAR 31CAR 0 SF 3 LI: 1.2(Shotgun) 1-C.Newton pass short left to 11-B.LaFell pushed ob at CAR 36 for 5 yards(25-T.Brown)Caught at CAR 36 0-yds YAC'>8.92</number><number>0.43</number>
+<number shadow='shadow1' tooltip='5:37 3-1-CAR 36CAR 0 SF 3 LI: 1.2(Shotgun) 35-M.Tolbert up the middle to CAR 39 for 3 yards(53-N.Bowman).'>9.38</number><number>0.44</number>
+<number shadow='shadow1' tooltip='4:55 1-10-CAR 39CAR 0 SF 3 LI: 1.3(Shotgun) 28-J.Stewart right guard to CAR 45 for 6 yards(53-N.Bowman).'>10.08</number><number>0.46</number>
+<number shadow='shadow1' tooltip='4:16 2-4-CAR 45CAR 0 SF 3 LI: 1.428-J.Stewart right end to CAR 45 for no gain (52-P.Willis 94-J.Smith).'>10.73</number><number>0.44</number>
+<number shadow='shadow1' tooltip='3:33 3-4-CAR 45CAR 0 SF 3 LI: 1.2(Shotgun) 1-C.Newton scrambles right tackle to 50 for 5 yards(91-R.McDonald).'>11.45</number><number>0.47</number>
+<number shadow='shadow1' tooltip='2:50 1-10-50CAR 0 SF 3 LI: 1.41-C.Newton pass incomplete short right to 34-De.Williams.'>12.17</number><number>0.46</number>
+<number shadow='shadow1' tooltip='2:45 2-10-50CAR 0 SF 3 LI: 1.3(Shotgun) 1-C.Newton pass incomplete short left to 88-G.Olsen.'>12.25</number><number>0.44</number>
+<number shadow='shadow1' tooltip='2:40 3-10-50CAR 0 SF 3 LI: 1.1(Shotgun) 1-C.Newton pass incomplete deep left to 89-S.Smith [55-A.Brooks].'>12.33</number><number>0.4</number>
+<number shadow='shadow1' tooltip='2:31 4-10-50CAR 0 SF 3 LI: 0.78-B.Nortman punts 26 yards to SF 24 Center-44-J.Jansen downed by CAR-93-C.Blackburn.'>12.48</number><number>0.39</number>
+<number shadow='shadow1' tooltip='2:23 1-10-SF 24CAR 0 SF 3 LI: 1.67-C.Kaepernick sacked at SF 20 for -4 yards(92-D.Edwards).'>12.62</number><number>0.41</number>
+<number shadow='shadow1' tooltip='1:51 2-14-SF 20CAR 0 SF 3 LI: 1.5(Shotgun) 21-F.Gore right tackle to SF 25 for 5 yards(92-D.Edwards).'>13.15</number><number>0.41</number>
+<number shadow='shadow1' tooltip='1:06 3-9-SF 25CAR 0 SF 3 LI: 1.3(Shotgun) 7-C.Kaepernick scrambles up the middle to SF 30 for 5 yards(59-L.Kuechly).'>13.9</number><number>0.43</number>
+<number shadow='shadow1' tooltip='0:28 4-4-SF 30CAR 0 SF 3 LI: 14-A.Lee punts 22 yards to CAR 48 Center-47-K.McDermott29-D.Florence MUFFS catch touched at CAR 41 RECOVERED by SF-35-E.Reid at CAR 4135-E.Reid to CAR 41 for no gain (27-Q.Mikell)J.Senn deflected A.Lees punt credited with 29-yd punt.'>14.53</number><number>0.32</number>
+<number shadow='shadow1' tooltip='0:17 1-10-CAR 41CAR 0 SF 3 LI: 1.37-C.Kaepernick pass short middle to 21-F.Gore to CAR 30 for 11 yards(56-A.Klein 58-T.Davis)Caught at CAR 36; 6 yards YAC.'>14.72</number><number>0.29</number>
+<number shadow='shadow1' tooltip='15:00 1-10-CAR 30CAR 0 SF 3 LI: 1.421-F.Gore left guard to CAR 27 for 3 yards(59-L.Kuechly).'>15</number><number>0.3</number>
+<number shadow='shadow1' tooltip='14:21 2-7-CAR 27CAR 0 SF 3 LI: 1.27-C.Kaepernick pass incomplete short left to 82-M.Manningham.'>15.65</number><number>0.32</number>
+<number shadow='shadow1' tooltip='14:14 3-7-CAR 27CAR 0 SF 3 LI: 1(Shotgun) 7-C.Kaepernick pass short left to 85-V.Davis to CAR 25 for 2 yards(23-M.White)Caught at CAR 26 1-yd YAC'>15.77</number><number>0.34</number>
+<number shadow='shadow1' tooltip='13:38 4-5-CAR 25CAR 0 SF 3 LI: 0.79-P.Dawson 43 yard field goal is GOOD Center-47-K.McDermott Holder-4-A.Lee.'>16.37</number><number>0.32</number>
+<number shadow='shadow1' tooltip='13:38 CAR 0 SF 6 LI: 9-P.Dawson kicks 65 yards from SF 35 to end zone Touchback.'>16.46</number><number>0.31</number>
+<number shadow='shadow1' tooltip='13:28 2-10-CAR 20CAR 0 SF 6 LI: 1.328-J.Stewart up the middle to CAR 27 for 7 yards(94-J.Smith).'>16.53</number><number>0.31</number>
+<number shadow='shadow1' tooltip='12:48 3-3-CAR 27CAR 0 SF 6 LI: 1.2(Shotgun) 1-C.Newton pass incomplete short left to 11-B.LaFell (25-T.Brown).'>17.2</number><number>0.28</number>
+<number shadow='shadow1' tooltip='12:43 4-3-CAR 27CAR 0 SF 6 LI: 0.98-B.Nortman punts 59 yards to SF 14 Center-44-J.Jansen23-L.James to SF 32 for 18 yards(93-C.Blackburn).'>17.28</number><number>0.28</number>
+<number shadow='shadow1' tooltip='12:33 1-10-SF 32CAR 0 SF 6 LI: 1.1(Shotgun) 7-C.Kaepernick sacked at SF 18 for -14 yards(56-A.Klein).'>17.45</number><number>0.32</number>
+<number shadow='shadow1' tooltip='11:58 2-24-SF 18CAR 0 SF 6 LI: 0.921-F.Gore right guard to SF 19 for 1 yard(56-A.Klein).'>18.03</number><number>0.33</number>
+<number shadow='shadow1' tooltip='11:21 3-23-SF 19CAR 0 SF 6 LI: 0.8(Shotgun) 7-C.Kaepernick pass short left to 10-K.Williams to SF 24 for 5 yards(58-T.Davis)Caught at SF 17 7-yds YAC'>18.65</number><number>0.33</number>
+<number shadow='shadow1' tooltip='10:41 4-18-SF 24CAR 0 SF 6 LI: 0.64-A.Lee punts 52 yards to CAR 24 Center-47-K.McDermott19-T.Ginn to CAR 43 for 19 yards(41-R.Ventrone).'>19.32</number><number>0.34</number>
+<number shadow='shadow1' tooltip='10:31 1-10-CAR 43CAR 0 SF 6 LI: 1.134-De.Williams left guard to CAR 46 for 3 yards(91-R.McDonald).'>19.48</number><number>0.34</number>
+<number shadow='shadow1' tooltip='9:54 2-7-CAR 46CAR 0 SF 6 LI: 1(Shotgun) 1-C.Newton pass short right to 19-T.Ginn to SF 46 for 8 yards(22-C.Rogers)Caught at 50 4-yds YAC'>20.1</number><number>0.36</number>
+<number shadow='shadow1' tooltip='9:19 1-10-SF 46CAR 0 SF 6 LI: 1.11-C.Newton pass incomplete deep left to 11-B.LaFell (25-T.Brown) [51-D.Skuta].'>20.68</number><number>0.34</number>
+<number shadow='shadow1' tooltip='9:16 2-10-SF 46CAR 0 SF 6 LI: 0.9PENALTY on CAR-1-C.Newton Delay of Game 5 yards enforced at SF 46 - No Play.'>20.73</number><number>0.33</number>
+<number shadow='shadow1' tooltip='9:15 2-15-CAR 49CAR 0 SF 6 LI: 0.91-C.Newton pass incomplete short left to 19-T.Ginn.'>20.75</number><number>0.32</number>
+<number shadow='shadow1' tooltip='9:10 3-15-CAR 49CAR 0 SF 6 LI: 0.8(Shotgun) 1-C.Newton pass deep right intended for 89-S.Smith INTERCEPTED by 26-T.Brock at SF 3526-T.Brock to CAR 24 for 41 yards(11-B.LaFell).'>20.83</number><number>0.19</number>
+<number shadow='shadow1' tooltip='8:58 1-10-CAR 24CAR 0 SF 6 LI: 1.3A.Snyder reported as eligible 21-F.Gore left tackle to CAR 11 for 13 yards(58-T.Davis).'>21.03</number><number>0.15</number>
+<number shadow='shadow1' tooltip='8:10 1-10-CAR 11CAR 0 SF 6 LI: 1.5A.Snyder reported as eligible (Shotgun) 21-F.Gore left end to CAR 6 for 5 yards(76-G.Hardy).'>21.83</number><number>0.15</number>
+<number shadow='shadow1' tooltip='7:26 2-5-CAR 6CAR 0 SF 6 LI: 1.47-C.Kaepernick pass incomplete short right to 85-V.Davis (21-M.Mitchell)SF-85-V.Davis was injured during the playHe is Out Carolina challenged the incomplete pass ruling and the play was Upheld(Timeout #2 at 07:19.)'>22.57</number><number>0.17</number>
+<number shadow='shadow1' tooltip='7:19 3-5-CAR 6CAR 0 SF 6 LI: 1.2(Shotgun) 21-F.Gore right guard to CAR 2 for 4 yards(95-C.Johnson).'>22.68</number><number>0.21</number>
+<number shadow='shadow1' tooltip='6:21 4-1-CAR 2CAR 0 SF 6 LI: 0.8A.Snyder reported as eligible (Run formation) PENALTY on SF-7-C.Kaepernick Delay of Game 5 yards enforced at CAR 2 - No Play.'>23.65</number><number>0.21</number>
+<number shadow='shadow1' tooltip='6:20 4-6-CAR 7CAR 0 SF 6 LI: 0.89-P.Dawson 25 yard field goal is GOOD Center-47-K.McDermott Holder-4-A.Lee.'>23.67</number><number>0.22</number>
+<number shadow='shadow1' tooltip='6:20 CAR 0 SF 9 LI: 9-P.Dawson kicks 64 yards from SF 35 to CAR 119-T.Ginn to CAR 20 for 19 yards(40-D.Morris).'>23.76</number><number>0.21</number>
+<number shadow='shadow1' tooltip='6:10 1-10-CAR 20CAR 0 SF 9 LI: 1.1(Shotgun) 28-J.Stewart left tackle to CAR 20 for no gain (51-D.Skuta 52-P.Willis).'>23.83</number><number>0.2</number>
+<number shadow='shadow1' tooltip='5:31 2-10-CAR 20CAR 0 SF 9 LI: 11-C.Newton scrambles right guard to CAR 23 for 3 yards(94-J.Smith).'>24.48</number><number>0.19</number>
+<number shadow='shadow1' tooltip='4:45 3-7-CAR 23CAR 0 SF 9 LI: 0.9(Shotgun) 1-C.Newton pass short middle to 11-B.LaFell to CAR 40 for 17 yards(52-P.Willis)Caught at CAR 38 2-yds YAC'>25.25</number><number>0.24</number>
+<number shadow='shadow1' tooltip='4:04 1-10-CAR 40CAR 0 SF 9 LI: 1.1(Shotgun) 1-C.Newton right end pushed ob at CAR 42 for 2 yards(55-A.Brooks).'>25.93</number><number>0.24</number>
+<number shadow='shadow1' tooltip='3:29 2-8-CAR 42CAR 0 SF 9 LI: 1.1(Shotgun) 1-C.Newton pass short left to 11-B.LaFell to SF 48 for 10 yards(22-C.Rogers)Caught at SF 48 0-yds YAC'>26.52</number><number>0.27</number>
+<number shadow='shadow1' tooltip='2:46 1-10-SF 48CAR 0 SF 9 LI: 1.2(Shotgun) 34-De.Williams right guard to SF 41 for 7 yards(63-T.Jerod-Eddie 31-D.Whitner).'>27.23</number><number>0.27</number>
+<number shadow='shadow1' tooltip='2:12 2-3-SF 41CAR 0 SF 9 LI: 1.1(Shotgun) 1-C.Newton pass short middle to 88-G.Olsen to SF 27 for 14 yards(31-D.Whitner)N.Bowman deflected pass Caught at SF 27 0-yds YAC'>27.8</number><number>0.3</number>
+<number shadow='shadow1' tooltip='1:59 1-10-SF 27CAR 0 SF 9 LI: 1.2(Shotgun) 34-De.Williams up the middle for 27 yards TOUCHDOWN.'>28.02</number><number>0.4</number>
+<number shadow='shadow1' tooltip='1:59 CAR 0 SF 9 LI: 9-G.Gano extra point is GOOD Center-44-J.Jansen Holder-8-B.Nortman.'>28.06</number><number>0.4</number>
+<number shadow='shadow1' tooltip='1:59 CAR 7 SF 9 LI: 9-G.Gano kicks 65 yards from CAR 35 to end zone Touchback.'>28.11</number><number>0.41</number>
+<number shadow='shadow1' tooltip='1:52 1-10-SF 20CAR 7 SF 9 LI: 1.6(Shotgun) 7-C.Kaepernick pass short right to 81-A.Boldin to SF 29 for 9 yards(59-L.Kuechly)Caught at SF 24 5-yds YAC'>28.13</number><number>0.39</number>
+<number shadow='shadow1' tooltip='1:17 2-1-SF 29CAR 7 SF 9 LI: 1.6(Shotgun) 7-C.Kaepernick pass incomplete short right to 32-K.Hunter (29-D.Florence).'>28.72</number><number>0.4</number>
+<number shadow='shadow1' tooltip='1:10 3-1-SF 29CAR 7 SF 9 LI: 1.5(Shotgun) 32-K.Hunter right end to SF 32 for 3 yards(59-L.Kuechly).'>28.83</number><number>0.39</number>
+<number shadow='shadow1' tooltip='1:04 1-10-SF 32CAR 7 SF 9 LI: 1.5(Shotgun) 7-C.Kaepernick sacked at SF 24 for -8 yards(sack split by 21-M.Mitchell and 95-C.Johnson).'>28.93</number><number>0.43</number>
+<number shadow='shadow1' tooltip='0:36 2-18-SF 24CAR 7 SF 9 LI: 1.3(No Huddle Shotgun) 7-C.Kaepernick scrambles left end pushed ob at SF 25 for 1 yard(41-C.Munnerlyn).'>29.4</number><number>0.44</number>
+<number shadow='shadow1' tooltip='0:30 3-17-SF 25CAR 7 SF 9 LI: 1.2(Shotgun) 32-K.Hunter left guard to SF 36 for 11 yards(95-C.Johnson 21-M.Mitchell).'>29.5</number><number>0.44</number>
+<number shadow='shadow1' tooltip='0:30 CAR 7 SF 9 LI: 9-P.Dawson kicks 65 yards from SF 35 to end zone Touchback.'>29.59</number><number>0.42</number>
+<number shadow='shadow1' tooltip='15:00 1-10-CAR 20CAR 7 SF 9 LI: 1.234-De.Williams left guard to CAR 22 for 2 yards(53-N.Bowman).'>30</number><number>0.42</number>
+<number shadow='shadow1' tooltip='14:18 2-8-CAR 22CAR 7 SF 9 LI: 1.2(Shotgun) 1-C.Newton pass short left to 89-S.Smith to CAR 31 for 9 yards(25-T.Brown)Caught at CAR 30 1-yd YAC'>30.7</number><number>0.44</number>
+<number shadow='shadow1' tooltip='13:36 1-10-CAR 31CAR 7 SF 9 LI: 1.2(Shotgun) 1-C.Newton pass short middle to 11-B.LaFell to CAR 47 for 16 yards(25-T.Brown)Caught at CAR 43 4-yds YAC'>31.4</number><number>0.48</number>
+<number shadow='shadow1' tooltip='12:59 1-10-CAR 47CAR 7 SF 9 LI: 1.4(Shotgun) 1-C.Newton pass incomplete short left to 19-T.Ginn (55-A.Brooks).'>32.02</number><number>0.47</number>
+<number shadow='shadow1' tooltip='12:53 2-10-CAR 47CAR 7 SF 9 LI: 1.3(Shotgun) 1-C.Newton sacked at CAR 45 for -2 yards(55-A.Brooks).'>32.12</number><number>0.43</number>
+<number shadow='shadow1' tooltip='12:13 3-12-CAR 45CAR 7 SF 9 LI: 1(Shotgun) 1-C.Newton pass incomplete deep middle to 89-S.Smith.'>32.78</number><number>0.4</number>
+<number shadow='shadow1' tooltip='12:07 4-12-CAR 45CAR 7 SF 9 LI: 0.78-B.Nortman punts 41 yards to SF 14 Center-44-J.Jansen23-L.James to SF 29 for 15 yards(54-J.Williams).'>32.88</number><number>0.39</number>
+<number shadow='shadow1' tooltip='11:57 1-10-SF 29CAR 7 SF 9 LI: 1.57-C.Kaepernick pass short left to 81-A.Boldin to SF 38 for 9 yards(27-Q.Mikell)Caught at SF 35 3-yds YAC'>33.05</number><number>0.37</number>
+<number shadow='shadow1' tooltip='11:17 2-1-SF 38CAR 7 SF 9 LI: 1.5(Shotgun) 7-C.Kaepernick left end to SF 32 for -6 yards(76-G.Hardy).'>33.72</number><number>0.4</number>
+<number shadow='shadow1' tooltip='10:44 3-7-SF 32CAR 7 SF 9 LI: 1.3(Shotgun) PENALTY on SF-76-A.Davis False Start 5 yards enforced at SF 32 - No Play.'>34.27</number><number>0.41</number>
+<number shadow='shadow1' tooltip='10:16 3-12-SF 27CAR 7 SF 9 LI: 1.3(Shotgun) 7-C.Kaepernick pass short middle to 21-F.Gore to SF 37 for 10 yards(59-L.Kuechly)Caught at SF 29 8-yds YAC'>34.73</number><number>0.42</number>
+<number shadow='shadow1' tooltip='9:33 4-2-SF 37CAR 7 SF 9 LI: 14-A.Lee punts 52 yards to CAR 11 Center-47-K.McDermott11-B.LaFell to CAR 11 for no gain (27-C.Spillman).'>35.45</number><number>0.38</number>
+<number shadow='shadow1' tooltip='9:25 1-10-CAR 11CAR 7 SF 9 LI: 1.4(Shotgun) 28-J.Stewart up the middle to CAR 16 for 5 yards(94-J.Smith).'>35.58</number><number>0.4</number>
+<number shadow='shadow1' tooltip='8:47 2-5-CAR 16CAR 7 SF 9 LI: 1.21-C.Newton pass incomplete short right to 11-B.LaFell.'>36.22</number><number>0.38</number>
+<number shadow='shadow1' tooltip='8:40 3-5-CAR 16CAR 7 SF 9 LI: 1(Shotgun) 1-C.Newton pass short middle to 35-M.Tolbert to CAR 33 for 17 yards(35-E.Reid)SF-35-E.Reid was injured during the playHe is Out Caught at CAR 15 18-yds YAC'>36.33</number><number>0.44</number>
+<number shadow='shadow1' tooltip='8:06 1-10-CAR 33CAR 7 SF 9 LI: 1.3(Shotgun) 1-C.Newton pass short middle to 87-D.Hixon to CAR 42 for 9 yards(31-D.Whitner)Caught at CAR 38 4-yds YAC'>36.9</number><number>0.46</number>
+<number shadow='shadow1' tooltip='7:24 2-1-CAR 42CAR 7 SF 9 LI: 1.428-J.Stewart right guard to CAR 44 for 2 yards(53-N.Bowman).'>37.6</number><number>0.47</number>
+<number shadow='shadow1' tooltip='6:41 1-10-CAR 44CAR 7 SF 9 LI: 1.5(Shotgun) 1-C.Newton pass incomplete short right to 89-S.Smith.'>38.32</number><number>0.45</number>
+<number shadow='shadow1' tooltip='6:38 2-10-CAR 44CAR 7 SF 9 LI: 1.3(Shotgun) 1-C.Newton pass deep middle to 89-S.Smith to SF 37 for 19 yards(31-D.Whitner)Caught at SF 37 0-yds YAC'>38.37</number><number>0.52</number>
+<number shadow='shadow1' tooltip='5:54 1-10-SF 37CAR 7 SF 9 LI: 1.628-J.Stewart left guard to SF 34 for 3 yards(52-P.Willis).'>39.1</number><number>0.51</number>
+<number shadow='shadow1' tooltip='5:10 2-7-SF 34CAR 7 SF 9 LI: 1.4(Shotgun) 1-C.Newton sacked at SF 42 for -8 yards(52-P.Willis).'>39.83</number><number>0.44</number>
+<number shadow='shadow1' tooltip='4:29 3-15-SF 42CAR 7 SF 9 LI: 0.9(Shotgun) 1-C.Newton pass short left to 89-S.Smith to SF 30 for 12 yards(53-N.Bowman 31-D.Whitner)Caught at SF 39 9-yds YAC'>40.52</number><number>0.46</number>
+<number shadow='shadow1' tooltip='3:46 4-3-SF 30CAR 7 SF 9 LI: 0.99-G.Gano 48 yard field goal is No Good Wide Left Center-44-J.Jansen Holder-8-B.Nortman.'>41.23</number><number>0.36</number>
+<number shadow='shadow1' tooltip='3:41 1-10-SF 38CAR 7 SF 9 LI: 1.6A.Snyder reported as eligible 21-F.Gore left guard to CAR 48 for 14 yards(21-M.Mitchell).'>41.32</number><number>0.33</number>
+<number shadow='shadow1' tooltip='2:57 1-10-CAR 48CAR 7 SF 9 LI: 1.6PENALTY on CAR-76-G.Hardy Neutral Zone Infraction 5 yards enforced at CAR 48 - No Play.'>42.05</number><number>0.31</number>
+<number shadow='shadow1' tooltip='2:31 1-5-CAR 43CAR 7 SF 9 LI: 1.7A.Snyder reported as eligible 21-F.Gore left tackle to CAR 39 for 4 yards(59-L.Kuechly).'>42.48</number><number>0.31</number>
+<number shadow='shadow1' tooltip='1:55 2-1-CAR 39CAR 7 SF 9 LI: 1.632-K.Hunter right guard to CAR 39 for no gain (58-T.Davis)FUMBLES (58-T.Davis) RECOVERED by CAR-27-Q.Mikell at CAR 4527-Q.Mikell to CAR 45 for no gain (7-C.Kaepernick)SF-77-M.Iupati was injured during the play K.Hunter credited with rush of -6 yds.'>43.08</number><number>0.48</number>
+<number shadow='shadow1' tooltip='1:47 1-10-CAR 45CAR 7 SF 9 LI: 1.734-De.Williams up the middle to CAR 48 for 3 yards(83-D.Dobbs).'>43.22</number><number>0.47</number>
+<number shadow='shadow1' tooltip='1:04 2-7-CAR 48CAR 7 SF 9 LI: 1.5(Shotgun) Direct snap to 34-De.Williams 34-De.Williams up the middle to SF 48 for 4 yards(53-N.Bowman).'>43.93</number><number>0.47</number>
+<number shadow='shadow1' tooltip='0:24 3-3-SF 48CAR 7 SF 9 LI: 1.4(Shotgun) 1-C.Newton pass incomplete short right to 35-M.Tolbert (83-D.Dobbs)D.Dobbs batted down pass at LOS'>44.6</number><number>0.4</number>
+<number shadow='shadow1' tooltip='0:20 4-3-SF 48CAR 7 SF 9 LI: 0.78-B.Nortman punts 35 yards to SF 13 Center-44-J.Jansen out of bounds.'>44.67</number><number>0.41</number>
+<number shadow='shadow1' tooltip='0:13 1-10-SF 13CAR 7 SF 9 LI: 2.47-C.Kaepernick scrambles up the middle to SF 29 for 16 yards(58-T.Davis)PENALTY on CAR-27-Q.Mikell Unnecessary Roughness 15 yards enforced at SF 29.'>44.78</number><number>0.33</number>
+<number shadow='shadow1' tooltip='15:00 1-10-SF 44CAR 7 SF 9 LI: 1.8(Shotgun) PENALTY on SF-81-A.Boldin False Start 5 yards enforced at SF 44 - No Play.'>45</number><number>0.34</number>
+<number shadow='shadow1' tooltip='14:58 2-15-SF 39CAR 7 SF 9 LI: 1.47-C.Kaepernick pass incomplete deep middle to 89-V.McDonald (59-L.Kuechly).'>45.03</number><number>0.4</number>
+<number shadow='shadow1' tooltip='14:52 3-15-SF 39CAR 7 SF 9 LI: 1.2(Shotgun) 7-C.Kaepernick pass short middle to 82-M.Manningham to CAR 47 for 14 yards(58-T.Davis 29-D.Florence)PENALTY on SF-81-A.Boldin Offensive Pass Interference 10 yards enforced at SF 39 - No Play.'>45.13</number><number>0.44</number>
+<number shadow='shadow1' tooltip='14:23 3-25-SF 29CAR 7 SF 9 LI: 1.17-C.Kaepernick sacked at SF 25 for -4 yards(95-C.Johnson).'>45.62</number><number>0.46</number>
+<number shadow='shadow1' tooltip='13:47 4-29-SF 25CAR 7 SF 9 LI: 14-A.Lee punts 44 yards to CAR 31 Center-47-K.McDermott19-T.Ginn to SF 44 for 25 yards(57-M.Wilhoite).'>46.22</number><number>0.51</number>
+<number shadow='shadow1' tooltip='13:35 1-10-SF 44CAR 7 SF 9 LI: 1.81-C.Newton pass incomplete deep left to 88-G.Olsen (51-D.Skuta).'>46.42</number><number>0.47</number>
+<number shadow='shadow1' tooltip='13:29 2-10-SF 44CAR 7 SF 9 LI: 1.428-J.Stewart right tackle to SF 40 for 4 yards(90-G.Dorsey 63-T.Jerod-Eddie).'>46.52</number><number>0.47</number>
+<number shadow='shadow1' tooltip='12:42 3-6-SF 40CAR 7 SF 9 LI: 1.3(Shotgun) 1-C.Newton pass short right to 89-S.Smith pushed ob at SF 32 for 8 yards(26-T.Brock)Caught at SF 32 0-yds YAC'>47.3</number><number>0.55</number>
+<number shadow='shadow1' tooltip='12:13 1-10-SF 32CAR 7 SF 9 LI: 234-De.Williams left end to SF 33 for -1 yards(90-G.Dorsey 51-D.Skuta).'>47.78</number><number>0.52</number>
+<number shadow='shadow1' tooltip='11:30 2-11-SF 33CAR 7 SF 9 LI: 1.81-C.Newton sacked at SF 41 for -8 yards(55-A.Brooks).'>48.5</number><number>0.4</number>
+<number shadow='shadow1' tooltip='10:48 3-19-SF 41CAR 7 SF 9 LI: 0.9(Shotgun) 1-C.Newton pass short left to 89-S.Smith to SF 35 for 6 yards(25-T.Brown)Caught at SF 35 0-yds YAC'>49.2</number><number>0.42</number>
+<number shadow='shadow1' tooltip='10:10 4-13-SF 35CAR 7 SF 9 LI: 19-G.Gano 53 yard field goal is GOOD Center-44-J.Jansen Holder-8-B.Nortman.'>49.83</number><number>0.52</number>
+<number shadow='shadow1' tooltip='10:10 CAR 10 SF 9 LI: 9-G.Gano kicks 71 yards from CAR 35 to SF -624-A.Dixon to SF 12 for 18 yards(57-J.Senn 42-C.Jones).'>49.92</number><number>0.57</number>
+<number shadow='shadow1' tooltip='9:59 1-10-SF 12CAR 10 SF 9 LI: 2.4(Shotgun) 21-F.Gore left guard to SF 15 for 3 yards(56-A.Klein).'>50.02</number><number>0.59</number>
+<number shadow='shadow1' tooltip='9:15 2-7-SF 15CAR 10 SF 9 LI: 1.9(Shotgun) 7-C.Kaepernick pass incomplete short left to 89-V.McDonald.'>50.75</number><number>0.63</number>
+<number shadow='shadow1' tooltip='9:08 3-7-SF 15CAR 10 SF 9 LI: 1.5(Shotgun) 7-C.Kaepernick pass incomplete deep right to 81-A.Boldin.'>50.87</number><number>0.69</number>
+<number shadow='shadow1' tooltip='9:03 4-7-SF 15CAR 10 SF 9 LI: 0.94-A.Lee punts 48 yards to CAR 37 Center-47-K.McDermott downed by SF-24-A.Dixon.'>50.95</number><number>0.65</number>
+<number shadow='shadow1' tooltip='8:51 1-10-CAR 37CAR 10 SF 9 LI: 2.928-J.Stewart right tackle to CAR 40 for 3 yards(63-T.Jerod-Eddie).'>51.15</number><number>0.67</number>
+<number shadow='shadow1' tooltip='8:15 2-7-CAR 40CAR 10 SF 9 LI: 3.1(Shotgun) 1-C.Newton pass incomplete short right to 11-B.LaFell.'>51.75</number><number>0.63</number>
+<number shadow='shadow1' tooltip='8:10 3-7-CAR 40CAR 10 SF 9 LI: 2.8(Shotgun) 1-C.Newton pass short left to 19-T.Ginn ran ob at SF 49 for 11 yardsCaught at SF 49 0-yds YAC'>51.83</number><number>0.74</number>
+<number shadow='shadow1' tooltip='7:43 1-10-SF 49CAR 10 SF 9 LI: 3.51-C.Newton pass short left to 35-M.Tolbert to 50 for -1 yards(52-P.Willis)Caught at CAR 48 2-yds YAC'>52.28</number><number>0.67</number>
+<number shadow='shadow1' tooltip='6:59 2-11-50CAR 10 SF 9 LI: 2.8(Shotgun) 28-J.Stewart right tackle to SF 47 for 3 yards(63-T.Jerod-Eddie).'>53.02</number><number>0.66</number>
+<number shadow='shadow1' tooltip='6:17 3-8-SF 47CAR 10 SF 9 LI: 2.3(Shotgun) 1-C.Newton left tackle to SF 41 for 6 yards(43-C.Dahl).'>53.72</number><number>0.59</number>
+<number shadow='shadow1' tooltip='5:34 4-2-SF 41CAR 10 SF 9 LI: 1.18-B.Nortman punts 40 yards to SF 1 Center-44-J.Jansen downed by CAR-42-C.Jones.'>54.43</number><number>0.61</number>
+<number shadow='shadow1' tooltip='5:25 1-10-SF 1CAR 10 SF 9 LI: 2.6(Shotgun) 7-C.Kaepernick pass incomplete short right to 49-B.Miller.'>54.58</number><number>0.69</number>
+<number shadow='shadow1' tooltip='5:19 2-10-SF 1CAR 10 SF 9 LI: 1.821-F.Gore left guard to SF 1 for no gain (76-G.Hardy).'>54.68</number><number>0.75</number>
+<number shadow='shadow1' tooltip='4:39 3-10-SF 1CAR 10 SF 9 LI: 1.1(Shotgun) 7-C.Kaepernick pass short left to 82-M.Manningham to SF 15 for 14 yards(21-M.Mitchell)Caught at SF 8 7-yds YAC'>55.35</number><number>0.57</number>
+<number shadow='shadow1' tooltip='4:02 1-10-SF 15CAR 10 SF 9 LI: 3.7(Shotgun) 7-C.Kaepernick sacked at SF 6 for -9 yards(59-L.Kuechly).'>55.97</number><number>0.78</number>
+<number shadow='shadow1' tooltip='3:29 2-19-SF 6CAR 10 SF 9 LI: 0.6(Shotgun) 7-C.Kaepernick pass short left to 82-M.Manningham to SF 12 for 6 yards(41-C.Munnerlyn)Caught at SF 11 1-yd YAC'>56.52</number><number>0.82</number>
+<number shadow='shadow1' tooltip='2:45 3-13-SF 12CAR 10 SF 9 LI: 1(Shotgun) 7-C.Kaepernick pass incomplete deep left to 10-K.Williams.'>57.25</number><number>0.9</number>
+<number shadow='shadow1' tooltip='2:35 4-13-SF 12CAR 10 SF 9 LI: 0.14-A.Lee punts 56 yards to CAR 32 Center-47-K.McDermott fair catch by 19-T.Ginn.'>57.42</number><number>0.88</number>
+<number shadow='shadow1' tooltip='2:27 1-10-CAR 32CAR 10 SF 9 LI: 5.928-J.Stewart right guard to CAR 35 for 3 yards(53-N.Bowman).'>57.55</number><number>0.84</number>
+<number shadow='shadow1' tooltip='2:21 2-7-CAR 35CAR 10 SF 9 LI: 528-J.Stewart up the middle to CAR 34 for -1 yards(94-J.Smith 51-D.Skuta).'>57.65</number><number>0.72</number>
+<number shadow='shadow1' tooltip='2:18 3-8-CAR 34CAR 10 SF 9 LI: 4(Shotgun) 1-C.Newton pass short left to 89-S.Smith ran ob at CAR 43 for 9 yardsCaught at CAR 42 1-yd YAC'>57.7</number><number>0.92</number>
+<number shadow='shadow1' tooltip='2:12 1-10-CAR 43CAR 10 SF 9 LI: 4.628-J.Stewart left tackle to CAR 49 for 6 yards(31-D.Whitner)FUMBLES (31-D.Whitner) recovered by CAR-35-M.Tolbert at CAR 4935-M.Tolbert to CAR 49 for no gain (43-C.Dahl).'>57.8</number><number>0.93</number>
+<number shadow='shadow1' tooltip='2:00 2-4-CAR 49CAR 10 SF 9 LI: 3.5(Shotgun) 1-C.Newton right tackle to SF 49 for 2 yards(90-G.Dorsey).'>58</number><number>0.89</number>
+<number shadow='shadow1' tooltip='1:54 3-2-SF 49CAR 10 SF 9 LI: 2.8G.Hangartner reported as eligible 1-C.Newton FUMBLES (Aborted) at SF 49 and recovers at CAR 461-C.Newton to CAR 46 for no gain (51-D.Skuta)C.Newton credited with rush for 0-yds'>58.1</number><number>0.81</number>
+<number shadow='shadow1' tooltip='1:10 4-7-CAR 46CAR 10 SF 9 LI: 1.58-B.Nortman punts 54 yards to end zone Center-44-J.Jansen Touchback.'>58.83</number><number>0.84</number>
+<number shadow='shadow1' tooltip='1:02 1-10-SF 20CAR 10 SF 9 LI: 1.5(Shotgun) 7-C.Kaepernick sacked at SF 14 for -6 yards(76-G.Hardy).'>58.97</number><number>0.97</number>
+<number shadow='shadow1' tooltip='0:37 2-16-SF 14CAR 10 SF 9 LI: 0.2(No Huddle Shotgun) 7-C.Kaepernick pass intended for 82-M.Manningham INTERCEPTED by 29-D.Florence at SF 4229-D.Florence to SF 40 for 2 yards.'>59.38</number><number>0.99</number>
+<number shadow='shadow1' tooltip='0:23 1-10-SF 40CAR 10 SF 9 LI: 11-C.Newton kneels to SF 41 for -1 yards.'>59.62</number><number>1</number>
+<number>60</number><number>1</number>
+</row> </chart_data>
+       <draw>
+
+
+
+      <image x='45' y='298'  url='nfllogos/42x50png/CAR.gif'  layer='foreground' glow = 'glow1'/>
+      <image x='45' y='350'  url='nfllogos/42x50png/SF.gif'     layer='foreground' glow = 'glow1'/>
+
+
+      <rect x='130' y='300' width='250' height='40' fill_color='008acf' bevel='bevel1' />
+      <text x='135' y='300' width='250' height='40' h_align='left' v_align='middle' color='ffffff' shadow='shadow2' glow='winnerglow'>Carolina Panthers</text>
+
+      <rect x='130' y='350' width='250' height='40' fill_color='a9293d' bevel='bevel1'  />
+      <text x='135' y='350' width='250' height='40' h_align='left' v_align='middle' color='ffffff' shadow='shadow2' glow=''>San Francisco 49ers</text>
+
+      <rect x='420' y='300' width='60' height='40' fill_color='008acf' bevel='bevel1'  />
+      <text x='420' y='300' width='60' height='40' h_align='center' v_align='middle' color='ffffff' shadow='shadow2' transition='none' glow='winnerglow'>10</text>
+
+      <rect x='420' y='350' width='60' height='40' fill_color='a9293d' bevel='bevel1' />
+      <text x='420' y='350' width='60' height='40' h_align='center' v_align='middle' color='ffffff' shadow='shadow2' transition='none' glow=''>9</text>
+
+      <text x='-3' y='12'  width='60' height='40' h_align='center' v_align='middle' size='13' shadow='shadow2'>CARWin </text>
+      <text x='-3' y='218' width='60' height='40' h_align='center' v_align='middle' size='13' shadow='shadow2'>SFWin </text>
+
+     
+              <rect x='540' y='300' width='100' height='35' fill_color='000000' fill_alpha='50'/>
+              <text x='540' y='300' width='100' height='35' h_align='center' v_align='middle' color='ffffff' size='15' shadow='shadow2' >Final</text>
+
+              <text x='540' y='340' width='40' h_align='center' color='000000' size='12' shadow='shadow2'>CBF</text>
+              <text x='600' y='340' width='40' h_align='center' color='000000' size='12' shadow='shadow2'>EI</text>
+
+              <rect x='540' y='360' width='40' height='30' fill_color='000000' fill_alpha='50' />
+              <text x='540' y='360' width='40' height='30' size='12' h_align='center' v_align='middle' color='FFFFFF' shadow='shadow2'>7</text>
+
+              <rect x='600' y='360' width='40' height='30' fill_color='000000' fill_alpha='50' />
+              <text x='600' y='360' width='40' height='30' size='12' h_align='center' v_align='middle' color='FFFFFF' shadow='shadow2'>5.2</text>
+
+              <text x='20' y='420' width='70' height='25' size='12' h_align='left' v_align='middle' color='000000' >11/10/2013</text>
+              <text x='100' y='420' width='200' height='25' size='12' h_align='left' v_align='middle' color='000000' >Candlestick Park</text>
+
+   </draw></chart>

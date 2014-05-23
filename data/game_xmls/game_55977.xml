@@ -1,0 +1,304 @@
+
+<chart>
+   <license>ETAS9P33ESHO.945CWK-2XOI1X0-7L</license>
+   <chart_type>scatter</chart_type>
+   <chart_pref trend_thickness='0' line_thickness='3' point_size='0'/>
+
+   <series_color>
+      <color>ffff00</color>
+   </series_color>
+
+   <chart_rect x='45' y='20' width='630' height='230' positive_color='cacaca'  />
+
+  <chart_border top_thickness='0'
+                 bottom_thickness='0'
+                 left_thickness='0'
+                 right_thickness='0'
+                 color='000000'
+                 />
+
+   <tooltip font='Arial' bold='true' size='11' />
+
+   <chart_note type='flag'
+               color='000000'
+               alpha='90'
+               bold='FALSE'
+               size='10'
+               background_color='ffffe0'
+               background_alpha='50'
+               shadow='shadow2'
+               />
+
+   <chart_grid_h thickness='2' color='ffffff' type='dashed'  />
+   <chart_grid_v thickness='2' color='ffffff'   />
+		>
+
+   <legend layout='hide' />
+
+   <chart_guide horizontal='TRUE'
+             vertical='TRUE'
+             thickness='1'
+             color='006400'
+             alpha='100'
+             type='solid'
+             snap_h='TRUE'
+             snap_v='TRUE'
+             radius='3'
+             fill_color='006400'
+             fill_alpha='100'
+             line_color='006400'
+             line_alpha='80'
+             line_thickness='1'
+             text_h_alpha='50'
+             text_v_alpha='00'
+             suffix_h=' WP'
+             decimals='2'
+             bold='FALSE'
+             size='11'
+             text_color='FFFFFF'
+             background_color='006400'
+             />
+   <filter>
+      <shadow id='shadow1' distance='2' angle='60' blurX='5' blurY='5' alpha='50' />
+      <bevel id='bevel1' angle='45' blurX='5' blurY='5' distance='0' />
+      <glow id='glow1' color='ffffff' alpha='0' blurX='7' blurY='7' strength='6' quality='2' inner='FALSE' knockout='FALSE' />
+      <glow id='winnerglow' color='ffffff' alpha='0' blurX='7' blurY='7' strength='5' quality='2' inner='FALSE' knockout='FALSE' />
+   </filter>
+
+    <axis_value_label>
+         <string></string>
+          <string> </string>
+          <null/>
+          <string> </string>
+          <string></string>
+
+       </axis_value_label>
+		
+	   <axis_ticks category_ticks='false'/>
+
+       <axis_value min='0' max='1' steps='4'  decimals='2' show_min='true' size='13' shadow='shadow2' />     
+            <axis_category
+               min='0'
+               max='60'
+               steps='4'
+               mode='all'
+               decimals='0'
+               size='13'
+               shadow='shadow2'
+               />
+
+       <axis_category_label>
+          <string>Kickoff</string>
+          <string></string>
+          <string>Halftime</string>
+          <string></string>
+          <string>End</string>
+
+       </axis_category_label>
+
+
+        <chart_data>
+       <row>
+	      <null/><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number>
+              <number>x</number><number>y</number>
+              </row><row><string></string>
+
+                     <number shadow='shadow1'>0</number><number>.5</number><number shadow='shadow1' tooltip='15:00 BUF 0 PIT 0 LI: 2-D.Carpenter kicks 65 yards from BUF 35 to end zone Touchback.'>0.09</number><number>0.48</number>
+<number shadow='shadow1' tooltip='14:41 2-6-PIT 24BUF 0 PIT 0 LI: 1.4(Shotgun) Direct snap to 26-L.Bell 26-L.Bell up the middle to PIT 28 for 4 yards(21-L.McKelvin).'>0.32</number><number>0.49</number>
+<number shadow='shadow1' tooltip='14:04 3-2-PIT 28BUF 0 PIT 0 LI: 1.3(Shotgun) 26-L.Bell right guard to PIT 31 for 3 yards(50-K.Alonso; 25-D.Searcy).'>0.93</number><number>0.46</number>
+<number shadow='shadow1' tooltip='13:20 1-10-PIT 31BUF 0 PIT 0 LI: 1.5#76 Adams reports as an eligible receiver7-B.Roethlisberger pass incomplete short left to 84-A.BrownPENALTY on BUF-24-S.Gilmore Defensive Holding 5 yards enforced at PIT 31 - No Play.'>1.67</number><number>0.46</number>
+<number shadow='shadow1' tooltip='13:14 1-10-PIT 36BUF 0 PIT 0 LI: 1.4(Shotgun) 26-L.Bell right guard to PIT 39 for 3 yards(55-J.Hughes).'>1.77</number><number>0.46</number>
+<number shadow='shadow1' tooltip='12:34 2-7-PIT 39BUF 0 PIT 0 LI: 1.326-L.Bell right tackle to PIT 41 for 2 yards(52-A.Moats 50-K.Alonso).'>2.43</number><number>0.48</number>
+<number shadow='shadow1' tooltip='11:49 3-5-PIT 41BUF 0 PIT 0 LI: 1.1(Shotgun) 7-B.Roethlisberger pass short left to 89-J.Cotchery pushed ob at BUF 33 for 26 yards(37-N.Robey).'>3.18</number><number>0.39</number>
+<number shadow='shadow1' tooltip='11:18 1-10-BUF 33BUF 0 PIT 0 LI: 1.5#76 Adams reports as an eligible receiver7-B.Roethlisberger pass short right to 26-L.Bell to BUF 36 for -3 yards(50-K.Alonso).'>3.7</number><number>0.44</number>
+<number shadow='shadow1' tooltip='10:32 2-13-BUF 36BUF 0 PIT 0 LI: 1(Shotgun) 7-B.Roethlisberger pass deep right intended for 11-M.Wheaton INTERCEPTED by 31-J.Byrd at BUF 1431-J.Byrd to PIT 29 for 57 yards(11-M.Wheaton).'>4.47</number><number>0.62</number>
+<number shadow='shadow1' tooltip='10:15 1-10-PIT 29BUF 0 PIT 0 LI: 1.528-C.Spiller left guard to PIT 26 for 3 yards(22-W.Gay).'>4.75</number><number>0.62</number>
+<number shadow='shadow1' tooltip='9:46 2-7-PIT 26BUF 0 PIT 0 LI: 1.528-C.Spiller left tackle to PIT 23 for 3 yards(22-W.Gay).'>5.23</number><number>0.62</number>
+<number shadow='shadow1' tooltip='9:11 3-4-PIT 23BUF 0 PIT 0 LI: 1.4(Shotgun) 3-E.Manuel pass incomplete short left to 11-T.GrahamPENALTY on PIT-22-W.Gay Defensive Pass Interference 3 yards enforced at PIT 23 - No Play.'>5.82</number><number>0.64</number>
+<number shadow='shadow1' tooltip='9:06 1-10-PIT 20BUF 0 PIT 0 LI: 1.6(Shotgun) 3-E.Manuel pass short middle to 28-C.Spiller to PIT 16 for 4 yards(94-L.Timmons).'>5.9</number><number>0.64</number>
+<number shadow='shadow1' tooltip='8:36 2-6-PIT 16BUF 0 PIT 0 LI: 1.528-C.Spiller left end to PIT 17 for -1 yards(22-W.Gay).'>6.4</number><number>0.61</number>
+<number shadow='shadow1' tooltip='8:15 3-7-PIT 17BUF 0 PIT 0 LI: 1.2(Shotgun) 3-E.Manuel scrambles left guard to PIT 9 for 8 yards.'>6.75</number><number>0.66</number>
+<number shadow='shadow1' tooltip='7:31 1-9-PIT 9BUF 0 PIT 0 LI: 1.622-F.Jackson up the middle to PIT 3 for 6 yards(97-C.Heyward).'>7.48</number><number>0.69</number>
+<number shadow='shadow1' tooltip='7:03 2-3-PIT 3BUF 0 PIT 0 LI: 1.922-F.Jackson up the middle to PIT 1 for 2 yards(56-L.Woodley 97-C.Heyward).'>7.95</number><number>0.68</number>
+<number shadow='shadow1' tooltip='6:23 3-1-PIT 1BUF 0 PIT 0 LI: 1.83-E.Manuel pass incomplete short right to 13-S.JohnsonCoverage by #24 Taylor.'>8.62</number><number>0.59</number>
+<number shadow='shadow1' tooltip='6:19 4-1-PIT 1BUF 0 PIT 0 LI: 0.9(Field Goal formation) 2-D.Carpenter 20 yard field goal is GOOD Center-65-G.Sanborn Holder-8-B.Moorman.'>8.68</number><number>0.58</number>
+<number shadow='shadow1' tooltip='6:19 BUF 3 PIT 0 LI: 2-D.Carpenter kicks 65 yards from BUF 35 to end zone Touchback.'>8.77</number><number>0.6</number>
+<number shadow='shadow1' tooltip='6:13 2-10-PIT 20BUF 3 PIT 0 LI: 1.3(No Huddle Shotgun) 7-B.Roethlisberger pass short left to 88-E.Sanders to PIT 17 for -3 yards(23-A.Williams).'>8.78</number><number>0.63</number>
+<number shadow='shadow1' tooltip='5:36 3-13-PIT 17BUF 3 PIT 0 LI: 1(Shotgun) 7-B.Roethlisberger pass incomplete deep right to 88-E.SandersCoverage by #21 McKelvin.'>9.4</number><number>0.65</number>
+<number shadow='shadow1' tooltip='5:30 4-13-PIT 17BUF 3 PIT 0 LI: 0.8(Punt formation) 10-M.McBriar punts 27 yards to PIT 44 Center-60-G.Warren downed by PIT-21-R.Golden.'>9.5</number><number>0.68</number>
+<number shadow='shadow1' tooltip='5:20 1-10-PIT 44BUF 3 PIT 0 LI: 1.3(Shotgun) 28-C.Spiller left end pushed ob at PIT 45 for -1 yards(22-W.Gay).'>9.67</number><number>0.66</number>
+<number shadow='shadow1' tooltip='4:48 2-11-PIT 45BUF 3 PIT 0 LI: 1.2(Shotgun) 3-E.Manuel pass incomplete short right to 13-S.JohnsonCoverage by #56 Woodley.'>10.2</number><number>0.64</number>
+<number shadow='shadow1' tooltip='4:44 3-11-PIT 45BUF 3 PIT 0 LI: 1(Shotgun) 22-F.Jackson left tackle to PIT 40 for 5 yards(94-L.Timmons).'>10.27</number><number>0.62</number>
+<number shadow='shadow1' tooltip='4:08 4-6-PIT 40BUF 3 PIT 0 LI: 0.7(Punt formation) 8-B.Moorman punts 24 yards to PIT 16 Center-65-G.Sanborn fair catch by 84-A.Brown.'>10.87</number><number>0.61</number>
+<number shadow='shadow1' tooltip='4:00 1-10-PIT 16BUF 3 PIT 0 LI: 1.2#76 Adams reports as an eligible receiver26-L.Bell left guard to PIT 20 for 4 yards(50-K.Alonso).'>11</number><number>0.6</number>
+<number shadow='shadow1' tooltip='3:23 2-6-PIT 20BUF 3 PIT 0 LI: 1.3#76 Adams reports as an eligible receiver26-L.Bell right guard to PIT 22 for 2 yards(53-N.Bradham 35-J.Leonhard).'>11.62</number><number>0.6</number>
+<number shadow='shadow1' tooltip='2:39 3-4-PIT 22BUF 3 PIT 0 LI: 1.2(Shotgun) 7-B.Roethlisberger pass short left to 88-E.Sanders to PIT 25 for 3 yards(37-N.Robey 31-J.Byrd).'>12.35</number><number>0.64</number>
+<number shadow='shadow1' tooltip='2:01 4-1-PIT 25BUF 3 PIT 0 LI: 0.8(Punt formation) 10-M.McBriar punts 36 yards to BUF 39 Center-60-G.Warren21-L.McKelvin to BUF 44 for 5 yards(41-A.Blake; 31-C.Brown).'>12.98</number><number>0.65</number>
+<number shadow='shadow1' tooltip='1:52 1-10-BUF 44BUF 3 PIT 0 LI: 1.422-F.Jackson up the middle to BUF 45 for 1 yard(56-L.Woodley; 98-V.Williams).'>13.13</number><number>0.64</number>
+<number shadow='shadow1' tooltip='1:24 2-9-BUF 45BUF 3 PIT 0 LI: 1.23-E.Manuel pass short right to 13-S.Johnson pushed ob at BUF 50 for 5 yards(43-T.Polamalu).'>13.6</number><number>0.64</number>
+<number shadow='shadow1' tooltip='0:44 3-4-BUF 50BUF 3 PIT 0 LI: 1.1(Shotgun) 3-E.Manuel pass incomplete short left to 13-S.Johnson.'>14.27</number><number>0.6</number>
+<number shadow='shadow1' tooltip='0:39 4-4-BUF 50BUF 3 PIT 0 LI: 0.7(Punt formation) 8-B.Moorman punts 26 yards to PIT 24 Center-65-G.Sanborn out of bounds.'>14.35</number><number>0.59</number>
+<number shadow='shadow1' tooltip='0:33 1-10-PIT 24BUF 3 PIT 0 LI: 1.37-B.Roethlisberger pass short left to 82-M.Palmer to PIT 32 for 8 yards(52-A.Moats).'>14.45</number><number>0.57</number>
+<number shadow='shadow1' tooltip='0:03 2-2-PIT 32BUF 3 PIT 0 LI: 1.3#76 Adams reports as an eligible receiver23-F.Jones right guard to PIT 33 for 1 yard(91-M.Lawson).'>14.95</number><number>0.58</number>
+<number shadow='shadow1' tooltip='15:00 3-1-PIT 33BUF 3 PIT 0 LI: 1.2#76 Adams reports as an eligible receiver27-J.Dwyer left guard to PIT 39 for 6 yards(52-A.Moats; 25-D.Searcy).'>15</number><number>0.56</number>
+<number shadow='shadow1' tooltip='14:16 1-10-PIT 39BUF 3 PIT 0 LI: 1.3(Shotgun) 7-B.Roethlisberger pass incomplete short middle to 84-A.BrownCoverage by #24 Gilmore.'>15.73</number><number>0.57</number>
+<number shadow='shadow1' tooltip='14:11 2-10-PIT 39BUF 3 PIT 0 LI: 1.2#76 Adams reports as an eligible receiver23-F.Jones left guard to PIT 48 for 9 yards(31-J.Byrd).'>15.82</number><number>0.55</number>
+<number shadow='shadow1' tooltip='13:31 3-1-PIT 48BUF 3 PIT 0 LI: 1.2#76 Adams reports as an eligible receiver27-J.Dwyer up the middle to PIT 50 for 2 yards(52-A.Moats).'>16.48</number><number>0.53</number>
+<number shadow='shadow1' tooltip='12:53 1-10-PIT 50BUF 3 PIT 0 LI: 1.4Direct snap to 26-L.Bell 88-E.Sanders left end to BUF 25 for 25 yards(99-M.Dareus).'>17.12</number><number>0.48</number>
+<number shadow='shadow1' tooltip='12:08 1-10-BUF 25BUF 3 PIT 0 LI: 1.4#76 Adams reports as an eligible receiver26-L.Bell left guard to BUF 16 for 9 yards(96-S.Charles).'>17.87</number><number>0.44</number>
+<number shadow='shadow1' tooltip='11:32 2-1-BUF 16BUF 3 PIT 0 LI: 1.6#76 Adams reports as an eligible receiver26-L.Bell left guard to BUF 10 for 6 yards(90-A.Branch; 52-A.Moats).'>18.47</number><number>0.42</number>
+<number shadow='shadow1' tooltip='10:51 1-10-BUF 10BUF 3 PIT 0 LI: 1.8#76 Adams reports as an eligible receiver26-L.Bell right guard to BUF 7 for 3 yards(91-M.Lawson 52-A.Moats).'>19.15</number><number>0.43</number>
+<number shadow='shadow1' tooltip='10:12 2-7-BUF 7BUF 3 PIT 0 LI: 1.7#76 Adams reports as an eligible receiver26-L.Bell right tackle to BUF 7 for no gain (35-J.Leonhard).'>19.8</number><number>0.46</number>
+<number shadow='shadow1' tooltip='9:29 3-7-BUF 7BUF 3 PIT 0 LI: 1.4(Shotgun) 7-B.Roethlisberger sacked at BUF 18 for -11 yards(95-K.Williams).'>20.52</number><number>0.54</number>
+<number shadow='shadow1' tooltip='8:52 4-18-BUF 18BUF 3 PIT 0 LI: 0.7(Field Goal formation) 6-S.Suisham 36 yard field goal is GOOD Center-60-G.Warren Holder-10-M.McBriar.'>21.13</number><number>0.53</number>
+<number shadow='shadow1' tooltip='8:52 BUF 3 PIT 3 LI: 6-S.Suisham kicks 65 yards from PIT 35 to end zone Touchback.'>21.22</number><number>0.52</number>
+<number shadow='shadow1' tooltip='8:14 2-9-BUF 21BUF 3 PIT 3 LI: 1.2(Shotgun) 3-E.Manuel pass short left to 13-S.Johnson to BUF 44 for 23 yards(56-L.Woodley)PIT-29-S.Thomas was injured during the play.'>21.77</number><number>0.56</number>
+<number shadow='shadow1' tooltip='7:42 1-10-BUF 44BUF 3 PIT 3 LI: 1.4(Shotgun) 22-F.Jackson left guard to BUF 48 for 4 yards(97-C.Heyward).'>22.3</number><number>0.55</number>
+<number shadow='shadow1' tooltip='7:07 2-6-BUF 48BUF 3 PIT 3 LI: 1.2(No Huddle Shotgun) 3-E.Manuel pass incomplete short left to 13-S.JohnsonPENALTY on PIT-28-C.Allen Defensive Pass Interference 6 yards enforced at BUF 48 - No Play.'>22.88</number><number>0.57</number>
+<number shadow='shadow1' tooltip='7:03 1-10-PIT 46BUF 3 PIT 3 LI: 1.33-E.Manuel pass incomplete short right to 89-C.Gragg.'>22.95</number><number>0.55</number>
+<number shadow='shadow1' tooltip='7:00 2-10-PIT 46BUF 3 PIT 3 LI: 1.13-E.Manuel pass incomplete short left to 11-T.GrahamCoverage by #22 Gay.'>23</number><number>0.53</number>
+<number shadow='shadow1' tooltip='6:54 3-10-PIT 46BUF 3 PIT 3 LI: 0.9(Shotgun) 3-E.Manuel pass incomplete short left to 13-S.JohnsonCoverage by #43 Polamalu.'>23.1</number><number>0.49</number>
+<number shadow='shadow1' tooltip='6:50 4-10-PIT 46BUF 3 PIT 3 LI: 0.5(Punt formation) 8-B.Moorman punts 32 yards to PIT 14 Center-65-G.Sanborn fair catch by 84-A.Brown.'>23.17</number><number>0.5</number>
+<number shadow='shadow1' tooltip='6:43 1-10-PIT 14BUF 3 PIT 3 LI: 1.926-L.Bell right tackle to PIT 16 for 2 yards(53-N.Bradham; 91-M.Lawson).'>23.28</number><number>0.51</number>
+<number shadow='shadow1' tooltip='6:02 2-8-PIT 16BUF 3 PIT 3 LI: 1.37-B.Roethlisberger pass short middle to 26-L.Bell to PIT 50 for 34 yards(31-J.Byrd).'>23.97</number><number>0.43</number>
+<number shadow='shadow1' tooltip='5:13 1-10-PIT 50BUF 3 PIT 3 LI: 1.4(Shotgun) 7-B.Roethlisberger pass short right to 88-E.Sanders to BUF 46 for 4 yards(91-M.Lawson).'>24.78</number><number>0.44</number>
+<number shadow='shadow1' tooltip='4:35 2-6-BUF 46BUF 3 PIT 3 LI: 1.27-B.Roethlisberger pass short right to 27-J.Dwyer to BUF 43 for 3 yards(50-K.Alonso).'>25.42</number><number>0.44</number>
+<number shadow='shadow1' tooltip='3:54 3-3-BUF 43BUF 3 PIT 3 LI: 1.127-J.Dwyer right tackle ran ob at BUF 35 for 8 yards(31-J.Byrd).'>26.1</number><number>0.4</number>
+<number shadow='shadow1' tooltip='3:22 1-10-BUF 35BUF 3 PIT 3 LI: 1.4#76 Adams reports as an eligible receiver27-J.Dwyer up the middle to BUF 29 for 6 yards(50-K.Alonso).'>26.63</number><number>0.38</number>
+<number shadow='shadow1' tooltip='2:40 2-4-BUF 29BUF 3 PIT 3 LI: 1.5#76 Adams reports as an eligible receiver7-B.Roethlisberger pass incomplete short left to 84-A.BrownCoverage by #24 Gilmore.'>27.33</number><number>0.4</number>
+<number shadow='shadow1' tooltip='2:34 3-4-BUF 29BUF 3 PIT 3 LI: 1.3(Shotgun) 7-B.Roethlisberger pass deep right to 84-A.Brown to BUF 5 for 24 yards(21-L.McKelvin).'>27.43</number><number>0.3</number>
+<number shadow='shadow1' tooltip='2:00 1-5-BUF 5BUF 3 PIT 3 LI: 2#76 Adams reports as an eligible receiver7-B.Roethlisberger pass short left to 89-J.Cotchery for 5 yards TOUCHDOWN.'>28</number><number>0.28</number>
+<number shadow='shadow1' tooltip='2:00 BUF 3 PIT 3 LI: 6-S.Suisham extra point is GOOD Center-60-G.Warren Holder-10-M.McBriar.'>28.04</number><number>0.28</number>
+<number shadow='shadow1' tooltip='2:00 BUF 3 PIT 10 LI: 6-S.Suisham kicks 65 yards from PIT 35 to end zone Touchback.'>28.09</number><number>0.28</number>
+<number shadow='shadow1' tooltip='1:33 2-2-BUF 33BUF 3 PIT 10 LI: 1(No Huddle Shotgun) 3-E.Manuel pass short left to 11-T.Graham pushed ob at BUF 38 for 5 yards(28-C.Allen).'>28.45</number><number>0.3</number>
+<number shadow='shadow1' tooltip='1:29 1-10-BUF 38BUF 3 PIT 10 LI: 1.1(No Huddle Shotgun) 3-E.Manuel pass incomplete short right to 22-F.Jackson.'>28.52</number><number>0.28</number>
+<number shadow='shadow1' tooltip='1:25 2-10-BUF 38BUF 3 PIT 10 LI: 0.9(Shotgun) 3-E.Manuel pass short left to 22-F.Jackson to BUF 42 for 4 yards(28-C.Allen).'>28.58</number><number>0.28</number>
+<number shadow='shadow1' tooltip='0:56 3-6-BUF 42BUF 3 PIT 10 LI: 0.9(No Huddle Shotgun) 3-E.Manuel pass short right to 22-F.Jackson to BUF 44 for 2 yards(22-W.Gay).'>29.07</number><number>0.24</number>
+<number shadow='shadow1' tooltip='0:49 4-4-BUF 44BUF 3 PIT 10 LI: 0.4(Punt formation) 8-B.Moorman punts 56 yards to end zone Center-65-G.Sanborn Touchback.'>29.18</number><number>0.24</number>
+<number shadow='shadow1' tooltip='0:41 1-10-PIT 20BUF 3 PIT 10 LI: 1.3(Shotgun) 7-B.Roethlisberger pass short left to 83-H.Miller to PIT 26 for 6 yards(23-A.Williams).'>29.32</number><number>0.24</number>
+<number shadow='shadow1' tooltip='0:11 2-4-PIT 26BUF 3 PIT 10 LI: 1.2(No Huddle Shotgun) 7-B.Roethlisberger pass short left to 84-A.Brown to PIT 33 for 7 yards(24-S.Gilmore).'>29.82</number><number>0.22</number>
+<number shadow='shadow1' tooltip='0:09 1-10-PIT 33BUF 3 PIT 10 LI: 1.2(No Huddle Shotgun) 7-B.Roethlisberger pass short left to 84-A.Brown to PIT 44 for 11 yards(24-S.Gilmore).'>29.85</number><number>0.21</number>
+<number shadow='shadow1' tooltip='0:03 1-10-PIT 44BUF 3 PIT 10 LI: 1.2(No Huddle Shotgun) 7-B.Roethlisberger pass incomplete deep left to 84-A.Brown.'>29.95</number><number>0.27</number>
+<number shadow='shadow1' tooltip='0:03 BUF 3 PIT 10 LI: 6-S.Suisham kicks 70 yards from PIT 35 to BUF -588-M.Goodwin to BUF 13 for 18 yards(21-R.Golden).'>30.04</number><number>0.27</number>
+<number shadow='shadow1' tooltip='14:56 1-10-BUF 28BUF 3 PIT 10 LI: 13-E.Manuel pass incomplete short left to 85-L.Smith (94-L.Timmons).'>30.07</number><number>0.26</number>
+<number shadow='shadow1' tooltip='14:51 2-10-BUF 28BUF 3 PIT 10 LI: 0.928-C.Spiller left guard to BUF 32 for 4 yards(97-C.Heyward 56-L.Woodley).'>30.15</number><number>0.26</number>
+<number shadow='shadow1' tooltip='14:15 3-6-BUF 32BUF 3 PIT 10 LI: 0.8(Shotgun) 3-E.Manuel pass short right to 88-M.Goodwin to BUF 39 for 7 yards(24-I.Taylor).'>30.75</number><number>0.29</number>
+<number shadow='shadow1' tooltip='13:42 1-10-BUF 39BUF 3 PIT 10 LI: 1.1(No Huddle Shotgun) 22-F.Jackson up the middle to BUF 48 for 9 yards(98-V.Williams).'>31.3</number><number>0.31</number>
+<number shadow='shadow1' tooltip='13:14 2-1-BUF 48BUF 3 PIT 10 LI: 1.222-F.Jackson right tackle to PIT 49 for 3 yards(99-B.Keisel).'>31.77</number><number>0.32</number>
+<number shadow='shadow1' tooltip='12:44 1-10-PIT 49BUF 3 PIT 10 LI: 1.2(No Huddle) 3-E.Manuel pass incomplete short right to 13-S.Johnson (24-I.Taylor).'>32.27</number><number>0.3</number>
+<number shadow='shadow1' tooltip='12:38 2-10-PIT 49BUF 3 PIT 10 LI: 128-C.Spiller left tackle to PIT 43 for 6 yards(25-R.Clark; 93-J.Worilds).'>32.37</number><number>0.3</number>
+<number shadow='shadow1' tooltip='11:59 3-4-PIT 43BUF 3 PIT 10 LI: 0.9(No Huddle Shotgun) 3-E.Manuel sacked at PIT 48 for -5 yards(94-L.Timmons).'>33.02</number><number>0.24</number>
+<number shadow='shadow1' tooltip='11:30 4-9-PIT 48BUF 3 PIT 10 LI: 0.4(Punt formation) 8-B.Moorman punts 48 yards to end zone Center-65-G.Sanborn Touchback.'>33.5</number><number>0.24</number>
+<number shadow='shadow1' tooltip='11:22 1-10-PIT 20BUF 3 PIT 10 LI: 1.4#76 Adams reports as an eligible receiver26-L.Bell up the middle to PIT 19 for -1 yards(95-K.Williams)PIT-73-R.Foster was injured during the play.'>33.63</number><number>0.26</number>
+<number shadow='shadow1' tooltip='10:46 2-11-PIT 19BUF 3 PIT 10 LI: 1.2(Shotgun) 7-B.Roethlisberger pass short right to 26-L.Bell to PIT 27 for 8 yards(23-A.Williams).'>34.23</number><number>0.24</number>
+<number shadow='shadow1' tooltip='10:02 3-3-PIT 27BUF 3 PIT 10 LI: 1.2(Shotgun) 7-B.Roethlisberger pass deep right to 84-A.Brown ran ob at PIT 47 for 20 yards.'>34.97</number><number>0.2</number>
+<number shadow='shadow1' tooltip='9:30 1-10-PIT 47BUF 3 PIT 10 LI: 1.1#76 Adams reports as an eligible receiver26-L.Bell right guard to PIT 50 for 3 yards(23-A.Williams).'>35.5</number><number>0.19</number>
+<number shadow='shadow1' tooltip='8:48 2-7-PIT 50BUF 3 PIT 10 LI: 1.2#76 Adams reports as an eligible receiver7-B.Roethlisberger pass incomplete short left to 83-H.MillerCoverage by #31Byrd Pressure by #91 Lawson.'>36.2</number><number>0.21</number>
+<number shadow='shadow1' tooltip='8:41 3-7-PIT 50BUF 3 PIT 10 LI: 1(Shotgun) 7-B.Roethlisberger sacked at PIT 40 for -10 yards(99-M.Dareus)FUMBLES (99-M.Dareus) and recovers at PIT 407-B.Roethlisberger to PIT 40 for no gain (53-N.Bradham).'>36.32</number><number>0.24</number>
+<number shadow='shadow1' tooltip='8:10 4-17-PIT 40BUF 3 PIT 10 LI: 0.9(Punt formation) 10-M.McBriar punts 46 yards to BUF 14 Center-60-G.Warren21-L.McKelvin to BUF 18 for 4 yards(31-C.Brown 21-R.Golden)PENALTY on BUF Illegal Block Above the Waist 10 yards enforced at BUF 18.'>36.83</number><number>0.21</number>
+<number shadow='shadow1' tooltip='7:58 1-10-BUF 8BUF 3 PIT 10 LI: 1(Shotgun) 3-E.Manuel pass short middle to 13-S.Johnson to BUF 28 for 20 yards(24-I.Taylor 22-W.Gay)PIT-24-I.Taylor was injured during the play.'>37.03</number><number>0.25</number>
+<number shadow='shadow1' tooltip='7:32 1-10-BUF 28BUF 3 PIT 10 LI: 1(Shotgun) 3-E.Manuel pass short right to 22-F.Jackson to BUF 29 for 1 yard(90-S.McLendon 94-L.Timmons).'>37.47</number><number>0.25</number>
+<number shadow='shadow1' tooltip='6:54 2-9-BUF 29BUF 3 PIT 10 LI: 1(No Huddle Shotgun) 3-E.Manuel pass short right to 84-S.Chandler to BUF 37 for 8 yards(94-L.Timmons).'>38.1</number><number>0.26</number>
+<number shadow='shadow1' tooltip='6:22 3-1-BUF 37BUF 3 PIT 10 LI: 0.9(No Huddle Shotgun) 3-E.Manuel pass incomplete short left to 88-M.GoodwinCoverage by #22 Gay.'>38.63</number><number>0.22</number>
+<number shadow='shadow1' tooltip='6:16 4-1-BUF 37BUF 3 PIT 10 LI: 0.5(Punt formation) 8-B.Moorman punts 45 yards to PIT 18 Center-65-G.Sanborn84-A.Brown to PIT 42 for 24 yards(15-C.Hogan 52-A.Moats).'>38.73</number><number>0.2</number>
+<number shadow='shadow1' tooltip='6:05 1-10-PIT 42BUF 3 PIT 10 LI: 1.2#76 Adams reports as an eligible receiver7-B.Roethlisberger pass deep middle to 84-A.Brown to BUF 18 for 40 yards(31-J.Byrd).'>38.92</number><number>0.13</number>
+<number shadow='shadow1' tooltip='5:15 1-10-BUF 18BUF 3 PIT 10 LI: 0.926-L.Bell left guard to BUF 14 for 4 yards(53-N.Bradham 50-K.Alonso).'>39.75</number><number>0.1</number>
+<number shadow='shadow1' tooltip='4:33 2-6-BUF 14BUF 3 PIT 10 LI: 1.1#76 Adams reports as an eligible receiver26-L.Bell up the middle to BUF 11 for 3 yards(97-C.Bryant).'>40.45</number><number>0.1</number>
+<number shadow='shadow1' tooltip='3:52 3-3-BUF 11BUF 3 PIT 10 LI: 0.9(Shotgun) 7-B.Roethlisberger pass incomplete short right to 84-A.BrownCoverage by #24 Gilmore.'>41.13</number><number>0.16</number>
+<number shadow='shadow1' tooltip='3:48 4-3-BUF 11BUF 3 PIT 10 LI: 0.3(Field Goal formation) PENALTY on BUF-99-M.Dareus Encroachment 5 yards enforced at BUF 11 - No Play.'>41.2</number><number>0.08</number>
+<number shadow='shadow1' tooltip='3:08 2-4-BUF 4BUF 3 PIT 10 LI: 1.2#76 Adams reports as an eligible receiver26-L.Bell up the middle for 4 yards TOUCHDOWN.'>41.87</number><number>0.05</number>
+<number shadow='shadow1' tooltip='3:08 BUF 3 PIT 10 LI: 6-S.Suisham extra point is GOOD Center-60-G.Warren Holder-10-M.McBriar.'>41.91</number><number>0.05</number>
+<number shadow='shadow1' tooltip='3:08 BUF 3 PIT 17 LI: 6-S.Suisham kicks 65 yards from PIT 35 to end zone Touchback.'>41.96</number><number>0.05</number>
+<number shadow='shadow1' tooltip='3:02 1-10-BUF 20BUF 3 PIT 17 LI: 0.2(Shotgun) 28-C.Spiller left tackle pushed ob at BUF 27 for 7 yards(22-W.Gay).'>41.97</number><number>0.05</number>
+<number shadow='shadow1' tooltip='2:42 2-3-BUF 27BUF 3 PIT 17 LI: 0.13-E.Manuel pass incomplete short right to 89-C.Gragg (43-T.Polamalu).'>42.3</number><number>0.05</number>
+<number shadow='shadow1' tooltip='2:37 3-3-BUF 27BUF 3 PIT 17 LI: 0.1(Shotgun) 3-E.Manuel pass incomplete deep left to 13-S.JohnsonCoverage by #28 Allen.'>42.38</number><number>0.04</number>
+<number shadow='shadow1' tooltip='2:32 4-3-BUF 27BUF 3 PIT 17 LI: 0.1(Punt formation) 8-B.Moorman punts 37 yards to PIT 36 Center-65-G.Sanborn fair catch by 84-A.BrownPENALTY on PIT-46-W.Johnson Offensive Holding 10 yards enforced at PIT 36.'>42.47</number><number>0.04</number>
+<number shadow='shadow1' tooltip='2:25 1-10-PIT 26BUF 3 PIT 17 LI: 0.526-L.Bell up the middle to PIT 27 for 1 yard(55-J.Hughes).'>42.58</number><number>0.04</number>
+<number shadow='shadow1' tooltip='2:02 2-9-PIT 27BUF 3 PIT 17 LI: 0.5(Shotgun) 7-B.Roethlisberger pass incomplete short right to 83-H.Miller.'>42.97</number><number>0.05</number>
+<number shadow='shadow1' tooltip='1:58 3-9-PIT 27BUF 3 PIT 17 LI: 0.4(Shotgun) 7-B.Roethlisberger sacked at PIT 17 for -10 yards(55-J.Hughes).'>43.03</number><number>0.06</number>
+<number shadow='shadow1' tooltip='1:19 4-19-PIT 17BUF 3 PIT 17 LI: 0.4(Punt formation) 10-M.McBriar punts 42 yards to BUF 41 Center-60-G.Warren21-L.McKelvin to BUF 48 for 7 yards(21-R.Golden 46-W.Johnson).'>43.68</number><number>0.07</number>
+<number shadow='shadow1' tooltip='1:05 1-10-BUF 48BUF 3 PIT 17 LI: 0.328-C.Spiller right tackle to BUF 50 for 2 yards(96-E.Hood 93-J.Worilds).'>43.92</number><number>0.06</number>
+<number shadow='shadow1' tooltip='0:35 2-8-BUF 50BUF 3 PIT 17 LI: 0.2(No Huddle) 3-E.Manuel scrambles right end ran ob at PIT 41 for 9 yards.'>44.42</number><number>0.08</number>
+<number shadow='shadow1' tooltip='0:15 1-10-PIT 41BUF 3 PIT 17 LI: 0.4(No Huddle) 22-F.Jackson up the middle to PIT 37 for 4 yards(65-A.Woods).'>44.75</number><number>0.06</number>
+<number shadow='shadow1' tooltip='15:00 2-6-PIT 37BUF 3 PIT 17 LI: 0.2(Shotgun) 22-F.Jackson right tackle to PIT 36 for 1 yard(98-V.Williams).'>45</number><number>0.05</number>
+<number shadow='shadow1' tooltip='14:15 3-5-PIT 36BUF 3 PIT 17 LI: 0.1(No Huddle Shotgun) 3-E.Manuel pass incomplete short left to 13-S.Johnson (22-W.Gay).'>45.75</number><number>0.03</number>
+<number shadow='shadow1' tooltip='14:09 4-5-PIT 36BUF 3 PIT 17 LI: 0.1(Punt formation) 8-B.Moorman punts 25 yards to PIT 11 Center-65-G.Sanborn fair catch by 84-A.Brown.'>45.85</number><number>0.03</number>
+<number shadow='shadow1' tooltip='14:02 1-10-PIT 11BUF 3 PIT 17 LI: 1.2#76 Adams reports as an eligible receiver23-F.Jones left tackle to PIT 14 for 3 yards(90-A.Branch).'>45.97</number><number>0.05</number>
+<number shadow='shadow1' tooltip='13:21 2-7-PIT 14BUF 3 PIT 17 LI: 123-F.Jones up the middle to PIT 17 for 3 yards(50-K.Alonso).'>46.65</number><number>0.04</number>
+<number shadow='shadow1' tooltip='12:40 3-4-PIT 17BUF 3 PIT 17 LI: 0.5(Shotgun) 7-B.Roethlisberger pass short right to 88-E.Sanders to PIT 26 for 9 yards(24-S.Gilmore).'>47.33</number><number>0.04</number>
+<number shadow='shadow1' tooltip='11:57 1-10-PIT 26BUF 3 PIT 17 LI: 0.4#76 Adams reports as an eligible receiver27-J.Dwyer right guard to PIT 43 for 17 yards(23-A.Williams).'>48.05</number><number>0.03</number>
+<number shadow='shadow1' tooltip='11:15 1-10-PIT 43BUF 3 PIT 17 LI: 0.4#76 Adams reports as an eligible receiver27-J.Dwyer up the middle to PIT 42 for -1 yards(95-K.Williams; 90-A.Branch).'>48.75</number><number>0.03</number>
+<number shadow='shadow1' tooltip='10:31 2-11-PIT 42BUF 3 PIT 17 LI: 0.47-B.Roethlisberger pass incomplete short right to 84-A.Brown.'>49.48</number><number>0.03</number>
+<number shadow='shadow1' tooltip='10:27 3-11-PIT 42BUF 3 PIT 17 LI: 0.4(Shotgun) 7-B.Roethlisberger sacked at PIT 33 for -9 yards(55-J.Hughes).'>49.55</number><number>0.04</number>
+<number shadow='shadow1' tooltip='9:57 4-20-PIT 33BUF 3 PIT 17 LI: 0.4(Punt formation) 10-M.McBriar punts 44 yards to BUF 23 Center-60-G.Warren21-L.McKelvin MUFFS catch and recovers at BUF 2321-L.McKelvin to BUF 22 for -1 yards(31-C.Brown).'>50.05</number><number>0.03</number>
+<number shadow='shadow1' tooltip='9:47 1-10-BUF 22BUF 3 PIT 17 LI: 0.1(Shotgun) 3-E.Manuel pass deep right intended for 88-M.Goodwin INTERCEPTED by 25-R.Clark at BUF 5025-R.Clark to BUF 13 for 37 yards(3-E.Manuel).'>50.22</number><number>0.01</number>
+<number shadow='shadow1' tooltip='9:31 1-10-BUF 13BUF 3 PIT 17 LI: 0.1#76 Adams reports as an eligible receiver26-L.Bell right guard to BUF 17 for -4 yards(99-M.Dareus).'>50.48</number><number>0.01</number>
+<number shadow='shadow1' tooltip='8:51 2-14-BUF 17BUF 3 PIT 17 LI: 0.1#76 Adams reports as an eligible receiver26-L.Bell up the middle to BUF 18 for -1 yards(95-K.Williams).'>51.15</number><number>0.01</number>
+<number shadow='shadow1' tooltip='8:09 3-15-BUF 18BUF 3 PIT 17 LI: 0.1(Shotgun) 7-B.Roethlisberger pass incomplete deep left to 88-E.Sanders.'>51.85</number><number>0.01</number>
+<number shadow='shadow1' tooltip='8:05 4-15-BUF 18BUF 3 PIT 17 LI: 0.1(Field Goal formation) 6-S.Suisham 37 yard field goal is GOOD Center-60-G.Warren Holder-10-M.McBriar.'>51.92</number><number>0.01</number>
+<number shadow='shadow1' tooltip='8:05 BUF 3 PIT 20 LI: 6-S.Suisham kicks 59 yards from PIT 35 to BUF 6 out of bounds.'>52.01</number><number>0.02</number>
+<number shadow='shadow1' tooltip='7:27 2-10-BUF 40BUF 3 PIT 20 LI: 0.1(Shotgun) 3-E.Manuel sacked at BUF 33 for -7 yards(95-J.Jones).'>52.55</number><number>0.01</number>
+<number shadow='shadow1' tooltip='6:52 3-17-BUF 33BUF 3 PIT 20 LI: 0.1(Shotgun) 3-E.Manuel sacked at BUF 22 for -11 yards(97-C.Heyward).'>53.13</number><number>0.01</number>
+<number shadow='shadow1' tooltip='6:25 4-28-BUF 22BUF 3 PIT 20 LI: 0.1(Punt formation) 8-B.Moorman punts 39 yards to PIT 39 Center-65-G.Sanborn84-A.Brown to BUF 11 for 50 yards(20-T.Choice).'>53.58</number><number>0.01</number>
+<number shadow='shadow1' tooltip='6:10 1-10-BUF 11BUF 3 PIT 20 LI: 0.1(Shotgun) 26-L.Bell left tackle to BUF 10 for 1 yard(50-K.Alonso).'>53.83</number><number>0.01</number>
+<number shadow='shadow1' tooltip='5:29 2-9-BUF 10BUF 3 PIT 20 LI: 0.126-L.Bell up the middle to BUF 5 for 5 yards(99-M.Dareus; 50-K.Alonso).'>54.52</number><number>0.01</number>
+<number shadow='shadow1' tooltip='4:44 3-4-BUF 5BUF 3 PIT 20 LI: 0.17-B.Roethlisberger pass incomplete short left to 83-H.Miller (23-A.Williams).'>55.27</number><number>0.01</number>
+<number shadow='shadow1' tooltip='4:38 4-4-BUF 5BUF 3 PIT 20 LI: 0.1(Field Goal formation) 6-S.Suisham 23 yard field goal is GOOD Center-60-G.Warren Holder-10-M.McBriar.'>55.37</number><number>0.01</number>
+<number shadow='shadow1' tooltip='4:38 BUF 3 PIT 23 LI: 6-S.Suisham kicks 65 yards from PIT 35 to end zone Touchback.'>55.46</number><number>0.01</number>
+<number shadow='shadow1' tooltip='4:02 2-3-BUF 27BUF 3 PIT 23 LI: 0.1(No Huddle Shotgun) 3-E.Manuel pass short left to 84-S.Chandler to BUF 33 for 6 yards(22-W.Gay).'>55.97</number><number>0.01</number>
+<number shadow='shadow1' tooltip='3:29 1-10-BUF 33BUF 3 PIT 23 LI: 0.1(No Huddle Shotgun) 3-E.Manuel pass incomplete short left to 11-T.Graham (28-C.Allen).'>56.52</number><number>0.01</number>
+<number shadow='shadow1' tooltip='3:25 2-10-BUF 33BUF 3 PIT 23 LI: 0.1(No Huddle Shotgun) 3-E.Manuel pass short middle to 84-S.Chandler to BUF 40 for 7 yards(22-W.Gay).'>56.58</number><number>0.01</number>
+<number shadow='shadow1' tooltip='2:57 3-3-BUF 40BUF 3 PIT 23 LI: 0.1(No Huddle Shotgun) 3-E.Manuel pass short middle to 15-C.Hogan to PIT 44 for 16 yards(28-C.Allen)BUF-15-C.Hogan was injured during the play.'>57.05</number><number>0.01</number>
+<number shadow='shadow1' tooltip='2:35 1-10-PIT 44BUF 3 PIT 23 LI: 0.1(Shotgun) 3-E.Manuel pass short left to 89-C.Gragg to PIT 35 for 9 yards(20-W.Allen).'>57.42</number><number>0.01</number>
+<number shadow='shadow1' tooltip='2:09 2-1-PIT 35BUF 3 PIT 23 LI: 0.1(No Huddle Shotgun) 3-E.Manuel pass short middle to 89-C.Gragg to PIT 27 for 8 yards(94-L.Timmons).'>57.85</number><number>0.01</number>
+<number shadow='shadow1' tooltip='2:00 1-10-PIT 27BUF 3 PIT 23 LI: 0.1(Shotgun) 3-E.Manuel pass deep right to 88-M.Goodwin pushed ob at PIT 10 for 17 yards(24-I.Taylor).'>58</number><number>0.01</number>
+<number shadow='shadow1' tooltip='1:44 1-10-PIT 27BUF 3 PIT 23 LI: 0.13-E.Manuel pass short left to 81-M.Easley to PIT 23 for 4 yards(22-W.Gay).'>58.27</number><number>0.01</number>
+<number shadow='shadow1' tooltip='1:04 1-10-PIT 17BUF 3 PIT 23 LI: 0.1(No Huddle Shotgun) 22-F.Jackson right tackle to PIT 6 for 11 yards(97-C.Heyward).'>58.93</number><number>0.01</number>
+<number shadow='shadow1' tooltip='0:58 1-6-PIT 6BUF 3 PIT 23 LI: 0.1(Shotgun) 3-E.Manuel sacked at PIT 16 for -10 yards(93-J.Worilds)FUMBLES (93-J.Worilds) RECOVERED by PIT-97-C.Heyward at PIT 1097-C.Heyward pushed ob at PIT 33 for 23 yards(70-E.Wood)PENALTY on PIT-90-S.McLendon Unnecessary Roughness 15 yards enforced at PIT 33.'>59.03</number><number>0.01</number>
+<number shadow='shadow1' tooltip='0:55 1-3-PIT 3BUF 3 PIT 23 LI: 0.1(Shotgun) 3-E.Manuel pass incomplete short left to 11-T.GrahamPressure by Allen #20PENALTY on BUF-3-E.Manuel Intentional Grounding 10 yards enforced at PIT 3.'>59.08</number><number>0.01</number>
+<number shadow='shadow1' tooltip='0:50 2-13-PIT 13BUF 3 PIT 23 LI: 0.1(Shotgun) 3-E.Manuel pass short middle to 81-M.Easley to PIT 4 for 9 yards(25-R.Clark; 22-W.Gay).'>59.17</number><number>0.01</number>
+<number shadow='shadow1' tooltip='0:27 3-4-PIT 4BUF 3 PIT 23 LI: 0.1(Shotgun) 3-E.Manuel pass short right to 88-M.Goodwin to PIT 2 for 2 yards(24-I.Taylor).'>59.55</number><number>0.01</number>
+<number shadow='shadow1' tooltip='0:05 4-2-PIT 2BUF 3 PIT 23 LI: 0.1(Shotgun) 3-E.Manuel pass short left to 89-C.Gragg for 2 yards TOUCHDOWN.'>59.92</number><number>0.01</number>
+<number shadow='shadow1' tooltip='0:05 BUF 3 PIT 23 LI: 2-D.Carpenter extra point is GOOD Center-65-G.Sanborn Holder-8-B.Moorman.'>59.96</number><number>0.01</number>
+<number>60</number><number>0</number>
+</row> </chart_data>
+       <draw>
+
+
+
+      <image x='45' y='298'  url='nfllogos/42x50png/BUF.gif'  layer='foreground' glow = 'glow1'/>
+      <image x='45' y='350'  url='nfllogos/42x50png/PIT.gif'     layer='foreground' glow = 'glow1'/>
+
+
+      <rect x='130' y='300' width='250' height='40' fill_color='004b86' bevel='bevel1' />
+      <text x='135' y='300' width='250' height='40' h_align='left' v_align='middle' color='ffffff' shadow='shadow2' glow=''>Buffalo Bills</text>
+
+      <rect x='130' y='350' width='250' height='40' fill_color='ffac2c' bevel='bevel1'  />
+      <text x='135' y='350' width='250' height='40' h_align='left' v_align='middle' color='ffffff' shadow='shadow2' glow='winnerglow'>Pittsburgh Steelers</text>
+
+      <rect x='420' y='300' width='60' height='40' fill_color='004b86' bevel='bevel1'  />
+      <text x='420' y='300' width='60' height='40' h_align='center' v_align='middle' color='ffffff' shadow='shadow2' transition='none' glow=''>10</text>
+
+      <rect x='420' y='350' width='60' height='40' fill_color='ffac2c' bevel='bevel1' />
+      <text x='420' y='350' width='60' height='40' h_align='center' v_align='middle' color='ffffff' shadow='shadow2' transition='none' glow='winnerglow'>23</text>
+
+      <text x='-3' y='12'  width='60' height='40' h_align='center' v_align='middle' size='13' shadow='shadow2'>BUFWin </text>
+      <text x='-3' y='218' width='60' height='40' h_align='center' v_align='middle' size='13' shadow='shadow2'>PITWin </text>
+
+     
+              <rect x='540' y='300' width='100' height='35' fill_color='000000' fill_alpha='50'/>
+              <text x='540' y='300' width='100' height='35' h_align='center' v_align='middle' color='ffffff' size='15' shadow='shadow2' >Final</text>
+
+              <text x='540' y='340' width='40' h_align='center' color='000000' size='12' shadow='shadow2'>CBF</text>
+              <text x='600' y='340' width='40' h_align='center' color='000000' size='12' shadow='shadow2'>EI</text>
+
+              <rect x='540' y='360' width='40' height='30' fill_color='000000' fill_alpha='50' />
+              <text x='540' y='360' width='40' height='30' size='12' h_align='center' v_align='middle' color='FFFFFF' shadow='shadow2'>3</text>
+
+              <rect x='600' y='360' width='40' height='30' fill_color='000000' fill_alpha='50' />
+              <text x='600' y='360' width='40' height='30' size='12' h_align='center' v_align='middle' color='FFFFFF' shadow='shadow2'>2.8</text>
+
+              <text x='20' y='420' width='70' height='25' size='12' h_align='left' v_align='middle' color='000000' >11/10/2013</text>
+              <text x='100' y='420' width='200' height='25' size='12' h_align='left' v_align='middle' color='000000' >Heinz Field</text>
+
+   </draw></chart>

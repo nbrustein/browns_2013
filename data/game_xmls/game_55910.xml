@@ -1,0 +1,309 @@
+
+<chart>
+   <license>ETAS9P33ESHO.945CWK-2XOI1X0-7L</license>
+   <chart_type>scatter</chart_type>
+   <chart_pref trend_thickness='0' line_thickness='3' point_size='0'/>
+
+   <series_color>
+      <color>ffff00</color>
+   </series_color>
+
+   <chart_rect x='45' y='20' width='630' height='230' positive_color='cacaca'  />
+
+  <chart_border top_thickness='0'
+                 bottom_thickness='0'
+                 left_thickness='0'
+                 right_thickness='0'
+                 color='000000'
+                 />
+
+   <tooltip font='Arial' bold='true' size='11' />
+
+   <chart_note type='flag'
+               color='000000'
+               alpha='90'
+               bold='FALSE'
+               size='10'
+               background_color='ffffe0'
+               background_alpha='50'
+               shadow='shadow2'
+               />
+
+   <chart_grid_h thickness='2' color='ffffff' type='dashed'  />
+   <chart_grid_v thickness='2' color='ffffff'   />
+		>
+
+   <legend layout='hide' />
+
+   <chart_guide horizontal='TRUE'
+             vertical='TRUE'
+             thickness='1'
+             color='006400'
+             alpha='100'
+             type='solid'
+             snap_h='TRUE'
+             snap_v='TRUE'
+             radius='3'
+             fill_color='006400'
+             fill_alpha='100'
+             line_color='006400'
+             line_alpha='80'
+             line_thickness='1'
+             text_h_alpha='50'
+             text_v_alpha='00'
+             suffix_h=' WP'
+             decimals='2'
+             bold='FALSE'
+             size='11'
+             text_color='FFFFFF'
+             background_color='006400'
+             />
+   <filter>
+      <shadow id='shadow1' distance='2' angle='60' blurX='5' blurY='5' alpha='50' />
+      <bevel id='bevel1' angle='45' blurX='5' blurY='5' distance='0' />
+      <glow id='glow1' color='ffffff' alpha='0' blurX='7' blurY='7' strength='6' quality='2' inner='FALSE' knockout='FALSE' />
+      <glow id='winnerglow' color='ffffff' alpha='0' blurX='7' blurY='7' strength='5' quality='2' inner='FALSE' knockout='FALSE' />
+   </filter>
+
+    <axis_value_label>
+         <string></string>
+          <string> </string>
+          <null/>
+          <string> </string>
+          <string></string>
+
+       </axis_value_label>
+		
+	   <axis_ticks category_ticks='false'/>
+
+       <axis_value min='0' max='1' steps='4'  decimals='2' show_min='true' size='13' shadow='shadow2' />     
+            <axis_category
+               min='0'
+               max='60'
+               steps='4'
+               mode='all'
+               decimals='0'
+               size='13'
+               shadow='shadow2'
+               />
+
+       <axis_category_label>
+          <string>Kickoff</string>
+          <string></string>
+          <string>Halftime</string>
+          <string></string>
+          <string>End</string>
+
+       </axis_category_label>
+
+
+        <chart_data>
+       <row>
+	      <null/><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number>
+              <number>x</number><number>y</number>
+              </row><row><string></string>
+
+                     <number shadow='shadow1'>0</number><number>.5</number><number shadow='shadow1' tooltip='15:00 DEN 0 DAL 0 LI: 5-M.Prater kicks 72 yards from DEN 35 to DAL -725-L.Dunbar to DAL 21 for 28 yards(84-J.Tamme)Return middle of the field.'>0.09</number><number>0.48</number>
+<number shadow='shadow1' tooltip='14:54 1-10-DAL 21DEN 0 DAL 0 LI: 1.629-D.Murray left end pushed ob at DAL 25 for 4 yards(59-D.Trevathan).'>0.1</number><number>0.49</number>
+<number shadow='shadow1' tooltip='14:20 2-6-DAL 25DEN 0 DAL 0 LI: 1.49-T.Romo pass short left to 83-T.Williams to DEN 50 for 25 yards(52-W.Woodyard).'>0.67</number><number>0.43</number>
+<number shadow='shadow1' tooltip='13:45 1-10-DEN 50DEN 0 DAL 0 LI: 1.4(Shotgun) 29-D.Murray left tackle to DEN 48 for 2 yards(52-W.Woodyard 59-D.Trevathan).'>1.25</number><number>0.45</number>
+<number shadow='shadow1' tooltip='13:09 2-8-DEN 48DEN 0 DAL 0 LI: 1.1(Shotgun) 9-T.Romo pass short middle to 82-J.Witten to DEN 34 for 14 yards(59-D.Trevathan)Pass complete on a "slant" pattern.'>1.85</number><number>0.39</number>
+<number shadow='shadow1' tooltip='12:31 1-10-DEN 34DEN 0 DAL 0 LI: 1.529-D.Murray up the middle to DEN 37 for -3 yards(25-C.Harris).'>2.48</number><number>0.44</number>
+<number shadow='shadow1' tooltip='11:50 2-13-DEN 37DEN 0 DAL 0 LI: 1.1(Shotgun) 9-T.Romo pass short left to 17-D.Harris pushed ob at DEN 24 for 13 yards(45-D.R-Cromartie)Pass complete in the flat.'>3.17</number><number>0.37</number>
+<number shadow='shadow1' tooltip='11:11 1-10-DEN 24DEN 0 DAL 0 LI: 1.529-D.Murray right guard to DEN 22 for 2 yards(91-R.Ayers; 96-M.Unrein)DEN-91-R.Ayers was injured during the playHis return is Questionable.'>3.82</number><number>0.38</number>
+<number shadow='shadow1' tooltip='10:29 2-8-DEN 22DEN 0 DAL 0 LI: 1.4(Shotgun) 9-T.Romo pass short right to 11-C.Beasley to DEN 12 for 10 yards(33-D.Ihenacho)Pass complete on a "curl" route.'>4.52</number><number>0.33</number>
+<number shadow='shadow1' tooltip='9:46 1-10-DEN 12DEN 0 DAL 0 LI: 1.729-D.Murray up the middle to DEN 3 for 9 yards(59-D.Trevathan).'>5.23</number><number>0.3</number>
+<number shadow='shadow1' tooltip='9:01 2-1-DEN 3DEN 0 DAL 0 LI: 229-D.Murray left tackle to DEN 2 for 1 yard(26-R.Moore).'>5.98</number><number>0.31</number>
+<number shadow='shadow1' tooltip='8:14 1-2-DEN 2DEN 0 DAL 0 LI: 1.99-T.Romo pass short right to 88-D.Bryant for 2 yards TOUCHDOWNPass caught back right corner of the end zone.'>6.77</number><number>0.29</number>
+<number shadow='shadow1' tooltip='8:14 DEN 0 DAL 0 LI: 5-D.Bailey extra point is GOOD Center-91-L.Ladouceur Holder-6-C.Jones.'>6.81</number><number>0.29</number>
+<number shadow='shadow1' tooltip='8:14 DEN 0 DAL 7 LI: 5-D.Bailey kicks 65 yards from DAL 35 to end zone TouchbackBall was kicked out of the end zoneInjury update: Broncos DE Ayers has a shoulder injury his return questionable.'>6.86</number><number>0.28</number>
+<number shadow='shadow1' tooltip='8:06 1-10-DEN 20DEN 0 DAL 7 LI: 1.518-P.Manning pass short right to 88-D.Thomas pushed ob at DAL 40 for 40 yards(39-B.Carr)PENALTY on DEN-65-L.Vasquez Offensive Holding 10 yards enforced at DEN 20 - No Play.'>6.9</number><number>0.27</number>
+<number shadow='shadow1' tooltip='7:48 1-20-DEN 10DEN 0 DAL 7 LI: 1.4(Shotgun) 18-P.Manning pass incomplete short middle to 83-W.Welker (42-B.Church)DAL-42-B.Church was injured during the playHis return is Questionable Pass incomplete at the Denver 16.'>7.2</number><number>0.23</number>
+<number shadow='shadow1' tooltip='7:42 2-20-DEN 10DEN 0 DAL 7 LI: 1(Shotgun) 27-K.Moreno left tackle to DEN 26 for 16 yards(27-J.Wilcox; 94-D.Ware)Dallas challenged the runner was down by contact ruling and the play was Upheld(Timeout #1.)'>7.3</number><number>0.28</number>
+<number shadow='shadow1' tooltip='7:05 3-4-DEN 26DEN 0 DAL 7 LI: 1.4(Shotgun) 18-P.Manning pass short middle to 87-E.Decker to DEN 42 for 16 yards(59-E.Sims)FUMBLES (59-E.Sims) RECOVERED by DAL-24-M.Claiborne at DEN 45.'>7.92</number><number>0.19</number>
+<number shadow='shadow1' tooltip='6:53 1-10-DEN 45DEN 0 DAL 7 LI: 1.39-T.Romo pass incomplete short right to 89-G.Escobar.'>8.12</number><number>0.21</number>
+<number shadow='shadow1' tooltip='6:44 2-10-DEN 45DEN 0 DAL 7 LI: 1.1(Shotgun) 9-T.Romo pass incomplete short left to 17-D.HarrisPass incomplete on a "drag" pattern.'>8.27</number><number>0.23</number>
+<number shadow='shadow1' tooltip='6:33 3-10-DEN 45DEN 0 DAL 7 LI: 0.9(Shotgun) 9-T.Romo pass short middle to 82-J.Witten to DEN 33 for 12 yards(25-C.Harris) [96-M.Unrein]Pass complete after being forced out of the pocket.'>8.45</number><number>0.16</number>
+<number shadow='shadow1' tooltip='5:41 1-10-DEN 33DEN 0 DAL 7 LI: 1.49-T.Romo pass short left to 84-J.Hanna to DEN 30 for 3 yards(36-K.Webster)Screen pass.'>9.32</number><number>0.16</number>
+<number shadow='shadow1' tooltip='4:58 2-7-DEN 30DEN 0 DAL 7 LI: 1.429-D.Murray right end to DEN 31 for -1 yards(25-C.Harris).'>10.03</number><number>0.19</number>
+<number shadow='shadow1' tooltip='4:09 3-8-DEN 31DEN 0 DAL 7 LI: 1.1(Shotgun) 9-T.Romo pass deep middle to 82-J.Witten to DEN 4 for 27 yards(20-M.Adams)Pass complete on a "seam" route.'>10.85</number><number>0.12</number>
+<number shadow='shadow1' tooltip='3:24 1-4-DEN 4DEN 0 DAL 7 LI: 1.529-D.Murray left tackle for 4 yards TOUCHDOWN.'>11.6</number><number>0.1</number>
+<number shadow='shadow1' tooltip='3:24 DEN 0 DAL 7 LI: 5-D.Bailey extra point is GOOD Center-91-L.Ladouceur Holder-6-C.Jones.'>11.64</number><number>0.1</number>
+<number shadow='shadow1' tooltip='3:24 DEN 0 DAL 14 LI: 5-D.Bailey kicks 65 yards from DAL 35 to end zone TouchbackBall was kicked out of the end zone.'>11.69</number><number>0.1</number>
+<number shadow='shadow1' tooltip='3:18 1-10-DEN 20DEN 0 DAL 14 LI: 0.3(Shotgun) 18-P.Manning pass short left to 80-J.Thomas pushed ob at DEN 39 for 19 yards(50-S.Lee).'>11.7</number><number>0.11</number>
+<number shadow='shadow1' tooltip='2:59 1-10-DEN 39DEN 0 DAL 14 LI: 0.1(No Huddle) 18-P.Manning pass deep left to 87-E.Decker to DAL 4 for 57 yards(27-J.Wilcox).'>12.02</number><number>0.26</number>
+<number shadow='shadow1' tooltip='2:32 1-4-DAL 4DEN 0 DAL 14 LI: 0.2(No Huddle Shotgun) 18-P.Manning pass short middle to 80-J.Thomas for 4 yards TOUCHDOWNShuffle pass after roll rightInjury update: Cowboys Church has been taken to the locker room for further examination with a hit to the face.'>12.47</number><number>0.27</number>
+<number shadow='shadow1' tooltip='2:32 DEN 0 DAL 14 LI: 5-M.Prater extra point is GOOD Center-46-A.Brewer Holder-4-B.Colquitt.'>12.51</number><number>0.27</number>
+<number shadow='shadow1' tooltip='2:32 DEN 7 DAL 14 LI: 5-M.Prater kicks 65 yards from DEN 35 to end zone TouchbackPass was caught on the back line of the end zone.'>12.56</number><number>0.29</number>
+<number shadow='shadow1' tooltip='1:46 1-10-DAL 39DEN 7 DAL 14 LI: 1.1(Shotgun) 9-T.Romo pass deep middle to 89-G.Escobar to DEN 36 for 25 yards(26-R.Moore)Pass complete on a "seam" route.'>13.23</number><number>0.17</number>
+<number shadow='shadow1' tooltip='1:05 1-10-DEN 36DEN 7 DAL 14 LI: 1.3(Shotgun) 9-T.Romo sacked at DEN 42 for -6 yards(91-R.Ayers)DEN-52-W.Woodyard was injured during the playHis return is Questionable.'>13.92</number><number>0.22</number>
+<number shadow='shadow1' tooltip='0:38 2-16-DEN 42DEN 7 DAL 14 LI: 0.9(Shotgun) 9-T.Romo pass deep right to 82-J.Witten to DEN 25 for 17 yards(33-D.Ihenacho)Romo scrambles out of the pocket; throws back across the field.'>14.37</number><number>0.15</number>
+<number shadow='shadow1' tooltip='15:00 1-10-DEN 25DEN 7 DAL 14 LI: 1.4(Shotgun) 29-D.Murray right tackle to DEN 16 for 9 yards(96-M.Unrein).'>15</number><number>0.14</number>
+<number shadow='shadow1' tooltip='14:17 2-1-DEN 16DEN 7 DAL 14 LI: 1.3(Shotgun) 29-D.Murray up the middle to DEN 3 for 13 yards(26-R.Moore; 33-D.Ihenacho).'>15.72</number><number>0.12</number>
+<number shadow='shadow1' tooltip='13:08 1-8-DEN 8DEN 7 DAL 14 LI: 1.4(Shotgun) 9-T.Romo pass incomplete short middle to 88-D.BryantPass incomplete on a "crossing pattern" back of the end zone.'>16.87</number><number>0.13</number>
+<number shadow='shadow1' tooltip='13:02 2-8-DEN 8DEN 7 DAL 14 LI: 1.4(Shotgun) 9-T.Romo pass incomplete short middle to 82-J.Witten (33-D.Ihenacho)Pass incomplete on a "curl route" front of the goalline.'>16.97</number><number>0.15</number>
+<number shadow='shadow1' tooltip='12:53 3-8-DEN 8DEN 7 DAL 14 LI: 1.2(Shotgun) 9-T.Romo sacked at DEN 25 for -17 yards(90-S.Phillips).'>17.12</number><number>0.21</number>
+<number shadow='shadow1' tooltip='12:17 4-25-DEN 25DEN 7 DAL 14 LI: 0.8(Field Goal formation) 5-D.Bailey 43 yard field goal is GOOD Center-91-L.Ladouceur Holder-6-C.Jones.'>17.72</number><number>0.19</number>
+<number shadow='shadow1' tooltip='12:17 DEN 7 DAL 17 LI: 5-D.Bailey kicks 65 yards from DAL 35 to end zone TouchbackDAL-25-L.Dunbar was injured during the playHis return is Questionable Ball was kicked out of the end zone.'>17.81</number><number>0.18</number>
+<number shadow='shadow1' tooltip='12:05 1-10-DEN 44DEN 7 DAL 17 LI: 0.7(Shotgun) 18-P.Manning pass incomplete deep right to 87-E.DeckerPass incomplete on a "fly" patternInjury update: Cowboys Dunbar has a hamstring injury his return is questionable.'>17.92</number><number>0.21</number>
+<number shadow='shadow1' tooltip='11:58 2-10-DEN 44DEN 7 DAL 17 LI: 0.627-K.Moreno up the middle to DEN 48 for 4 yards(42-B.Church)FUMBLES (42-B.Church) and recovers at DEN 48.'>18.03</number><number>0.21</number>
+<number shadow='shadow1' tooltip='11:21 3-6-DEN 48DEN 7 DAL 17 LI: 0.7(Shotgun) 18-P.Manning pass short right to 27-K.Moreno to DAL 33 for 19 yards(95-C.Rayford)Pass complete on a "wheel" route.'>18.65</number><number>0.26</number>
+<number shadow='shadow1' tooltip='10:51 1-10-DAL 33DEN 7 DAL 17 LI: 1(No Huddle Shotgun) 18-P.Manning pass short right to 80-J.Thomas to DAL 33 for no gain (24-M.Claiborne)PENALTY on DAL-39-B.Carr Defensive Holding 5 yards enforced at DAL 33 - No Play.'>19.15</number><number>0.27</number>
+<number shadow='shadow1' tooltip='10:14 1-10-DAL 28DEN 7 DAL 17 LI: 1.118-P.Manning pass short right to 21-R.Hillman to DAL 19 for 9 yards(59-E.Sims; 50-S.Lee).'>19.77</number><number>0.32</number>
+<number shadow='shadow1' tooltip='9:44 2-1-DAL 19DEN 7 DAL 17 LI: 1.5(No Huddle Shotgun) 21-R.Hillman right end to DAL 2 for 17 yards(42-B.Church).'>20.27</number><number>0.35</number>
+<number shadow='shadow1' tooltip='9:11 1-2-DAL 2DEN 7 DAL 17 LI: 1.818-P.Manning pass short right to 87-E.Decker for 2 yards TOUCHDOWN3-step drop back quick thrown 5 yards deep end zone.'>20.82</number><number>0.37</number>
+<number shadow='shadow1' tooltip='9:11 DEN 7 DAL 17 LI: 5-M.Prater extra point is GOOD Center-46-A.Brewer Holder-4-B.Colquitt.'>20.86</number><number>0.37</number>
+<number shadow='shadow1' tooltip='9:11 DEN 14 DAL 17 LI: 5-M.Prater kicks 73 yards from DEN 35 to DAL -817-D.Harris to DAL 19 for 27 yards(84-J.Tamme).'>20.91</number><number>0.38</number>
+<number shadow='shadow1' tooltip='8:59 1-10-DAL 19DEN 14 DAL 17 LI: 1.4(Shotgun) 9-T.Romo pass short left to 88-D.Bryant to DAL 31 for 12 yards(36-K.Webster)FUMBLES (36-K.Webster) RECOVERED by DEN-33-D.Ihenacho at DAL 4133-D.Ihenacho to DAL 41 for no gain (82-J.Witten).'>21.02</number><number>0.47</number>
+<number shadow='shadow1' tooltip='8:49 1-10-DAL 41DEN 14 DAL 17 LI: 1.2(Shotgun) 27-K.Moreno up the middle to DAL 40 for 1 yard(50-S.Lee).'>21.18</number><number>0.45</number>
+<number shadow='shadow1' tooltip='8:05 2-9-DAL 40DEN 14 DAL 17 LI: 1(Shotgun) 27-K.Moreno left tackle to DAL 38 for 2 yards(70-D.Nevis).'>21.92</number><number>0.43</number>
+<number shadow='shadow1' tooltip='7:36 3-7-DAL 38DEN 14 DAL 17 LI: 0.8(No Huddle Shotgun) 18-P.Manning pass short left to 80-J.Thomas to DAL 22 for 16 yards(42-B.Church).'>22.4</number><number>0.51</number>
+<number shadow='shadow1' tooltip='7:06 1-10-DAL 22DEN 14 DAL 17 LI: 1.3(No Huddle Shotgun) 18-P.Manning pass short middle to 80-J.Thomas to DAL 17 for 5 yards(50-S.Lee)Pass complete on a "drag" route.'>22.9</number><number>0.55</number>
+<number shadow='shadow1' tooltip='6:18 2-5-DAL 17DEN 14 DAL 17 LI: 1.7(No Huddle Shotgun) 18-P.Manning pass incomplete short right to 88-D.ThomasPENALTY on DAL-99-G.Selvie Face Mask (15 Yards) 9 yards enforced at DAL 17 - No Play.'>23.7</number><number>0.58</number>
+<number shadow='shadow1' tooltip='6:07 1-8-DAL 8DEN 14 DAL 17 LI: 1.9(No Huddle Shotgun) 21-R.Hillman up the middle to DAL 9 for -1 yards(50-S.Lee).'>23.88</number><number>0.57</number>
+<number shadow='shadow1' tooltip='5:27 2-9-DAL 9DEN 14 DAL 17 LI: 1.8(No Huddle) 18-P.Manning pass short right to 80-J.Thomas for 9 yards TOUCHDOWNPass complete on a "slant" pattern.'>24.55</number><number>0.63</number>
+<number shadow='shadow1' tooltip='5:27 DEN 14 DAL 17 LI: 5-M.Prater extra point is GOOD Center-46-A.Brewer Holder-4-B.Colquitt.'>24.59</number><number>0.63</number>
+<number shadow='shadow1' tooltip='5:27 DEN 21 DAL 17 LI: 5-M.Prater kicks 65 yards from DEN 35 to end zone TouchbackBall was kicked out of the end zone.'>24.64</number><number>0.64</number>
+<number shadow='shadow1' tooltip='4:40 2-8-DAL 22DEN 21 DAL 17 LI: 1.1(Shotgun) 9-T.Romo sacked at DAL 15 for -7 yards(97-M.Jackson).'>25.33</number><number>0.68</number>
+<number shadow='shadow1' tooltip='3:59 3-15-DAL 15DEN 21 DAL 17 LI: 0.8(Shotgun) 9-T.Romo scrambles up the middle to DAL 22 for 7 yards(97-M.Jackson; 20-M.Adams).'>26.02</number><number>0.69</number>
+<number shadow='shadow1' tooltip='3:23 4-8-DAL 22DEN 21 DAL 17 LI: 0.6(Punt formation) 6-C.Jones punts 51 yards to DEN 27 Center-91-L.Ladouceur11-T.Holliday pushed ob at DEN 36 for 9 yards(38-J.Heath).'>26.62</number><number>0.68</number>
+<number shadow='shadow1' tooltip='3:10 1-10-DEN 36DEN 21 DAL 17 LI: 1.4(Shotgun) 27-K.Moreno left end to DAL 50 for 14 yards(54-B.Carter).'>26.83</number><number>0.71</number>
+<number shadow='shadow1' tooltip='2:35 1-10-DAL 50DEN 21 DAL 17 LI: 1.418-P.Manning pass incomplete deep right to 80-J.ThomasPENALTY on DAL-50-S.Lee Defensive Pass Interference 21 yards enforced at DAL 50 - No Play.'>27.42</number><number>0.74</number>
+<number shadow='shadow1' tooltip='2:26 1-10-DAL 29DEN 21 DAL 17 LI: 1.2(Shotgun) 27-K.Moreno right tackle to DAL 24 for 5 yards(54-B.Carter).'>27.57</number><number>0.77</number>
+<number shadow='shadow1' tooltip='2:00 1-10-DAL 19DEN 21 DAL 17 LI: 1.2(Shotgun) 18-P.Manning pass short middle to 27-K.Moreno to DAL 12 for 7 yards(32-O.Scandrick)Screen pass.'>28</number><number>0.81</number>
+<number shadow='shadow1' tooltip='1:49 2-3-DAL 12DEN 21 DAL 17 LI: 1.527-K.Moreno left end to DAL 2 for 10 yards(27-J.Wilcox).'>28.18</number><number>0.81</number>
+<number shadow='shadow1' tooltip='1:43 1-2-DAL 2DEN 21 DAL 17 LI: 1.5(Shotgun) 18-P.Manning pass incomplete short right to 87-E.DeckerPass incomplete after Manning rolls right.'>28.28</number><number>0.81</number>
+<number shadow='shadow1' tooltip='1:39 2-2-DAL 2DEN 21 DAL 17 LI: 1.5(Shotgun) 28-M.Ball up the middle to DAL 1 for 1 yard(94-D.Ware).'>28.35</number><number>0.81</number>
+<number shadow='shadow1' tooltip='0:52 3-1-DAL 1DEN 21 DAL 17 LI: 1.418-P.Manning left end for 1 yard TOUCHDOWN.'>29.13</number><number>0.83</number>
+<number shadow='shadow1' tooltip='0:52 DEN 21 DAL 17 LI: 5-M.Prater extra point is GOOD Center-46-A.Brewer Holder-4-B.Colquitt.'>29.17</number><number>0.83</number>
+<number shadow='shadow1' tooltip='0:52 DEN 28 DAL 17 LI: 5-M.Prater kicks 54 yards from DEN 35 to DAL 1158-K.Bosworth to DAL 27 for 16 yards(20-M.Adams)Return right sideline outside the yardline numbers.'>29.22</number><number>0.83</number>
+<number shadow='shadow1' tooltip='0:40 1-10-DAL 27DEN 28 DAL 17 LI: 1(Shotgun) 9-T.Romo pass short left to 29-D.Murray to DAL 32 for 5 yards(25-C.Harris).'>29.33</number><number>0.83</number>
+<number shadow='shadow1' tooltip='0:28 2-5-DAL 32DEN 28 DAL 17 LI: 0.9(Shotgun) 9-T.Romo pass deep right to 83-T.Williams to DEN 30 for 38 yards(36-K.Webster).'>29.53</number><number>0.75</number>
+<number shadow='shadow1' tooltip='0:04 2-10-DEN 30DEN 28 DAL 17 LI: 1.1(Field Goal formation) 5-D.Bailey 48 yard field goal is GOOD Center-91-L.Ladouceur Holder-6-C.Jones.'>29.93</number><number>0.79</number>
+<number shadow='shadow1' tooltip='0:04 DEN 28 DAL 20 LI: 5-D.Bailey kicks 72 yards from DAL 35 to DEN -711-T.Holliday pushed ob at DEN 33 for 40 yards(5-D.Bailey)Return right sideline outside the yardline numbers.'>30.02</number><number>0.8</number>
+<number shadow='shadow1' tooltip='14:52 1-10-DEN 33DEN 28 DAL 20 LI: 1.1(Shotgun) 18-P.Manning pass short middle to 88-D.Thomas to DEN 41 for 8 yards(42-B.Church).'>30.13</number><number>0.81</number>
+<number shadow='shadow1' tooltip='14:25 2-2-DEN 41DEN 28 DAL 20 LI: 1.1(No Huddle Shotgun) 27-K.Moreno right tackle to DEN 42 for 1 yard(97-J.Hatcher 94-D.Ware).'>30.58</number><number>0.8</number>
+<number shadow='shadow1' tooltip='13:39 3-1-DEN 42DEN 28 DAL 20 LI: 1(No Huddle) 27-K.Moreno right guard to DEN 45 for 3 yards(96-N.Hayden).'>31.35</number><number>0.82</number>
+<number shadow='shadow1' tooltip='13:14 1-10-DEN 45DEN 28 DAL 20 LI: 1.1(No Huddle) 21-R.Hillman right end to DEN 42 for -3 yards(99-G.Selvie).'>31.77</number><number>0.8</number>
+<number shadow='shadow1' tooltip='12:34 2-13-DEN 42DEN 28 DAL 20 LI: 1(No Huddle Shotgun) 18-P.Manning pass short middle to 80-J.Thomas to DAL 31 for 27 yards(42-B.Church)Pass complete on a "post" pattern.'>32.43</number><number>0.86</number>
+<number shadow='shadow1' tooltip='12:04 1-10-DAL 31DEN 28 DAL 20 LI: 1.1(No Huddle Shotgun) 21-R.Hillman left end to DAL 25 for 6 yards(42-B.Church)PENALTY on DEN-21-R.Hillman Illegal Shift 5 yards enforced at DAL 31 - No Play.'>32.93</number><number>0.85</number>
+<number shadow='shadow1' tooltip='11:42 1-15-DAL 36DEN 28 DAL 20 LI: 1.118-P.Manning pass short right to 80-J.Thomas pushed ob at DAL 31 for 5 yards(24-M.Claiborne).'>33.3</number><number>0.85</number>
+<number shadow='shadow1' tooltip='11:13 2-10-DAL 31DEN 28 DAL 20 LI: 118-P.Manning pass short left to 87-E.Decker to DAL 25 for 6 yards(32-O.Scandrick).'>33.78</number><number>0.85</number>
+<number shadow='shadow1' tooltip='10:31 3-4-DAL 25DEN 28 DAL 20 LI: 0.9(No Huddle Shotgun) 18-P.Manning pass short middle to 88-D.Thomas to DAL 20 for 5 yards(59-E.Sims; 27-J.Wilcox).'>34.48</number><number>0.88</number>
+<number shadow='shadow1' tooltip='10:00 1-10-DAL 20DEN 28 DAL 20 LI: 1.1(No Huddle Shotgun) 18-P.Manning pass incomplete short middle to 80-J.Thomas.'>35</number><number>0.86</number>
+<number shadow='shadow1' tooltip='9:57 2-10-DAL 20DEN 28 DAL 20 LI: 0.9(No Huddle) 27-K.Moreno right end to DAL 9 for 11 yards(50-S.Lee; 96-N.Hayden).'>35.05</number><number>0.89</number>
+<number shadow='shadow1' tooltip='9:16 1-9-DAL 9DEN 28 DAL 20 LI: 1(No Huddle Shotgun) 18-P.Manning pass short middle to 21-R.Hillman to DAL 3 for 6 yards(50-S.Lee).'>35.73</number><number>0.91</number>
+<number shadow='shadow1' tooltip='8:48 2-3-DAL 3DEN 28 DAL 20 LI: 1.2(No Huddle Shotgun) 21-R.Hillman up the middle to DAL 2 for 1 yard(50-S.Lee; 95-C.Rayford).'>36.2</number><number>0.89</number>
+<number shadow='shadow1' tooltip='8:09 3-2-DAL 2DEN 28 DAL 20 LI: 1(No Huddle Shotgun) 18-P.Manning pass short right to 83-W.Welker for 2 yards TOUCHDOWN.'>36.85</number><number>0.93</number>
+<number shadow='shadow1' tooltip='8:09 DEN 28 DAL 20 LI: 5-M.Prater extra point is GOOD Center-46-A.Brewer Holder-4-B.Colquitt.'>36.89</number><number>0.93</number>
+<number shadow='shadow1' tooltip='8:09 DEN 35 DAL 20 LI: 5-M.Prater kicks 72 yards from DEN 35 to DAL -717-D.Harris to DAL 17 for 24 yards(84-J.Tamme)Return left end outside the yardline numbers.'>36.94</number><number>0.93</number>
+<number shadow='shadow1' tooltip='7:57 1-10-DAL 17DEN 35 DAL 20 LI: 0.3(Shotgun) 29-D.Murray up the middle to DAL 18 for 1 yard(90-S.Phillips).'>37.05</number><number>0.94</number>
+<number shadow='shadow1' tooltip='7:20 2-9-DAL 18DEN 35 DAL 20 LI: 0.3(Shotgun) 9-T.Romo pass deep middle to 83-T.Williams for 82 yards TOUCHDOWNPass complete on "deep post pattern."'>37.67</number><number>0.8</number>
+<number shadow='shadow1' tooltip='7:20 DEN 35 DAL 20 LI: 5-D.Bailey extra point is GOOD Center-91-L.Ladouceur Holder-6-C.Jones.'>37.71</number><number>0.8</number>
+<number shadow='shadow1' tooltip='7:20 DEN 35 DAL 27 LI: 5-D.Bailey kicks 65 yards from DAL 35 to end zone TouchbackBall was kicked out of the end zone.'>37.76</number><number>0.79</number>
+<number shadow='shadow1' tooltip='7:08 1-10-DEN 20DEN 35 DAL 27 LI: 1.2(Shotgun) 27-K.Moreno right end to DEN 23 for 3 yards(39-B.Carr)PENALTY on DEN Offensive Holding 10 yards enforced at DEN 23.'>37.87</number><number>0.77</number>
+<number shadow='shadow1' tooltip='6:14 1-10-DEN 42DEN 35 DAL 27 LI: 1.2(No Huddle Shotgun) 21-R.Hillman left end to DEN 46 for 4 yards(50-S.Lee; 51-K.Wilber).'>38.77</number><number>0.83</number>
+<number shadow='shadow1' tooltip='5:49 2-6-DEN 46DEN 35 DAL 27 LI: 1.1(No Huddle Shotgun) 18-P.Manning pass short middle to 21-R.Hillman to DAL 35 for 19 yards(42-B.Church).'>39.18</number><number>0.87</number>
+<number shadow='shadow1' tooltip='5:23 1-10-DAL 35DEN 35 DAL 27 LI: 1.1(No Huddle Shotgun) 21-R.Hillman left end to DAL 36 for -1 yards(54-B.Carter).'>39.62</number><number>0.85</number>
+<number shadow='shadow1' tooltip='4:52 2-11-DAL 36DEN 35 DAL 27 LI: 0.9(No Huddle Shotgun) 18-P.Manning pass short right to 83-W.Welker to DAL 32 for 4 yards(70-D.Nevis)Pass complete on a bubble screen.'>40.13</number><number>0.85</number>
+<number shadow='shadow1' tooltip='4:11 3-7-DAL 32DEN 35 DAL 27 LI: 0.8(No Huddle Shotgun) 27-K.Moreno right end to DAL 30 for 2 yards(27-J.Wilcox).'>40.82</number><number>0.83</number>
+<number shadow='shadow1' tooltip='3:29 4-5-DAL 30DEN 35 DAL 27 LI: 0.4(Field Goal formation) 5-M.Prater 48 yard field goal is GOOD Center-46-A.Brewer Holder-4-B.Colquitt.'>41.52</number><number>0.86</number>
+<number shadow='shadow1' tooltip='3:29 DEN 38 DAL 27 LI: 5-M.Prater kicks 65 yards from DEN 35 to end zone TouchbackBall was kicked out of the end zone.'>41.61</number><number>0.87</number>
+<number shadow='shadow1' tooltip='3:23 1-10-DAL 20DEN 38 DAL 27 LI: 0.9(Shotgun) 9-T.Romo pass incomplete deep left to 88-D.BryantPass incomplete on a "Go" route.'>41.62</number><number>0.88</number>
+<number shadow='shadow1' tooltip='3:17 2-10-DAL 20DEN 38 DAL 27 LI: 0.89-T.Romo pass short right to 88-D.Bryant pushed ob at DAL 47 for 27 yards(56-N.Irving)Pass complete on a "drag" route.'>41.72</number><number>0.83</number>
+<number shadow='shadow1' tooltip='2:39 1-10-DAL 47DEN 38 DAL 27 LI: 129-D.Murray right guard to DAL 49 for 2 yards(20-M.Adams).'>42.35</number><number>0.84</number>
+<number shadow='shadow1' tooltip='2:00 2-8-DAL 49DEN 38 DAL 27 LI: 0.9(Shotgun) 9-T.Romo pass incomplete deep right to 88-D.BryantPENALTY on DEN-45-D.R-Cromartie Defensive Pass Interference 20 yards enforced at DAL 49 - No Play.'>43</number><number>0.8</number>
+<number shadow='shadow1' tooltip='1:53 1-10-DEN 31DEN 38 DAL 27 LI: 1(Shotgun) 9-T.Romo pass short right to 83-T.Williams to DEN 25 for 6 yards(20-M.Adams).'>43.12</number><number>0.8</number>
+<number shadow='shadow1' tooltip='1:10 2-4-DEN 25DEN 38 DAL 27 LI: 1(Shotgun) 9-T.Romo pass incomplete deep left to 88-D.BryantPass incomplete on a "fly" pattern.'>43.83</number><number>0.81</number>
+<number shadow='shadow1' tooltip='1:03 3-4-DEN 25DEN 38 DAL 27 LI: 0.9(Shotgun) 9-T.Romo pass short middle to 11-C.Beasley to DEN 2 for 23 yards(31-O.Bolden)Pass complete on a "skinny post."'>43.95</number><number>0.73</number>
+<number shadow='shadow1' tooltip='0:20 1-2-DEN 2DEN 38 DAL 27 LI: 1.69-T.Romo pass short left to 88-D.Bryant for 2 yards TOUCHDOWN.'>44.67</number><number>0.75</number>
+<number shadow='shadow1' tooltip='0:20 DEN 38 DAL 33 LI: 5-D.Bailey kicks 70 yards from DAL 35 to DEN -511-T.Holliday to DEN 20 for 25 yards(58-K.Bosworth)Return middle of the field inside the yardline numbers.'>44.76</number><number>0.74</number>
+<number shadow='shadow1' tooltip='0:09 1-10-DEN 20DEN 38 DAL 33 LI: 1.6(Shotgun) 18-P.Manning pass deep left intended for 87-E.Decker INTERCEPTED by 24-M.Claiborne at DAL 4924-M.Claiborne to DAL 49 for no gain (87-E.Decker).'>44.85</number><number>0.66</number>
+<number shadow='shadow1' tooltip='0:02 1-10-DAL 49DEN 38 DAL 33 LI: 1.3(Shotgun) 9-T.Romo pass incomplete deep middle to 88-D.Bryant.'>44.97</number><number>0.68</number>
+<number shadow='shadow1' tooltip='15:00 2-10-DAL 49DEN 38 DAL 33 LI: 1.1(Shotgun) 9-T.Romo pass short left to 82-J.Witten pushed ob at DEN 36 for 15 yards(33-D.Ihenacho)Pass complete on a "crossing pattern."'>45</number><number>0.62</number>
+<number shadow='shadow1' tooltip='14:27 1-10-DEN 36DEN 38 DAL 33 LI: 1.5(Shotgun) 9-T.Romo pass short middle to 82-J.Witten to DEN 10 for 26 yards(26-R.Moore).'>45.55</number><number>0.5</number>
+<number shadow='shadow1' tooltip='13:53 1-10-DEN 10DEN 38 DAL 33 LI: 2.3(Shotgun) 9-T.Romo pass incomplete short left to 82-J.Witten.'>46.12</number><number>0.53</number>
+<number shadow='shadow1' tooltip='13:48 2-10-DEN 10DEN 38 DAL 33 LI: 2(Shotgun) 9-T.Romo pass short right to 82-J.Witten for 10 yards TOUCHDOWN.'>46.2</number><number>0.39</number>
+<number shadow='shadow1' tooltip='13:48 DEN 38 DAL 41 LI: 5-D.Bailey kicks 70 yards from DAL 35 to DEN -511-T.Holliday to DEN 17 for 22 yards(57-D.Holloman).'>46.29</number><number>0.36</number>
+<number shadow='shadow1' tooltip='13:33 1-10-DEN 17DEN 38 DAL 41 LI: 1.6(Shotgun) 18-P.Manning pass short left to 27-K.Moreno to DEN 24 for 7 yards(42-B.Church).'>46.45</number><number>0.37</number>
+<number shadow='shadow1' tooltip='12:57 2-3-DEN 24DEN 38 DAL 41 LI: 1.5(No Huddle Shotgun) 27-K.Moreno right tackle to DEN 28 for 4 yards(50-S.Lee).'>47.05</number><number>0.39</number>
+<number shadow='shadow1' tooltip='12:31 1-10-DEN 28DEN 38 DAL 41 LI: 1.7(No Huddle Shotgun) 18-P.Manning pass incomplete short right to 80-J.ThomasPass thrown right sideline; Claiborne closet defender.'>47.48</number><number>0.37</number>
+<number shadow='shadow1' tooltip='12:26 2-10-DEN 28DEN 38 DAL 41 LI: 1.5(No Huddle Shotgun) 18-P.Manning pass incomplete short leftDEN-21-R.Hillman was injured during the playHis return is Questionable.'>47.57</number><number>0.34</number>
+<number shadow='shadow1' tooltip='12:22 3-10-DEN 28DEN 38 DAL 41 LI: 1.2(No Huddle Shotgun) 18-P.Manning pass short middle to 27-K.Moreno to DEN 39 for 11 yards(42-B.Church).'>47.63</number><number>0.42</number>
+<number shadow='shadow1' tooltip='11:52 1-10-DEN 39DEN 38 DAL 41 LI: 1.9(No Huddle Shotgun) 18-P.Manning pass short middle to 83-W.Welker to DAL 48 for 13 yards(50-S.Lee).'>48.13</number><number>0.46</number>
+<number shadow='shadow1' tooltip='11:01 1-5-DAL 43DEN 38 DAL 41 LI: 2.2(No Huddle) 18-P.Manning pass short left to 87-E.Decker to DAL 37 for 6 yards(50-S.Lee).'>48.98</number><number>0.5</number>
+<number shadow='shadow1' tooltip='10:33 1-10-DAL 37DEN 38 DAL 41 LI: 2.3(No Huddle Shotgun) 18-P.Manning pass short middle to 88-D.Thomas to DAL 32 for 5 yards(54-B.Carter).'>49.45</number><number>0.5</number>
+<number shadow='shadow1' tooltip='9:54 2-5-DAL 32DEN 38 DAL 41 LI: 2.2(No Huddle Shotgun) 18-P.Manning pass incomplete deep left to 80-J.ThomasPass incomplete on "fly" pattern; Church closest defender.'>50.1</number><number>0.46</number>
+<number shadow='shadow1' tooltip='9:48 3-5-DAL 32DEN 38 DAL 41 LI: 1.8(Shotgun) 18-P.Manning pass incomplete deep left to 88-D.ThomasPass incomplete at the Dallas 15 on curl route; Carr closest defender.'>50.2</number><number>0.38</number>
+<number shadow='shadow1' tooltip='9:42 4-5-DAL 32DEN 38 DAL 41 LI: 1(Field Goal formation) 5-M.Prater 50 yard field goal is GOOD Center-46-A.Brewer Holder-4-B.Colquitt.'>50.3</number><number>0.46</number>
+<number shadow='shadow1' tooltip='9:42 DEN 41 DAL 41 LI: 5-M.Prater kicks 70 yards from DEN 35 to DAL -517-D.Harris ran ob at DAL 23 for 28 yards.'>50.39</number><number>0.5</number>
+<number shadow='shadow1' tooltip='9:29 1-10-DAL 13DEN 41 DAL 41 LI: 2.8(Shotgun) 9-T.Romo pass short middle to 88-D.Bryant to DAL 40 for 27 yards(32-T.Carter)PENALTY on DAL-29-D.Murray Offensive Holding 6 yards enforced at DAL 13 - No Play.'>50.52</number><number>0.5</number>
+<number shadow='shadow1' tooltip='9:02 1-16-DAL 7DEN 41 DAL 41 LI: 2.9(Shotgun) 9-T.Romo pass incomplete short middle to 82-J.Witten (33-D.Ihenacho)Pass incomplete on a "skinny post" pattern.'>50.97</number><number>0.6</number>
+<number shadow='shadow1' tooltip='8:56 2-16-DAL 7DEN 41 DAL 41 LI: 1.9(Shotgun) 9-T.Romo pass short left to 11-C.Beasley pushed ob at DAL 17 for 10 yards(26-R.Moore).'>51.07</number><number>0.56</number>
+<number shadow='shadow1' tooltip='8:27 3-6-DAL 17DEN 41 DAL 41 LI: 1.8(Shotgun) 9-T.Romo pass deep left to 88-D.Bryant to DEN 4 for 79 yards(31-O.Bolden) [97-M.Jackson]DEN-31-O.Bolden was injured during the playHis return is Questionable.'>51.55</number><number>0.18</number>
+<number shadow='shadow1' tooltip='7:24 1-4-DEN 4DEN 41 DAL 41 LI: 3.2(Shotgun) 9-T.Romo pass short left to 11-C.Beasley for 4 yards TOUCHDOWN.'>52.6</number><number>0.15</number>
+<number shadow='shadow1' tooltip='7:24 DEN 41 DAL 41 LI: 5-D.Bailey extra point is GOOD Center-91-L.Ladouceur Holder-6-C.Jones.'>52.64</number><number>0.15</number>
+<number shadow='shadow1' tooltip='7:24 DEN 41 DAL 48 LI: 5-D.Bailey kicks 44 yards from DAL 35 to DEN 2197-M.Jackson to DEN 27 for 6 yards(38-J.Heath).'>52.69</number><number>0.15</number>
+<number shadow='shadow1' tooltip='7:14 1-10-DEN 27DEN 41 DAL 48 LI: 1(Shotgun) 18-P.Manning pass short right to 27-K.Moreno to DEN 40 for 13 yards(26-W.Allen).'>52.77</number><number>0.2</number>
+<number shadow='shadow1' tooltip='6:50 1-10-DEN 40DEN 41 DAL 48 LI: 1.4(No Huddle Shotgun) 27-K.Moreno right tackle to DEN 42 for 2 yards(50-S.Lee).'>53.17</number><number>0.15</number>
+<number shadow='shadow1' tooltip='6:23 2-8-DEN 42DEN 41 DAL 48 LI: 1(No Huddle) 18-P.Manning pass short left to 21-R.Hillman to DAL 50 for 8 yards(50-S.Lee).'>53.62</number><number>0.2</number>
+<number shadow='shadow1' tooltip='5:52 1-10-DAL 50DEN 41 DAL 48 LI: 1.5(No Huddle Shotgun) 21-R.Hillman left tackle to DAL 50 for no gain (94-D.Ware).'>54.13</number><number>0.15</number>
+<number shadow='shadow1' tooltip='5:20 2-10-DAL 50DEN 41 DAL 48 LI: 1.1(No Huddle Shotgun) 18-P.Manning pass short left to 83-W.Welker to DAL 36 for 14 yards(32-O.Scandrick).'>54.67</number><number>0.22</number>
+<number shadow='shadow1' tooltip='4:47 1-10-DAL 36DEN 41 DAL 48 LI: 1.5(No Huddle Shotgun) 18-P.Manning pass short left to 88-D.Thomas to DAL 10 for 26 yards(27-J.Wilcox; 42-B.Church).'>55.22</number><number>0.36</number>
+<number shadow='shadow1' tooltip='4:04 1-10-DAL 10DEN 41 DAL 48 LI: 3.1(No Huddle Shotgun) 27-K.Moreno right tackle to DAL 7 for 3 yards(50-S.Lee).'>55.93</number><number>0.3</number>
+<number shadow='shadow1' tooltip='3:21 2-7-DAL 7DEN 41 DAL 48 LI: 2.5(No Huddle Shotgun) 27-K.Moreno right tackle to DAL 5 for 2 yards(50-S.Lee)PENALTY on DEN-74-O.Franklin Offensive Holding 10 yards enforced at DAL 7 - No Play.'>56.65</number><number>0.2</number>
+<number shadow='shadow1' tooltip='3:16 2-17-DAL 17DEN 41 DAL 48 LI: 1.6(No Huddle Shotgun) 18-P.Manning pass short middle to 83-W.Welker to DAL 1 for 16 yards(42-B.Church).'>56.73</number><number>0.31</number>
+<number shadow='shadow1' tooltip='2:44 3-1-DAL 1DEN 41 DAL 48 LI: 2.8(No Huddle Shotgun) 27-K.Moreno right guard for 1 yard TOUCHDOWN.'>57.27</number><number>0.33</number>
+<number shadow='shadow1' tooltip='2:44 DEN 41 DAL 48 LI: 5-M.Prater extra point is GOOD Center-46-A.Brewer Holder-4-B.Colquitt.'>57.31</number><number>0.33</number>
+<number shadow='shadow1' tooltip='2:44 DEN 48 DAL 48 LI: 5-M.Prater kicks 65 yards from DEN 35 to end zone TouchbackBall was kicked out of the end zone.'>57.36</number><number>0.4</number>
+<number shadow='shadow1' tooltip='2:04 2-16-DAL 14DEN 48 DAL 48 LI: 3(Shotgun) 9-T.Romo pass short right intended for 89-G.Escobar INTERCEPTED by 59-D.Trevathan at DAL 2459-D.Trevathan to DAL 24 for no gain (89-G.Escobar).'>57.93</number><number>0.84</number>
+<number shadow='shadow1' tooltip='1:57 1-10-DAL 24DEN 48 DAL 48 LI: 4.7(Shotgun) 18-P.Manning pass short left to 88-D.Thomas to DAL 11 for 13 yards(39-B.Carr).'>58.05</number><number>0.88</number>
+<number shadow='shadow1' tooltip='1:49 1-10-DAL 11DEN 48 DAL 48 LI: 3.9(Shotgun) 27-K.Moreno up the middle to DAL 10 for 1 yard(94-D.Ware).'>58.18</number><number>0.91</number>
+<number shadow='shadow1' tooltip='1:45 2-9-DAL 10DEN 48 DAL 48 LI: 4.1(Shotgun) 18-P.Manning pass short right to 80-J.Thomas pushed ob at DAL 2 for 8 yards(27-J.Wilcox).'>58.25</number><number>0.92</number>
+<number shadow='shadow1' tooltip='1:40 3-1-DAL 2DEN 48 DAL 48 LI: 4.2(Shotgun) 27-K.Moreno up the middle to DAL 1 for 1 yard(50-S.Lee; 27-J.Wilcox).'>58.33</number><number>0.89</number>
+<number shadow='shadow1' tooltip='1:35 1-1-DAL 1DEN 48 DAL 48 LI: 3.918-P.Manning left end to DAL 5 for -4 yards(94-D.Ware).'>58.42</number><number>0.98</number>
+<number shadow='shadow1' tooltip='0:50 2-5-DAL 5DEN 48 DAL 48 LI: 4.818-P.Manning kneels to DAL 6 for -1 yards.'>59.17</number><number>0.98</number>
+<number shadow='shadow1' tooltip='0:13 3-6-DAL 6DEN 48 DAL 48 LI: 4.818-P.Manning kneels to DAL 10 for -4 yards.'>59.78</number><number>0.94</number>
+<number shadow='shadow1' tooltip='0:02 4-10-DAL 10DEN 48 DAL 48 LI: 4.4(Field Goal formation) 5-M.Prater 28 yard field goal is GOOD Center-46-A.Brewer Holder-4-B.Colquitt.'>59.97</number><number>1</number>
+<number>60</number><number>1</number>
+</row> </chart_data>
+       <draw>
+
+
+
+      <image x='45' y='298'  url='nfllogos/42x50png/DEN.gif'  layer='foreground' glow = 'glow1'/>
+      <image x='45' y='350'  url='nfllogos/42x50png/DAL.gif'     layer='foreground' glow = 'glow1'/>
+
+
+      <rect x='130' y='300' width='250' height='40' fill_color='ff652b' bevel='bevel1' />
+      <text x='135' y='300' width='250' height='40' h_align='left' v_align='middle' color='ffffff' shadow='shadow2' glow='winnerglow'>Denver Broncos</text>
+
+      <rect x='130' y='350' width='250' height='40' fill_color='c0c0c0' bevel='bevel1'  />
+      <text x='135' y='350' width='250' height='40' h_align='left' v_align='middle' color='ffffff' shadow='shadow2' glow=''>Dallas Cowboys</text>
+
+      <rect x='420' y='300' width='60' height='40' fill_color='ff652b' bevel='bevel1'  />
+      <text x='420' y='300' width='60' height='40' h_align='center' v_align='middle' color='ffffff' shadow='shadow2' transition='none' glow='winnerglow'>51</text>
+
+      <rect x='420' y='350' width='60' height='40' fill_color='c0c0c0' bevel='bevel1' />
+      <text x='420' y='350' width='60' height='40' h_align='center' v_align='middle' color='ffffff' shadow='shadow2' transition='none' glow=''>48</text>
+
+      <text x='-3' y='12'  width='60' height='40' h_align='center' v_align='middle' size='13' shadow='shadow2'>DENWin </text>
+      <text x='-3' y='218' width='60' height='40' h_align='center' v_align='middle' size='13' shadow='shadow2'>DALWin </text>
+
+     
+              <rect x='540' y='300' width='100' height='35' fill_color='000000' fill_alpha='50'/>
+              <text x='540' y='300' width='100' height='35' h_align='center' v_align='middle' color='ffffff' size='15' shadow='shadow2' >Final</text>
+
+              <text x='540' y='340' width='40' h_align='center' color='000000' size='12' shadow='shadow2'>CBF</text>
+              <text x='600' y='340' width='40' h_align='center' color='000000' size='12' shadow='shadow2'>EI</text>
+
+              <rect x='540' y='360' width='40' height='30' fill_color='000000' fill_alpha='50' />
+              <text x='540' y='360' width='40' height='30' size='12' h_align='center' v_align='middle' color='FFFFFF' shadow='shadow2'>10</text>
+
+              <rect x='600' y='360' width='40' height='30' fill_color='000000' fill_alpha='50' />
+              <text x='600' y='360' width='40' height='30' size='12' h_align='center' v_align='middle' color='FFFFFF' shadow='shadow2'>6.2</text>
+
+              <text x='20' y='420' width='70' height='25' size='12' h_align='left' v_align='middle' color='000000' >10/6/2013</text>
+              <text x='100' y='420' width='200' height='25' size='12' h_align='left' v_align='middle' color='000000' >AT&T Stadium</text>
+
+   </draw></chart>

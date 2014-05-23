@@ -1,0 +1,301 @@
+
+<chart>
+   <license>ETAS9P33ESHO.945CWK-2XOI1X0-7L</license>
+   <chart_type>scatter</chart_type>
+   <chart_pref trend_thickness='0' line_thickness='3' point_size='0'/>
+
+   <series_color>
+      <color>ffff00</color>
+   </series_color>
+
+   <chart_rect x='45' y='20' width='630' height='230' positive_color='cacaca'  />
+
+  <chart_border top_thickness='0'
+                 bottom_thickness='0'
+                 left_thickness='0'
+                 right_thickness='0'
+                 color='000000'
+                 />
+
+   <tooltip font='Arial' bold='true' size='11' />
+
+   <chart_note type='flag'
+               color='000000'
+               alpha='90'
+               bold='FALSE'
+               size='10'
+               background_color='ffffe0'
+               background_alpha='50'
+               shadow='shadow2'
+               />
+
+   <chart_grid_h thickness='2' color='ffffff' type='dashed'  />
+   <chart_grid_v thickness='2' color='ffffff'   />
+		>
+
+   <legend layout='hide' />
+
+   <chart_guide horizontal='TRUE'
+             vertical='TRUE'
+             thickness='1'
+             color='006400'
+             alpha='100'
+             type='solid'
+             snap_h='TRUE'
+             snap_v='TRUE'
+             radius='3'
+             fill_color='006400'
+             fill_alpha='100'
+             line_color='006400'
+             line_alpha='80'
+             line_thickness='1'
+             text_h_alpha='50'
+             text_v_alpha='00'
+             suffix_h=' WP'
+             decimals='2'
+             bold='FALSE'
+             size='11'
+             text_color='FFFFFF'
+             background_color='006400'
+             />
+   <filter>
+      <shadow id='shadow1' distance='2' angle='60' blurX='5' blurY='5' alpha='50' />
+      <bevel id='bevel1' angle='45' blurX='5' blurY='5' distance='0' />
+      <glow id='glow1' color='ffffff' alpha='0' blurX='7' blurY='7' strength='6' quality='2' inner='FALSE' knockout='FALSE' />
+      <glow id='winnerglow' color='ffffff' alpha='0' blurX='7' blurY='7' strength='5' quality='2' inner='FALSE' knockout='FALSE' />
+   </filter>
+
+    <axis_value_label>
+         <string></string>
+          <string> </string>
+          <null/>
+          <string> </string>
+          <string></string>
+
+       </axis_value_label>
+		
+	   <axis_ticks category_ticks='false'/>
+
+       <axis_value min='0' max='1' steps='4'  decimals='2' show_min='true' size='13' shadow='shadow2' />     
+            <axis_category
+               min='0'
+               max='60'
+               steps='4'
+               mode='all'
+               decimals='0'
+               size='13'
+               shadow='shadow2'
+               />
+
+       <axis_category_label>
+          <string>Kickoff</string>
+          <string></string>
+          <string>Halftime</string>
+          <string></string>
+          <string>End</string>
+
+       </axis_category_label>
+
+
+        <chart_data>
+       <row>
+	      <null/><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number>
+              <number>x</number><number>y</number>
+              </row><row><string></string>
+
+                     <number shadow='shadow1'>0</number><number>.5</number><number shadow='shadow1' tooltip='15:00 CHI 0 CLV 0 LI: 8-B.Cundiff kicks 72 yards from CLV 35 to CHI -723-D.Hester to CHI 32 for 39 yards(56-E.Martin).'>0.09</number><number>0.54</number>
+<number shadow='shadow1' tooltip='14:17 1-10-CHI 44CHI 0 CLV 0 LI: 1.4(Shotgun) 22-M.Forte left guard to CHI 48 for 4 yards(93-J.Hughes).'>0.72</number><number>0.55</number>
+<number shadow='shadow1' tooltip='13:34 2-6-CHI 48CHI 0 CLV 0 LI: 1.2(Shotgun) 6-J.Cutler pass short right to 22-M.Forte to CLV 48 for 4 yards(52-D.Jackson; 43-T.Ward).'>1.43</number><number>0.55</number>
+<number shadow='shadow1' tooltip='12:44 3-2-CLV 48CHI 0 CLV 0 LI: 1.1(Shotgun) PENALTY on CHI-6-J.Cutler Delay of Game 5 yards enforced at CLV 48 - No Play.'>2.27</number><number>0.53</number>
+<number shadow='shadow1' tooltip='12:22 3-7-CHI 47CHI 0 CLV 0 LI: 1(Shotgun) 6-J.Cutler pass short right to 83-M.Bennett to CLV 30 for 23 yards(52-D.Jackson).'>2.63</number><number>0.62</number>
+<number shadow='shadow1' tooltip='11:38 1-10-CLV 30CHI 0 CLV 0 LI: 1.6(Shotgun) 6-J.Cutler pass short middle to 15-B.Marshall to CLV 14 for 16 yards(53-C.Robertson).'>3.37</number><number>0.67</number>
+<number shadow='shadow1' tooltip='10:51 1-10-CLV 14CHI 0 CLV 0 LI: 1.7(Shotgun) 6-J.Cutler pass deep right intended for 15-B.Marshall INTERCEPTED by 39-T.Gipson (43-T.Ward) [93-J.Hughes] at CLV -839-T.Gipson to CLV 27 for 35 yards(83-M.Bennett).'>4.15</number><number>0.47</number>
+<number shadow='shadow1' tooltip='10:37 1-10-CLV 27CHI 0 CLV 0 LI: 1.517-J.Campbell pass incomplete short left to 18-G.Little [96-J.Ratliff].'>4.38</number><number>0.49</number>
+<number shadow='shadow1' tooltip='10:33 2-10-CLV 27CHI 0 CLV 0 LI: 1.327-E.Baker right tackle to CLV 37 for 10 yards(21-M.Wright).'>4.45</number><number>0.45</number>
+<number shadow='shadow1' tooltip='9:47 1-10-CLV 37CHI 0 CLV 0 LI: 1.5(Shotgun) 17-J.Campbell pass short left to 18-G.Little to CHI 19 for 44 yards(21-M.Wright) [96-J.Ratliff].'>5.22</number><number>0.36</number>
+<number shadow='shadow1' tooltip='9:00 1-10-CHI 19CHI 0 CLV 0 LI: 1.527-E.Baker right guard to CHI 18 for 1 yard(90-J.Peppers; 21-M.Wright).'>6</number><number>0.37</number>
+<number shadow='shadow1' tooltip='8:19 2-9-CHI 18CHI 0 CLV 0 LI: 1.435-F.Whittaker right guard to CHI 17 for 1 yard(98-C.Wootton).'>6.68</number><number>0.39</number>
+<number shadow='shadow1' tooltip='7:34 3-8-CHI 17CHI 0 CLV 0 LI: 1.2(Shotgun) 17-J.Campbell pass incomplete short right to 15-D.Bess.'>7.43</number><number>0.43</number>
+<number shadow='shadow1' tooltip='7:26 4-8-CHI 17CHI 0 CLV 0 LI: 0.8(Field Goal formation) 8-B.Cundiff 35 yard field goal is GOOD Center-57-C.Yount Holder-5-S.Lanning.'>7.57</number><number>0.42</number>
+<number shadow='shadow1' tooltip='7:26 CHI 0 CLV 3 LI: 8-B.Cundiff kicks 65 yards from CLV 35 to end zone Touchback29 (McFadden) held the ball'>7.66</number><number>0.4</number>
+<number shadow='shadow1' tooltip='6:41 2-10-CHI 20CHI 0 CLV 3 LI: 1.322-M.Forte left guard to CHI 19 for -1 yards(39-T.Gipson).'>8.32</number><number>0.38</number>
+<number shadow='shadow1' tooltip='6:02 3-11-CHI 19CHI 0 CLV 3 LI: 1.1(Shotgun) 6-J.Cutler pass deep middle to 83-M.Bennett to CHI 41 for 22 yards(33-J.Poyer) [52-D.Jackson].'>8.97</number><number>0.45</number>
+<number shadow='shadow1' tooltip='5:16 1-10-CHI 41CHI 0 CLV 3 LI: 1.317-A.Jeffery left end to CHI 38 for -3 yards(53-C.Robertson)End around'>9.73</number><number>0.43</number>
+<number shadow='shadow1' tooltip='4:35 2-13-CHI 38CHI 0 CLV 3 LI: 1.2(Shotgun) 6-J.Cutler pass short left to 15-B.Marshall to CHI 47 for 9 yards(23-J.Haden).'>10.42</number><number>0.45</number>
+<number shadow='shadow1' tooltip='3:56 3-4-CHI 47CHI 0 CLV 3 LI: 1.2(Shotgun) 6-J.Cutler pass short right to 17-A.Jeffery to CLV 45 for 8 yards(23-J.Haden).'>11.07</number><number>0.48</number>
+<number shadow='shadow1' tooltip='3:18 1-10-CLV 45CHI 0 CLV 3 LI: 1.4(Shotgun) 22-M.Forte left guard to CLV 41 for 4 yards(52-D.Jackson).'>11.7</number><number>0.49</number>
+<number shadow='shadow1' tooltip='2:42 2-6-CLV 41CHI 0 CLV 3 LI: 1.4(Shotgun) 29-M.Bush right tackle to CLV 43 for -2 yards(90-B.Winn).'>12.3</number><number>0.46</number>
+<number shadow='shadow1' tooltip='1:59 3-8-CLV 43CHI 0 CLV 3 LI: 1.1(Shotgun) 6-J.Cutler pass deep middle to 15-B.Marshall to CLV 25 for 18 yards(39-T.Gipson; 95-A.Bryant).'>13.02</number><number>0.55</number>
+<number shadow='shadow1' tooltip='1:17 1-10-CLV 25CHI 0 CLV 3 LI: 1.7(Shotgun) 22-M.Forte left guard to CLV 17 for 8 yards(51-B.Mingo).'>13.72</number><number>0.55</number>
+<number shadow='shadow1' tooltip='0:39 2-2-CLV 17CHI 0 CLV 3 LI: 1.529-M.Bush right guard to CLV 11 for 6 yards(43-T.Ward; 52-D.Jackson).'>14.35</number><number>0.57</number>
+<number shadow='shadow1' tooltip='15:00 1-10-CLV 11CHI 0 CLV 3 LI: 1.7(Shotgun) 22-M.Forte right guard to CLV 9 for 2 yards(97-J.Sheard; 67-I.Kitchen).'>15</number><number>0.57</number>
+<number shadow='shadow1' tooltip='14:25 2-8-CLV 9CHI 0 CLV 3 LI: 1.722-M.Forte left tackle to CLV 9 for no gain (53-C.Robertson)62 (Britton) reports as eligible'>15.58</number><number>0.54</number>
+<number shadow='shadow1' tooltip='13:38 3-8-CLV 9CHI 0 CLV 3 LI: 1.4(Shotgun) 6-J.Cutler pass short right to 17-A.Jeffery to CLV 5 for 4 yards(43-T.Ward).'>16.37</number><number>0.48</number>
+<number shadow='shadow1' tooltip='12:58 4-4-CLV 5CHI 0 CLV 3 LI: 0.8(Field Goal formation) 9-R.Gould 23 yard field goal is GOOD Center-65-P.Mannelly Holder-8-A.Podlesh.'>17.03</number><number>0.47</number>
+<number shadow='shadow1' tooltip='12:58 CHI 3 CLV 3 LI: 9-R.Gould kicks 65 yards from CHI 35 to end zone Touchback.'>17.12</number><number>0.48</number>
+<number shadow='shadow1' tooltip='12:16 2-6-CLV 24CHI 3 CLV 3 LI: 1.3(Shotgun) 25-C.Ogbonnaya left guard to CLV 23 for -1 yards(57-J.Bostic).'>17.73</number><number>0.51</number>
+<number shadow='shadow1' tooltip='11:35 3-7-CLV 23CHI 3 CLV 3 LI: 1.1(Shotgun) 17-J.Campbell pass incomplete short right to 84-J.Cameron.'>18.42</number><number>0.47</number>
+<number shadow='shadow1' tooltip='11:31 1-10-CLV 28CHI 3 CLV 3 LI: 1.4(Shotgun) 25-C.Ogbonnaya right guard to CLV 33 for 5 yards(47-C.Conte; 91-D.Bass).'>18.48</number><number>0.48</number>
+<number shadow='shadow1' tooltip='10:58 2-5-CLV 33CHI 3 CLV 3 LI: 1.2(Shotgun) 17-J.Campbell pass deep left intended for 84-J.Cameron INTERCEPTED by 38-Z.Bowman at CHI 4038-Z.Bowman to CHI 40 for no gain (84-J.Cameron).'>19.03</number><number>0.55</number>
+<number shadow='shadow1' tooltip='10:50 1-10-CHI 40CHI 3 CLV 3 LI: 1.46-J.Cutler pass incomplete short left to 15-B.Marshall [98-P.Taylor]62 (Britton) reports as eligible'>19.17</number><number>0.53</number>
+<number shadow='shadow1' tooltip='10:45 2-15-CHI 35CHI 3 CLV 3 LI: 1.1(Shotgun) 6-J.Cutler pass incomplete deep left to 15-B.Marshall.'>19.25</number><number>0.49</number>
+<number shadow='shadow1' tooltip='10:39 3-15-CHI 35CHI 3 CLV 3 LI: 0.9(Shotgun) 6-J.Cutler pass incomplete short left to 22-M.Forte (99-P.Kruger)62 (Britton) reports as eligible'>19.35</number><number>0.47</number>
+<number shadow='shadow1' tooltip='10:34 4-15-CHI 35CHI 3 CLV 3 LI: 0.7(Punt formation) 8-A.Podlesh punts 43 yards to CLV 22 Center-65-P.Mannelly fair catch by 33-J.Poyer.'>19.43</number><number>0.48</number>
+<number shadow='shadow1' tooltip='10:28 1-10-CLV 22CHI 3 CLV 3 LI: 1.517-J.Campbell pass short left to 35-F.Whittaker pushed ob at CLV 27 for 5 yards(26-T.Jennings).'>19.53</number><number>0.48</number>
+<number shadow='shadow1' tooltip='9:55 2-5-CLV 27CHI 3 CLV 3 LI: 1.317-J.Campbell pass short left to 27-E.Baker to CLV 31 for 4 yards(50-Ja.Anderson).'>20.08</number><number>0.48</number>
+<number shadow='shadow1' tooltip='9:13 3-1-CLV 31CHI 3 CLV 3 LI: 1.2(Shotgun) 17-J.Campbell pass incomplete short left.'>20.78</number><number>0.54</number>
+<number shadow='shadow1' tooltip='9:07 4-1-CLV 31CHI 3 CLV 3 LI: 0.6(Punt formation) 5-S.Lanning punts 50 yards to CHI 19 Center-57-C.Yount downed by CLV-24-J.Bademosi.'>20.88</number><number>0.51</number>
+<number shadow='shadow1' tooltip='8:56 1-10-CHI 19CHI 3 CLV 3 LI: 1.4(Shotgun) 22-M.Forte right tackle to CHI 17 for -2 yards(51-B.Mingo).'>21.07</number><number>0.49</number>
+<number shadow='shadow1' tooltip='8:14 2-12-CHI 17CHI 3 CLV 3 LI: 1.2(Shotgun) 6-J.Cutler pass deep left intended for 15-B.Marshall INTERCEPTED by 39-T.Gipson at CHI 4439-T.Gipson for 44 yards TOUCHDOWN.'>21.77</number><number>0.28</number>
+<number shadow='shadow1' tooltip='8:14 CHI 3 CLV 3 LI: 8-B.Cundiff extra point is GOOD Center-57-C.Yount Holder-5-S.Lanning.'>21.81</number><number>0.28</number>
+<number shadow='shadow1' tooltip='8:14 CHI 3 CLV 10 LI: 8-B.Cundiff kicks 51 yards from CLV 40 to CHI 923-D.Hester to CHI 49 for 40 yards(8-B.Cundiff).'>21.86</number><number>0.31</number>
+<number shadow='shadow1' tooltip='7:51 1-10-CHI 49CHI 3 CLV 10 LI: 1.16-J.Cutler pass short right to 83-M.Bennett to CLV 48 for 3 yards(43-T.Ward).'>22.15</number><number>0.31</number>
+<number shadow='shadow1' tooltip='7:11 2-7-CLV 48CHI 3 CLV 10 LI: 122-M.Forte left end to CLV 33 for 15 yards(39-T.Gipson)Pitch-out'>22.82</number><number>0.34</number>
+<number shadow='shadow1' tooltip='6:32 1-10-CLV 33CHI 3 CLV 10 LI: 122-M.Forte left guard to CLV 31 for 2 yards(93-J.Hughes).'>23.47</number><number>0.33</number>
+<number shadow='shadow1' tooltip='5:50 2-8-CLV 31CHI 3 CLV 10 LI: 0.9(Shotgun) 6-J.Cutler pass incomplete short left to 15-B.Marshall (23-J.Haden).'>24.17</number><number>0.32</number>
+<number shadow='shadow1' tooltip='5:45 3-8-CLV 31CHI 3 CLV 10 LI: 0.8(Shotgun) 6-J.Cutler pass short left to 17-A.Jeffery to CLV 24 for 7 yards(33-J.Poyer).'>24.25</number><number>0.31</number>
+<number shadow='shadow1' tooltip='5:02 4-6-CLV 29CHI 3 CLV 10 LI: 0.6(Field Goal formation) 9-R.Gould 46 yard field goal is GOOD NULLIFIED by Penalty Center-65-P.Mannelly Holder-8-A.Podlesh.'>24.97</number><number>0.26</number>
+<number shadow='shadow1' tooltip='4:57 4-16-CLV 39CHI 3 CLV 10 LI: 0.4(Punt formation) 8-A.Podlesh punts 34 yards to CLV 5 Center-65-P.Mannelly downed by CHI-27-S.McManis.'>25.05</number><number>0.27</number>
+<number shadow='shadow1' tooltip='4:49 1-10-CLV 5CHI 3 CLV 10 LI: 1.627-E.Baker right guard to CLV 7 for 2 yards(97-L.Cohen).'>25.18</number><number>0.28</number>
+<number shadow='shadow1' tooltip='4:15 2-8-CLV 7CHI 3 CLV 10 LI: 1.517-J.Campbell pass short right to 25-C.Ogbonnaya to CLV 14 for 7 yards(50-Ja.Anderson).'>25.75</number><number>0.27</number>
+<number shadow='shadow1' tooltip='3:30 3-1-CLV 14CHI 3 CLV 10 LI: 1.625-C.Ogbonnaya right guard to CLV 17 for 3 yards(50-Ja.Anderson).'>26.5</number><number>0.25</number>
+<number shadow='shadow1' tooltip='2:51 1-10-CLV 17CHI 3 CLV 10 LI: 1.1(Shotgun) 17-J.Campbell pass short right to 82-G.Barnidge to CLV 34 for 17 yards(26-T.Jennings).'>27.15</number><number>0.23</number>
+<number shadow='shadow1' tooltip='2:09 1-10-CLV 34CHI 3 CLV 10 LI: 1.117-J.Campbell pass short left to 18-G.Little to CLV 40 for 6 yards(21-M.Wright) [50-Ja.Anderson].'>27.85</number><number>0.23</number>
+<number shadow='shadow1' tooltip='2:00 2-4-CLV 40CHI 3 CLV 10 LI: 1(Shotgun) 17-J.Campbell pass incomplete short right to 84-J.Cameron (50-Ja.Anderson) [96-J.Ratliff].'>28</number><number>0.24</number>
+<number shadow='shadow1' tooltip='1:56 3-4-CLV 40CHI 3 CLV 10 LI: 0.9(Shotgun) 17-J.Campbell pass incomplete deep middle to 12-J.Gordon.'>28.07</number><number>0.27</number>
+<number shadow='shadow1' tooltip='1:51 4-4-CLV 40CHI 3 CLV 10 LI: 0.6(Punt formation) 5-S.Lanning punts 35 yards to CHI 25 Center-57-C.Yount downed by CLV-24-J.Bademosi.'>28.15</number><number>0.29</number>
+<number shadow='shadow1' tooltip='1:36 4-14-CLV 30CHI 3 CLV 10 LI: 0.6(Punt formation) 5-S.Lanning punts 36 yards to CHI 34 Center-57-C.Yount downed by CLV-57-C.Yount.'>28.4</number><number>0.29</number>
+<number shadow='shadow1' tooltip='1:29 1-10-CHI 34CHI 3 CLV 10 LI: 1.1(Shotgun) 6-J.Cutler scrambles right end ran ob at CHI 46 for 12 yards(43-T.Ward).'>28.52</number><number>0.31</number>
+<number shadow='shadow1' tooltip='1:21 1-10-CHI 46CHI 3 CLV 10 LI: 1.1(Shotgun) 6-J.Cutler pass deep right to 15-B.Marshall to CLV 13 for 41 yards(23-J.Haden).'>28.65</number><number>0.43</number>
+<number shadow='shadow1' tooltip='1:07 1-10-CLV 13CHI 3 CLV 10 LI: 1.8(No Huddle) 6-J.Cutler pass short middle to 80-E.Bennett to CLV 5 for 8 yards(22-B.Skrine).'>28.88</number><number>0.44</number>
+<number shadow='shadow1' tooltip='0:29 2-2-CLV 5CHI 3 CLV 10 LI: 1.9(Shotgun) 6-J.Cutler pass short right to 15-B.Marshall for 5 yards TOUCHDOWN.'>29.52</number><number>0.47</number>
+<number shadow='shadow1' tooltip='0:29 CHI 3 CLV 10 LI: 9-R.Gould extra point is GOOD Center-65-P.Mannelly Holder-8-A.Podlesh.'>29.56</number><number>0.47</number>
+<number shadow='shadow1' tooltip='0:29 CHI 10 CLV 10 LI: 9-R.Gould kicks 66 yards from CHI 35 to CLV -135-F.Whittaker to CLV 22 for 23 yards(52-B.Costanzo).'>29.61</number><number>0.48</number>
+<number shadow='shadow1' tooltip='0:19 1-10-CLV 22CHI 10 CLV 10 LI: 1.527-E.Baker left tackle to CLV 37 for 15 yards(50-Ja.Anderson).'>29.68</number><number>0.45</number>
+<number shadow='shadow1' tooltip='0:10 1-10-CLV 37CHI 10 CLV 10 LI: 1.5(Shotgun) 17-J.Campbell pass left to 25-C.Ogbonnaya to CHI 47 for 16 yards(50-Ja.Anderson).'>29.83</number><number>0.43</number>
+<number shadow='shadow1' tooltip='0:03 1-10-CHI 47CHI 10 CLV 10 LI: 1.3(Shotgun) 17-J.Campbell pass incomplete deep left to 84-J.Cameron.'>29.95</number><number>0.53</number>
+<number shadow='shadow1' tooltip='0:03 CHI 10 CLV 10 LI: 9-R.Gould kicks 48 yards from CHI 35 to CLV 1735-F.Whittaker MUFFS catch ball out of bounds at CLV 22.'>30.04</number><number>0.48</number>
+<number shadow='shadow1' tooltip='14:56 1-10-CLV 22CHI 10 CLV 10 LI: 1.517-J.Campbell pass short left to 12-J.Gordon to CLV 35 for 13 yards(26-T.Jennings).'>30.07</number><number>0.46</number>
+<number shadow='shadow1' tooltip='14:20 1-10-CLV 35CHI 10 CLV 10 LI: 1.4PENALTY on CLV-12-J.Gordon False Start 5 yards enforced at CLV 35 - No Play.'>30.67</number><number>0.46</number>
+<number shadow='shadow1' tooltip='13:58 1-15-CLV 30CHI 10 CLV 10 LI: 1.6(Shotgun) 17-J.Campbell pass short right intended for 18-G.Little INTERCEPTED by 38-Z.Bowman at CLV 4338-Z.Bowman for 43 yards TOUCHDOWN.'>31.03</number><number>0.73</number>
+<number shadow='shadow1' tooltip='13:58 CHI 10 CLV 10 LI: 9-R.Gould extra point is GOOD Center-65-P.Mannelly Holder-8-A.Podlesh.'>31.07</number><number>0.73</number>
+<number shadow='shadow1' tooltip='13:58 CHI 17 CLV 10 LI: 9-R.Gould kicks 58 yards from CHI 35 to CLV 735-F.Whittaker to CLV 15 for 8 yards(14-E.Weems).'>31.12</number><number>0.75</number>
+<number shadow='shadow1' tooltip='13:42 1-10-CLV 15CHI 17 CLV 10 LI: 127-E.Baker right guard to CLV 17 for 2 yards(96-J.Ratliff).'>31.3</number><number>0.75</number>
+<number shadow='shadow1' tooltip='13:05 2-8-CLV 17CHI 17 CLV 10 LI: 117-J.Campbell pass short left to 27-E.Baker to CLV 32 for 15 yards(59-K.Greene).'>31.92</number><number>0.72</number>
+<number shadow='shadow1' tooltip='12:25 1-10-CLV 32CHI 17 CLV 10 LI: 1.127-E.Baker left guard to CLV 34 for 2 yards(47-C.Conte; 59-K.Greene).'>32.58</number><number>0.73</number>
+<number shadow='shadow1' tooltip='11:45 2-8-CLV 34CHI 17 CLV 10 LI: 117-J.Campbell pass incomplete deep middle to 12-J.Gordon.'>33.25</number><number>0.74</number>
+<number shadow='shadow1' tooltip='11:40 3-8-CLV 34CHI 17 CLV 10 LI: 0.9(Shotgun) 17-J.Campbell scrambles left end ran ob at CHI 49 for 17 yards(47-C.Conte).'>33.33</number><number>0.69</number>
+<number shadow='shadow1' tooltip='10:59 1-10-CHI 49CHI 17 CLV 10 LI: 1.125-C.Ogbonnaya right guard to CHI 46 for 3 yards(59-K.Greene).'>34.02</number><number>0.69</number>
+<number shadow='shadow1' tooltip='10:18 2-7-CHI 46CHI 17 CLV 10 LI: 1.1(Shotgun) 17-J.Campbell pass short left to 18-G.Little to CHI 32 for 14 yards(50-Ja.Anderson).'>34.7</number><number>0.65</number>
+<number shadow='shadow1' tooltip='9:42 1-10-CHI 32CHI 17 CLV 10 LI: 1.3(Shotgun) Direct snap to 47-M.Gray 47-M.Gray right guard to CHI 14 for 18 yards(21-M.Wright).'>35.3</number><number>0.58</number>
+<number shadow='shadow1' tooltip='9:02 1-10-CHI 14CHI 17 CLV 10 LI: 1.7(Shotgun) Direct snap to 47-M.Gray 47-M.Gray left tackle to CHI 2 for 12 yards(47-C.Conte).'>35.97</number><number>0.56</number>
+<number shadow='shadow1' tooltip='8:24 1-2-CHI 2CHI 17 CLV 10 LI: 1.927-E.Baker left guard for 2 yards TOUCHDOWNCLV-66-S.Lauvao was injured during the playHis return is Probable.'>36.6</number><number>0.53</number>
+<number shadow='shadow1' tooltip='8:24 CHI 17 CLV 10 LI: 8-B.Cundiff extra point is GOOD Center-57-C.Yount Holder-5-S.Lanning.'>36.64</number><number>0.53</number>
+<number shadow='shadow1' tooltip='8:24 CHI 17 CLV 17 LI: 8-B.Cundiff kicks 65 yards from CLV 35 to end zone Touchback.'>36.69</number><number>0.52</number>
+<number shadow='shadow1' tooltip='7:46 2-11-CHI 19CHI 17 CLV 17 LI: 1.3(Shotgun) 6-J.Cutler pass short left to 15-B.Marshall to CHI 25 for 6 yards(23-J.Haden).'>37.23</number><number>0.5</number>
+<number shadow='shadow1' tooltip='7:03 3-5-CHI 25CHI 17 CLV 17 LI: 1.3(Shotgun) 6-J.Cutler pass short right to 17-A.Jeffery to CHI 33 for 8 yards(29-L.McFadden).'>37.95</number><number>0.54</number>
+<number shadow='shadow1' tooltip='6:27 1-10-CHI 33CHI 17 CLV 17 LI: 1.522-M.Forte left guard to CHI 37 for 4 yards(97-J.Sheard).'>38.55</number><number>0.53</number>
+<number shadow='shadow1' tooltip='5:45 2-6-CHI 37CHI 17 CLV 17 LI: 1.422-M.Forte right guard to CHI 44 for 7 yards(52-D.Jackson).'>39.25</number><number>0.56</number>
+<number shadow='shadow1' tooltip='5:07 1-10-CHI 44CHI 17 CLV 17 LI: 1.522-M.Forte left guard to CLV 49 for 7 yards(71-A.Rubin; 22-B.Skrine).'>39.88</number><number>0.57</number>
+<number shadow='shadow1' tooltip='4:22 2-3-CLV 49CHI 17 CLV 17 LI: 1.429-M.Bush left end to CLV 34 for 15 yards(33-J.Poyer)CLV-23-J.Haden was injured during the playHe is Out.'>40.63</number><number>0.55</number>
+<number shadow='shadow1' tooltip='3:59 2-8-CHI 46CHI 17 CLV 17 LI: 1.4(Shotgun) 6-J.Cutler pass incomplete short middle to 15-B.Marshall [99-P.Kruger].'>41.02</number><number>0.53</number>
+<number shadow='shadow1' tooltip='3:54 3-8-CHI 46CHI 17 CLV 17 LI: 1.2(Shotgun) 6-J.Cutler pass short right to 83-M.Bennett to CLV 48 for 6 yards(90-B.Winn)FUMBLES (90-B.Winn) RECOVERED by CLV-43-T.Ward at CLV 4943-T.Ward for 51 yards TOUCHDOWN.'>41.1</number><number>0.23</number>
+<number shadow='shadow1' tooltip='3:54 CHI 17 CLV 17 LI: 8-B.Cundiff extra point is GOOD Center-57-C.Yount Holder-5-S.Lanning.'>41.14</number><number>0.23</number>
+<number shadow='shadow1' tooltip='3:54 CHI 17 CLV 24 LI: 8-B.Cundiff kicks 72 yards from CLV 35 to CHI -723-D.Hester to CHI 19 for 26 yards(96-P.Hazel).'>41.19</number><number>0.21</number>
+<number shadow='shadow1' tooltip='3:34 1-10-CHI 19CHI 17 CLV 24 LI: 0.822-M.Forte right guard to CHI 21 for 2 yards(43-T.Ward; 97-J.Sheard)62 (Britton) reports as eligible'>41.43</number><number>0.22</number>
+<number shadow='shadow1' tooltip='2:51 2-8-CHI 21CHI 17 CLV 24 LI: 1(Shotgun) 6-J.Cutler sacked at CHI 18 for -3 yards(sack split by 38-J.Posey and 29-L.McFadden).'>42.15</number><number>0.19</number>
+<number shadow='shadow1' tooltip='2:19 3-11-CHI 18CHI 17 CLV 24 LI: 0.7(Shotgun) 6-J.Cutler pass short middle to 80-E.Bennett to CHI 25 for 7 yards(52-D.Jackson) [95-A.Bryant].'>42.68</number><number>0.18</number>
+<number shadow='shadow1' tooltip='2:00 4-4-CHI 25CHI 17 CLV 24 LI: 0.5(Punt formation) 8-A.Podlesh punts 33 yards to CLV 42 Center-65-P.Mannelly fair catch by 33-J.Poyer.'>43</number><number>0.17</number>
+<number shadow='shadow1' tooltip='1:55 1-10-CLV 42CHI 17 CLV 24 LI: 1.3PENALTY on CLV-73-J.Thomas False Start 5 yards enforced at CLV 42 - No Play.'>43.08</number><number>0.18</number>
+<number shadow='shadow1' tooltip='1:15 2-16-CLV 36CHI 17 CLV 24 LI: 1.2(Shotgun) 17-J.Campbell pass short right to 27-E.Baker to CHI 48 for 16 yards(50-Ja.Anderson).'>43.75</number><number>0.15</number>
+<number shadow='shadow1' tooltip='0:37 1-10-CHI 48CHI 17 CLV 24 LI: 1.127-E.Baker left tackle to CHI 44 for 4 yards(50-Ja.Anderson).'>44.38</number><number>0.15</number>
+<number shadow='shadow1' tooltip='0:16 2-6-CHI 44CHI 17 CLV 24 LI: 1(No Huddle Shotgun) 17-J.Campbell pass incomplete deep left to 12-J.Gordon.'>44.73</number><number>0.16</number>
+<number shadow='shadow1' tooltip='0:10 3-6-CHI 44CHI 17 CLV 24 LI: 0.9(Shotgun) 17-J.Campbell pass short left to 12-J.Gordon to CHI 33 for 11 yards(26-T.Jennings).'>44.83</number><number>0.13</number>
+<number shadow='shadow1' tooltip='15:00 1-10-CHI 33CHI 17 CLV 24 LI: 0.917-J.Campbell pass short right to 84-J.Cameron to CHI 27 for 6 yards(38-Z.Bowman).'>45</number><number>0.11</number>
+<number shadow='shadow1' tooltip='14:19 2-4-CHI 27CHI 17 CLV 24 LI: 125-C.Ogbonnaya right tackle to CHI 19 for 8 yards(50-Ja.Anderson).'>45.68</number><number>0.13</number>
+<number shadow='shadow1' tooltip='13:50 2-14-CHI 37CHI 17 CLV 24 LI: 117-J.Campbell pass incomplete short right to 12-J.Gordon.'>46.17</number><number>0.15</number>
+<number shadow='shadow1' tooltip='13:47 3-14-CHI 37CHI 17 CLV 24 LI: 0.8(Shotgun) 17-J.Campbell pass incomplete short left to 18-G.Little.'>46.22</number><number>0.16</number>
+<number shadow='shadow1' tooltip='13:42 4-14-CHI 37CHI 17 CLV 24 LI: 0.6(Punt formation) 5-S.Lanning punts 32 yards to CHI 5 Center-57-C.Yount downed by CLV-38-J.Posey.'>46.3</number><number>0.16</number>
+<number shadow='shadow1' tooltip='13:32 1-10-CHI 5CHI 17 CLV 24 LI: 1(Shotgun) 6-J.Cutler pass incomplete deep right to 17-A.Jeffery [97-J.Sheard].'>46.47</number><number>0.22</number>
+<number shadow='shadow1' tooltip='13:27 1-10-CHI 35CHI 17 CLV 24 LI: 16-J.Cutler pass incomplete deep left to 15-B.Marshall (22-B.Skrine).'>46.55</number><number>0.23</number>
+<number shadow='shadow1' tooltip='13:20 1-10-CHI 40CHI 17 CLV 24 LI: 1(Shotgun) 6-J.Cutler pass incomplete short left to 22-M.Forte.'>46.67</number><number>0.22</number>
+<number shadow='shadow1' tooltip='13:16 2-10-CHI 40CHI 17 CLV 24 LI: 0.9(Shotgun) 6-J.Cutler pass short middle to 83-M.Bennett to CHI 48 for 8 yards(52-D.Jackson).'>46.73</number><number>0.23</number>
+<number shadow='shadow1' tooltip='12:32 3-2-CHI 48CHI 17 CLV 24 LI: 122-M.Forte right guard to CLV 44 for 8 yards(39-T.Gipson; 38-J.Posey).'>47.47</number><number>0.27</number>
+<number shadow='shadow1' tooltip='11:56 1-10-CLV 44CHI 17 CLV 24 LI: 1.36-J.Cutler pass incomplete deep middle to 15-B.Marshall (22-B.Skrine)62 (Britton) reports as eligible'>48.07</number><number>0.24</number>
+<number shadow='shadow1' tooltip='11:49 2-10-CLV 44CHI 17 CLV 24 LI: 1.1(Shotgun) 22-M.Forte left guard to CLV 45 for -1 yards(98-P.Taylor).'>48.18</number><number>0.2</number>
+<number shadow='shadow1' tooltip='11:08 3-11-CLV 45CHI 17 CLV 24 LI: 0.86-J.Cutler pass deep right to 17-A.Jeffery for 45 yards TOUCHDOWN.'>48.87</number><number>0.46</number>
+<number shadow='shadow1' tooltip='11:08 CHI 17 CLV 24 LI: 9-R.Gould extra point is GOOD Center-65-P.Mannelly Holder-8-A.Podlesh.'>48.91</number><number>0.46</number>
+<number shadow='shadow1' tooltip='11:08 CHI 24 CLV 24 LI: 9-R.Gould kicks 49 yards from 50 to CLV 135-F.Whittaker to CLV 14 for 13 yards(20-C.Steltz).'>48.96</number><number>0.49</number>
+<number shadow='shadow1' tooltip='10:56 1-10-CLV 14CHI 24 CLV 24 LI: 2.7(Shotgun) PENALTY on CLV-17-J.Campbell Delay of Game 5 yards enforced at CLV 14 - No Play.'>49.07</number><number>0.5</number>
+<number shadow='shadow1' tooltip='10:52 1-15-CLV 9CHI 24 CLV 24 LI: 2.625-C.Ogbonnaya right guard to CLV 6 for -3 yards(96-J.Ratliff).'>49.13</number><number>0.6</number>
+<number shadow='shadow1' tooltip='10:14 2-18-CLV 6CHI 24 CLV 24 LI: 1.8(Shotgun) 17-J.Campbell pass short right to 18-G.Little pushed ob at CLV 10 for 4 yards(26-T.Jennings).'>49.77</number><number>0.61</number>
+<number shadow='shadow1' tooltip='9:35 3-14-CLV 10CHI 24 CLV 24 LI: 1.7(Shotgun) 17-J.Campbell pass incomplete short right to 12-J.Gordon.'>50.42</number><number>0.65</number>
+<number shadow='shadow1' tooltip='9:23 4-14-CLV 10CHI 24 CLV 24 LI: 1.3(Punt formation) 5-S.Lanning punts 47 yards to CHI 43 Center-57-C.Yount23-D.Hester ran ob at CLV 36 for 21 yards(5-S.Lanning).'>50.62</number><number>0.7</number>
+<number shadow='shadow1' tooltip='9:09 1-10-CLV 36CHI 24 CLV 24 LI: 2.822-M.Forte right guard to CLV 35 for 1 yard(53-C.Robertson).'>50.85</number><number>0.65</number>
+<number shadow='shadow1' tooltip='8:26 2-9-CLV 35CHI 24 CLV 24 LI: 2.36-J.Cutler pass short left to 83-M.Bennett to CLV 25 for 10 yards(39-T.Gipson)62 (Britton) reports as eligible'>51.57</number><number>0.75</number>
+<number shadow='shadow1' tooltip='7:47 1-10-CLV 25CHI 24 CLV 24 LI: 2.922-M.Forte left end to CLV 6 for 19 yards(39-T.Gipson)CLV-39-T.Gipson was injured during the playHis return is Probable Pitch-out'>52.22</number><number>0.81</number>
+<number shadow='shadow1' tooltip='7:08 1-6-CLV 6CHI 24 CLV 24 LI: 3.122-M.Forte right guard to CLV 2 for 4 yards(43-T.Ward; 52-D.Jackson).'>52.87</number><number>0.84</number>
+<number shadow='shadow1' tooltip='6:29 2-2-CLV 2CHI 24 CLV 24 LI: 3.322-M.Forte right guard to CLV 4 for -2 yards(43-T.Ward).'>53.52</number><number>0.8</number>
+<number shadow='shadow1' tooltip='5:45 3-4-CLV 4CHI 24 CLV 24 LI: 2.6(Shotgun) 6-J.Cutler pass short left to 80-E.Bennett for 4 yards TOUCHDOWN.'>54.25</number><number>0.87</number>
+<number shadow='shadow1' tooltip='5:45 CHI 24 CLV 24 LI: 9-R.Gould extra point is GOOD Center-65-P.Mannelly Holder-8-A.Podlesh.'>54.29</number><number>0.87</number>
+<number shadow='shadow1' tooltip='5:45 CHI 31 CLV 24 LI: 9-R.Gould kicks 65 yards from CHI 35 to end zone Touchback.'>54.34</number><number>0.9</number>
+<number shadow='shadow1' tooltip='5:07 2-8-CLV 22CHI 31 CLV 24 LI: 0.917-J.Campbell pass short left to 25-C.Ogbonnaya to CLV 32 for 10 yards(57-J.Bostic).'>54.88</number><number>0.83</number>
+<number shadow='shadow1' tooltip='4:38 1-10-CLV 32CHI 31 CLV 24 LI: 1.4(Shotgun) 17-J.Campbell pass incomplete deep left to 12-J.Gordon (47-C.Conte).'>55.37</number><number>0.88</number>
+<number shadow='shadow1' tooltip='4:33 2-10-CLV 32CHI 31 CLV 24 LI: 0.8(Shotgun) 17-J.Campbell pass incomplete short right to 15-D.Bess.'>55.45</number><number>0.89</number>
+<number shadow='shadow1' tooltip='4:29 3-10-CLV 32CHI 31 CLV 24 LI: 0.7(Shotgun) 17-J.Campbell pass incomplete short left to 12-J.Gordon (26-T.Jennings).'>55.52</number><number>0.92</number>
+<number shadow='shadow1' tooltip='4:23 4-10-CLV 32CHI 31 CLV 24 LI: 0.4(Punt formation) 5-S.Lanning punts 46 yards to CHI 22 Center-57-C.Yount downed by CLV-51-B.Mingo.'>55.62</number><number>0.94</number>
+<number shadow='shadow1' tooltip='4:12 1-10-CHI 22CHI 31 CLV 24 LI: 1.922-M.Forte right guard to CHI 35 for 13 yards(51-B.Mingo).'>55.8</number><number>0.96</number>
+<number shadow='shadow1' tooltip='3:24 1-10-CHI 35CHI 31 CLV 24 LI: 1.822-M.Forte right guard to CHI 32 for -3 yards(39-T.Gipson).'>56.6</number><number>0.91</number>
+<number shadow='shadow1' tooltip='3:19 2-13-CHI 32CHI 31 CLV 24 LI: 1.4(Shotgun) 6-J.Cutler pass short left to 80-E.Bennett to CHI 36 for 4 yards(43-T.Ward)62 (Britton) reports as eligile'>56.68</number><number>0.89</number>
+<number shadow='shadow1' tooltip='3:13 3-9-CHI 36CHI 31 CLV 24 LI: 1.122-M.Forte left tackle to CLV 40 for 24 yards(33-J.Poyer)Pitch-out'>56.78</number><number>0.96</number>
+<number shadow='shadow1' tooltip='3:13 CHI 31 CLV 24 LI: 9-R.Gould extra point is GOOD Center-65-P.Mannelly Holder-8-A.Podlesh.'>56.82</number><number>0.98</number>
+<number shadow='shadow1' tooltip='3:13 CHI 38 CLV 24 LI: 9-R.Gould kicks 65 yards from CHI 35 to end zone Touchback.'>56.87</number><number>0.99</number>
+<number shadow='shadow1' tooltip='2:17 1-10-CLV 20CHI 38 CLV 24 LI: 0.1(Shotgun) 17-J.Campbell pass short right to 15-D.Bess to CLV 29 for 9 yards(50-Ja.Anderson).'>57.72</number><number>0.99</number>
+<number shadow='shadow1' tooltip='2:00 2-1-CLV 29CHI 38 CLV 24 LI: 0.1(Shotgun) 17-J.Campbell pass short right to 27-E.Baker to CLV 40 for 11 yards(50-Ja.Anderson).'>58</number><number>0.98</number>
+<number shadow='shadow1' tooltip='1:42 1-10-CLV 40CHI 38 CLV 24 LI: 0.1(No Huddle Shotgun) 17-J.Campbell pass short middle to 84-J.Cameron to CLV 47 for 7 yards(57-J.Bostic).'>58.3</number><number>0.99</number>
+<number shadow='shadow1' tooltip='1:25 2-3-CLV 47CHI 38 CLV 24 LI: 0.1(No Huddle Shotgun) 17-J.Campbell pass short middle to 84-J.Cameron to CHI 43 for 10 yards(57-J.Bostic).'>58.58</number><number>0.99</number>
+<number shadow='shadow1' tooltip='1:02 1-10-CHI 43CHI 38 CLV 24 LI: 0.1(No Huddle Shotgun) 17-J.Campbell pass deep left to 12-J.Gordon for 43 yards TOUCHDOWN.'>58.97</number><number>0.99</number>
+<number shadow='shadow1' tooltip='1:02 CHI 38 CLV 24 LI: 8-B.Cundiff extra point is GOOD Center-57-C.Yount Holder-5-S.Lanning.'>59.01</number><number>0.99</number>
+<number shadow='shadow1' tooltip='1:02 CHI 38 CLV 31 LI: 5-S.Lanning kicks onside 27 yards from CLV 35 to CHI 3815-B.Marshall to CHI 30 for -8 yards(22-B.Skrine).'>59.06</number><number>0.99</number>
+<number>60</number><number>1</number>
+</row> </chart_data>
+       <draw>
+
+
+
+      <image x='45' y='298'  url='nfllogos/42x50png/CHI.gif'  layer='foreground' glow = 'glow1'/>
+      <image x='45' y='350'  url='nfllogos/42x50png/CLV.gif'     layer='foreground' glow = 'glow1'/>
+
+
+      <rect x='130' y='300' width='250' height='40' fill_color='002a46' bevel='bevel1' />
+      <text x='135' y='300' width='250' height='40' h_align='left' v_align='middle' color='ffffff' shadow='shadow2' glow='winnerglow'>Chicago Bears</text>
+
+      <rect x='130' y='350' width='250' height='40' fill_color='522b20' bevel='bevel1'  />
+      <text x='135' y='350' width='250' height='40' h_align='left' v_align='middle' color='ffffff' shadow='shadow2' glow=''>Cleveland Browns</text>
+
+      <rect x='420' y='300' width='60' height='40' fill_color='002a46' bevel='bevel1'  />
+      <text x='420' y='300' width='60' height='40' h_align='center' v_align='middle' color='ffffff' shadow='shadow2' transition='none' glow='winnerglow'>38</text>
+
+      <rect x='420' y='350' width='60' height='40' fill_color='522b20' bevel='bevel1' />
+      <text x='420' y='350' width='60' height='40' h_align='center' v_align='middle' color='ffffff' shadow='shadow2' transition='none' glow=''>31</text>
+
+      <text x='-3' y='12'  width='60' height='40' h_align='center' v_align='middle' size='13' shadow='shadow2'>CHIWin </text>
+      <text x='-3' y='218' width='60' height='40' h_align='center' v_align='middle' size='13' shadow='shadow2'>CLVWin </text>
+
+     
+              <rect x='540' y='300' width='100' height='35' fill_color='000000' fill_alpha='50'/>
+              <text x='540' y='300' width='100' height='35' h_align='center' v_align='middle' color='ffffff' size='15' shadow='shadow2' >Final</text>
+
+              <text x='540' y='340' width='40' h_align='center' color='000000' size='12' shadow='shadow2'>CBF</text>
+              <text x='600' y='340' width='40' h_align='center' color='000000' size='12' shadow='shadow2'>EI</text>
+
+              <rect x='540' y='360' width='40' height='30' fill_color='000000' fill_alpha='50' />
+              <text x='540' y='360' width='40' height='30' size='12' h_align='center' v_align='middle' color='FFFFFF' shadow='shadow2'>9</text>
+
+              <rect x='600' y='360' width='40' height='30' fill_color='000000' fill_alpha='50' />
+              <text x='600' y='360' width='40' height='30' size='12' h_align='center' v_align='middle' color='FFFFFF' shadow='shadow2'>5.0</text>
+
+              <text x='20' y='420' width='70' height='25' size='12' h_align='left' v_align='middle' color='000000' >12/15/2013</text>
+              <text x='100' y='420' width='200' height='25' size='12' h_align='left' v_align='middle' color='000000' >FirstEnergy Stadium</text>
+
+   </draw></chart>

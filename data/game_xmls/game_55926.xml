@@ -1,0 +1,310 @@
+
+<chart>
+   <license>ETAS9P33ESHO.945CWK-2XOI1X0-7L</license>
+   <chart_type>scatter</chart_type>
+   <chart_pref trend_thickness='0' line_thickness='3' point_size='0'/>
+
+   <series_color>
+      <color>ffff00</color>
+   </series_color>
+
+   <chart_rect x='45' y='20' width='630' height='230' positive_color='cacaca'  />
+
+  <chart_border top_thickness='0'
+                 bottom_thickness='0'
+                 left_thickness='0'
+                 right_thickness='0'
+                 color='000000'
+                 />
+
+   <tooltip font='Arial' bold='true' size='11' />
+
+   <chart_note type='flag'
+               color='000000'
+               alpha='90'
+               bold='FALSE'
+               size='10'
+               background_color='ffffe0'
+               background_alpha='50'
+               shadow='shadow2'
+               />
+
+   <chart_grid_h thickness='2' color='ffffff' type='dashed'  />
+   <chart_grid_v thickness='2' color='ffffff'   />
+		>
+
+   <legend layout='hide' />
+
+   <chart_guide horizontal='TRUE'
+             vertical='TRUE'
+             thickness='1'
+             color='006400'
+             alpha='100'
+             type='solid'
+             snap_h='TRUE'
+             snap_v='TRUE'
+             radius='3'
+             fill_color='006400'
+             fill_alpha='100'
+             line_color='006400'
+             line_alpha='80'
+             line_thickness='1'
+             text_h_alpha='50'
+             text_v_alpha='00'
+             suffix_h=' WP'
+             decimals='2'
+             bold='FALSE'
+             size='11'
+             text_color='FFFFFF'
+             background_color='006400'
+             />
+   <filter>
+      <shadow id='shadow1' distance='2' angle='60' blurX='5' blurY='5' alpha='50' />
+      <bevel id='bevel1' angle='45' blurX='5' blurY='5' distance='0' />
+      <glow id='glow1' color='ffffff' alpha='0' blurX='7' blurY='7' strength='6' quality='2' inner='FALSE' knockout='FALSE' />
+      <glow id='winnerglow' color='ffffff' alpha='0' blurX='7' blurY='7' strength='5' quality='2' inner='FALSE' knockout='FALSE' />
+   </filter>
+
+    <axis_value_label>
+         <string></string>
+          <string> </string>
+          <null/>
+          <string> </string>
+          <string></string>
+
+       </axis_value_label>
+		
+	   <axis_ticks category_ticks='false'/>
+
+       <axis_value min='0' max='1' steps='4'  decimals='2' show_min='true' size='13' shadow='shadow2' />     
+            <axis_category
+               min='0'
+               max='60'
+               steps='4'
+               mode='all'
+               decimals='0'
+               size='13'
+               shadow='shadow2'
+               />
+
+       <axis_category_label>
+          <string>Kickoff</string>
+          <string></string>
+          <string>Halftime</string>
+          <string></string>
+          <string>End</string>
+
+       </axis_category_label>
+
+
+        <chart_data>
+       <row>
+	      <null/><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number>
+              <number>x</number><number>y</number>
+              </row><row><string></string>
+
+                     <number shadow='shadow1'>0</number><number>.5</number><number shadow='shadow1' tooltip='15:00 ARZ 0 SF 0 LI: 9-P.Dawson kicks 67 yards from SF 35 to ARZ -235-J.Arenas to ARZ 21 for 23 yards(14-K.Osgood).'>0.09</number><number>0.52</number>
+<number shadow='shadow1' tooltip='14:19 2-6-ARZ 25ARZ 0 SF 0 LI: 1.43-C.Palmer pass short right to 28-R.Mendenhall to ARZ 27 for 2 yards(35-E.Reid)Caught at ARZ 18 9-yds YAC'>0.68</number><number>0.5</number>
+<number shadow='shadow1' tooltip='13:33 3-4-ARZ 27ARZ 0 SF 0 LI: 1.2(Shotgun) 3-C.Palmer pass short left to 38-A.Ellington to ARZ 30 for 3 yards(31-D.Whitner)Caught at ARZ 30 0-yds YAC'>1.45</number><number>0.46</number>
+<number shadow='shadow1' tooltip='12:59 4-1-ARZ 30ARZ 0 SF 0 LI: 0.89-D.Zastudil punts 51 yards to SF 19 Center-82-M.Leach fair catch by 10-K.Williams.'>2.02</number><number>0.49</number>
+<number shadow='shadow1' tooltip='12:54 1-10-SF 19ARZ 0 SF 0 LI: 1.57-C.Kaepernick pass incomplete deep middle to 81-A.Boldin.'>2.1</number><number>0.5</number>
+<number shadow='shadow1' tooltip='12:45 2-10-SF 19ARZ 0 SF 0 LI: 1.47-C.Kaepernick pass short left to 85-V.Davis to SF 25 for 6 yards(56-K.Dansby)Caught at SF 18 7-yds YAC'>2.25</number><number>0.5</number>
+<number shadow='shadow1' tooltip='12:05 3-4-SF 25ARZ 0 SF 0 LI: 1.3(Shotgun) 7-C.Kaepernick sacked at SF 18 for -7 yards(sack split by 56-K.Dansby and 93-C.Campbell).'>2.92</number><number>0.55</number>
+<number shadow='shadow1' tooltip='11:37 4-11-SF 18ARZ 0 SF 0 LI: 14-A.Lee punts 56 yards to ARZ 26 Center-47-K.McDermott21-P.Peterson pushed ob at ARZ 44 for 18 yards(14-K.Osgood).'>3.38</number><number>0.56</number>
+<number shadow='shadow1' tooltip='11:23 1-10-ARZ 44ARZ 0 SF 0 LI: 1.428-R.Mendenhall up the middle to ARZ 47 for 3 yards(90-G.Dorsey).'>3.62</number><number>0.55</number>
+<number shadow='shadow1' tooltip='10:50 2-7-ARZ 47ARZ 0 SF 0 LI: 1.23-C.Palmer pass short middle intended for 81-J.Dray INTERCEPTED by 35-E.Reid at SF 4035-E.Reid to ARZ 7 for 53 yards(74-P.Fanaika).'>4.17</number><number>0.32</number>
+<number shadow='shadow1' tooltip='10:37 1-7-ARZ 7ARZ 0 SF 0 LI: 1.87-C.Kaepernick pass incomplete short right to 81-A.Boldin (21-P.Peterson).'>4.38</number><number>0.33</number>
+<number shadow='shadow1' tooltip='10:30 2-7-ARZ 7ARZ 0 SF 0 LI: 1.7(Shotgun) 21-F.Gore right guard to ARZ 7 for no gain (55-J.Abraham; 66-A.Taamu).'>4.5</number><number>0.36</number>
+<number shadow='shadow1' tooltip='9:50 3-7-ARZ 7ARZ 0 SF 0 LI: 1.4(Shotgun) 7-C.Kaepernick pass incomplete short left to 85-V.Davis (37-Y.Bell).'>5.17</number><number>0.41</number>
+<number shadow='shadow1' tooltip='9:47 4-7-ARZ 7ARZ 0 SF 0 LI: 0.99-P.Dawson 25 yard field goal is GOOD NULLIFIED by Penalty Center-47-K.McDermott Holder-4-A.LeePENALTY on SF-88-G.Celek Offensive Holding 10 yards enforced at ARZ 7 - No Play.'>5.22</number><number>0.43</number>
+<number shadow='shadow1' tooltip='9:41 4-17-ARZ 17ARZ 0 SF 0 LI: 0.89-P.Dawson 35 yard field goal is GOOD Center-47-K.McDermott Holder-4-A.Lee.'>5.32</number><number>0.42</number>
+<number shadow='shadow1' tooltip='9:41 ARZ 0 SF 3 LI: 9-P.Dawson kicks 72 yards from SF 35 to ARZ -735-J.Arenas to ARZ 12 for 19 yards(57-M.Wilhoite; 43-C.Dahl).'>5.41</number><number>0.38</number>
+<number shadow='shadow1' tooltip='9:32 1-10-ARZ 12ARZ 0 SF 3 LI: 1.538-A.Ellington right tackle to ARZ 17 for 5 yards(31-D.Whitner)SF-90-G.Dorsey was injured during the playHis return is Questionable.'>5.47</number><number>0.4</number>
+<number shadow='shadow1' tooltip='9:09 2-5-ARZ 17ARZ 0 SF 3 LI: 1.338-A.Ellington left end to ARZ 21 for 4 yards(51-D.Skuta).'>5.85</number><number>0.4</number>
+<number shadow='shadow1' tooltip='8:36 3-1-ARZ 21ARZ 0 SF 3 LI: 1.2(Shotgun) 3-C.Palmer pass incomplete short left to 11-L.Fitzgerald.'>6.4</number><number>0.36</number>
+<number shadow='shadow1' tooltip='8:32 4-1-ARZ 21ARZ 0 SF 3 LI: 0.89-D.Zastudil punts 47 yards to SF 32 Center-82-M.Leach fair catch by 10-K.Williams.'>6.47</number><number>0.37</number>
+<number shadow='shadow1' tooltip='8:25 1-10-SF 32ARZ 0 SF 3 LI: 1.621-F.Gore right tackle to SF 33 for 1 yard(92-D.Williams).'>6.58</number><number>0.38</number>
+<number shadow='shadow1' tooltip='7:49 2-9-SF 33ARZ 0 SF 3 LI: 1.47-C.Kaepernick pass incomplete short middle to 81-A.Boldin (32-T.Mathieu).'>7.18</number><number>0.39</number>
+<number shadow='shadow1' tooltip='7:45 3-9-SF 33ARZ 0 SF 3 LI: 1.3(Shotgun) 7-C.Kaepernick pass short left to 85-V.Davis to SF 36 for 3 yards(37-Y.Bell)Caught at SF 36 0-yds YAC'>7.25</number><number>0.42</number>
+<number shadow='shadow1' tooltip='7:07 4-6-SF 36ARZ 0 SF 3 LI: 0.94-A.Lee punts 58 yards to ARZ 6 Center-47-K.McDermott21-P.Peterson to ARZ 10 for 4 yards(27-C.Spillman)PENALTY on ARZ-59-M.Benard Offensive Holding 3 yards enforced at ARZ 6P.Peterson credited with a return of 0-yds.'>7.88</number><number>0.38</number>
+<number shadow='shadow1' tooltip='6:57 1-10-ARZ 3ARZ 0 SF 3 LI: 1.5PENALTY on ARZ-73-E.Winston False Start 1 yard enforced at ARZ 3 - No Play.'>8.05</number><number>0.38</number>
+<number shadow='shadow1' tooltip='6:22 2-10-ARZ 3ARZ 0 SF 3 LI: 1.33-C.Palmer pass incomplete short left to 11-L.Fitzgerald (25-T.Brown).'>8.63</number><number>0.35</number>
+<number shadow='shadow1' tooltip='6:18 3-10-ARZ 3ARZ 0 SF 3 LI: 1.2(Shotgun) 3-C.Palmer pass deep middle intended for 11-L.Fitzgerald INTERCEPTED by 22-C.Rogers at ARZ 2222-C.Rogers to ARZ 11 for 11 yards(63-L.Sendlein).'>8.7</number><number>0.23</number>
+<number shadow='shadow1' tooltip='6:06 1-10-ARZ 11ARZ 0 SF 3 LI: 1.5(Shotgun) 21-F.Gore up the middle to ARZ 6 for 5 yards(90-D.Dockett).'>8.9</number><number>0.22</number>
+<number shadow='shadow1' tooltip='5:20 2-5-ARZ 6ARZ 0 SF 3 LI: 1.621-F.Gore right tackle to ARZ 8 for -2 yards(32-T.Mathieu).'>9.67</number><number>0.26</number>
+<number shadow='shadow1' tooltip='4:39 3-7-ARZ 8ARZ 0 SF 3 LI: 1.27-C.Kaepernick pass incomplete short right to 84-J.Baldwin (58-D.Washington).'>10.35</number><number>0.32</number>
+<number shadow='shadow1' tooltip='4:35 4-7-ARZ 8ARZ 0 SF 3 LI: 0.69-P.Dawson 26 yard field goal is GOOD Center-47-K.McDermott Holder-4-A.Lee.'>10.42</number><number>0.33</number>
+<number shadow='shadow1' tooltip='4:35 ARZ 0 SF 6 LI: 9-P.Dawson kicks 65 yards from SF 35 to end zone Touchback.'>10.51</number><number>0.32</number>
+<number shadow='shadow1' tooltip='4:01 2-5-ARZ 25ARZ 0 SF 6 LI: 1.5(Shotgun) 3-C.Palmer pass short right to 15-M.Floyd to ARZ 25 for no gain (55-A.Brooks)Caught at ARZ 25 0-yds YAC'>10.98</number><number>0.31</number>
+<number shadow='shadow1' tooltip='3:18 3-5-ARZ 25ARZ 0 SF 6 LI: 1.4(Shotgun) 3-C.Palmer pass short right to 11-L.Fitzgerald for 75 yards TOUCHDOWNCaught at ARZ 34 66-yds YAC'>11.7</number><number>0.52</number>
+<number shadow='shadow1' tooltip='3:18 ARZ 0 SF 6 LI: 4-J.Feely extra point is GOOD Center-82-M.Leach Holder-9-D.Zastudil.'>11.74</number><number>0.52</number>
+<number shadow='shadow1' tooltip='3:18 ARZ 7 SF 6 LI: 4-J.Feely kicks 68 yards from ARZ 35 to SF -310-K.Williams to SF 32 for 35 yards(22-T.Jefferson).'>11.79</number><number>0.51</number>
+<number shadow='shadow1' tooltip='2:56 1-10-SF 32ARZ 7 SF 6 LI: 1.321-F.Gore right guard to SF 35 for 3 yards(92-D.Williams).'>12.07</number><number>0.51</number>
+<number shadow='shadow1' tooltip='2:18 2-7-SF 35ARZ 7 SF 6 LI: 1.27-C.Kaepernick pass short right to 24-A.Dixon to SF 38 for 3 yards(90-D.Dockett)Caught at SF 30 8-yds YAC'>12.7</number><number>0.51</number>
+<number shadow='shadow1' tooltip='2:08 3-4-SF 38ARZ 7 SF 6 LI: 1.2(Shotgun) PENALTY on ARZ-50-D.Moch Neutral Zone Infraction 5 yards enforced at SF 38 - No Play.'>12.87</number><number>0.49</number>
+<number shadow='shadow1' tooltip='1:10 1-10-SF 43ARZ 7 SF 6 LI: 1.27-C.Kaepernick pass short left to 85-V.Davis to ARZ 31 for 26 yards(21-P.Peterson)Caught at ARZ 42 11-yds YAC'>13.83</number><number>0.42</number>
+<number shadow='shadow1' tooltip='0:37 1-10-ARZ 31ARZ 7 SF 6 LI: 1.519-M.Moore right end to ARZ 22 for 9 yards(37-Y.Bell).'>14.38</number><number>0.39</number>
+<number shadow='shadow1' tooltip='15:00 2-1-ARZ 22ARZ 7 SF 6 LI: 1.532-K.Hunter right tackle to ARZ 17 for 5 yards(32-T.Mathieu).'>15</number><number>0.38</number>
+<number shadow='shadow1' tooltip='14:22 1-10-ARZ 17ARZ 7 SF 6 LI: 1.57-C.Kaepernick pass short right to 89-V.McDonald to ARZ 10 for 7 yards(32-T.Mathieu)Caught at ARZ 16 6-yds YAC'>15.63</number><number>0.34</number>
+<number shadow='shadow1' tooltip='13:54 2-3-ARZ 10ARZ 7 SF 6 LI: 1.8(Shotgun) 32-K.Hunter left tackle to ARZ 15 for -5 yards(56-K.Dansby)PENALTY on SF-76-A.Davis Clipping 15 yards enforced at ARZ 10 - No Play.'>16.1</number><number>0.43</number>
+<number shadow='shadow1' tooltip='13:24 2-18-ARZ 25ARZ 7 SF 6 LI: 1.2(Shotgun) 7-C.Kaepernick scrambles right guard to ARZ 8 for 17 yards(56-K.Dansby).'>16.6</number><number>0.34</number>
+<number shadow='shadow1' tooltip='12:37 3-1-ARZ 8ARZ 7 SF 6 LI: 1.821-F.Gore up the middle to ARZ 5 for 3 yards(58-D.Washington).'>17.38</number><number>0.34</number>
+<number shadow='shadow1' tooltip='11:53 1-5-ARZ 5ARZ 7 SF 6 LI: 1.821-F.Gore right guard to ARZ 2 for 3 yards(37-Y.Bell).'>18.12</number><number>0.34</number>
+<number shadow='shadow1' tooltip='11:13 2-2-ARZ 2ARZ 7 SF 6 LI: 1.87-C.Kaepernick pass short right intended for 49-B.Miller INTERCEPTED by 37-Y.Bell (56-K.Dansby) at ARZ 137-Y.Bell to ARZ 14 for 13 yards(76-A.Davis; 7-C.Kaepernick)Play Challenged by Replay Assistant and REVERSED7-C.Kaepernick pass short right intended for 49-B.Miller INTERCEPTED by 37-Y.Bell (56-K.Dansby) at ARZ 137-Y.Bell to ARZ 1 for no gain (49-B.Miller).'>18.78</number><number>0.52</number>
+<number shadow='shadow1' tooltip='11:09 1-10-ARZ 1ARZ 7 SF 6 LI: 1.7N.Potter reported as eligible 28-R.Mendenhall right tackle to ARZ 3 for 2 yards(53-N.Bowman).'>18.85</number><number>0.5</number>
+<number shadow='shadow1' tooltip='10:30 2-8-ARZ 3ARZ 7 SF 6 LI: 1.530-S.Taylor up the middle to ARZ 8 for 5 yards(52-P.Willis; 53-N.Bowman).'>19.5</number><number>0.5</number>
+<number shadow='shadow1' tooltip='9:42 3-3-ARZ 8ARZ 7 SF 6 LI: 1.5(Shotgun) PENALTY on ARZ-3-C.Palmer Delay of Game 4 yards enforced at ARZ 8 - No Play.'>20.3</number><number>0.49</number>
+<number shadow='shadow1' tooltip='9:26 3-7-ARZ 4ARZ 7 SF 6 LI: 1.4(Shotgun) 3-C.Palmer sacked in End Zone for -4 yards SAFETY (96-C.Lemonier).'>20.57</number><number>0.45</number>
+<number shadow='shadow1' tooltip='9:26 ARZ 7 SF 8 LI: 9-D.Zastudil kicks 51 yards from ARZ 20 to SF 2924-A.Dixon (didn t try to advance) to SF 29 for no gain (20-A.Cason).'>20.66</number><number>0.45</number>
+<number shadow='shadow1' tooltip='9:18 1-10-SF 29ARZ 7 SF 8 LI: 1.321-F.Gore right tackle to SF 39 for 10 yards(32-T.Mathieu).'>20.7</number><number>0.43</number>
+<number shadow='shadow1' tooltip='8:41 1-10-SF 39ARZ 7 SF 8 LI: 1.2D.Kilgore A.Snyder report as eligible 7-C.Kaepernick pass deep middle to 85-V.Davis for 61 yards TOUCHDOWN.'>21.32</number><number>0.25</number>
+<number shadow='shadow1' tooltip='8:41 ARZ 7 SF 8 LI: 9-P.Dawson extra point is GOOD Center-47-K.McDermott Holder-4-A.Lee.'>21.36</number><number>0.25</number>
+<number shadow='shadow1' tooltip='8:41 ARZ 7 SF 15 LI: 9-P.Dawson kicks 73 yards from SF 35 to ARZ -835-J.Arenas Touchback.'>21.41</number><number>0.24</number>
+<number shadow='shadow1' tooltip='8:31 1-10-ARZ 20ARZ 7 SF 15 LI: 1.13-C.Palmer pass short left to 84-R.Housler to ARZ 32 for 12 yards(25-T.Brown)Caught at ARZ 15 17-yds YAC'>21.48</number><number>0.26</number>
+<number shadow='shadow1' tooltip='7:51 1-10-ARZ 32ARZ 7 SF 15 LI: 1.13-C.Palmer pass deep right to 10-B.Golden to SF 15 for 53 yards(22-C.Rogers)Caught at SF 26 11-yds YAC'>22.15</number><number>0.33</number>
+<number shadow='shadow1' tooltip='7:09 1-10-SF 15ARZ 7 SF 15 LI: 138-A.Ellington right guard for 15 yards TOUCHDOWN.'>22.85</number><number>0.45</number>
+<number shadow='shadow1' tooltip='7:09 ARZ 7 SF 15 LI: 4-J.Feely extra point is GOOD Center-82-M.Leach Holder-9-D.Zastudil.'>22.89</number><number>0.45</number>
+<number shadow='shadow1' tooltip='7:09 ARZ 14 SF 15 LI: 9-D.Zastudil kicks 60 yards from ARZ 35 to SF 510-K.Williams to SF 22 for 17 yards(22-T.Jefferson).'>22.94</number><number>0.46</number>
+<number shadow='shadow1' tooltip='6:57 1-10-SF 22ARZ 14 SF 15 LI: 1.37-C.Kaepernick pass incomplete short left to 85-V.Davis (56-K.Dansby).'>23.05</number><number>0.46</number>
+<number shadow='shadow1' tooltip='6:52 2-10-SF 22ARZ 14 SF 15 LI: 1.321-F.Gore right tackle to SF 24 for 2 yards(92-D.Williams)PENALTY on ARZ-90-D.Dockett Unnecessary Roughness 15 yards enforced at SF 24.'>23.13</number><number>0.43</number>
+<number shadow='shadow1' tooltip='6:24 1-10-SF 39ARZ 14 SF 15 LI: 1.2D.Kilgore reported as eligible (Shotgun) 7-C.Kaepernick pass deep left to 85-V.Davis to ARZ 33 for 28 yards(25-J.Powers)Caught at ARZ 37 4-yds YAC'>23.6</number><number>0.37</number>
+<number shadow='shadow1' tooltip='5:50 1-10-ARZ 33ARZ 14 SF 15 LI: 1.27-C.Kaepernick pass incomplete short right to 19-M.Moore.'>24.17</number><number>0.38</number>
+<number shadow='shadow1' tooltip='5:44 2-10-ARZ 33ARZ 14 SF 15 LI: 1.1(Shotgun) 21-F.Gore up the middle to ARZ 38 for -5 yards(93-C.Campbell).'>24.27</number><number>0.42</number>
+<number shadow='shadow1' tooltip='5:03 4-15-ARZ 38ARZ 14 SF 15 LI: 0.5(Punt formation) Penalty on SF-4-A.Lee Delay of Game declined.'>24.95</number><number>0.45</number>
+<number shadow='shadow1' tooltip='4:55 1-10-ARZ 7ARZ 14 SF 15 LI: 1.6N.Potter reported as eligible 28-R.Mendenhall right tackle to ARZ 11 for 4 yards(55-A.Brooks).'>25.08</number><number>0.44</number>
+<number shadow='shadow1' tooltip='4:15 2-6-ARZ 11ARZ 14 SF 15 LI: 1.5(Shotgun) 28-R.Mendenhall up the middle to ARZ 13 for 2 yards(52-P.Willis; 53-N.Bowman).'>25.75</number><number>0.44</number>
+<number shadow='shadow1' tooltip='3:29 3-4-ARZ 13ARZ 14 SF 15 LI: 1.5(Shotgun) 3-C.Palmer pass short middle to 38-A.Ellington to ARZ 17 for 4 yards(35-E.Reid)San Francisco challenged the first down ruling and the play was REVERSED(Shotgun) 3-C.Palmer pass short middle to 38-A.Ellington to ARZ 16 for 3 yards(35-E.Reid)Caught at ARZ 16 0-yds YAC'>26.52</number><number>0.41</number>
+<number shadow='shadow1' tooltip='2:59 4-1-ARZ 16ARZ 14 SF 15 LI: 0.89-D.Zastudil punts 42 yards to SF 42 Center-82-M.Leach fair catch by 10-K.Williams.'>27.02</number><number>0.41</number>
+<number shadow='shadow1' tooltip='2:54 1-10-SF 42ARZ 14 SF 15 LI: 1.4(Shotgun) 7-C.Kaepernick pass short middle to 49-B.Miller to ARZ 47 for 11 yards(56-K.Dansby)Caught at SF 47 6-yds YAC'>27.1</number><number>0.39</number>
+<number shadow='shadow1' tooltip='2:22 1-10-ARZ 47ARZ 14 SF 15 LI: 1.47-C.Kaepernick pass short right to 85-V.Davis to ARZ 35 for 12 yards(25-J.Powers) [55-J.Abraham]Caught at ARZ 37 2-yds YAC'>27.63</number><number>0.36</number>
+<number shadow='shadow1' tooltip='2:00 1-10-ARZ 35ARZ 14 SF 15 LI: 1.4(Shotgun) 7-C.Kaepernick pass deep right to 85-V.Davis for 35 yards TOUCHDOWN.'>28</number><number>0.25</number>
+<number shadow='shadow1' tooltip='2:00 ARZ 14 SF 15 LI: 9-P.Dawson extra point is GOOD Center-47-K.McDermott Holder-4-A.Lee.'>28.04</number><number>0.25</number>
+<number shadow='shadow1' tooltip='2:00 ARZ 14 SF 22 LI: 9-P.Dawson kicks 73 yards from SF 35 to ARZ -835-J.Arenas Touchback.'>28.09</number><number>0.24</number>
+<number shadow='shadow1' tooltip='1:50 2-10-ARZ 20ARZ 14 SF 22 LI: 1(Shotgun) 3-C.Palmer pass short left to 11-L.Fitzgerald to ARZ 24 for 4 yards(22-C.Rogers)Caught at ARZ 21 3-yds YAC'>28.17</number><number>0.23</number>
+<number shadow='shadow1' tooltip='1:46 3-6-ARZ 24ARZ 14 SF 22 LI: 0.9(Shotgun) 3-C.Palmer pass short right to 13-J.Brown to ARZ 29 for 5 yards(22-C.Rogers)Caught at ARZ 28 1-yd YAC'>28.23</number><number>0.2</number>
+<number shadow='shadow1' tooltip='1:40 4-1-ARZ 29ARZ 14 SF 22 LI: 0.69-D.Zastudil punts 51 yards to SF 20 Center-82-M.Leach10-K.Williams to SF 27 for 7 yards(31-J.Bethel).'>28.33</number><number>0.21</number>
+<number shadow='shadow1' tooltip='1:30 1-10-SF 27ARZ 14 SF 22 LI: 1.1(Shotgun) 7-C.Kaepernick pass incomplete short left to 81-A.Boldin (21-P.Peterson).'>28.5</number><number>0.22</number>
+<number shadow='shadow1' tooltip='1:26 2-10-SF 27ARZ 14 SF 22 LI: 1(Shotgun) 7-C.Kaepernick pass short right to 81-A.Boldin ran ob at SF 42 for 15 yardsCaught at SF 32 10-yds YAC'>28.57</number><number>0.19</number>
+<number shadow='shadow1' tooltip='1:20 1-10-SF 42ARZ 14 SF 22 LI: 1.1(Shotgun) 7-C.Kaepernick pass short right to 84-J.Baldwin pushed ob at ARZ 49 for 9 yards(25-J.Powers)Caught at SF 48 3-yds YAC'>28.67</number><number>0.17</number>
+<number shadow='shadow1' tooltip='1:14 2-1-ARZ 49ARZ 14 SF 22 LI: 1.1(Shotgun) 7-C.Kaepernick sacked at SF 44 for -7 yards(90-D.Dockett)FUMBLES (90-D.Dockett) RECOVERED by ARZ-58-D.Washington at SF 4458-D.Washington to SF 44 for no gain (75-A.Boone).'>28.77</number><number>0.29</number>
+<number shadow='shadow1' tooltip='1:06 1-10-SF 44ARZ 14 SF 22 LI: 1.1(Shotgun) 3-C.Palmer pass deep left to 15-M.Floyd for 44 yards TOUCHDOWN NULLIFIED by PenaltyPENALTY on ARZ-15-M.Floyd Offensive Pass Interference 10 yards enforced at SF 44 - No Play.'>28.9</number><number>0.28</number>
+<number shadow='shadow1' tooltip='1:00 1-20-ARZ 46ARZ 14 SF 22 LI: 1.1(Shotgun) 3-C.Palmer pass incomplete deep right to 10-B.Golden.'>29</number><number>0.25</number>
+<number shadow='shadow1' tooltip='0:54 2-20-ARZ 46ARZ 14 SF 22 LI: 0.8(Shotgun) 3-C.Palmer pass incomplete deep middle to 12-A.Roberts.'>29.1</number><number>0.23</number>
+<number shadow='shadow1' tooltip='0:50 3-20-ARZ 46ARZ 14 SF 22 LI: 0.6(Shotgun) 3-C.Palmer pass short middle to 38-A.Ellington to SF 42 for 12 yards(52-P.Willis)Caught at ARZ 48 10-yds YAC'>29.17</number><number>0.23</number>
+<number shadow='shadow1' tooltip='0:35 4-8-SF 42ARZ 14 SF 22 LI: 0.49-D.Zastudil punts 27 yards to SF 15 Center-82-M.Leach fair catch by 10-K.Williams.'>29.42</number><number>0.23</number>
+<number shadow='shadow1' tooltip='0:28 1-10-SF 15ARZ 14 SF 22 LI: 1.27-C.Kaepernick kneels to SF 14 for -1 yards.'>29.53</number><number>0.25</number>
+<number shadow='shadow1' tooltip='0:28 ARZ 14 SF 22 LI: 4-J.Feely kicks 62 yards from ARZ 35 to SF 310-K.Williams to SF 6 for 3 yards(26-R.Johnson).'>29.62</number><number>0.23</number>
+<number shadow='shadow1' tooltip='14:57 1-10-SF 6ARZ 14 SF 22 LI: 1.721-F.Gore up the middle to SF 10 for 4 yards(56-K.Dansby).'>30.05</number><number>0.25</number>
+<number shadow='shadow1' tooltip='14:23 2-6-SF 10ARZ 14 SF 22 LI: 1.521-F.Gore right guard to SF 13 for 3 yards(56-K.Dansby).'>30.62</number><number>0.25</number>
+<number shadow='shadow1' tooltip='13:38 3-3-SF 13ARZ 14 SF 22 LI: 1.4(Shotgun) 7-C.Kaepernick left end to SF 15 for 2 yards(32-T.Mathieu).'>31.37</number><number>0.28</number>
+<number shadow='shadow1' tooltip='12:59 4-1-SF 15ARZ 14 SF 22 LI: 0.74-A.Lee punts 46 yards to ARZ 39 Center-47-K.McDermott downed by SF-26-T.Brock.'>32.02</number><number>0.26</number>
+<number shadow='shadow1' tooltip='12:45 1-10-ARZ 39ARZ 14 SF 22 LI: 1N.Potter reported as eligible 28-R.Mendenhall left guard to 50 for 11 yards(35-E.Reid; 31-D.Whitner).'>32.25</number><number>0.29</number>
+<number shadow='shadow1' tooltip='12:03 1-10-50ARZ 14 SF 22 LI: 1.23-C.Palmer pass short right to 81-J.Dray to SF 46 for 4 yards(53-N.Bowman)Caught at 50 4-yds YAC'>32.95</number><number>0.28</number>
+<number shadow='shadow1' tooltip='11:29 2-6-SF 46ARZ 14 SF 22 LI: 128-R.Mendenhall up the middle to SF 40 for 6 yards(96-C.Lemonier).'>33.52</number><number>0.3</number>
+<number shadow='shadow1' tooltip='10:51 1-10-SF 40ARZ 14 SF 22 LI: 1.23-C.Palmer pass short right to 15-M.Floyd to SF 34 for 6 yards(26-T.Brock)Caught at SF 41 6-yds YAC'>34.15</number><number>0.31</number>
+<number shadow='shadow1' tooltip='10:25 2-4-SF 34ARZ 14 SF 22 LI: 1.238-A.Ellington left tackle to SF 20 for 14 yards(31-D.Whitner).'>34.58</number><number>0.34</number>
+<number shadow='shadow1' tooltip='9:45 1-10-SF 20ARZ 14 SF 22 LI: 1.328-R.Mendenhall up the middle to SF 15 for 5 yards(94-J.Smith).'>35.25</number><number>0.39</number>
+<number shadow='shadow1' tooltip='9:07 2-5-SF 15ARZ 14 SF 22 LI: 1.73-C.Palmer pass incomplete short left to 12-A.Roberts.'>35.88</number><number>0.35</number>
+<number shadow='shadow1' tooltip='9:03 3-5-SF 15ARZ 14 SF 22 LI: 1.3(Shotgun) 3-C.Palmer pass short left to 11-L.Fitzgerald to SF 10 for 5 yards(25-T.Brown).'>35.95</number><number>0.39</number>
+<number shadow='shadow1' tooltip='8:17 1-10-SF 10ARZ 14 SF 22 LI: 1.6(Shotgun) 3-C.Palmer pass short left to 15-M.Floyd for 10 yards TOUCHDOWN.'>36.72</number><number>0.38</number>
+<number shadow='shadow1' tooltip='8:17 ARZ 20 SF 22 LI: 4-J.Feely kicks 71 yards from ARZ 35 to SF -610-K.Williams to SF 26 for 32 yards(29-A.Smith).'>36.81</number><number>0.38</number>
+<number shadow='shadow1' tooltip='8:05 1-10-SF 26ARZ 20 SF 22 LI: 1.721-F.Gore up the middle to ARZ 42 for 32 yards(25-J.Powers).'>36.92</number><number>0.32</number>
+<number shadow='shadow1' tooltip='7:25 1-10-ARZ 42ARZ 20 SF 22 LI: 1.57-C.Kaepernick FUMBLES (Aborted) at ARZ 42 and recovers at ARZ 437-C.Kaepernick to ARZ 43 for no gain (90-D.Dockett).'>37.58</number><number>0.35</number>
+<number shadow='shadow1' tooltip='6:40 2-11-ARZ 43ARZ 20 SF 22 LI: 1.2(Shotgun) 7-C.Kaepernick pass incomplete short right to 85-V.Davis (56-K.Dansby).'>38.33</number><number>0.37</number>
+<number shadow='shadow1' tooltip='6:35 3-11-ARZ 43ARZ 20 SF 22 LI: 1(Shotgun) PENALTY on SF-85-V.Davis False Start 5 yards enforced at ARZ 43 - No Play.'>38.42</number><number>0.38</number>
+<number shadow='shadow1' tooltip='5:57 4-20-SF 48ARZ 20 SF 22 LI: 0.84-A.Lee punts 52 yards to end zone Center-47-K.McDermott Touchback.'>39.05</number><number>0.41</number>
+<number shadow='shadow1' tooltip='5:50 1-10-ARZ 20ARZ 20 SF 22 LI: 1.411-L.Fitzgerald right end to ARZ 24 for 4 yards(22-C.Rogers).'>39.17</number><number>0.42</number>
+<number shadow='shadow1' tooltip='5:26 2-6-ARZ 24ARZ 20 SF 22 LI: 1.438-A.Ellington up the middle to ARZ 28 for 4 yards(52-P.Willis).'>39.57</number><number>0.42</number>
+<number shadow='shadow1' tooltip='4:50 3-2-ARZ 28ARZ 20 SF 22 LI: 1.4(Shotgun) 3-C.Palmer pass short middle to 15-M.Floyd to ARZ 47 for 19 yards(25-T.Brown)Caught at ARZ 42 5-yds YAC'>40.17</number><number>0.48</number>
+<number shadow='shadow1' tooltip='4:12 1-10-ARZ 47ARZ 20 SF 22 LI: 1.53-C.Palmer pass short right to 15-M.Floyd to SF 44 for 9 yards(26-T.Brock)Caught at ARZ 47 9-yds YAC'>40.8</number><number>0.5</number>
+<number shadow='shadow1' tooltip='3:30 2-1-SF 44ARZ 20 SF 22 LI: 1.53-C.Palmer pass incomplete deep right to 11-L.Fitzgerald.'>41.5</number><number>0.49</number>
+<number shadow='shadow1' tooltip='3:24 3-1-SF 44ARZ 20 SF 22 LI: 1.428-R.Mendenhall right guard to SF 42 for 2 yards(52-P.Willis).'>41.6</number><number>0.51</number>
+<number shadow='shadow1' tooltip='2:45 1-10-SF 42ARZ 20 SF 22 LI: 1.63-C.Palmer pass incomplete deep left to 11-L.Fitzgerald.'>42.25</number><number>0.48</number>
+<number shadow='shadow1' tooltip='2:40 2-10-SF 42ARZ 20 SF 22 LI: 1.338-A.Ellington right tackle to SF 33 for 9 yards(31-D.Whitner).'>42.33</number><number>0.51</number>
+<number shadow='shadow1' tooltip='2:00 3-1-SF 33ARZ 20 SF 22 LI: 1.4N.Potter reported as eligible 30-S.Taylor up the middle to SF 31 for 2 yards(63-T.Jerod-Eddie).'>43</number><number>0.53</number>
+<number shadow='shadow1' tooltip='1:22 1-10-SF 31ARZ 20 SF 22 LI: 1.63-C.Palmer pass incomplete deep right to 84-R.Housler [83-D.Dobbs].'>43.63</number><number>0.51</number>
+<number shadow='shadow1' tooltip='1:16 2-10-SF 31ARZ 20 SF 22 LI: 1.4(Shotgun) 3-C.Palmer pass short middle to 11-L.Fitzgerald to SF 23 for 8 yards(52-P.Willis)FUMBLES (52-P.Willis) RECOVERED by SF-35-E.Reid at SF 1135-E.Reid to SF 11 for no gain (15-M.Floyd)12-yds of loose ball yardage.'>43.73</number><number>0.41</number>
+<number shadow='shadow1' tooltip='1:07 1-10-SF 11ARZ 20 SF 22 LI: 2.37-C.Kaepernick pass short right to 81-A.Boldin to SF 18 for 7 yards(21-P.Peterson)Caught at SF 18 0-yds YAC'>43.88</number><number>0.4</number>
+<number shadow='shadow1' tooltip='0:32 2-3-SF 18ARZ 20 SF 22 LI: 1.721-F.Gore left tackle to SF 19 for 1 yard(93-C.Campbell).'>44.47</number><number>0.41</number>
+<number shadow='shadow1' tooltip='15:00 3-2-SF 19ARZ 20 SF 22 LI: 1.6(Shotgun) 7-C.Kaepernick pass short right to 81-A.Boldin to SF 25 for 6 yards(21-P.Peterson)Caught at SF 23 2-yds YAC'>45</number><number>0.38</number>
+<number shadow='shadow1' tooltip='14:34 1-10-SF 25ARZ 20 SF 22 LI: 1.821-F.Gore left end to SF 28 for 3 yards(55-J.Abraham).'>45.43</number><number>0.38</number>
+<number shadow='shadow1' tooltip='13:50 2-7-SF 28ARZ 20 SF 22 LI: 1.7(Shotgun) 7-C.Kaepernick pass incomplete short right to 81-A.Boldin [90-D.Dockett].'>46.17</number><number>0.41</number>
+<number shadow='shadow1' tooltip='13:44 3-7-SF 28ARZ 20 SF 22 LI: 1.4(Shotgun) 7-C.Kaepernick pass short middle to 10-K.Williams to SF 42 for 14 yards(26-R.Johnson)Caught at SF 35 7-yds YAC'>46.27</number><number>0.33</number>
+<number shadow='shadow1' tooltip='13:04 1-10-SF 42ARZ 20 SF 22 LI: 1.921-F.Gore left guard to ARZ 43 for 15 yards(52-J.Brinkley).'>46.93</number><number>0.3</number>
+<number shadow='shadow1' tooltip='12:23 1-10-ARZ 43ARZ 20 SF 22 LI: 1.832-K.Hunter up the middle to ARZ 43 for no gain (37-Y.Bell; 92-D.Williams).'>47.62</number><number>0.31</number>
+<number shadow='shadow1' tooltip='11:44 2-10-ARZ 43ARZ 20 SF 22 LI: 1.77-C.Kaepernick pass incomplete short right to 10-K.Williams (58-D.Washington).'>48.27</number><number>0.34</number>
+<number shadow='shadow1' tooltip='11:41 3-10-ARZ 43ARZ 20 SF 22 LI: 1.4(Shotgun) 7-C.Kaepernick pass short middle to 85-V.Davis to ARZ 34 for 9 yards(37-Y.Bell)San Francisco challenged the first down ruling and the play was Upheld(Timeout #2.)'>48.32</number><number>0.35</number>
+<number shadow='shadow1' tooltip='11:01 4-1-ARZ 34ARZ 20 SF 22 LI: 149-B.Miller up the middle to ARZ 31 for 3 yards(56-K.Dansby).'>48.98</number><number>0.23</number>
+<number shadow='shadow1' tooltip='10:34 1-10-ARZ 31ARZ 20 SF 22 LI: 221-F.Gore right guard to ARZ 25 for 6 yards(93-C.Campbell).'>49.43</number><number>0.22</number>
+<number shadow='shadow1' tooltip='9:59 2-4-ARZ 25ARZ 20 SF 22 LI: 1.921-F.Gore right guard to ARZ 20 for 5 yards(92-D.Williams).'>50.02</number><number>0.19</number>
+<number shadow='shadow1' tooltip='9:21 1-10-ARZ 20ARZ 20 SF 22 LI: 221-F.Gore right tackle to ARZ 11 for 9 yards(58-D.Washington; 37-Y.Bell).'>50.65</number><number>0.11</number>
+<number shadow='shadow1' tooltip='8:42 2-1-ARZ 11ARZ 20 SF 22 LI: 2.421-F.Gore right guard to ARZ 11 for no gain (56-K.Dansby; 55-J.Abraham).'>51.3</number><number>0.13</number>
+<number shadow='shadow1' tooltip='7:57 3-1-ARZ 11ARZ 20 SF 22 LI: 2.121-F.Gore right guard to ARZ 9 for 2 yards(56-K.Dansby).'>52.05</number><number>0.15</number>
+<number shadow='shadow1' tooltip='7:19 1-9-ARZ 9ARZ 20 SF 22 LI: 1.849-B.Miller up the middle to ARZ 6 for 3 yards(98-F.Rucker).'>52.68</number><number>0.13</number>
+<number shadow='shadow1' tooltip='6:40 2-6-ARZ 6ARZ 20 SF 22 LI: 232-K.Hunter up the middle for 6 yards TOUCHDOWN.'>53.33</number><number>0.09</number>
+<number shadow='shadow1' tooltip='6:40 ARZ 20 SF 22 LI: 9-P.Dawson extra point is GOOD Center-47-K.McDermott Holder-4-A.Lee.'>53.37</number><number>0.09</number>
+<number shadow='shadow1' tooltip='6:40 ARZ 20 SF 29 LI: 9-P.Dawson kicks 74 yards from SF 35 to ARZ -935-J.Arenas Touchback.'>53.42</number><number>0.08</number>
+<number shadow='shadow1' tooltip='6:06 2-1-ARZ 29ARZ 20 SF 29 LI: 0.829-A.Smith up the middle to ARZ 31 for 2 yards(96-C.Lemonier)FUMBLES (96-C.Lemonier) RECOVERED by SF-53-N.Bowman at ARZ 3153-N.Bowman to ARZ 31 for no gain (74-P.Fanaika).'>53.9</number><number>0.02</number>
+<number shadow='shadow1' tooltip='5:56 1-10-ARZ 31ARZ 20 SF 29 LI: 0.821-F.Gore right tackle to ARZ 25 for 6 yards(56-K.Dansby).'>54.07</number><number>0.02</number>
+<number shadow='shadow1' tooltip='5:13 2-4-ARZ 25ARZ 20 SF 29 LI: 0.821-F.Gore up the middle to ARZ 24 for 1 yard(56-K.Dansby).'>54.78</number><number>0.03</number>
+<number shadow='shadow1' tooltip='4:30 3-3-ARZ 24ARZ 20 SF 29 LI: 0.921-F.Gore left tackle to ARZ 26 for -2 yards(32-T.Mathieu).'>55.5</number><number>0.05</number>
+<number shadow='shadow1' tooltip='4:20 4-5-ARZ 26ARZ 20 SF 29 LI: 0.69-P.Dawson 44 yard field goal is GOOD Center-47-K.McDermott Holder-4-A.Lee.'>55.67</number><number>0.05</number>
+<number shadow='shadow1' tooltip='4:20 ARZ 20 SF 32 LI: 9-P.Dawson kicks 65 yards from SF 35 to end zone Touchback.'>55.76</number><number>0.03</number>
+<number shadow='shadow1' tooltip='3:55 1-10-ARZ 36ARZ 20 SF 32 LI: 0.3(No Huddle Shotgun) 3-C.Palmer pass short right to 12-A.Roberts to ARZ 41 for 5 yards(26-T.Brock)Caught at ARZ 41 0-yds YAC'>56.08</number><number>0.02</number>
+<number shadow='shadow1' tooltip='3:30 2-5-ARZ 41ARZ 20 SF 32 LI: 0.1(No Huddle Shotgun) 3-C.Palmer pass short right to 38-A.Ellington to ARZ 47 for 6 yards(52-P.Willis)Caught at ARZ 38 9-yds YAC'>56.5</number><number>0.02</number>
+<number shadow='shadow1' tooltip='3:23 1-10-ARZ 47ARZ 20 SF 32 LI: 0.1(Shotgun) 3-C.Palmer pass incomplete short left to 11-L.Fitzgerald [94-J.Smith].'>56.62</number><number>0.02</number>
+<number shadow='shadow1' tooltip='3:17 2-10-ARZ 47ARZ 20 SF 32 LI: 0.1(Shotgun) 3-C.Palmer pass incomplete short right.'>56.72</number><number>0.01</number>
+<number shadow='shadow1' tooltip='3:11 3-10-ARZ 47ARZ 20 SF 32 LI: 0.1(Shotgun) 3-C.Palmer pass incomplete short middle to 10-B.GoldenPENALTY on SF-55-A.Brooks Defensive Offside 5 yards enforced at ARZ 47 - No Play.'>56.82</number><number>0.01</number>
+<number shadow='shadow1' tooltip='3:08 3-5-SF 48ARZ 20 SF 32 LI: 0.1(Shotgun) 3-C.Palmer pass incomplete short left to 10-B.Golden (22-C.Rogers).'>56.87</number><number>0.01</number>
+<number shadow='shadow1' tooltip='3:04 4-5-SF 48ARZ 20 SF 32 LI: 0.1(Shotgun) 3-C.Palmer pass incomplete short right to 15-M.Floyd [94-J.Smith].'>56.93</number><number>0.01</number>
+<number shadow='shadow1' tooltip='2:59 1-10-SF 48ARZ 20 SF 32 LI: 0.1A.Snyder D.Kilgore report as eligible 24-A.Dixon right guard to SF 49 for 1 yard(52-J.Brinkley).'>57.02</number><number>0.01</number>
+<number shadow='shadow1' tooltip='2:14 2-9-SF 49ARZ 20 SF 32 LI: 0.1A.Snyder D.Kilgore report as eligible 24-A.Dixon right tackle to ARZ 49 for 2 yards(58-D.Washington).'>57.77</number><number>0.01</number>
+<number shadow='shadow1' tooltip='2:09 3-7-ARZ 49ARZ 20 SF 32 LI: 0.124-A.Dixon left guard to ARZ 48 for 1 yard(52-J.Brinkley).'>57.85</number><number>0.01</number>
+<number shadow='shadow1' tooltip='2:00 4-6-ARZ 48ARZ 20 SF 32 LI: 0.14-A.Lee punts 45 yards to ARZ 3 Center-47-K.McDermott21-P.Peterson MUFFS catch and recovers at ARZ 521-P.Peterson to ARZ 5 for no gain (14-K.Osgood).'>58</number><number>0.01</number>
+<number shadow='shadow1' tooltip='1:51 1-10-ARZ 5ARZ 20 SF 32 LI: 0.1(Shotgun) 3-C.Palmer pass short right to 11-L.Fitzgerald to ARZ 14 for 9 yards(22-C.Rogers)Caught at ARZ 12 2-yds YAC'>58.15</number><number>0.01</number>
+<number shadow='shadow1' tooltip='1:17 2-1-ARZ 14ARZ 20 SF 32 LI: 0.1(Shotgun) 3-C.Palmer pass short left to 84-R.Housler to ARZ 18 for 4 yards(22-C.Rogers; 31-D.Whitner)Caught at ARZ 16 2-yds YAC'>58.72</number><number>0.01</number>
+<number shadow='shadow1' tooltip='0:52 1-10-ARZ 18ARZ 20 SF 32 LI: 0.1(No Huddle Shotgun) 3-C.Palmer pass incomplete short right to 12-A.Roberts [63-T.Jerod-Eddie].'>59.13</number><number>0.01</number>
+<number shadow='shadow1' tooltip='0:46 2-10-ARZ 18ARZ 20 SF 32 LI: 0.1(Shotgun) 3-C.Palmer pass short middle to 38-A.Ellington to ARZ 30 for 12 yards(52-P.Willis)Caught at ARZ 24 6-yds YAC'>59.23</number><number>0.01</number>
+<number shadow='shadow1' tooltip='0:24 1-10-ARZ 30ARZ 20 SF 32 LI: 0.1(No Huddle Shotgun) 3-C.Palmer pass short middle to 84-R.Housler to ARZ 37 for 7 yards(53-N.Bowman)Caught at ARZ 35 2-yds YAC'>59.6</number><number>0</number>
+<number>60</number><number>0</number>
+</row> </chart_data>
+       <draw>
+
+
+
+      <image x='45' y='298'  url='nfllogos/42x50png/ARZ.gif'  layer='foreground' glow = 'glow1'/>
+      <image x='45' y='350'  url='nfllogos/42x50png/SF.gif'     layer='foreground' glow = 'glow1'/>
+
+
+      <rect x='130' y='300' width='250' height='40' fill_color='b0063a' bevel='bevel1' />
+      <text x='135' y='300' width='250' height='40' h_align='left' v_align='middle' color='ffffff' shadow='shadow2' glow=''>Arizona Cardinals</text>
+
+      <rect x='130' y='350' width='250' height='40' fill_color='a9293d' bevel='bevel1'  />
+      <text x='135' y='350' width='250' height='40' h_align='left' v_align='middle' color='ffffff' shadow='shadow2' glow='winnerglow'>San Francisco 49ers</text>
+
+      <rect x='420' y='300' width='60' height='40' fill_color='b0063a' bevel='bevel1'  />
+      <text x='420' y='300' width='60' height='40' h_align='center' v_align='middle' color='ffffff' shadow='shadow2' transition='none' glow=''>20</text>
+
+      <rect x='420' y='350' width='60' height='40' fill_color='a9293d' bevel='bevel1' />
+      <text x='420' y='350' width='60' height='40' h_align='center' v_align='middle' color='ffffff' shadow='shadow2' transition='none' glow='winnerglow'>32</text>
+
+      <text x='-3' y='12'  width='60' height='40' h_align='center' v_align='middle' size='13' shadow='shadow2'>ARZWin </text>
+      <text x='-3' y='218' width='60' height='40' h_align='center' v_align='middle' size='13' shadow='shadow2'>SFWin </text>
+
+     
+              <rect x='540' y='300' width='100' height='35' fill_color='000000' fill_alpha='50'/>
+              <text x='540' y='300' width='100' height='35' h_align='center' v_align='middle' color='ffffff' size='15' shadow='shadow2' >Final</text>
+
+              <text x='540' y='340' width='40' h_align='center' color='000000' size='12' shadow='shadow2'>CBF</text>
+              <text x='600' y='340' width='40' h_align='center' color='000000' size='12' shadow='shadow2'>EI</text>
+
+              <rect x='540' y='360' width='40' height='30' fill_color='000000' fill_alpha='50' />
+              <text x='540' y='360' width='40' height='30' size='12' h_align='center' v_align='middle' color='FFFFFF' shadow='shadow2'>2</text>
+
+              <rect x='600' y='360' width='40' height='30' fill_color='000000' fill_alpha='50' />
+              <text x='600' y='360' width='40' height='30' size='12' h_align='center' v_align='middle' color='FFFFFF' shadow='shadow2'>4.5</text>
+
+              <text x='20' y='420' width='70' height='25' size='12' h_align='left' v_align='middle' color='000000' >10/13/2013</text>
+              <text x='100' y='420' width='200' height='25' size='12' h_align='left' v_align='middle' color='000000' >Candlestick Park</text>
+
+   </draw></chart>

@@ -1,0 +1,296 @@
+
+<chart>
+   <license>ETAS9P33ESHO.945CWK-2XOI1X0-7L</license>
+   <chart_type>scatter</chart_type>
+   <chart_pref trend_thickness='0' line_thickness='3' point_size='0'/>
+
+   <series_color>
+      <color>ffff00</color>
+   </series_color>
+
+   <chart_rect x='45' y='20' width='630' height='230' positive_color='cacaca'  />
+
+  <chart_border top_thickness='0'
+                 bottom_thickness='0'
+                 left_thickness='0'
+                 right_thickness='0'
+                 color='000000'
+                 />
+
+   <tooltip font='Arial' bold='true' size='11' />
+
+   <chart_note type='flag'
+               color='000000'
+               alpha='90'
+               bold='FALSE'
+               size='10'
+               background_color='ffffe0'
+               background_alpha='50'
+               shadow='shadow2'
+               />
+
+   <chart_grid_h thickness='2' color='ffffff' type='dashed'  />
+   <chart_grid_v thickness='2' color='ffffff'   />
+		>
+
+   <legend layout='hide' />
+
+   <chart_guide horizontal='TRUE'
+             vertical='TRUE'
+             thickness='1'
+             color='006400'
+             alpha='100'
+             type='solid'
+             snap_h='TRUE'
+             snap_v='TRUE'
+             radius='3'
+             fill_color='006400'
+             fill_alpha='100'
+             line_color='006400'
+             line_alpha='80'
+             line_thickness='1'
+             text_h_alpha='50'
+             text_v_alpha='00'
+             suffix_h=' WP'
+             decimals='2'
+             bold='FALSE'
+             size='11'
+             text_color='FFFFFF'
+             background_color='006400'
+             />
+   <filter>
+      <shadow id='shadow1' distance='2' angle='60' blurX='5' blurY='5' alpha='50' />
+      <bevel id='bevel1' angle='45' blurX='5' blurY='5' distance='0' />
+      <glow id='glow1' color='ffffff' alpha='0' blurX='7' blurY='7' strength='6' quality='2' inner='FALSE' knockout='FALSE' />
+      <glow id='winnerglow' color='ffffff' alpha='0' blurX='7' blurY='7' strength='5' quality='2' inner='FALSE' knockout='FALSE' />
+   </filter>
+
+    <axis_value_label>
+         <string></string>
+          <string> </string>
+          <null/>
+          <string> </string>
+          <string></string>
+
+       </axis_value_label>
+		
+	   <axis_ticks category_ticks='false'/>
+
+       <axis_value min='0' max='1' steps='4'  decimals='2' show_min='true' size='13' shadow='shadow2' />     
+            <axis_category
+               min='0'
+               max='60'
+               steps='4'
+               mode='all'
+               decimals='0'
+               size='13'
+               shadow='shadow2'
+               />
+
+       <axis_category_label>
+          <string>Kickoff</string>
+          <string></string>
+          <string>Halftime</string>
+          <string></string>
+          <string>End</string>
+
+       </axis_category_label>
+
+
+        <chart_data>
+       <row>
+	      <null/><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number>
+              <number>x</number><number>y</number>
+              </row><row><string></string>
+
+                     <number shadow='shadow1'>0</number><number>.5</number><number shadow='shadow1' tooltip='15:00 SEA 0 ATL 0 LI: 4-S.Hauschka kicks 70 yards from SEA 35 to ATL -532-J.Rodgers to ATL 14 for 19 yards(15-J.Kearse).'>0.09</number><number>0.5</number>
+<number shadow='shadow1' tooltip='14:26 2-8-ATL 16SEA 0 ATL 0 LI: 1.439-S.Jackson right guard to ATL 20 for 4 yards(99-T.McDaniel; 50-K.Wright).'>0.57</number><number>0.51</number>
+<number shadow='shadow1' tooltip='13:50 3-4-ATL 20SEA 0 ATL 0 LI: 1.3(Shotgun) 2-M.Ryan pass incomplete short right to 39-S.Jackson (29-E.Thomas).'>1.17</number><number>0.55</number>
+<number shadow='shadow1' tooltip='13:45 4-4-ATL 20SEA 0 ATL 0 LI: 0.95-M.Bosher punts 59 yards to SEA 21 Center-47-J.Harris81-G.Tate to SEA 31 for 10 yards(35-A.Smith; 47-J.Harris).'>1.25</number><number>0.54</number>
+<number shadow='shadow1' tooltip='13:30 1-10-SEA 31SEA 0 ATL 0 LI: 1.53-R.Wilson pass short middle to 24-M.Lynch to SEA 35 for 4 yards(55-P.Worrilow; 52-A.Dent).'>1.5</number><number>0.53</number>
+<number shadow='shadow1' tooltip='12:54 2-6-SEA 35SEA 0 ATL 0 LI: 1.324-M.Lynch right end to SEA 39 for 4 yards(55-P.Worrilow; 52-A.Dent).'>2.1</number><number>0.53</number>
+<number shadow='shadow1' tooltip='12:10 3-2-SEA 39SEA 0 ATL 0 LI: 1.224-M.Lynch right end to SEA 42 for 3 yards(59-J.Bartu; 25-W.Moore).'>2.83</number><number>0.55</number>
+<number shadow='shadow1' tooltip='11:30 1-10-SEA 42SEA 0 ATL 0 LI: 1.43-R.Wilson pass incomplete short left to 89-D.Baldwin (21-D.Trufant).'>3.5</number><number>0.53</number>
+<number shadow='shadow1' tooltip='11:26 2-10-SEA 42SEA 0 ATL 0 LI: 1.222-R.Turbin left end ran ob at SEA 48 for 6 yards(21-D.Trufant).'>3.57</number><number>0.54</number>
+<number shadow='shadow1' tooltip='10:50 3-4-SEA 48SEA 0 ATL 0 LI: 1.13-R.Wilson pass short left to 24-M.Lynch pushed ob at ATL 43 for 9 yards(28-T.DeCoud).'>4.17</number><number>0.58</number>
+<number shadow='shadow1' tooltip='10:16 1-10-ATL 43SEA 0 ATL 0 LI: 1.33-R.Wilson pass short right to 82-L.Willson ran ob at ATL 24 for 19 yards(22-A.Samuel).'>4.73</number><number>0.63</number>
+<number shadow='shadow1' tooltip='9:40 1-10-ATL 24SEA 0 ATL 0 LI: 1.5(Shotgun) 3-R.Wilson pass short right to 22-R.Turbin to ATL 29 for -5 yards(95-J.Babineaux).'>5.33</number><number>0.59</number>
+<number shadow='shadow1' tooltip='8:53 2-15-ATL 29SEA 0 ATL 0 LI: 1.2(Shotgun) 3-R.Wilson pass short right to 24-M.Lynch pushed ob at ATL 26 for 3 yards(55-P.Worrilow; 22-A.Samuel).'>6.12</number><number>0.58</number>
+<number shadow='shadow1' tooltip='8:21 3-12-ATL 26SEA 0 ATL 0 LI: 1.1(Shotgun) 24-M.Lynch right guard to ATL 21 for 5 yards(55-P.Worrilow; 96-J.Massaquoi).'>6.65</number><number>0.56</number>
+<number shadow='shadow1' tooltip='7:37 4-7-ATL 21SEA 0 ATL 0 LI: 0.84-S.Hauschka 39 yard field goal is GOOD Center-49-C.Gresham Holder-9-J.Ryan.'>7.38</number><number>0.58</number>
+<number shadow='shadow1' tooltip='7:37 SEA 3 ATL 0 LI: 4-S.Hauschka kicks 65 yards from SEA 35 to end zone Touchback.'>7.47</number><number>0.6</number>
+<number shadow='shadow1' tooltip='6:48 1-10-ATL 40SEA 3 ATL 0 LI: 1.439-S.Jackson left tackle to ATL 40 for no gain (50-K.Wright).'>8.2</number><number>0.56</number>
+<number shadow='shadow1' tooltip='6:06 2-10-ATL 40SEA 3 ATL 0 LI: 1.3(Shotgun) 2-M.Ryan pass incomplete short left to 32-J.Rodgers.'>8.9</number><number>0.58</number>
+<number shadow='shadow1' tooltip='6:01 3-10-ATL 40SEA 3 ATL 0 LI: 1.1(Shotgun) 2-M.Ryan pass incomplete short right to 84-R.White (39-B.Browner).'>8.98</number><number>0.61</number>
+<number shadow='shadow1' tooltip='5:54 4-10-ATL 40SEA 3 ATL 0 LI: 0.85-M.Bosher punts 53 yards to SEA 7 Center-47-J.Harris downed by ATL-53-O.Gaither.'>9.1</number><number>0.59</number>
+<number shadow='shadow1' tooltip='5:42 1-10-SEA 7SEA 3 ATL 0 LI: 1.622-R.Turbin right tackle to SEA 9 for 2 yards(55-P.Worrilow).'>9.3</number><number>0.58</number>
+<number shadow='shadow1' tooltip='5:02 2-8-SEA 9SEA 3 ATL 0 LI: 1.53-R.Wilson pass deep right to 81-G.Tate pushed ob at SEA 40 for 31 yards(25-W.Moore)PENALTY on ATL-25-W.Moore Unnecessary Roughness 15 yards enforced at SEA 40.'>9.97</number><number>0.68</number>
+<number shadow='shadow1' tooltip='4:39 1-10-ATL 45SEA 3 ATL 0 LI: 1.43-R.Wilson pass short right to 89-D.Baldwin to ATL 36 for 9 yards(22-A.Samuel).'>10.35</number><number>0.69</number>
+<number shadow='shadow1' tooltip='4:03 2-1-ATL 36SEA 3 ATL 0 LI: 1.324-M.Lynch left end to ATL 32 for 4 yards(52-A.Dent).'>10.95</number><number>0.7</number>
+<number shadow='shadow1' tooltip='3:20 1-10-ATL 32SEA 3 ATL 0 LI: 1.3(Shotgun) 22-R.Turbin left tackle to ATL 30 for 2 yards(59-J.Bartu; 95-J.Babineaux).'>11.67</number><number>0.69</number>
+<number shadow='shadow1' tooltip='2:41 2-8-ATL 30SEA 3 ATL 0 LI: 1.23-R.Wilson sacked at ATL 38 for -8 yards(59-J.Bartu).'>12.32</number><number>0.64</number>
+<number shadow='shadow1' tooltip='2:02 3-16-ATL 38SEA 3 ATL 0 LI: 0.8(Shotgun) 3-R.Wilson pass incomplete deep left to 83-R.Lockette.'>12.97</number><number>0.62</number>
+<number shadow='shadow1' tooltip='1:54 4-16-ATL 38SEA 3 ATL 0 LI: 0.69-J.Ryan punts 28 yards to ATL 10 Center-49-C.Gresham fair catch by 27-R.McClain.'>13.1</number><number>0.62</number>
+<number shadow='shadow1' tooltip='1:47 1-10-ATL 10SEA 3 ATL 0 LI: 1.539-S.Jackson right tackle to ATL 10 for no gain (70-M.Brooks).'>13.22</number><number>0.63</number>
+<number shadow='shadow1' tooltip='1:05 2-10-ATL 10SEA 3 ATL 0 LI: 1.42-M.Ryan pass incomplete short middle to 88-T.GonzalezPENALTY on SEA-51-B.Irvin Defensive Offside 5 yards enforced at ATL 10 - No Play.'>13.92</number><number>0.61</number>
+<number shadow='shadow1' tooltip='1:01 2-5-ATL 15SEA 3 ATL 0 LI: 1.3(Shotgun) 39-S.Jackson right tackle to ATL 17 for 2 yards(50-K.Wright; 31-K.Chancellor).'>13.98</number><number>0.62</number>
+<number shadow='shadow1' tooltip='0:27 3-3-ATL 17SEA 3 ATL 0 LI: 1.1(Shotgun) 2-M.Ryan pass short middle to 39-S.Jackson to ATL 19 for 2 yards(50-K.Wright).'>14.55</number><number>0.65</number>
+<number shadow='shadow1' tooltip='15:00 4-1-ATL 19SEA 3 ATL 0 LI: 0.75-M.Bosher punts 53 yards to SEA 28 Center-47-J.Harris81-G.Tate to SEA 41 for 13 yards(35-A.Smith).'>15</number><number>0.65</number>
+<number shadow='shadow1' tooltip='14:49 1-10-SEA 41SEA 3 ATL 0 LI: 1.424-M.Lynch left guard to SEA 48 for 7 yards(91-C.Peters).'>15.18</number><number>0.65</number>
+<number shadow='shadow1' tooltip='14:13 2-3-SEA 48SEA 3 ATL 0 LI: 1.23-R.Wilson pass incomplete short right to 89-D.Baldwin.'>15.78</number><number>0.64</number>
+<number shadow='shadow1' tooltip='14:07 3-3-SEA 48SEA 3 ATL 0 LI: 1.1(Shotgun) 3-R.Wilson pass deep left to 15-J.Kearse to ATL 29 for 23 yards(21-D.Trufant).'>15.88</number><number>0.7</number>
+<number shadow='shadow1' tooltip='13:23 1-10-ATL 29SEA 3 ATL 0 LI: 1.124-M.Lynch left tackle to ATL 23 for 6 yards(55-P.Worrilow; 25-W.Moore).'>16.62</number><number>0.74</number>
+<number shadow='shadow1' tooltip='12:43 2-4-ATL 23SEA 3 ATL 0 LI: 1.424-M.Lynch right end pushed ob at ATL 25 for -2 yards(25-W.Moore).'>17.28</number><number>0.71</number>
+<number shadow='shadow1' tooltip='12:05 3-6-ATL 25SEA 3 ATL 0 LI: 1.1(Shotgun) 3-R.Wilson pass deep right to 81-G.Tate to ATL 2 for 23 yards(22-A.Samuel) [50-O.Umenyiora]Atlanta challenged the pass completion ruling and the play was REVERSED(Shotgun) 3-R.Wilson pass incomplete deep right to 81-G.Tate [50-O.Umenyiora].'>17.92</number><number>0.66</number>
+<number shadow='shadow1' tooltip='11:58 4-6-ATL 25SEA 3 ATL 0 LI: 0.64-S.Hauschka 43 yard field goal is GOOD Center-49-C.Gresham Holder-9-J.Ryan.'>18.03</number><number>0.68</number>
+<number shadow='shadow1' tooltip='11:58 SEA 6 ATL 0 LI: 4-S.Hauschka kicks 65 yards from SEA 35 to end zone Touchback.'>18.12</number><number>0.69</number>
+<number shadow='shadow1' tooltip='11:11 1-10-ATL 34SEA 6 ATL 0 LI: 1.22-M.Ryan pass short left to 44-J.Snelling to ATL 38 for 4 yards(51-B.Irvin).'>18.82</number><number>0.67</number>
+<number shadow='shadow1' tooltip='10:41 2-6-ATL 38SEA 6 ATL 0 LI: 1.132-J.Rodgers right guard to SEA 45 for 17 yards(25-R.Sherman).'>19.32</number><number>0.64</number>
+<number shadow='shadow1' tooltip='9:57 1-10-SEA 45SEA 6 ATL 0 LI: 1.1(Shotgun) 2-M.Ryan pass short right to 32-J.Rodgers to SEA 49 for -4 yards(28-W.Thurmond).'>20.05</number><number>0.66</number>
+<number shadow='shadow1' tooltip='9:25 2-14-SEA 49SEA 6 ATL 0 LI: 0.939-S.Jackson right tackle to SEA 44 for 5 yards(25-R.Sherman).'>20.58</number><number>0.67</number>
+<number shadow='shadow1' tooltip='8:42 3-9-SEA 44SEA 6 ATL 0 LI: 0.8(Shotgun) 2-M.Ryan scrambles up the middle to SEA 34 for 10 yards.'>21.3</number><number>0.63</number>
+<number shadow='shadow1' tooltip='8:03 1-10-SEA 34SEA 6 ATL 0 LI: 12-M.Ryan pass incomplete short left to 88-T.Gonzalez.'>21.95</number><number>0.64</number>
+<number shadow='shadow1' tooltip='7:58 2-10-SEA 34SEA 6 ATL 0 LI: 0.939-S.Jackson right end to SEA 33 for 1 yard(99-T.McDaniel).'>22.03</number><number>0.65</number>
+<number shadow='shadow1' tooltip='7:15 3-9-SEA 33SEA 6 ATL 0 LI: 0.8(Shotgun) 2-M.Ryan pass short left to 83-H.Douglas to SEA 35 for -2 yards(28-W.Thurmond).'>22.75</number><number>0.68</number>
+<number shadow='shadow1' tooltip='6:37 4-11-SEA 35SEA 6 ATL 0 LI: 0.53-M.Bryant 53 yard field goal is GOOD Center-47-J.Harris Holder-5-M.Bosher.'>23.38</number><number>0.63</number>
+<number shadow='shadow1' tooltip='6:37 SEA 6 ATL 3 LI: 3-M.Bryant kicks 65 yards from ATL 35 to end zone Touchback.'>23.47</number><number>0.62</number>
+<number shadow='shadow1' tooltip='6:30 1-10-SEA 20SEA 6 ATL 3 LI: 1.424-M.Lynch right end to ATL 43 for 37 yards(21-D.Trufant; 28-T.DeCoud).'>23.5</number><number>0.68</number>
+<number shadow='shadow1' tooltip='5:33 1-10-ATL 43SEA 6 ATL 3 LI: 1.23-R.Wilson pass deep left to 15-J.Kearse for 43 yards TOUCHDOWNWilsons pass came after throwback from Lynch.'>24.45</number><number>0.8</number>
+<number shadow='shadow1' tooltip='5:33 SEA 6 ATL 3 LI: 4-S.Hauschka extra point is GOOD Center-49-C.Gresham Holder-9-J.Ryan.'>24.49</number><number>0.8</number>
+<number shadow='shadow1' tooltip='5:33 SEA 13 ATL 3 LI: 4-S.Hauschka kicks 65 yards from SEA 35 to end zone Touchback.'>24.54</number><number>0.81</number>
+<number shadow='shadow1' tooltip='4:51 2-5-ATL 25SEA 13 ATL 3 LI: 12-M.Ryan pass short left to 83-H.Douglas to ATL 29 for 4 yards(28-W.Thurmond).'>25.15</number><number>0.81</number>
+<number shadow='shadow1' tooltip='4:06 3-1-ATL 29SEA 13 ATL 3 LI: 1(Shotgun) 2-M.Ryan pass incomplete short right to 83-H.Douglas.'>25.9</number><number>0.85</number>
+<number shadow='shadow1' tooltip='4:01 4-1-ATL 29SEA 13 ATL 3 LI: 0.65-M.Bosher punts 46 yards to SEA 25 Center-47-J.Harris fair catch by 81-G.Tate.'>25.98</number><number>0.84</number>
+<number shadow='shadow1' tooltip='3:53 1-10-SEA 25SEA 13 ATL 3 LI: 1.23-R.Wilson pass short right to 81-G.Tate to ATL 29 for 46 yards(52-A.Dent; 59-J.Bartu).'>26.12</number><number>0.91</number>
+<number shadow='shadow1' tooltip='3:00 1-10-ATL 29SEA 13 ATL 3 LI: 1.124-M.Lynch left end to ATL 27 for 2 yards(95-J.Babineaux).'>27</number><number>0.88</number>
+<number shadow='shadow1' tooltip='2:23 2-8-ATL 27SEA 13 ATL 3 LI: 0.824-M.Lynch up the middle to ATL 26 for 1 yard(52-A.Dent).'>27.62</number><number>0.87</number>
+<number shadow='shadow1' tooltip='2:00 3-7-ATL 26SEA 13 ATL 3 LI: 0.7(Shotgun) 3-R.Wilson pass incomplete short right to 89-D.Baldwin (21-D.Trufant) [90-S.Maponga].'>28</number><number>0.85</number>
+<number shadow='shadow1' tooltip='1:56 4-7-ATL 26SEA 13 ATL 3 LI: 0.54-S.Hauschka 44 yard field goal is GOOD Center-49-C.Gresham Holder-9-J.Ryan.'>28.07</number><number>0.87</number>
+<number shadow='shadow1' tooltip='1:56 SEA 16 ATL 3 LI: 4-S.Hauschka kicks 65 yards from SEA 35 to end zone Touchback.'>28.16</number><number>0.88</number>
+<number shadow='shadow1' tooltip='1:32 1-10-ATL 30SEA 16 ATL 3 LI: 0.9(No Huddle Shotgun) 2-M.Ryan pass incomplete short left to 13-D.Johnson.'>28.47</number><number>0.88</number>
+<number shadow='shadow1' tooltip='1:28 2-10-ATL 30SEA 16 ATL 3 LI: 0.7(Shotgun) 2-M.Ryan scrambles up the middle to ATL 36 for 6 yards.'>28.53</number><number>0.87</number>
+<number shadow='shadow1' tooltip='1:21 3-4-ATL 36SEA 16 ATL 3 LI: 0.6(Shotgun) 2-M.Ryan pass incomplete short left to 88-T.Gonzalez.'>28.65</number><number>0.9</number>
+<number shadow='shadow1' tooltip='1:16 4-4-ATL 36SEA 16 ATL 3 LI: 0.35-M.Bosher punts 56 yards to SEA 8 Center-47-J.Harris81-G.Tate pushed ob at SEA 40 for 32 yards(5-M.Bosher).'>28.73</number><number>0.91</number>
+<number shadow='shadow1' tooltip='1:03 1-10-SEA 40SEA 16 ATL 3 LI: 0.8(Shotgun) 3-R.Wilson pass short left to 89-D.Baldwin pushed ob at SEA 44 for 4 yards(23-R.Alford; 55-P.Worrilow).'>28.95</number><number>0.91</number>
+<number shadow='shadow1' tooltip='0:55 2-6-SEA 44SEA 16 ATL 3 LI: 0.7(Shotgun) 3-R.Wilson pass short right to 89-D.Baldwin to 50 for 6 yards(22-A.Samuel).'>29.08</number><number>0.91</number>
+<number shadow='shadow1' tooltip='0:36 1-10-50SEA 16 ATL 3 LI: 0.7(No Huddle Shotgun) 3-R.Wilson pass short right to 15-J.Kearse ran ob at ATL 41 for 9 yards(22-A.Samuel).'>29.4</number><number>0.93</number>
+<number shadow='shadow1' tooltip='0:31 2-1-ATL 41SEA 16 ATL 3 LI: 0.8(Shotgun) 3-R.Wilson pass short left to 89-D.Baldwin to ATL 11 for 30 yards(28-T.DeCoud).'>29.48</number><number>0.94</number>
+<number shadow='shadow1' tooltip='0:23 1-10-ATL 11SEA 16 ATL 3 LI: 0.5(Shotgun) PENALTY on SEA-15-J.Kearse False Start 5 yards enforced at ATL 11 - No Play.'>29.62</number><number>0.95</number>
+<number shadow='shadow1' tooltip='0:20 2-15-ATL 16SEA 16 ATL 3 LI: 0.3(Shotgun) 3-R.Wilson scrambles left end to ATL 6 for 10 yards(23-R.Alford).'>29.67</number><number>0.93</number>
+<number shadow='shadow1' tooltip='0:08 3-5-ATL 6SEA 16 ATL 3 LI: 0.4(Shotgun) 3-R.Wilson pass short left to 81-G.Tate for 6 yards TOUCHDOWNThe Replay Assistant challenged the pass completion ruling and the play was Upheld.'>29.87</number><number>0.95</number>
+<number shadow='shadow1' tooltip='0:08 SEA 16 ATL 3 LI: 4-S.Hauschka extra point is GOOD Center-49-C.Gresham Holder-9-J.Ryan.'>29.91</number><number>0.95</number>
+<number shadow='shadow1' tooltip='0:08 SEA 23 ATL 3 LI: 4-S.Hauschka kicks 65 yards from SEA 35 to end zone Touchback.'>29.96</number><number>0.95</number>
+<number shadow='shadow1' tooltip='0:01 1-10-ATL 20SEA 23 ATL 3 LI: 0.32-M.Ryan kneels to ATL 19 for -1 yards.'>29.98</number><number>0.94</number>
+<number shadow='shadow1' tooltip='0:01 SEA 23 ATL 3 LI: 3-M.Bryant kicks 67 yards from ATL 35 to SEA -215-J.Kearse to SEA 20 for 22 yards(15-K.Cone).'>30.07</number><number>0.94</number>
+<number shadow='shadow1' tooltip='14:53 1-10-SEA 20SEA 23 ATL 3 LI: 0.324-M.Lynch left guard to SEA 31 for 11 yards(21-D.Trufant).'>30.12</number><number>0.94</number>
+<number shadow='shadow1' tooltip='14:15 1-10-SEA 31SEA 23 ATL 3 LI: 0.2(Shotgun) 24-M.Lynch left tackle to SEA 34 for 3 yards(50-O.Umenyiora).'>30.75</number><number>0.96</number>
+<number shadow='shadow1' tooltip='13:35 2-7-SEA 34SEA 23 ATL 3 LI: 0.33-R.Wilson scrambles left end ran ob at SEA 42 for 8 yards(55-P.Worrilow).'>31.42</number><number>0.95</number>
+<number shadow='shadow1' tooltip='13:05 1-10-SEA 42SEA 23 ATL 3 LI: 0.124-M.Lynch left guard to SEA 45 for 3 yards(50-O.Umenyiora; 59-J.Bartu).'>31.92</number><number>0.96</number>
+<number shadow='shadow1' tooltip='12:30 2-7-SEA 45SEA 23 ATL 3 LI: 0.224-M.Lynch left end to SEA 47 for 2 yards(95-J.Babineaux).'>32.5</number><number>0.96</number>
+<number shadow='shadow1' tooltip='11:49 3-5-SEA 47SEA 23 ATL 3 LI: 0.2(Shotgun) PENALTY on SEA-73-M.Bowie False Start 5 yards enforced at SEA 47 - No Play.'>33.18</number><number>0.96</number>
+<number shadow='shadow1' tooltip='11:35 3-10-SEA 42SEA 23 ATL 3 LI: 0.2(Shotgun) 3-R.Wilson pass short right to 81-G.Tate to ATL 47 for 11 yards(22-A.Samuel).'>33.42</number><number>0.96</number>
+<number shadow='shadow1' tooltip='10:57 1-10-ATL 47SEA 23 ATL 3 LI: 0.124-M.Lynch right tackle to ATL 43 for 4 yards(28-T.DeCoud; 55-P.Worrilow).'>34.05</number><number>0.97</number>
+<number shadow='shadow1' tooltip='10:07 2-6-ATL 43SEA 23 ATL 3 LI: 0.224-M.Lynch right end to ATL 34 for 9 yards(55-P.Worrilow).'>34.88</number><number>0.97</number>
+<number shadow='shadow1' tooltip='9:20 1-10-ATL 34SEA 23 ATL 3 LI: 0.13-R.Wilson pass incomplete deep right to 82-L.Willson (50-O.Umenyiora).'>35.67</number><number>0.97</number>
+<number shadow='shadow1' tooltip='9:15 2-10-ATL 34SEA 23 ATL 3 LI: 0.122-R.Turbin right end to ATL 39 for -5 yards(95-J.Babineaux).'>35.75</number><number>0.97</number>
+<number shadow='shadow1' tooltip='8:35 3-15-ATL 39SEA 23 ATL 3 LI: 0.1(Shotgun) 3-R.Wilson pass short right to 81-G.Tate to ATL 35 for 4 yards(96-J.Massaquoi; 55-P.Worrilow).'>36.42</number><number>0.97</number>
+<number shadow='shadow1' tooltip='7:55 4-11-ATL 35SEA 23 ATL 3 LI: 0.14-S.Hauschka 53 yard field goal is GOOD Center-49-C.Gresham Holder-9-J.Ryan.'>37.08</number><number>0.98</number>
+<number shadow='shadow1' tooltip='7:55 SEA 26 ATL 3 LI: 4-S.Hauschka kicks 68 yards from SEA 35 to ATL -332-J.Rodgers to ATL 18 for 21 yards(55-H.Farwell).'>37.17</number><number>0.98</number>
+<number shadow='shadow1' tooltip='7:42 1-10-ATL 18SEA 26 ATL 3 LI: 0.12-M.Ryan pass incomplete short left to 42-P.DiMarcoPENALTY on SEA-51-B.Irvin Unnecessary Roughness 15 yards enforced at ATL 18 - No Play.'>37.3</number><number>0.98</number>
+<number shadow='shadow1' tooltip='7:38 1-10-ATL 33SEA 26 ATL 3 LI: 0.139-S.Jackson right guard to ATL 34 for 1 yard(54-B.Wagner).'>37.37</number><number>0.97</number>
+<number shadow='shadow1' tooltip='6:58 2-9-ATL 34SEA 26 ATL 3 LI: 0.1(Shotgun) 2-M.Ryan pass short middle to 88-T.Gonzalez to ATL 43 for 9 yards(31-K.Chancellor)Seattle challenged the first down ruling and the play was REVERSED(Shotgun) 2-M.Ryan pass short middle to 88-T.Gonzalez to ATL 42 for 8 yards(31-K.Chancellor).'>38.03</number><number>0.97</number>
+<number shadow='shadow1' tooltip='6:16 3-1-ATL 42SEA 26 ATL 3 LI: 0.1(Shotgun) 2-M.Ryan pass short right to 83-H.Douglas to ATL 48 for 6 yards(25-R.Sherman).'>38.73</number><number>0.97</number>
+<number shadow='shadow1' tooltip='5:40 1-10-ATL 48SEA 26 ATL 3 LI: 0.139-S.Jackson right end to ATL 44 for -4 yards(92-B.Mebane).'>39.33</number><number>0.97</number>
+<number shadow='shadow1' tooltip='4:57 2-14-ATL 44SEA 26 ATL 3 LI: 0.1(Shotgun) 2-M.Ryan pass short left to 32-J.Rodgers to 50 for 6 yards(54-B.Wagner).'>40.05</number><number>0.97</number>
+<number shadow='shadow1' tooltip='4:16 3-8-50SEA 26 ATL 3 LI: 0.1(Shotgun) 2-M.Ryan pass short right to 88-T.Gonzalez to SEA 41 for 9 yards(31-K.Chancellor).'>40.73</number><number>0.97</number>
+<number shadow='shadow1' tooltip='3:41 1-10-SEA 41SEA 26 ATL 3 LI: 0.1(No Huddle) 32-J.Rodgers right guard to SEA 30 for 11 yards(31-K.Chancellor).'>41.32</number><number>0.97</number>
+<number shadow='shadow1' tooltip='3:12 1-10-SEA 30SEA 26 ATL 3 LI: 0.1(No Huddle) 32-J.Rodgers left guard to SEA 27 for 3 yards(54-B.Wagner).'>41.8</number><number>0.97</number>
+<number shadow='shadow1' tooltip='2:30 2-7-SEA 27SEA 26 ATL 3 LI: 0.1(Shotgun) 2-M.Ryan sacked at SEA 34 for -7 yards(72-M.Bennett)PENALTY on SEA-72-M.Bennett Roughing the Passer 15 yards enforced at SEA 34.'>42.5</number><number>0.97</number>
+<number shadow='shadow1' tooltip='2:14 1-10-SEA 19SEA 26 ATL 3 LI: 0.12-M.Ryan pass incomplete deep left to 84-R.White (41-B.Maxwell).'>42.77</number><number>0.97</number>
+<number shadow='shadow1' tooltip='2:08 2-10-SEA 19SEA 26 ATL 3 LI: 0.1(Shotgun) 2-M.Ryan pass incomplete short right to 84-R.White.'>42.87</number><number>0.98</number>
+<number shadow='shadow1' tooltip='2:01 3-10-SEA 19SEA 26 ATL 3 LI: 0.1(Shotgun) 2-M.Ryan pass incomplete short rightPENALTY on SEA-91-C.Clemons Defensive Offside 5 yards enforced at SEA 19 - No Play.'>42.98</number><number>0.97</number>
+<number shadow='shadow1' tooltip='1:52 3-5-SEA 14SEA 26 ATL 3 LI: 0.12-M.Ryan pass short middle to 39-S.Jackson to SEA 12 for 2 yards(56-C.Avril).'>43.13</number><number>0.98</number>
+<number shadow='shadow1' tooltip='1:07 4-3-SEA 12SEA 26 ATL 3 LI: 0.1(Shotgun) 2-M.Ryan pass short left to 13-D.Johnson for 12 yards TOUCHDOWN.'>43.88</number><number>0.97</number>
+<number shadow='shadow1' tooltip='1:07 SEA 26 ATL 3 LI: 3-M.Bryant extra point is GOOD Center-47-J.Harris Holder-5-M.Bosher.'>43.92</number><number>0.97</number>
+<number shadow='shadow1' tooltip='1:07 SEA 26 ATL 10 LI: 3-M.Bryant kicks 65 yards from ATL 35 to end zone Touchback.'>43.97</number><number>0.98</number>
+<number shadow='shadow1' tooltip='0:22 2-8-SEA 22SEA 26 ATL 10 LI: 0.3(Shotgun) 24-M.Lynch right end to SEA 24 for 2 yards(55-P.Worrilow).'>44.63</number><number>0.97</number>
+<number shadow='shadow1' tooltip='15:00 3-6-SEA 24SEA 26 ATL 10 LI: 0.3(Shotgun) 3-R.Wilson pass deep left to 89-D.Baldwin ran ob at ATL 49 for 27 yards(21-D.Trufant).'>45</number><number>0.98</number>
+<number shadow='shadow1' tooltip='14:45 1-10-ATL 49SEA 26 ATL 10 LI: 0.224-M.Lynch left end pushed ob at ATL 36 for 13 yards(52-A.Dent; 55-P.Worrilow).'>45.25</number><number>0.98</number>
+<number shadow='shadow1' tooltip='13:59 1-10-ATL 36SEA 26 ATL 10 LI: 0.124-M.Lynch left tackle to ATL 31 for 5 yards(59-J.Bartu; 95-J.Babineaux).'>46.02</number><number>0.98</number>
+<number shadow='shadow1' tooltip='13:14 2-5-ATL 31SEA 26 ATL 10 LI: 0.124-M.Lynch left end pushed ob at ATL 18 for 13 yards(55-P.Worrilow).'>46.77</number><number>0.98</number>
+<number shadow='shadow1' tooltip='12:36 1-10-ATL 18SEA 26 ATL 10 LI: 0.1(Shotgun) 22-R.Turbin right end to ATL 14 for 4 yards(55-P.Worrilow).'>47.4</number><number>0.99</number>
+<number shadow='shadow1' tooltip='11:40 2-6-ATL 14SEA 26 ATL 10 LI: 0.124-M.Lynch left end to ATL 9 for 5 yards(55-P.Worrilow).'>48.33</number><number>0.99</number>
+<number shadow='shadow1' tooltip='11:05 3-1-ATL 9SEA 26 ATL 10 LI: 0.1(Shotgun) 22-R.Turbin right end to ATL 8 for 1 yard(95-J.Babineaux).'>48.92</number><number>0.99</number>
+<number shadow='shadow1' tooltip='10:19 1-8-ATL 8SEA 26 ATL 10 LI: 0.1(Shotgun) 24-M.Lynch right guard to ATL 3 for 5 yards(50-O.Umenyiora; 25-W.Moore).'>49.68</number><number>0.99</number>
+<number shadow='shadow1' tooltip='9:40 2-3-ATL 3SEA 26 ATL 10 LI: 0.124-M.Lynch right guard to ATL 1 for 2 yards(91-C.Peters; 50-O.Umenyiora).'>50.33</number><number>0.99</number>
+<number shadow='shadow1' tooltip='8:54 3-1-ATL 1SEA 26 ATL 10 LI: 0.124-M.Lynch left end for 1 yard TOUCHDOWN.'>51.1</number><number>0.99</number>
+<number shadow='shadow1' tooltip='8:54 SEA 26 ATL 10 LI: 4-S.Hauschka extra point is GOOD Center-49-C.Gresham Holder-9-J.Ryan.'>51.14</number><number>0.99</number>
+<number shadow='shadow1' tooltip='8:54 SEA 33 ATL 10 LI: 4-S.Hauschka kicks 71 yards from SEA 35 to ATL -632-J.Rodgers to ATL 18 for 24 yards(15-J.Kearse).'>51.19</number><number>0.99</number>
+<number shadow='shadow1' tooltip='8:42 1-10-ATL 18SEA 33 ATL 10 LI: 0.1(Shotgun) 2-M.Ryan sacked at ATL 15 for -3 yards(56-C.Avril)PENALTY on SEA-56-C.Avril Horse Collar Tackle 15 yards enforced at ATL 15.'>51.3</number><number>0.99</number>
+<number shadow='shadow1' tooltip='8:11 1-10-ATL 30SEA 33 ATL 10 LI: 0.1(Shotgun) 2-M.Ryan pass short middle to 83-H.Douglas to ATL 36 for 6 yards(28-W.Thurmond).'>51.82</number><number>0.99</number>
+<number shadow='shadow1' tooltip='7:36 2-4-ATL 36SEA 33 ATL 10 LI: 0.1(Shotgun) 2-M.Ryan pass incomplete short right to 39-S.Jackson [72-M.Bennett].'>52.4</number><number>0.99</number>
+<number shadow='shadow1' tooltip='7:31 3-4-ATL 36SEA 33 ATL 10 LI: 0.1(Shotgun) 2-M.Ryan sacked at ATL 26 for -10 yards(72-M.Bennett)PENALTY on SEA-31-K.Chancellor Defensive Holding 5 yards enforced at ATL 36 - No Play.'>52.48</number><number>0.99</number>
+<number shadow='shadow1' tooltip='7:16 1-10-ATL 41SEA 33 ATL 10 LI: 0.1(Shotgun) 44-J.Snelling left guard to ATL 48 for 7 yards(50-K.Wright; 31-K.Chancellor).'>52.73</number><number>0.99</number>
+<number shadow='shadow1' tooltip='6:51 2-3-ATL 48SEA 33 ATL 10 LI: 0.1(No Huddle Shotgun) 2-M.Ryan pass short middle to 83-H.Douglas to ATL 49 for 1 yard(28-W.Thurmond).'>53.15</number><number>0.99</number>
+<number shadow='shadow1' tooltip='6:16 3-2-ATL 49SEA 33 ATL 10 LI: 0.1(No Huddle Shotgun) 2-M.Ryan pass short middle to 83-H.Douglas to SEA 20 for 31 yards(28-W.Thurmond)FUMBLES (28-W.Thurmond) RECOVERED by SEA-28-W.Thurmond at SEA 1428-W.Thurmond to SEA 12 for -2 yards(44-J.Snelling).'>53.73</number><number>0.99</number>
+<number shadow='shadow1' tooltip='6:02 1-10-SEA 12SEA 33 ATL 10 LI: 0.133-C.Michael right tackle to SEA 15 for 3 yards(92-T.Robertson).'>53.97</number><number>0.99</number>
+<number shadow='shadow1' tooltip='5:26 2-7-SEA 15SEA 33 ATL 10 LI: 0.13-R.Wilson pass short left to 81-G.Tate to SEA 23 for 8 yards(96-J.Massaquoi).'>54.57</number><number>0.99</number>
+<number shadow='shadow1' tooltip='4:42 1-10-SEA 23SEA 33 ATL 10 LI: 0.133-C.Michael left tackle to SEA 36 for 13 yards(96-J.Massaquoi).'>55.3</number><number>0.99</number>
+<number shadow='shadow1' tooltip='3:59 1-10-SEA 36SEA 33 ATL 10 LI: 0.133-C.Michael right end ran ob at SEA 43 for 7 yards(55-P.Worrilow).'>56.02</number><number>0.99</number>
+<number shadow='shadow1' tooltip='3:52 2-3-SEA 43SEA 33 ATL 10 LI: 0.133-C.Michael right end to SEA 44 for 1 yard(94-P.Jerry).'>56.13</number><number>0.99</number>
+<number shadow='shadow1' tooltip='3:11 3-2-SEA 44SEA 33 ATL 10 LI: 0.1(Shotgun) 33-C.Michael left tackle to SEA 47 for 3 yards(25-W.Moore).'>56.82</number><number>0.99</number>
+<number shadow='shadow1' tooltip='2:28 1-10-SEA 47SEA 33 ATL 10 LI: 0.133-C.Michael left end to 50 for 3 yards(95-J.Babineaux).'>57.53</number><number>0.99</number>
+<number shadow='shadow1' tooltip='2:23 2-7-50SEA 33 ATL 10 LI: 0.133-C.Michael left tackle to ATL 25 for 25 yards(21-D.Trufant)PENALTY on SEA-83-R.Lockette Offensive Holding 10 yards enforced at ATL 41.'>57.62</number><number>0.99</number>
+<number shadow='shadow1' tooltip='2:10 2-8-SEA 49SEA 33 ATL 10 LI: 0.122-R.Turbin right end to ATL 48 for 3 yards(55-P.Worrilow).'>57.83</number><number>0.99</number>
+<number shadow='shadow1' tooltip='2:00 3-5-ATL 48SEA 33 ATL 10 LI: 0.133-C.Michael right end to SEA 46 for -6 yards(55-P.Worrilow).'>58</number><number>0.99</number>
+<number shadow='shadow1' tooltip='1:55 4-11-SEA 46SEA 33 ATL 10 LI: 0.19-J.Ryan punts 54 yards to end zone Center-49-C.Gresham Touchback.'>58.08</number><number>0.99</number>
+<number shadow='shadow1' tooltip='1:46 1-10-ATL 20SEA 33 ATL 10 LI: 0.12-M.Ryan pass short middle to 32-J.Rodgers to ATL 28 for 8 yards(54-B.Wagner).'>58.23</number><number>0.99</number>
+<number shadow='shadow1' tooltip='1:24 2-2-ATL 28SEA 33 ATL 10 LI: 0.1(No Huddle Shotgun) 2-M.Ryan pass short middle to 32-J.Rodgers to ATL 36 for 8 yards(54-B.Wagner).'>58.6</number><number>0.99</number>
+<number shadow='shadow1' tooltip='1:17 1-10-ATL 36SEA 33 ATL 10 LI: 0.1(Shotgun) 2-M.Ryan pass incomplete short right to 32-J.Rodgers.'>58.72</number><number>0.99</number>
+<number shadow='shadow1' tooltip='1:11 2-10-ATL 36SEA 33 ATL 10 LI: 0.1(Shotgun) 2-M.Ryan pass incomplete short left to 19-D.Davis (41-B.Maxwell).'>58.82</number><number>0.99</number>
+<number shadow='shadow1' tooltip='0:58 3-10-ATL 36SEA 33 ATL 10 LI: 0.1(Shotgun) 2-M.Ryan FUMBLES (Aborted) at ATL 30 and recovers at ATL 302-M.Ryan pass short middle to 88-T.Gonzalez to ATL 48 for 12 yards(54-B.Wagner).'>59.03</number><number>0.99</number>
+<number shadow='shadow1' tooltip='0:44 1-10-ATL 48SEA 33 ATL 10 LI: 0.12-M.Ryan pass short left to 83-H.Douglas to SEA 49 for 3 yards(28-W.Thurmond).'>59.27</number><number>0.99</number>
+<number shadow='shadow1' tooltip='0:23 2-7-SEA 49SEA 33 ATL 10 LI: 0.12-M.Ryan pass short middle to 44-J.Snelling to SEA 42 for 7 yards(54-B.Wagner).'>59.62</number><number>0.99</number>
+<number shadow='shadow1' tooltip='0:02 1-10-SEA 42SEA 33 ATL 10 LI: 0.12-M.Ryan pass incomplete short right to 44-J.Snelling.'>59.97</number><number>1</number>
+<number>60</number><number>1</number>
+</row> </chart_data>
+       <draw>
+
+
+
+      <image x='45' y='298'  url='nfllogos/42x50png/SEA.gif'  layer='foreground' glow = 'glow1'/>
+      <image x='45' y='350'  url='nfllogos/42x50png/ATL.gif'     layer='foreground' glow = 'glow1'/>
+
+
+      <rect x='130' y='300' width='250' height='40' fill_color='283e67' bevel='bevel1' />
+      <text x='135' y='300' width='250' height='40' h_align='left' v_align='middle' color='ffffff' shadow='shadow2' glow='winnerglow'>Seattle Seahawks</text>
+
+      <rect x='130' y='350' width='250' height='40' fill_color='cf1534' bevel='bevel1'  />
+      <text x='135' y='350' width='250' height='40' h_align='left' v_align='middle' color='ffffff' shadow='shadow2' glow=''>Atlanta Falcons</text>
+
+      <rect x='420' y='300' width='60' height='40' fill_color='283e67' bevel='bevel1'  />
+      <text x='420' y='300' width='60' height='40' h_align='center' v_align='middle' color='ffffff' shadow='shadow2' transition='none' glow='winnerglow'>33</text>
+
+      <rect x='420' y='350' width='60' height='40' fill_color='cf1534' bevel='bevel1' />
+      <text x='420' y='350' width='60' height='40' h_align='center' v_align='middle' color='ffffff' shadow='shadow2' transition='none' glow=''>10</text>
+
+      <text x='-3' y='12'  width='60' height='40' h_align='center' v_align='middle' size='13' shadow='shadow2'>SEAWin </text>
+      <text x='-3' y='218' width='60' height='40' h_align='center' v_align='middle' size='13' shadow='shadow2'>ATLWin </text>
+
+     
+              <rect x='540' y='300' width='100' height='35' fill_color='000000' fill_alpha='50'/>
+              <text x='540' y='300' width='100' height='35' h_align='center' v_align='middle' color='ffffff' size='15' shadow='shadow2' >Final</text>
+
+              <text x='540' y='340' width='40' h_align='center' color='000000' size='12' shadow='shadow2'>CBF</text>
+              <text x='600' y='340' width='40' h_align='center' color='000000' size='12' shadow='shadow2'>EI</text>
+
+              <rect x='540' y='360' width='40' height='30' fill_color='000000' fill_alpha='50' />
+              <text x='540' y='360' width='40' height='30' size='12' h_align='center' v_align='middle' color='FFFFFF' shadow='shadow2'>2</text>
+
+              <rect x='600' y='360' width='40' height='30' fill_color='000000' fill_alpha='50' />
+              <text x='600' y='360' width='40' height='30' size='12' h_align='center' v_align='middle' color='FFFFFF' shadow='shadow2'>1.9</text>
+
+              <text x='20' y='420' width='70' height='25' size='12' h_align='left' v_align='middle' color='000000' >11/10/2013</text>
+              <text x='100' y='420' width='200' height='25' size='12' h_align='left' v_align='middle' color='000000' >Georgia Dome</text>
+
+   </draw></chart>

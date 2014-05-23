@@ -1,0 +1,318 @@
+
+<chart>
+   <license>ETAS9P33ESHO.945CWK-2XOI1X0-7L</license>
+   <chart_type>scatter</chart_type>
+   <chart_pref trend_thickness='0' line_thickness='3' point_size='0'/>
+
+   <series_color>
+      <color>ffff00</color>
+   </series_color>
+
+   <chart_rect x='45' y='20' width='630' height='230' positive_color='cacaca'  />
+
+  <chart_border top_thickness='0'
+                 bottom_thickness='0'
+                 left_thickness='0'
+                 right_thickness='0'
+                 color='000000'
+                 />
+
+   <tooltip font='Arial' bold='true' size='11' />
+
+   <chart_note type='flag'
+               color='000000'
+               alpha='90'
+               bold='FALSE'
+               size='10'
+               background_color='ffffe0'
+               background_alpha='50'
+               shadow='shadow2'
+               />
+
+   <chart_grid_h thickness='2' color='ffffff' type='dashed'  />
+   <chart_grid_v thickness='2' color='ffffff'   />
+		>
+
+   <legend layout='hide' />
+
+   <chart_guide horizontal='TRUE'
+             vertical='TRUE'
+             thickness='1'
+             color='006400'
+             alpha='100'
+             type='solid'
+             snap_h='TRUE'
+             snap_v='TRUE'
+             radius='3'
+             fill_color='006400'
+             fill_alpha='100'
+             line_color='006400'
+             line_alpha='80'
+             line_thickness='1'
+             text_h_alpha='50'
+             text_v_alpha='00'
+             suffix_h=' WP'
+             decimals='2'
+             bold='FALSE'
+             size='11'
+             text_color='FFFFFF'
+             background_color='006400'
+             />
+   <filter>
+      <shadow id='shadow1' distance='2' angle='60' blurX='5' blurY='5' alpha='50' />
+      <bevel id='bevel1' angle='45' blurX='5' blurY='5' distance='0' />
+      <glow id='glow1' color='ffffff' alpha='0' blurX='7' blurY='7' strength='6' quality='2' inner='FALSE' knockout='FALSE' />
+      <glow id='winnerglow' color='ffffff' alpha='0' blurX='7' blurY='7' strength='5' quality='2' inner='FALSE' knockout='FALSE' />
+   </filter>
+
+    <axis_value_label>
+         <string></string>
+          <string> </string>
+          <null/>
+          <string> </string>
+          <string></string>
+
+       </axis_value_label>
+		
+	   <axis_ticks category_ticks='false'/>
+
+       <axis_value min='0' max='1' steps='4'  decimals='2' show_min='true' size='13' shadow='shadow2' />     
+            <axis_category
+               min='0'
+               max='60'
+               steps='4'
+               mode='all'
+               decimals='0'
+               size='13'
+               shadow='shadow2'
+               />
+
+       <axis_category_label>
+          <string>Kickoff</string>
+          <string></string>
+          <string>Halftime</string>
+          <string></string>
+          <string>End</string>
+
+       </axis_category_label>
+
+
+        <chart_data>
+       <row>
+	      <null/><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number>
+              <number>x</number><number>y</number>
+              </row><row><string></string>
+
+                     <number shadow='shadow1'>0</number><number>.5</number><number shadow='shadow1' tooltip='15:00 IND 0 CIN 0 LI: 2-M.Nugent kicks 64 yards from CIN 35 to IND 125-C.Rainey to IND 28 for 27 yards(51-J.DiManche).'>0.09</number><number>0.53</number>
+<number shadow='shadow1' tooltip='14:20 2-7-IND 31IND 0 CIN 0 LI: 1.331-D.Brown right guard to IND 34 for 3 yards(58-R.Maualuga).'>0.67</number><number>0.51</number>
+<number shadow='shadow1' tooltip='13:44 3-4-IND 34IND 0 CIN 0 LI: 1.2(Shotgun) 12-A.Luck pass incomplete deep left to 16-D.Rogers (24-A.Jones).'>1.27</number><number>0.47</number>
+<number shadow='shadow1' tooltip='13:37 4-4-IND 34IND 0 CIN 0 LI: 0.81-P.McAfee punts 54 yards to CIN 12 Center-45-M.Overton19-B.Tate pushed ob at CIN 17 for 5 yards(52-K.Sheppard).'>1.38</number><number>0.49</number>
+<number shadow='shadow1' tooltip='13:25 1-10-CIN 17IND 0 CIN 0 LI: 1.614-A.Dalton pass short right to 84-J.Gresham to CIN 25 for 8 yards(50-J.Freeman).'>1.58</number><number>0.48</number>
+<number shadow='shadow1' tooltip='12:50 2-2-CIN 25IND 0 CIN 0 LI: 1.542-B.Green-Ellis right tackle to CIN 25 for no gain (52-K.Sheppard; 97-A.Franklin).'>2.17</number><number>0.49</number>
+<number shadow='shadow1' tooltip='12:07 3-2-CIN 25IND 0 CIN 0 LI: 1.4(Shotgun) 14-A.Dalton pass short middle to 18-A.Green to CIN 35 for 10 yards(20-D.Butler).'>2.88</number><number>0.46</number>
+<number shadow='shadow1' tooltip='11:33 1-10-CIN 35IND 0 CIN 0 LI: 1.442-B.Green-Ellis right guard to CIN 37 for 2 yards(41-A.Bethea).'>3.45</number><number>0.47</number>
+<number shadow='shadow1' tooltip='10:49 2-8-CIN 37IND 0 CIN 0 LI: 1.314-A.Dalton pass short right to 18-A.Green to IND 46 for 17 yards(41-A.Bethea).'>4.18</number><number>0.42</number>
+<number shadow='shadow1' tooltip='10:13 1-10-IND 46IND 0 CIN 0 LI: 1.442-B.Green-Ellis left guard to IND 46 for no gain (95-F.Moala; 52-K.Sheppard).'>4.78</number><number>0.45</number>
+<number shadow='shadow1' tooltip='9:36 2-10-IND 46IND 0 CIN 0 LI: 1.1(Shotgun) 14-A.Dalton pass short right to 16-A.Hawkins pushed ob at IND 39 for 7 yards(41-A.Bethea).'>5.4</number><number>0.44</number>
+<number shadow='shadow1' tooltip='8:58 3-3-IND 39IND 0 CIN 0 LI: 1.1(Shotgun) 14-A.Dalton pass short right to 84-J.Gresham to IND 29 for 10 yards(41-A.Bethea).'>6.03</number><number>0.38</number>
+<number shadow='shadow1' tooltip='8:19 1-10-IND 29IND 0 CIN 0 LI: 1.514-A.Dalton pass incomplete short right to 42-B.Green-Ellis.'>6.68</number><number>0.39</number>
+<number shadow='shadow1' tooltip='8:11 2-10-IND 29IND 0 CIN 0 LI: 1.4(Shotgun) 14-A.Dalton pass deep left to 82-M.Jones for 29 yards TOUCHDOWN.'>6.82</number><number>0.29</number>
+<number shadow='shadow1' tooltip='8:11 IND 0 CIN 0 LI: 2-M.Nugent extra point is GOOD Center-46-C.Harris Holder-10-K.Huber.'>6.86</number><number>0.29</number>
+<number shadow='shadow1' tooltip='8:11 IND 0 CIN 7 LI: 2-M.Nugent kicks 69 yards from CIN 35 to IND -425-C.Rainey to IND 23 for 27 yards(51-J.DiManche).'>6.91</number><number>0.28</number>
+<number shadow='shadow1' tooltip='7:59 1-10-IND 23IND 0 CIN 7 LI: 1.4(Shotgun) 12-A.Luck pass short right to 84-J.Doyle to IND 31 for 8 yards(23-T.Newman).'>7.02</number><number>0.3</number>
+<number shadow='shadow1' tooltip='7:35 2-2-IND 31IND 0 CIN 7 LI: 1.4(Shotgun) 12-A.Luck pass incomplete deep right to 47-W.Saunders.'>7.42</number><number>0.33</number>
+<number shadow='shadow1' tooltip='7:27 1-10-CIN 49IND 0 CIN 7 LI: 1.212-A.Luck pass incomplete short left to 31-D.Brown (98-B.Thompson){Tipped at the line of scrimmage}'>7.55</number><number>0.33</number>
+<number shadow='shadow1' tooltip='7:21 2-10-CIN 49IND 0 CIN 7 LI: 1.2(Shotgun) 12-A.Luck pass incomplete short left to 13-T.Hilton.'>7.65</number><number>0.32</number>
+<number shadow='shadow1' tooltip='7:14 3-10-CIN 49IND 0 CIN 7 LI: 1.1(Shotgun) 12-A.Luck pass short left to 31-D.Brown pushed ob at CIN 47 for 2 yards(55-V.Burfict).'>7.77</number><number>0.3</number>
+<number shadow='shadow1' tooltip='7:08 4-8-CIN 47IND 0 CIN 7 LI: 0.91-P.McAfee punts 46 yards to CIN 1 Center-45-M.Overton downed by IND-38-S.Brown.'>7.87</number><number>0.31</number>
+<number shadow='shadow1' tooltip='6:58 1-10-CIN 1IND 0 CIN 7 LI: 1.342-B.Green-Ellis right guard to CIN 5 for 4 yards(41-A.Bethea).'>8.03</number><number>0.31</number>
+<number shadow='shadow1' tooltip='6:25 2-6-CIN 5IND 0 CIN 7 LI: 1.342-B.Green-Ellis right guard to CIN 8 for 3 yards(30-L.Landry; 41-A.Bethea).'>8.58</number><number>0.31</number>
+<number shadow='shadow1' tooltip='5:45 3-3-CIN 8IND 0 CIN 7 LI: 1.3(Shotgun) 14-A.Dalton pass incomplete short left to 18-A.Green (30-L.Landry).'>9.25</number><number>0.33</number>
+<number shadow='shadow1' tooltip='5:38 4-3-CIN 8IND 0 CIN 7 LI: 1.110-K.Huber punts 54 yards to IND 38 Center-46-C.Harris25-C.Rainey MUFFS catch and recovers at IND 3325-C.Rainey to IND 33 for no gain (27-D.Kirkpatrick){Punt officially 59 yards due to the muff catch}'>9.37</number><number>0.3</number>
+<number shadow='shadow1' tooltip='5:22 1-10-IND 33IND 0 CIN 7 LI: 1.434-T.Richardson right guard to IND 33 for no gain (94-D.Peko).'>9.63</number><number>0.3</number>
+<number shadow='shadow1' tooltip='4:44 2-10-IND 33IND 0 CIN 7 LI: 1.4(Shotgun) 34-T.Richardson left guard to IND 35 for 2 yards(24-A.Jones; 43-G.Iloka).'>10.27</number><number>0.29</number>
+<number shadow='shadow1' tooltip='4:01 3-8-IND 35IND 0 CIN 7 LI: 1.2(Shotgun) 12-A.Luck pass incomplete short left to 81-D.Heyward-Bey (24-A.Jones).'>10.98</number><number>0.27</number>
+<number shadow='shadow1' tooltip='3:56 4-8-IND 35IND 0 CIN 7 LI: 11-P.McAfee punts 36 yards to CIN 29 Center-45-M.Overton out of bounds{Punt caught by CIN B.Tate standing out of bounds}'>11.07</number><number>0.27</number>
+<number shadow='shadow1' tooltip='3:46 1-10-CIN 29IND 0 CIN 7 LI: 0.914-A.Dalton pass incomplete short right{Thrown away}'>11.23</number><number>0.26</number>
+<number shadow='shadow1' tooltip='3:40 2-10-CIN 29IND 0 CIN 7 LI: 125-G.Bernard left guard to CIN 40 for 11 yards(41-A.Bethea; 93-E.Walden).'>11.33</number><number>0.23</number>
+<number shadow='shadow1' tooltip='3:02 1-10-CIN 40IND 0 CIN 7 LI: 1.114-A.Dalton pass incomplete short right to 25-G.Bernard.'>11.97</number><number>0.26</number>
+<number shadow='shadow1' tooltip='2:56 1-20-CIN 30IND 0 CIN 7 LI: 125-G.Bernard left guard to CIN 30 for no gain (92-B.Werner).'>12.07</number><number>0.27</number>
+<number shadow='shadow1' tooltip='2:13 2-20-CIN 30IND 0 CIN 7 LI: 0.9(Shotgun) 14-A.Dalton pass incomplete short right to 82-M.Jones.'>12.78</number><number>0.29</number>
+<number shadow='shadow1' tooltip='2:08 3-20-CIN 30IND 0 CIN 7 LI: 0.7(Shotgun) 14-A.Dalton pass short left to 25-G.Bernard to CIN 35 for 5 yards(57-J.McNary).'>12.87</number><number>0.29</number>
+<number shadow='shadow1' tooltip='1:31 4-15-CIN 35IND 0 CIN 7 LI: 0.610-K.Huber punts 65 yards to end zone Center-46-C.Harris Touchback.'>13.48</number><number>0.28</number>
+<number shadow='shadow1' tooltip='1:21 1-10-IND 20IND 0 CIN 7 LI: 1.531-D.Brown right tackle to IND 23 for 3 yards(98-B.Thompson).'>13.65</number><number>0.28</number>
+<number shadow='shadow1' tooltip='0:39 2-7-IND 23IND 0 CIN 7 LI: 1.3(Shotgun) 12-A.Luck pass short left to 80-C.Fleener pushed ob at IND 36 for 13 yards(43-G.Iloka).'>14.35</number><number>0.3</number>
+<number shadow='shadow1' tooltip='0:07 1-10-IND 36IND 0 CIN 7 LI: 1.231-D.Brown right guard to IND 36 for no gain (96-C.Dunlap).'>14.88</number><number>0.3</number>
+<number shadow='shadow1' tooltip='15:00 2-10-IND 36IND 0 CIN 7 LI: 1.2(Shotgun) 12-A.Luck pass short left to 16-D.Rogers to IND 43 for 7 yards(55-V.Burfict).'>15</number><number>0.3</number>
+<number shadow='shadow1' tooltip='14:27 3-3-IND 43IND 0 CIN 7 LI: 1.112-A.Luck pass incomplete short right to 47-W.Saunders [95-W.Gilberry].'>15.55</number><number>0.27</number>
+<number shadow='shadow1' tooltip='14:20 4-3-IND 43IND 0 CIN 7 LI: 0.81-P.McAfee punts 53 yards to CIN 4 Center-45-M.Overton downed by IND-27-J.Gordy{Punt initially tipped at 1 back into play by S.Brown}'>15.67</number><number>0.3</number>
+<number shadow='shadow1' tooltip='14:07 1-10-CIN 4IND 0 CIN 7 LI: 1.4(Shotgun) 14-A.Dalton pass short middle to 85-T.Eifert to CIN 13 for 9 yards(50-J.Freeman).'>15.88</number><number>0.29</number>
+<number shadow='shadow1' tooltip='13:30 2-1-CIN 13IND 0 CIN 7 LI: 1.525-G.Bernard left guard to CIN 32 for 19 yards(30-L.Landry).'>16.5</number><number>0.25</number>
+<number shadow='shadow1' tooltip='12:46 1-10-CIN 32IND 0 CIN 7 LI: 0.925-G.Bernard left end to CIN 42 for 10 yards(41-A.Bethea).'>17.23</number><number>0.22</number>
+<number shadow='shadow1' tooltip='12:06 1-10-CIN 42IND 0 CIN 7 LI: 1.114-A.Dalton pass short right to 18-A.Green to IND 49 for 9 yards(20-D.Butler; 41-A.Bethea).'>17.9</number><number>0.21</number>
+<number shadow='shadow1' tooltip='11:29 2-1-IND 49IND 0 CIN 7 LI: 142-B.Green-Ellis right end to IND 47 for 2 yards(20-D.Butler).'>18.52</number><number>0.2</number>
+<number shadow='shadow1' tooltip='10:44 1-10-IND 47IND 0 CIN 7 LI: 1.114-A.Dalton pass incomplete deep right to 85-T.Eifert.'>19.27</number><number>0.22</number>
+<number shadow='shadow1' tooltip='10:37 2-10-IND 47IND 0 CIN 7 LI: 0.9(Shotgun) 14-A.Dalton pass incomplete short left to 16-A.Hawkins (92-B.Werner){Knocked down behind the line of scrimmage}'>19.38</number><number>0.24</number>
+<number shadow='shadow1' tooltip='10:35 3-10-IND 47IND 0 CIN 7 LI: 0.7(Shotgun) 14-A.Dalton scrambles up the middle to IND 41 for 6 yards(91-R.Mathews).'>19.42</number><number>0.27</number>
+<number shadow='shadow1' tooltip='9:57 4-4-IND 41IND 0 CIN 7 LI: 0.310-K.Huber punts 29 yards to IND 12 Center-46-C.Harris fair catch by 25-C.Rainey.'>20.05</number><number>0.27</number>
+<number shadow='shadow1' tooltip='9:49 1-10-IND 12IND 0 CIN 7 LI: 1.434-T.Richardson left guard to IND 20 for 8 yards(43-G.Iloka).'>20.18</number><number>0.27</number>
+<number shadow='shadow1' tooltip='9:11 2-2-IND 20IND 0 CIN 7 LI: 1.234-T.Richardson right tackle to IND 22 for 2 yards(58-R.Maualuga).'>20.82</number><number>0.28</number>
+<number shadow='shadow1' tooltip='8:30 1-10-IND 22IND 0 CIN 7 LI: 1.212-A.Luck pass incomplete short middle to 13-T.Hilton [92-J.Harrison].'>21.5</number><number>0.27</number>
+<number shadow='shadow1' tooltip='8:24 2-10-IND 22IND 0 CIN 7 LI: 1.1(Shotgun) 12-A.Luck pass short right to 47-W.Saunders to IND 33 for 11 yards(55-V.Burfict).'>21.6</number><number>0.29</number>
+<number shadow='shadow1' tooltip='7:31 1-10-IND 33IND 0 CIN 7 LI: 1.1PENALTY on CIN-98-B.Thompson Neutral Zone Infraction 5 yards enforced at IND 33 - No Play.'>22.48</number><number>0.3</number>
+<number shadow='shadow1' tooltip='7:12 1-5-IND 38IND 0 CIN 7 LI: 1.1(Shotgun) 12-A.Luck pass short right to 81-D.Heyward-Bey pushed ob at IND 49 for 11 yards(55-V.Burfict).'>22.8</number><number>0.31</number>
+<number shadow='shadow1' tooltip='6:35 1-10-IND 49IND 0 CIN 7 LI: 1.112-A.Luck pass short middle to 34-T.Richardson to CIN 29 for 22 yards(96-C.Dunlap).'>23.42</number><number>0.35</number>
+<number shadow='shadow1' tooltip='5:55 1-10-CIN 29IND 0 CIN 7 LI: 1.112-A.Luck pass incomplete deep middle to 13-T.Hilton (20-R.Nelson).'>24.08</number><number>0.37</number>
+<number shadow='shadow1' tooltip='5:49 2-10-CIN 29IND 0 CIN 7 LI: 1.312-A.Luck pass incomplete short left to 80-C.Fleener (75-D.Still){Tipped at the line of scrimmage}'>24.18</number><number>0.34</number>
+<number shadow='shadow1' tooltip='5:44 3-10-CIN 29IND 0 CIN 7 LI: 1(Shotgun) 12-A.Luck pass short right to 80-C.Fleener to CIN 26 for 3 yards(93-M.Johnson).'>24.27</number><number>0.31</number>
+<number shadow='shadow1' tooltip='5:05 4-7-CIN 26IND 0 CIN 7 LI: 0.74-A.Vinatieri 44 yard field goal is No Good Wide Right Center-45-M.Overton Holder-1-P.McAfee.'>24.92</number><number>0.23</number>
+<number shadow='shadow1' tooltip='5:00 1-10-CIN 34IND 0 CIN 7 LI: 1.1(Shotgun) 14-A.Dalton pass short middle to 25-G.Bernard to IND 44 for 22 yards(30-L.Landry; 50-J.Freeman).'>25</number><number>0.2</number>
+<number shadow='shadow1' tooltip='4:20 1-10-IND 44IND 0 CIN 7 LI: 1.114-A.Dalton pass short middle to 12-M.Sanu to IND 33 for 11 yards(30-L.Landry).'>25.67</number><number>0.18</number>
+<number shadow='shadow1' tooltip='3:42 1-10-IND 33IND 0 CIN 7 LI: 1.1(Shotgun) 42-B.Green-Ellis up the middle to IND 28 for 5 yards(30-L.Landry; 50-J.Freeman).'>26.3</number><number>0.18</number>
+<number shadow='shadow1' tooltip='3:06 2-5-IND 28IND 0 CIN 7 LI: 1(Shotgun) 14-A.Dalton pass incomplete deep left to 18-A.Green.'>26.9</number><number>0.16</number>
+<number shadow='shadow1' tooltip='2:59 1-10-IND 23IND 0 CIN 7 LI: 1.125-G.Bernard right end pushed ob at IND 9 for 14 yards(41-A.Bethea).'>27.02</number><number>0.14</number>
+<number shadow='shadow1' tooltip='2:21 1-9-IND 9IND 0 CIN 7 LI: 1.114-A.Dalton pass incomplete short left to 12-M.Sanu.'>27.65</number><number>0.13</number>
+<number shadow='shadow1' tooltip='2:16 2-9-IND 9IND 0 CIN 7 LI: 1.2(Shotgun) 42-B.Green-Ellis right guard to IND 3 for 6 yards(41-A.Bethea).'>27.73</number><number>0.13</number>
+<number shadow='shadow1' tooltip='2:00 3-3-IND 3IND 0 CIN 7 LI: 1.214-A.Dalton pass short left to 82-M.Jones to IND 1 for 2 yards(23-V.Davis).'>28</number><number>0.19</number>
+<number shadow='shadow1' tooltip='1:14 4-1-IND 1IND 0 CIN 7 LI: 0.642-B.Green-Ellis right tackle to IND 1 for no gain (96-J.Chapman)The Replay Assistant challenged the runner was down by contact ruling and the play was REVERSED42-B.Green-Ellis right tackle for 1 yard TOUCHDOWN.'>28.77</number><number>0.1</number>
+<number shadow='shadow1' tooltip='1:14 IND 0 CIN 7 LI: 2-M.Nugent extra point is GOOD Center-46-C.Harris Holder-10-K.Huber.'>28.81</number><number>0.1</number>
+<number shadow='shadow1' tooltip='1:14 IND 0 CIN 14 LI: 2-M.Nugent kicks 57 yards from CIN 35 to IND 825-C.Rainey to IND 27 for 19 yards(40-S.Williams).'>28.86</number><number>0.1</number>
+<number shadow='shadow1' tooltip='0:59 1-10-IND 27IND 0 CIN 14 LI: 0.3(Shotgun) 12-A.Luck pass short right to 16-D.Rogers pushed ob at IND 41 for 14 yards(20-R.Nelson).'>29.02</number><number>0.11</number>
+<number shadow='shadow1' tooltip='0:53 1-10-IND 41IND 0 CIN 14 LI: 0.3(Shotgun) 12-A.Luck pass incomplete deep left to 16-D.Rogers [93-M.Johnson].'>29.12</number><number>0.12</number>
+<number shadow='shadow1' tooltip='0:47 2-10-IND 41IND 0 CIN 14 LI: 0.4(Shotgun) 12-A.Luck pass short left to 15-L.Brazill to IND 46 for 5 yards(93-M.Johnson).'>29.22</number><number>0.11</number>
+<number shadow='shadow1' tooltip='0:37 3-5-IND 46IND 0 CIN 14 LI: 0.3(Shotgun) 12-A.Luck pass incomplete short middle to 80-C.Fleener.'>29.38</number><number>0.1</number>
+<number shadow='shadow1' tooltip='0:33 4-5-IND 46IND 0 CIN 14 LI: 0.21-P.McAfee punts 41 yards to CIN 13 Center-45-M.Overton19-B.Tate pushed ob at CIN 19 for 6 yards(92-B.Werner).'>29.45</number><number>0.1</number>
+<number shadow='shadow1' tooltip='0:20 1-10-CIN 19IND 0 CIN 14 LI: 0.514-A.Dalton kneels to CIN 18 for -1 yards.'>29.67</number><number>0.1</number>
+<number shadow='shadow1' tooltip='0:20 IND 0 CIN 14 LI: 1-P.McAfee kicks 65 yards from IND 35 to end zone Touchback.'>29.76</number><number>0.1</number>
+<number shadow='shadow1' tooltip='15:00 1-10-CIN 20IND 0 CIN 14 LI: 0.542-B.Green-Ellis right tackle to CIN 25 for 5 yards(30-L.Landry; 50-J.Freeman).'>30</number><number>0.1</number>
+<number shadow='shadow1' tooltip='14:25 2-5-CIN 25IND 0 CIN 14 LI: 0.514-A.Dalton pass incomplete deep middle to 12-M.Sanu.'>30.58</number><number>0.11</number>
+<number shadow='shadow1' tooltip='14:18 3-5-CIN 25IND 0 CIN 14 LI: 0.4(Shotgun) 14-A.Dalton pass short middle to 18-A.Green pushed ob at CIN 47 for 22 yards(32-C.Vaughn).'>30.7</number><number>0.09</number>
+<number shadow='shadow1' tooltip='13:44 1-10-CIN 47IND 0 CIN 14 LI: 0.325-G.Bernard left guard to CIN 45 for -2 yards(90-C.Redding).'>31.27</number><number>0.09</number>
+<number shadow='shadow1' tooltip='13:09 2-12-CIN 45IND 0 CIN 14 LI: 0.4(Shotgun) 14-A.Dalton pass short middle to 84-J.Gresham to IND 39 for 16 yards(41-A.Bethea).'>31.85</number><number>0.08</number>
+<number shadow='shadow1' tooltip='12:29 1-10-IND 39IND 0 CIN 14 LI: 0.314-A.Dalton pass short middle to 12-M.Sanu to IND 24 for 15 yards(30-L.Landry).'>32.52</number><number>0.06</number>
+<number shadow='shadow1' tooltip='11:48 1-10-IND 24IND 0 CIN 14 LI: 0.3(Shotgun) 14-A.Dalton pass incomplete deep left to 18-A.Green (23-V.Davis).'>33.2</number><number>0.06</number>
+<number shadow='shadow1' tooltip='11:42 2-10-IND 24IND 0 CIN 14 LI: 0.3PENALTY on CIN-71-An.Smith False Start 5 yards enforced at IND 24 - No Play.'>33.3</number><number>0.08</number>
+<number shadow='shadow1' tooltip='10:55 1-9-IND 9IND 0 CIN 14 LI: 0.214-A.Dalton pass incomplete short left to 12-M.Sanu.'>34.08</number><number>0.04</number>
+<number shadow='shadow1' tooltip='10:50 1-4-IND 4IND 0 CIN 14 LI: 0.314-A.Dalton pass incomplete short middle to 12-M.Sanu.'>34.17</number><number>0.04</number>
+<number shadow='shadow1' tooltip='10:45 1-1-IND 1IND 0 CIN 14 LI: 0.342-B.Green-Ellis right guard for 1 yard TOUCHDOWN.'>34.25</number><number>0.03</number>
+<number shadow='shadow1' tooltip='10:45 IND 0 CIN 14 LI: 2-M.Nugent extra point is GOOD Center-46-C.Harris Holder-10-K.Huber.'>34.29</number><number>0.03</number>
+<number shadow='shadow1' tooltip='10:45 IND 0 CIN 21 LI: 2-M.Nugent kicks 38 yards from CIN 35 to IND 2756-D.Adongo MUFFS catch and recovers at IND 2656-D.Adongo to IND 26 for no gain (30-C.Peerman).'>34.34</number><number>0.03</number>
+<number shadow='shadow1' tooltip='10:39 1-10-IND 26IND 0 CIN 21 LI: 0.112-A.Luck pass incomplete short left to 31-D.Brown.'>34.35</number><number>0.04</number>
+<number shadow='shadow1' tooltip='10:36 2-10-IND 26IND 0 CIN 21 LI: 0.1(Shotgun) 31-D.Brown left tackle to IND 31 for 5 yards(93-M.Johnson).'>34.4</number><number>0.05</number>
+<number shadow='shadow1' tooltip='10:09 3-5-IND 31IND 0 CIN 21 LI: 0.2(Shotgun) 12-A.Luck pass short middle to 16-D.Rogers for 69 yards TOUCHDOWN.'>34.85</number><number>0.09</number>
+<number shadow='shadow1' tooltip='10:09 IND 0 CIN 21 LI: 4-A.Vinatieri extra point is GOOD Center-45-M.Overton Holder-1-P.McAfee.'>34.89</number><number>0.09</number>
+<number shadow='shadow1' tooltip='10:09 IND 7 CIN 21 LI: 1-P.McAfee kicks 70 yards from IND 35 to CIN -519-B.Tate to CIN 16 for 21 yards(58-A.Studebaker; 39-S.Havili).'>34.94</number><number>0.08</number>
+<number shadow='shadow1' tooltip='9:52 1-10-CIN 16IND 7 CIN 21 LI: 0.714-A.Dalton pass short right to 85-T.Eifert to CIN 16 for no gain (52-K.Sheppard).'>35.13</number><number>0.08</number>
+<number shadow='shadow1' tooltip='9:07 2-10-CIN 16IND 7 CIN 21 LI: 0.6(Shotgun) 14-A.Dalton pass short middle to 84-J.Gresham pushed ob at CIN 22 for 6 yards(50-J.Freeman).'>35.88</number><number>0.08</number>
+<number shadow='shadow1' tooltip='8:34 3-4-CIN 22IND 7 CIN 21 LI: 0.6(Shotgun) 14-A.Dalton scrambles left end to CIN 30 for 8 yards.'>36.43</number><number>0.09</number>
+<number shadow='shadow1' tooltip='8:10 3-14-CIN 12IND 7 CIN 21 LI: 1.1(Shotgun) 25-G.Bernard up the middle to CIN 18 for 6 yards(93-E.Walden; 98-R.Mathis).'>36.83</number><number>0.09</number>
+<number shadow='shadow1' tooltip='7:33 4-8-CIN 18IND 7 CIN 21 LI: 0.510-K.Huber punts 30 yards to CIN 48 Center-46-C.Harris downed by CIN-46-C.Harris.'>37.45</number><number>0.1</number>
+<number shadow='shadow1' tooltip='7:22 1-10-CIN 48IND 7 CIN 21 LI: 0.512-A.Luck scrambles up the middle to CIN 19 for 29 yards(23-T.Newman).'>37.63</number><number>0.13</number>
+<number shadow='shadow1' tooltip='6:33 1-10-CIN 19IND 7 CIN 21 LI: 0.8(Shotgun) 12-A.Luck pass incomplete short left to 25-C.Rainey (93-M.Johnson).'>38.45</number><number>0.16</number>
+<number shadow='shadow1' tooltip='6:30 2-10-CIN 19IND 7 CIN 21 LI: 1.1(Shotgun) 12-A.Luck pass short middle to 15-L.Brazill for 19 yards TOUCHDOWNCIN-43-G.Iloka was injured during the play.'>38.5</number><number>0.22</number>
+<number shadow='shadow1' tooltip='6:30 IND 7 CIN 21 LI: 4-A.Vinatieri extra point is GOOD Center-45-M.Overton Holder-1-P.McAfee.'>38.54</number><number>0.22</number>
+<number shadow='shadow1' tooltip='6:30 IND 14 CIN 21 LI: 1-P.McAfee kicks 69 yards from IND 35 to CIN -419-B.Tate pushed ob at CIN 40 for 44 yards(1-P.McAfee).'>38.59</number><number>0.2</number>
+<number shadow='shadow1' tooltip='6:13 1-10-CIN 40IND 14 CIN 21 LI: 1.225-G.Bernard left end to CIN 46 for 6 yards(52-K.Sheppard; 30-L.Landry).'>38.78</number><number>0.18</number>
+<number shadow='shadow1' tooltip='5:29 2-4-CIN 46IND 14 CIN 21 LI: 1.214-A.Dalton pass incomplete short middle to 18-A.Green.'>39.52</number><number>0.17</number>
+<number shadow='shadow1' tooltip='5:25 1-10-IND 42IND 14 CIN 21 LI: 125-G.Bernard right end to IND 38 for 4 yards(51-P.Angerer; 20-D.Butler)IND-51-P.Angerer was injured during the play.'>39.58</number><number>0.16</number>
+<number shadow='shadow1' tooltip='4:49 2-6-IND 38IND 14 CIN 21 LI: 125-G.Bernard right guard to IND 34 for 4 yards(41-A.Bethea; 50-J.Freeman).'>40.18</number><number>0.17</number>
+<number shadow='shadow1' tooltip='4:08 3-2-IND 34IND 14 CIN 21 LI: 0.8(Shotgun) 14-A.Dalton pass short left to 25-G.Bernard to IND 13 for 21 yards(30-L.Landry).'>40.87</number><number>0.08</number>
+<number shadow='shadow1' tooltip='3:47 1-6-IND 6IND 14 CIN 21 LI: 1.114-A.Dalton pass short left to 18-A.Green to IND 1 for 5 yards(23-V.Davis).'>41.22</number><number>0.06</number>
+<number shadow='shadow1' tooltip='3:12 2-1-IND 1IND 14 CIN 21 LI: 1.314-A.Dalton pass short left to 84-J.Gresham for 1 yard TOUCHDOWN.'>41.8</number><number>0.05</number>
+<number shadow='shadow1' tooltip='3:12 IND 14 CIN 21 LI: 2-M.Nugent extra point is GOOD Center-46-C.Harris Holder-10-K.Huber.'>41.84</number><number>0.05</number>
+<number shadow='shadow1' tooltip='3:12 IND 14 CIN 28 LI: 2-M.Nugent kicks 59 yards from CIN 35 to IND 625-C.Rainey to IND 19 for 13 yards(30-C.Peerman).'>41.89</number><number>0.04</number>
+<number shadow='shadow1' tooltip='2:59 1-10-IND 19IND 14 CIN 28 LI: 0.1(Shotgun) 12-A.Luck pass incomplete short right to 34-T.Richardson (55-V.Burfict).'>42.02</number><number>0.05</number>
+<number shadow='shadow1' tooltip='2:49 2-10-IND 19IND 14 CIN 28 LI: 0.2(Shotgun) 34-T.Richardson right tackle to IND 23 for 4 yards(96-C.Dunlap; 55-V.Burfict).'>42.18</number><number>0.04</number>
+<number shadow='shadow1' tooltip='2:06 3-6-IND 23IND 14 CIN 28 LI: 0.1(Shotgun) 12-A.Luck pass incomplete deep right to 80-C.Fleener.'>42.9</number><number>0.04</number>
+<number shadow='shadow1' tooltip='2:01 4-6-IND 23IND 14 CIN 28 LI: 0.11-P.McAfee punts 55 yards to CIN 22 Center-45-M.Overton19-B.Tate pushed ob at CIN 41 for 19 yards(45-M.Overton).'>42.98</number><number>0.04</number>
+<number shadow='shadow1' tooltip='1:50 1-10-CIN 41IND 14 CIN 28 LI: 0.442-B.Green-Ellis left guard to CIN 44 for 3 yards(93-E.Walden).'>43.17</number><number>0.04</number>
+<number shadow='shadow1' tooltip='1:13 2-7-CIN 44IND 14 CIN 28 LI: 0.482-M.Jones left end pushed ob at CIN 41 for -3 yards(41-A.Bethea; 52-K.Sheppard).'>43.78</number><number>0.04</number>
+<number shadow='shadow1' tooltip='0:44 1-10-IND 44IND 14 CIN 28 LI: 0.242-B.Green-Ellis left guard to IND 40 for 4 yards(96-J.Chapman).'>44.27</number><number>0.03</number>
+<number shadow='shadow1' tooltip='15:00 2-6-IND 40IND 14 CIN 28 LI: 0.314-A.Dalton pass incomplete short right to 81-Al.Smith (58-A.Studebaker).'>45</number><number>0.03</number>
+<number shadow='shadow1' tooltip='14:52 3-6-IND 40IND 14 CIN 28 LI: 0.3(Shotgun) 14-A.Dalton pass deep left to 82-M.Jones to IND 11 for 29 yards(20-D.Butler).'>45.13</number><number>0.02</number>
+<number shadow='shadow1' tooltip='14:07 1-10-IND 11IND 14 CIN 28 LI: 0.142-B.Green-Ellis right guard to IND 9 for 2 yards(93-E.Walden; 41-A.Bethea).'>45.88</number><number>0.01</number>
+<number shadow='shadow1' tooltip='13:30 2-8-IND 9IND 14 CIN 28 LI: 0.114-A.Dalton pass short right to 18-A.Green for 9 yards TOUCHDOWN.'>46.5</number><number>0.01</number>
+<number shadow='shadow1' tooltip='13:30 IND 14 CIN 28 LI: 2-M.Nugent extra point is GOOD Center-46-C.Harris Holder-10-K.Huber.'>46.54</number><number>0.01</number>
+<number shadow='shadow1' tooltip='13:30 IND 14 CIN 35 LI: 2-M.Nugent kicks 61 yards from CIN 35 to IND 432-C.Vaughn pushed ob at IND 25 for 21 yards(20-R.Nelson).'>46.59</number><number>0.01</number>
+<number shadow='shadow1' tooltip='13:19 1-10-IND 25IND 14 CIN 35 LI: 0.1(Shotgun) 12-A.Luck pass short right to 16-D.Rogers to IND 32 for 7 yards(23-T.Newman).'>46.68</number><number>0.02</number>
+<number shadow='shadow1' tooltip='12:53 2-3-IND 32IND 14 CIN 35 LI: 0.1(Shotgun) 12-A.Luck pass short middle to 80-C.Fleener to IND 37 for 5 yards(27-D.Kirkpatrick).'>47.12</number><number>0.01</number>
+<number shadow='shadow1' tooltip='12:29 1-10-IND 37IND 14 CIN 35 LI: 0.1(Shotgun) 12-A.Luck pass incomplete deep left to 16-D.Rogers [95-W.Gilberry].'>47.52</number><number>0.02</number>
+<number shadow='shadow1' tooltip='12:22 1-10-IND 42IND 14 CIN 35 LI: 0.1(Shotgun) 12-A.Luck pass short right to 13-T.Hilton pushed ob at IND 45 for 3 yards(27-D.Kirkpatrick).'>47.63</number><number>0.02</number>
+<number shadow='shadow1' tooltip='11:55 2-7-IND 45IND 14 CIN 35 LI: 0.1(Shotgun) 12-A.Luck pass short middle to 13-T.Hilton to IND 49 for 4 yards(57-V.Rey).'>48.08</number><number>0.02</number>
+<number shadow='shadow1' tooltip='11:17 3-3-IND 49IND 14 CIN 35 LI: 0.1(Shotgun) 12-A.Luck pass short middle to 81-D.Heyward-Bey to CIN 39 for 12 yards(27-D.Kirkpatrick).'>48.72</number><number>0.02</number>
+<number shadow='shadow1' tooltip='10:56 1-10-CIN 39IND 14 CIN 35 LI: 0.1(Shotgun) 34-T.Richardson right tackle to CIN 35 for 4 yards(23-T.Newman; 93-M.Johnson).'>49.07</number><number>0.02</number>
+<number shadow='shadow1' tooltip='10:27 2-6-CIN 35IND 14 CIN 35 LI: 0.1(Shotgun) 12-A.Luck pass short left to 80-C.Fleener to CIN 29 for 6 yards(24-A.Jones).'>49.55</number><number>0.02</number>
+<number shadow='shadow1' tooltip='9:54 1-10-CIN 29IND 14 CIN 35 LI: 0.1(Shotgun) 12-A.Luck pass deep right to 15-L.Brazill for 29 yards TOUCHDOWN.'>50.1</number><number>0.03</number>
+<number shadow='shadow1' tooltip='9:54 IND 14 CIN 35 LI: 4-A.Vinatieri extra point is GOOD Center-45-M.Overton Holder-1-P.McAfee.'>50.14</number><number>0.03</number>
+<number shadow='shadow1' tooltip='9:54 IND 21 CIN 35 LI: 1-P.McAfee kicks 59 yards from IND 35 to CIN 619-B.Tate to CIN 27 for 21 yards(84-J.Doyle).'>50.19</number><number>0.03</number>
+<number shadow='shadow1' tooltip='9:43 1-10-CIN 27IND 21 CIN 35 LI: 0.542-B.Green-Ellis left guard to CIN 29 for 2 yards(97-A.Franklin).'>50.28</number><number>0.02</number>
+<number shadow='shadow1' tooltip='9:02 2-8-CIN 29IND 21 CIN 35 LI: 0.614-A.Dalton pass incomplete short right{Thrown away}'>50.97</number><number>0.03</number>
+<number shadow='shadow1' tooltip='8:57 3-8-CIN 29IND 21 CIN 35 LI: 0.414-A.Dalton pass short middle to 25-G.Bernard to CIN 30 for 1 yard(95-F.Moala; 57-J.McNary).'>51.05</number><number>0.03</number>
+<number shadow='shadow1' tooltip='8:16 4-7-CIN 30IND 21 CIN 35 LI: 0.410-K.Huber punts 70 yards to end zone Center-46-C.Harris Touchback.'>51.73</number><number>0.03</number>
+<number shadow='shadow1' tooltip='8:07 1-10-IND 20IND 21 CIN 35 LI: 0.2(Shotgun) 12-A.Luck pass incomplete short right to 15-L.Brazill [93-M.Johnson].'>51.88</number><number>0.03</number>
+<number shadow='shadow1' tooltip='8:02 2-10-IND 20IND 21 CIN 35 LI: 0.2(Shotgun) 12-A.Luck pass short middle to 80-C.Fleener to IND 24 for 4 yards(57-V.Rey).'>51.97</number><number>0.03</number>
+<number shadow='shadow1' tooltip='7:37 3-6-IND 24IND 21 CIN 35 LI: 0.212-A.Luck pass incomplete short left to 16-D.Rogers.'>52.38</number><number>0.03</number>
+<number shadow='shadow1' tooltip='7:33 4-6-IND 24IND 21 CIN 35 LI: 0.21-P.McAfee punts 48 yards to CIN 28 Center-45-M.Overton19-B.Tate pushed ob at IND 29 for 43 yards(39-S.Havili).'>52.45</number><number>0.01</number>
+<number shadow='shadow1' tooltip='7:18 1-10-IND 29IND 21 CIN 35 LI: 0.225-G.Bernard right tackle to IND 22 for 7 yards(94-M.Hughes).'>52.7</number><number>0.01</number>
+<number shadow='shadow1' tooltip='6:36 2-3-IND 22IND 21 CIN 35 LI: 0.225-G.Bernard right tackle to IND 20 for 2 yards(90-C.Redding; 41-A.Bethea).'>53.4</number><number>0.01</number>
+<number shadow='shadow1' tooltip='6:13 2-8-IND 27IND 21 CIN 35 LI: 0.214-A.Dalton pass short left to 85-T.Eifert ran ob at IND 16 for 11 yards(20-D.Butler).'>53.78</number><number>0.01</number>
+<number shadow='shadow1' tooltip='5:32 1-10-IND 16IND 21 CIN 35 LI: 0.242-B.Green-Ellis right tackle to IND 13 for 3 yards(50-J.Freeman).'>54.47</number><number>0.01</number>
+<number shadow='shadow1' tooltip='4:50 2-7-IND 13IND 21 CIN 35 LI: 0.342-B.Green-Ellis right guard to IND 8 for 5 yards(41-A.Bethea).'>55.17</number><number>0.01</number>
+<number shadow='shadow1' tooltip='4:10 3-2-IND 8IND 21 CIN 35 LI: 0.214-A.Dalton scrambles right end for 8 yards TOUCHDOWN.'>55.83</number><number>0.01</number>
+<number shadow='shadow1' tooltip='4:10 IND 21 CIN 35 LI: 2-M.Nugent extra point is GOOD Center-46-C.Harris Holder-10-K.Huber.'>55.87</number><number>0.01</number>
+<number shadow='shadow1' tooltip='4:10 IND 21 CIN 42 LI: 2-M.Nugent kicks 70 yards from CIN 35 to IND -532-C.Vaughn to IND 28 for 33 yards(50-J.Schaffer).'>55.92</number><number>0.01</number>
+<number shadow='shadow1' tooltip='3:58 1-10-IND 28IND 21 CIN 42 LI: 0.1(Shotgun) 12-A.Luck pass short middle to 34-T.Richardson to IND 41 for 13 yards(57-V.Rey).'>56.03</number><number>0.01</number>
+<number shadow='shadow1' tooltip='3:36 1-10-IND 41IND 21 CIN 42 LI: 0.1(Shotgun) 12-A.Luck pass incomplete short left to 80-C.Fleener (55-V.Burfict).'>56.4</number><number>0.01</number>
+<number shadow='shadow1' tooltip='3:32 2-10-IND 41IND 21 CIN 42 LI: 0.1(Shotgun) 12-A.Luck pass short middle to 34-T.Richardson to CIN 45 for 14 yards(57-V.Rey).'>56.47</number><number>0.01</number>
+<number shadow='shadow1' tooltip='3:10 1-10-CIN 45IND 21 CIN 42 LI: 0.1(Shotgun) 12-A.Luck pass short middle to 34-T.Richardson to CIN 33 for 12 yards(27-D.Kirkpatrick).'>56.83</number><number>0.01</number>
+<number shadow='shadow1' tooltip='2:39 1-10-CIN 33IND 21 CIN 42 LI: 0.1(Shotgun) 12-A.Luck pass short middle to 34-T.Richardson to CIN 26 for 7 yards(24-A.Jones; 55-V.Burfict).'>57.35</number><number>0.01</number>
+<number shadow='shadow1' tooltip='2:12 2-3-CIN 26IND 21 CIN 42 LI: 0.1(Shotgun) 12-A.Luck pass short right to 31-D.Brown to CIN 20 for 6 yards(27-D.Kirkpatrick).'>57.8</number><number>0.01</number>
+<number shadow='shadow1' tooltip='2:00 1-10-CIN 20IND 21 CIN 42 LI: 0.1(Shotgun) 12-A.Luck pass short right to 31-D.Brown pushed ob at CIN 11 for 9 yards(55-V.Burfict).'>58</number><number>0.01</number>
+<number shadow='shadow1' tooltip='1:52 2-1-CIN 11IND 21 CIN 42 LI: 0.1(Shotgun) 12-A.Luck pass short middle to 16-D.Rogers to CIN 3 for 8 yards(55-V.Burfict).'>58.13</number><number>0.01</number>
+<number shadow='shadow1' tooltip='1:31 1-3-CIN 3IND 21 CIN 42 LI: 0.112-A.Luck pass short middle to 31-D.Brown to CIN 2 for 1 yard(57-V.Rey).'>58.48</number><number>0.01</number>
+<number shadow='shadow1' tooltip='1:24 2-2-CIN 2IND 21 CIN 42 LI: 0.1(Shotgun) 12-A.Luck pass short left to 16-D.Rogers for 2 yards TOUCHDOWNIND-81-D.Heyward-Bey was injured during the play.'>58.6</number><number>0.01</number>
+<number shadow='shadow1' tooltip='1:24 IND 21 CIN 42 LI: 4-A.Vinatieri extra point is GOOD Center-45-M.Overton Holder-1-P.McAfee.'>58.64</number><number>0.01</number>
+<number shadow='shadow1' tooltip='1:24 IND 28 CIN 42 LI: 1-P.McAfee kicks onside 17 yards from IND 35 to CIN 4812-M.Sanu (didn&#39;t try to advance) to CIN 48 for no gain (42-C.Lynch).'>58.69</number><number>0.01</number>
+<number shadow='shadow1' tooltip='0:39 2-11-CIN 47IND 28 CIN 42 LI: 0.114-A.Dalton kneels to CIN 46 for -1 yards.'>59.35</number><number>0</number>
+<number>60</number><number>0</number>
+</row> </chart_data>
+       <draw>
+
+
+
+      <image x='45' y='298'  url='nfllogos/42x50png/IND.gif'  layer='foreground' glow = 'glow1'/>
+      <image x='45' y='350'  url='nfllogos/42x50png/CIN.gif'     layer='foreground' glow = 'glow1'/>
+
+
+      <rect x='130' y='300' width='250' height='40' fill_color='004b86' bevel='bevel1' />
+      <text x='135' y='300' width='250' height='40' h_align='left' v_align='middle' color='ffffff' shadow='shadow2' glow=''>Indianapolis Colts</text>
+
+      <rect x='130' y='350' width='250' height='40' fill_color='ff652b' bevel='bevel1'  />
+      <text x='135' y='350' width='250' height='40' h_align='left' v_align='middle' color='ffffff' shadow='shadow2' glow='winnerglow'>Cincinnati Bengals</text>
+
+      <rect x='420' y='300' width='60' height='40' fill_color='004b86' bevel='bevel1'  />
+      <text x='420' y='300' width='60' height='40' h_align='center' v_align='middle' color='ffffff' shadow='shadow2' transition='none' glow=''>28</text>
+
+      <rect x='420' y='350' width='60' height='40' fill_color='ff652b' bevel='bevel1' />
+      <text x='420' y='350' width='60' height='40' h_align='center' v_align='middle' color='ffffff' shadow='shadow2' transition='none' glow='winnerglow'>42</text>
+
+      <text x='-3' y='12'  width='60' height='40' h_align='center' v_align='middle' size='13' shadow='shadow2'>INDWin </text>
+      <text x='-3' y='218' width='60' height='40' h_align='center' v_align='middle' size='13' shadow='shadow2'>CINWin </text>
+
+     
+              <rect x='540' y='300' width='100' height='35' fill_color='000000' fill_alpha='50'/>
+              <text x='540' y='300' width='100' height='35' h_align='center' v_align='middle' color='ffffff' size='15' shadow='shadow2' >Final</text>
+
+              <text x='540' y='340' width='40' h_align='center' color='000000' size='12' shadow='shadow2'>CBF</text>
+              <text x='600' y='340' width='40' h_align='center' color='000000' size='12' shadow='shadow2'>EI</text>
+
+              <rect x='540' y='360' width='40' height='30' fill_color='000000' fill_alpha='50' />
+              <text x='540' y='360' width='40' height='30' size='12' h_align='center' v_align='middle' color='FFFFFF' shadow='shadow2'>2</text>
+
+              <rect x='600' y='360' width='40' height='30' fill_color='000000' fill_alpha='50' />
+              <text x='600' y='360' width='40' height='30' size='12' h_align='center' v_align='middle' color='FFFFFF' shadow='shadow2'>2.1</text>
+
+              <text x='20' y='420' width='70' height='25' size='12' h_align='left' v_align='middle' color='000000' >12/8/2013</text>
+              <text x='100' y='420' width='200' height='25' size='12' h_align='left' v_align='middle' color='000000' >Paul Brown Stadium</text>
+
+   </draw></chart>

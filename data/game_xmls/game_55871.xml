@@ -1,0 +1,309 @@
+
+<chart>
+   <license>ETAS9P33ESHO.945CWK-2XOI1X0-7L</license>
+   <chart_type>scatter</chart_type>
+   <chart_pref trend_thickness='0' line_thickness='3' point_size='0'/>
+
+   <series_color>
+      <color>ffff00</color>
+   </series_color>
+
+   <chart_rect x='45' y='20' width='630' height='230' positive_color='cacaca'  />
+
+  <chart_border top_thickness='0'
+                 bottom_thickness='0'
+                 left_thickness='0'
+                 right_thickness='0'
+                 color='000000'
+                 />
+
+   <tooltip font='Arial' bold='true' size='11' />
+
+   <chart_note type='flag'
+               color='000000'
+               alpha='90'
+               bold='FALSE'
+               size='10'
+               background_color='ffffe0'
+               background_alpha='50'
+               shadow='shadow2'
+               />
+
+   <chart_grid_h thickness='2' color='ffffff' type='dashed'  />
+   <chart_grid_v thickness='2' color='ffffff'   />
+		>
+
+   <legend layout='hide' />
+
+   <chart_guide horizontal='TRUE'
+             vertical='TRUE'
+             thickness='1'
+             color='006400'
+             alpha='100'
+             type='solid'
+             snap_h='TRUE'
+             snap_v='TRUE'
+             radius='3'
+             fill_color='006400'
+             fill_alpha='100'
+             line_color='006400'
+             line_alpha='80'
+             line_thickness='1'
+             text_h_alpha='50'
+             text_v_alpha='00'
+             suffix_h=' WP'
+             decimals='2'
+             bold='FALSE'
+             size='11'
+             text_color='FFFFFF'
+             background_color='006400'
+             />
+   <filter>
+      <shadow id='shadow1' distance='2' angle='60' blurX='5' blurY='5' alpha='50' />
+      <bevel id='bevel1' angle='45' blurX='5' blurY='5' distance='0' />
+      <glow id='glow1' color='ffffff' alpha='0' blurX='7' blurY='7' strength='6' quality='2' inner='FALSE' knockout='FALSE' />
+      <glow id='winnerglow' color='ffffff' alpha='0' blurX='7' blurY='7' strength='5' quality='2' inner='FALSE' knockout='FALSE' />
+   </filter>
+
+    <axis_value_label>
+         <string></string>
+          <string> </string>
+          <null/>
+          <string> </string>
+          <string></string>
+
+       </axis_value_label>
+		
+	   <axis_ticks category_ticks='false'/>
+
+       <axis_value min='0' max='1' steps='4'  decimals='2' show_min='true' size='13' shadow='shadow2' />     
+            <axis_category
+               min='0'
+               max='60'
+               steps='4'
+               mode='all'
+               decimals='0'
+               size='13'
+               shadow='shadow2'
+               />
+
+       <axis_category_label>
+          <string>Kickoff</string>
+          <string></string>
+          <string>Halftime</string>
+          <string></string>
+          <string>End</string>
+
+       </axis_category_label>
+
+
+        <chart_data>
+       <row>
+	      <null/><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number>
+              <number>x</number><number>y</number>
+              </row><row><string></string>
+
+                     <number shadow='shadow1'>0</number><number>.5</number><number shadow='shadow1' tooltip='15:00 GB 0 CIN 0 LI: 8-T.Masthay kicks 65 yards from GB 35 to end zone Touchback.'>0.09</number><number>0.48</number>
+<number shadow='shadow1' tooltip='14:18 2-9-CIN 21GB 0 CIN 0 LI: 1.442-B.Green-Ellis right tackle to CIN 31 for 10 yards(50-A.Hawk; 59-B.Jones).'>0.7</number><number>0.46</number>
+<number shadow='shadow1' tooltip='13:44 1-10-CIN 31GB 0 CIN 0 LI: 1.5(Shotgun) 42-B.Green-Ellis right guard to CIN 35 for 4 yards(79-R.Pickett).'>1.27</number><number>0.47</number>
+<number shadow='shadow1' tooltip='13:19 2-6-CIN 35GB 0 CIN 0 LI: 1.314-A.Dalton pass short right to 84-J.Gresham to CIN 43 for 8 yards(38-T.Williams; 43-M.Jennings).'>1.68</number><number>0.45</number>
+<number shadow='shadow1' tooltip='12:38 1-10-CIN 43GB 0 CIN 0 LI: 1.314-A.Dalton pass short right to 12-M.Sanu pushed ob at GB 25 for 32 yards(43-M.Jennings).'>2.37</number><number>0.37</number>
+<number shadow='shadow1' tooltip='11:59 1-10-GB 25GB 0 CIN 0 LI: 1.642-B.Green-Ellis right tackle to GB 23 for 2 yards(59-B.Jones).'>3.02</number><number>0.38</number>
+<number shadow='shadow1' tooltip='11:14 2-8-GB 23GB 0 CIN 0 LI: 1.4(Shotgun) 14-A.Dalton scrambles up the middle to GB 19 for 4 yards(53-N.Perry).'>3.77</number><number>0.38</number>
+<number shadow='shadow1' tooltip='10:31 3-4-GB 19GB 0 CIN 0 LI: 1.3(Shotgun) 14-A.Dalton pass short middle to 12-M.Sanu to GB 5 for 14 yards(33-M.Hyde).'>4.48</number><number>0.32</number>
+<number shadow='shadow1' tooltip='10:06 1-5-GB 5GB 0 CIN 0 LI: 1.825-G.Bernard left guard to GB 3 for 2 yards(50-A.Hawk; 37-S.Shields).'>4.9</number><number>0.31</number>
+<number shadow='shadow1' tooltip='9:27 2-3-GB 3GB 0 CIN 0 LI: 1.925-G.Bernard right end for 3 yards TOUCHDOWN.'>5.55</number><number>0.29</number>
+<number shadow='shadow1' tooltip='9:27 GB 0 CIN 0 LI: 2-M.Nugent extra point is GOOD Center-46-C.Harris Holder-10-K.Huber.'>5.59</number><number>0.29</number>
+<number shadow='shadow1' tooltip='9:27 GB 0 CIN 7 LI: 2-M.Nugent kicks 57 yards from CIN 35 to GB 810-J.Ross MUFFS catch RECOVERED by CIN-26-T.Mays at GB 226-T.Mays to GB 2 for no gain (23-J.Franklin).'>5.64</number><number>0.12</number>
+<number shadow='shadow1' tooltip='9:12 1-2-GB 2GB 0 CIN 7 LI: 1.542-B.Green-Ellis right guard for 2 yards TOUCHDOWN.'>5.8</number><number>0.1</number>
+<number shadow='shadow1' tooltip='9:12 GB 0 CIN 7 LI: 2-M.Nugent extra point is GOOD Center-46-C.Harris Holder-10-K.Huber.'>5.84</number><number>0.1</number>
+<number shadow='shadow1' tooltip='9:12 GB 0 CIN 14 LI: 2-M.Nugent kicks 65 yards from CIN 35 to end zone Touchback.'>5.89</number><number>0.1</number>
+<number shadow='shadow1' tooltip='8:40 1-10-GB 33GB 0 CIN 14 LI: 0.1(Shotgun) 12-A.Rodgers pass incomplete short left to 18-R.Cobb (29-L.Hall).'>6.33</number><number>0.14</number>
+<number shadow='shadow1' tooltip='8:36 2-10-GB 33GB 0 CIN 14 LI: 0.412-A.Rodgers pass deep right to 87-J.Nelson to CIN 45 for 22 yards(23-T.Newman) [93-M.Johnson].'>6.4</number><number>0.14</number>
+<number shadow='shadow1' tooltip='8:13 1-10-CIN 45GB 0 CIN 14 LI: 0.144-J.Starks right end to CIN 49 for -4 yards(96-C.Dunlap).'>6.78</number><number>0.19</number>
+<number shadow='shadow1' tooltip='7:32 2-14-CIN 49GB 0 CIN 14 LI: 0.7(Shotgun) 12-A.Rodgers pass short left to 18-R.Cobb to CIN 46 for 3 yards(24-A.Jones).'>7.47</number><number>0.2</number>
+<number shadow='shadow1' tooltip='6:57 3-11-CIN 46GB 0 CIN 14 LI: 0.7(Shotgun) 12-A.Rodgers pass incomplete deep middle to 88-J.Finley (43-G.Iloka)GB-88-J.Finley was injured during the play.'>8.05</number><number>0.22</number>
+<number shadow='shadow1' tooltip='6:50 4-11-CIN 46GB 0 CIN 14 LI: 0.98-T.Masthay punts 38 yards to CIN 8 Center-61-B.Goode fair catch by 19-B.Tate.'>8.17</number><number>0.24</number>
+<number shadow='shadow1' tooltip='6:43 1-10-CIN 8GB 0 CIN 14 LI: 0.242-B.Green-Ellis right tackle to CIN 13 for 5 yards(59-B.Jones).'>8.28</number><number>0.16</number>
+<number shadow='shadow1' tooltip='6:07 2-5-CIN 13GB 0 CIN 14 LI: 1(Shotgun) 14-A.Dalton pass short middle to 12-M.Sanu to CIN 12 for -1 yards(59-B.Jones){shovel pass}'>8.88</number><number>0.15</number>
+<number shadow='shadow1' tooltip='5:21 3-6-CIN 12GB 0 CIN 14 LI: 1.1(Shotgun) 14-A.Dalton pass incomplete short right to 82-M.Jones.'>9.65</number><number>0.13</number>
+<number shadow='shadow1' tooltip='5:16 4-6-CIN 12GB 0 CIN 14 LI: 1.310-K.Huber punts 46 yards to GB 42 Center-46-C.Harris fair catch by 10-J.Ross.'>9.73</number><number>0.12</number>
+<number shadow='shadow1' tooltip='5:09 1-10-GB 42GB 0 CIN 14 LI: 0.1(Shotgun) 44-J.Starks up the middle to GB 45 for 3 yards(58-R.Maualuga).'>9.85</number><number>0.16</number>
+<number shadow='shadow1' tooltip='4:42 2-7-GB 45GB 0 CIN 14 LI: 0.5(Shotgun) 12-A.Rodgers pass incomplete short right to 87-J.Nelson.'>10.3</number><number>0.18</number>
+<number shadow='shadow1' tooltip='4:36 3-7-GB 45GB 0 CIN 14 LI: 0.7(Shotgun) 12-A.Rodgers sacked at GB 40 for -5 yards(93-M.Johnson).'>10.4</number><number>0.18</number>
+<number shadow='shadow1' tooltip='4:02 4-12-GB 40GB 0 CIN 14 LI: 0.78-T.Masthay punts 55 yards to CIN 5 Center-61-B.Goode out of boundsPENALTY on CIN-30-C.Peerman Defensive Holding 3 yards enforced at CIN 5.'>10.97</number><number>0.24</number>
+<number shadow='shadow1' tooltip='3:53 1-10-CIN 2GB 0 CIN 14 LI: 0.2(Shotgun) 14-A.Dalton pass incomplete short right to 85-T.Eifert (79-R.Pickett).'>11.12</number><number>0.18</number>
+<number shadow='shadow1' tooltip='3:49 2-10-CIN 2GB 0 CIN 14 LI: 0.8(Shotgun) 25-G.Bernard left guard to CIN 10 for 8 yards(50-A.Hawk).'>11.18</number><number>0.18</number>
+<number shadow='shadow1' tooltip='3:03 3-2-CIN 10GB 0 CIN 14 LI: 0.8(Shotgun) 25-G.Bernard left tackle to CIN 13 for 3 yards(33-M.Hyde; 38-T.Williams).'>11.95</number><number>0.23</number>
+<number shadow='shadow1' tooltip='2:13 1-10-CIN 13GB 0 CIN 14 LI: 0.3(Shotgun) 25-G.Bernard right guard to CIN 17 for 4 yards(53-N.Perry).'>12.78</number><number>0.14</number>
+<number shadow='shadow1' tooltip='1:36 2-6-CIN 17GB 0 CIN 14 LI: 0.314-A.Dalton pass short right to 84-J.Gresham to CIN 16 for -1 yards(50-A.Hawk).'>13.4</number><number>0.13</number>
+<number shadow='shadow1' tooltip='0:51 3-7-CIN 16GB 0 CIN 14 LI: 0.4(Shotgun) 14-A.Dalton pass short left intended for 18-A.Green INTERCEPTED by 37-S.Shields at CIN 2737-S.Shields pushed ob at CIN 26 for 1 yard(18-A.Green).'>14.15</number><number>0.16</number>
+<number shadow='shadow1' tooltip='0:43 1-10-CIN 26GB 0 CIN 14 LI: 0.112-A.Rodgers pass incomplete short middle to 81-A.Quarless.'>14.28</number><number>0.21</number>
+<number shadow='shadow1' tooltip='0:38 2-10-CIN 26GB 0 CIN 14 LI: 0.644-J.Starks right guard to CIN 23 for 3 yards(96-C.Dunlap).'>14.37</number><number>0.2</number>
+<number shadow='shadow1' tooltip='0:04 3-7-CIN 23GB 0 CIN 14 LI: 0.4(Shotgun) 12-A.Rodgers pass incomplete deep left to 18-R.Cobb.'>14.93</number><number>0.17</number>
+<number shadow='shadow1' tooltip='15:00 4-7-CIN 23GB 0 CIN 14 LI: 0.12-M.Crosby 41 yard field goal is GOOD Center-61-B.Goode Holder-8-T.Masthay.'>15</number><number>0.16</number>
+<number shadow='shadow1' tooltip='15:00 GB 3 CIN 14 LI: 8-T.Masthay kicks 70 yards from GB 35 to CIN -519-B.Tate to CIN 25 for 30 yards(55-A.Mulumba).'>15.09</number><number>0.17</number>
+<number shadow='shadow1' tooltip='14:51 1-10-CIN 25GB 3 CIN 14 LI: 0.842-B.Green-Ellis left guard to CIN 26 for 1 yard(59-B.Jones).'>15.15</number><number>0.16</number>
+<number shadow='shadow1' tooltip='14:12 2-9-CIN 26GB 3 CIN 14 LI: 0.9(Shotgun) 14-A.Dalton pass short middle to 84-J.Gresham to CIN 35 for 9 yards(59-B.Jones)FUMBLES (59-B.Jones) RECOVERED by GB-50-A.Hawk at CIN 3750-A.Hawk to CIN 37 for no gain (84-J.Gresham).'>15.8</number><number>0.23</number>
+<number shadow='shadow1' tooltip='14:01 1-10-CIN 37GB 3 CIN 14 LI: 0.8(Shotgun) 44-J.Starks right end to CIN 34 for 3 yards(58-R.Maualuga).'>15.98</number><number>0.23</number>
+<number shadow='shadow1' tooltip='13:32 2-7-CIN 34GB 3 CIN 14 LI: 0.8(Shotgun) 12-A.Rodgers pass incomplete short right to 81-A.Quarless.'>16.47</number><number>0.21</number>
+<number shadow='shadow1' tooltip='13:28 3-7-CIN 34GB 3 CIN 14 LI: 0.6(Shotgun) 12-A.Rodgers pass incomplete deep left to 89-J.Jones [93-M.Johnson]PENALTY on GB-69-D.Bakhtiari Offensive Holding 10 yards enforced at CIN 34 - No Play.'>16.53</number><number>0.18</number>
+<number shadow='shadow1' tooltip='13:21 3-17-CIN 44GB 3 CIN 14 LI: 0.4(Shotgun) 12-A.Rodgers sacked at GB 48 for -8 yards(sack split by 93-M.Johnson and 95-W.Gilberry).'>16.65</number><number>0.16</number>
+<number shadow='shadow1' tooltip='12:50 4-25-GB 48GB 3 CIN 14 LI: 0.38-T.Masthay punts 37 yards to CIN 15 Center-61-B.Goode downed by GB-82-R.Taylor.'>17.17</number><number>0.16</number>
+<number shadow='shadow1' tooltip='12:40 1-10-CIN 15GB 3 CIN 14 LI: 125-G.Bernard left guard to CIN 20 for 5 yards(50-A.Hawk).'>17.33</number><number>0.16</number>
+<number shadow='shadow1' tooltip='12:10 2-5-CIN 20GB 3 CIN 14 LI: 0.925-G.Bernard right guard to CIN 24 for 4 yards(50-A.Hawk).'>17.83</number><number>0.15</number>
+<number shadow='shadow1' tooltip='11:31 3-1-CIN 24GB 3 CIN 14 LI: 0.942-B.Green-Ellis right guard to CIN 22 for -2 yards(52-C.Matthews)FUMBLES (52-C.Matthews) RECOVERED by GB-43-M.Jennings at CIN 2443-M.Jennings for 24 yards TOUCHDOWN{Green-Ellis credited with 0 rushing yards due to where fumble was recovered}'>18.48</number><number>0.34</number>
+<number shadow='shadow1' tooltip='11:31 GB 3 CIN 14 LI: 2-M.Crosby extra point is GOOD Center-61-B.Goode Holder-8-T.Masthay.'>18.52</number><number>0.34</number>
+<number shadow='shadow1' tooltip='11:31 GB 10 CIN 14 LI: 8-T.Masthay kicks 70 yards from GB 35 to CIN -519-B.Tate to CIN 27 for 32 yards(57-J.Lattimore).'>18.57</number><number>0.34</number>
+<number shadow='shadow1' tooltip='11:14 1-10-CIN 27GB 10 CIN 14 LI: 1.314-A.Dalton pass short right to 25-G.Bernard to CIN 33 for 6 yards(50-A.Hawk).'>18.77</number><number>0.34</number>
+<number shadow='shadow1' tooltip='10:37 2-4-CIN 33GB 10 CIN 14 LI: 1.2(Shotgun) 14-A.Dalton sacked at CIN 29 for -4 yards(43-M.Jennings).'>19.38</number><number>0.36</number>
+<number shadow='shadow1' tooltip='9:53 3-8-CIN 29GB 10 CIN 14 LI: 1.1(Shotgun) 14-A.Dalton sacked at CIN 25 for -4 yards(52-C.Matthews)FUMBLES (52-C.Matthews) RECOVERED by GB-59-B.Jones at CIN 2459-B.Jones to CIN 21 for 3 yards(68-K.Zeitler).'>20.12</number><number>0.48</number>
+<number shadow='shadow1' tooltip='9:43 1-10-CIN 21GB 10 CIN 14 LI: 1.344-J.Starks left end to CIN 13 for 8 yards(55-V.Burfict).'>20.28</number><number>0.56</number>
+<number shadow='shadow1' tooltip='9:12 2-2-CIN 13GB 10 CIN 14 LI: 2(Shotgun) 44-J.Starks left end to CIN 11 for 2 yards(94-D.Peko).'>20.8</number><number>0.56</number>
+<number shadow='shadow1' tooltip='8:27 1-10-CIN 11GB 10 CIN 14 LI: 244-J.Starks left tackle to CIN 10 for 1 yard(96-C.Dunlap).'>21.55</number><number>0.54</number>
+<number shadow='shadow1' tooltip='7:48 2-9-CIN 10GB 10 CIN 14 LI: 1.812-A.Rodgers pass incomplete short left to 89-J.JonesPENALTY on CIN-24-A.Jones Defensive Holding 5 yards enforced at CIN 10 - No Play.'>22.2</number><number>0.57</number>
+<number shadow='shadow1' tooltip='7:41 1-5-CIN 5GB 10 CIN 14 LI: 2.112-A.Rodgers pass incomplete short right [96-C.Dunlap]{thrown away}'>22.32</number><number>0.56</number>
+<number shadow='shadow1' tooltip='7:33 2-5-CIN 5GB 10 CIN 14 LI: 2(Shotgun) 44-J.Starks right tackle to CIN 3 for 2 yards(96-C.Dunlap).'>22.45</number><number>0.54</number>
+<number shadow='shadow1' tooltip='6:50 3-3-CIN 3GB 10 CIN 14 LI: 1.8(Shotgun) 12-A.Rodgers scrambles right end pushed ob at CIN 1 for 2 yards(29-L.Hall; 20-R.Nelson).'>23.17</number><number>0.46</number>
+<number shadow='shadow1' tooltip='6:36 4-1-CIN 1GB 10 CIN 14 LI: 12-M.Crosby 19 yard field goal is GOOD Center-61-B.Goode Holder-8-T.Masthay.'>23.4</number><number>0.45</number>
+<number shadow='shadow1' tooltip='6:36 GB 13 CIN 14 LI: 8-T.Masthay kicks 65 yards from GB 35 to end zone Touchback.'>23.49</number><number>0.46</number>
+<number shadow='shadow1' tooltip='5:55 2-7-CIN 23GB 13 CIN 14 LI: 1.4(Shotgun) 14-A.Dalton pass incomplete deep right to 18-A.Green.'>24.08</number><number>0.47</number>
+<number shadow='shadow1' tooltip='5:48 3-7-CIN 23GB 13 CIN 14 LI: 1.2(Shotgun) 14-A.Dalton pass incomplete short right to 84-J.Gresham (22-J.McMillian).'>24.2</number><number>0.5</number>
+<number shadow='shadow1' tooltip='5:42 4-7-CIN 23GB 13 CIN 14 LI: 0.910-K.Huber punts 55 yards to GB 22 Center-46-C.Harris out of bounds.'>24.3</number><number>0.46</number>
+<number shadow='shadow1' tooltip='5:35 1-10-GB 22GB 13 CIN 14 LI: 1.1(Shotgun) 44-J.Starks right tackle to GB 29 for 7 yards(98-B.Thompson).'>24.42</number><number>0.48</number>
+<number shadow='shadow1' tooltip='5:08 2-3-GB 29GB 13 CIN 14 LI: 1.244-J.Starks left guard to GB 31 for 2 yards(93-M.Johnson).'>24.87</number><number>0.48</number>
+<number shadow='shadow1' tooltip='4:37 3-1-GB 31GB 13 CIN 14 LI: 1.2(Shotgun) 12-A.Rodgers pass short middle to 89-J.Jones to GB 44 for 13 yards(55-V.Burfict)PENALTY on CIN-55-V.Burfict Unnecessary Roughness 15 yards enforced at GB 44.'>25.38</number><number>0.55</number>
+<number shadow='shadow1' tooltip='4:15 1-10-CIN 41GB 13 CIN 14 LI: 1.4(Shotgun) 12-A.Rodgers pass short left to 82-R.Taylor to CIN 38 for 3 yards(29-L.Hall).'>25.75</number><number>0.54</number>
+<number shadow='shadow1' tooltip='3:40 2-7-CIN 38GB 13 CIN 14 LI: 1.244-J.Starks right end to CIN 27 for 11 yards(43-G.Iloka).'>26.33</number><number>0.59</number>
+<number shadow='shadow1' tooltip='3:04 1-10-CIN 27GB 13 CIN 14 LI: 1.5(Shotgun) 12-A.Rodgers pass short right to 81-A.Quarless to CIN 17 for 10 yards(55-V.Burfict).'>26.93</number><number>0.61</number>
+<number shadow='shadow1' tooltip='2:34 1-10-CIN 17GB 13 CIN 14 LI: 1.5(Shotgun) 12-A.Rodgers pass short right to 89-J.Jones to CIN 8 for 9 yards(55-V.Burfict).'>27.43</number><number>0.68</number>
+<number shadow='shadow1' tooltip='2:04 2-1-CIN 8GB 13 CIN 14 LI: 2.1(Shotgun) 44-J.Starks right end to CIN 5 for 3 yards(93-M.Johnson).'>27.93</number><number>0.66</number>
+<number shadow='shadow1' tooltip='2:00 1-5-CIN 5GB 13 CIN 14 LI: 1.9(Shotgun) 44-J.Starks right guard to CIN 4 for 1 yard(93-M.Johnson; 55-V.Burfict).'>28</number><number>0.67</number>
+<number shadow='shadow1' tooltip='1:18 2-4-CIN 4GB 13 CIN 14 LI: 2(Shotgun) 12-A.Rodgers sacked at CIN 12 for -8 yards(96-C.Dunlap).'>28.7</number><number>0.61</number>
+<number shadow='shadow1' tooltip='0:30 3-12-CIN 12GB 13 CIN 14 LI: 1.4(Shotgun) 12-A.Rodgers pass short right to 87-J.Nelson to CIN 8 for 4 yards(23-T.Newman).'>29.5</number><number>0.57</number>
+<number shadow='shadow1' tooltip='0:03 4-8-CIN 8GB 13 CIN 14 LI: 12-M.Crosby 26 yard field goal is GOOD Center-61-B.Goode Holder-8-T.Masthay.'>29.95</number><number>0.57</number>
+<number shadow='shadow1' tooltip='0:03 GB 16 CIN 14 LI: 2-M.Nugent kicks 65 yards from CIN 35 to end zone Touchback.'>30.04</number><number>0.59</number>
+<number shadow='shadow1' tooltip='14:29 1-10-GB 46GB 16 CIN 14 LI: 1.4(Shotgun) 12-A.Rodgers pass short left to 87-J.Nelson pushed ob at CIN 47 for 7 yards(24-A.Jones).'>30.52</number><number>0.65</number>
+<number shadow='shadow1' tooltip='14:12 2-3-CIN 47GB 16 CIN 14 LI: 1.3(Shotgun) 23-J.Franklin left guard to CIN 42 for 5 yards(55-V.Burfict).'>30.8</number><number>0.66</number>
+<number shadow='shadow1' tooltip='13:31 1-10-CIN 42GB 16 CIN 14 LI: 1.3(Shotgun) 12-A.Rodgers pass incomplete short middle to 18-R.Cobb (29-L.Hall).'>31.48</number><number>0.66</number>
+<number shadow='shadow1' tooltip='13:27 2-10-CIN 42GB 16 CIN 14 LI: 1.2(Shotgun) 12-A.Rodgers pass incomplete short left to 82-R.Taylor.'>31.55</number><number>0.64</number>
+<number shadow='shadow1' tooltip='13:22 3-10-CIN 42GB 16 CIN 14 LI: 1(Shotgun) 12-A.Rodgers pass incomplete short left to 82-R.Taylor [20-R.Nelson]PENALTY on CIN-20-R.Nelson Roughing the Passer 15 yards enforced at CIN 42 - No Play.'>31.63</number><number>0.69</number>
+<number shadow='shadow1' tooltip='13:18 1-10-CIN 27GB 16 CIN 14 LI: 1.1(Shotgun) 12-A.Rodgers pass incomplete short left to 81-A.QuarlessPENALTY on CIN-55-V.Burfict Defensive Holding 5 yards enforced at CIN 27 - No Play.'>31.7</number><number>0.7</number>
+<number shadow='shadow1' tooltip='13:13 1-10-CIN 22GB 16 CIN 14 LI: 1.123-J.Franklin right guard to CIN 17 for 5 yards(55-V.Burfict).'>31.78</number><number>0.73</number>
+<number shadow='shadow1' tooltip='12:46 2-5-CIN 17GB 16 CIN 14 LI: 1.2(Shotgun) 23-J.Franklin right end to CIN 9 for 8 yards(20-R.Nelson; 43-G.Iloka).'>32.23</number><number>0.75</number>
+<number shadow='shadow1' tooltip='12:19 1-9-CIN 9GB 16 CIN 14 LI: 1.2(Shotgun) 12-A.Rodgers pass short left to 23-J.Franklin to CIN 2 for 7 yards(55-V.Burfict).'>32.68</number><number>0.77</number>
+<number shadow='shadow1' tooltip='11:44 2-2-CIN 2GB 16 CIN 14 LI: 1.423-J.Franklin left end for 2 yards TOUCHDOWN.'>33.27</number><number>0.78</number>
+<number shadow='shadow1' tooltip='11:44 GB 16 CIN 14 LI: 2-M.Crosby extra point is GOOD Center-61-B.Goode Holder-8-T.Masthay.'>33.31</number><number>0.78</number>
+<number shadow='shadow1' tooltip='11:44 GB 23 CIN 14 LI: 8-T.Masthay kicks 68 yards from GB 35 to CIN -319-B.Tate to CIN 24 for 27 yards(49-R.Francois)FUMBLES (49-R.Francois) recovered by CIN-30-C.Peerman at CIN 2430-C.Peerman to CIN 24 for no gain (8-T.Masthay).'>33.36</number><number>0.78</number>
+<number shadow='shadow1' tooltip='11:32 1-10-CIN 24GB 23 CIN 14 LI: 1.1(Shotgun) 14-A.Dalton pass short right to 25-G.Bernard to CIN 24 for no gain (38-T.Williams).'>33.47</number><number>0.79</number>
+<number shadow='shadow1' tooltip='10:52 2-10-CIN 24GB 23 CIN 14 LI: 1.1(Shotgun) 14-A.Dalton pass short middle to 85-T.Eifert to CIN 31 for 7 yards(59-B.Jones).'>34.13</number><number>0.79</number>
+<number shadow='shadow1' tooltip='10:08 3-3-CIN 31GB 23 CIN 14 LI: 0.9(Shotgun) 14-A.Dalton pass short right to 18-A.Green to CIN 37 for 6 yards(37-S.Shields).'>34.87</number><number>0.76</number>
+<number shadow='shadow1' tooltip='9:31 1-10-CIN 37GB 23 CIN 14 LI: 1.142-B.Green-Ellis left tackle to CIN 37 for no gain (76-M.Daniels).'>35.48</number><number>0.78</number>
+<number shadow='shadow1' tooltip='8:54 2-10-CIN 37GB 23 CIN 14 LI: 1(Shotgun) 14-A.Dalton pass short right to 12-M.Sanu to GB 40 for 23 yards(53-N.Perry; 38-T.Williams).'>36.1</number><number>0.73</number>
+<number shadow='shadow1' tooltip='8:18 1-10-GB 40GB 23 CIN 14 LI: 1.1(Shotgun) 42-B.Green-Ellis right guard to GB 38 for 2 yards(97-J.Jolly).'>36.7</number><number>0.75</number>
+<number shadow='shadow1' tooltip='7:38 2-8-GB 38GB 23 CIN 14 LI: 0.9(Shotgun) 14-A.Dalton pass incomplete deep right to 18-A.Green [38-T.Williams].'>37.37</number><number>0.76</number>
+<number shadow='shadow1' tooltip='7:31 3-8-GB 38GB 23 CIN 14 LI: 0.8(Shotgun) 14-A.Dalton pass incomplete short right to 12-M.Sanu.'>37.48</number><number>0.79</number>
+<number shadow='shadow1' tooltip='7:26 4-8-GB 38GB 23 CIN 14 LI: 0.510-K.Huber punts 30 yards to GB 8 Center-46-C.Harris fair catch by 18-R.Cobb.'>37.57</number><number>0.79</number>
+<number shadow='shadow1' tooltip='7:18 1-10-GB 8GB 23 CIN 14 LI: 1.3(Shotgun) 12-A.Rodgers pass short left to 89-J.Jones to GB 13 for 5 yards(24-A.Jones).'>37.7</number><number>0.8</number>
+<number shadow='shadow1' tooltip='6:45 2-5-GB 13GB 23 CIN 14 LI: 1.4(Shotgun) 23-J.Franklin left end to CIN 36 for 51 yards(29-L.Hall).'>38.25</number><number>0.89</number>
+<number shadow='shadow1' tooltip='6:16 1-10-CIN 36GB 23 CIN 14 LI: 1.1(Shotgun) 12-A.Rodgers pass deep right to 87-J.Nelson ran ob at CIN 6 for 30 yards.'>38.73</number><number>0.92</number>
+<number shadow='shadow1' tooltip='6:00 1-6-CIN 6GB 23 CIN 14 LI: 123-J.Franklin right end to CIN 7 for -1 yards(23-T.Newman).'>39</number><number>0.93</number>
+<number shadow='shadow1' tooltip='5:36 2-7-CIN 7GB 23 CIN 14 LI: 1.112-A.Rodgers pass short left to 89-J.Jones for 7 yards TOUCHDOWN [93-M.Johnson].'>39.4</number><number>0.94</number>
+<number shadow='shadow1' tooltip='5:36 GB 23 CIN 14 LI: 2-M.Crosby extra point is GOOD Center-61-B.Goode Holder-8-T.MasthayPENALTY on GB-82-R.Taylor Personal Foul 15 yards enforced between downs.'>39.44</number><number>0.94</number>
+<number shadow='shadow1' tooltip='5:36 GB 30 CIN 14 LI: 8-T.Masthay kicks 67 yards from GB 20 to CIN 1319-B.Tate to CIN 35 for 22 yards(57-J.Lattimore; 55-A.Mulumba).'>39.49</number><number>0.94</number>
+<number shadow='shadow1' tooltip='5:19 1-10-CIN 35GB 30 CIN 14 LI: 0.3(Shotgun) 14-A.Dalton pass short left to 82-M.Jones to CIN 40 for 5 yards(31-D.House).'>39.68</number><number>0.94</number>
+<number shadow='shadow1' tooltip='4:44 2-5-CIN 40GB 30 CIN 14 LI: 0.3(Shotgun) 14-A.Dalton pass short right to 18-A.Green to CIN 48 for 8 yards(37-S.Shields)PENALTY on GB-53-N.Perry Unnecessary Roughness 15 yards enforced at CIN 48.'>40.27</number><number>0.92</number>
+<number shadow='shadow1' tooltip='4:21 1-10-GB 37GB 30 CIN 14 LI: 0.4(Shotgun) 25-G.Bernard right guard to GB 20 for 17 yards(32-C.Banjo).'>40.65</number><number>0.92</number>
+<number shadow='shadow1' tooltip='3:55 1-10-GB 20GB 30 CIN 14 LI: 0.514-A.Dalton pass deep right to 18-A.Green for 20 yards TOUCHDOWN.'>41.08</number><number>0.84</number>
+<number shadow='shadow1' tooltip='3:55 GB 30 CIN 14 LI: 2-M.Nugent extra point is GOOD Center-46-C.Harris Holder-10-K.Huber.'>41.12</number><number>0.84</number>
+<number shadow='shadow1' tooltip='3:55 GB 30 CIN 21 LI: 2-M.Nugent kicks 64 yards from CIN 35 to GB 1 out of bounds.'>41.17</number><number>0.86</number>
+<number shadow='shadow1' tooltip='3:19 2-3-GB 47GB 30 CIN 21 LI: 1.1(Shotgun) 12-A.Rodgers pass incomplete deep right to 89-J.Jones.'>41.68</number><number>0.86</number>
+<number shadow='shadow1' tooltip='3:10 3-3-GB 47GB 30 CIN 21 LI: 1(Shotgun) 12-A.Rodgers pass short middle intended for 89-J.Jones INTERCEPTED by 23-T.Newman at CIN 4523-T.Newman to GB 46 for 9 yards(11-J.Boykin).'>41.83</number><number>0.76</number>
+<number shadow='shadow1' tooltip='3:01 1-10-GB 46GB 30 CIN 21 LI: 1.1(Shotgun) 14-A.Dalton pass short left to 84-J.Gresham pushed ob at GB 35 for 11 yards(59-B.Jones).'>41.98</number><number>0.73</number>
+<number shadow='shadow1' tooltip='2:32 1-10-GB 35GB 30 CIN 21 LI: 1.2(Shotgun) 14-A.Dalton sacked at GB 43 for -8 yards(38-T.Williams).'>42.47</number><number>0.8</number>
+<number shadow='shadow1' tooltip='1:58 2-18-GB 43GB 30 CIN 21 LI: 0.7(Shotgun) 14-A.Dalton pass short right to 25-G.Bernard to GB 31 for 12 yards(43-M.Jennings).'>43.03</number><number>0.77</number>
+<number shadow='shadow1' tooltip='1:10 3-6-GB 31GB 30 CIN 21 LI: 0.9(Shotgun) 14-A.Dalton sacked at GB 34 for -3 yards(76-M.Daniels).'>43.83</number><number>0.82</number>
+<number shadow='shadow1' tooltip='0:32 4-9-GB 34GB 30 CIN 21 LI: 0.52-M.Nugent 52 yard field goal is No Good Wide Left Center-46-C.Harris Holder-10-K.Huber.'>44.47</number><number>0.88</number>
+<number shadow='shadow1' tooltip='0:27 1-10-GB 42GB 30 CIN 21 LI: 1.112-A.Rodgers scrambles left end ran ob at CIN 40 for 18 yards(58-R.Maualuga).'>44.55</number><number>0.91</number>
+<number shadow='shadow1' tooltip='15:00 1-10-CIN 40GB 30 CIN 21 LI: 1(Shotgun) 12-A.Rodgers pass short right to 18-R.Cobb to CIN 33 for 7 yards(93-M.Johnson).'>45</number><number>0.91</number>
+<number shadow='shadow1' tooltip='14:29 2-3-CIN 33GB 30 CIN 21 LI: 0.812-A.Rodgers pass short middle to 23-J.Franklin to CIN 27 for 6 yards(58-R.Maualuga).'>45.52</number><number>0.93</number>
+<number shadow='shadow1' tooltip='13:48 1-10-CIN 27GB 30 CIN 21 LI: 0.8(Shotgun) 12-A.Rodgers pass deep right intended for 18-R.Cobb INTERCEPTED by 29-L.Hall at CIN 529-L.Hall to CIN 5 for no gain (18-R.Cobb).'>46.2</number><number>0.89</number>
+<number shadow='shadow1' tooltip='13:41 1-10-CIN 5GB 30 CIN 21 LI: 0.6(Shotgun) 14-A.Dalton pass short left to 25-G.Bernard pushed ob at CIN 36 for 31 yards(32-C.Banjo).'>46.32</number><number>0.83</number>
+<number shadow='shadow1' tooltip='13:13 1-10-CIN 36GB 30 CIN 21 LI: 0.9(Shotgun) 25-G.Bernard up the middle to CIN 38 for 2 yards(50-A.Hawk).'>46.78</number><number>0.85</number>
+<number shadow='shadow1' tooltip='12:35 2-8-CIN 38GB 30 CIN 21 LI: 0.7(Shotgun) 14-A.Dalton pass incomplete deep right to 18-A.Green.'>47.42</number><number>0.86</number>
+<number shadow='shadow1' tooltip='12:29 3-8-CIN 38GB 30 CIN 21 LI: 0.6(Shotgun) 14-A.Dalton pass short left to 82-M.Jones pushed ob at GB 40 for 22 yards(38-T.Williams)PENALTY on GB-38-T.Williams Unnecessary Roughness 15 yards enforced at GB 40.'>47.52</number><number>0.75</number>
+<number shadow='shadow1' tooltip='12:14 1-10-GB 25GB 30 CIN 21 LI: 1.4(Shotgun) 25-G.Bernard right tackle to GB 23 for 2 yards(59-B.Jones).'>47.77</number><number>0.75</number>
+<number shadow='shadow1' tooltip='11:38 2-8-GB 23GB 30 CIN 21 LI: 1.5(Shotgun) 14-A.Dalton pass short right to 18-A.Green pushed ob at GB 11 for 12 yards(37-S.Shields).'>48.37</number><number>0.7</number>
+<number shadow='shadow1' tooltip='11:04 1-10-GB 11GB 30 CIN 21 LI: 1.9(Shotgun) 14-A.Dalton pass short left to 82-M.Jones for 11 yards TOUCHDOWN.'>48.93</number><number>0.69</number>
+<number shadow='shadow1' tooltip='11:04 GB 30 CIN 21 LI: 2-M.Nugent extra point is Blocked (95-D.Jones) Center-46-C.Harris Holder-10-K.Huber.'>48.97</number><number>0.69</number>
+<number shadow='shadow1' tooltip='11:04 GB 30 CIN 27 LI: 2-M.Nugent kicks 65 yards from CIN 35 to GB 010-J.Ross to GB 21 for 21 yards(51-J.DiManche).'>49.02</number><number>0.68</number>
+<number shadow='shadow1' tooltip='10:49 1-10-GB 21GB 30 CIN 27 LI: 2.223-J.Franklin right guard to GB 33 for 12 yards(55-V.Burfict).'>49.18</number><number>0.72</number>
+<number shadow='shadow1' tooltip='10:06 1-10-GB 33GB 30 CIN 27 LI: 2.423-J.Franklin up the middle to GB 36 for 3 yards(58-R.Maualuga).'>49.9</number><number>0.74</number>
+<number shadow='shadow1' tooltip='9:24 2-7-GB 36GB 30 CIN 27 LI: 2.612-A.Rodgers scrambles right guard to GB 40 for 4 yards(95-W.Gilberry).'>50.6</number><number>0.74</number>
+<number shadow='shadow1' tooltip='8:48 3-3-GB 40GB 30 CIN 27 LI: 2.4(Shotgun) 12-A.Rodgers pass short left to 23-J.Franklin to 50 for 10 yards(24-A.Jones).'>51.2</number><number>0.81</number>
+<number shadow='shadow1' tooltip='8:14 1-10-50GB 30 CIN 27 LI: 2.912-A.Rodgers pass short right to 81-A.Quarless to CIN 46 for 4 yards(58-R.Maualuga).'>51.77</number><number>0.81</number>
+<number shadow='shadow1' tooltip='7:31 2-6-CIN 46GB 30 CIN 27 LI: 2.6(Shotgun) 12-A.Rodgers pass short right to 87-J.Nelson to CIN 44 for 2 yards(23-T.Newman).'>52.48</number><number>0.8</number>
+<number shadow='shadow1' tooltip='6:47 3-4-CIN 44GB 30 CIN 27 LI: 2.2(Shotgun) 12-A.Rodgers pass short right to 87-J.Nelson to CIN 39 for 5 yards(23-T.Newman).'>53.22</number><number>0.88</number>
+<number shadow='shadow1' tooltip='6:01 1-10-CIN 39GB 30 CIN 27 LI: 2.623-J.Franklin left end to CIN 35 for 4 yards(75-D.Still).'>53.98</number><number>0.86</number>
+<number shadow='shadow1' tooltip='5:14 2-6-CIN 35GB 30 CIN 27 LI: 2.212-A.Rodgers sacked at CIN 41 for -6 yards(94-D.Peko 96-C.Dunlap).'>54.77</number><number>0.82</number>
+<number shadow='shadow1' tooltip='4:34 3-12-CIN 41GB 30 CIN 27 LI: 1.8(Shotgun) 12-A.Rodgers pass short right to 18-R.Cobb to CIN 29 for 12 yards(29-L.Hall)Cincinnati challenged the runner was down by contact ruling and the play was REVERSED(Shotgun) 12-A.Rodgers pass short right to 18-R.Cobb to CIN 30 for 11 yards(29-L.Hall).'>55.43</number><number>0.72</number>
+<number shadow='shadow1' tooltip='4:01 4-1-CIN 30GB 30 CIN 27 LI: 0.723-J.Franklin right guard to CIN 30 for no gain (93-M.Johnson)FUMBLES (93-M.Johnson) RECOVERED by CIN-20-R.Nelson at CIN 2920-R.Nelson to CIN 35 for 6 yards(81-A.Quarless)FUMBLES (81-A.Quarless) recovered by CIN-23-T.Newman at CIN 4223-T.Newman for 58 yards TOUCHDOWN.'>55.98</number><number>0.25</number>
+<number shadow='shadow1' tooltip='4:01 GB 30 CIN 27 LI: 2-M.Nugent extra point is GOOD Center-46-C.Harris Holder-10-K.Huber.'>56.02</number><number>0.25</number>
+<number shadow='shadow1' tooltip='4:01 GB 30 CIN 34 LI: 2-M.Nugent kicks 65 yards from CIN 35 to end zone Touchback.'>56.07</number><number>0.25</number>
+<number shadow='shadow1' tooltip='3:47 1-10-GB 20GB 30 CIN 34 LI: 1.5(Shotgun) 12-A.Rodgers pass short right to 18-R.Cobb to GB 27 for 7 yards(26-T.Mays).'>56.22</number><number>0.24</number>
+<number shadow='shadow1' tooltip='3:21 2-3-GB 27GB 30 CIN 34 LI: 1.4(Shotgun) 23-J.Franklin right tackle to GB 32 for 5 yards(58-R.Maualuga).'>56.65</number><number>0.28</number>
+<number shadow='shadow1' tooltip='2:50 1-10-GB 32GB 30 CIN 34 LI: 2.3(Shotgun) 12-A.Rodgers pass short right to 81-A.Quarless to GB 39 for 7 yards(55-V.Burfict).'>57.17</number><number>0.26</number>
+<number shadow='shadow1' tooltip='2:21 2-3-GB 39GB 30 CIN 34 LI: 2.3(Shotgun) 12-A.Rodgers pass short right to 82-R.Taylor pushed ob at GB 47 for 8 yards(96-C.Dunlap).'>57.65</number><number>0.37</number>
+<number shadow='shadow1' tooltip='2:15 1-10-GB 47GB 30 CIN 34 LI: 3.3(Shotgun) 23-J.Franklin right guard to GB 49 for 2 yards(95-W.Gilberry).'>57.75</number><number>0.25</number>
+<number shadow='shadow1' tooltip='2:00 2-8-GB 49GB 30 CIN 34 LI: 2.1(Shotgun) 12-A.Rodgers pass incomplete short right to 18-R.Cobb (96-C.Dunlap){knocked down at the line of scrimmage}'>58</number><number>0.2</number>
+<number shadow='shadow1' tooltip='1:56 3-8-GB 49GB 30 CIN 34 LI: 1.6(Shotgun) 12-A.Rodgers pass short right to 10-J.Ross to CIN 43 for 8 yards(55-V.Burfict).'>58.07</number><number>0.4</number>
+<number shadow='shadow1' tooltip='1:50 1-10-CIN 43GB 30 CIN 34 LI: 3.6(Shotgun) 12-A.Rodgers pass incomplete short left to 10-J.Ross.'>58.17</number><number>0.24</number>
+<number shadow='shadow1' tooltip='1:46 2-10-CIN 43GB 30 CIN 34 LI: 2.1(Shotgun) 12-A.Rodgers pass deep right to 87-J.Nelson pushed ob at CIN 25 for 18 yards(23-T.Newman).'>58.23</number><number>0.47</number>
+<number shadow='shadow1' tooltip='1:40 1-10-CIN 25GB 30 CIN 34 LI: 4.2(Shotgun) 12-A.Rodgers pass incomplete deep left to 89-J.Jones.'>58.33</number><number>0.31</number>
+<number shadow='shadow1' tooltip='1:34 2-10-CIN 25GB 30 CIN 34 LI: 2.7(Shotgun) 12-A.Rodgers pass short left to 87-J.Nelson pushed ob at CIN 20 for 5 yards(26-T.Mays).'>58.43</number><number>0.28</number>
+<number shadow='shadow1' tooltip='1:29 3-5-CIN 20GB 30 CIN 34 LI: 2.3(Shotgun) 12-A.Rodgers pass incomplete short right to 18-R.Cobb (96-C.Dunlap){knocked down at the line of scrimmage}'>58.52</number><number>0.04</number>
+<number shadow='shadow1' tooltip='1:25 4-5-CIN 20GB 30 CIN 34 LI: 0.1(Shotgun) 12-A.Rodgers pass incomplete short left to 89-J.Jones (93-M.Johnson){tipped at the line of scrimmage}'>58.58</number><number>0.04</number>
+<number shadow='shadow1' tooltip='1:21 1-10-CIN 20GB 30 CIN 34 LI: 4.514-A.Dalton kneels to CIN 20 for no gain.'>58.65</number><number>0.03</number>
+<number shadow='shadow1' tooltip='0:40 2-10-CIN 20GB 30 CIN 34 LI: 4.614-A.Dalton kneels to CIN 18 for -2 yards.'>59.33</number><number>0</number>
+<number>60</number><number>0</number>
+</row> </chart_data>
+       <draw>
+
+
+
+      <image x='45' y='298'  url='nfllogos/42x50png/GB.gif'  layer='foreground' glow = 'glow1'/>
+      <image x='45' y='350'  url='nfllogos/42x50png/CIN.gif'     layer='foreground' glow = 'glow1'/>
+
+
+      <rect x='130' y='300' width='250' height='40' fill_color='00422f' bevel='bevel1' />
+      <text x='135' y='300' width='250' height='40' h_align='left' v_align='middle' color='ffffff' shadow='shadow2' glow=''>Green Bay Packers</text>
+
+      <rect x='130' y='350' width='250' height='40' fill_color='ff652b' bevel='bevel1'  />
+      <text x='135' y='350' width='250' height='40' h_align='left' v_align='middle' color='ffffff' shadow='shadow2' glow='winnerglow'>Cincinnati Bengals</text>
+
+      <rect x='420' y='300' width='60' height='40' fill_color='00422f' bevel='bevel1'  />
+      <text x='420' y='300' width='60' height='40' h_align='center' v_align='middle' color='ffffff' shadow='shadow2' transition='none' glow=''>30</text>
+
+      <rect x='420' y='350' width='60' height='40' fill_color='ff652b' bevel='bevel1' />
+      <text x='420' y='350' width='60' height='40' h_align='center' v_align='middle' color='ffffff' shadow='shadow2' transition='none' glow='winnerglow'>34</text>
+
+      <text x='-3' y='12'  width='60' height='40' h_align='center' v_align='middle' size='13' shadow='shadow2'>GBWin </text>
+      <text x='-3' y='218' width='60' height='40' h_align='center' v_align='middle' size='13' shadow='shadow2'>CINWin </text>
+
+     
+              <rect x='540' y='300' width='100' height='35' fill_color='000000' fill_alpha='50'/>
+              <text x='540' y='300' width='100' height='35' h_align='center' v_align='middle' color='ffffff' size='15' shadow='shadow2' >Final</text>
+
+              <text x='540' y='340' width='40' h_align='center' color='000000' size='12' shadow='shadow2'>CBF</text>
+              <text x='600' y='340' width='40' h_align='center' color='000000' size='12' shadow='shadow2'>EI</text>
+
+              <rect x='540' y='360' width='40' height='30' fill_color='000000' fill_alpha='50' />
+              <text x='540' y='360' width='40' height='30' size='12' h_align='center' v_align='middle' color='FFFFFF' shadow='shadow2'>17</text>
+
+              <rect x='600' y='360' width='40' height='30' fill_color='000000' fill_alpha='50' />
+              <text x='600' y='360' width='40' height='30' size='12' h_align='center' v_align='middle' color='FFFFFF' shadow='shadow2'>6.0</text>
+
+              <text x='20' y='420' width='70' height='25' size='12' h_align='left' v_align='middle' color='000000' >9/22/2013</text>
+              <text x='100' y='420' width='200' height='25' size='12' h_align='left' v_align='middle' color='000000' >Paul Brown Stadium</text>
+
+   </draw></chart>

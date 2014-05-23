@@ -1,0 +1,307 @@
+
+<chart>
+   <license>ETAS9P33ESHO.945CWK-2XOI1X0-7L</license>
+   <chart_type>scatter</chart_type>
+   <chart_pref trend_thickness='0' line_thickness='3' point_size='0'/>
+
+   <series_color>
+      <color>ffff00</color>
+   </series_color>
+
+   <chart_rect x='45' y='20' width='630' height='230' positive_color='cacaca'  />
+
+  <chart_border top_thickness='0'
+                 bottom_thickness='0'
+                 left_thickness='0'
+                 right_thickness='0'
+                 color='000000'
+                 />
+
+   <tooltip font='Arial' bold='true' size='11' />
+
+   <chart_note type='flag'
+               color='000000'
+               alpha='90'
+               bold='FALSE'
+               size='10'
+               background_color='ffffe0'
+               background_alpha='50'
+               shadow='shadow2'
+               />
+
+   <chart_grid_h thickness='2' color='ffffff' type='dashed'  />
+   <chart_grid_v thickness='2' color='ffffff'   />
+		>
+
+   <legend layout='hide' />
+
+   <chart_guide horizontal='TRUE'
+             vertical='TRUE'
+             thickness='1'
+             color='006400'
+             alpha='100'
+             type='solid'
+             snap_h='TRUE'
+             snap_v='TRUE'
+             radius='3'
+             fill_color='006400'
+             fill_alpha='100'
+             line_color='006400'
+             line_alpha='80'
+             line_thickness='1'
+             text_h_alpha='50'
+             text_v_alpha='00'
+             suffix_h=' WP'
+             decimals='2'
+             bold='FALSE'
+             size='11'
+             text_color='FFFFFF'
+             background_color='006400'
+             />
+   <filter>
+      <shadow id='shadow1' distance='2' angle='60' blurX='5' blurY='5' alpha='50' />
+      <bevel id='bevel1' angle='45' blurX='5' blurY='5' distance='0' />
+      <glow id='glow1' color='ffffff' alpha='0' blurX='7' blurY='7' strength='6' quality='2' inner='FALSE' knockout='FALSE' />
+      <glow id='winnerglow' color='ffffff' alpha='0' blurX='7' blurY='7' strength='5' quality='2' inner='FALSE' knockout='FALSE' />
+   </filter>
+
+    <axis_value_label>
+         <string></string>
+          <string> </string>
+          <null/>
+          <string> </string>
+          <string></string>
+
+       </axis_value_label>
+		
+	   <axis_ticks category_ticks='false'/>
+
+       <axis_value min='0' max='1' steps='4'  decimals='2' show_min='true' size='13' shadow='shadow2' />     
+            <axis_category
+               min='0'
+               max='60'
+               steps='4'
+               mode='all'
+               decimals='0'
+               size='13'
+               shadow='shadow2'
+               />
+
+       <axis_category_label>
+          <string>Kickoff</string>
+          <string></string>
+          <string>Halftime</string>
+          <string></string>
+          <string>End</string>
+
+       </axis_category_label>
+
+
+        <chart_data>
+       <row>
+	      <null/><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number>
+              <number>x</number><number>y</number>
+              </row><row><string></string>
+
+                     <number shadow='shadow1'>0</number><number>.5</number><number shadow='shadow1' tooltip='15:00 CIN 0 DET 0 LI: 2-M.Nugent kicks 74 yards from CIN 35 to DET -915-M.Spurlock Touchback.'>0.09</number><number>0.48</number>
+<number shadow='shadow1' tooltip='14:27 2-7-DET 23CIN 0 DET 0 LI: 1.4(Shotgun) 9-M.Stafford pass short left to 87-B.Pettigrew to DET 29 for 6 yards(55-V.Burfict; 29-L.Hall).'>0.55</number><number>0.48</number>
+<number shadow='shadow1' tooltip='13:45 3-1-DET 29CIN 0 DET 0 LI: 1.421-R.Bush left end to DET 31 for 2 yards(20-R.Nelson).'>1.25</number><number>0.46</number>
+<number shadow='shadow1' tooltip='13:05 1-10-DET 31CIN 0 DET 0 LI: 1.521-R.Bush left end to DET 35 for 4 yards(94-D.Peko).'>1.92</number><number>0.47</number>
+<number shadow='shadow1' tooltip='12:21 2-6-DET 35CIN 0 DET 0 LI: 1.3(Shotgun) 9-M.Stafford pass incomplete short left to 84-R.Broyles.'>2.65</number><number>0.49</number>
+<number shadow='shadow1' tooltip='12:17 3-6-DET 35CIN 0 DET 0 LI: 1.1(Shotgun) 9-M.Stafford pass short left to 87-B.Pettigrew to DET 33 for -2 yards(55-V.Burfict).'>2.72</number><number>0.53</number>
+<number shadow='shadow1' tooltip='12:04 4-8-DET 33CIN 0 DET 0 LI: 0.86-S.Martin punts 65 yards to CIN 2 Center-48-D.Muhlbach24-A.Jones to CIN 10 for 8 yards(29-J.Wendling).'>2.93</number><number>0.5</number>
+<number shadow='shadow1' tooltip='11:54 1-10-CIN 10CIN 0 DET 0 LI: 1.742-B.Green-Ellis left tackle to CIN 18 for 8 yards(26-L.Delmas).'>3.1</number><number>0.51</number>
+<number shadow='shadow1' tooltip='11:16 2-2-CIN 18CIN 0 DET 0 LI: 1.6(Shotgun) 14-A.Dalton pass incomplete short left to 85-T.Eifert (26-L.Delmas).'>3.73</number><number>0.5</number>
+<number shadow='shadow1' tooltip='11:12 3-2-CIN 18CIN 0 DET 0 LI: 1.5(Shotgun) 42-B.Green-Ellis up the middle to CIN 16 for -2 yards(79-W.Young)PENALTY on DET-79-W.Young Defensive Offside 5 yards enforced at CIN 18 - No Play.'>3.8</number><number>0.52</number>
+<number shadow='shadow1' tooltip='11:12 CIN 0 DET 0 LI: 2-M.Nugent extra point is GOOD Center-46-C.Harris Holder-10-K.Huber.'>3.84</number><number>0.71</number>
+<number shadow='shadow1' tooltip='11:12 CIN 7 DET 0 LI: 2-M.Nugent kicks 65 yards from CIN 35 to end zone Touchback.'>3.89</number><number>0.72</number>
+<number shadow='shadow1' tooltip='10:59 1-10-DET 20CIN 7 DET 0 LI: 1.521-R.Bush right end to DET 18 for -2 yards(55-V.Burfict 97-G.Atkins).'>4.02</number><number>0.74</number>
+<number shadow='shadow1' tooltip='10:21 2-12-DET 18CIN 7 DET 0 LI: 1.4(Shotgun) 9-M.Stafford pass short left to 81-C.Johnson to DET 34 for 16 yards(43-G.Iloka).'>4.65</number><number>0.7</number>
+<number shadow='shadow1' tooltip='9:38 1-10-DET 34CIN 7 DET 0 LI: 1.4(Shotgun) 9-M.Stafford pass incomplete deep right to 80-J.Fauria.'>5.37</number><number>0.7</number>
+<number shadow='shadow1' tooltip='9:32 2-10-DET 34CIN 7 DET 0 LI: 1.421-R.Bush right tackle to DET 35 for 1 yard(96-C.Dunlap).'>5.47</number><number>0.71</number>
+<number shadow='shadow1' tooltip='8:45 3-9-DET 35CIN 7 DET 0 LI: 1.2(Shotgun) 9-M.Stafford pass short left to 21-R.Bush to DET 46 for 11 yards(43-G.Iloka) [96-C.Dunlap].'>6.25</number><number>0.68</number>
+<number shadow='shadow1' tooltip='8:01 1-10-DET 46CIN 7 DET 0 LI: 1.3(Shotgun) 9-M.Stafford pass short middle to 35-J.Bell to CIN 49 for 5 yards(58-R.Maualuga).'>6.98</number><number>0.67</number>
+<number shadow='shadow1' tooltip='7:18 2-5-CIN 49CIN 7 DET 0 LI: 1.2(Shotgun) 9-M.Stafford pass short right to 18-K.Durham to CIN 45 for 4 yards(55-V.Burfict; 75-D.Still).'>7.7</number><number>0.67</number>
+<number shadow='shadow1' tooltip='6:29 3-1-CIN 45CIN 7 DET 0 LI: 1.135-J.Bell up the middle to CIN 32 for 13 yards(43-G.Iloka).'>8.52</number><number>0.65</number>
+<number shadow='shadow1' tooltip='5:43 1-10-CIN 32CIN 7 DET 0 LI: 0.921-R.Bush right tackle to CIN 30 for 2 yards(55-V.Burfict).'>9.28</number><number>0.65</number>
+<number shadow='shadow1' tooltip='4:59 2-8-CIN 30CIN 7 DET 0 LI: 0.9(Shotgun) 9-M.Stafford pass short middle to 80-J.Fauria to CIN 15 for 15 yards(20-R.Nelson; 43-G.Iloka).'>10.02</number><number>0.62</number>
+<number shadow='shadow1' tooltip='4:28 1-10-CIN 15CIN 7 DET 0 LI: 0.8(Shotgun) 21-R.Bush up the middle to CIN 11 for 4 yards(55-V.Burfict).'>10.53</number><number>0.57</number>
+<number shadow='shadow1' tooltip='3:48 2-6-CIN 11CIN 7 DET 0 LI: 1.2(Shotgun) 9-M.Stafford pass incomplete short left to 87-B.Pettigrew (29-L.Hall).'>11.2</number><number>0.59</number>
+<number shadow='shadow1' tooltip='3:42 3-6-CIN 11CIN 7 DET 0 LI: 1(Shotgun) 9-M.Stafford pass short middle to 18-K.Durham to CIN 3 for 8 yards(26-T.Mays; 58-R.Maualuga).'>11.3</number><number>0.55</number>
+<number shadow='shadow1' tooltip='3:15 1-3-CIN 3CIN 7 DET 0 LI: 1.4(Shotgun) 9-M.Stafford pass incomplete short left to 81-C.JohnsonCIN-29-L.Hall was injured during the playHe is Out.'>11.75</number><number>0.55</number>
+<number shadow='shadow1' tooltip='3:08 2-3-CIN 3CIN 7 DET 0 LI: 1.49-M.Stafford pass incomplete short right to 80-J.Fauria.'>11.87</number><number>0.57</number>
+<number shadow='shadow1' tooltip='3:06 3-3-CIN 3CIN 7 DET 0 LI: 1.2(Shotgun) 9-M.Stafford pass short left to 87-B.Pettigrew for 3 yards TOUCHDOWN.'>11.9</number><number>0.53</number>
+<number shadow='shadow1' tooltip='3:06 CIN 7 DET 0 LI: 2-D.Akers extra point is GOOD Center-48-D.Muhlbach Holder-6-S.Martin.'>11.94</number><number>0.53</number>
+<number shadow='shadow1' tooltip='3:06 CIN 7 DET 7 LI: 6-S.Martin kicks 74 yards from DET 35 to CIN -919-B.Tate Touchback.'>11.99</number><number>0.52</number>
+<number shadow='shadow1' tooltip='2:33 2-10-CIN 20CIN 7 DET 7 LI: 1.4(Shotgun) 14-A.Dalton pass incomplete short left to 82-M.Jones (31-R.Mathis).'>12.45</number><number>0.48</number>
+<number shadow='shadow1' tooltip='2:28 3-10-CIN 20CIN 7 DET 7 LI: 1.2(Shotgun) 14-A.Dalton sacked at CIN 8 for -12 yards(94-E.Ansah)FUMBLES (94-E.Ansah) RECOVERED by DET-90-N.Suh at CIN 290-N.Suh for 2 yards TOUCHDOWN NULLIFIED by PenaltyPENALTY on DET-94-E.Ansah Defensive Offside 5 yards enforced at CIN 20 - No Play.'>12.53</number><number>0.5</number>
+<number shadow='shadow1' tooltip='2:22 3-5-CIN 25CIN 7 DET 7 LI: 1.314-A.Dalton pass incomplete short left to 82-M.Jones (31-R.Mathis).'>12.63</number><number>0.46</number>
+<number shadow='shadow1' tooltip='2:15 4-5-CIN 25CIN 7 DET 7 LI: 0.910-K.Huber punts 49 yards to DET 26 Center-46-C.Harris15-M.Spurlock ran ob at DET 26 for no gain.'>12.75</number><number>0.47</number>
+<number shadow='shadow1' tooltip='2:10 1-10-DET 26CIN 7 DET 7 LI: 1.69-M.Stafford pass deep right to 81-C.Johnson pushed ob at DET 45 for 19 yards(23-T.Newman)Cincinnati challenged the pass completion ruling and the play was REVERSED9-M.Stafford pass incomplete deep right to 81-C.Johnson (23-T.Newman).'>12.83</number><number>0.49</number>
+<number shadow='shadow1' tooltip='2:07 2-10-DET 26CIN 7 DET 7 LI: 1.4(Shotgun) 9-M.Stafford pass short right to 18-K.Durham to DET 40 for 14 yards(23-T.Newman).'>12.88</number><number>0.45</number>
+<number shadow='shadow1' tooltip='1:25 1-10-DET 40CIN 7 DET 7 LI: 1.4(Shotgun) 21-R.Bush right tackle to DET 42 for 2 yards(58-R.Maualuga; 75-D.Still)CIN-75-D.Still was injured during the playHe is Out.'>13.58</number><number>0.46</number>
+<number shadow='shadow1' tooltip='0:48 2-8-DET 42CIN 7 DET 7 LI: 1.3(Shotgun) 9-M.Stafford pass short right to 81-C.Johnson to CIN 49 for 9 yards(23-T.Newman).'>14.2</number><number>0.43</number>
+<number shadow='shadow1' tooltip='0:06 1-10-CIN 49CIN 7 DET 7 LI: 1.3(Shotgun) 21-R.Bush left tackle to CIN 47 for 2 yards(55-V.Burfict; 96-C.Dunlap).'>14.9</number><number>0.44</number>
+<number shadow='shadow1' tooltip='15:00 2-8-CIN 47CIN 7 DET 7 LI: 1.2(Shotgun) 9-M.Stafford pass short right to 81-C.Johnson to CIN 32 for 15 yards(55-V.Burfict; 58-R.Maualuga).'>15</number><number>0.39</number>
+<number shadow='shadow1' tooltip='14:19 1-10-CIN 32CIN 7 DET 7 LI: 1.5(Shotgun) 9-M.Stafford pass incomplete deep middle to 81-C.Johnson (20-R.Nelson).'>15.68</number><number>0.41</number>
+<number shadow='shadow1' tooltip='14:12 2-10-CIN 32CIN 7 DET 7 LI: 1.3(Shotgun) 21-R.Bush up the middle to CIN 26 for 6 yards(98-B.Thompson).'>15.8</number><number>0.4</number>
+<number shadow='shadow1' tooltip='13:29 3-4-CIN 26CIN 7 DET 7 LI: 1.3(Shotgun) 9-M.Stafford pass short right to 21-R.Bush to CIN 20 for 6 yards(55-V.Burfict).'>16.52</number><number>0.37</number>
+<number shadow='shadow1' tooltip='12:42 1-10-CIN 20CIN 7 DET 7 LI: 1.5(Shotgun) 9-M.Stafford pass incomplete deep right to 18-K.Durham (23-T.Newman).'>17.3</number><number>0.37</number>
+<number shadow='shadow1' tooltip='12:38 2-10-CIN 20CIN 7 DET 7 LI: 1.521-R.Bush left tackle to CIN 18 for 2 yards(43-G.Iloka).'>17.37</number><number>0.38</number>
+<number shadow='shadow1' tooltip='11:53 3-8-CIN 18CIN 7 DET 7 LI: 1.3(Shotgun) 9-M.Stafford pass incomplete deep middle to 80-J.Fauria (32-C.Crocker).'>18.12</number><number>0.42</number>
+<number shadow='shadow1' tooltip='11:47 4-8-CIN 18CIN 7 DET 7 LI: 0.92-D.Akers 36 yard field goal is GOOD Center-48-D.Muhlbach Holder-6-S.Martin.'>18.22</number><number>0.41</number>
+<number shadow='shadow1' tooltip='11:47 CIN 7 DET 10 LI: 6-S.Martin kicks 74 yards from DET 35 to CIN -919-B.Tate Touchback.'>18.31</number><number>0.39</number>
+<number shadow='shadow1' tooltip='11:01 1-10-CIN 33CIN 7 DET 10 LI: 1.1(Shotgun) 14-A.Dalton pass deep right to 18-A.Green to DET 40 for 27 yards(58-A.Palmer) [92-D.Taylor].'>18.98</number><number>0.48</number>
+<number shadow='shadow1' tooltip='10:20 1-10-DET 40CIN 7 DET 10 LI: 1.342-B.Green-Ellis left end to DET 41 for -1 yards(92-D.Taylor).'>19.67</number><number>0.45</number>
+<number shadow='shadow1' tooltip='9:42 2-11-DET 41CIN 7 DET 10 LI: 142-B.Green-Ellis right end to DET 39 for 2 yards(79-W.Young).'>20.3</number><number>0.43</number>
+<number shadow='shadow1' tooltip='9:03 3-9-DET 39CIN 7 DET 10 LI: 0.8(No Huddle Shotgun) 14-A.Dalton pass short left to 12-M.Sanu to DET 27 for 12 yards(55-S.Tulloch).'>20.95</number><number>0.5</number>
+<number shadow='shadow1' tooltip='8:28 1-10-DET 27CIN 7 DET 10 LI: 1.3(Shotgun) 25-G.Bernard up the middle to DET 20 for 7 yards(55-S.Tulloch)PENALTY on CIN-84-J.Gresham Unsportsmanlike Conduct 15 yards enforced at DET 20.'>21.53</number><number>0.47</number>
+<number shadow='shadow1' tooltip='7:55 2-18-DET 35CIN 7 DET 10 LI: 1.1(Shotgun) 14-A.Dalton pass short left to 25-G.Bernard to DET 29 for 6 yards(54-D.Levy).'>22.08</number><number>0.48</number>
+<number shadow='shadow1' tooltip='7:29 3-12-DET 29CIN 7 DET 10 LI: 1.1(Shotgun) 14-A.Dalton pass incomplete short rightBall thrown away.'>22.52</number><number>0.44</number>
+<number shadow='shadow1' tooltip='7:22 4-12-DET 29CIN 7 DET 10 LI: 0.72-M.Nugent 47 yard field goal is No Good Wide Left Center-46-C.Harris Holder-10-K.Huber.'>22.63</number><number>0.35</number>
+<number shadow='shadow1' tooltip='7:17 1-10-DET 37CIN 7 DET 10 LI: 1.39-M.Stafford pass incomplete deep middle to 81-C.Johnson.'>22.72</number><number>0.36</number>
+<number shadow='shadow1' tooltip='7:09 2-10-DET 37CIN 7 DET 10 LI: 1.2(Shotgun) 21-R.Bush right tackle to DET 44 for 7 yards(92-J.Harrison).'>22.85</number><number>0.36</number>
+<number shadow='shadow1' tooltip='6:26 3-3-DET 44CIN 7 DET 10 LI: 1.1(Shotgun) 9-M.Stafford pass short middle to 11-K.Ogletree to CIN 49 for 7 yards(96-C.Dunlap).'>23.57</number><number>0.33</number>
+<number shadow='shadow1' tooltip='5:46 1-10-CIN 49CIN 7 DET 10 LI: 1.2(Shotgun) 21-R.Bush up the middle to CIN 46 for 3 yards(96-C.Dunlap).'>24.23</number><number>0.34</number>
+<number shadow='shadow1' tooltip='5:06 2-7-CIN 46CIN 7 DET 10 LI: 1.1(Shotgun) 9-M.Stafford pass incomplete deep right to 18-K.Durham.'>24.9</number><number>0.35</number>
+<number shadow='shadow1' tooltip='4:59 3-7-CIN 46CIN 7 DET 10 LI: 1(Shotgun) 9-M.Stafford pass short middle to 35-J.Bell to CIN 28 for 18 yards(20-R.Nelson)CIN-20-R.Nelson was injured during the play.'>25.02</number><number>0.3</number>
+<number shadow='shadow1' tooltip='4:29 1-10-CIN 28CIN 7 DET 10 LI: 1(Shotgun) 9-M.Stafford pass short left to 18-K.Durham to CIN 19 for 9 yards(27-D.Kirkpatrick).'>25.52</number><number>0.25</number>
+<number shadow='shadow1' tooltip='3:48 2-1-CIN 19CIN 7 DET 10 LI: 1.4(Shotgun) 21-R.Bush right tackle to CIN 18 for 1 yard(58-R.Maualuga).'>26.2</number><number>0.28</number>
+<number shadow='shadow1' tooltip='3:07 1-10-CIN 18CIN 7 DET 10 LI: 1.121-R.Bush right tackle to CIN 16 for 2 yards(55-V.Burfict).'>26.88</number><number>0.26</number>
+<number shadow='shadow1' tooltip='2:45 2-8-CIN 16CIN 7 DET 10 LI: 1.2(No Huddle Shotgun) 9-M.Stafford pass incomplete deep middle to 84-R.Broyles.'>27.25</number><number>0.28</number>
+<number shadow='shadow1' tooltip='2:36 3-8-CIN 16CIN 7 DET 10 LI: 1(Shotgun) 9-M.Stafford pass incomplete short right to 18-K.Durham (23-T.Newman) [96-C.Dunlap].'>27.4</number><number>0.31</number>
+<number shadow='shadow1' tooltip='2:30 4-8-CIN 16CIN 7 DET 10 LI: 0.72-D.Akers 34 yard field goal is BLOCKED (96-C.Dunlap) Center-48-D.Muhlbach Holder-6-S.Martin RECOVERED by CIN-20-R.Nelson at CIN 3020-R.Nelson to CIN 46 for 16 yards(65-D.Gandy)FUMBLES (65-D.Gandy) recovered by CIN-27-D.Kirkpatrick at DET 4927-D.Kirkpatrick to DET 40 for 9 yards(6-S.Martin).'>27.5</number><number>0.49</number>
+<number shadow='shadow1' tooltip='2:17 1-10-DET 40CIN 7 DET 10 LI: 1.525-G.Bernard left end to DET 35 for 5 yards(26-L.Delmas).'>27.72</number><number>0.49</number>
+<number shadow='shadow1' tooltip='2:00 2-5-DET 35CIN 7 DET 10 LI: 1.4(Shotgun) 14-A.Dalton pass short right to 18-A.Green pushed ob at DET 22 for 13 yards(23-C.Houston).'>28</number><number>0.53</number>
+<number shadow='shadow1' tooltip='1:55 1-10-DET 22CIN 7 DET 10 LI: 1.6(Shotgun) 25-G.Bernard up the middle to DET 19 for 3 yards(90-N.Suh).'>28.08</number><number>0.54</number>
+<number shadow='shadow1' tooltip='1:25 2-7-DET 19CIN 7 DET 10 LI: 1.7(Shotgun) 14-A.Dalton pass incomplete short right to 25-G.Bernard (54-D.Levy).'>28.58</number><number>0.51</number>
+<number shadow='shadow1' tooltip='1:21 3-7-DET 19CIN 7 DET 10 LI: 1.4(Shotgun) 14-A.Dalton pass short middle to 25-G.Bernard to DET 12 for 7 yards(55-S.Tulloch)The Replay Assistant challenged the first down ruling and the play was Upheld.'>28.65</number><number>0.58</number>
+<number shadow='shadow1' tooltip='0:52 1-10-DET 12CIN 7 DET 10 LI: 214-A.Dalton pass incomplete short left to 12-M.Sanu (31-R.Mathis).'>29.13</number><number>0.56</number>
+<number shadow='shadow1' tooltip='0:46 2-10-DET 12CIN 7 DET 10 LI: 1.8(Shotgun) 14-A.Dalton pass short right to 82-M.Jones for 12 yards TOUCHDOWN.'>29.23</number><number>0.63</number>
+<number shadow='shadow1' tooltip='0:46 CIN 7 DET 10 LI: 2-M.Nugent extra point is GOOD Center-46-C.Harris Holder-10-K.Huber.'>29.27</number><number>0.63</number>
+<number shadow='shadow1' tooltip='0:46 CIN 14 DET 10 LI: 2-M.Nugent kicks 65 yards from CIN 35 to end zone Touchback.'>29.32</number><number>0.65</number>
+<number shadow='shadow1' tooltip='0:14 2-3-DET 27CIN 14 DET 10 LI: 1.1(No Huddle Shotgun) 35-J.Bell right tackle to DET 29 for 2 yards(97-G.Atkins; 26-T.Mays).'>29.77</number><number>0.68</number>
+<number shadow='shadow1' tooltip='0:14 CIN 14 DET 10 LI: 6-S.Martin kicks 72 yards from DET 35 to CIN -719-B.Tate Touchback.'>29.86</number><number>0.67</number>
+<number shadow='shadow1' tooltip='15:00 1-10-CIN 20CIN 14 DET 10 LI: 1.642-B.Green-Ellis left tackle to CIN 20 for no gain (54-D.Levy).'>30</number><number>0.66</number>
+<number shadow='shadow1' tooltip='14:22 2-10-CIN 20CIN 14 DET 10 LI: 1.6(Shotgun) 14-A.Dalton pass short right to 18-A.Green pushed ob at CIN 31 for 11 yards(30-D.Slay).'>30.63</number><number>0.69</number>
+<number shadow='shadow1' tooltip='13:56 1-10-CIN 31CIN 14 DET 10 LI: 1.542-B.Green-Ellis right end to CIN 29 for -2 yards(55-S.Tulloch).'>31.07</number><number>0.68</number>
+<number shadow='shadow1' tooltip='13:21 2-12-CIN 29CIN 14 DET 10 LI: 1.514-A.Dalton pass incomplete short left to 84-J.Gresham (98-N.Fairley).'>31.65</number><number>0.66</number>
+<number shadow='shadow1' tooltip='13:15 3-12-CIN 29CIN 14 DET 10 LI: 1.3(Shotgun) 14-A.Dalton pass deep middle to 82-M.Jones to CIN 47 for 18 yards(54-D.Levy).'>31.75</number><number>0.72</number>
+<number shadow='shadow1' tooltip='12:37 1-10-CIN 47CIN 14 DET 10 LI: 1.414-A.Dalton pass short right to 84-J.Gresham to CIN 46 for -1 yards(58-A.Palmer 55-S.Tulloch).'>32.38</number><number>0.71</number>
+<number shadow='shadow1' tooltip='11:51 2-11-CIN 46CIN 14 DET 10 LI: 1.3(Shotgun) 14-A.Dalton pass short left to 82-M.Jones to DET 38 for 16 yards(28-D.Bentley; 55-S.Tulloch).'>33.15</number><number>0.75</number>
+<number shadow='shadow1' tooltip='11:28 1-10-DET 38CIN 14 DET 10 LI: 1.3(No Huddle) 42-B.Green-Ellis up the middle to DET 32 for 6 yards(27-G.Quin).'>33.53</number><number>0.76</number>
+<number shadow='shadow1' tooltip='10:49 2-4-DET 32CIN 14 DET 10 LI: 1.214-A.Dalton pass deep left to 85-T.Eifert for 32 yards TOUCHDOWN.'>34.18</number><number>0.83</number>
+<number shadow='shadow1' tooltip='10:49 CIN 14 DET 10 LI: 2-M.Nugent extra point is GOOD Center-46-C.Harris Holder-10-K.Huber.'>34.22</number><number>0.83</number>
+<number shadow='shadow1' tooltip='10:49 CIN 21 DET 10 LI: 2-M.Nugent kicks 74 yards from CIN 35 to DET -915-M.Spurlock Touchback.'>34.27</number><number>0.84</number>
+<number shadow='shadow1' tooltip='10:42 1-10-DET 20CIN 21 DET 10 LI: 1.1(Shotgun) 9-M.Stafford pass incomplete short left to 81-C.Johnson.'>34.3</number><number>0.85</number>
+<number shadow='shadow1' tooltip='10:37 2-10-DET 20CIN 21 DET 10 LI: 1(Shotgun) 9-M.Stafford pass short right to 18-K.Durham to DET 29 for 9 yards(43-G.Iloka)PENALTY on DET-21-R.Bush Chop Block 10 yards enforced at DET 20 - No Play.'>34.38</number><number>0.89</number>
+<number shadow='shadow1' tooltip='10:13 2-20-DET 10CIN 21 DET 10 LI: 0.4(Shotgun) 9-M.Stafford pass incomplete short middle to 87-B.Pettigrew (26-T.Mays).'>34.78</number><number>0.9</number>
+<number shadow='shadow1' tooltip='10:07 3-20-DET 10CIN 21 DET 10 LI: 0.3(Shotgun) 9-M.Stafford pass deep right to 11-K.Ogletree pushed ob at CIN 47 for 43 yards(20-R.Nelson).'>34.88</number><number>0.79</number>
+<number shadow='shadow1' tooltip='9:37 1-10-CIN 47CIN 21 DET 10 LI: 1.1(Shotgun) 21-R.Bush right tackle to CIN 46 for 1 yard(55-V.Burfict; 96-C.Dunlap).'>35.38</number><number>0.81</number>
+<number shadow='shadow1' tooltip='8:55 2-9-CIN 46CIN 21 DET 10 LI: 0.9(Shotgun) 9-M.Stafford pass short middle to 81-C.Johnson to CIN 27 for 19 yards(43-G.Iloka) [55-V.Burfict]CIN-93-M.Johnson was injured during the play.'>36.08</number><number>0.77</number>
+<number shadow='shadow1' tooltip='8:32 1-10-CIN 27CIN 21 DET 10 LI: 1(Shotgun) 9-M.Stafford pass incomplete short middle to 87-B.Pettigrew.'>36.47</number><number>0.77</number>
+<number shadow='shadow1' tooltip='8:28 2-10-CIN 27CIN 21 DET 10 LI: 1(Shotgun) 9-M.Stafford pass incomplete short middle to 21-R.Bush (55-V.Burfict) [94-D.Peko].'>36.53</number><number>0.79</number>
+<number shadow='shadow1' tooltip='8:23 3-10-CIN 27CIN 21 DET 10 LI: 0.8(Shotgun) 9-M.Stafford pass deep left to 81-C.Johnson for 27 yards TOUCHDOWN.'>36.62</number><number>0.7</number>
+<number shadow='shadow1' tooltip='8:23 CIN 21 DET 10 LI: 2-D.Akers extra point is GOOD Center-48-D.Muhlbach Holder-6-S.Martin.'>36.66</number><number>0.7</number>
+<number shadow='shadow1' tooltip='8:23 CIN 21 DET 17 LI: 6-S.Martin kicks 74 yards from DET 35 to CIN -919-B.Tate Touchback.'>36.71</number><number>0.69</number>
+<number shadow='shadow1' tooltip='8:17 1-10-CIN 20CIN 21 DET 17 LI: 1.825-G.Bernard left tackle to CIN 24 for 4 yards(55-S.Tulloch; 79-W.Young).'>36.72</number><number>0.68</number>
+<number shadow='shadow1' tooltip='7:39 2-6-CIN 24CIN 21 DET 17 LI: 1.6(Shotgun) 14-A.Dalton pass short left to 18-A.Green pushed ob at CIN 37 for 13 yards(55-S.Tulloch)PENALTY on CIN-18-A.Green Offensive Pass Interference 10 yards enforced at CIN 24 - No Play.'>37.35</number><number>0.65</number>
+<number shadow='shadow1' tooltip='7:20 2-16-CIN 14CIN 21 DET 17 LI: 2.2(Shotgun) 14-A.Dalton pass short right to 18-A.Green to CIN 23 for 9 yards(30-D.Slay).'>37.67</number><number>0.66</number>
+<number shadow='shadow1' tooltip='6:39 3-7-CIN 23CIN 21 DET 17 LI: 1.4(Shotgun) 14-A.Dalton pass short right to 82-M.Jones pushed ob at CIN 34 for 11 yards(30-D.Slay).'>38.35</number><number>0.71</number>
+<number shadow='shadow1' tooltip='5:56 1-10-CIN 34CIN 21 DET 17 LI: 1.625-G.Bernard right tackle to CIN 35 for 1 yard(90-N.Suh).'>39.07</number><number>0.7</number>
+<number shadow='shadow1' tooltip='5:18 2-9-CIN 35CIN 21 DET 17 LI: 1.4(Shotgun) 14-A.Dalton pass deep middle to 84-J.Gresham to DET 35 for 30 yards(55-S.Tulloch).'>39.7</number><number>0.77</number>
+<number shadow='shadow1' tooltip='4:33 1-10-DET 35CIN 21 DET 17 LI: 1.414-A.Dalton pass incomplete short rightBall thrown away.'>40.45</number><number>0.76</number>
+<number shadow='shadow1' tooltip='4:28 2-10-DET 35CIN 21 DET 17 LI: 1.3(Shotgun) 14-A.Dalton pass incomplete short right to 18-A.Green.'>40.53</number><number>0.74</number>
+<number shadow='shadow1' tooltip='4:23 3-10-DET 35CIN 21 DET 17 LI: 1.1(Shotgun) 14-A.Dalton pass short left to 25-G.Bernard to DET 30 for 5 yards(26-L.Delmas).'>40.62</number><number>0.72</number>
+<number shadow='shadow1' tooltip='3:42 4-5-DET 30CIN 21 DET 17 LI: 0.82-M.Nugent 48 yard field goal is GOOD Center-46-C.Harris Holder-10-K.Huber.'>41.3</number><number>0.77</number>
+<number shadow='shadow1' tooltip='3:42 CIN 24 DET 17 LI: 2-M.Nugent kicks 72 yards from CIN 35 to DET -715-M.Spurlock ran ob at DET 28 for 35 yards(20-R.Nelson).'>41.39</number><number>0.77</number>
+<number shadow='shadow1' tooltip='3:30 1-10-DET 28CIN 24 DET 17 LI: 0.921-R.Bush right tackle to DET 35 for 7 yards(58-R.Maualuga).'>41.5</number><number>0.76</number>
+<number shadow='shadow1' tooltip='2:57 2-3-DET 35CIN 24 DET 17 LI: 0.9(Shotgun) 21-R.Bush up the middle to DET 36 for 1 yard(98-B.Thompson).'>42.05</number><number>0.77</number>
+<number shadow='shadow1' tooltip='2:17 3-2-DET 36CIN 24 DET 17 LI: 0.9(Shotgun) 9-M.Stafford pass incomplete short middle to 21-R.Bush (55-V.Burfict).'>42.72</number><number>0.8</number>
+<number shadow='shadow1' tooltip='2:12 4-2-DET 36CIN 24 DET 17 LI: 0.66-S.Martin punts 45 yards to CIN 19 Center-48-D.Muhlbach downed by DET-15-M.Spurlock.'>42.8</number><number>0.79</number>
+<number shadow='shadow1' tooltip='2:02 1-10-CIN 19CIN 24 DET 17 LI: 1.442-B.Green-Ellis left tackle to CIN 20 for 1 yard(55-S.Tulloch).'>42.97</number><number>0.79</number>
+<number shadow='shadow1' tooltip='1:25 2-9-CIN 20CIN 24 DET 17 LI: 1.4(Shotgun) 14-A.Dalton pass short left to 85-T.Eifert to CIN 22 for 2 yards(54-D.Levy).'>43.58</number><number>0.78</number>
+<number shadow='shadow1' tooltip='0:43 3-7-CIN 22CIN 24 DET 17 LI: 1.2(Shotgun) 14-A.Dalton scrambles to CIN 30 for 8 yards(26-L.Delmas)Detroit challenged the first down ruling and the play was REVERSED(Shotgun) 14-A.Dalton scrambles to CIN 28 for 6 yards(26-L.Delmas).'>44.28</number><number>0.78</number>
+<number shadow='shadow1' tooltip='15:00 4-1-CIN 28CIN 24 DET 17 LI: 110-K.Huber punts 50 yards to DET 22 Center-46-C.Harris fair catch by 15-M.Spurlock.'>45</number><number>0.8</number>
+<number shadow='shadow1' tooltip='14:52 1-10-DET 22CIN 24 DET 17 LI: 0.99-M.Stafford pass short middle to 84-R.Broyles to DET 31 for 9 yards(58-R.Maualuga).'>45.13</number><number>0.79</number>
+<number shadow='shadow1' tooltip='14:17 2-1-DET 31CIN 24 DET 17 LI: 0.99-M.Stafford pass short right to 81-C.Johnson to DET 31 for no gain (23-T.Newman).'>45.72</number><number>0.8</number>
+<number shadow='shadow1' tooltip='13:33 3-1-DET 31CIN 24 DET 17 LI: 0.8(Shotgun) 9-M.Stafford pass deep right to 21-R.Bush to CIN 42 for 27 yards(23-T.Newman).'>46.45</number><number>0.72</number>
+<number shadow='shadow1' tooltip='12:53 1-10-CIN 42CIN 24 DET 17 LI: 1.335-J.Bell right tackle to CIN 40 for 2 yards(32-C.Crocker).'>47.12</number><number>0.75</number>
+<number shadow='shadow1' tooltip='12:14 2-8-CIN 40CIN 24 DET 17 LI: 1.1(Shotgun) 9-M.Stafford pass incomplete short right to 81-C.JohnsonDET-78-C.Hilliard was injured during the playHis return is QuestionablePENALTY on DET-9-M.Stafford Intentional Grounding 10 yards enforced at CIN 40.'>47.77</number><number>0.81</number>
+<number shadow='shadow1' tooltip='12:10 3-18-50CIN 24 DET 17 LI: 0.6(Shotgun) 9-M.Stafford pass deep middle to 81-C.Johnson for 50 yards TOUCHDOWN [93-M.Johnson].'>47.83</number><number>0.54</number>
+<number shadow='shadow1' tooltip='12:10 CIN 24 DET 17 LI: 2-D.Akers extra point is GOOD Center-48-D.Muhlbach Holder-6-S.Martin.'>47.87</number><number>0.54</number>
+<number shadow='shadow1' tooltip='12:10 CIN 24 DET 24 LI: 6-S.Martin kicks 61 yards from DET 35 to CIN 430-C.Peerman to CIN 25 for 21 yards(29-J.Wendling).'>47.92</number><number>0.53</number>
+<number shadow='shadow1' tooltip='11:52 1-10-CIN 25CIN 24 DET 24 LI: 225-G.Bernard left tackle to CIN 32 for 7 yards(30-D.Slay; 58-A.Palmer).'>48.13</number><number>0.56</number>
+<number shadow='shadow1' tooltip='11:16 2-3-CIN 32CIN 24 DET 24 LI: 2.2(Shotgun) 14-A.Dalton pass incomplete deep right to 18-A.Green (23-C.Houston)PENALTY on CIN-18-A.Green Offensive Pass Interference 10 yards enforced at CIN 32 - No Play.'>48.73</number><number>0.49</number>
+<number shadow='shadow1' tooltip='11:09 2-13-CIN 22CIN 24 DET 24 LI: 1.8(Shotgun) 14-A.Dalton pass short middle to 25-G.Bernard to CIN 28 for 6 yards(54-D.Levy).'>48.85</number><number>0.5</number>
+<number shadow='shadow1' tooltip='10:31 3-7-CIN 28CIN 24 DET 24 LI: 1.9(Shotgun) 14-A.Dalton pass incomplete deep middle to 18-A.Green (27-G.Quin).'>49.48</number><number>0.44</number>
+<number shadow='shadow1' tooltip='10:24 4-7-CIN 28CIN 24 DET 24 LI: 1.310-K.Huber punts 45 yards to DET 27 Center-46-C.Harris15-M.Spurlock to DET 28 for 1 yard(57-V.Rey).'>49.6</number><number>0.46</number>
+<number shadow='shadow1' tooltip='10:14 1-10-DET 28CIN 24 DET 24 LI: 2.3(Shotgun) 9-M.Stafford pass short left to 81-C.Johnson to DET 39 for 11 yards(43-G.Iloka) [93-M.Johnson].'>49.77</number><number>0.41</number>
+<number shadow='shadow1' tooltip='9:38 1-10-DET 39CIN 24 DET 24 LI: 2.7(Shotgun) 21-R.Bush up the middle to DET 41 for 2 yards(93-M.Johnson; 94-D.Peko).'>50.37</number><number>0.41</number>
+<number shadow='shadow1' tooltip='8:56 2-8-DET 41CIN 24 DET 24 LI: 2.8(Shotgun) 9-M.Stafford pass short left to 18-K.Durham to DET 47 for 6 yards(24-A.Jones)CIN-58-R.Maualuga was injured during the playHe is Out.'>51.07</number><number>0.4</number>
+<number shadow='shadow1' tooltip='8:15 3-2-DET 47CIN 24 DET 24 LI: 2.8(Shotgun) 9-M.Stafford pass short right to 35-J.Bell ran ob at CIN 35 for 18 yards(23-T.Newman).'>51.75</number><number>0.39</number>
+<number shadow='shadow1' tooltip='7:45 3-2-DET 47CIN 24 DET 24 LI: 3(Shotgun) 9-M.Stafford pass short right to 81-C.Johnson to CIN 45 for 8 yards(23-T.Newman).'>52.25</number><number>0.3</number>
+<number shadow='shadow1' tooltip='7:08 1-10-CIN 45CIN 24 DET 24 LI: 3.5(Shotgun) 21-R.Bush left end to CIN 46 for -1 yards(32-C.Crocker).'>52.87</number><number>0.39</number>
+<number shadow='shadow1' tooltip='6:25 2-11-CIN 46CIN 24 DET 24 LI: 2.6(Shotgun) 9-M.Stafford pass incomplete deep right to 87-B.Pettigrew (26-T.Mays).'>53.58</number><number>0.44</number>
+<number shadow='shadow1' tooltip='6:19 3-11-CIN 46CIN 24 DET 24 LI: 2.1(Shotgun) 9-M.Stafford pass deep left to 35-J.Bell to CIN 27 for 19 yards(26-T.Mays)PENALTY on DET-87-B.Pettigrew Offensive Pass Interference 10 yards enforced at CIN 46 - No Play.'>53.68</number><number>0.51</number>
+<number shadow='shadow1' tooltip='6:10 4-11-CIN 46CIN 24 DET 24 LI: 1.46-S.Martin punts 35 yards to CIN 11 Center-48-D.Muhlbach fair catch by 19-B.Tate.'>53.83</number><number>0.48</number>
+<number shadow='shadow1' tooltip='6:04 1-10-CIN 11CIN 24 DET 24 LI: 2.942-B.Green-Ellis up the middle to CIN 22 for 11 yards(30-D.Slay).'>53.93</number><number>0.56</number>
+<number shadow='shadow1' tooltip='5:23 1-10-CIN 22CIN 24 DET 24 LI: 3.3PENALTY on CIN-68-K.Zeitler False Start 5 yards enforced at CIN 22 - No Play.'>54.62</number><number>0.51</number>
+<number shadow='shadow1' tooltip='4:58 1-15-CIN 17CIN 24 DET 24 LI: 3.2(Shotgun) 14-A.Dalton pass deep left to 84-J.Gresham to CIN 39 for 22 yards(54-D.Levy).'>55.03</number><number>0.65</number>
+<number shadow='shadow1' tooltip='4:21 1-10-CIN 39CIN 24 DET 24 LI: 3.642-B.Green-Ellis up the middle to CIN 42 for 3 yards(54-D.Levy; 58-A.Palmer).'>55.65</number><number>0.59</number>
+<number shadow='shadow1' tooltip='3:45 2-7-CIN 42CIN 24 DET 24 LI: 2.9(Shotgun) 14-A.Dalton pass short right to 85-T.Eifert to DET 47 for 11 yards(58-A.Palmer).'>56.25</number><number>0.69</number>
+<number shadow='shadow1' tooltip='3:10 1-10-DET 47CIN 24 DET 24 LI: 3.742-B.Green-Ellis up the middle to CIN 49 for -4 yards(96-A.Fluellen 92-D.Taylor).'>56.83</number><number>0.6</number>
+<number shadow='shadow1' tooltip='2:33 2-14-CIN 49CIN 24 DET 24 LI: 3(Shotgun) 14-A.Dalton pass short right to 84-J.Gresham to DET 38 for 13 yards(55-S.Tulloch).'>57.45</number><number>0.73</number>
+<number shadow='shadow1' tooltip='2:00 3-1-DET 38CIN 24 DET 24 LI: 4.3PENALTY on CIN-84-J.Gresham False Start 5 yards enforced at DET 38 - No Play.'>58</number><number>0.63</number>
+<number shadow='shadow1' tooltip='1:52 4-14-CIN 49CIN 24 DET 24 LI: 1.510-K.Huber punts 45 yards to DET 6 Center-46-C.Harris downed by CIN-46-C.Harris.'>58.13</number><number>0.5</number>
+<number shadow='shadow1' tooltip='1:43 1-10-DET 6CIN 24 DET 24 LI: 3.821-R.Bush right tackle to DET 10 for 4 yards(55-V.Burfict).'>58.28</number><number>0.54</number>
+<number shadow='shadow1' tooltip='1:34 2-6-DET 10CIN 24 DET 24 LI: 3.4(Shotgun) 9-M.Stafford pass short middle to 84-R.Broyles to DET 17 for 7 yards(27-D.Kirkpatrick).'>58.43</number><number>0.45</number>
+<number shadow='shadow1' tooltip='1:12 1-10-DET 17CIN 24 DET 24 LI: 4.4(No Huddle Shotgun) 9-M.Stafford pass short left to 35-J.Bell to DET 23 for 6 yards(26-T.Mays).'>58.8</number><number>0.49</number>
+<number shadow='shadow1' tooltip='0:47 2-4-DET 23CIN 24 DET 24 LI: 4.4(No Huddle Shotgun) 9-M.Stafford pass incomplete short rightBall thrown away.'>59.22</number><number>0.51</number>
+<number shadow='shadow1' tooltip='0:40 3-4-DET 23CIN 24 DET 24 LI: 4.3(Shotgun) 9-M.Stafford pass incomplete short right [20-R.Nelson]Ball thrown away.'>59.33</number><number>0.6</number>
+<number shadow='shadow1' tooltip='0:34 4-4-DET 23CIN 24 DET 24 LI: 3.56-S.Martin punts 28 yards to CIN 49 Center-48-D.Muhlbach out of bounds.'>59.43</number><number>0.68</number>
+<number shadow='shadow1' tooltip='0:26 1-10-CIN 49CIN 24 DET 24 LI: 3.7(Shotgun) 14-A.Dalton pass short middle to 11-D.Sanzenbacher to DET 44 for 7 yards(55-S.Tulloch).'>59.57</number><number>0.49</number>
+<number shadow='shadow1' tooltip='0:07 2-3-DET 44CIN 24 DET 24 LI: 0.8(No Huddle Shotgun) 14-A.Dalton pass short middle to 25-G.Bernard to DET 36 for 8 yards(55-S.Tulloch).'>59.88</number><number>0.72</number>
+<number shadow='shadow1' tooltip='0:04 1-10-DET 36CIN 24 DET 24 LI: 2.72-M.Nugent 54 yard field goal is GOOD Center-46-C.Harris Holder-10-K.Huber.'>59.93</number><number>1</number>
+<number>60</number><number>1</number>
+</row> </chart_data>
+       <draw>
+
+
+
+      <image x='45' y='298'  url='nfllogos/42x50png/CIN.gif'  layer='foreground' glow = 'glow1'/>
+      <image x='45' y='350'  url='nfllogos/42x50png/DET.gif'     layer='foreground' glow = 'glow1'/>
+
+
+      <rect x='130' y='300' width='250' height='40' fill_color='ff652b' bevel='bevel1' />
+      <text x='135' y='300' width='250' height='40' h_align='left' v_align='middle' color='ffffff' shadow='shadow2' glow='winnerglow'>Cincinnati Bengals</text>
+
+      <rect x='130' y='350' width='250' height='40' fill_color='0064ae' bevel='bevel1'  />
+      <text x='135' y='350' width='250' height='40' h_align='left' v_align='middle' color='ffffff' shadow='shadow2' glow=''>Detroit Lions</text>
+
+      <rect x='420' y='300' width='60' height='40' fill_color='ff652b' bevel='bevel1'  />
+      <text x='420' y='300' width='60' height='40' h_align='center' v_align='middle' color='ffffff' shadow='shadow2' transition='none' glow='winnerglow'>27</text>
+
+      <rect x='420' y='350' width='60' height='40' fill_color='0064ae' bevel='bevel1' />
+      <text x='420' y='350' width='60' height='40' h_align='center' v_align='middle' color='ffffff' shadow='shadow2' transition='none' glow=''>24</text>
+
+      <text x='-3' y='12'  width='60' height='40' h_align='center' v_align='middle' size='13' shadow='shadow2'>CINWin </text>
+      <text x='-3' y='218' width='60' height='40' h_align='center' v_align='middle' size='13' shadow='shadow2'>DETWin </text>
+
+     
+              <rect x='540' y='300' width='100' height='35' fill_color='000000' fill_alpha='50'/>
+              <text x='540' y='300' width='100' height='35' h_align='center' v_align='middle' color='ffffff' size='15' shadow='shadow2' >Final</text>
+
+              <text x='540' y='340' width='40' h_align='center' color='000000' size='12' shadow='shadow2'>CBF</text>
+              <text x='600' y='340' width='40' h_align='center' color='000000' size='12' shadow='shadow2'>EI</text>
+
+              <rect x='540' y='360' width='40' height='30' fill_color='000000' fill_alpha='50' />
+              <text x='540' y='360' width='40' height='30' size='12' h_align='center' v_align='middle' color='FFFFFF' shadow='shadow2'>4</text>
+
+              <rect x='600' y='360' width='40' height='30' fill_color='000000' fill_alpha='50' />
+              <text x='600' y='360' width='40' height='30' size='12' h_align='center' v_align='middle' color='FFFFFF' shadow='shadow2'>6.2</text>
+
+              <text x='20' y='420' width='70' height='25' size='12' h_align='left' v_align='middle' color='000000' >10/20/2013</text>
+              <text x='100' y='420' width='200' height='25' size='12' h_align='left' v_align='middle' color='000000' >Ford Field</text>
+
+   </draw></chart>

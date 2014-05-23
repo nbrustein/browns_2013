@@ -1,0 +1,300 @@
+
+<chart>
+   <license>ETAS9P33ESHO.945CWK-2XOI1X0-7L</license>
+   <chart_type>scatter</chart_type>
+   <chart_pref trend_thickness='0' line_thickness='3' point_size='0'/>
+
+   <series_color>
+      <color>ffff00</color>
+   </series_color>
+
+   <chart_rect x='45' y='20' width='630' height='230' positive_color='cacaca'  />
+
+  <chart_border top_thickness='0'
+                 bottom_thickness='0'
+                 left_thickness='0'
+                 right_thickness='0'
+                 color='000000'
+                 />
+
+   <tooltip font='Arial' bold='true' size='11' />
+
+   <chart_note type='flag'
+               color='000000'
+               alpha='90'
+               bold='FALSE'
+               size='10'
+               background_color='ffffe0'
+               background_alpha='50'
+               shadow='shadow2'
+               />
+
+   <chart_grid_h thickness='2' color='ffffff' type='dashed'  />
+   <chart_grid_v thickness='2' color='ffffff'   />
+		>
+
+   <legend layout='hide' />
+
+   <chart_guide horizontal='TRUE'
+             vertical='TRUE'
+             thickness='1'
+             color='006400'
+             alpha='100'
+             type='solid'
+             snap_h='TRUE'
+             snap_v='TRUE'
+             radius='3'
+             fill_color='006400'
+             fill_alpha='100'
+             line_color='006400'
+             line_alpha='80'
+             line_thickness='1'
+             text_h_alpha='50'
+             text_v_alpha='00'
+             suffix_h=' WP'
+             decimals='2'
+             bold='FALSE'
+             size='11'
+             text_color='FFFFFF'
+             background_color='006400'
+             />
+   <filter>
+      <shadow id='shadow1' distance='2' angle='60' blurX='5' blurY='5' alpha='50' />
+      <bevel id='bevel1' angle='45' blurX='5' blurY='5' distance='0' />
+      <glow id='glow1' color='ffffff' alpha='0' blurX='7' blurY='7' strength='6' quality='2' inner='FALSE' knockout='FALSE' />
+      <glow id='winnerglow' color='ffffff' alpha='0' blurX='7' blurY='7' strength='5' quality='2' inner='FALSE' knockout='FALSE' />
+   </filter>
+
+    <axis_value_label>
+         <string></string>
+          <string> </string>
+          <null/>
+          <string> </string>
+          <string></string>
+
+       </axis_value_label>
+		
+	   <axis_ticks category_ticks='false'/>
+
+       <axis_value min='0' max='1' steps='4'  decimals='2' show_min='true' size='13' shadow='shadow2' />     
+            <axis_category
+               min='0'
+               max='60'
+               steps='4'
+               mode='all'
+               decimals='0'
+               size='13'
+               shadow='shadow2'
+               />
+
+       <axis_category_label>
+          <string>Kickoff</string>
+          <string></string>
+          <string>Halftime</string>
+          <string></string>
+          <string>End</string>
+
+       </axis_category_label>
+
+
+        <chart_data>
+       <row>
+	      <null/><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number>
+              <number>x</number><number>y</number>
+              </row><row><string></string>
+
+                     <number shadow='shadow1'>0</number><number>.5</number><number shadow='shadow1' tooltip='15:00 DET 0 PHI 0 LI: 6-A.Henery kicks 55 yards from PHI 35 to DET 1012-J.Ross to DET 16 for 6 yards(55-B.Graham).'>0.09</number><number>0.51</number>
+<number shadow='shadow1' tooltip='14:51 2-10-DET 16DET 0 PHI 0 LI: 1.49-M.Stafford FUMBLES (Aborted) at DET 16 and recovers at DET 169-M.Stafford to DET 17 for 1 yard(59-D.Ryans).'>0.15</number><number>0.48</number>
+<number shadow='shadow1' tooltip='14:11 3-9-DET 17DET 0 PHI 0 LI: 1.3(Shotgun) 9-M.Stafford pass short left to 35-J.Bell to DET 23 for 6 yards(96-B.Logan).'>0.82</number><number>0.45</number>
+<number shadow='shadow1' tooltip='13:42 4-3-DET 23DET 0 PHI 0 LI: 0.86-S.Martin punts 38 yards to PHI 39 Center-99-C.Mosley10-D.Jackson pushed ob at PHI 33 for -6 yards(59-T.Whitehead).'>1.3</number><number>0.46</number>
+<number shadow='shadow1' tooltip='13:31 1-10-PHI 33DET 0 PHI 0 LI: 1.5(Shotgun) 9-N.Foles pass short right to 87-B.Celek to PHI 35 for 2 yards(98-N.Fairley).'>1.48</number><number>0.48</number>
+<number shadow='shadow1' tooltip='13:06 2-8-PHI 35DET 0 PHI 0 LI: 1.2(No Huddle) PENALTY on DET-79-W.Young Neutral Zone Infraction 5 yards enforced at PHI 35 - No Play.'>1.9</number><number>0.46</number>
+<number shadow='shadow1' tooltip='12:52 2-3-PHI 40DET 0 PHI 0 LI: 1.3(Shotgun) 10-D.Jackson left end to PHI 30 for -10 yards(94-E.Ansah).'>2.13</number><number>0.52</number>
+<number shadow='shadow1' tooltip='12:08 3-13-PHI 30DET 0 PHI 0 LI: 1(No Huddle) 25-L.McCoy left guard to PHI 36 for 6 yards(55-S.Tulloch).'>2.87</number><number>0.53</number>
+<number shadow='shadow1' tooltip='11:35 4-7-PHI 36DET 0 PHI 0 LI: 0.78-D.Jones punts 28 yards to DET 36 Center-46-J.Dorenbos out of bounds.'>3.42</number><number>0.54</number>
+<number shadow='shadow1' tooltip='11:28 1-10-DET 36DET 0 PHI 0 LI: 1.4(Shotgun) 35-J.Bell up the middle to DET 43 for 7 yards(59-D.Ryans).'>3.53</number><number>0.55</number>
+<number shadow='shadow1' tooltip='10:51 2-3-DET 43DET 0 PHI 0 LI: 1.3(Shotgun) 9-M.Stafford FUMBLES (Aborted) at DET 40 recovered by DET-35-J.Bell at DET 3935-J.Bell to DET 39 for no gain (98-C.Barwin).'>4.15</number><number>0.52</number>
+<number shadow='shadow1' tooltip='10:04 3-7-DET 39DET 0 PHI 0 LI: 1.19-M.Stafford pass short middle to 81-C.Johnson to DET 46 for 7 yards(29-N.Allen).'>4.93</number><number>0.56</number>
+<number shadow='shadow1' tooltip='9:33 1-10-DET 46DET 0 PHI 0 LI: 1.4(Shotgun) 35-J.Bell right end to DET 48 for 2 yards(75-V.Curry).'>5.45</number><number>0.55</number>
+<number shadow='shadow1' tooltip='8:50 2-8-DET 48DET 0 PHI 0 LI: 1.235-J.Bell left end pushed ob at PHI 44 for 8 yards(23-P.Chung).'>6.17</number><number>0.58</number>
+<number shadow='shadow1' tooltip='8:19 1-10-PHI 44DET 0 PHI 0 LI: 1.441-T.Riddick left end to PHI 43 for 1 yard(59-D.Ryans).'>6.68</number><number>0.57</number>
+<number shadow='shadow1' tooltip='7:38 2-9-PHI 43DET 0 PHI 0 LI: 1.29-M.Stafford FUMBLES (Aborted) at PHI 43 recovered by DET-96-A.Fluellen at PHI 4496-A.Fluellen to PHI 44 for no gain (96-B.Logan).'>7.37</number><number>0.53</number>
+<number shadow='shadow1' tooltip='6:53 3-10-PHI 44DET 0 PHI 0 LI: 0.9(Shotgun) PENALTY on DET-9-M.Stafford Delay of Game 5 yards enforced at PHI 44 - No Play.'>8.12</number><number>0.52</number>
+<number shadow='shadow1' tooltip='6:26 3-15-PHI 49DET 0 PHI 0 LI: 0.8(Shotgun) 9-M.Stafford pass short middle to 87-B.Pettigrew to PHI 26 for 23 yards(95-M.Kendricks).'>8.57</number><number>0.63</number>
+<number shadow='shadow1' tooltip='5:39 1-10-PHI 26DET 0 PHI 0 LI: 1.6(Shotgun) 35-J.Bell right end to PHI 28 for -2 yards(98-C.Barwin).'>9.35</number><number>0.61</number>
+<number shadow='shadow1' tooltip='4:58 2-12-PHI 28DET 0 PHI 0 LI: 1.4(Shotgun) 35-J.Bell left tackle to PHI 20 for 8 yards(72-C.Thornton)FUMBLES (72-C.Thornton) RECOVERED by PHI-98-C.Barwin at PHI 20The Replay Assistant challenged the fumble ruling and the play was Upheld.'>10.03</number><number>0.48</number>
+<number shadow='shadow1' tooltip='4:47 1-10-PHI 20DET 0 PHI 0 LI: 1.625-L.McCoy left tackle to PHI 15 for -5 yards(79-W.Young).'>10.22</number><number>0.52</number>
+<number shadow='shadow1' tooltip='4:08 2-15-PHI 15DET 0 PHI 0 LI: 1.3(No Huddle) 25-L.McCoy up the middle to PHI 20 for 5 yards(55-S.Tulloch).'>10.87</number><number>0.52</number>
+<number shadow='shadow1' tooltip='3:36 3-10-PHI 20DET 0 PHI 0 LI: 1.2(No Huddle Shotgun) 9-N.Foles pass incomplete short left to 14-R.Cooper.'>11.4</number><number>0.55</number>
+<number shadow='shadow1' tooltip='3:30 4-10-PHI 20DET 0 PHI 0 LI: 0.98-D.Jones punts 53 yards to DET 27 Center-46-J.Dorenbos12-J.Ross pushed ob at DET 40 for 13 yards(42-K.Coleman).'>11.5</number><number>0.55</number>
+<number shadow='shadow1' tooltip='3:18 1-10-DET 40DET 0 PHI 0 LI: 1.4(Shotgun) 35-J.Bell up the middle to DET 45 for 5 yards(91-F.Cox).'>11.7</number><number>0.55</number>
+<number shadow='shadow1' tooltip='2:40 2-5-DET 45DET 0 PHI 0 LI: 1.3(Shotgun) 35-J.Bell right tackle to 50 for 5 yards(98-C.Barwin).'>12.33</number><number>0.57</number>
+<number shadow='shadow1' tooltip='2:00 1-10-50DET 0 PHI 0 LI: 1.4(Shotgun) 35-J.Bell right guard to PHI 46 for 4 yards(91-F.Cox; 96-B.Logan).'>13</number><number>0.56</number>
+<number shadow='shadow1' tooltip='1:26 2-6-PHI 46DET 0 PHI 0 LI: 1.2(Shotgun) 9-M.Stafford pass incomplete short middle to 13-N.Burleson.'>13.57</number><number>0.54</number>
+<number shadow='shadow1' tooltip='1:21 3-6-PHI 46DET 0 PHI 0 LI: 1(Shotgun) 9-M.Stafford pass deep middle to 81-C.Johnson to PHI 13 for 33 yards(26-C.Williams).'>13.65</number><number>0.67</number>
+<number shadow='shadow1' tooltip='0:38 1-10-PHI 13DET 0 PHI 0 LI: 1.7(Shotgun) 35-J.Bell left end to PHI 13 for no gain (75-V.Curry; 23-P.Chung).'>14.37</number><number>0.66</number>
+<number shadow='shadow1' tooltip='15:00 2-10-PHI 13DET 0 PHI 0 LI: 1.6(Shotgun) 35-J.Bell up the middle to PHI 10 for 3 yards(95-M.Kendricks).'>15</number><number>0.64</number>
+<number shadow='shadow1' tooltip='14:21 3-7-PHI 10DET 0 PHI 0 LI: 1.4(Shotgun) 35-J.Bell left tackle to PHI 10 for no gain (98-C.Barwin)FUMBLES (98-C.Barwin) RECOVERED by PHI-23-P.Chung at PHI 923-P.Chung to PHI 9 for no gain (35-J.Bell).'>15.65</number><number>0.5</number>
+<number shadow='shadow1' tooltip='14:12 1-10-PHI 9DET 0 PHI 0 LI: 1.89-N.Foles pass incomplete deep left to 10-D.Jackson.'>15.8</number><number>0.52</number>
+<number shadow='shadow1' tooltip='14:05 2-10-PHI 9DET 0 PHI 0 LI: 1.6(No Huddle) 25-L.McCoy left tackle to PHI 10 for 1 yard(55-S.Tulloch).'>15.92</number><number>0.54</number>
+<number shadow='shadow1' tooltip='13:35 3-9-PHI 10DET 0 PHI 0 LI: 1.4(No Huddle Shotgun) 9-N.Foles pass incomplete short middle to 14-R.Cooper (31-R.Mathis).'>16.42</number><number>0.57</number>
+<number shadow='shadow1' tooltip='13:26 4-9-PHI 10DET 0 PHI 0 LI: 1.18-D.Jones punts 52 yards to DET 38 Center-46-J.Dorenbos downed by PHI-22-B.Boykin.'>16.57</number><number>0.55</number>
+<number shadow='shadow1' tooltip='13:14 1-10-DET 38DET 0 PHI 0 LI: 1.4(Shotgun) 41-T.Riddick left end to DET 38 for no gain (98-C.Barwin).'>16.77</number><number>0.52</number>
+<number shadow='shadow1' tooltip='12:39 2-10-DET 38DET 0 PHI 0 LI: 1.1(Shotgun) 9-M.Stafford FUMBLES (Aborted) at DET 34 and recovers at DET 349-M.Stafford pass incomplete short middle (58-T.Cole).'>17.35</number><number>0.5</number>
+<number shadow='shadow1' tooltip='12:33 3-10-DET 38DET 0 PHI 0 LI: 0.9(Shotgun) 9-M.Stafford pass incomplete deep middle to 82-D.Dickerson (22-B.Boykin).'>17.45</number><number>0.47</number>
+<number shadow='shadow1' tooltip='12:26 4-10-DET 38DET 0 PHI 0 LI: 0.66-S.Martin punts 29 yards to PHI 33 Center-99-C.Mosley downed by DET-48-D.Muhlbach.'>17.57</number><number>0.46</number>
+<number shadow='shadow1' tooltip='12:19 1-10-PHI 33DET 0 PHI 0 LI: 1.4(Shotgun) 9-N.Foles pass deep middle INTERCEPTED by 23-C.Houston at 5023-C.Houston to PHI 20 for 30 yards(79-T.Herremans).'>17.68</number><number>0.63</number>
+<number shadow='shadow1' tooltip='12:06 1-10-PHI 20DET 0 PHI 0 LI: 1.5(Shotgun) 35-J.Bell up the middle to PHI 20 for no gain (96-B.Logan).'>17.9</number><number>0.63</number>
+<number shadow='shadow1' tooltip='11:24 2-10-PHI 20DET 0 PHI 0 LI: 1.5(Shotgun) 9-M.Stafford pass short right to 13-N.Burleson to PHI 12 for 8 yards(59-D.Ryans; 95-M.Kendricks).'>18.6</number><number>0.66</number>
+<number shadow='shadow1' tooltip='10:42 3-2-PHI 12DET 0 PHI 0 LI: 1.6(Shotgun) 9-M.Stafford pass incomplete short left to 18-K.Durham (26-C.Williams).'>19.3</number><number>0.59</number>
+<number shadow='shadow1' tooltip='10:37 4-2-PHI 12DET 0 PHI 0 LI: 0.9(Shotgun) 9-M.Stafford pass short right to 35-J.Bell pushed ob at PHI 2 for 10 yards(24-B.Fletcher).'>19.38</number><number>0.69</number>
+<number shadow='shadow1' tooltip='10:07 1-2-PHI 2DET 0 PHI 0 LI: 1.9(Shotgun) 35-J.Bell left guard for 2 yards TOUCHDOWN.'>19.88</number><number>0.75</number>
+<number shadow='shadow1' tooltip='10:07 DET 8 PHI 0 LI: 6-S.Martin kicks 65 yards from DET 35 to end zone Touchback.'>19.97</number><number>0.76</number>
+<number shadow='shadow1' tooltip='9:33 2-2-PHI 28DET 8 PHI 0 LI: 1.1(No Huddle) 25-L.McCoy right tackle to PHI 31 for 3 yards(27-G.Quin; 98-N.Fairley).'>20.45</number><number>0.74</number>
+<number shadow='shadow1' tooltip='9:06 1-10-PHI 31DET 8 PHI 0 LI: 1.1(No Huddle) 25-L.McCoy left end to PHI 32 for 1 yard(94-E.Ansah).'>20.9</number><number>0.75</number>
+<number shadow='shadow1' tooltip='8:37 2-9-PHI 32DET 8 PHI 0 LI: 1(No Huddle Shotgun) 9-N.Foles FUMBLES (Aborted) at PHI 24 and recovers at PHI 249-N.Foles to PHI 24 for no gain (79-W.Young; 94-E.Ansah).'>21.38</number><number>0.79</number>
+<number shadow='shadow1' tooltip='8:07 3-17-PHI 24DET 8 PHI 0 LI: 0.734-B.Brown right tackle to PHI 29 for 5 yards(79-W.Young; 55-S.Tulloch).'>21.88</number><number>0.8</number>
+<number shadow='shadow1' tooltip='7:34 4-12-PHI 29DET 8 PHI 0 LI: 0.68-D.Jones punts 35 yards to DET 36 Center-46-J.Dorenbos downed by PHI-23-P.Chung.'>22.43</number><number>0.8</number>
+<number shadow='shadow1' tooltip='7:25 1-10-DET 36DET 8 PHI 0 LI: 1(Shotgun) 35-J.Bell up the middle to DET 37 for 1 yard(58-T.Cole).'>22.58</number><number>0.79</number>
+<number shadow='shadow1' tooltip='6:46 2-9-DET 37DET 8 PHI 0 LI: 0.9(Shotgun) 35-J.Bell up the middle to DET 40 for 3 yards(72-C.Thornton).'>23.23</number><number>0.79</number>
+<number shadow='shadow1' tooltip='6:05 3-6-DET 40DET 8 PHI 0 LI: 0.9(Shotgun) 9-M.Stafford pass incomplete short middle to 13-N.Burleson (95-M.Kendricks).'>23.92</number><number>0.76</number>
+<number shadow='shadow1' tooltip='5:59 4-6-DET 40DET 8 PHI 0 LI: 0.66-S.Martin punts 49 yards to PHI 11 Center-99-C.Mosley downed by DET-32-D.Carey.'>24.02</number><number>0.77</number>
+<number shadow='shadow1' tooltip='5:50 1-10-PHI 11DET 8 PHI 0 LI: 1.125-L.McCoy up the middle to PHI 25 for 14 yards(54-D.Levy).'>24.17</number><number>0.75</number>
+<number shadow='shadow1' tooltip='5:24 1-10-PHI 25DET 8 PHI 0 LI: 1.1(No Huddle) 25-L.McCoy left guard to PHI 32 for 7 yards(54-D.Levy).'>24.6</number><number>0.75</number>
+<number shadow='shadow1' tooltip='4:51 2-3-PHI 32DET 8 PHI 0 LI: 1(No Huddle) 25-L.McCoy left end to PHI 40 for 8 yards(26-L.Delmas).'>25.15</number><number>0.73</number>
+<number shadow='shadow1' tooltip='4:18 1-10-PHI 40DET 8 PHI 0 LI: 1.1(No Huddle) 32-C.Polk left tackle to PHI 40 for no gain (90-N.Suh; 55-S.Tulloch).'>25.7</number><number>0.74</number>
+<number shadow='shadow1' tooltip='3:49 2-10-PHI 40DET 8 PHI 0 LI: 1(No Huddle) 32-C.Polk left guard to PHI 49 for 9 yards(27-G.Quin).'>26.18</number><number>0.73</number>
+<number shadow='shadow1' tooltip='3:20 3-1-PHI 49DET 8 PHI 0 LI: 1(No Huddle) PENALTY on DET-98-N.Fairley Encroachment 5 yards enforced at PHI 49 - No Play.'>26.67</number><number>0.71</number>
+<number shadow='shadow1' tooltip='3:13 1-10-DET 46DET 8 PHI 0 LI: 1.125-L.McCoy left tackle to DET 44 for 2 yards(90-N.Suh).'>26.78</number><number>0.72</number>
+<number shadow='shadow1' tooltip='2:39 2-8-DET 44DET 8 PHI 0 LI: 1(No Huddle) 9-N.Foles pass deep right to 10-D.Jackson ran ob at DET 27 for 17 yards.'>27.35</number><number>0.68</number>
+<number shadow='shadow1' tooltip='2:16 1-10-DET 27DET 8 PHI 0 LI: 1.1(No Huddle) 25-L.McCoy right end to DET 24 for 3 yards(98-N.Fairley).'>27.73</number><number>0.65</number>
+<number shadow='shadow1' tooltip='2:00 2-7-DET 24DET 8 PHI 0 LI: 1.49-N.Foles pass short right to 10-D.Jackson to DET 13 for 11 yards(23-C.Houston).'>28</number><number>0.6</number>
+<number shadow='shadow1' tooltip='1:54 1-10-DET 13DET 8 PHI 0 LI: 1.7(No Huddle) 25-L.McCoy right guard to DET 15 for -2 yards(98-N.Fairley).'>28.1</number><number>0.63</number>
+<number shadow='shadow1' tooltip='1:20 2-12-DET 15DET 8 PHI 0 LI: 1.4(No Huddle) 9-N.Foles pass incomplete short left to 14-R.Cooper (31-R.Mathis).'>28.67</number><number>0.67</number>
+<number shadow='shadow1' tooltip='1:14 3-12-DET 15DET 8 PHI 0 LI: 1(Shotgun) 9-N.Foles pass short left to 14-R.Cooper to DET 10 for 5 yards(98-N.Fairley).'>28.77</number><number>0.71</number>
+<number shadow='shadow1' tooltip='0:56 4-7-DET 10DET 8 PHI 0 LI: 0.6(Shotgun) 9-N.Foles pass incomplete short left to 14-R.Cooper (26-L.Delmas).'>29.07</number><number>0.77</number>
+<number shadow='shadow1' tooltip='0:49 1-10-DET 10DET 8 PHI 0 LI: 1.7(Shotgun) 35-J.Bell up the middle to DET 17 for 7 yards(90-C.Geathers).'>29.18</number><number>0.77</number>
+<number shadow='shadow1' tooltip='0:44 2-3-DET 17DET 8 PHI 0 LI: 1.1(Shotgun) 35-J.Bell up the middle to DET 18 for 1 yard(90-C.Geathers).'>29.27</number><number>0.76</number>
+<number shadow='shadow1' tooltip='0:39 3-2-DET 18DET 8 PHI 0 LI: 1(Shotgun) 9-M.Stafford kneels to DET 15 for -3 yards.'>29.35</number><number>0.75</number>
+<number shadow='shadow1' tooltip='0:39 DET 8 PHI 0 LI: 6-S.Martin kicks 65 yards from DET 35 to end zone Touchback.'>29.44</number><number>0.76</number>
+<number shadow='shadow1' tooltip='15:00 1-10-PHI 20DET 8 PHI 0 LI: 1.1(Shotgun) 9-N.Foles pass incomplete short left to 14-R.Cooper.'>30</number><number>0.77</number>
+<number shadow='shadow1' tooltip='14:57 2-10-PHI 20DET 8 PHI 0 LI: 1(No Huddle Shotgun) 9-N.Foles scrambles right end to PHI 24 for 4 yards(98-N.Fairley).'>30.05</number><number>0.77</number>
+<number shadow='shadow1' tooltip='14:25 3-6-PHI 24DET 8 PHI 0 LI: 0.9(No Huddle Shotgun) 25-L.McCoy left end to PHI 37 for 13 yards(55-S.Tulloch).'>30.58</number><number>0.73</number>
+<number shadow='shadow1' tooltip='13:53 1-10-PHI 37DET 8 PHI 0 LI: 1.1(No Huddle) 25-L.McCoy left guard to PHI 37 for no gain (90-N.Suh).'>31.12</number><number>0.75</number>
+<number shadow='shadow1' tooltip='13:30 2-10-PHI 37DET 8 PHI 0 LI: 0.9(No Huddle Shotgun) 9-N.Foles pass incomplete short right to 87-B.Celek.'>31.5</number><number>0.76</number>
+<number shadow='shadow1' tooltip='13:24 3-10-PHI 37DET 8 PHI 0 LI: 0.8(No Huddle Shotgun) 9-N.Foles pass incomplete deep left to 86-Z.Ertz.'>31.6</number><number>0.79</number>
+<number shadow='shadow1' tooltip='13:19 4-10-PHI 37DET 8 PHI 0 LI: 0.58-D.Jones punts 38 yards to DET 25 Center-46-J.Dorenbos fair catch by 12-J.Ross.'>31.68</number><number>0.79</number>
+<number shadow='shadow1' tooltip='13:12 1-10-DET 25DET 8 PHI 0 LI: 1.2(Shotgun) 35-J.Bell up the middle to DET 29 for 4 yards(95-M.Kendricks).'>31.8</number><number>0.79</number>
+<number shadow='shadow1' tooltip='12:34 2-6-DET 29DET 8 PHI 0 LI: 1.1(Shotgun) 35-J.Bell left end to DET 33 for 4 yards(72-C.Thornton).'>32.43</number><number>0.79</number>
+<number shadow='shadow1' tooltip='11:49 3-2-DET 33DET 8 PHI 0 LI: 1(Shotgun) 9-M.Stafford pass short left to 35-J.Bell pushed ob at DET 47 for 14 yards(26-C.Williams).'>33.18</number><number>0.82</number>
+<number shadow='shadow1' tooltip='11:12 1-10-DET 47DET 8 PHI 0 LI: 1.1(Shotgun) 41-T.Riddick left tackle to PHI 46 for 7 yards(58-T.Cole).'>33.8</number><number>0.83</number>
+<number shadow='shadow1' tooltip='10:34 2-3-PHI 46DET 8 PHI 0 LI: 1.1(Shotgun) 41-T.Riddick up the middle to PHI 42 for 4 yards(72-C.Thornton).'>34.43</number><number>0.85</number>
+<number shadow='shadow1' tooltip='9:55 1-10-PHI 42DET 8 PHI 0 LI: 1.2(Shotgun) 9-M.Stafford pass incomplete short left to 18-K.Durham.'>35.08</number><number>0.83</number>
+<number shadow='shadow1' tooltip='9:52 2-10-PHI 42DET 8 PHI 0 LI: 1(Shotgun) 35-J.Bell up the middle to PHI 38 for 4 yards(91-F.Cox).'>35.13</number><number>0.83</number>
+<number shadow='shadow1' tooltip='9:12 3-6-PHI 38DET 8 PHI 0 LI: 0.9(Shotgun) 35-J.Bell left end to PHI 36 for 2 yards(58-T.Cole).'>35.8</number><number>0.79</number>
+<number shadow='shadow1' tooltip='8:40 4-4-PHI 36DET 8 PHI 0 LI: 0.46-S.Martin punts 25 yards to PHI 11 Center-99-C.Mosley fair catch by 10-D.Jackson.'>36.33</number><number>0.79</number>
+<number shadow='shadow1' tooltip='8:34 1-10-PHI 11DET 8 PHI 0 LI: 1.125-L.McCoy left end to PHI 5 for -6 yards(77-I.Idonije).'>36.43</number><number>0.81</number>
+<number shadow='shadow1' tooltip='7:58 2-16-PHI 5DET 8 PHI 0 LI: 0.9(No Huddle) 25-L.McCoy up the middle to PHI 16 for 11 yards(26-L.Delmas).'>37.03</number><number>0.8</number>
+<number shadow='shadow1' tooltip='7:24 3-5-PHI 16DET 8 PHI 0 LI: 0.9(No Huddle) 34-B.Brown up the middle to PHI 15 for -1 yards(26-L.Delmas).'>37.6</number><number>0.83</number>
+<number shadow='shadow1' tooltip='6:53 4-6-PHI 15DET 8 PHI 0 LI: 0.78-D.Jones punts 43 yards to DET 42 Center-46-J.Dorenbos12-J.Ross for 58 yards TOUCHDOWN.'>38.12</number><number>0.93</number>
+<number shadow='shadow1' tooltip='6:53 DET 14 PHI 0 LI: 6-S.Martin kicks 62 yards from DET 35 to PHI 322-B.Boykin to PHI 26 for 23 yards(41-T.Riddick).'>38.21</number><number>0.93</number>
+<number shadow='shadow1' tooltip='6:31 1-10-PHI 26DET 14 PHI 0 LI: 0.3(Shotgun) 9-N.Foles pass short right to 25-L.McCoy to PHI 30 for 4 yards(79-W.Young).'>38.48</number><number>0.93</number>
+<number shadow='shadow1' tooltip='6:02 2-6-PHI 30DET 14 PHI 0 LI: 0.3(No Huddle) 25-L.McCoy right tackle to PHI 30 for no gain (27-G.Quin; 58-A.Palmer).'>38.97</number><number>0.94</number>
+<number shadow='shadow1' tooltip='5:26 3-6-PHI 30DET 14 PHI 0 LI: 0.2(No Huddle Shotgun) PENALTY on PHI-69-E.Mathis False Start 5 yards enforced at PHI 30 - No Play.'>39.57</number><number>0.94</number>
+<number shadow='shadow1' tooltip='5:19 3-11-PHI 25DET 14 PHI 0 LI: 0.2(No Huddle) 9-N.Foles pass short right to 10-D.Jackson to PHI 37 for 12 yards(23-C.Houston).'>39.68</number><number>0.93</number>
+<number shadow='shadow1' tooltip='4:47 1-10-PHI 37DET 14 PHI 0 LI: 0.3(No Huddle Shotgun) 9-N.Foles pass deep left to 14-R.Cooper to DET 19 for 44 yards(31-R.Mathis).'>40.22</number><number>0.88</number>
+<number shadow='shadow1' tooltip='4:13 1-10-DET 19DET 14 PHI 0 LI: 0.8(No Huddle) 9-N.Foles pass deep right to 10-D.Jackson for 19 yards TOUCHDOWNThe Replay Assistant challenged the runner was in bounds ruling and the play was Upheld.'>40.78</number><number>0.81</number>
+<number shadow='shadow1' tooltip='4:13 DET 14 PHI 6 LI: 6-A.Henery kicks 59 yards from PHI 35 to DET 612-J.Ross to DET 28 for 22 yards(50-C.Matthews).'>40.87</number><number>0.82</number>
+<number shadow='shadow1' tooltip='3:58 1-10-DET 28DET 14 PHI 6 LI: 1.2(Shotgun) 9-M.Stafford pass short left to 81-C.Johnson to DET 37 for 9 yards(23-P.Chung).'>41.03</number><number>0.83</number>
+<number shadow='shadow1' tooltip='3:24 2-1-DET 37DET 14 PHI 6 LI: 1.1(Shotgun) 35-J.Bell left tackle to DET 37 for no gain (75-V.Curry).'>41.6</number><number>0.84</number>
+<number shadow='shadow1' tooltip='2:46 3-1-DET 37DET 14 PHI 6 LI: 1.2(Shotgun) 9-M.Stafford pass short left to 13-N.Burleson to DET 47 for 10 yards(26-C.Williams).'>42.23</number><number>0.85</number>
+<number shadow='shadow1' tooltip='2:07 1-10-DET 47DET 14 PHI 6 LI: 1.1(No Huddle Shotgun) 35-J.Bell right end to DET 48 for 1 yard(98-C.Barwin).'>42.88</number><number>0.86</number>
+<number shadow='shadow1' tooltip='1:25 2-9-DET 48DET 14 PHI 6 LI: 1.1(Shotgun) 9-M.Stafford scrambles right end to DET 49 for 1 yard(95-M.Kendricks).'>43.58</number><number>0.86</number>
+<number shadow='shadow1' tooltip='0:36 3-8-DET 49DET 14 PHI 6 LI: 1(Shotgun) 9-M.Stafford pass incomplete short right to 35-J.Bell (91-F.Cox).'>44.4</number><number>0.83</number>
+<number shadow='shadow1' tooltip='0:31 4-8-DET 49DET 14 PHI 6 LI: 0.76-S.Martin punts 51 yards to end zone Center-99-C.Mosley Touchback.'>44.48</number><number>0.83</number>
+<number shadow='shadow1' tooltip='0:24 1-10-PHI 20DET 14 PHI 6 LI: 0.8(Shotgun) 9-N.Foles pass short middle to 14-R.Cooper to PHI 45 for 25 yards(28-D.Bentley).'>44.6</number><number>0.78</number>
+<number shadow='shadow1' tooltip='15:00 1-10-PHI 45DET 14 PHI 6 LI: 19-N.Foles pass incomplete short left to 14-R.Cooper.'>45</number><number>0.8</number>
+<number shadow='shadow1' tooltip='14:58 2-10-PHI 45DET 14 PHI 6 LI: 0.8(No Huddle Shotgun) 9-N.Foles pass incomplete deep middle to 10-D.Jackson.'>45.03</number><number>0.74</number>
+<number shadow='shadow1' tooltip='14:51 1-10-DET 40DET 14 PHI 6 LI: 1.2(Shotgun) 9-N.Foles pass incomplete deep right to 10-D.Jackson.'>45.15</number><number>0.77</number>
+<number shadow='shadow1' tooltip='14:42 2-10-DET 40DET 14 PHI 6 LI: 0.9(Shotgun) 25-L.McCoy left end for 40 yards TOUCHDOWN.'>45.3</number><number>0.54</number>
+<number shadow='shadow1' tooltip='14:42 DET 14 PHI 14 LI: 6-A.Henery kicks 63 yards from PHI 35 to DET 212-J.Ross for 98 yards TOUCHDOWN.'>45.39</number><number>0.76</number>
+<number shadow='shadow1' tooltip='14:14 1-10-PHI 24DET 20 PHI 14 LI: 1(Shotgun) 25-L.McCoy right tackle to PHI 30 for 6 yards(55-S.Tulloch).'>45.77</number><number>0.75</number>
+<number shadow='shadow1' tooltip='13:48 2-4-PHI 30DET 20 PHI 14 LI: 1.1(No Huddle Shotgun) 9-N.Foles pass short right to 16-B.Smith pushed ob at PHI 43 for 13 yards(23-C.Houston).'>46.2</number><number>0.72</number>
+<number shadow='shadow1' tooltip='13:23 1-10-PHI 43DET 20 PHI 14 LI: 1.3(No Huddle Shotgun) 25-L.McCoy left tackle for 57 yards TOUCHDOWN.'>46.62</number><number>0.44</number>
+<number shadow='shadow1' tooltip='13:23 DET 20 PHI 22 LI: 6-A.Henery kicks 46 yards from PHI 35 to DET 1941-T.Riddick to DET 31 for 12 yards(30-C.Anderson; 85-J.Casey).'>46.71</number><number>0.45</number>
+<number shadow='shadow1' tooltip='13:08 1-10-DET 31DET 20 PHI 22 LI: 1.8(Shotgun) 9-M.Stafford pass incomplete short right to 87-B.Pettigrew (95-M.Kendricks).'>46.87</number><number>0.42</number>
+<number shadow='shadow1' tooltip='13:05 2-10-DET 31DET 20 PHI 22 LI: 1.5(Shotgun) 9-M.Stafford pass incomplete deep left to 81-C.Johnson.'>46.92</number><number>0.4</number>
+<number shadow='shadow1' tooltip='12:56 3-10-DET 31DET 20 PHI 22 LI: 1.3(Shotgun) 9-M.Stafford pass short right to 35-J.Bell to DET 35 for 4 yards(29-N.Allen).'>47.07</number><number>0.37</number>
+<number shadow='shadow1' tooltip='12:35 3-15-DET 26DET 20 PHI 22 LI: 1.1(Shotgun) 9-M.Stafford pass incomplete short right to 35-J.Bell.'>47.42</number><number>0.35</number>
+<number shadow='shadow1' tooltip='12:27 4-15-DET 26DET 20 PHI 22 LI: 16-S.Martin punts 44 yards to PHI 30 Center-99-C.Mosley10-D.Jackson to PHI 29 for -1 yards(12-J.Ross).'>47.55</number><number>0.36</number>
+<number shadow='shadow1' tooltip='12:20 1-10-PHI 29DET 20 PHI 22 LI: 1.9(Shotgun) 25-L.McCoy left end to DET 45 for 26 yards(90-N.Suh).'>47.67</number><number>0.28</number>
+<number shadow='shadow1' tooltip='11:32 1-10-DET 45DET 20 PHI 22 LI: 2.1(No Huddle Shotgun) 9-N.Foles scrambles right end to DET 25 for 20 yards.'>48.47</number><number>0.23</number>
+<number shadow='shadow1' tooltip='10:59 1-10-DET 25DET 20 PHI 22 LI: 1.9(No Huddle Shotgun) 34-B.Brown right end to DET 8 for 17 yards(27-G.Quin).'>49.02</number><number>0.16</number>
+<number shadow='shadow1' tooltip='10:12 1-8-DET 8DET 20 PHI 22 LI: 2(No Huddle Shotgun) 25-L.McCoy left end to DET 4 for 4 yards(55-S.Tulloch).'>49.8</number><number>0.14</number>
+<number shadow='shadow1' tooltip='9:44 2-4-DET 4DET 20 PHI 22 LI: 2.2(No Huddle Shotgun) PENALTY on DET-96-A.Fluellen Neutral Zone Infraction 2 yards enforced at DET 4 - No Play.'>50.27</number><number>0.13</number>
+<number shadow='shadow1' tooltip='9:28 2-2-DET 2DET 20 PHI 22 LI: 2.2(Shotgun) 25-L.McCoy up the middle to DET 1 for 1 yard(79-W.Young).'>50.53</number><number>0.14</number>
+<number shadow='shadow1' tooltip='8:50 3-1-DET 1DET 20 PHI 22 LI: 2.1(Shotgun) 25-L.McCoy left tackle to DET 1 for no gain (90-N.Suh).'>51.17</number><number>0.23</number>
+<number shadow='shadow1' tooltip='8:18 4-1-DET 1DET 20 PHI 22 LI: 1.1(No Huddle) 9-N.Foles up the middle for 1 yard TOUCHDOWN.'>51.7</number><number>0.13</number>
+<number shadow='shadow1' tooltip='8:18 DET 20 PHI 28 LI: 6-A.Henery kicks 63 yards from PHI 35 to DET 212-J.Ross ran ob at DET 48 for 46 yards.'>51.79</number><number>0.21</number>
+<number shadow='shadow1' tooltip='8:09 1-10-DET 48DET 20 PHI 28 LI: 1.5(Shotgun) 9-M.Stafford pass short right to 35-J.Bell to PHI 24 for 28 yards(59-D.Ryans).'>51.85</number><number>0.27</number>
+<number shadow='shadow1' tooltip='7:26 1-10-PHI 24DET 20 PHI 28 LI: 1.8(Shotgun) 9-M.Stafford FUMBLES (Aborted) at PHI 24 RECOVERED by PHI-95-M.Kendricks at PHI 4095-M.Kendricks to PHI 40 for no gain (9-M.Stafford).'>52.57</number><number>0.07</number>
+<number shadow='shadow1' tooltip='7:15 1-10-PHI 40DET 20 PHI 28 LI: 1.7(Shotgun) 25-L.McCoy up the middle to PHI 43 for 3 yards(90-N.Suh).'>52.75</number><number>0.05</number>
+<number shadow='shadow1' tooltip='6:37 2-7-PHI 43DET 20 PHI 28 LI: 1.6(No Huddle Shotgun) PENALTY on DET-92-D.Taylor Neutral Zone Infraction 5 yards enforced at PHI 43 - No Play.'>53.38</number><number>0.03</number>
+<number shadow='shadow1' tooltip='6:15 2-2-PHI 48DET 20 PHI 28 LI: 1.6(No Huddle Shotgun) 25-L.McCoy right tackle to PHI 49 for 1 yard(55-S.Tulloch; 54-D.Levy).'>53.75</number><number>0.03</number>
+<number shadow='shadow1' tooltip='5:29 3-1-PHI 49DET 20 PHI 28 LI: 1.3(No Huddle Shotgun) 25-L.McCoy right guard to 50 for 1 yard(55-S.Tulloch; 90-N.Suh).'>54.52</number><number>0.01</number>
+<number shadow='shadow1' tooltip='4:40 1-10-50DET 20 PHI 28 LI: 0.6(No Huddle Shotgun) 25-L.McCoy right tackle to DET 41 for 9 yards(27-G.Quin).'>55.33</number><number>0.03</number>
+<number shadow='shadow1' tooltip='3:51 2-1-DET 41DET 20 PHI 28 LI: 0.6(Shotgun) 32-C.Polk up the middle to DET 38 for 3 yards(90-N.Suh; 54-D.Levy).'>56.15</number><number>0.01</number>
+<number shadow='shadow1' tooltip='3:06 1-10-DET 38DET 20 PHI 28 LI: 1.2(Shotgun) 32-C.Polk up the middle for 38 yards TOUCHDOWN.'>56.9</number><number>0.02</number>
+<number shadow='shadow1' tooltip='3:06 DET 20 PHI 34 LI: 6-A.Henery kicks 48 yards from PHI 35 to DET 1782-D.Dickerson to DET 35 for 18 yards(88-J.Maehl).'>56.99</number><number>0.03</number>
+<number shadow='shadow1' tooltip='2:51 1-10-DET 35DET 20 PHI 34 LI: 0.2(Shotgun) 9-M.Stafford pass incomplete short left to 87-B.Pettigrew.'>57.15</number><number>0.02</number>
+<number shadow='shadow1' tooltip='2:47 2-10-DET 35DET 20 PHI 34 LI: 0.1(Shotgun) 9-M.Stafford pass incomplete short left to 13-N.Burleson.'>57.22</number><number>0.02</number>
+<number shadow='shadow1' tooltip='2:44 3-10-DET 35DET 20 PHI 34 LI: 0.1(Shotgun) 9-M.Stafford pass incomplete short left to 35-J.Bell.'>57.27</number><number>0.01</number>
+<number shadow='shadow1' tooltip='2:39 4-10-DET 35DET 20 PHI 34 LI: 0.1(Shotgun) 9-M.Stafford pass incomplete short middle to 81-C.Johnson (59-D.Ryans).'>57.35</number><number>0.01</number>
+<number shadow='shadow1' tooltip='2:33 1-10-DET 35DET 20 PHI 34 LI: 0.2(Shotgun) 34-B.Brown left tackle to DET 35 for no gain (90-N.Suh).'>57.45</number><number>0.01</number>
+<number shadow='shadow1' tooltip='2:27 2-10-DET 35DET 20 PHI 34 LI: 0.2(Shotgun) 34-B.Brown up the middle to DET 35 for no gain (90-N.Suh).'>57.55</number><number>0.02</number>
+<number shadow='shadow1' tooltip='2:20 3-10-DET 35DET 20 PHI 34 LI: 0.1(Shotgun) 34-B.Brown right end to DET 37 for -2 yards(77-I.Idonije).'>57.67</number><number>0.01</number>
+<number shadow='shadow1' tooltip='2:00 4-12-DET 37DET 20 PHI 34 LI: 0.1(Shotgun) 9-N.Foles pass short right to 87-B.Celek to DET 10 for 27 yards.'>58</number><number>0.01</number>
+<number shadow='shadow1' tooltip='0:50 1-10-DET 10DET 20 PHI 34 LI: 0.19-N.Foles kneels to DET 11 for -1 yards.'>59.17</number><number>0.01</number>
+<number shadow='shadow1' tooltip='0:31 2-11-DET 11DET 20 PHI 34 LI: 0.19-N.Foles kneels to DET 12 for -1 yards.'>59.48</number><number>0</number>
+<number>60</number><number>0</number>
+</row> </chart_data>
+       <draw>
+
+
+
+      <image x='45' y='298'  url='nfllogos/42x50png/DET.gif'  layer='foreground' glow = 'glow1'/>
+      <image x='45' y='350'  url='nfllogos/42x50png/PHI.gif'     layer='foreground' glow = 'glow1'/>
+
+
+      <rect x='130' y='300' width='250' height='40' fill_color='0064ae' bevel='bevel1' />
+      <text x='135' y='300' width='250' height='40' h_align='left' v_align='middle' color='ffffff' shadow='shadow2' glow=''>Detroit Lions</text>
+
+      <rect x='130' y='350' width='250' height='40' fill_color='00444c' bevel='bevel1'  />
+      <text x='135' y='350' width='250' height='40' h_align='left' v_align='middle' color='ffffff' shadow='shadow2' glow='winnerglow'>Philadelphia Eagles</text>
+
+      <rect x='420' y='300' width='60' height='40' fill_color='0064ae' bevel='bevel1'  />
+      <text x='420' y='300' width='60' height='40' h_align='center' v_align='middle' color='ffffff' shadow='shadow2' transition='none' glow=''>20</text>
+
+      <rect x='420' y='350' width='60' height='40' fill_color='00444c' bevel='bevel1' />
+      <text x='420' y='350' width='60' height='40' h_align='center' v_align='middle' color='ffffff' shadow='shadow2' transition='none' glow='winnerglow'>34</text>
+
+      <text x='-3' y='12'  width='60' height='40' h_align='center' v_align='middle' size='13' shadow='shadow2'>DETWin </text>
+      <text x='-3' y='218' width='60' height='40' h_align='center' v_align='middle' size='13' shadow='shadow2'>PHIWin </text>
+
+     
+              <rect x='540' y='300' width='100' height='35' fill_color='000000' fill_alpha='50'/>
+              <text x='540' y='300' width='100' height='35' h_align='center' v_align='middle' color='ffffff' size='15' shadow='shadow2' >Final</text>
+
+              <text x='540' y='340' width='40' h_align='center' color='000000' size='12' shadow='shadow2'>CBF</text>
+              <text x='600' y='340' width='40' h_align='center' color='000000' size='12' shadow='shadow2'>EI</text>
+
+              <rect x='540' y='360' width='40' height='30' fill_color='000000' fill_alpha='50' />
+              <text x='540' y='360' width='40' height='30' size='12' h_align='center' v_align='middle' color='FFFFFF' shadow='shadow2'>17</text>
+
+              <rect x='600' y='360' width='40' height='30' fill_color='000000' fill_alpha='50' />
+              <text x='600' y='360' width='40' height='30' size='12' h_align='center' v_align='middle' color='FFFFFF' shadow='shadow2'>4.8</text>
+
+              <text x='20' y='420' width='70' height='25' size='12' h_align='left' v_align='middle' color='000000' >12/8/2013</text>
+              <text x='100' y='420' width='200' height='25' size='12' h_align='left' v_align='middle' color='000000' >Lincoln Financial Field</text>
+
+   </draw></chart>

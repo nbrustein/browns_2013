@@ -1,0 +1,335 @@
+
+<chart>
+   <license>ETAS9P33ESHO.945CWK-2XOI1X0-7L</license>
+   <chart_type>scatter</chart_type>
+   <chart_pref trend_thickness='0' line_thickness='3' point_size='0'/>
+
+   <series_color>
+      <color>ffff00</color>
+   </series_color>
+
+   <chart_rect x='45' y='20' width='630' height='230' positive_color='cacaca'  />
+
+  <chart_border top_thickness='0'
+                 bottom_thickness='0'
+                 left_thickness='0'
+                 right_thickness='0'
+                 color='000000'
+                 />
+
+   <tooltip font='Arial' bold='true' size='11' />
+
+   <chart_note type='flag'
+               color='000000'
+               alpha='90'
+               bold='FALSE'
+               size='10'
+               background_color='ffffe0'
+               background_alpha='50'
+               shadow='shadow2'
+               />
+
+   <chart_grid_h thickness='2' color='ffffff' type='dashed'  />
+   <chart_grid_v thickness='2' color='ffffff'   />
+		>
+
+   <legend layout='hide' />
+
+   <chart_guide horizontal='TRUE'
+             vertical='TRUE'
+             thickness='1'
+             color='006400'
+             alpha='100'
+             type='solid'
+             snap_h='TRUE'
+             snap_v='TRUE'
+             radius='3'
+             fill_color='006400'
+             fill_alpha='100'
+             line_color='006400'
+             line_alpha='80'
+             line_thickness='1'
+             text_h_alpha='50'
+             text_v_alpha='00'
+             suffix_h=' WP'
+             decimals='2'
+             bold='FALSE'
+             size='11'
+             text_color='FFFFFF'
+             background_color='006400'
+             />
+   <filter>
+      <shadow id='shadow1' distance='2' angle='60' blurX='5' blurY='5' alpha='50' />
+      <bevel id='bevel1' angle='45' blurX='5' blurY='5' distance='0' />
+      <glow id='glow1' color='ffffff' alpha='0' blurX='7' blurY='7' strength='6' quality='2' inner='FALSE' knockout='FALSE' />
+      <glow id='winnerglow' color='ffffff' alpha='0' blurX='7' blurY='7' strength='5' quality='2' inner='FALSE' knockout='FALSE' />
+   </filter>
+
+    <axis_value_label>
+         <string></string>
+          <string> </string>
+          <null/>
+          <string> </string>
+          <string></string>
+
+       </axis_value_label>
+		
+	   <axis_ticks category_ticks='false'/>
+
+       <axis_value min='0' max='1' steps='4'  decimals='2' show_min='true' size='13' shadow='shadow2' />     
+            <axis_category
+               min='0'
+               max='60'
+               steps='4'
+               mode='all'
+               decimals='0'
+               size='13'
+               shadow='shadow2'
+               />
+
+       <axis_category_label>
+          <string>Kickoff</string>
+          <string></string>
+          <string>Halftime</string>
+          <string></string>
+          <string>End</string>
+
+       </axis_category_label>
+
+
+        <chart_data>
+       <row>
+	      <null/><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number>
+              <number>x</number><number>y</number>
+              </row><row><string></string>
+
+                     <number shadow='shadow1'>0</number><number>.5</number><number shadow='shadow1' tooltip='15:00 PHI 0 OAK 0 LI: 6-A.Henery kicks 70 yards from PHI 35 to OAK -532-J.Stewart to OAK 16 for 21 yards(50-C.Matthews).'>0.09</number><number>0.5</number>
+<number shadow='shadow1' tooltip='14:34 2-5-OAK 13PHI 0 OAK 0 LI: 1.6(Shotgun) 20-D.McFadden left tackle to OAK 14 for 1 yard(58-T.Cole).'>0.43</number><number>0.52</number>
+<number shadow='shadow1' tooltip='13:53 3-4-OAK 14PHI 0 OAK 0 LI: 1.5(Shotgun) 2-T.Pryor pass short right to 17-D.Moore to OAK 41 for 27 yards(28-E.Wolff).'>1.12</number><number>0.45</number>
+<number shadow='shadow1' tooltip='13:10 1-10-OAK 41PHI 0 OAK 0 LI: 1.42-T.Pryor sacked at OAK 35 for -6 yards(58-T.Cole).'>1.83</number><number>0.49</number>
+<number shadow='shadow1' tooltip='12:22 2-16-OAK 35PHI 0 OAK 0 LI: 1.1(Shotgun) 2-T.Pryor pass short right to 84-J.Criner to OAK 41 for 6 yards(59-D.Ryans).'>2.63</number><number>0.49</number>
+<number shadow='shadow1' tooltip='11:41 3-10-OAK 41PHI 0 OAK 0 LI: 1(Shotgun) 2-T.Pryor pass short left to 80-R.Streater to OAK 46 for 5 yards(22-B.Boykin).'>3.32</number><number>0.52</number>
+<number shadow='shadow1' tooltip='10:59 4-5-OAK 46PHI 0 OAK 0 LI: 0.67-M.King punts 54 yards to end zone Center-59-J.Condo TouchbackPENALTY on PHI-42-K.Coleman Running Into the Kicker 5 yards enforced at OAK 46 - No Play.'>4.02</number><number>0.43</number>
+<number shadow='shadow1' tooltip='10:51 1-10-PHI 49PHI 0 OAK 0 LI: 1.3Direct snap to 20-D.McFadden 20-D.McFadden up the middle to PHI 46 for 3 yards(29-N.Allen 98-C.Barwin).'>4.15</number><number>0.44</number>
+<number shadow='shadow1' tooltip='10:15 2-7-PHI 46PHI 0 OAK 0 LI: 1.2(Shotgun) 20-D.McFadden left end to PHI 38 for 8 yards(59-D.Ryans)PENALTY on OAK-45-M.Reece Offensive Holding 10 yards enforced at PHI 45.'>4.75</number><number>0.47</number>
+<number shadow='shadow1' tooltip='9:42 2-16-OAK 45PHI 0 OAK 0 LI: 1.12-T.Pryor pass incomplete short left to 81-M.Rivera (28-E.Wolff).'>5.3</number><number>0.49</number>
+<number shadow='shadow1' tooltip='9:39 3-16-OAK 45PHI 0 OAK 0 LI: 0.9(Shotgun) 2-T.Pryor scrambles right end pushed ob at OAK 48 for 3 yards(29-N.Allen).'>5.35</number><number>0.51</number>
+<number shadow='shadow1' tooltip='9:22 4-13-OAK 48PHI 0 OAK 0 LI: 0.67-M.King punts 36 yards to PHI 16 Center-59-J.Condo fair catch by 10-D.Jackson.'>5.63</number><number>0.51</number>
+<number shadow='shadow1' tooltip='9:16 1-10-PHI 16PHI 0 OAK 0 LI: 1.6(Shotgun) 9-N.Foles scrambles up the middle to PHI 20 for 4 yards(53-N.Roach).'>5.73</number><number>0.51</number>
+<number shadow='shadow1' tooltip='8:56 2-6-PHI 20PHI 0 OAK 0 LI: 1.5(No Huddle Shotgun) 25-L.McCoy up the middle to PHI 20 for no gain (98-V.Walker 29-B.Ross)PENALTY on PHI-79-T.Herremans Offensive Holding 10 yards enforced at PHI 20 - No Play.'>6.07</number><number>0.47</number>
+<number shadow='shadow1' tooltip='8:47 2-16-PHI 10PHI 0 OAK 0 LI: 1.4(No Huddle Shotgun) 9-N.Foles pass short left to 14-R.Cooper pushed ob at OAK 48 for 42 yards(24-C.Woodson).'>6.22</number><number>0.57</number>
+<number shadow='shadow1' tooltip='8:32 1-10-OAK 48PHI 0 OAK 0 LI: 1.3(No Huddle Shotgun) 9-N.Foles pass incomplete short right to 86-Z.Ertz.'>6.47</number><number>0.55</number>
+<number shadow='shadow1' tooltip='8:30 2-10-OAK 48PHI 0 OAK 0 LI: 1.1(Shotgun) 25-L.McCoy left end to PHI 49 for -3 yards(94-Ke.Burnett).'>6.5</number><number>0.52</number>
+<number shadow='shadow1' tooltip='7:51 3-13-PHI 49PHI 0 OAK 0 LI: 0.9(Shotgun) 9-N.Foles pass deep middle to 88-J.Maehl to OAK 32 for 19 yards(24-C.Woodson).'>7.15</number><number>0.61</number>
+<number shadow='shadow1' tooltip='7:15 1-10-OAK 32PHI 0 OAK 0 LI: 1.5(No Huddle Shotgun) 9-N.Foles pass short right to 25-L.McCoy to OAK 19 for 13 yards(21-M.Jenkins; 29-B.Ross).'>7.75</number><number>0.64</number>
+<number shadow='shadow1' tooltip='6:49 1-10-OAK 19PHI 0 OAK 0 LI: 1.5(No Huddle Shotgun) 9-N.Foles pass short right to 10-D.Jackson to OAK 11 for 8 yards(24-C.Woodson).'>8.18</number><number>0.69</number>
+<number shadow='shadow1' tooltip='6:27 2-2-OAK 11PHI 0 OAK 0 LI: 1.9(No Huddle Shotgun) 25-L.McCoy right end to OAK 12 for -1 yards(94-Ke.Burnett).'>8.55</number><number>0.66</number>
+<number shadow='shadow1' tooltip='6:01 3-3-OAK 12PHI 0 OAK 0 LI: 1.6(No Huddle Shotgun) 9-N.Foles pass short middle to 86-Z.Ertz to OAK 2 for 10 yards(29-B.Ross).'>8.98</number><number>0.69</number>
+<number shadow='shadow1' tooltip='5:23 1-2-OAK 2PHI 0 OAK 0 LI: 1.9(No Huddle Shotgun) 9-N.Foles pass short left to 87-B.Celek for 2 yards TOUCHDOWN.'>9.62</number><number>0.71</number>
+<number shadow='shadow1' tooltip='5:23 PHI 0 OAK 0 LI: 6-A.Henery extra point is GOOD Center-46-J.Dorenbos Holder-8-D.Jones.'>9.66</number><number>0.71</number>
+<number shadow='shadow1' tooltip='5:23 PHI 7 OAK 0 LI: 6-A.Henery kicks 65 yards from PHI 35 to end zone Touchback.'>9.71</number><number>0.72</number>
+<number shadow='shadow1' tooltip='4:42 2-8-OAK 22PHI 7 OAK 0 LI: 1.52-T.Pryor pass short left to 20-D.McFadden to OAK 25 for 3 yards(55-B.Graham; 28-E.Wolff).'>10.3</number><number>0.73</number>
+<number shadow='shadow1' tooltip='4:02 3-5-OAK 25PHI 7 OAK 0 LI: 1.3(Shotgun) 2-T.Pryor pass short middle to 80-R.Streater to PHI 9 for 66 yards(22-B.Boykin).'>10.97</number><number>0.57</number>
+<number shadow='shadow1' tooltip='3:12 1-9-PHI 9PHI 7 OAK 0 LI: 1.2(Shotgun) 2-T.Pryor right end to PHI 6 for 3 yards(95-M.Kendricks).'>11.8</number><number>0.56</number>
+<number shadow='shadow1' tooltip='2:28 2-6-PHI 6PHI 7 OAK 0 LI: 1.3(Shotgun) 2-T.Pryor pass incomplete short right to 84-J.Criner.'>12.53</number><number>0.59</number>
+<number shadow='shadow1' tooltip='2:20 3-6-PHI 6PHI 7 OAK 0 LI: 1(Shotgun) 2-T.Pryor pass incomplete short middle to 84-J.Criner.'>12.67</number><number>0.59</number>
+<number shadow='shadow1' tooltip='2:13 3-6-PHI 6PHI 7 OAK 0 LI: 1(Shotgun) 2-T.Pryor pass incomplete short right to 20-D.McFadden.'>12.78</number><number>0.64</number>
+<number shadow='shadow1' tooltip='2:06 4-6-PHI 6PHI 7 OAK 0 LI: 0.511-S.Janikowski 24 yard field goal is GOOD Center-59-J.Condo Holder-7-M.King.'>12.9</number><number>0.65</number>
+<number shadow='shadow1' tooltip='2:06 PHI 7 OAK 3 LI: 11-S.Janikowski kicks 56 yards from OAK 35 to PHI 922-B.Boykin to PHI 18 for 9 yards(28-P.Adams).'>12.99</number><number>0.63</number>
+<number shadow='shadow1' tooltip='1:58 1-10-PHI 18PHI 7 OAK 3 LI: 1.6(Shotgun) 25-L.McCoy up the middle to PHI 24 for 6 yards(55-S.Moore 94-Ke.Burnett).'>13.03</number><number>0.64</number>
+<number shadow='shadow1' tooltip='1:41 2-4-PHI 24PHI 7 OAK 3 LI: 1.5(No Huddle Shotgun) 9-N.Foles up the middle to PHI 33 for 9 yards(53-N.Roach).'>13.32</number><number>0.66</number>
+<number shadow='shadow1' tooltip='1:15 1-10-PHI 33PHI 7 OAK 3 LI: 1.4(No Huddle Shotgun) 9-N.Foles pass short right to 25-L.McCoy to PHI 38 for 5 yards(21-M.Jenkins).'>13.75</number><number>0.67</number>
+<number shadow='shadow1' tooltip='0:42 2-5-PHI 38PHI 7 OAK 3 LI: 1.4(No Huddle Shotgun) 34-B.Brown right end to PHI 46 for 8 yards(98-V.Walker).'>14.3</number><number>0.69</number>
+<number shadow='shadow1' tooltip='0:29 1-10-PHI 46PHI 7 OAK 3 LI: 1.4(No Huddle Shotgun) 34-B.Brown up the middle pushed ob at OAK 22 for 32 yards(21-M.Jenkins).'>14.52</number><number>0.75</number>
+<number shadow='shadow1' tooltip='0:15 1-10-OAK 22PHI 7 OAK 3 LI: 1.3(No Huddle Shotgun) 34-B.Brown up the middle to OAK 18 for 4 yards(99-L.Houston 94-Ke.Burnett).'>14.75</number><number>0.76</number>
+<number shadow='shadow1' tooltip='15:00 2-6-OAK 18PHI 7 OAK 3 LI: 1.3(Shotgun) 9-N.Foles pass short left to 87-B.Celek to OAK 17 for 1 yard(94-Ke.Burnett 97-D.Muir).'>15</number><number>0.75</number>
+<number shadow='shadow1' tooltip='14:23 3-5-OAK 17PHI 7 OAK 3 LI: 1.1(No Huddle Shotgun) 9-N.Foles pass deep left to 14-R.Cooper for 17 yards TOUCHDOWN.'>15.62</number><number>0.83</number>
+<number shadow='shadow1' tooltip='14:23 PHI 7 OAK 3 LI: 6-A.Henery extra point is GOOD Center-46-J.Dorenbos Holder-8-D.Jones.'>15.66</number><number>0.83</number>
+<number shadow='shadow1' tooltip='14:23 PHI 14 OAK 3 LI: 6-A.Henery kicks 71 yards from PHI 35 to OAK -622-T.Jones to OAK 14 for 20 yards(30-C.Anderson 50-C.Matthews).'>15.71</number><number>0.85</number>
+<number shadow='shadow1' tooltip='14:11 1-10-OAK 14PHI 14 OAK 3 LI: 0.7(Shotgun) 2-T.Pryor pass short left to 45-M.Reece to OAK 20 for 6 yards(91-F.Cox 59-D.Ryans).'>15.82</number><number>0.84</number>
+<number shadow='shadow1' tooltip='13:40 2-4-OAK 20PHI 14 OAK 3 LI: 0.5(Shotgun) 20-D.McFadden left end to OAK 25 for 5 yards(95-M.Kendricks)OAK-20-D.McFadden was injured during the play.'>16.33</number><number>0.83</number>
+<number shadow='shadow1' tooltip='13:05 1-10-OAK 25PHI 14 OAK 3 LI: 0.5(Shotgun) 27-R.Jennings up the middle to OAK 29 for 4 yards(96-B.Logan).'>16.92</number><number>0.82</number>
+<number shadow='shadow1' tooltip='12:33 2-6-OAK 29PHI 14 OAK 3 LI: 0.6(Shotgun) 2-T.Pryor pass incomplete (28-E.Wolff)PENALTY on OAK-2-T.Pryor Intentional Grounding 17 yards enforced at OAK 29.'>17.45</number><number>0.86</number>
+<number shadow='shadow1' tooltip='12:24 3-23-OAK 12PHI 14 OAK 3 LI: 0.6(Shotgun) 2-T.Pryor pass short right to 17-D.Moore to OAK 23 for 11 yards(24-B.Fletcher 29-N.Allen).'>17.6</number><number>0.86</number>
+<number shadow='shadow1' tooltip='11:46 4-12-OAK 23PHI 14 OAK 3 LI: 0.37-M.King punts 57 yards to PHI 20 Center-59-J.Condo10-D.Jackson pushed ob at OAK 48 for 32 yards(7-M.King)PENALTY on PHI-10-D.Jackson Face Mask (15 Yards) 15 yards enforced at OAK 48.'>18.23</number><number>0.86</number>
+<number shadow='shadow1' tooltip='11:26 1-10-PHI 37PHI 14 OAK 3 LI: 0.8(Shotgun) 9-N.Foles pass deep middle to 14-R.Cooper for 63 yards TOUCHDOWN.'>18.57</number><number>0.93</number>
+<number shadow='shadow1' tooltip='11:26 PHI 14 OAK 3 LI: 6-A.Henery extra point is GOOD Center-46-J.Dorenbos Holder-8-D.Jones.'>18.61</number><number>0.93</number>
+<number shadow='shadow1' tooltip='11:26 PHI 21 OAK 3 LI: 6-A.Henery kicks 69 yards from PHI 35 to OAK -422-T.Jones Touchback.'>18.66</number><number>0.94</number>
+<number shadow='shadow1' tooltip='11:17 1-10-OAK 20PHI 21 OAK 3 LI: 0.12-T.Pryor scrambles left end to OAK 20 for no gain (95-M.Kendricks)PENALTY on PHI-77-D.Square Defensive Offside 5 yards enforced at OAK 20 - No Play.'>18.72</number><number>0.93</number>
+<number shadow='shadow1' tooltip='10:54 1-5-OAK 25PHI 21 OAK 3 LI: 0.1(Shotgun) 27-R.Jennings up the middle to OAK 29 for 4 yards(59-D.Ryans 23-P.Chung).'>19.1</number><number>0.92</number>
+<number shadow='shadow1' tooltip='10:15 2-1-OAK 29PHI 21 OAK 3 LI: 0.1(Shotgun) 2-T.Pryor pass short middle to 81-M.Rivera to OAK 41 for 12 yards(59-D.Ryans).'>19.75</number><number>0.91</number>
+<number shadow='shadow1' tooltip='9:41 1-10-OAK 41PHI 21 OAK 3 LI: 0.127-R.Jennings up the middle to OAK 46 for 5 yards(95-M.Kendricks; 58-T.Cole).'>20.32</number><number>0.9</number>
+<number shadow='shadow1' tooltip='9:07 2-5-OAK 46PHI 21 OAK 3 LI: 0.2(Shotgun) PENALTY on OAK-65-M.Brisiel False Start 5 yards enforced at OAK 46 - No Play.'>20.88</number><number>0.9</number>
+<number shadow='shadow1' tooltip='8:47 2-10-OAK 41PHI 21 OAK 3 LI: 0.2(Shotgun) 2-T.Pryor pass deep left to 45-M.Reece pushed ob at PHI 43 for 16 yards(29-N.Allen).'>21.22</number><number>0.89</number>
+<number shadow='shadow1' tooltip='8:27 1-10-PHI 43PHI 21 OAK 3 LI: 0.32-T.Pryor scrambles left end to PHI 8 for 35 yards(24-B.Fletcher).'>21.55</number><number>0.89</number>
+<number shadow='shadow1' tooltip='7:39 1-8-PHI 8PHI 21 OAK 3 LI: 0.3(Shotgun) 27-R.Jennings left tackle for 8 yards TOUCHDOWN.'>22.35</number><number>0.87</number>
+<number shadow='shadow1' tooltip='7:39 PHI 21 OAK 3 LI: 11-S.Janikowski extra point is GOOD Center-59-J.Condo Holder-7-M.KingPENALTY on PHI Illegal Formation 5 yards enforced between downs.'>22.39</number><number>0.87</number>
+<number shadow='shadow1' tooltip='7:39 PHI 21 OAK 10 LI: 11-S.Janikowski kicks 60 yards from OAK 40 to end zone Touchback.'>22.44</number><number>0.87</number>
+<number shadow='shadow1' tooltip='7:26 2-10-PHI 20PHI 21 OAK 10 LI: 0.9(No Huddle Shotgun) 9-N.Foles sacked at PHI 19 for -1 yards(53-N.Roach).'>22.57</number><number>0.83</number>
+<number shadow='shadow1' tooltip='7:19 3-11-PHI 19PHI 21 OAK 10 LI: 0.7(Shotgun) PENALTY on PHI-69-E.Mathis False Start 5 yards enforced at PHI 19 - No Play.'>22.68</number><number>0.82</number>
+<number shadow='shadow1' tooltip='6:56 3-16-PHI 14PHI 21 OAK 10 LI: 1.2(Shotgun) 9-N.Foles pass deep right to 10-D.Jackson to PHI 31 for 17 yards(21-M.Jenkins).'>23.07</number><number>0.88</number>
+<number shadow='shadow1' tooltip='6:21 1-10-PHI 31PHI 21 OAK 10 LI: 1.1(No Huddle Shotgun) 25-L.McCoy left end to PHI 34 for 3 yards(23-T.Porter).'>23.65</number><number>0.87</number>
+<number shadow='shadow1' tooltip='5:59 2-7-PHI 34PHI 21 OAK 10 LI: 1(No Huddle Shotgun) 9-N.Foles pass deep right to 10-D.Jackson to OAK 46 for 20 yards(29-B.Ross).'>24.02</number><number>0.9</number>
+<number shadow='shadow1' tooltip='5:27 1-10-OAK 46PHI 21 OAK 10 LI: 1(No Huddle Shotgun) 34-B.Brown left end to OAK 39 for 7 yards(53-N.Roach 24-C.Woodson).'>24.55</number><number>0.9</number>
+<number shadow='shadow1' tooltip='4:56 2-3-OAK 39PHI 21 OAK 10 LI: 0.9(No Huddle Shotgun) 9-N.Foles pass short middle to 87-B.Celek to OAK 15 for 24 yards(24-C.Woodson; 94-Ke.Burnett).'>25.07</number><number>0.94</number>
+<number shadow='shadow1' tooltip='4:10 1-10-OAK 15PHI 21 OAK 10 LI: 0.9(No Huddle Shotgun) 9-N.Foles pass short right to 86-Z.Ertz for 15 yards TOUCHDOWN.'>25.83</number><number>0.92</number>
+<number shadow='shadow1' tooltip='4:10 PHI 21 OAK 10 LI: 6-A.Henery extra point is GOOD Center-46-J.Dorenbos Holder-8-D.Jones.'>25.87</number><number>0.92</number>
+<number shadow='shadow1' tooltip='4:10 PHI 28 OAK 10 LI: 6-A.Henery kicks 66 yards from PHI 35 to OAK -132-J.Stewart to OAK 21 for 22 yards(85-J.Casey).'>25.92</number><number>0.93</number>
+<number shadow='shadow1' tooltip='3:58 1-10-OAK 21PHI 28 OAK 10 LI: 0.427-R.Jennings right tackle to OAK 24 for 3 yards(95-M.Kendricks; 96-B.Logan).'>26.03</number><number>0.93</number>
+<number shadow='shadow1' tooltip='3:23 2-7-OAK 24PHI 28 OAK 10 LI: 0.4(Shotgun) 2-T.Pryor scrambles right end to OAK 32 for 8 yards(29-N.Allen).'>26.62</number><number>0.92</number>
+<number shadow='shadow1' tooltip='2:58 1-10-OAK 32PHI 28 OAK 10 LI: 0.4(Shotgun) 2-T.Pryor pass incomplete deep middle to 17-D.Moore (26-C.Williams).'>27.03</number><number>0.92</number>
+<number shadow='shadow1' tooltip='2:49 2-10-OAK 32PHI 28 OAK 10 LI: 0.5(Shotgun) 2-T.Pryor left tackle to OAK 33 for 1 yard(59-D.Ryans).'>27.18</number><number>0.93</number>
+<number shadow='shadow1' tooltip='2:07 3-9-OAK 33PHI 28 OAK 10 LI: 0.4(Shotgun) 2-T.Pryor pass incomplete short left to 84-J.Criner.'>27.88</number><number>0.94</number>
+<number shadow='shadow1' tooltip='2:01 4-9-OAK 33PHI 28 OAK 10 LI: 0.37-M.King punts 47 yards to PHI 20 Center-59-J.Condo10-D.Jackson to PHI 20 for no gain (35-C.Chekwa 22-T.Jones)PENALTY on OAK-35-C.Chekwa Face Mask (15 Yards) 15 yards enforced at PHI 20.'>27.98</number><number>0.95</number>
+<number shadow='shadow1' tooltip='1:49 1-10-PHI 35PHI 28 OAK 10 LI: 0.5(Shotgun) 9-N.Foles pass short middle to 86-Z.Ertz to PHI 39 for 4 yards(23-T.Porter).'>28.18</number><number>0.95</number>
+<number shadow='shadow1' tooltip='1:27 2-6-PHI 39PHI 28 OAK 10 LI: 0.5(No Huddle Shotgun) 9-N.Foles pass incomplete deep left to 14-R.Cooper.'>28.55</number><number>0.94</number>
+<number shadow='shadow1' tooltip='1:23 3-6-PHI 39PHI 28 OAK 10 LI: 0.4(No Huddle Shotgun) 9-N.Foles pass incomplete short right to 81-J.Avant (23-T.Porter).'>28.62</number><number>0.93</number>
+<number shadow='shadow1' tooltip='1:16 4-6-PHI 39PHI 28 OAK 10 LI: 0.38-D.Jones punts 61 yards to end zone Center-46-J.Dorenbos TouchbackPENALTY on OAK-27-R.Jennings Running Into the Kicker 5 yards enforced at PHI 39 - No Play.'>28.73</number><number>0.93</number>
+<number shadow='shadow1' tooltip='1:06 4-1-PHI 44PHI 28 OAK 10 LI: 0.28-D.Jones punts 31 yards to OAK 25 Center-46-J.Dorenbos out of bounds.'>28.9</number><number>0.93</number>
+<number shadow='shadow1' tooltip='0:59 1-10-OAK 25PHI 28 OAK 10 LI: 0.4(Shotgun) 2-T.Pryor pass incomplete short right to 84-J.Criner.'>29.02</number><number>0.93</number>
+<number shadow='shadow1' tooltip='0:54 2-10-OAK 25PHI 28 OAK 10 LI: 0.4(Shotgun) 2-T.Pryor pass short right to 80-R.Streater to OAK 31 for 6 yards(22-B.Boykin).'>29.1</number><number>0.93</number>
+<number shadow='shadow1' tooltip='0:45 3-4-OAK 31PHI 28 OAK 10 LI: 0.4(Shotgun) 2-T.Pryor scrambles up the middle pushed ob at OAK 41 for 10 yards(95-M.Kendricks).'>29.25</number><number>0.92</number>
+<number shadow='shadow1' tooltip='0:38 1-10-OAK 41PHI 28 OAK 10 LI: 0.4(Shotgun) 2-T.Pryor pass incomplete short left.'>29.37</number><number>0.92</number>
+<number shadow='shadow1' tooltip='0:32 2-10-OAK 41PHI 28 OAK 10 LI: 0.4(Shotgun) 27-R.Jennings up the middle to PHI 44 for 15 yards(28-E.Wolff)OAK-73-M.McCants was injured during the play.'>29.47</number><number>0.91</number>
+<number shadow='shadow1' tooltip='0:24 1-10-PHI 44PHI 28 OAK 10 LI: 0.4(Shotgun) 2-T.Pryor pass short middle to 81-M.Rivera to PHI 38 for 6 yards(59-D.Ryans).'>29.6</number><number>0.91</number>
+<number shadow='shadow1' tooltip='0:20 2-4-PHI 38PHI 28 OAK 10 LI: 0.4(Shotgun) 2-T.Pryor pass short left to 80-R.Streater to PHI 35 for 3 yards(59-D.Ryans).'>29.67</number><number>0.91</number>
+<number shadow='shadow1' tooltip='0:14 3-1-PHI 35PHI 28 OAK 10 LI: 0.4(Shotgun) 2-T.Pryor pass incomplete short right.'>29.77</number><number>0.93</number>
+<number shadow='shadow1' tooltip='0:08 4-1-PHI 35PHI 28 OAK 10 LI: 0.211-S.Janikowski 53 yard field goal is GOOD Center-59-J.Condo Holder-7-M.King.'>29.87</number><number>0.91</number>
+<number shadow='shadow1' tooltip='0:08 PHI 28 OAK 13 LI: 11-S.Janikowski kicks 30 yards from OAK 35 to PHI 3555-B.Graham to PHI 49 for 14 yards(22-T.Jones).'>29.96</number><number>0.91</number>
+<number shadow='shadow1' tooltip='14:53 1-10-PHI 39PHI 28 OAK 13 LI: 0.3(Shotgun) 9-N.Foles left end to PHI 40 for 1 yardLateral to 14-R.Cooper to OAK 42 for 18 yards(23-T.Porter).'>30.12</number><number>0.93</number>
+<number shadow='shadow1' tooltip='14:46 1-10-OAK 42PHI 28 OAK 13 LI: 0.3(No Huddle Shotgun) 25-L.McCoy left end pushed ob at OAK 25 for 17 yards(24-C.Woodson).'>30.23</number><number>0.94</number>
+<number shadow='shadow1' tooltip='14:21 1-10-OAK 25PHI 28 OAK 13 LI: 0.3(No Huddle Shotgun) 9-N.Foles pass incomplete short right to 10-D.Jackson.'>30.65</number><number>0.94</number>
+<number shadow='shadow1' tooltip='14:21 PHI 28 OAK 13 LI: 6-A.Henery extra point is GOOD Center-46-J.Dorenbos Holder-8-D.Jones.'>30.69</number><number>0.96</number>
+<number shadow='shadow1' tooltip='14:21 PHI 35 OAK 13 LI: 6-A.Henery kicks 65 yards from PHI 35 to end zone Touchback.'>30.74</number><number>0.96</number>
+<number shadow='shadow1' tooltip='14:14 1-10-OAK 20PHI 35 OAK 13 LI: 0.227-R.Jennings right guard to OAK 23 for 3 yards(59-D.Ryans; 95-M.Kendricks).'>30.77</number><number>0.96</number>
+<number shadow='shadow1' tooltip='13:40 2-7-OAK 23PHI 35 OAK 13 LI: 0.1(Shotgun) 2-T.Pryor pass short right to 27-R.Jennings to OAK 26 for 3 yards(24-B.Fletcher).'>31.33</number><number>0.95</number>
+<number shadow='shadow1' tooltip='13:00 3-4-OAK 26PHI 35 OAK 13 LI: 0.2(Shotgun) 2-T.Pryor sacked at OAK 10 for -16 yards(75-V.Curry).'>32</number><number>0.96</number>
+<number shadow='shadow1' tooltip='12:32 4-20-OAK 10PHI 35 OAK 13 LI: 0.17-M.King punts 47 yards to PHI 43 Center-59-J.Condo out of bounds.'>32.47</number><number>0.95</number>
+<number shadow='shadow1' tooltip='12:24 1-10-PHI 43PHI 35 OAK 13 LI: 0.1(Shotgun) 25-L.McCoy right end to PHI 45 for 2 yards(97-D.Muir).'>32.6</number><number>0.96</number>
+<number shadow='shadow1' tooltip='12:04 2-8-PHI 45PHI 35 OAK 13 LI: 0.1(No Huddle Shotgun) 25-L.McCoy right guard to OAK 46 for 9 yards(24-C.Woodson; 29-B.Ross).'>32.93</number><number>0.96</number>
+<number shadow='shadow1' tooltip='11:41 1-10-OAK 46PHI 35 OAK 13 LI: 0.1(No Huddle Shotgun) 9-N.Foles pass deep right to 10-D.Jackson for 46 yards TOUCHDOWN.'>33.32</number><number>0.96</number>
+<number shadow='shadow1' tooltip='11:41 PHI 35 OAK 13 LI: 6-A.Henery extra point is GOOD Center-46-J.Dorenbos Holder-8-D.Jones.'>33.36</number><number>0.96</number>
+<number shadow='shadow1' tooltip='11:41 PHI 42 OAK 13 LI: 6-A.Henery kicks 74 yards from PHI 35 to OAK -932-J.Stewart Touchback.'>33.41</number><number>0.96</number>
+<number shadow='shadow1' tooltip='11:33 1-10-OAK 20PHI 42 OAK 13 LI: 0.2(Shotgun) 2-T.Pryor pass incomplete deep right to 17-D.Moore.'>33.45</number><number>0.96</number>
+<number shadow='shadow1' tooltip='11:27 2-10-OAK 20PHI 42 OAK 13 LI: 0.2(Shotgun) 27-R.Jennings left tackle to OAK 22 for 2 yards(95-M.Kendricks).'>33.55</number><number>0.96</number>
+<number shadow='shadow1' tooltip='10:51 3-8-OAK 22PHI 42 OAK 13 LI: 0.2(Shotgun) 2-T.Pryor pass short middle to 17-D.Moore to OAK 37 for 15 yards(26-C.Williams)PHI-95-M.Kendricks was injured during the play.'>34.15</number><number>0.97</number>
+<number shadow='shadow1' tooltip='10:16 1-10-OAK 37PHI 42 OAK 13 LI: 0.12-T.Pryor pass short middle to 27-R.Jennings to OAK 45 for 8 yards(51-E.Acho).'>34.73</number><number>0.96</number>
+<number shadow='shadow1' tooltip='9:41 2-2-OAK 45PHI 42 OAK 13 LI: 0.1(Shotgun) 45-M.Reece right guard to OAK 45 for no gain (72-C.Thornton).'>35.32</number><number>0.96</number>
+<number shadow='shadow1' tooltip='9:02 3-2-OAK 45PHI 42 OAK 13 LI: 0.1(Shotgun) 2-T.Pryor pass incomplete short left to 17-D.Moore.'>35.97</number><number>0.95</number>
+<number shadow='shadow1' tooltip='8:58 4-2-OAK 45PHI 42 OAK 13 LI: 0.27-M.King punts 55 yards to end zone Center-59-J.Condo Touchback.'>36.03</number><number>0.95</number>
+<number shadow='shadow1' tooltip='8:49 1-10-PHI 20PHI 42 OAK 13 LI: 0.1(Shotgun) 9-N.Foles pass short right to 25-L.McCoy to PHI 13 for -7 yards(94-Ke.Burnett).'>36.18</number><number>0.97</number>
+<number shadow='shadow1' tooltip='8:26 2-17-PHI 13PHI 42 OAK 13 LI: 0.3(No Huddle Shotgun) 25-L.McCoy up the middle to PHI 15 for 2 yards(53-N.Roach).'>36.57</number><number>0.97</number>
+<number shadow='shadow1' tooltip='7:51 3-15-PHI 15PHI 42 OAK 13 LI: 0.1(No Huddle Shotgun) 9-N.Foles pass short right to 14-R.Cooper to PHI 27 for 12 yards(24-C.Woodson).'>37.15</number><number>0.98</number>
+<number shadow='shadow1' tooltip='7:15 4-3-PHI 27PHI 42 OAK 13 LI: 0.28-D.Jones punts 64 yards to OAK 9 Center-46-J.Dorenbos downed by PHI-22-B.Boykin.'>37.75</number><number>0.98</number>
+<number shadow='shadow1' tooltip='7:04 1-10-OAK 9PHI 42 OAK 13 LI: 0.1(Shotgun) 2-T.Pryor pass short middle to 27-R.Jennings pushed ob at OAK 33 for 24 yards(24-B.Fletcher).'>37.93</number><number>0.98</number>
+<number shadow='shadow1' tooltip='6:41 1-10-OAK 33PHI 42 OAK 13 LI: 0.127-R.Jennings left tackle to OAK 37 for 4 yards(75-V.Curry 95-M.Kendricks).'>38.32</number><number>0.97</number>
+<number shadow='shadow1' tooltip='6:06 2-6-OAK 37PHI 42 OAK 13 LI: 0.1(Shotgun) 2-T.Pryor pass incomplete short middle to 85-J.Mastrud (59-D.Ryans).'>38.9</number><number>0.97</number>
+<number shadow='shadow1' tooltip='6:01 3-6-OAK 37PHI 42 OAK 13 LI: 0.1(Shotgun) 2-T.Pryor pass incomplete short right to 27-R.Jennings.'>38.98</number><number>0.96</number>
+<number shadow='shadow1' tooltip='5:56 4-6-OAK 37PHI 42 OAK 13 LI: 0.27-M.King punts 38 yards to PHI 25 Center-59-J.Condo10-D.Jackson to PHI 32 for 7 yards(26-U.Young).'>39.07</number><number>0.97</number>
+<number shadow='shadow1' tooltip='5:46 1-10-PHI 32PHI 42 OAK 13 LI: 0.1(Shotgun) 9-N.Foles pass deep middle to 10-D.Jackson to OAK 9 for 59 yards(25-D.Hayden).'>39.23</number><number>0.98</number>
+<number shadow='shadow1' tooltip='5:16 1-9-OAK 9PHI 42 OAK 13 LI: 0.1(No Huddle Shotgun) 25-L.McCoy up the middle to OAK 5 for 4 yards(53-N.Roach 55-S.Moore).'>39.73</number><number>0.98</number>
+<number shadow='shadow1' tooltip='4:34 2-5-OAK 5PHI 42 OAK 13 LI: 0.1(No Huddle Shotgun) 9-N.Foles pass short right to 14-R.Cooper for 5 yards TOUCHDOWN.'>40.43</number><number>0.98</number>
+<number shadow='shadow1' tooltip='4:34 PHI 42 OAK 13 LI: 6-A.Henery extra point is GOOD Center-46-J.Dorenbos Holder-8-D.Jones.'>40.47</number><number>0.98</number>
+<number shadow='shadow1' tooltip='4:34 PHI 49 OAK 13 LI: 6-A.Henery kicks 74 yards from PHI 35 to OAK -932-J.Stewart Touchback.'>40.52</number><number>0.98</number>
+<number shadow='shadow1' tooltip='4:21 1-10-OAK 20PHI 49 OAK 13 LI: 0.12-T.Pryor pass short left to 80-R.Streater to OAK 38 for 18 yards(26-C.Williams).'>40.65</number><number>0.98</number>
+<number shadow='shadow1' tooltip='4:04 1-10-OAK 38PHI 49 OAK 13 LI: 0.12-T.Pryor pass short left to 27-R.Jennings to PHI 47 for 15 yards(28-E.Wolff).'>40.93</number><number>0.98</number>
+<number shadow='shadow1' tooltip='3:39 1-10-PHI 47PHI 49 OAK 13 LI: 0.1(Shotgun) 2-T.Pryor pass incomplete short right.'>41.35</number><number>0.97</number>
+<number shadow='shadow1' tooltip='3:32 2-10-PHI 47PHI 49 OAK 13 LI: 0.12-T.Pryor scrambles left end to PHI 25 for 22 yards(59-D.Ryans).'>41.47</number><number>0.97</number>
+<number shadow='shadow1' tooltip='2:50 1-10-PHI 25PHI 49 OAK 13 LI: 0.1(Shotgun) 2-T.Pryor FUMBLES (Aborted) at PHI 29 and recovers at PHI 302-T.Pryor to PHI 30 for no gain (77-D.Square).'>42.17</number><number>0.98</number>
+<number shadow='shadow1' tooltip='2:15 2-15-PHI 30PHI 49 OAK 13 LI: 0.1(Shotgun) 2-T.Pryor pass short right intended for 80-R.Streater INTERCEPTED by 24-B.Fletcher at PHI 2024-B.Fletcher to PHI 45 for 25 yards(63-L.Mady).'>42.75</number><number>0.98</number>
+<number shadow='shadow1' tooltip='2:05 1-10-PHI 45PHI 49 OAK 13 LI: 0.1(Shotgun) 25-L.McCoy left end to PHI 48 for 3 yards(99-L.Houston).'>42.92</number><number>0.98</number>
+<number shadow='shadow1' tooltip='1:44 2-7-PHI 48PHI 49 OAK 13 LI: 0.1(No Huddle Shotgun) 25-L.McCoy left end to PHI 47 for -1 yards(99-L.Houston).'>43.27</number><number>0.99</number>
+<number shadow='shadow1' tooltip='1:20 3-8-PHI 47PHI 49 OAK 13 LI: 0.1(No Huddle Shotgun) 9-N.Foles pass short left to 34-B.Brown to OAK 47 for 6 yards(94-Ke.Burnett).'>43.67</number><number>0.99</number>
+<number shadow='shadow1' tooltip='0:55 4-2-OAK 47PHI 49 OAK 13 LI: 0.18-D.Jones punts 36 yards to OAK 11 Center-46-J.Dorenbos fair catch by 12-J.Ford.'>44.08</number><number>0.99</number>
+<number shadow='shadow1' tooltip='0:48 1-10-OAK 11PHI 49 OAK 13 LI: 0.1(Shotgun) 2-T.Pryor right tackle to OAK 18 for 7 yards(22-B.Boykin).'>44.2</number><number>0.99</number>
+<number shadow='shadow1' tooltip='0:22 2-3-OAK 18PHI 49 OAK 13 LI: 0.1(Shotgun) 27-R.Jennings left guard to OAK 20 for 2 yards(23-P.Chung 75-V.Curry).'>44.63</number><number>0.99</number>
+<number shadow='shadow1' tooltip='15:00 3-1-OAK 20PHI 49 OAK 13 LI: 0.1PENALTY on OAK-76-L.Nix False Start 5 yards enforced at OAK 20 - No Play.'>45</number><number>0.98</number>
+<number shadow='shadow1' tooltip='14:23 1-10-OAK 27PHI 49 OAK 13 LI: 0.1(Shotgun) 27-R.Jennings left tackle to OAK 38 for 11 yards(23-P.Chung; 28-E.Wolff).'>45.62</number><number>0.99</number>
+<number shadow='shadow1' tooltip='13:51 1-10-OAK 38PHI 49 OAK 13 LI: 0.1(Shotgun) 2-T.Pryor pass incomplete short middle to 80-R.StreaterPENALTY on PHI-59-D.Ryans Defensive Pass Interference 7 yards enforced at OAK 38 - No Play.'>46.15</number><number>0.98</number>
+<number shadow='shadow1' tooltip='13:47 1-10-OAK 45PHI 49 OAK 13 LI: 0.1(Shotgun) 2-T.Pryor pass incomplete short right to 27-R.Jennings.'>46.22</number><number>0.98</number>
+<number shadow='shadow1' tooltip='13:43 2-10-OAK 45PHI 49 OAK 13 LI: 0.1(Shotgun) 2-T.Pryor pass incomplete short left to 12-J.Ford.'>46.28</number><number>0.99</number>
+<number shadow='shadow1' tooltip='13:37 3-10-OAK 45PHI 49 OAK 13 LI: 0.1(Shotgun) 2-T.Pryor sacked at OAK 42 for -3 yards(95-M.Kendricks).'>46.38</number><number>0.99</number>
+<number shadow='shadow1' tooltip='12:59 4-13-OAK 42PHI 49 OAK 13 LI: 0.17-M.King punts 35 yards to PHI 23 Center-59-J.Condo out of bounds.'>47.02</number><number>0.99</number>
+<number shadow='shadow1' tooltip='12:52 1-10-PHI 23PHI 49 OAK 13 LI: 0.1(Shotgun) 9-N.Foles sacked at PHI 19 for -4 yards(91-J.Crawford).'>47.13</number><number>0.98</number>
+<number shadow='shadow1' tooltip='12:29 2-14-PHI 19PHI 49 OAK 13 LI: 0.1(No Huddle Shotgun) 25-L.McCoy left tackle to PHI 22 for 3 yards(28-P.Adams).'>47.52</number><number>0.99</number>
+<number shadow='shadow1' tooltip='12:15 3-11-PHI 22PHI 49 OAK 13 LI: 0.1(No Huddle Shotgun) 9-N.Foles pass incomplete.'>47.75</number><number>0.99</number>
+<number shadow='shadow1' tooltip='11:52 4-11-PHI 22PHI 49 OAK 13 LI: 0.18-D.Jones punts 35 yards to OAK 43 Center-46-J.Dorenbos downed by PHI-50-C.Matthews.'>48.13</number><number>0.98</number>
+<number shadow='shadow1' tooltip='11:43 1-10-OAK 43PHI 49 OAK 13 LI: 0.1(Shotgun) 2-T.Pryor pass short right to 17-D.Moore to PHI 43 for 14 yards(24-B.Fletcher).'>48.28</number><number>0.98</number>
+<number shadow='shadow1' tooltip='11:17 1-10-PHI 43PHI 49 OAK 13 LI: 0.1(Shotgun) 2-T.Pryor pass short middle to 81-M.Rivera to PHI 37 for 6 yards(59-D.Ryans).'>48.72</number><number>0.98</number>
+<number shadow='shadow1' tooltip='10:46 2-4-PHI 37PHI 49 OAK 13 LI: 0.1(Shotgun) 2-T.Pryor pass short right to 84-J.Criner to PHI 31 for 6 yards(24-B.Fletcher).'>49.23</number><number>0.98</number>
+<number shadow='shadow1' tooltip='10:12 1-10-PHI 31PHI 49 OAK 13 LI: 0.1(Shotgun) 2-T.Pryor pass incomplete.'>49.8</number><number>0.98</number>
+<number shadow='shadow1' tooltip='10:06 2-10-PHI 31PHI 49 OAK 13 LI: 0.1(Shotgun) 27-R.Jennings up the middle to PHI 30 for 1 yard(58-T.Cole).'>49.9</number><number>0.99</number>
+<number shadow='shadow1' tooltip='9:32 3-9-PHI 30PHI 49 OAK 13 LI: 0.1(Shotgun) 2-T.Pryor pass short right intended for 17-D.Moore INTERCEPTED by 98-C.Barwin (23-P.Chung) at PHI 2598-C.Barwin to PHI 20 for -5 yards(27-R.Jennings).'>50.47</number><number>0.99</number>
+<number shadow='shadow1' tooltip='9:23 1-10-PHI 20PHI 49 OAK 13 LI: 0.1#2 M.Barkley in at QB(Shotgun) 34-B.Brown left end to PHI 19 for -1 yards(23-T.Porter 91-J.Crawford).'>50.62</number><number>0.99</number>
+<number shadow='shadow1' tooltip='8:50 2-11-PHI 19PHI 49 OAK 13 LI: 0.1(No Huddle Shotgun) 2-M.Barkley pass incomplete deep left to 85-J.Casey.'>51.17</number><number>0.99</number>
+<number shadow='shadow1' tooltip='8:44 3-11-PHI 19PHI 49 OAK 13 LI: 0.1(No Huddle Shotgun) 2-M.Barkley pass short middle to 86-Z.Ertz to PHI 29 for 10 yards(55-S.Moore).'>51.27</number><number>0.99</number>
+<number shadow='shadow1' tooltip='8:02 4-1-PHI 29PHI 49 OAK 13 LI: 0.18-D.Jones punts 39 yards to OAK 32 Center-46-J.Dorenbos fair catch by 12-J.Ford.'>51.97</number><number>0.99</number>
+<number shadow='shadow1' tooltip='7:56 1-10-OAK 32PHI 49 OAK 13 LI: 0.1#14 M.McGloin in at QB(Shotgun) 14-M.McGloin pass short right to 12-J.Ford to OAK 38 for 6 yards(23-P.Chung; 42-K.Coleman).'>52.07</number><number>0.99</number>
+<number shadow='shadow1' tooltip='7:20 2-4-OAK 38PHI 49 OAK 13 LI: 0.1(Shotgun) 14-M.McGloin pass short middle to 27-R.Jennings to OAK 47 for 9 yards(23-P.Chung).'>52.67</number><number>0.99</number>
+<number shadow='shadow1' tooltip='6:51 1-10-OAK 47PHI 49 OAK 13 LI: 0.1(Shotgun) 14-M.McGloin pass short right to 27-R.Jennings to PHI 45 for 8 yards(53-N.Goode).'>53.15</number><number>0.99</number>
+<number shadow='shadow1' tooltip='6:22 2-2-PHI 45PHI 49 OAK 13 LI: 0.1(Shotgun) 27-R.Jennings up the middle to PHI 36 for 9 yards(42-K.Coleman 53-N.Goode).'>53.63</number><number>0.99</number>
+<number shadow='shadow1' tooltip='5:53 1-10-PHI 36PHI 49 OAK 13 LI: 0.1(No Huddle Shotgun) 14-M.McGloin pass incomplete short middle to 27-R.Jennings (77-D.Square).'>54.12</number><number>0.99</number>
+<number shadow='shadow1' tooltip='5:48 2-10-PHI 36PHI 49 OAK 13 LI: 0.1(Shotgun) 27-R.Jennings up the middle to PHI 10 for 26 yards(53-N.Goode).'>54.2</number><number>0.99</number>
+<number shadow='shadow1' tooltip='5:06 1-10-PHI 10PHI 49 OAK 13 LI: 0.1(Shotgun) 14-M.McGloin pass incomplete short left to 84-J.Criner (22-B.Boykin).'>54.9</number><number>0.99</number>
+<number shadow='shadow1' tooltip='5:01 2-10-PHI 10PHI 49 OAK 13 LI: 0.1(Shotgun) 14-M.McGloin pass incomplete short left to 12-J.Ford.'>54.98</number><number>0.99</number>
+<number shadow='shadow1' tooltip='4:56 3-10-PHI 10PHI 49 OAK 13 LI: 0.1(Shotgun) 14-M.McGloin pass incomplete short right to 17-D.Moore (98-C.Barwin).'>55.07</number><number>0.99</number>
+<number shadow='shadow1' tooltip='4:53 4-10-PHI 10PHI 49 OAK 13 LI: 0.1(Shotgun) 14-M.McGloin pass incomplete short left to 12-J.Ford.'>55.12</number><number>0.99</number>
+<number shadow='shadow1' tooltip='4:47 1-10-PHI 10PHI 49 OAK 13 LI: 0.1(Shotgun) 34-B.Brown left guard to PHI 14 for 4 yards(93-J.Hunter).'>55.22</number><number>0.99</number>
+<number shadow='shadow1' tooltip='4:16 2-6-PHI 14PHI 49 OAK 13 LI: 0.1(No Huddle Shotgun) 34-B.Brown up the middle to PHI 14 for no gain (92-S.McGee; 55-S.Moore).'>55.73</number><number>0.99</number>
+<number shadow='shadow1' tooltip='3:38 3-6-PHI 14PHI 49 OAK 13 LI: 0.1(Shotgun) 2-M.Barkley pass short middle to 86-Z.Ertz to PHI 17 for 3 yards(29-B.Ross).'>56.37</number><number>0.99</number>
+<number shadow='shadow1' tooltip='3:31 4-3-PHI 17PHI 49 OAK 13 LI: 0.18-D.Jones punts 54 yards to OAK 29 Center-46-J.Dorenbos fair catch by 12-J.Ford.'>56.48</number><number>0.99</number>
+<number shadow='shadow1' tooltip='3:22 1-10-OAK 29PHI 49 OAK 13 LI: 0.1(Shotgun) 14-M.McGloin pass incomplete deep middle to 84-J.Criner.'>56.63</number><number>0.99</number>
+<number shadow='shadow1' tooltip='3:16 2-10-OAK 29PHI 49 OAK 13 LI: 0.1(Shotgun) 14-M.McGloin pass short right to 17-D.Moore to OAK 44 for 15 yards(53-N.Goode).'>56.73</number><number>0.99</number>
+<number shadow='shadow1' tooltip='2:47 1-10-OAK 44PHI 49 OAK 13 LI: 0.1(No Huddle Shotgun) 14-M.McGloin pass short middle to 27-R.Jennings to PHI 49 for 7 yards(51-E.Acho; 53-N.Goode).'>57.22</number><number>0.99</number>
+<number shadow='shadow1' tooltip='2:18 2-3-PHI 49PHI 49 OAK 13 LI: 0.1(No Huddle Shotgun) 27-R.Jennings up the middle to PHI 44 for 5 yards(58-T.Cole).'>57.7</number><number>0.99</number>
+<number shadow='shadow1' tooltip='2:00 1-10-PHI 44PHI 49 OAK 13 LI: 0.1(Shotgun) 14-M.McGloin pass incomplete short left to 88-N.Kasa (30-C.Anderson).'>58</number><number>0.99</number>
+<number shadow='shadow1' tooltip='1:56 2-10-PHI 44PHI 49 OAK 13 LI: 0.1(Shotgun) 14-M.McGloin pass deep right to 12-J.Ford to PHI 22 for 22 yards(42-K.Coleman).'>58.07</number><number>0.99</number>
+<number shadow='shadow1' tooltip='1:25 1-10-PHI 22PHI 49 OAK 13 LI: 0.1(No Huddle Shotgun) 14-M.McGloin pass short middle to 84-J.Criner to PHI 2 for 20 yards(22-B.Boykin).'>58.58</number><number>0.99</number>
+<number shadow='shadow1' tooltip='1:04 1-2-PHI 2PHI 49 OAK 13 LI: 0.1(No Huddle) 32-J.Stewart up the middle to PHI 2 for no gain (42-K.Coleman 98-C.Barwin).'>58.93</number><number>0.99</number>
+<number shadow='shadow1' tooltip='1:01 2-2-PHI 2PHI 49 OAK 13 LI: 0.1(Shotgun) 14-M.McGloin Aborted61-S.Wisniewski FUMBLES at PHI 2 recovered by OAK-14-M.McGloin at PHI 214-M.McGloin pass incomplete short right to 17-D.Moore (21-R.Carmichael).'>58.98</number><number>0.99</number>
+<number shadow='shadow1' tooltip='0:52 3-2-PHI 2PHI 49 OAK 13 LI: 0.132-J.Stewart left guard for 2 yards TOUCHDOWN.'>59.13</number><number>0.99</number>
+<number shadow='shadow1' tooltip='0:52 PHI 49 OAK 13 LI: 11-S.Janikowski extra point is GOOD Center-59-J.Condo Holder-7-M.King.'>59.17</number><number>0.99</number>
+<number shadow='shadow1' tooltip='0:52 PHI 49 OAK 20 LI: 11-S.Janikowski kicks onside 10 yards from OAK 35 to OAK 4586-Z.Ertz (didn t try to advance) to OAK 45 for no gain (32-J.Stewart).'>59.22</number><number>0.99</number>
+<number shadow='shadow1' tooltip='0:35 2-11-OAK 41PHI 49 OAK 20 LI: 0.12-M.Barkley kneels to OAK 42 for -1 yards.'>59.42</number><number>1</number>
+<number>60</number><number>1</number>
+</row> </chart_data>
+       <draw>
+
+
+
+      <image x='45' y='298'  url='nfllogos/42x50png/PHI.gif'  layer='foreground' glow = 'glow1'/>
+      <image x='45' y='350'  url='nfllogos/42x50png/OAK.gif'     layer='foreground' glow = 'glow1'/>
+
+
+      <rect x='130' y='300' width='250' height='40' fill_color='00444c' bevel='bevel1' />
+      <text x='135' y='300' width='250' height='40' h_align='left' v_align='middle' color='ffffff' shadow='shadow2' glow='winnerglow'>Philadelphia Eagles</text>
+
+      <rect x='130' y='350' width='250' height='40' fill_color='101b24' bevel='bevel1'  />
+      <text x='135' y='350' width='250' height='40' h_align='left' v_align='middle' color='ffffff' shadow='shadow2' glow=''>Oakland Raiders</text>
+
+      <rect x='420' y='300' width='60' height='40' fill_color='00444c' bevel='bevel1'  />
+      <text x='420' y='300' width='60' height='40' h_align='center' v_align='middle' color='ffffff' shadow='shadow2' transition='none' glow='winnerglow'>49</text>
+
+      <rect x='420' y='350' width='60' height='40' fill_color='101b24' bevel='bevel1' />
+      <text x='420' y='350' width='60' height='40' h_align='center' v_align='middle' color='ffffff' shadow='shadow2' transition='none' glow=''>20</text>
+
+      <text x='-3' y='12'  width='60' height='40' h_align='center' v_align='middle' size='13' shadow='shadow2'>PHIWin </text>
+      <text x='-3' y='218' width='60' height='40' h_align='center' v_align='middle' size='13' shadow='shadow2'>OAKWin </text>
+
+     
+              <rect x='540' y='300' width='100' height='35' fill_color='000000' fill_alpha='50'/>
+              <text x='540' y='300' width='100' height='35' h_align='center' v_align='middle' color='ffffff' size='15' shadow='shadow2' >Final</text>
+
+              <text x='540' y='340' width='40' h_align='center' color='000000' size='12' shadow='shadow2'>CBF</text>
+              <text x='600' y='340' width='40' h_align='center' color='000000' size='12' shadow='shadow2'>EI</text>
+
+              <rect x='540' y='360' width='40' height='30' fill_color='000000' fill_alpha='50' />
+              <text x='540' y='360' width='40' height='30' size='12' h_align='center' v_align='middle' color='FFFFFF' shadow='shadow2'>2</text>
+
+              <rect x='600' y='360' width='40' height='30' fill_color='000000' fill_alpha='50' />
+              <text x='600' y='360' width='40' height='30' size='12' h_align='center' v_align='middle' color='FFFFFF' shadow='shadow2'>2.2</text>
+
+              <text x='20' y='420' width='70' height='25' size='12' h_align='left' v_align='middle' color='000000' >11/3/2013</text>
+              <text x='100' y='420' width='200' height='25' size='12' h_align='left' v_align='middle' color='000000' >O.co Coliseum</text>
+
+   </draw></chart>

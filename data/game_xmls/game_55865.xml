@@ -1,0 +1,334 @@
+
+<chart>
+   <license>ETAS9P33ESHO.945CWK-2XOI1X0-7L</license>
+   <chart_type>scatter</chart_type>
+   <chart_pref trend_thickness='0' line_thickness='3' point_size='0'/>
+
+   <series_color>
+      <color>ffff00</color>
+   </series_color>
+
+   <chart_rect x='45' y='20' width='630' height='230' positive_color='cacaca'  />
+
+  <chart_border top_thickness='0'
+                 bottom_thickness='0'
+                 left_thickness='0'
+                 right_thickness='0'
+                 color='000000'
+                 />
+
+   <tooltip font='Arial' bold='true' size='11' />
+
+   <chart_note type='flag'
+               color='000000'
+               alpha='90'
+               bold='FALSE'
+               size='10'
+               background_color='ffffe0'
+               background_alpha='50'
+               shadow='shadow2'
+               />
+
+   <chart_grid_h thickness='2' color='ffffff' type='dashed'  />
+   <chart_grid_v thickness='2' color='ffffff'   />
+		>
+
+   <legend layout='hide' />
+
+   <chart_guide horizontal='TRUE'
+             vertical='TRUE'
+             thickness='1'
+             color='006400'
+             alpha='100'
+             type='solid'
+             snap_h='TRUE'
+             snap_v='TRUE'
+             radius='3'
+             fill_color='006400'
+             fill_alpha='100'
+             line_color='006400'
+             line_alpha='80'
+             line_thickness='1'
+             text_h_alpha='50'
+             text_v_alpha='00'
+             suffix_h=' WP'
+             decimals='2'
+             bold='FALSE'
+             size='11'
+             text_color='FFFFFF'
+             background_color='006400'
+             />
+   <filter>
+      <shadow id='shadow1' distance='2' angle='60' blurX='5' blurY='5' alpha='50' />
+      <bevel id='bevel1' angle='45' blurX='5' blurY='5' distance='0' />
+      <glow id='glow1' color='ffffff' alpha='0' blurX='7' blurY='7' strength='6' quality='2' inner='FALSE' knockout='FALSE' />
+      <glow id='winnerglow' color='ffffff' alpha='0' blurX='7' blurY='7' strength='5' quality='2' inner='FALSE' knockout='FALSE' />
+   </filter>
+
+    <axis_value_label>
+         <string></string>
+          <string> </string>
+          <null/>
+          <string> </string>
+          <string></string>
+
+       </axis_value_label>
+		
+	   <axis_ticks category_ticks='false'/>
+
+       <axis_value min='0' max='1' steps='4'  decimals='2' show_min='true' size='13' shadow='shadow2' />     
+            <axis_category
+               min='0'
+               max='60'
+               steps='4'
+               mode='all'
+               decimals='0'
+               size='13'
+               shadow='shadow2'
+               />
+
+       <axis_category_label>
+          <string>Kickoff</string>
+          <string></string>
+          <string>Halftime</string>
+          <string></string>
+          <string>End</string>
+
+       </axis_category_label>
+
+
+        <chart_data>
+       <row>
+	      <null/><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number>
+              <number>x</number><number>y</number>
+              </row><row><string></string>
+
+                     <number shadow='shadow1'>0</number><number>.5</number><number shadow='shadow1' tooltip='15:00 DEN 0 NYG 0 LI: 3-J.Brown kicks 63 yards from NYG 35 to DEN 211-T.Holliday to DEN 21 for 19 yards(69-J.Trattou).'>0.09</number><number>0.5</number>
+<number shadow='shadow1' tooltip='14:34 2-13-DEN 4DEN 0 NYG 0 LI: 1.4(Shotgun) 18-P.Manning pass short left to 87-E.Decker to DEN 14 for 10 yards(20-P.Amukamara).'>0.43</number><number>0.48</number>
+<number shadow='shadow1' tooltip='14:14 3-3-DEN 14DEN 0 NYG 0 LI: 1.5(No Huddle Shotgun) 18-P.Manning pass short middle to 27-K.Moreno to DEN 20 for 6 yards(24-T.Thomas 57-J.Williams).'>0.77</number><number>0.52</number>
+<number shadow='shadow1' tooltip='13:47 1-10-DEN 20DEN 0 NYG 0 LI: 1.6(No Huddle Shotgun) 27-K.Moreno left guard to DEN 21 for 1 yard(21-R.Mundy).'>1.22</number><number>0.5</number>
+<number shadow='shadow1' tooltip='13:25 2-9-DEN 21DEN 0 NYG 0 LI: 1.4(Shotgun) 18-P.Manning pass short right to 80-J.Thomas to DEN 28 for 7 yards(26-A.Rolle 57-J.Williams).'>1.58</number><number>0.51</number>
+<number shadow='shadow1' tooltip='12:56 3-2-DEN 28DEN 0 NYG 0 LI: 1.3(No Huddle) 18-P.Manning pass short left to 27-K.Moreno to DEN 33 for 5 yards(20-P.Amukamara 24-T.Thomas).'>2.07</number><number>0.54</number>
+<number shadow='shadow1' tooltip='12:21 1-10-DEN 33DEN 0 NYG 0 LI: 1.528-M.Ball right tackle to DEN 34 for 1 yard(91-J.Tuck 97-L.Joseph).'>2.65</number><number>0.52</number>
+<number shadow='shadow1' tooltip='11:54 2-9-DEN 34DEN 0 NYG 0 LI: 1.3(No Huddle) 18-P.Manning pass short left to 87-E.Decker pushed ob at DEN 46 for 12 yards(20-P.Amukamara).'>3.1</number><number>0.56</number>
+<number shadow='shadow1' tooltip='11:45 1-10-DEN 46DEN 0 NYG 0 LI: 1.4(No Huddle) 18-P.Manning pass short left to 28-M.Ball to NYG 42 for 12 yards(52-S.Paysinger).'>3.25</number><number>0.59</number>
+<number shadow='shadow1' tooltip='11:19 1-10-NYG 42DEN 0 NYG 0 LI: 1.4(No Huddle) 18-P.Manning pass incomplete short middle to 83-W.Welker.'>3.68</number><number>0.56</number>
+<number shadow='shadow1' tooltip='11:14 2-10-NYG 42DEN 0 NYG 0 LI: 1.1(No Huddle Shotgun) 18-P.Manning pass deep left to 12-A.Caldwell pushed ob at NYG 6 for 36 yards(21-R.Mundy).'>3.77</number><number>0.68</number>
+<number shadow='shadow1' tooltip='10:59 1-6-NYG 6DEN 0 NYG 0 LI: 1.8(No Huddle) 28-M.Ball right tackle to NYG 3 for 3 yards(99-C.Jenkins)FUMBLES (99-C.Jenkins) RECOVERED by NYG-21-R.Mundy at NYG -3Touchback.'>4.02</number><number>0.48</number>
+<number shadow='shadow1' tooltip='10:50 1-10-NYG 20DEN 0 NYG 0 LI: 1.610-E.Manning pass deep middle to 80-V.Cruz to DEN 29 for 51 yards(25-C.Harris).'>4.17</number><number>0.38</number>
+<number shadow='shadow1' tooltip='10:04 1-10-DEN 29DEN 0 NYG 0 LI: 1.522-D.Wilson left guard to DEN 24 for 5 yards(26-R.Moore).'>4.93</number><number>0.37</number>
+<number shadow='shadow1' tooltip='9:30 2-5-DEN 24DEN 0 NYG 0 LI: 1.534-B.Jacobs right tackle to DEN 19 for 5 yards(33-D.Ihenacho 52-W.Woodyard).'>5.5</number><number>0.36</number>
+<number shadow='shadow1' tooltip='8:46 1-10-DEN 19DEN 0 NYG 0 LI: 1.510-E.Manning pass incomplete short left to 34-B.Jacobs (33-D.Ihenacho).'>6.23</number><number>0.37</number>
+<number shadow='shadow1' tooltip='8:37 2-10-DEN 19DEN 0 NYG 0 LI: 1.4(Shotgun) 22-D.Wilson right tackle to DEN 18 for 1 yard(33-D.Ihenacho 45-D.R-Cromartie).'>6.38</number><number>0.39</number>
+<number shadow='shadow1' tooltip='7:54 3-9-DEN 18DEN 0 NYG 0 LI: 1.2(Shotgun) 10-E.Manning pass incomplete deep right to 22-D.Wilson.'>7.1</number><number>0.43</number>
+<number shadow='shadow1' tooltip='7:45 4-9-DEN 18DEN 0 NYG 0 LI: 0.83-J.Brown 36 yard field goal is GOOD Center-51-Z.DeOssie Holder-5-S.Weatherford.'>7.25</number><number>0.42</number>
+<number shadow='shadow1' tooltip='7:45 DEN 0 NYG 3 LI: 3-J.Brown kicks 73 yards from NYG 35 to DEN -811-T.Holliday Touchback.'>7.34</number><number>0.4</number>
+<number shadow='shadow1' tooltip='7:20 2-7-DEN 23DEN 0 NYG 3 LI: 1.3(No Huddle Shotgun) 18-P.Manning pass short left to 80-J.Thomas pushed ob at DEN 26 for 3 yards(20-P.Amukamara).'>7.67</number><number>0.41</number>
+<number shadow='shadow1' tooltip='6:58 3-4-DEN 26DEN 0 NYG 3 LI: 1.2(Shotgun) 18-P.Manning pass short right to 80-J.Thomas to DEN 32 for 6 yards(23-C.Webster)NYG-24-T.Thomas was injured during the playPENALTY on DEN-87-E.Decker Offensive Pass Interference 10 yards enforced at DEN 26 - No Play.'>8.03</number><number>0.37</number>
+<number shadow='shadow1' tooltip='6:27 3-14-DEN 16DEN 0 NYG 3 LI: 1(Shotgun) 18-P.Manning pass short left to 28-M.Ball to DEN 31 for 15 yards(52-S.Paysinger 26-A.Rolle).'>8.55</number><number>0.43</number>
+<number shadow='shadow1' tooltip='6:01 1-10-DEN 31DEN 0 NYG 3 LI: 1.3(No Huddle Shotgun) 18-P.Manning pass short left to 88-D.Thomas to DEN 49 for 18 yards(52-S.Paysinger 21-R.Mundy).'>8.98</number><number>0.46</number>
+<number shadow='shadow1' tooltip='5:33 1-10-DEN 49DEN 0 NYG 3 LI: 1.3(No Huddle Shotgun) 18-P.Manning pass incomplete short middle to 80-J.Thomas (57-J.Williams).'>9.45</number><number>0.46</number>
+<number shadow='shadow1' tooltip='5:28 2-10-DEN 49DEN 0 NYG 3 LI: 1.3(No Huddle Shotgun) 28-M.Ball right tackle to NYG 48 for 3 yards(93-M.Patterson 94-M.Kiwanuka).'>9.53</number><number>0.44</number>
+<number shadow='shadow1' tooltip='4:54 3-7-NYG 48DEN 0 NYG 3 LI: 1(Shotgun) 18-P.Manning pass incomplete deep left to 87-E.Decker (20-P.Amukamara).'>10.1</number><number>0.4</number>
+<number shadow='shadow1' tooltip='4:47 4-7-NYG 48DEN 0 NYG 3 LI: 0.64-B.Colquitt punts 32 yards to NYG 16 Center-46-A.Brewer fair catch by 82-R.Randle.'>10.22</number><number>0.4</number>
+<number shadow='shadow1' tooltip='4:40 1-10-NYG 16DEN 0 NYG 3 LI: 1.822-D.Wilson right tackle to NYG 13 for -3 yards(99-K.Vickerson).'>10.33</number><number>0.42</number>
+<number shadow='shadow1' tooltip='4:14 2-13-NYG 13DEN 0 NYG 3 LI: 1.510-E.Manning pass short right to 86-B.Pascoe to NYG 16 for 3 yards(33-D.Ihenacho).'>10.77</number><number>0.42</number>
+<number shadow='shadow1' tooltip='3:21 3-10-NYG 16DEN 0 NYG 3 LI: 1.6(Shotgun) 10-E.Manning pass short left to 83-B.Myers to NYG 23 for 7 yards(20-M.Adams 25-C.Harris).'>11.65</number><number>0.44</number>
+<number shadow='shadow1' tooltip='2:48 4-3-NYG 23DEN 0 NYG 3 LI: 1.25-S.Weatherford punts 44 yards to DEN 33 Center-51-Z.DeOssie11-T.Holliday to DEN 37 for 4 yards(51-Z.DeOssie).'>12.2</number><number>0.44</number>
+<number shadow='shadow1' tooltip='2:37 1-10-DEN 37DEN 0 NYG 3 LI: 1.3(Shotgun) 27-K.Moreno up the middle to DEN 38 for 1 yard(93-M.Patterson 57-J.Williams).'>12.38</number><number>0.43</number>
+<number shadow='shadow1' tooltip='2:17 2-9-DEN 38DEN 0 NYG 3 LI: 1.2(No Huddle Shotgun) 18-P.Manning pass short left to 87-E.Decker to DEN 43 for 5 yards(20-P.Amukamara).'>12.72</number><number>0.43</number>
+<number shadow='shadow1' tooltip='1:35 3-4-DEN 43DEN 0 NYG 3 LI: 1.1(No Huddle Shotgun) 18-P.Manning pass incomplete short right to 87-E.Decker.'>13.42</number><number>0.39</number>
+<number shadow='shadow1' tooltip='1:30 4-4-DEN 43DEN 0 NYG 3 LI: 0.74-B.Colquitt punts 53 yards to NYG 4 Center-46-A.Brewer82-R.Randle to NYG 11 for 7 yards(30-D.Bruton 53-S.Johnson).'>13.5</number><number>0.41</number>
+<number shadow='shadow1' tooltip='1:18 1-10-NYG 11DEN 0 NYG 3 LI: 1.610-E.Manning pass incomplete deep right to 82-R.Randle.'>13.7</number><number>0.42</number>
+<number shadow='shadow1' tooltip='1:13 2-10-NYG 11DEN 0 NYG 3 LI: 1.534-B.Jacobs right guard to NYG 8 for -3 yards(91-R.Ayers).'>13.78</number><number>0.45</number>
+<number shadow='shadow1' tooltip='0:27 3-13-NYG 8DEN 0 NYG 3 LI: 1.2(Shotgun) 10-E.Manning pass incomplete short right to 12-J.Jernigan (45-D.R-Cromartie).'>14.55</number><number>0.47</number>
+<number shadow='shadow1' tooltip='0:21 4-13-NYG 8DEN 0 NYG 3 LI: 15-S.Weatherford punts 46 yards to DEN 46 Center-51-Z.DeOssie11-T.Holliday to NYG 40 for 14 yards(52-S.Paysinger 51-Z.DeOssie).'>14.65</number><number>0.5</number>
+<number shadow='shadow1' tooltip='0:10 1-10-NYG 40DEN 0 NYG 3 LI: 1.5(Shotgun) 18-P.Manning pass incomplete short right to 83-W.Welker.'>14.83</number><number>0.47</number>
+<number shadow='shadow1' tooltip='0:02 2-10-NYG 40DEN 0 NYG 3 LI: 1.2(Shotgun) 21-R.Hillman left end to NYG 37 for 3 yards(91-J.Tuck).'>14.97</number><number>0.46</number>
+<number shadow='shadow1' tooltip='15:00 3-7-NYG 37DEN 0 NYG 3 LI: 1(Shotgun) 18-P.Manning pass short right to 83-W.Welker to NYG 20 for 17 yards(24-T.Thomas).'>15</number><number>0.55</number>
+<number shadow='shadow1' tooltip='14:31 1-10-NYG 20DEN 0 NYG 3 LI: 1.6(Shotgun) 27-K.Moreno right end for 20 yards TOUCHDOWN.'>15.48</number><number>0.61</number>
+<number shadow='shadow1' tooltip='14:31 DEN 0 NYG 3 LI: 5-M.Prater extra point is GOOD Center-46-A.Brewer Holder-4-B.Colquitt.'>15.52</number><number>0.61</number>
+<number shadow='shadow1' tooltip='14:31 DEN 7 NYG 3 LI: 5-M.Prater kicks 67 yards from DEN 35 to NYG -222-D.Wilson to NYG 22 for 24 yards(51-P.Lenon).'>15.57</number><number>0.63</number>
+<number shadow='shadow1' tooltip='14:16 1-10-NYG 22DEN 7 NYG 3 LI: 1.210-E.Manning pass deep middle to 88-H.Nicks to NYG 45 for 23 yards(52-W.Woodyard 56-N.Irving).'>15.73</number><number>0.58</number>
+<number shadow='shadow1' tooltip='13:35 1-10-NYG 45DEN 7 NYG 3 LI: 1.334-B.Jacobs left guard to NYG 47 for 2 yards(59-D.Trevathan 95-D.Wolfe).'>16.42</number><number>0.59</number>
+<number shadow='shadow1' tooltip='12:51 2-8-NYG 47DEN 7 NYG 3 LI: 1.110-E.Manning pass short right to 80-V.Cruz pushed ob at DEN 38 for 15 yards(45-D.R-Cromartie)PENALTY on NYG-80-V.Cruz Illegal Touch Pass 6 yards enforced at NYG 47 - No Play.'>17.15</number><number>0.61</number>
+<number shadow='shadow1' tooltip='12:22 2-14-NYG 41DEN 7 NYG 3 LI: 1(Shotgun) 10-E.Manning pass short middle to 83-B.Myers to NYG 49 for 8 yards(59-D.Trevathan).'>17.63</number><number>0.6</number>
+<number shadow='shadow1' tooltip='11:37 3-6-NYG 49DEN 7 NYG 3 LI: 1(Shotgun) 10-E.Manning pass incomplete short right to 88-H.Nicks [97-M.Jackson].'>18.38</number><number>0.64</number>
+<number shadow='shadow1' tooltip='11:29 4-6-NYG 49DEN 7 NYG 3 LI: 0.65-S.Weatherford punts 41 yards to DEN 10 Center-51-Z.DeOssie fair catch by 11-T.Holliday.'>18.52</number><number>0.63</number>
+<number shadow='shadow1' tooltip='11:22 1-10-DEN 10DEN 7 NYG 3 LI: 1.8(Shotgun) 18-P.Manning pass short right to 88-D.Thomas to DEN 24 for 14 yards(24-T.Thomas)PENALTY on DEN-74-O.Franklin Ineligible Downfield Pass 5 yards enforced at DEN 10 - No Play.'>18.63</number><number>0.63</number>
+<number shadow='shadow1' tooltip='10:50 1-15-DEN 5DEN 7 NYG 3 LI: 1.8(No Huddle Shotgun) 28-M.Ball up the middle to DEN 8 for 3 yards(52-S.Paysinger).'>19.17</number><number>0.61</number>
+<number shadow='shadow1' tooltip='10:24 2-12-DEN 8DEN 7 NYG 3 LI: 1.6(No Huddle) 18-P.Manning pass incomplete short middle to 83-W.Welker (24-T.Thomas).'>19.6</number><number>0.59</number>
+<number shadow='shadow1' tooltip='10:17 3-12-DEN 8DEN 7 NYG 3 LI: 1.4(Shotgun) 18-P.Manning pass short right to 88-D.Thomas to DEN 8 for no gain (24-T.Thomas 23-C.Webster).'>19.72</number><number>0.57</number>
+<number shadow='shadow1' tooltip='9:40 4-12-DEN 8DEN 7 NYG 3 LI: 1.24-B.Colquitt punts 41 yards to DEN 49 Center-46-A.Brewer82-R.Randle to DEN 43 for 6 yards(36-K.Webster).'>20.33</number><number>0.56</number>
+<number shadow='shadow1' tooltip='9:24 1-10-DEN 43DEN 7 NYG 3 LI: 1.234-B.Jacobs right end to DEN 45 for -2 yards(56-N.Irving 95-D.Wolfe).'>20.6</number><number>0.59</number>
+<number shadow='shadow1' tooltip='8:41 2-12-DEN 45DEN 7 NYG 3 LI: 1(Shotgun) 10-E.Manning pass short middle to 83-B.Myers to DEN 18 for 27 yards(33-D.Ihenacho).'>21.32</number><number>0.52</number>
+<number shadow='shadow1' tooltip='7:59 1-10-DEN 18DEN 7 NYG 3 LI: 1.3(Shotgun) 10-E.Manning pass short right to 82-R.Randle to DEN 1 for 17 yards(51-P.Lenon)FUMBLES (51-P.Lenon) RECOVERED by DEN-26-R.Moore at DEN 026-R.Moore pushed ob at DEN 8 for 8 yards(22-D.Wilson)PENALTY on DEN-33-D.Ihenacho Illegal Contact 5 yards enforced at DEN 18 - No Play.'>22.02</number><number>0.44</number>
+<number shadow='shadow1' tooltip='7:46 1-10-DEN 13DEN 7 NYG 3 LI: 2(Shotgun) 10-E.Manning pass short middle to 80-V.Cruz to DEN 6 for 7 yards(33-D.Ihenacho).'>22.23</number><number>0.43</number>
+<number shadow='shadow1' tooltip='7:09 2-3-DEN 6DEN 7 NYG 3 LI: 2.110-E.Manning pass incomplete short middle to 80-V.Cruz.'>22.85</number><number>0.46</number>
+<number shadow='shadow1' tooltip='7:01 3-3-DEN 6DEN 7 NYG 3 LI: 1.8(Shotgun) 10-E.Manning pass incomplete short middle to 83-B.Myers.'>22.98</number><number>0.54</number>
+<number shadow='shadow1' tooltip='6:57 4-3-DEN 6DEN 7 NYG 3 LI: 13-J.Brown 24 yard field goal is GOOD Center-51-Z.DeOssie Holder-5-S.Weatherford.'>23.05</number><number>0.55</number>
+<number shadow='shadow1' tooltip='6:57 DEN 7 NYG 6 LI: 3-J.Brown kicks 70 yards from NYG 35 to DEN -511-T.Holliday to DEN 17 for 22 yards(69-J.Trattou 84-L.Donnell).'>23.14</number><number>0.53</number>
+<number shadow='shadow1' tooltip='6:48 1-10-DEN 17DEN 7 NYG 6 LI: 1.3(Shotgun) 18-P.Manning pass short left to 80-J.Thomas to DEN 20 for 3 yards(24-T.Thomas).'>23.2</number><number>0.54</number>
+<number shadow='shadow1' tooltip='6:25 2-7-DEN 20DEN 7 NYG 6 LI: 1.3(No Huddle Shotgun) 18-P.Manning pass incomplete deep right to 88-D.Thomas.'>23.58</number><number>0.52</number>
+<number shadow='shadow1' tooltip='6:18 3-7-DEN 20DEN 7 NYG 6 LI: 1.1(Shotgun) 18-P.Manning pass incomplete short left to 80-J.Thomas.'>23.7</number><number>0.5</number>
+<number shadow='shadow1' tooltip='6:13 4-7-DEN 20DEN 7 NYG 6 LI: 0.94-B.Colquitt punts 40 yards to NYG 40 Center-46-A.Brewer fair catch by 82-R.Randle.'>23.78</number><number>0.5</number>
+<number shadow='shadow1' tooltip='6:05 1-10-NYG 40DEN 7 NYG 6 LI: 1.2(Shotgun) 22-D.Wilson right guard to NYG 46 for 6 yards(90-S.Phillips).'>23.92</number><number>0.48</number>
+<number shadow='shadow1' tooltip='5:35 2-4-NYG 46DEN 7 NYG 6 LI: 1.3(Shotgun) 10-E.Manning pass short middle to 80-V.Cruz to 50 for 4 yards(95-D.Wolfe).'>24.42</number><number>0.47</number>
+<number shadow='shadow1' tooltip='4:49 1-10-50DEN 7 NYG 6 LI: 1.4(Shotgun) 10-E.Manning pass incomplete deep right to 80-V.CruzPENALTY on DEN-25-C.Harris Defensive Holding 5 yards enforced at 50 - No Play.'>25.18</number><number>0.46</number>
+<number shadow='shadow1' tooltip='4:37 1-10-DEN 45DEN 7 NYG 6 LI: 1.4(Shotgun) 10-E.Manning pass short right to 88-H.Nicks to DEN 31 for 14 yards(45-D.R-Cromartie).'>25.38</number><number>0.43</number>
+<number shadow='shadow1' tooltip='4:04 1-10-DEN 31DEN 7 NYG 6 LI: 1.4(Shotgun) 22-D.Wilson left end to DEN 29 for 2 yards(52-W.Woodyard).'>25.93</number><number>0.43</number>
+<number shadow='shadow1' tooltip='3:18 2-8-DEN 29DEN 7 NYG 6 LI: 1.3(Shotgun) 22-D.Wilson right tackle to DEN 23 for 6 yards(59-D.Trevathan).'>26.7</number><number>0.42</number>
+<number shadow='shadow1' tooltip='2:32 3-2-DEN 23DEN 7 NYG 6 LI: 1.310-E.Manning pass incomplete short right to 83-B.Myers (52-W.Woodyard).'>27.47</number><number>0.47</number>
+<number shadow='shadow1' tooltip='2:24 4-2-DEN 23DEN 7 NYG 6 LI: 0.83-J.Brown 41 yard field goal is GOOD Center-51-Z.DeOssie Holder-5-S.Weatherford.'>27.6</number><number>0.45</number>
+<number shadow='shadow1' tooltip='2:24 DEN 7 NYG 9 LI: 3-J.Brown kicks 65 yards from NYG 35 to end zone Touchback.'>27.69</number><number>0.43</number>
+<number shadow='shadow1' tooltip='2:00 1-10-DEN 39DEN 7 NYG 9 LI: 1.418-P.Manning pass deep right to 83-W.Welker to NYG 41 for 20 yards(57-J.Williams).'>28</number><number>0.52</number>
+<number shadow='shadow1' tooltip='1:40 1-10-NYG 41DEN 7 NYG 9 LI: 1.5(Shotgun) 18-P.Manning pass short right to 88-D.Thomas to NYG 32 for 9 yards(52-S.Paysinger 23-C.Webster).'>28.33</number><number>0.54</number>
+<number shadow='shadow1' tooltip='1:23 2-1-NYG 32DEN 7 NYG 9 LI: 1.5(No Huddle Shotgun) 27-K.Moreno right tackle to NYG 29 for 3 yards(97-L.Joseph; 99-C.Jenkins).'>28.62</number><number>0.55</number>
+<number shadow='shadow1' tooltip='1:06 1-10-NYG 29DEN 7 NYG 9 LI: 1.5(No Huddle Shotgun) 18-P.Manning pass incomplete deep middle to 80-J.Thomas.'>28.9</number><number>0.56</number>
+<number shadow='shadow1' tooltip='1:02 2-10-NYG 29DEN 7 NYG 9 LI: 1.6(No Huddle Shotgun) 18-P.Manning pass incomplete short middle to 83-W.Welker.'>28.97</number><number>0.53</number>
+<number shadow='shadow1' tooltip='0:57 3-10-NYG 29DEN 7 NYG 9 LI: 1.3(Shotgun) PENALTY on NYG-90-J.Pierre-Paul Neutral Zone Infraction 5 yards enforced at NYG 29 - No Play.'>29.05</number><number>0.56</number>
+<number shadow='shadow1' tooltip='0:52 4-5-NYG 24DEN 7 NYG 9 LI: 0.85-M.Prater 42 yard field goal is GOOD Center-46-A.Brewer Holder-4-B.Colquitt.'>29.13</number><number>0.52</number>
+<number shadow='shadow1' tooltip='0:52 DEN 10 NYG 9 LI: 5-M.Prater kicks 66 yards from DEN 35 to NYG -122-D.Wilson to NYG 15 for 16 yards(56-N.Irving 30-D.Bruton).'>29.22</number><number>0.55</number>
+<number shadow='shadow1' tooltip='0:43 1-10-NYG 15DEN 10 NYG 9 LI: 1.3(Shotgun) 10-E.Manning pass short left to 83-B.Myers pushed ob at NYG 17 for 2 yards(20-M.Adams) [97-M.Jackson].'>29.28</number><number>0.55</number>
+<number shadow='shadow1' tooltip='0:35 2-8-NYG 17DEN 10 NYG 9 LI: 1.2(Shotgun) 10-E.Manning pass incomplete deep left to 83-B.Myers.'>29.42</number><number>0.56</number>
+<number shadow='shadow1' tooltip='0:30 3-8-NYG 17DEN 10 NYG 9 LI: 1.1(Shotgun) 10-E.Manning pass deep right to 88-H.Nicks pushed ob at DEN 49 for 34 yards(26-R.Moore).'>29.5</number><number>0.46</number>
+<number shadow='shadow1' tooltip='0:20 1-10-DEN 49DEN 10 NYG 9 LI: 1.4(Shotgun) 10-E.Manning pass incomplete deep left to 80-V.CruzPENALTY on DEN-45-D.R-Cromartie Defensive Pass Interference 21 yards enforced at DEN 49 - No Play.'>29.67</number><number>0.42</number>
+<number shadow='shadow1' tooltip='0:16 1-10-DEN 28DEN 10 NYG 9 LI: 1.4(Shotgun) 10-E.Manning pass deep right intended for 88-H.Nicks INTERCEPTED by 45-D.R-Cromartie at DEN -3Touchback.'>29.73</number><number>0.55</number>
+<number shadow='shadow1' tooltip='0:09 1-10-DEN 20DEN 10 NYG 9 LI: 1.518-P.Manning kneels to DEN 19 for -1 yards.'>29.85</number><number>0.53</number>
+<number shadow='shadow1' tooltip='0:09 DEN 10 NYG 9 LI: 5-M.Prater kicks 66 yards from DEN 35 to NYG -122-D.Wilson to NYG 26 for 27 yards(53-S.Johnson 57-A.Robinson).'>29.94</number><number>0.53</number>
+<number shadow='shadow1' tooltip='14:54 1-10-NYG 26DEN 10 NYG 9 LI: 1.2(Shotgun) 10-E.Manning sacked at NYG 17 for -9 yards(59-D.Trevathan).'>30.1</number><number>0.56</number>
+<number shadow='shadow1' tooltip='14:29 2-19-NYG 17DEN 10 NYG 9 LI: 1.2(Shotgun) 10-E.Manning pass incomplete short left to 82-R.Randle (32-T.Carter).'>30.52</number><number>0.58</number>
+<number shadow='shadow1' tooltip='14:16 3-19-NYG 17DEN 10 NYG 9 LI: 1(Shotgun) 10-E.Manning pass short left to 80-V.Cruz to NYG 25 for 8 yards(45-D.R-Cromartie).'>30.73</number><number>0.58</number>
+<number shadow='shadow1' tooltip='13:44 4-11-NYG 25DEN 10 NYG 9 LI: 0.85-S.Weatherford punts 50 yards to DEN 25 Center-51-Z.DeOssie11-T.Holliday pushed ob at DEN 47 for 22 yards(69-J.Trattou).'>31.27</number><number>0.6</number>
+<number shadow='shadow1' tooltip='13:26 1-10-DEN 47DEN 10 NYG 9 LI: 1.327-K.Moreno left tackle to NYG 46 for 7 yards(91-J.Tuck 97-L.Joseph).'>31.57</number><number>0.62</number>
+<number shadow='shadow1' tooltip='13:03 2-3-NYG 46DEN 10 NYG 9 LI: 1.3(No Huddle) 27-K.Moreno right tackle to NYG 36 for 10 yards(21-R.Mundy).'>31.95</number><number>0.64</number>
+<number shadow='shadow1' tooltip='12:32 1-10-NYG 36DEN 10 NYG 9 LI: 1.2(No Huddle) 28-M.Ball left tackle to NYG 35 for 1 yard(52-S.Paysinger).'>32.47</number><number>0.63</number>
+<number shadow='shadow1' tooltip='11:51 2-9-NYG 35DEN 10 NYG 9 LI: 1.1(No Huddle Shotgun) 18-P.Manning pass short right to 87-E.Decker to NYG 23 for 12 yards(57-J.Williams 23-C.Webster).'>33.15</number><number>0.67</number>
+<number shadow='shadow1' tooltip='11:16 1-10-NYG 23DEN 10 NYG 9 LI: 1.2(No Huddle) 28-M.Ball left tackle to NYG 22 for 1 yard(58-M.Herzlich 91-J.Tuck).'>33.73</number><number>0.69</number>
+<number shadow='shadow1' tooltip='10:38 2-9-NYG 22DEN 10 NYG 9 LI: 1.4(No Huddle Shotgun) 18-P.Manning pass short left to 85-V.Green pushed ob at NYG 17 for 5 yards(57-J.Williams).'>34.37</number><number>0.69</number>
+<number shadow='shadow1' tooltip='10:04 3-4-NYG 17DEN 10 NYG 9 LI: 1.3(No Huddle Shotgun) 18-P.Manning pass short middle to 88-D.Thomas to NYG 7 for 10 yards(23-C.Webster 26-A.Rolle).'>34.93</number><number>0.74</number>
+<number shadow='shadow1' tooltip='9:35 1-7-NYG 7DEN 10 NYG 9 LI: 1.7(No Huddle) 18-P.Manning pass short right to 87-E.Decker to NYG 2 for 5 yards(21-R.Mundy 91-J.Tuck).'>35.42</number><number>0.75</number>
+<number shadow='shadow1' tooltip='9:03 2-2-NYG 2DEN 10 NYG 9 LI: 1.8(No Huddle Shotgun) 18-P.Manning pass short middle to 83-W.Welker for 2 yards TOUCHDOWN.'>35.95</number><number>0.76</number>
+<number shadow='shadow1' tooltip='9:03 DEN 10 NYG 9 LI: 5-M.Prater extra point is GOOD Center-46-A.Brewer Holder-4-B.Colquitt.'>35.99</number><number>0.76</number>
+<number shadow='shadow1' tooltip='9:03 DEN 17 NYG 9 LI: 5-M.Prater kicks 70 yards from DEN 35 to NYG -522-D.Wilson to NYG 19 for 24 yards(36-K.Webster 30-D.Bruton).'>36.04</number><number>0.78</number>
+<number shadow='shadow1' tooltip='8:51 1-10-NYG 19DEN 17 NYG 9 LI: 1(Shotgun) 10-E.Manning pass short right to 80-V.Cruz to NYG 32 for 13 yards(59-D.Trevathan 45-D.R-Cromartie).'>36.15</number><number>0.75</number>
+<number shadow='shadow1' tooltip='8:10 1-10-NYG 32DEN 17 NYG 9 LI: 1.1(Shotgun) 10-E.Manning pass short right to 82-R.Randle pushed ob at NYG 39 for 7 yards(32-T.Carter).'>36.83</number><number>0.75</number>
+<number shadow='shadow1' tooltip='7:40 2-3-NYG 39DEN 17 NYG 9 LI: 1(Shotgun) 10-E.Manning pass incomplete deep right to 82-R.RandlePENALTY on DEN-32-T.Carter Defensive Pass Interference 30 yards enforced at NYG 39 - No Play.'>37.33</number><number>0.69</number>
+<number shadow='shadow1' tooltip='7:34 1-10-DEN 31DEN 17 NYG 9 LI: 1.2(Shotgun) 22-D.Wilson left tackle to DEN 31 for no gain (25-C.Harris 94-T.Knighton).'>37.43</number><number>0.71</number>
+<number shadow='shadow1' tooltip='6:52 2-10-DEN 31DEN 17 NYG 9 LI: 1(Shotgun) 10-E.Manning pass short middle to 80-V.Cruz to DEN 21 for 10 yards(25-C.Harris).'>38.13</number><number>0.68</number>
+<number shadow='shadow1' tooltip='6:15 1-10-DEN 21DEN 17 NYG 9 LI: 1.110-E.Manning pass short left to 88-H.Nicks to DEN 9 for 12 yards(45-D.R-Cromartie).'>38.75</number><number>0.63</number>
+<number shadow='shadow1' tooltip='5:31 1-9-DEN 9DEN 17 NYG 9 LI: 1.510-E.Manning pass short right to 80-V.Cruz to DEN 3 for 6 yards(25-C.Harris)PENALTY on DEN-99-K.Vickerson Illegal Use of Hands 5 yards enforced at DEN 9 - No Play.'>39.48</number><number>0.61</number>
+<number shadow='shadow1' tooltip='5:09 1-4-DEN 4DEN 17 NYG 9 LI: 1.734-B.Jacobs right guard to DEN 3 for 1 yard(59-D.Trevathan 52-W.Woodyard).'>39.85</number><number>0.61</number>
+<number shadow='shadow1' tooltip='4:22 2-3-DEN 3DEN 17 NYG 9 LI: 1.8(Shotgun) 33-D.Scott left guard to DEN 2 for 1 yard(59-D.Trevathan 94-T.Knighton).'>40.63</number><number>0.64</number>
+<number shadow='shadow1' tooltip='3:42 3-2-DEN 2DEN 17 NYG 9 LI: 1.5(Shotgun) 10-E.Manning pass incomplete short right to 88-H.Nicks (45-D.R-Cromartie)PENALTY on DEN-45-D.R-Cromartie Defensive Pass Interference 1 yard enforced at DEN 2 - No Play.'>41.3</number><number>0.59</number>
+<number shadow='shadow1' tooltip='3:35 1-1-DEN 1DEN 17 NYG 9 LI: 234-B.Jacobs right guard to DEN 1 for no gain (94-T.Knighton 59-D.Trevathan)PENALTY on DEN-94-T.Knighton Taunting 0 yards enforced at DEN 1.'>41.42</number><number>0.59</number>
+<number shadow='shadow1' tooltip='3:18 1-1-DEN 1DEN 17 NYG 9 LI: 2.134-B.Jacobs up the middle for 1 yard TOUCHDOWN.'>41.7</number><number>0.58</number>
+<number shadow='shadow1' tooltip='3:18 DEN 17 NYG 9 LI: 3-J.Brown extra point is GOOD Center-51-Z.DeOssie Holder-5-S.Weatherford.'>41.74</number><number>0.58</number>
+<number shadow='shadow1' tooltip='3:18 DEN 17 NYG 16 LI: 3-J.Brown kicks 65 yards from NYG 35 to end zone Touchback.'>41.79</number><number>0.56</number>
+<number shadow='shadow1' tooltip='3:08 1-10-DEN 20DEN 17 NYG 16 LI: 1.618-P.Manning pass to 88-D.Thomas to DEN 36 for 16 yards(20-P.Amukamara)FUMBLES (20-P.Amukamara) touched at DEN 35 recovered by DEN-27-K.Moreno at DEN 3227-K.Moreno to DEN 37 for 5 yards(20-P.Amukamara).'>41.87</number><number>0.6</number>
+<number shadow='shadow1' tooltip='2:40 1-10-DEN 37DEN 17 NYG 16 LI: 1.6(No Huddle Shotgun) 18-P.Manning pass incomplete short right to 87-E.Decker.'>42.33</number><number>0.58</number>
+<number shadow='shadow1' tooltip='2:32 2-10-DEN 37DEN 17 NYG 16 LI: 1.4(No Huddle Shotgun) 28-M.Ball up the middle to DEN 39 for 2 yards(52-S.Paysinger 58-M.Herzlich).'>42.47</number><number>0.57</number>
+<number shadow='shadow1' tooltip='2:02 3-8-DEN 39DEN 17 NYG 16 LI: 1.3(Shotgun) 18-P.Manning pass short left to 87-E.Decker to DEN 48 for 9 yards(20-P.Amukamara).'>42.97</number><number>0.63</number>
+<number shadow='shadow1' tooltip='1:44 1-10-DEN 48DEN 17 NYG 16 LI: 1.718-P.Manning pass deep middle to 87-E.Decker to NYG 33 for 19 yards(26-A.Rolle) [95-S.Rogers].'>43.27</number><number>0.67</number>
+<number shadow='shadow1' tooltip='1:14 1-10-NYG 33DEN 17 NYG 16 LI: 1.7(No Huddle) 27-K.Moreno left guard to NYG 30 for 3 yards(95-S.Rogers 90-J.Pierre-Paul).'>43.77</number><number>0.67</number>
+<number shadow='shadow1' tooltip='0:45 2-7-NYG 30DEN 17 NYG 16 LI: 1.7(No Huddle Shotgun) PENALTY on NYG-94-M.Kiwanuka Neutral Zone Infraction 5 yards enforced at NYG 30 - No Play.'>44.25</number><number>0.69</number>
+<number shadow='shadow1' tooltip='0:37 2-2-NYG 25DEN 17 NYG 16 LI: 1.727-K.Moreno right end for 25 yards TOUCHDOWN.'>44.38</number><number>0.81</number>
+<number shadow='shadow1' tooltip='0:37 DEN 17 NYG 16 LI: 5-M.Prater extra point is GOOD Center-46-A.Brewer Holder-4-B.Colquitt.'>44.42</number><number>0.81</number>
+<number shadow='shadow1' tooltip='0:37 DEN 24 NYG 16 LI: 5-M.Prater kicks 74 yards from DEN 35 to NYG -922-D.Wilson Touchback.'>44.47</number><number>0.83</number>
+<number shadow='shadow1' tooltip='0:25 1-10-NYG 20DEN 24 NYG 16 LI: 0.8(Shotgun) 10-E.Manning pass short middle to 82-R.Randle to NYG 28 for 8 yards(32-T.Carter).'>44.58</number><number>0.81</number>
+<number shadow='shadow1' tooltip='15:00 2-2-NYG 28DEN 24 NYG 16 LI: 0.9(Shotgun) 10-E.Manning pass short right intended for 82-R.Randle INTERCEPTED by 25-C.Harris (32-T.Carter) at NYG 3625-C.Harris to NYG 36 for no gain (22-D.Wilson).'>45</number><number>0.89</number>
+<number shadow='shadow1' tooltip='14:53 1-10-NYG 36DEN 24 NYG 16 LI: 0.927-K.Moreno left guard to NYG 27 for 9 yards(20-P.Amukamara 91-J.Tuck).'>45.12</number><number>0.9</number>
+<number shadow='shadow1' tooltip='14:24 2-1-NYG 27DEN 24 NYG 16 LI: 0.827-K.Moreno left guard to NYG 13 for 14 yards(26-A.Rolle).'>45.6</number><number>0.95</number>
+<number shadow='shadow1' tooltip='13:53 1-10-NYG 13DEN 24 NYG 16 LI: 0.918-P.Manning pass short left to 87-E.Decker to NYG 8 for 5 yards(21-R.Mundy).'>46.12</number><number>0.95</number>
+<number shadow='shadow1' tooltip='13:17 2-5-NYG 8DEN 24 NYG 16 LI: 0.7(No Huddle) 28-M.Ball left tackle to NYG 11 for -3 yards(97-L.Joseph).'>46.72</number><number>0.93</number>
+<number shadow='shadow1' tooltip='12:27 3-8-NYG 11DEN 24 NYG 16 LI: 0.5(Shotgun) 18-P.Manning pass short left to 80-J.Thomas for 11 yards TOUCHDOWN.'>47.55</number><number>0.96</number>
+<number shadow='shadow1' tooltip='12:27 DEN 24 NYG 16 LI: 5-M.Prater extra point is GOOD Center-46-A.Brewer Holder-4-B.Colquitt.'>47.59</number><number>0.96</number>
+<number shadow='shadow1' tooltip='12:27 DEN 31 NYG 16 LI: 5-M.Prater kicks 71 yards from DEN 35 to NYG -622-D.Wilson Touchback.'>47.64</number><number>0.97</number>
+<number shadow='shadow1' tooltip='12:19 1-10-NYG 20DEN 31 NYG 16 LI: 0.1(Shotgun) 10-E.Manning pass short middle to 83-B.Myers to NYG 25 for 5 yards(52-W.Woodyard) [20-M.Adams].'>47.68</number><number>0.96</number>
+<number shadow='shadow1' tooltip='11:50 2-5-NYG 25DEN 31 NYG 16 LI: 0.2(No Huddle Shotgun) 10-E.Manning pass short left to 33-D.Scott to NYG 32 for 7 yards(97-M.Jackson 33-D.Ihenacho).'>48.17</number><number>0.97</number>
+<number shadow='shadow1' tooltip='11:17 1-10-NYG 32DEN 31 NYG 16 LI: 0.1(No Huddle Shotgun) 33-D.Scott up the middle to NYG 31 for -1 yards(97-M.Jackson).'>48.72</number><number>0.96</number>
+<number shadow='shadow1' tooltip='10:47 2-11-NYG 31DEN 31 NYG 16 LI: 0.2(No Huddle Shotgun) 10-E.Manning pass incomplete deep left to 82-R.Randle.'>49.22</number><number>0.96</number>
+<number shadow='shadow1' tooltip='10:39 3-11-NYG 31DEN 31 NYG 16 LI: 0.2(Shotgun) 10-E.Manning pass incomplete deep left to 88-H.Nicks (26-R.Moore).'>49.35</number><number>0.97</number>
+<number shadow='shadow1' tooltip='10:32 4-11-NYG 31DEN 31 NYG 16 LI: 0.15-S.Weatherford punts 50 yards to DEN 19 Center-51-Z.DeOssie11-T.Holliday for 81 yards TOUCHDOWN.'>49.47</number><number>0.99</number>
+<number shadow='shadow1' tooltip='10:32 DEN 31 NYG 16 LI: 5-M.Prater extra point is GOOD Center-46-A.Brewer Holder-4-B.Colquitt.'>49.51</number><number>0.99</number>
+<number shadow='shadow1' tooltip='10:32 DEN 38 NYG 16 LI: 5-M.Prater kicks 65 yards from DEN 35 to end zone Touchback.'>49.56</number><number>0.99</number>
+<number shadow='shadow1' tooltip='10:13 1-10-NYG 20DEN 38 NYG 16 LI: 0.1(Shotgun) 10-E.Manning pass short right to 82-R.Randle to NYG 19 for -1 yards(32-T.Carter).'>49.78</number><number>0.99</number>
+<number shadow='shadow1' tooltip='9:40 2-11-NYG 19DEN 38 NYG 16 LI: 0.1(Shotgun) 10-E.Manning pass deep right to 83-B.Myers to NYG 44 for 25 yards(26-R.Moore)NYG-83-B.Myers was injured during the play.'>50.33</number><number>0.99</number>
+<number shadow='shadow1' tooltip='9:08 1-10-NYG 44DEN 38 NYG 16 LI: 0.1(Shotgun) 10-E.Manning pass short left to 86-B.Pascoe to DEN 47 for 9 yards(20-M.Adams 52-W.Woodyard).'>50.87</number><number>0.99</number>
+<number shadow='shadow1' tooltip='8:33 2-1-DEN 47DEN 38 NYG 16 LI: 0.1(No Huddle Shotgun) 33-D.Scott left tackle to DEN 45 for 2 yards(91-R.Ayers).'>51.45</number><number>0.99</number>
+<number shadow='shadow1' tooltip='8:05 1-10-DEN 45DEN 38 NYG 16 LI: 0.1(No Huddle Shotgun) 10-E.Manning pass incomplete short middle to 80-V.Cruz (25-C.Harris) [52-W.Woodyard].'>51.92</number><number>0.98</number>
+<number shadow='shadow1' tooltip='7:58 2-10-DEN 45DEN 38 NYG 16 LI: 0.1(Shotgun) 10-E.Manning pass incomplete short right to 83-B.Myers [25-C.Harris]DEN-33-D.Ihenacho was injured during the play.'>52.03</number><number>0.99</number>
+<number shadow='shadow1' tooltip='7:50 3-10-DEN 45DEN 38 NYG 16 LI: 0.1(Shotgun) 10-E.Manning pass incomplete deep middle to 80-V.Cruz (32-T.Carter) [95-D.Wolfe].'>52.17</number><number>0.99</number>
+<number shadow='shadow1' tooltip='7:43 4-10-DEN 45DEN 38 NYG 16 LI: 0.1(Shotgun) 10-E.Manning pass deep middle intended for 82-R.Randle INTERCEPTED by 26-R.Moore at DEN -3Touchback.'>52.28</number><number>0.99</number>
+<number shadow='shadow1' tooltip='7:33 1-10-DEN 20DEN 38 NYG 16 LI: 0.127-K.Moreno right end to DEN 20 for no gain (58-M.Herzlich 91-J.Tuck).'>52.45</number><number>0.99</number>
+<number shadow='shadow1' tooltip='6:58 2-10-DEN 20DEN 38 NYG 16 LI: 0.127-K.Moreno left guard to DEN 23 for 3 yards(90-J.Pierre-Paul).'>53.03</number><number>0.99</number>
+<number shadow='shadow1' tooltip='6:10 3-7-DEN 23DEN 38 NYG 16 LI: 0.118-P.Manning pass short right to 80-J.Thomas to DEN 27 for 4 yards(23-C.Webster).'>53.83</number><number>0.99</number>
+<number shadow='shadow1' tooltip='5:30 4-3-DEN 27DEN 38 NYG 16 LI: 0.14-B.Colquitt punts 44 yards to NYG 29 Center-46-A.Brewer fair catch by 12-J.Jernigan.'>54.5</number><number>0.99</number>
+<number shadow='shadow1' tooltip='5:12 1-10-NYG 29DEN 38 NYG 16 LI: 0.1(Shotgun) 10-E.Manning pass incomplete deep left to 88-H.NicksPENALTY on DEN-26-R.Moore Unnecessary Roughness 15 yards enforced at NYG 29 - No Play.'>54.8</number><number>0.99</number>
+<number shadow='shadow1' tooltip='5:06 1-10-NYG 44DEN 38 NYG 16 LI: 0.1(Shotgun) 33-D.Scott left tackle to NYG 48 for 4 yards(91-R.Ayers 20-M.Adams).'>54.9</number><number>0.99</number>
+<number shadow='shadow1' tooltip='4:45 2-6-NYG 48DEN 38 NYG 16 LI: 0.1(No Huddle Shotgun) 10-E.Manning pass short right to 80-V.Cruz pushed ob at DEN 39 for 13 yards(30-D.Bruton).'>55.25</number><number>0.99</number>
+<number shadow='shadow1' tooltip='4:38 1-10-DEN 39DEN 38 NYG 16 LI: 0.1(No Huddle Shotgun) 10-E.Manning pass short right to 84-L.Donnell to DEN 28 for 11 yards(52-W.Woodyard).'>55.37</number><number>0.99</number>
+<number shadow='shadow1' tooltip='4:16 1-10-DEN 28DEN 38 NYG 16 LI: 0.1(No Huddle Shotgun) 10-E.Manning pass incomplete short right to 82-R.RandlePENALTY on DEN-32-T.Carter Defensive Holding 5 yards enforced at DEN 28 - No Play.'>55.73</number><number>0.99</number>
+<number shadow='shadow1' tooltip='4:10 1-10-DEN 23DEN 38 NYG 16 LI: 0.110-E.Manning pass short middle to 33-D.Scott for 23 yards TOUCHDOWN.'>55.83</number><number>0.99</number>
+<number shadow='shadow1' tooltip='4:10 DEN 38 NYG 16 LI: 3-J.Brown extra point is GOOD Center-51-Z.DeOssie Holder-5-S.Weatherford.'>55.87</number><number>0.99</number>
+<number shadow='shadow1' tooltip='4:10 DEN 38 NYG 23 LI: 3-J.Brown kicks onside 21 yards from NYG 35 to DEN 44 downed by NYG-84-L.Donnell.'>55.92</number><number>0.99</number>
+<number shadow='shadow1' tooltip='3:58 1-10-NYG 44DEN 38 NYG 23 LI: 0.228-M.Ball up the middle to NYG 44 for no gain (90-J.Pierre-Paul 21-R.Mundy).'>56.03</number><number>0.99</number>
+<number shadow='shadow1' tooltip='3:54 2-10-NYG 44DEN 38 NYG 23 LI: 0.228-M.Ball right guard to NYG 41 for 3 yards(90-J.Pierre-Paul).'>56.1</number><number>0.99</number>
+<number shadow='shadow1' tooltip='3:49 3-7-NYG 41DEN 38 NYG 23 LI: 0.218-P.Manning pass short left to 87-E.Decker pushed ob at NYG 31 for 10 yards(20-P.Amukamara).'>56.18</number><number>0.99</number>
+<number shadow='shadow1' tooltip='3:43 1-10-NYG 31DEN 38 NYG 23 LI: 0.128-M.Ball left end to NYG 29 for 2 yards(58-M.Herzlich).'>56.28</number><number>0.99</number>
+<number shadow='shadow1' tooltip='3:33 2-8-NYG 29DEN 38 NYG 23 LI: 0.128-M.Ball right tackle to NYG 29 for no gain (90-J.Pierre-Paul).'>56.45</number><number>0.99</number>
+<number shadow='shadow1' tooltip='2:50 3-8-NYG 29DEN 38 NYG 23 LI: 0.1(Shotgun) 18-P.Manning pass incomplete deep right to 87-E.Decker.'>57.17</number><number>0.99</number>
+<number shadow='shadow1' tooltip='2:42 4-8-NYG 29DEN 38 NYG 23 LI: 0.15-M.Prater 47 yard field goal is GOOD Center-46-A.Brewer Holder-4-B.Colquitt.'>57.3</number><number>0.99</number>
+<number shadow='shadow1' tooltip='2:42 DEN 41 NYG 23 LI: 5-M.Prater kicks 66 yards from DEN 35 to NYG -122-D.Wilson pushed ob at NYG 29 for 30 yards(53-S.Johnson 84-J.Tamme).'>57.39</number><number>0.99</number>
+<number shadow='shadow1' tooltip='2:32 1-10-NYG 29DEN 41 NYG 23 LI: 0.1(Shotgun) 10-E.Manning pass short middle to 84-L.Donnell to NYG 38 for 9 yards(25-C.Harris 59-D.Trevathan).'>57.47</number><number>0.99</number>
+<number shadow='shadow1' tooltip='2:13 2-1-NYG 38DEN 41 NYG 23 LI: 0.1(No Huddle Shotgun) 10-E.Manning pass short left to 84-L.Donnell to NYG 49 for 11 yards(59-D.Trevathan).'>57.78</number><number>0.99</number>
+<number shadow='shadow1' tooltip='2:00 1-10-NYG 49DEN 41 NYG 23 LI: 0.1(Shotgun) 33-D.Scott left tackle to NYG 45 for -4 yards(57-A.Robinson 92-S.Williams).'>58</number><number>0.99</number>
+<number shadow='shadow1' tooltip='1:39 2-14-NYG 45DEN 41 NYG 23 LI: 0.1(No Huddle Shotgun) 10-E.Manning pass incomplete short left to 33-D.Scott.'>58.35</number><number>0.99</number>
+<number shadow='shadow1' tooltip='1:34 3-14-NYG 45DEN 41 NYG 23 LI: 0.1(Shotgun) 10-E.Manning pass short middle to 80-V.Cruz to DEN 43 for 12 yards(25-C.Harris).'>58.43</number><number>0.99</number>
+<number shadow='shadow1' tooltip='1:12 4-2-DEN 43DEN 41 NYG 23 LI: 0.1(No Huddle Shotgun) 10-E.Manning pass incomplete deep right to 82-R.Randle (32-T.Carter)PENALTY on DEN-32-T.Carter Defensive Pass Interference 23 yards enforced at DEN 43 - No Play.'>58.8</number><number>0.99</number>
+<number shadow='shadow1' tooltip='1:06 1-10-DEN 20DEN 41 NYG 23 LI: 0.1(Shotgun) 10-E.Manning pass incomplete deep right to 33-D.Scott.'>58.9</number><number>0.99</number>
+<number shadow='shadow1' tooltip='0:57 2-10-DEN 20DEN 41 NYG 23 LI: 0.1(Shotgun) 10-E.Manning pass deep right intended for 82-R.Randle INTERCEPTED by 32-T.Carter at DEN -2Touchback.'>59.05</number><number>0.99</number>
+<number shadow='shadow1' tooltip='0:50 1-10-DEN 20DEN 41 NYG 23 LI: 0.118-P.Manning kneels to DEN 19 for -1 yards.'>59.17</number><number>0.99</number>
+<number shadow='shadow1' tooltip='0:31 2-11-DEN 19DEN 41 NYG 23 LI: 0.118-P.Manning kneels to DEN 18 for -1 yards.'>59.48</number><number>1</number>
+<number>60</number><number>1</number>
+</row> </chart_data>
+       <draw>
+
+
+
+      <image x='45' y='298'  url='nfllogos/42x50png/DEN.gif'  layer='foreground' glow = 'glow1'/>
+      <image x='45' y='350'  url='nfllogos/42x50png/NYG.gif'     layer='foreground' glow = 'glow1'/>
+
+
+      <rect x='130' y='300' width='250' height='40' fill_color='ff652b' bevel='bevel1' />
+      <text x='135' y='300' width='250' height='40' h_align='left' v_align='middle' color='ffffff' shadow='shadow2' glow='winnerglow'>Denver Broncos</text>
+
+      <rect x='130' y='350' width='250' height='40' fill_color='003462' bevel='bevel1'  />
+      <text x='135' y='350' width='250' height='40' h_align='left' v_align='middle' color='ffffff' shadow='shadow2' glow=''>New York Giants</text>
+
+      <rect x='420' y='300' width='60' height='40' fill_color='ff652b' bevel='bevel1'  />
+      <text x='420' y='300' width='60' height='40' h_align='center' v_align='middle' color='ffffff' shadow='shadow2' transition='none' glow='winnerglow'>41</text>
+
+      <rect x='420' y='350' width='60' height='40' fill_color='003462' bevel='bevel1' />
+      <text x='420' y='350' width='60' height='40' h_align='center' v_align='middle' color='ffffff' shadow='shadow2' transition='none' glow=''>23</text>
+
+      <text x='-3' y='12'  width='60' height='40' h_align='center' v_align='middle' size='13' shadow='shadow2'>DENWin </text>
+      <text x='-3' y='218' width='60' height='40' h_align='center' v_align='middle' size='13' shadow='shadow2'>NYGWin </text>
+
+     
+              <rect x='540' y='300' width='100' height='35' fill_color='000000' fill_alpha='50'/>
+              <text x='540' y='300' width='100' height='35' h_align='center' v_align='middle' color='ffffff' size='15' shadow='shadow2' >Final</text>
+
+              <text x='540' y='340' width='40' h_align='center' color='000000' size='12' shadow='shadow2'>CBF</text>
+              <text x='600' y='340' width='40' h_align='center' color='000000' size='12' shadow='shadow2'>EI</text>
+
+              <rect x='540' y='360' width='40' height='30' fill_color='000000' fill_alpha='50' />
+              <text x='540' y='360' width='40' height='30' size='12' h_align='center' v_align='middle' color='FFFFFF' shadow='shadow2'>3</text>
+
+              <rect x='600' y='360' width='40' height='30' fill_color='000000' fill_alpha='50' />
+              <text x='600' y='360' width='40' height='30' size='12' h_align='center' v_align='middle' color='FFFFFF' shadow='shadow2'>3.9</text>
+
+              <text x='20' y='420' width='70' height='25' size='12' h_align='left' v_align='middle' color='000000' >9/15/2013</text>
+              <text x='100' y='420' width='200' height='25' size='12' h_align='left' v_align='middle' color='000000' >MetLife Stadium</text>
+
+   </draw></chart>

@@ -1,0 +1,319 @@
+
+<chart>
+   <license>ETAS9P33ESHO.945CWK-2XOI1X0-7L</license>
+   <chart_type>scatter</chart_type>
+   <chart_pref trend_thickness='0' line_thickness='3' point_size='0'/>
+
+   <series_color>
+      <color>ffff00</color>
+   </series_color>
+
+   <chart_rect x='45' y='20' width='630' height='230' positive_color='cacaca'  />
+
+  <chart_border top_thickness='0'
+                 bottom_thickness='0'
+                 left_thickness='0'
+                 right_thickness='0'
+                 color='000000'
+                 />
+
+   <tooltip font='Arial' bold='true' size='11' />
+
+   <chart_note type='flag'
+               color='000000'
+               alpha='90'
+               bold='FALSE'
+               size='10'
+               background_color='ffffe0'
+               background_alpha='50'
+               shadow='shadow2'
+               />
+
+   <chart_grid_h thickness='2' color='ffffff' type='dashed'  />
+   <chart_grid_v thickness='2' color='ffffff'   />
+		>
+
+   <legend layout='hide' />
+
+   <chart_guide horizontal='TRUE'
+             vertical='TRUE'
+             thickness='1'
+             color='006400'
+             alpha='100'
+             type='solid'
+             snap_h='TRUE'
+             snap_v='TRUE'
+             radius='3'
+             fill_color='006400'
+             fill_alpha='100'
+             line_color='006400'
+             line_alpha='80'
+             line_thickness='1'
+             text_h_alpha='50'
+             text_v_alpha='00'
+             suffix_h=' WP'
+             decimals='2'
+             bold='FALSE'
+             size='11'
+             text_color='FFFFFF'
+             background_color='006400'
+             />
+   <filter>
+      <shadow id='shadow1' distance='2' angle='60' blurX='5' blurY='5' alpha='50' />
+      <bevel id='bevel1' angle='45' blurX='5' blurY='5' distance='0' />
+      <glow id='glow1' color='ffffff' alpha='0' blurX='7' blurY='7' strength='6' quality='2' inner='FALSE' knockout='FALSE' />
+      <glow id='winnerglow' color='ffffff' alpha='0' blurX='7' blurY='7' strength='5' quality='2' inner='FALSE' knockout='FALSE' />
+   </filter>
+
+    <axis_value_label>
+         <string></string>
+          <string> </string>
+          <null/>
+          <string> </string>
+          <string></string>
+
+       </axis_value_label>
+		
+	   <axis_ticks category_ticks='false'/>
+
+       <axis_value min='0' max='1' steps='4'  decimals='2' show_min='true' size='13' shadow='shadow2' />     
+            <axis_category
+               min='0'
+               max='60'
+               steps='4'
+               mode='all'
+               decimals='0'
+               size='13'
+               shadow='shadow2'
+               />
+
+       <axis_category_label>
+          <string>Kickoff</string>
+          <string></string>
+          <string>Halftime</string>
+          <string></string>
+          <string>End</string>
+
+       </axis_category_label>
+
+
+        <chart_data>
+       <row>
+	      <null/><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number>
+              <number>x</number><number>y</number>
+              </row><row><string></string>
+
+                     <number shadow='shadow1'>0</number><number>.5</number><number shadow='shadow1' tooltip='15:00 GB 0 SF 0 LI: 9-P.Dawson kicks 72 yards from SF 35 to GB -710-J.Ross Touchback.'>0.09</number><number>0.52</number>
+<number shadow='shadow1' tooltip='14:27 2-9-GB 21GB 0 SF 0 LI: 1.4(Shotgun) 12-A.Rodgers sacked at GB 13 for -8 yards(99-A.Smith).'>0.55</number><number>0.46</number>
+<number shadow='shadow1' tooltip='13:59 3-17-GB 13GB 0 SF 0 LI: 1.3(Shotgun) 12-A.Rodgers pass short right to 88-J.Finley to GB 22 for 9 yards(52-P.Willis)Caught at GB15 7-yds YAC'>1.02</number><number>0.45</number>
+<number shadow='shadow1' tooltip='13:29 4-8-GB 22GB 0 SF 0 LI: 0.98-T.Masthay punts 51 yards to SF 27 Center-61-B.Goode fair catch by 10-K.Williams.'>1.52</number><number>0.47</number>
+<number shadow='shadow1' tooltip='13:20 1-10-SF 27GB 0 SF 0 LI: 1.57-C.Kaepernick pass incomplete short left to 10-K.Williams.'>1.67</number><number>0.49</number>
+<number shadow='shadow1' tooltip='13:19 2-10-SF 27GB 0 SF 0 LI: 1.3(Shotgun) 7-C.Kaepernick pass incomplete short left to 85-V.Davis (38-T.Williams).'>1.68</number><number>0.51</number>
+<number shadow='shadow1' tooltip='13:14 3-10-SF 27GB 0 SF 0 LI: 1.1(Shotgun) 7-C.Kaepernick scrambles left end pushed ob at SF 35 for 8 yards(38-T.Williams).'>1.77</number><number>0.53</number>
+<number shadow='shadow1' tooltip='12:54 4-2-SF 35GB 0 SF 0 LI: 0.74-A.Lee punts 56 yards to GB 9 Center-47-K.McDermott10-J.Ross to GB 18 for 9 yards(35-E.Reid).'>2.1</number><number>0.51</number>
+<number shadow='shadow1' tooltip='12:42 1-10-GB 18GB 0 SF 0 LI: 1.627-E.Lacy left tackle to GB 15 for -3 yards(91-R.McDonald).'>2.3</number><number>0.48</number>
+<number shadow='shadow1' tooltip='12:02 2-13-GB 15GB 0 SF 0 LI: 1.3(Shotgun) 12-A.Rodgers pass short left to 88-J.Finley ran ob at GB 24 for 9 yardsCaught at GB 15 9-yds YAC'>2.97</number><number>0.5</number>
+<number shadow='shadow1' tooltip='11:40 3-4-GB 24GB 0 SF 0 LI: 1.3(Shotgun) 12-A.Rodgers pass deep middle to 18-R.Cobb to GB 42 for 18 yards(31-D.Whitner)Caught at GB 41 1-yd YAC'>3.33</number><number>0.55</number>
+<number shadow='shadow1' tooltip='11:03 1-10-GB 42GB 0 SF 0 LI: 1.427-E.Lacy up the middle to GB 43 for 1 yard(52-P.Willis 99-A.Smith).'>3.95</number><number>0.54</number>
+<number shadow='shadow1' tooltip='10:35 2-9-GB 43GB 0 SF 0 LI: 1.2(Shotgun) 27-E.Lacy left tackle to GB 45 for 2 yards(52-P.Willis).'>4.42</number><number>0.52</number>
+<number shadow='shadow1' tooltip='10:03 3-7-GB 45GB 0 SF 0 LI: 1(Shotgun) 12-A.Rodgers pass incomplete short right to 27-E.Lacy.'>4.95</number><number>0.48</number>
+<number shadow='shadow1' tooltip='9:57 4-7-GB 45GB 0 SF 0 LI: 0.68-T.Masthay punts 38 yards to SF 17 Center-61-B.Goode fair catch by 10-K.Williams.'>5.05</number><number>0.49</number>
+<number shadow='shadow1' tooltip='9:51 1-10-SF 17GB 0 SF 0 LI: 1.6(Shotgun) 32-K.Hunter left guard to SF 10 for -7 yards(52-C.Matthews).'>5.15</number><number>0.53</number>
+<number shadow='shadow1' tooltip='9:10 2-17-SF 10GB 0 SF 0 LI: 1.4(Shotgun) 7-C.Kaepernick pass short right to 85-V.Davis to SF 22 for 12 yards(50-A.Hawk 37-S.Shields)Caught at SF 17 5-yds YAC'>5.83</number><number>0.51</number>
+<number shadow='shadow1' tooltip='8:30 3-5-SF 22GB 0 SF 0 LI: 1.3(Shotgun) 7-C.Kaepernick pass short middle to 81-A.Boldin to SF 31 for 9 yards(33-M.Hyde 38-T.Williams)Caught at SF 30 1-yd YAC'>6.5</number><number>0.46</number>
+<number shadow='shadow1' tooltip='7:58 1-10-SF 31GB 0 SF 0 LI: 1.57-C.Kaepernick pass short middle to 89-V.McDonald to GB 44 for 25 yards(43-M.Jennings)Caught at SF 41 15-yds YAC'>7.03</number><number>0.42</number>
+<number shadow='shadow1' tooltip='7:16 1-10-GB 44GB 0 SF 0 LI: 1.4(Shotgun) 21-F.Gore up the middle to GB 42 for 2 yards(79-R.Pickett 50-A.Hawk).'>7.73</number><number>0.43</number>
+<number shadow='shadow1' tooltip='6:37 2-8-GB 42GB 0 SF 0 LI: 1.2(Shotgun) 7-C.Kaepernick pass short right to 49-B.Miller to GB 35 for 7 yards(43-M.Jennings)Caught at GB 40 5-yds YAC'>8.38</number><number>0.41</number>
+<number shadow='shadow1' tooltip='6:06 3-1-GB 35GB 0 SF 0 LI: 1.321-F.Gore right guard to GB 33 for 2 yards(59-B.Jones).'>8.9</number><number>0.39</number>
+<number shadow='shadow1' tooltip='5:36 1-10-GB 33GB 0 SF 0 LI: 1.57-C.Kaepernick pass short left to 10-K.Williams to GB 27 for 6 yards(59-B.Jones)Caught at GB 29 2-yds YAC'>9.4</number><number>0.38</number>
+<number shadow='shadow1' tooltip='5:03 2-4-GB 27GB 0 SF 0 LI: 1.5(Shotgun) 32-K.Hunter right guard to GB 25 for 2 yards(90-B.Raji).'>9.95</number><number>0.39</number>
+<number shadow='shadow1' tooltip='4:22 3-2-GB 25GB 0 SF 0 LI: 1.4(Shotgun) 32-K.Hunter up the middle to GB 22 for 3 yards(53-N.Perry).'>10.63</number><number>0.36</number>
+<number shadow='shadow1' tooltip='3:46 1-10-GB 22GB 0 SF 0 LI: 1.6(Shotgun) 7-C.Kaepernick pass incomplete deep right to 81-A.Boldin.'>11.23</number><number>0.38</number>
+<number shadow='shadow1' tooltip='3:37 2-10-GB 22GB 0 SF 0 LI: 1.4(Shotgun) 21-F.Gore up the middle to GB 20 for 2 yards(59-B.Jones 50-A.Hawk).'>11.38</number><number>0.39</number>
+<number shadow='shadow1' tooltip='2:58 3-8-GB 20GB 0 SF 0 LI: 1.3(Shotgun) 7-C.Kaepernick pass deep right to 85-V.Davis for 20 yards TOUCHDOWN.'>12.03</number><number>0.29</number>
+<number shadow='shadow1' tooltip='2:58 GB 0 SF 0 LI: 9-P.Dawson extra point is GOOD Center-47-K.McDermott Holder-4-A.Lee.'>12.07</number><number>0.29</number>
+<number shadow='shadow1' tooltip='2:58 GB 0 SF 7 LI: 9-P.Dawson kicks 65 yards from SF 35 to end zone Touchback.'>12.12</number><number>0.28</number>
+<number shadow='shadow1' tooltip='2:52 1-10-GB 20GB 0 SF 7 LI: 1.5(Shotgun) 12-A.Rodgers pass short right to 18-R.Cobb to GB 33 for 13 yards(31-D.Whitner)Caught at GB 27 6-yds YAC'>12.13</number><number>0.3</number>
+<number shadow='shadow1' tooltip='2:17 1-10-GB 33GB 0 SF 7 LI: 1.4(Shotgun) 12-A.Rodgers pass deep right to 87-J.Nelson to SF 36 for 31 yards(35-E.Reid)Caught at SF 38 2-yds YAC'>12.72</number><number>0.35</number>
+<number shadow='shadow1' tooltip='1:57 1-10-SF 36GB 0 SF 7 LI: 1.1(No Huddle) 12-A.Rodgers pass incomplete deep right to 87-J.Nelson.'>13.05</number><number>0.34</number>
+<number shadow='shadow1' tooltip='1:53 2-10-SF 36GB 0 SF 7 LI: 1(Shotgun) 12-A.Rodgers pass short left to 27-E.Lacy to SF 5 for 31 yards(31-D.Whitner)Caught at SF 38 33-yds YAC'>13.12</number><number>0.45</number>
+<number shadow='shadow1' tooltip='1:18 1-5-SF 5GB 0 SF 7 LI: 1.4(Shotgun) 12-A.Rodgers pass incomplete short right to 18-R.Cobb.'>13.7</number><number>0.44</number>
+<number shadow='shadow1' tooltip='1:11 2-5-SF 5GB 0 SF 7 LI: 1.3(Shotgun) 12-A.Rodgers pass short right to 18-R.Cobb for 5 yards TOUCHDOWNCaught at SF 3 3-yds YAC'>13.82</number><number>0.47</number>
+<number shadow='shadow1' tooltip='1:11 GB 0 SF 7 LI: 2-M.Crosby extra point is GOOD Center-61-B.Goode Holder-8-T.Masthay.'>13.86</number><number>0.47</number>
+<number shadow='shadow1' tooltip='1:11 GB 7 SF 7 LI: 8-T.Masthay kicks 70 yards from GB 35 to SF -520-P.Cox to SF 25 for 30 yards(8-T.Masthay).'>13.91</number><number>0.47</number>
+<number shadow='shadow1' tooltip='0:58 1-10-SF 25GB 7 SF 7 LI: 1.6(Shotgun) 21-F.Gore right guard to SF 28 for 3 yards(79-R.Pickett 50-A.Hawk).'>14.03</number><number>0.48</number>
+<number shadow='shadow1' tooltip='0:19 2-7-SF 28GB 7 SF 7 LI: 1.4(Shotgun) PENALTY on SF-59-J.Goodwin False Start 5 yards enforced at SF 28 - No Play.'>14.68</number><number>0.5</number>
+<number shadow='shadow1' tooltip='15:00 2-12-SF 23GB 7 SF 7 LI: 1.3(Shotgun) 7-C.Kaepernick pass short right to 81-A.Boldin to SF 30 for 7 yards(22-J.McMillian)Caught at SF 27 3-yds YAC'>15</number><number>0.5</number>
+<number shadow='shadow1' tooltip='14:21 3-5-SF 30GB 7 SF 7 LI: 1.2(Shotgun) 7-C.Kaepernick pass deep middle to 81-A.Boldin to GB 48 for 22 yards(22-J.McMillian)Caught at SF 466-yds YAC'>15.65</number><number>0.43</number>
+<number shadow='shadow1' tooltip='13:37 1-10-GB 48GB 7 SF 7 LI: 1.3(Shotgun) 7-C.Kaepernick pass incomplete deep right to 10-K.Williams.'>16.38</number><number>0.45</number>
+<number shadow='shadow1' tooltip='13:31 2-10-GB 48GB 7 SF 7 LI: 1.1(Shotgun) 7-C.Kaepernick pass short right to 81-A.Boldin to GB 45 for 3 yards(50-A.Hawk 37-S.Shields)Caught at GB 48 3-yds YAC'>16.48</number><number>0.47</number>
+<number shadow='shadow1' tooltip='12:42 3-7-GB 45GB 7 SF 7 LI: 0.9(Shotgun) 7-C.Kaepernick scrambles left end to GB 43 for 2 yards(52-C.Matthews 96-M.Neal).'>17.3</number><number>0.5</number>
+<number shadow='shadow1' tooltip='12:05 4-5-GB 43GB 7 SF 7 LI: 0.54-A.Lee punts 43 yards to end zone Center-47-K.McDermott Touchback.'>17.92</number><number>0.52</number>
+<number shadow='shadow1' tooltip='11:57 1-10-GB 20GB 7 SF 7 LI: 1.527-E.Lacy left tackle to GB 30 for 10 yards(94-J.Smith)PENALTY on GB-71-J.Sitton Illegal Use of Hands 10 yards enforced at GB 20 - No Play.'>18.05</number><number>0.5</number>
+<number shadow='shadow1' tooltip='11:24 1-20-GB 10GB 7 SF 7 LI: 1.827-E.Lacy to GB 13 for 3 yards(53-N.Bowman)FUMBLES (53-N.Bowman) RECOVERED by SF-25-T.Brown at GB 141-yd of loose ball yardage.'>18.6</number><number>0.32</number>
+<number shadow='shadow1' tooltip='11:15 1-10-GB 14GB 7 SF 7 LI: 1.87-C.Kaepernick pass short right to 21-F.Gore pushed ob at GB 6 for 8 yards(50-A.Hawk)Caught at GB 11 5-yds YAC'>18.75</number><number>0.31</number>
+<number shadow='shadow1' tooltip='10:41 2-2-GB 6GB 7 SF 7 LI: 1.9(Shotgun) 21-F.Gore left guard to GB 5 for 1 yard(50-A.Hawk 59-B.Jones).'>19.32</number><number>0.31</number>
+<number shadow='shadow1' tooltip='9:57 3-1-GB 5GB 7 SF 7 LI: 1.9A.Snyder reports as eligible receiver21-F.Gore right guard to GB 5 for no gain (79-R.Pickett)PENALTY on SF-68-A.Snyder Illegal Formation 5 yards enforced at GB 5 - No Play.'>20.05</number><number>0.35</number>
+<number shadow='shadow1' tooltip='9:30 3-6-GB 10GB 7 SF 7 LI: 1.5(Shotgun) 7-C.Kaepernick scrambles left end ran ob at GB 6 for 4 yards(52-C.Matthews).'>20.5</number><number>0.35</number>
+<number shadow='shadow1' tooltip='9:02 3-6-GB 10GB 7 SF 7 LI: 1.5(Shotgun) 7-C.Kaepernick pass short middle to 81-A.Boldin for 10 yards TOUCHDOWNCaught at GB 7 7-yds YAC'>20.97</number><number>0.28</number>
+<number shadow='shadow1' tooltip='9:02 GB 7 SF 7 LI: 9-P.Dawson extra point is GOOD Center-47-K.McDermott Holder-4-A.Lee.'>21.01</number><number>0.28</number>
+<number shadow='shadow1' tooltip='9:02 GB 7 SF 14 LI: 9-P.Dawson kicks 67 yards from SF 35 to GB -210-J.Ross to GB 8 for 10 yards(43-C.Dahl).'>21.06</number><number>0.27</number>
+<number shadow='shadow1' tooltip='8:50 1-10-GB 4GB 7 SF 14 LI: 1.412-A.Rodgers pass incomplete short right to 87-J.Nelson.'>21.17</number><number>0.23</number>
+<number shadow='shadow1' tooltip='8:46 2-10-GB 4GB 7 SF 14 LI: 1(Shotgun) 12-A.Rodgers pass short right to 44-J.Starks ran ob at GB 12 for 8 yardsCaught at GB 48-yds YAC'>21.23</number><number>0.24</number>
+<number shadow='shadow1' tooltip='8:14 3-2-GB 12GB 7 SF 14 LI: 1.1(Shotgun) 12-A.Rodgers pass incomplete short right to 89-J.Jones (28-N.Asomugha).'>21.77</number><number>0.21</number>
+<number shadow='shadow1' tooltip='8:09 4-2-GB 12GB 7 SF 14 LI: 0.88-T.Masthay punts 45 yards to SF 43 Center-61-B.Goode out of bounds.'>21.85</number><number>0.22</number>
+<number shadow='shadow1' tooltip='8:01 1-10-SF 43GB 7 SF 14 LI: 1.1(Shotgun) 7-C.Kaepernick pass incomplete deep right to 85-V.Davis.'>21.98</number><number>0.23</number>
+<number shadow='shadow1' tooltip='7:56 2-10-SF 43GB 7 SF 14 LI: 17-C.Kaepernick sacked at SF 41 for -2 yards(97-J.Jolly).'>22.07</number><number>0.26</number>
+<number shadow='shadow1' tooltip='7:18 3-12-SF 41GB 7 SF 14 LI: 0.7(Shotgun) PENALTY on SF-7-C.Kaepernick Delay of Game 5 yards enforced at SF 41 - No Play.'>22.7</number><number>0.27</number>
+<number shadow='shadow1' tooltip='6:55 3-17-SF 36GB 7 SF 14 LI: 0.7(Shotgun) 7-C.Kaepernick pass incomplete deep right to 81-A.Boldin.'>23.08</number><number>0.28</number>
+<number shadow='shadow1' tooltip='6:45 4-17-SF 36GB 7 SF 14 LI: 0.64-A.Lee punts 41 yards to GB 23 Center-47-K.McDermott fair catch by 10-J.RossPENALTY on GB Offensive Holding 10 yards enforced at GB 23.'>23.25</number><number>0.26</number>
+<number shadow='shadow1' tooltip='6:39 1-10-GB 13GB 7 SF 14 LI: 1.3(Shotgun) 18-R.Cobb right tackle to GB 16 for 3 yards(53-N.Bowman 91-R.McDonald).'>23.35</number><number>0.25</number>
+<number shadow='shadow1' tooltip='6:13 2-7-GB 16GB 7 SF 14 LI: 1(No Huddle Shotgun) 12-A.Rodgers pass short left to 87-J.Nelson to GB 24 for 8 yards(25-T.Brown)Caught at GB 22 2-yds YAC'>23.78</number><number>0.28</number>
+<number shadow='shadow1' tooltip='5:46 1-10-GB 24GB 7 SF 14 LI: 1.2(No Huddle Shotgun) PENALTY on SF-99-A.Smith Neutral Zone Infraction 5 yards enforced at GB 24 - No Play.'>24.23</number><number>0.28</number>
+<number shadow='shadow1' tooltip='5:26 1-5-GB 29GB 7 SF 14 LI: 1.1(Shotgun) 12-A.Rodgers pass short left to 87-J.Nelson to SF 49 for 22 yards(31-D.Whitner)Caught at GB 31  22-yds YAC'>24.57</number><number>0.32</number>
+<number shadow='shadow1' tooltip='5:00 1-10-SF 49GB 7 SF 14 LI: 1.144-J.Starks left tackle to SF 42 for 7 yards(52-P.Willis)PENALTY on GB-71-J.Sitton Offensive Holding 10 yards enforced at SF 49 - No Play.'>25</number><number>0.3</number>
+<number shadow='shadow1' tooltip='4:33 1-20-GB 41GB 7 SF 14 LI: 1.1(Shotgun) 12-A.Rodgers pass short middle intended for 88-J.Finley INTERCEPTED by 35-E.Reid at SF 4435-E.Reid to SF 44 for no gain (88-J.Finley).'>25.45</number><number>0.21</number>
+<number shadow='shadow1' tooltip='4:28 1-10-SF 44GB 7 SF 14 LI: 1.1A.Snyder reported as eligible21-F.Gore left end to SF 44 for no gain (90-B.Raji).'>25.53</number><number>0.23</number>
+<number shadow='shadow1' tooltip='3:46 2-10-SF 44GB 7 SF 14 LI: 0.9(Shotgun) 7-C.Kaepernick pass deep left to 81-A.Boldin pushed ob at GB 34 for 22 yards(22-J.McMillian)Caught at GB 39 5-yds YAC'>26.23</number><number>0.18</number>
+<number shadow='shadow1' tooltip='3:13 1-10-GB 34GB 7 SF 14 LI: 1.1(Shotgun) 21-F.Gore right tackle to GB 36 for -2 yards(43-M.Jennings).'>26.78</number><number>0.21</number>
+<number shadow='shadow1' tooltip='2:33 2-12-GB 36GB 7 SF 14 LI: 0.8(Shotgun) 7-C.Kaepernick sacked at GB 42 for -6 yards(52-C.Matthews).'>27.45</number><number>0.24</number>
+<number shadow='shadow1' tooltip='2:00 3-18-GB 42GB 7 SF 14 LI: 0.6(Shotgun) 7-C.Kaepernick pass short middle to 85-V.Davis to GB 30 for 12 yards(43-M.Jennings 33-M.Hyde)Caught at GB 30 0-yds YAC'>28</number><number>0.23</number>
+<number shadow='shadow1' tooltip='1:37 4-6-GB 30GB 7 SF 14 LI: 0.69-P.Dawson 48 yard field goal is No Good Wide Left Center-47-K.McDermott Holder-4-A.Lee.'>28.38</number><number>0.3</number>
+<number shadow='shadow1' tooltip='1:32 1-10-GB 38GB 7 SF 14 LI: 1.1(Shotgun) 12-A.Rodgers pass short left to 88-J.Finley to SF 49 for 13 yards(31-D.Whitner)PENALTY on SF-55-A.Brooks Roughing the Passer 15 yards enforced at SF 49Caught at GB 37 14-yd YAC'>28.47</number><number>0.34</number>
+<number shadow='shadow1' tooltip='1:24 1-10-SF 34GB 7 SF 14 LI: 1.1(Shotgun) 12-A.Rodgers pass incomplete deep right to 89-J.Jones [99-A.Smith].'>28.6</number><number>0.32</number>
+<number shadow='shadow1' tooltip='1:19 2-10-SF 34GB 7 SF 14 LI: 0.9(Shotgun) 30-J.Kuhn left tackle to SF 30 for 4 yards(53-N.Bowman)PENALTY on GB-71-J.Sitton Offensive Holding 10 yards enforced at SF 34 - No Play.'>28.68</number><number>0.28</number>
+<number shadow='shadow1' tooltip='1:14 2-20-SF 44GB 7 SF 14 LI: 0.7(Shotgun) 12-A.Rodgers pass incomplete short right to 18-R.Cobb.'>28.77</number><number>0.26</number>
+<number shadow='shadow1' tooltip='1:08 3-20-SF 44GB 7 SF 14 LI: 0.5(Shotgun) 12-A.Rodgers pass deep middle intended for 18-R.Cobb INTERCEPTED by 35-E.Reid [91-R.McDonald] at SF 0TouchbackPENALTY on SF-99-A.Smith Defensive Offside 5 yards enforced at SF 44 - No Play.'>28.87</number><number>0.28</number>
+<number shadow='shadow1' tooltip='0:58 3-15-SF 39GB 7 SF 14 LI: 0.6(Shotgun) 12-A.Rodgers pass short right to 87-J.Nelson pushed ob at SF 24 for 15 yards(31-D.Whitner)Caught at SF 33 9-yds YAC'>29.03</number><number>0.36</number>
+<number shadow='shadow1' tooltip='0:52 1-10-SF 24GB 7 SF 14 LI: 1.2(Shotgun) 12-A.Rodgers pass short right to 87-J.Nelson to SF 15 for 9 yards(35-E.Reid)Caught at SF  15 0-yds YAC'>29.13</number><number>0.45</number>
+<number shadow='shadow1' tooltip='0:44 2-1-SF 15GB 7 SF 14 LI: 2(Shotgun) 12-A.Rodgers pass incomplete short left to 18-R.Cobb.'>29.27</number><number>0.44</number>
+<number shadow='shadow1' tooltip='0:39 3-1-SF 15GB 7 SF 14 LI: 1.9(Shotgun) 30-J.Kuhn right guard to SF 12 for 3 yards(55-A.Brooks).'>29.35</number><number>0.43</number>
+<number shadow='shadow1' tooltip='0:21 1-10-SF 12GB 7 SF 14 LI: 1.812-A.Rodgers pass short right to 88-J.Finley for 12 yards TOUCHDOWNCaught at SF 11 11-yds YAC'>29.65</number><number>0.47</number>
+<number shadow='shadow1' tooltip='0:21 GB 7 SF 14 LI: 2-M.Crosby extra point is GOOD Center-61-B.Goode Holder-8-T.Masthay.'>29.69</number><number>0.47</number>
+<number shadow='shadow1' tooltip='0:21 GB 14 SF 14 LI: 8-T.Masthay kicks 55 yards from GB 35 to SF 1024-A.Dixon to SF 40 for 30 yards(31-D.House).'>29.74</number><number>0.45</number>
+<number shadow='shadow1' tooltip='0:09 1-10-SF 40GB 14 SF 14 LI: 1.4(Shotgun) 7-C.Kaepernick pass short right to 10-K.Williams ran ob at GB 46 for 14 yardsCaught at GB 46 0-yds YAC'>29.85</number><number>0.42</number>
+<number shadow='shadow1' tooltip='0:03 1-10-GB 46GB 14 SF 14 LI: 1.4(Shotgun) 7-C.Kaepernick pass incomplete deep middle to 85-V.Davis (32-C.Banjo).'>29.95</number><number>0.53</number>
+<number shadow='shadow1' tooltip='0:03 GB 14 SF 14 LI: 8-T.Masthay kicks 65 yards from GB 35 to end zone Touchback.'>30.04</number><number>0.48</number>
+<number shadow='shadow1' tooltip='14:36 2-6-SF 24GB 14 SF 14 LI: 1.4(Shotgun) PENALTY on SF-74-J.Staley False Start 5 yards enforced at SF 24 - No Play.'>30.4</number><number>0.51</number>
+<number shadow='shadow1' tooltip='14:04 2-11-SF 19GB 14 SF 14 LI: 1.3(Shotgun) 32-K.Hunter up the middle to SF 21 for 2 yards(53-N.Perry).'>30.93</number><number>0.52</number>
+<number shadow='shadow1' tooltip='13:26 3-9-SF 21GB 14 SF 14 LI: 1.1(Shotgun) 7-C.Kaepernick pass deep right to 81-A.Boldin to SF 43 for 22 yards(22-J.McMillian)Caught at SF 41 2-yds YAC'>31.57</number><number>0.45</number>
+<number shadow='shadow1' tooltip='12:41 1-10-SF 43GB 14 SF 14 LI: 1.3(No Huddle Shotgun) 7-C.Kaepernick pass short left to 81-A.Boldin to GB 48 for 9 yards(59-B.Jones)Measurement for the 1st Down Caught at GB 48 0-yds YAC'>32.32</number><number>0.44</number>
+<number shadow='shadow1' tooltip='12:19 2-1-GB 48GB 14 SF 14 LI: 1.2D.Kilgore and A.Snyder reported as eligible21-F.Gore right guard to GB 46 for 2 yards(96-M.Neal).'>32.68</number><number>0.43</number>
+<number shadow='shadow1' tooltip='11:45 1-10-GB 46GB 14 SF 14 LI: 1.3(Shotgun) 7-C.Kaepernick pass deep right to 81-A.Boldin to GB 16 for 30 yards(37-S.Shields)Caught at GB 17 1-yd YAC'>33.25</number><number>0.36</number>
+<number shadow='shadow1' tooltip='10:58 1-10-GB 16GB 14 SF 14 LI: 1.5(Shotgun) 21-F.Gore right guard to GB 11 for 5 yards(37-S.Shields 43-M.Jennings).'>34.03</number><number>0.29</number>
+<number shadow='shadow1' tooltip='10:16 2-5-GB 11GB 14 SF 14 LI: 2.1(Shotgun) 7-C.Kaepernick pass short left to 81-A.Boldin pushed ob at GB 2 for 9 yards(22-J.McMillian)Caught at GB 5 3-yds YAC'>34.73</number><number>0.28</number>
+<number shadow='shadow1' tooltip='9:49 1-2-GB 2GB 14 SF 14 LI: 2.2D.Kilgore and A.Snyder reported as eligible7-C.Kaepernick pass short right to 85-V.Davis for 2 yards TOUCHDOWNCaught at GB 0 0-yds YAC'>35.18</number><number>0.26</number>
+<number shadow='shadow1' tooltip='9:49 GB 14 SF 14 LI: 9-P.Dawson extra point is GOOD Center-47-K.McDermott Holder-4-A.Lee.'>35.22</number><number>0.26</number>
+<number shadow='shadow1' tooltip='9:49 GB 14 SF 21 LI: 9-P.Dawson kicks 60 yards from SF 35 to GB 510-J.Ross to GB 22 for 17 yards(51-D.Skuta).'>35.27</number><number>0.25</number>
+<number shadow='shadow1' tooltip='9:40 1-10-GB 22GB 14 SF 21 LI: 127-E.Lacy left end to GB 22 for no gain (53-N.Bowman 99-A.Smith).'>35.33</number><number>0.24</number>
+<number shadow='shadow1' tooltip='9:01 2-10-GB 22GB 14 SF 21 LI: 0.927-E.Lacy up the middle to GB 24 for 2 yards(93-I.Williams).'>35.98</number><number>0.23</number>
+<number shadow='shadow1' tooltip='8:24 3-8-GB 24GB 14 SF 21 LI: 0.8(Shotgun) 12-A.Rodgers pass short right to 18-R.Cobb to GB 27 for 3 yards(35-E.Reid)Caught at GB 24 3-yds YAC'>36.6</number><number>0.22</number>
+<number shadow='shadow1' tooltip='7:53 4-5-GB 27GB 14 SF 21 LI: 0.78-T.Masthay punts 45 yards to SF 28 Center-61-B.Goode10-K.Williams to SF 35 for 7 yards(31-D.House).'>37.12</number><number>0.22</number>
+<number shadow='shadow1' tooltip='7:41 1-10-SF 35GB 14 SF 21 LI: 1.2(Shotgun) 21-F.Gore up the middle to SF 40 for 5 yards(50-A.Hawk).'>37.32</number><number>0.2</number>
+<number shadow='shadow1' tooltip='6:57 2-5-SF 40GB 14 SF 21 LI: 1.2(Shotgun) 7-C.Kaepernick pass incomplete short middle to 89-V.McDonald.'>38.05</number><number>0.21</number>
+<number shadow='shadow1' tooltip='6:53 3-5-SF 40GB 14 SF 21 LI: 1.1(Shotgun) 7-C.Kaepernick pass incomplete short left to 19-M.Moore.'>38.12</number><number>0.24</number>
+<number shadow='shadow1' tooltip='6:49 4-5-SF 40GB 14 SF 21 LI: 0.8(Punt formation) PENALTY on SF-26-T.Brock False Start 5 yards enforced at SF 40 - No Play.'>38.18</number><number>0.25</number>
+<number shadow='shadow1' tooltip='6:37 1-10-GB 31GB 14 SF 21 LI: 127-E.Lacy up the middle to GB 34 for 3 yards(90-G.Dorsey).'>38.38</number><number>0.26</number>
+<number shadow='shadow1' tooltip='6:07 2-7-GB 34GB 14 SF 21 LI: 127-E.Lacy left tackle to GB 40 for 6 yards(52-P.Willis).'>38.88</number><number>0.26</number>
+<number shadow='shadow1' tooltip='5:27 3-1-GB 40GB 14 SF 21 LI: 0.9(Shotgun) 12-A.Rodgers scrambles left end pushed ob at GB 46 for 6 yards(53-N.Bowman)PENALTY on SF-53-N.Bowman Unsportsmanlike Conduct 15 yards enforced at GB 46.'>39.55</number><number>0.32</number>
+<number shadow='shadow1' tooltip='5:06 1-10-SF 39GB 14 SF 21 LI: 1.2(Shotgun) 12-A.Rodgers pass short right to 18-R.Cobb to SF 26 for 13 yards(35-E.Reid)Caught at SF 28 2-yds YAC'>39.9</number><number>0.35</number>
+<number shadow='shadow1' tooltip='4:33 1-10-SF 26GB 14 SF 21 LI: 1.4(Shotgun) 12-A.Rodgers pass incomplete deep left to 88-J.Finley (31-D.Whitner).'>40.45</number><number>0.35</number>
+<number shadow='shadow1' tooltip='4:24 2-10-SF 26GB 14 SF 21 LI: 1.412-A.Rodgers pass short middle to 18-R.Cobb to SF 8 for 18 yards(35-E.Reid)Caught at SF 11 3-yds YAC'>40.6</number><number>0.42</number>
+<number shadow='shadow1' tooltip='3:52 1-8-SF 8GB 14 SF 21 LI: 1.9(No Huddle) 12-A.Rodgers pass short right to 87-J.Nelson for 8 yards TOUCHDOWNCaught at SF 0 0-yds YAC'>41.13</number><number>0.47</number>
+<number shadow='shadow1' tooltip='3:52 GB 14 SF 21 LI: 2-M.Crosby extra point is GOOD Center-61-B.Goode Holder-8-T.Masthay.'>41.17</number><number>0.47</number>
+<number shadow='shadow1' tooltip='3:52 GB 21 SF 21 LI: 8-T.Masthay kicks 65 yards from GB 35 to end zone Touchback.'>41.22</number><number>0.48</number>
+<number shadow='shadow1' tooltip='3:18 1-10-SF 36GB 21 SF 21 LI: 1.6(Shotgun) 21-F.Gore right guard to SF 37 for 1 yard(90-B.Raji).'>41.7</number><number>0.46</number>
+<number shadow='shadow1' tooltip='2:37 2-9-SF 37GB 21 SF 21 LI: 1.5(Shotgun) 7-C.Kaepernick pass deep middle to 85-V.Davis to GB 26 for 37 yards(43-M.Jennings)Caught at GB 31 5-yds YAC'>42.38</number><number>0.36</number>
+<number shadow='shadow1' tooltip='1:48 1-10-GB 26GB 21 SF 21 LI: 1.7(Shotgun) 32-K.Hunter up the middle to GB 25 for 1 yard(52-C.Matthews).'>43.2</number><number>0.33</number>
+<number shadow='shadow1' tooltip='1:16 2-9-GB 25GB 21 SF 21 LI: 27-C.Kaepernick pass incomplete deep right to 81-A.Boldin.'>43.73</number><number>0.37</number>
+<number shadow='shadow1' tooltip='1:12 3-9-GB 25GB 21 SF 21 LI: 1.6(Shotgun) 7-C.Kaepernick scrambles left end pushed ob at GB 10 for 15 yards(37-S.Shields).'>43.8</number><number>0.26</number>
+<number shadow='shadow1' tooltip='0:47 1-10-GB 10GB 21 SF 21 LI: 2.4A.Snyder reported as eligible(Shotgun) 7-C.Kaepernick pass incomplete short right to 81-A.Boldin (37-S.Shields).'>44.22</number><number>0.29</number>
+<number shadow='shadow1' tooltip='0:43 2-10-GB 10GB 21 SF 21 LI: 2.1(Shotgun) 7-C.Kaepernick left end to GB 17 for -7 yards(52-C.Matthews).'>44.28</number><number>0.38</number>
+<number shadow='shadow1' tooltip='0:12 3-17-GB 17GB 21 SF 21 LI: 1.3(Shotgun) PENALTY on SF-59-J.Goodwin False Start 5 yards enforced at GB 17 - No Play.'>44.8</number><number>0.4</number>
+<number shadow='shadow1' tooltip='15:00 3-22-GB 22GB 21 SF 21 LI: 1.3(Shotgun) 7-C.Kaepernick pass short middle to 21-F.Gore to GB 9 for 13 yards(33-M.Hyde 59-B.Jones)Caught at GB 18 9-yds YAC'>45</number><number>0.39</number>
+<number shadow='shadow1' tooltip='14:21 4-9-GB 9GB 21 SF 21 LI: 1.19-P.Dawson 27 yard field goal is GOOD Center-47-K.McDermott Holder-4-A.Lee.'>45.65</number><number>0.39</number>
+<number shadow='shadow1' tooltip='14:21 GB 21 SF 24 LI: 9-P.Dawson kicks 73 yards from SF 35 to GB -810-J.Ross Touchback.'>45.74</number><number>0.37</number>
+<number shadow='shadow1' tooltip='13:44 2-7-GB 23GB 21 SF 24 LI: 1.512-A.Rodgers sacked at GB 20 for -3 yards(sack split by 91-R.McDonald and 99-A.Smith).'>46.27</number><number>0.34</number>
+<number shadow='shadow1' tooltip='13:11 3-10-GB 20GB 21 SF 24 LI: 1.3(Shotgun) 12-A.Rodgers pass incomplete short middle to 88-J.Finley (53-N.Bowman).'>46.82</number><number>0.3</number>
+<number shadow='shadow1' tooltip='13:09 4-10-GB 20GB 21 SF 24 LI: 0.98-T.Masthay punts 49 yards to SF 31 Center-61-B.Goode10-K.Williams to SF 32 for 1 yard(31-D.House)PENALTY on SF-26-T.Brock Unnecessary Roughness 15 yards enforced at SF 32Penalty on SF-26-T.Brock Offensive Holding declined.'>46.85</number><number>0.35</number>
+<number shadow='shadow1' tooltip='12:59 1-10-SF 17GB 21 SF 24 LI: 1.8(Shotgun) 7-C.Kaepernick pass short right to 49-B.Miller to SF 34 for 17 yards(37-S.Shields)GB-97-J.Jolly was injured during the playHis return is Probable Caught at SF 21 13-yds YAC'>47.02</number><number>0.31</number>
+<number shadow='shadow1' tooltip='12:31 1-10-SF 34GB 21 SF 24 LI: 1.8(Shotgun) 7-C.Kaepernick left end to SF 31 for -3 yards(38-T.Williams).'>47.48</number><number>0.33</number>
+<number shadow='shadow1' tooltip='11:43 2-13-SF 31GB 21 SF 24 LI: 1.821-F.Gore left guard to SF 30 for -1 yards(50-A.Hawk)SF-81-A.Boldin was injured during the playHis return is Probable.'>48.28</number><number>0.35</number>
+<number shadow='shadow1' tooltip='11:10 3-14-SF 30GB 21 SF 24 LI: 1.7(Shotgun) 7-C.Kaepernick pass incomplete deep right to 10-K.Williams (37-S.Shields) [52-C.Matthews].'>48.83</number><number>0.38</number>
+<number shadow='shadow1' tooltip='11:03 4-14-SF 30GB 21 SF 24 LI: 1.44-A.Lee punts 46 yards to GB 24 Center-47-K.McDermott fair catch by 18-R.Cobb.'>48.95</number><number>0.36</number>
+<number shadow='shadow1' tooltip='10:56 1-10-GB 24GB 21 SF 24 LI: 1.7(Shotgun) 27-E.Lacy up the middle to GB 30 for 6 yards(94-J.Smith 53-N.Bowman).'>49.07</number><number>0.37</number>
+<number shadow='shadow1' tooltip='10:21 2-4-GB 30GB 21 SF 24 LI: 1.9(No Huddle) 27-E.Lacy up the middle to GB 37 for 7 yards(91-R.McDonald).'>49.65</number><number>0.4</number>
+<number shadow='shadow1' tooltip='9:58 1-10-GB 37GB 21 SF 24 LI: 2(No Huddle Shotgun) 12-A.Rodgers pass short right to 88-J.Finley to 50 for 13 yards(53-N.Bowman)Caught at GB 36 14-yds YAC'>50.03</number><number>0.47</number>
+<number shadow='shadow1' tooltip='9:37 1-10-50GB 21 SF 24 LI: 2.5(No Huddle Shotgun) 12-A.Rodgers pass deep left to 87-J.Nelson ran ob at SF 13 for 37 yardsCaught at SF 13 0-yds YAC'>50.38</number><number>0.62</number>
+<number shadow='shadow1' tooltip='9:28 1-10-SF 13GB 21 SF 24 LI: 3(No Huddle) 27-E.Lacy left guard to SF 8 for 5 yards(53-N.Bowman 63-T.Jerod-Eddie).'>50.53</number><number>0.64</number>
+<number shadow='shadow1' tooltip='8:57 2-5-SF 8GB 21 SF 24 LI: 3.2(No Huddle) 27-E.Lacy left guard to SF 2 for 6 yards(52-P.Willis).'>51.05</number><number>0.66</number>
+<number shadow='shadow1' tooltip='8:34 1-2-SF 2GB 21 SF 24 LI: 3.412-A.Rodgers pass incomplete short right to 18-R.Cobb.'>51.43</number><number>0.67</number>
+<number shadow='shadow1' tooltip='8:32 2-2-SF 2GB 21 SF 24 LI: 3.5(Shotgun) 27-E.Lacy left guard for 2 yards TOUCHDOWN.'>51.47</number><number>0.71</number>
+<number shadow='shadow1' tooltip='8:32 GB 21 SF 24 LI: 2-M.Crosby extra point is GOOD Center-61-B.Goode Holder-8-T.Masthay.'>51.51</number><number>0.71</number>
+<number shadow='shadow1' tooltip='8:32 GB 28 SF 24 LI: 8-T.Masthay kicks 65 yards from GB 35 to end zone Touchback.'>51.56</number><number>0.73</number>
+<number shadow='shadow1' tooltip='8:26 1-10-SF 20GB 28 SF 24 LI: 1.5(Shotgun) 7-C.Kaepernick scrambles left end to SF 25 for 5 yards.'>51.57</number><number>0.72</number>
+<number shadow='shadow1' tooltip='7:41 2-5-SF 25GB 28 SF 24 LI: 1.7(Shotgun) 7-C.Kaepernick pass deep right to 81-A.Boldin pushed ob at GB 32 for 43 yards(38-T.Williams)Caught at SF 43 25-yds YAC'>52.32</number><number>0.52</number>
+<number shadow='shadow1' tooltip='7:03 1-10-GB 32GB 28 SF 24 LI: 2.8(Shotgun) 32-K.Hunter right end to GB 9 for 23 yards(37-S.Shields).'>52.95</number><number>0.43</number>
+<number shadow='shadow1' tooltip='6:25 1-9-GB 9GB 28 SF 24 LI: 3.1(Shotgun) 21-F.Gore right guard to GB 1 for 8 yards(43-M.Jennings).'>53.58</number><number>0.36</number>
+<number shadow='shadow1' tooltip='5:51 2-1-GB 1GB 28 SF 24 LI: 2.9D.Kilgore and A.Snyder reported as eligible21-F.Gore right tackle for 1 yard TOUCHDOWN.'>54.15</number><number>0.33</number>
+<number shadow='shadow1' tooltip='5:51 GB 28 SF 24 LI: 9-P.Dawson extra point is GOOD Center-47-K.McDermott Holder-4-A.Lee.'>54.19</number><number>0.33</number>
+<number shadow='shadow1' tooltip='5:51 GB 28 SF 31 LI: 9-P.Dawson kicks 69 yards from SF 35 to GB -410-J.Ross to GB 9 for 13 yards(27-C.Spillman).'>54.24</number><number>0.25</number>
+<number shadow='shadow1' tooltip='5:44 1-10-GB 9GB 28 SF 31 LI: 1.2(Shotgun) 12-A.Rodgers pass incomplete short right to 18-R.Cobb (55-A.Brooks).'>54.27</number><number>0.23</number>
+<number shadow='shadow1' tooltip='5:41 2-10-GB 9GB 28 SF 31 LI: 1(Shotgun) 12-A.Rodgers scrambles up the middle to GB 16 for 7 yards(35-E.Reid).'>54.32</number><number>0.24</number>
+<number shadow='shadow1' tooltip='5:08 3-3-GB 16GB 28 SF 31 LI: 1.9(Shotgun) 12-A.Rodgers pass incomplete deep left to 87-J.Nelson (28-N.Asomugha).'>54.87</number><number>0.16</number>
+<number shadow='shadow1' tooltip='5:00 4-3-GB 16GB 28 SF 31 LI: 1.18-T.Masthay punts 49 yards to SF 35 Center-61-B.Goode fair catch by 10-K.Williams.'>55</number><number>0.16</number>
+<number shadow='shadow1' tooltip='4:52 1-10-SF 35GB 28 SF 31 LI: 2.67-C.Kaepernick pass short right to 81-A.Boldin to SF 42 for 7 yards(37-S.Shields)Caught at SF 35 7-yds YAC'>55.13</number><number>0.18</number>
+<number shadow='shadow1' tooltip='4:08 2-3-SF 42GB 28 SF 31 LI: 221-F.Gore right guard to SF 41 for -1 yards(79-R.Pickett).'>55.87</number><number>0.19</number>
+<number shadow='shadow1' tooltip='3:26 3-4-SF 41GB 28 SF 31 LI: 1.9(Shotgun) 7-C.Kaepernick pass short left to 85-V.Davis to GB 44 for 15 yards(33-M.Hyde)Caught at SF 43 13-yds YAC'>56.57</number><number>0.12</number>
+<number shadow='shadow1' tooltip='3:20 1-10-GB 44GB 28 SF 31 LI: 2.321-F.Gore right tackle to GB 40 for 4 yards(59-B.Jones 53-N.Perry).'>56.67</number><number>0.07</number>
+<number shadow='shadow1' tooltip='3:11 2-6-GB 40GB 28 SF 31 LI: 2.7(Shotgun) 21-F.Gore right tackle to GB 39 for 1 yard(96-M.Neal).'>56.82</number><number>0.09</number>
+<number shadow='shadow1' tooltip='3:05 3-5-GB 39GB 28 SF 31 LI: 2.4(Shotgun) 21-F.Gore left guard to GB 36 for 3 yards(52-C.Matthews).'>56.92</number><number>0.15</number>
+<number shadow='shadow1' tooltip='3:00 4-2-GB 36GB 28 SF 31 LI: 1.6(Shotgun) 7-C.Kaepernick pass short right to 81-A.Boldin to GB 21 for 15 yards(38-T.Williams 97-J.Jolly)Caught at GB 28 7-yds YAC'>57</number><number>0.03</number>
+<number shadow='shadow1' tooltip='2:13 1-10-GB 21GB 28 SF 31 LI: 1.5D.Kilgore and A.Snyder reported as eligible21-F.Gore right guard to GB 21 for no gain (59-B.Jones 52-C.Matthews).'>57.78</number><number>0.1</number>
+<number shadow='shadow1' tooltip='2:00 2-10-GB 21GB 28 SF 31 LI: 0.7D.Kilgore and A.Snyder reported as eligible21-F.Gore right end to GB 17 for 4 yards(37-S.Shields 59-B.Jones).'>58</number><number>0.06</number>
+<number shadow='shadow1' tooltip='1:15 3-6-GB 17GB 28 SF 31 LI: 0.57-C.Kaepernick left end to GB 15 for 2 yards.'>58.75</number><number>0.03</number>
+<number shadow='shadow1' tooltip='0:30 4-4-GB 15GB 28 SF 31 LI: 0.19-P.Dawson 33 yard field goal is GOOD Center-47-K.McDermott Holder-4-A.Lee.'>59.5</number><number>0.05</number>
+<number shadow='shadow1' tooltip='0:30 GB 28 SF 34 LI: 9-P.Dawson kicks 71 yards from SF 35 to GB -610-J.Ross Touchback.'>59.59</number><number>0.03</number>
+<number shadow='shadow1' tooltip='0:03 1-10-SF 42GB 28 SF 34 LI: 1.312-A.Rodgers spiked the ball to stop the clock.'>59.95</number><number>0.08</number>
+<number>60</number><number>0</number>
+</row> </chart_data>
+       <draw>
+
+
+
+      <image x='45' y='298'  url='nfllogos/42x50png/GB.gif'  layer='foreground' glow = 'glow1'/>
+      <image x='45' y='350'  url='nfllogos/42x50png/SF.gif'     layer='foreground' glow = 'glow1'/>
+
+
+      <rect x='130' y='300' width='250' height='40' fill_color='00422f' bevel='bevel1' />
+      <text x='135' y='300' width='250' height='40' h_align='left' v_align='middle' color='ffffff' shadow='shadow2' glow=''>Green Bay Packers</text>
+
+      <rect x='130' y='350' width='250' height='40' fill_color='a9293d' bevel='bevel1'  />
+      <text x='135' y='350' width='250' height='40' h_align='left' v_align='middle' color='ffffff' shadow='shadow2' glow='winnerglow'>San Francisco 49ers</text>
+
+      <rect x='420' y='300' width='60' height='40' fill_color='00422f' bevel='bevel1'  />
+      <text x='420' y='300' width='60' height='40' h_align='center' v_align='middle' color='ffffff' shadow='shadow2' transition='none' glow=''>28</text>
+
+      <rect x='420' y='350' width='60' height='40' fill_color='a9293d' bevel='bevel1' />
+      <text x='420' y='350' width='60' height='40' h_align='center' v_align='middle' color='ffffff' shadow='shadow2' transition='none' glow='winnerglow'>34</text>
+
+      <text x='-3' y='12'  width='60' height='40' h_align='center' v_align='middle' size='13' shadow='shadow2'>GBWin </text>
+      <text x='-3' y='218' width='60' height='40' h_align='center' v_align='middle' size='13' shadow='shadow2'>SFWin </text>
+
+     
+              <rect x='540' y='300' width='100' height='35' fill_color='000000' fill_alpha='50'/>
+              <text x='540' y='300' width='100' height='35' h_align='center' v_align='middle' color='ffffff' size='15' shadow='shadow2' >Final</text>
+
+              <text x='540' y='340' width='40' h_align='center' color='000000' size='12' shadow='shadow2'>CBF</text>
+              <text x='600' y='340' width='40' h_align='center' color='000000' size='12' shadow='shadow2'>EI</text>
+
+              <rect x='540' y='360' width='40' height='30' fill_color='000000' fill_alpha='50' />
+              <text x='540' y='360' width='40' height='30' size='12' h_align='center' v_align='middle' color='FFFFFF' shadow='shadow2'>4</text>
+
+              <rect x='600' y='360' width='40' height='30' fill_color='000000' fill_alpha='50' />
+              <text x='600' y='360' width='40' height='30' size='12' h_align='center' v_align='middle' color='FFFFFF' shadow='shadow2'>5.5</text>
+
+              <text x='20' y='420' width='70' height='25' size='12' h_align='left' v_align='middle' color='000000' >9/8/2013</text>
+              <text x='100' y='420' width='200' height='25' size='12' h_align='left' v_align='middle' color='000000' >Candlestick Park</text>
+
+   </draw></chart>

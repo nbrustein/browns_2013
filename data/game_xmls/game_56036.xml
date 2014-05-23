@@ -1,0 +1,310 @@
+
+<chart>
+   <license>ETAS9P33ESHO.945CWK-2XOI1X0-7L</license>
+   <chart_type>scatter</chart_type>
+   <chart_pref trend_thickness='0' line_thickness='3' point_size='0'/>
+
+   <series_color>
+      <color>ffff00</color>
+   </series_color>
+
+   <chart_rect x='45' y='20' width='630' height='230' positive_color='cacaca'  />
+
+  <chart_border top_thickness='0'
+                 bottom_thickness='0'
+                 left_thickness='0'
+                 right_thickness='0'
+                 color='000000'
+                 />
+
+   <tooltip font='Arial' bold='true' size='11' />
+
+   <chart_note type='flag'
+               color='000000'
+               alpha='90'
+               bold='FALSE'
+               size='10'
+               background_color='ffffe0'
+               background_alpha='50'
+               shadow='shadow2'
+               />
+
+   <chart_grid_h thickness='2' color='ffffff' type='dashed'  />
+   <chart_grid_v thickness='2' color='ffffff'   />
+		>
+
+   <legend layout='hide' />
+
+   <chart_guide horizontal='TRUE'
+             vertical='TRUE'
+             thickness='1'
+             color='006400'
+             alpha='100'
+             type='solid'
+             snap_h='TRUE'
+             snap_v='TRUE'
+             radius='3'
+             fill_color='006400'
+             fill_alpha='100'
+             line_color='006400'
+             line_alpha='80'
+             line_thickness='1'
+             text_h_alpha='50'
+             text_v_alpha='00'
+             suffix_h=' WP'
+             decimals='2'
+             bold='FALSE'
+             size='11'
+             text_color='FFFFFF'
+             background_color='006400'
+             />
+   <filter>
+      <shadow id='shadow1' distance='2' angle='60' blurX='5' blurY='5' alpha='50' />
+      <bevel id='bevel1' angle='45' blurX='5' blurY='5' distance='0' />
+      <glow id='glow1' color='ffffff' alpha='0' blurX='7' blurY='7' strength='6' quality='2' inner='FALSE' knockout='FALSE' />
+      <glow id='winnerglow' color='ffffff' alpha='0' blurX='7' blurY='7' strength='5' quality='2' inner='FALSE' knockout='FALSE' />
+   </filter>
+
+    <axis_value_label>
+         <string></string>
+          <string> </string>
+          <null/>
+          <string> </string>
+          <string></string>
+
+       </axis_value_label>
+		
+	   <axis_ticks category_ticks='false'/>
+
+       <axis_value min='0' max='1' steps='4'  decimals='2' show_min='true' size='13' shadow='shadow2' />     
+            <axis_category
+               min='0'
+               max='60'
+               steps='4'
+               mode='all'
+               decimals='0'
+               size='13'
+               shadow='shadow2'
+               />
+
+       <axis_category_label>
+          <string>Kickoff</string>
+          <string></string>
+          <string>Halftime</string>
+          <string></string>
+          <string>End</string>
+
+       </axis_category_label>
+
+
+        <chart_data>
+       <row>
+	      <null/><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number>
+              <number>x</number><number>y</number>
+              </row><row><string></string>
+
+                     <number shadow='shadow1'>0</number><number>.5</number><number shadow='shadow1' tooltip='15:00 MIA 0 PIT 0 LI: 9-C.Sturgis kicks 65 yards from MIA 35 to end zone Touchback.'>0.09</number><number>0.48</number>
+<number shadow='shadow1' tooltip='14:23 2-5-PIT 25MIA 0 PIT 0 LI: 1.4(No Huddle Shotgun) 7-B.Roethlisberger sacked at PIT 12 for -13 yards(96-P.Soliai).'>0.62</number><number>0.55</number>
+<number shadow='shadow1' tooltip='13:45 3-18-PIT 12MIA 0 PIT 0 LI: 1.2(Shotgun) 7-B.Roethlisberger pass short right to 84-A.Brown to PIT 28 for 16 yards(28-N.Carroll; 20-R.Jones).'>1.25</number><number>0.54</number>
+<number shadow='shadow1' tooltip='13:03 4-2-PIT 28MIA 0 PIT 0 LI: 0.8(Punt formation) 10-M.McBriar punts 47 yards to MIA 25 Center-60-G.Warren34-M.Thigpen to MIA 31 for 6 yards(46-W.Johnson)MIA-25-R.Stanford was injured during the playHis return is Questionable.'>1.95</number><number>0.54</number>
+<number shadow='shadow1' tooltip='12:52 1-10-MIA 31MIA 0 PIT 0 LI: 1.526-L.Miller left guard to MIA 33 for 2 yards(43-T.Polamalu).'>2.13</number><number>0.52</number>
+<number shadow='shadow1' tooltip='12:17 2-8-MIA 33MIA 0 PIT 0 LI: 1.3(Shotgun) 17-R.Tannehill pass incomplete short right to 80-D.Sims (43-T.Polamalu).'>2.72</number><number>0.5</number>
+<number shadow='shadow1' tooltip='12:13 3-8-MIA 33MIA 0 PIT 0 LI: 1.1(Shotgun) 17-R.Tannehill sacked at MIA 25 for -8 yards(97-C.Heyward).'>2.78</number><number>0.46</number>
+<number shadow='shadow1' tooltip='11:38 4-16-MIA 25MIA 0 PIT 0 LI: 0.9(Punt formation) 2-B.Fields punts 52 yards to PIT 23 Center-92-J.Denney84-A.Brown to PIT 26 for 3 yards(56-J.Freeny; 92-J.Denney).'>3.37</number><number>0.47</number>
+<number shadow='shadow1' tooltip='11:25 1-10-PIT 26MIA 0 PIT 0 LI: 1.626-L.Bell up the middle to PIT 30 for 4 yards(55-K.Misi 52-P.Wheeler).'>3.58</number><number>0.48</number>
+<number shadow='shadow1' tooltip='10:46 2-6-PIT 30MIA 0 PIT 0 LI: 1.426-L.Bell left guard to PIT 39 for 9 yards(59-D.Ellerbe 30-C.Clemons).'>4.23</number><number>0.45</number>
+<number shadow='shadow1' tooltip='10:10 1-10-PIT 39MIA 0 PIT 0 LI: 1.426-L.Bell left guard to PIT 45 for 6 yards(92-J.Denney).'>4.83</number><number>0.45</number>
+<number shadow='shadow1' tooltip='9:30 2-4-PIT 45MIA 0 PIT 0 LI: 1.326-L.Bell right guard to PIT 48 for 3 yards(52-P.Wheeler 59-D.Ellerbe)Official measurement.'>5.5</number><number>0.45</number>
+<number shadow='shadow1' tooltip='8:57 3-1-PIT 48MIA 0 PIT 0 LI: 1.227-J.Dwyer up the middle to MIA 46 for 6 yards(52-P.Wheeler).'>6.05</number><number>0.42</number>
+<number shadow='shadow1' tooltip='8:13 1-10-MIA 46MIA 0 PIT 0 LI: 1.47-B.Roethlisberger pass short middle to 83-H.Miller to MIA 24 for 22 yards(30-C.Clemons).'>6.78</number><number>0.37</number>
+<number shadow='shadow1' tooltip='7:34 1-10-MIA 24MIA 0 PIT 0 LI: 1.526-L.Bell right guard to MIA 18 for 6 yards(30-C.Clemons)MIA-96-P.Soliai was injured during the play.'>7.43</number><number>0.36</number>
+<number shadow='shadow1' tooltip='7:01 2-4-MIA 18MIA 0 PIT 0 LI: 1.526-L.Bell left guard to MIA 20 for -2 yards(20-R.Jones 55-K.Misi).'>7.98</number><number>0.39</number>
+<number shadow='shadow1' tooltip='6:24 3-6-MIA 20MIA 0 PIT 0 LI: 1.3(Shotgun) 7-B.Roethlisberger pass short right to 26-L.Bell to MIA 11 for 9 yards(20-R.Jones).'>8.6</number><number>0.33</number>
+<number shadow='shadow1' tooltip='5:41 1-10-MIA 11MIA 0 PIT 0 LI: 1.7(Shotgun) 26-L.Bell up the middle to MIA 11 for no gain (27-J.Wilson).'>9.32</number><number>0.35</number>
+<number shadow='shadow1' tooltip='5:13 2-10-MIA 11MIA 0 PIT 0 LI: 1.526-L.Bell right tackle to MIA 5 for 6 yards(24-D.Patterson 30-C.Clemons).'>9.78</number><number>0.34</number>
+<number shadow='shadow1' tooltip='4:25 3-4-MIA 5MIA 0 PIT 0 LI: 1.6(Shotgun) 7-B.Roethlisberger pass short left to 88-E.Sanders for 5 yards TOUCHDOWNThe Replay Assistant challenged the runner broke the plane ruling and the play was Upheld.'>10.58</number><number>0.29</number>
+<number shadow='shadow1' tooltip='4:25 MIA 0 PIT 0 LI: 6-S.Suisham extra point is GOOD Center-60-G.Warren Holder-10-M.McBriar.'>10.62</number><number>0.29</number>
+<number shadow='shadow1' tooltip='4:25 MIA 0 PIT 7 LI: 6-S.Suisham kicks 59 yards from PIT 35 to MIA 634-M.Thigpen to MIA 24 for 18 yards(21-R.Golden).'>10.67</number><number>0.29</number>
+<number shadow='shadow1' tooltip='4:15 1-10-MIA 24MIA 0 PIT 7 LI: 1.517-R.Tannehill pass incomplete deep right to 11-M.Wallace (28-C.Allen).'>10.75</number><number>0.28</number>
+<number shadow='shadow1' tooltip='4:07 2-10-MIA 24MIA 0 PIT 7 LI: 1.426-L.Miller left guard to MIA 31 for 7 yards(93-J.Worilds).'>10.88</number><number>0.29</number>
+<number shadow='shadow1' tooltip='3:25 3-3-MIA 31MIA 0 PIT 7 LI: 1.3(Shotgun) 17-R.Tannehill scrambles left end pushed ob at MIA 39 for 8 yards(22-W.Gay).'>11.58</number><number>0.31</number>
+<number shadow='shadow1' tooltip='2:52 1-10-MIA 39MIA 0 PIT 7 LI: 1.3(Shotgun) 17-R.Tannehill left tackle pushed ob at PIT 13 for 48 yards(24-I.Taylor).'>12.13</number><number>0.44</number>
+<number shadow='shadow1' tooltip='2:15 1-10-PIT 13MIA 0 PIT 7 LI: 1.317-R.Tannehill pass incomplete short right to 42-C.ClayCoverage by #43 Polamalu.'>12.75</number><number>0.42</number>
+<number shadow='shadow1' tooltip='2:10 2-10-PIT 13MIA 0 PIT 7 LI: 1.1(Shotgun) 26-L.Miller left guard to PIT 12 for 1 yard(93-J.Worilds 97-C.Heyward).'>12.83</number><number>0.4</number>
+<number shadow='shadow1' tooltip='1:32 3-9-PIT 12MIA 0 PIT 7 LI: 0.9(Shotgun) 17-R.Tannehill pass short left to 26-L.Miller to PIT 12 for no gain (97-C.Heyward).'>13.47</number><number>0.35</number>
+<number shadow='shadow1' tooltip='0:45 4-9-PIT 12MIA 0 PIT 7 LI: 0.5(Field Goal formation) 9-C.Sturgis 30 yard field goal is GOOD Center-92-J.Denney Holder-2-B.Fields.'>14.25</number><number>0.35</number>
+<number shadow='shadow1' tooltip='0:45 MIA 3 PIT 7 LI: 9-C.Sturgis kicks 56 yards from MIA 35 to PIT 988-E.Sanders to PIT 35 for 26 yards(95-D.Jordan; 28-N.Carroll).'>14.34</number><number>0.33</number>
+<number shadow='shadow1' tooltip='0:32 1-10-PIT 35MIA 3 PIT 7 LI: 1.426-L.Bell up the middle to PIT 39 for 4 yards(94-R.Starks).'>14.47</number><number>0.33</number>
+<number shadow='shadow1' tooltip='15:00 2-6-PIT 39MIA 3 PIT 7 LI: 1.37-B.Roethlisberger pass incomplete deep right to 83-H.Miller (30-C.Clemons).'>15</number><number>0.34</number>
+<number shadow='shadow1' tooltip='14:53 3-6-PIT 39MIA 3 PIT 7 LI: 1.2(Shotgun) 7-B.Roethlisberger pass incomplete short right to 84-A.BrownCoverage by #27 Wilson.'>15.12</number><number>0.38</number>
+<number shadow='shadow1' tooltip='14:50 4-6-PIT 39MIA 3 PIT 7 LI: 0.8(Punt formation) PENALTY on PIT-10-M.McBriar Delay of Game 5 yards enforced at PIT 39 - No Play.'>15.17</number><number>0.39</number>
+<number shadow='shadow1' tooltip='14:43 1-10-MIA 25MIA 3 PIT 7 LI: 1.3(Shotgun) 33-D.Thomas right guard to MIA 28 for 3 yards(97-C.Heyward 90-S.McLendon).'>15.28</number><number>0.38</number>
+<number shadow='shadow1' tooltip='14:03 2-7-MIA 28MIA 3 PIT 7 LI: 1.2(Shotgun) 17-R.Tannehill pass short middle to 80-D.Sims to MIA 35 for 7 yards(94-L.Timmons 98-V.Williams).'>15.95</number><number>0.4</number>
+<number shadow='shadow1' tooltip='13:18 1-10-MIA 35MIA 3 PIT 7 LI: 1.2(Shotgun) 17-R.Tannehill FUMBLES (Aborted) at MIA 28 and recovers at MIA 2817-R.Tannehill sacked at MIA 28 for -7 yards(93-J.Worilds).'>16.7</number><number>0.37</number>
+<number shadow='shadow1' tooltip='12:38 2-17-MIA 28MIA 3 PIT 7 LI: 1(Shotgun) 17-R.Tannehill pass incomplete short right to 18-R.MatthewsCoverage by #43 Polamalu.'>17.37</number><number>0.35</number>
+<number shadow='shadow1' tooltip='12:32 3-17-MIA 28MIA 3 PIT 7 LI: 0.8(Shotgun) 17-R.Tannehill pass incomplete short left to 82-B.HartlineCoverage by #22 Gay.'>17.47</number><number>0.33</number>
+<number shadow='shadow1' tooltip='12:28 4-17-MIA 28MIA 3 PIT 7 LI: 0.6(Punt formation) 2-B.Fields punts 47 yards to PIT 25 Center-92-J.Denney84-A.Brown to PIT 26 for 1 yard(36-D.Jones).'>17.53</number><number>0.34</number>
+<number shadow='shadow1' tooltip='12:18 1-10-PIT 26MIA 3 PIT 7 LI: 1.4(Shotgun) 23-F.Jones right guard to PIT 28 for 2 yards(79-D.Shelby 96-P.Soliai).'>17.7</number><number>0.35</number>
+<number shadow='shadow1' tooltip='11:40 2-8-PIT 28MIA 3 PIT 7 LI: 1.2(Shotgun) 23-F.Jones up the middle to PIT 33 for 5 yards(27-J.Wilson).'>18.33</number><number>0.35</number>
+<number shadow='shadow1' tooltip='10:54 3-3-PIT 33MIA 3 PIT 7 LI: 1.1(Shotgun) 7-B.Roethlisberger sacked at PIT 31 for -2 yards(91-C.Wake)FUMBLES (91-C.Wake) RECOVERED by MIA-94-R.Starks at PIT 3194-R.Starks to PIT 31 for no gain (72-C.Wallace).'>19.1</number><number>0.46</number>
+<number shadow='shadow1' tooltip='10:44 1-10-PIT 31MIA 3 PIT 7 LI: 1.317-R.Tannehill pass short right to 11-M.Wallace to PIT 19 for 12 yards(28-C.Allen).'>19.27</number><number>0.49</number>
+<number shadow='shadow1' tooltip='10:04 1-10-PIT 19MIA 3 PIT 7 LI: 1.4(Shotgun) 33-D.Thomas right tackle to PIT 16 for 3 yards(97-C.Heyward).'>19.93</number><number>0.51</number>
+<number shadow='shadow1' tooltip='9:30 2-7-PIT 16MIA 3 PIT 7 LI: 1.517-R.Tannehill pass short right to 11-M.Wallace to PIT 9 for 7 yards(28-C.Allen).'>20.5</number><number>0.54</number>
+<number shadow='shadow1' tooltip='8:56 1-9-PIT 9MIA 3 PIT 7 LI: 1.8(Shotgun) 33-D.Thomas right guard to PIT 6 for 3 yards(93-J.Worilds 56-L.Woodley).'>21.07</number><number>0.56</number>
+<number shadow='shadow1' tooltip='8:20 2-6-PIT 6MIA 3 PIT 7 LI: 2(Shotgun) 17-R.Tannehill pass short right to 42-C.Clay for 6 yards TOUCHDOWN.'>21.67</number><number>0.59</number>
+<number shadow='shadow1' tooltip='8:20 MIA 3 PIT 7 LI: 9-C.Sturgis extra point is GOOD Center-92-J.Denney Holder-2-B.Fields.'>21.71</number><number>0.59</number>
+<number shadow='shadow1' tooltip='8:20 MIA 10 PIT 7 LI: 9-C.Sturgis kicks 65 yards from MIA 35 to end zone Touchback.'>21.76</number><number>0.61</number>
+<number shadow='shadow1' tooltip='7:38 2-5-PIT 25MIA 10 PIT 7 LI: 0.97-B.Roethlisberger pass incomplete short right to 89-J.Cotchery.'>22.37</number><number>0.61</number>
+<number shadow='shadow1' tooltip='7:34 3-5-PIT 25MIA 10 PIT 7 LI: 0.8(Shotgun) PENALTY on MIA-94-R.Starks Neutral Zone Infraction 4 yards enforced at PIT 25 - No Play4-yard penalty because a first down was not awarded.'>22.43</number><number>0.6</number>
+<number shadow='shadow1' tooltip='7:28 3-1-PIT 29MIA 10 PIT 7 LI: 0.927-J.Dwyer up the middle to PIT 31 for 2 yards(98-J.Odrick; 30-C.Clemons).'>22.53</number><number>0.59</number>
+<number shadow='shadow1' tooltip='6:54 1-10-PIT 31MIA 10 PIT 7 LI: 1(Shotgun) 26-L.Bell right guard to PIT 35 for 4 yards(91-C.Wake 20-R.Jones).'>23.1</number><number>0.61</number>
+<number shadow='shadow1' tooltip='6:25 1-20-PIT 21MIA 10 PIT 7 LI: 1(Shotgun) 7-B.Roethlisberger pass short left to 89-J.Cotchery to PIT 34 for 13 yards(30-C.Clemons).'>23.58</number><number>0.58</number>
+<number shadow='shadow1' tooltip='5:41 2-7-PIT 34MIA 10 PIT 7 LI: 1.1(Shotgun) 26-L.Bell right tackle to PIT 38 for 4 yards(91-C.Wake).'>24.32</number><number>0.59</number>
+<number shadow='shadow1' tooltip='4:59 3-3-PIT 38MIA 10 PIT 7 LI: 0.9(Shotgun) 7-B.Roethlisberger pass incomplete deep right to 84-A.BrownCoverage by #21 Grimes.'>25.02</number><number>0.63</number>
+<number shadow='shadow1' tooltip='4:53 4-3-PIT 38MIA 10 PIT 7 LI: 0.5(Punt formation) 10-M.McBriar punts 54 yards to MIA 8 Center-60-G.Warren34-M.Thigpen to MIA 24 for 16 yards(57-T.Garvin).'>25.12</number><number>0.63</number>
+<number shadow='shadow1' tooltip='4:42 1-10-MIA 24MIA 10 PIT 7 LI: 1.526-L.Miller right guard to MIA 25 for 1 yard(97-C.Heyward; 95-J.Jones).'>25.3</number><number>0.62</number>
+<number shadow='shadow1' tooltip='4:07 2-9-MIA 25MIA 10 PIT 7 LI: 1.4(Shotgun) 26-L.Miller left guard to MIA 27 for 2 yards(20-W.Allen 97-C.Heyward).'>25.88</number><number>0.58</number>
+<number shadow='shadow1' tooltip='3:39 2-19-MIA 15MIA 10 PIT 7 LI: 1.2(Shotgun) 17-R.Tannehill scrambles right end pushed ob at MIA 35 for 20 yards(95-J.Jones).'>26.35</number><number>0.55</number>
+<number shadow='shadow1' tooltip='3:17 2-26-MIA 8MIA 10 PIT 7 LI: 1.3(Shotgun) 17-R.Tannehill pass short right to 26-L.Miller to MIA 21 for 13 yards(20-W.Allen).'>26.72</number><number>0.59</number>
+<number shadow='shadow1' tooltip='2:36 3-13-MIA 21MIA 10 PIT 7 LI: 1.2(Shotgun) 17-R.Tannehill pass incomplete short right to 26-L.Miller (97-C.Heyward).'>27.4</number><number>0.57</number>
+<number shadow='shadow1' tooltip='2:31 4-13-MIA 21MIA 10 PIT 7 LI: 1(Punt formation) 2-B.Fields punts 43 yards to PIT 36 Center-92-J.Denney84-A.Brown to PIT 40 for 4 yards(45-A.Spitler).'>27.48</number><number>0.56</number>
+<number shadow='shadow1' tooltip='2:21 1-10-PIT 40MIA 10 PIT 7 LI: 1.327-J.Dwyer right guard to PIT 40 for no gain (98-J.Odrick).'>27.65</number><number>0.57</number>
+<number shadow='shadow1' tooltip='2:00 2-10-PIT 40MIA 10 PIT 7 LI: 1.2(Shotgun) 7-B.Roethlisberger pass short left to 83-H.Miller to PIT 43 for 3 yards(59-D.Ellerbe).'>28</number><number>0.59</number>
+<number shadow='shadow1' tooltip='1:37 3-7-PIT 43MIA 10 PIT 7 LI: 1(No Huddle Shotgun) 7-B.Roethlisberger pass short middle to 89-J.Cotchery to PIT 47 for 4 yards(27-J.Wilson).'>28.38</number><number>0.63</number>
+<number shadow='shadow1' tooltip='0:48 4-3-PIT 47MIA 10 PIT 7 LI: 0.6(No Huddle) PENALTY on PIT-7-B.Roethlisberger Delay of Game 5 yards enforced at PIT 47 - No Play.'>29.2</number><number>0.63</number>
+<number shadow='shadow1' tooltip='0:47 4-8-PIT 42MIA 10 PIT 7 LI: 0.7(Punt formation) 10-M.McBriar punts 1 yard to PIT 43 Center-60-G.Warren93-J.Trusnik to PIT 42 for 1 yard(54-C.Carter)Punt deflected by #27 Wilson.'>29.22</number><number>0.7</number>
+<number shadow='shadow1' tooltip='0:39 1-10-PIT 42MIA 10 PIT 7 LI: 1.317-R.Tannehill pass incomplete short right to 26-L.MillerPressure by #93 Worilds.'>29.35</number><number>0.68</number>
+<number shadow='shadow1' tooltip='0:32 2-10-PIT 42MIA 10 PIT 7 LI: 1.1(Shotgun) 17-R.Tannehill pass short right to 42-C.Clay to PIT 39 for 3 yards(20-W.Allen).'>29.47</number><number>0.67</number>
+<number shadow='shadow1' tooltip='0:27 3-7-PIT 39MIA 10 PIT 7 LI: 0.9(Shotgun) 17-R.Tannehill pass short left to 18-R.Matthews pushed ob at PIT 34 for 5 yards(22-W.Gay).'>29.55</number><number>0.64</number>
+<number shadow='shadow1' tooltip='0:21 4-2-PIT 34MIA 10 PIT 7 LI: 0.5(Field Goal formation) 9-C.Sturgis 52 yard field goal is No Good Center-92-J.Denney Holder-2-B.Fields43-T.Polamalu at PIT -8 to PIT 30 for 38 yardsLateral to 90-S.McLendon to PIT 30 for no gainLateral to 24-I.Taylor to MIA 41 for 29 yards(79-D.Shelby).'>29.65</number><number>0.61</number>
+<number shadow='shadow1' tooltip='0:21 MIA 10 PIT 7 LI: 6-S.Suisham kicks 65 yards from PIT 35 to end zone Touchback.'>29.74</number><number>0.63</number>
+<number shadow='shadow1' tooltip='15:00 1-10-MIA 20MIA 10 PIT 7 LI: 1.7(Shotgun) 26-L.Miller left guard to MIA 27 for 7 yards(96-E.Hood 98-V.Williams).'>30</number><number>0.64</number>
+<number shadow='shadow1' tooltip='14:24 2-3-MIA 27MIA 10 PIT 7 LI: 1.526-L.Miller right end to MIA 29 for 2 yards(25-R.Clark).'>30.6</number><number>0.65</number>
+<number shadow='shadow1' tooltip='13:46 3-1-MIA 29MIA 10 PIT 7 LI: 1.6(Shotgun) 17-R.Tannehill pass short left to 42-C.Clay to MIA 49 for 20 yards(24-I.Taylor; 25-R.Clark).'>31.23</number><number>0.69</number>
+<number shadow='shadow1' tooltip='13:06 1-10-MIA 49MIA 10 PIT 7 LI: 1.4(Shotgun) 17-R.Tannehill pass short left to 82-B.Hartline to PIT 36 for 15 yards(24-I.Taylor 25-R.Clark)PIT-24-I.Taylor was injured during the play.'>31.9</number><number>0.72</number>
+<number shadow='shadow1' tooltip='12:42 1-10-PIT 36MIA 10 PIT 7 LI: 1.217-R.Tannehill pass deep left to 82-B.Hartline to PIT 18 for 18 yards(22-W.Gay).'>32.3</number><number>0.75</number>
+<number shadow='shadow1' tooltip='12:07 1-10-PIT 18MIA 10 PIT 7 LI: 1(Shotgun) 33-D.Thomas left tackle to PIT 12 for 6 yards(97-C.Heyward).'>32.88</number><number>0.78</number>
+<number shadow='shadow1' tooltip='11:21 2-4-PIT 12MIA 10 PIT 7 LI: 1.1(Shotgun) 17-R.Tannehill pass incomplete short right to 11-M.WallaceCoverage by #28 Allen.'>33.65</number><number>0.76</number>
+<number shadow='shadow1' tooltip='11:14 3-4-PIT 12MIA 10 PIT 7 LI: 0.9(Shotgun) 17-R.Tannehill pass short left to 33-D.Thomas to PIT 8 for 4 yards(25-R.Clark 94-L.Timmons).'>33.77</number><number>0.79</number>
+<number shadow='shadow1' tooltip='10:53 1-4-PIT 4MIA 10 PIT 7 LI: 1.233-D.Thomas up the middle for 4 yards TOUCHDOWN.'>34.12</number><number>0.8</number>
+<number shadow='shadow1' tooltip='10:53 MIA 10 PIT 7 LI: 9-C.Sturgis extra point is GOOD Center-92-J.Denney Holder-2-B.Fields.'>34.16</number><number>0.8</number>
+<number shadow='shadow1' tooltip='10:53 MIA 17 PIT 7 LI: 9-C.Sturgis kicks 65 yards from MIA 35 to PIT 088-E.Sanders to PIT 17 for 17 yards(23-M.Gillislee).'>34.21</number><number>0.81</number>
+<number shadow='shadow1' tooltip='10:45 1-10-PIT 17MIA 17 PIT 7 LI: 1.27-B.Roethlisberger pass short left to 46-W.Johnson ran ob at PIT 26 for 9 yards.'>34.25</number><number>0.8</number>
+<number shadow='shadow1' tooltip='10:02 2-1-PIT 26MIA 17 PIT 7 LI: 1.27-B.Roethlisberger pass incomplete deep middle to 11-M.Wheaton.'>34.97</number><number>0.81</number>
+<number shadow='shadow1' tooltip='9:54 3-1-PIT 26MIA 17 PIT 7 LI: 1.17-B.Roethlisberger pass deep left to 83-H.Miller to MIA 43 for 31 yards(30-C.Clemons 21-B.Grimes).'>35.1</number><number>0.75</number>
+<number shadow='shadow1' tooltip='9:08 1-10-MIA 43MIA 17 PIT 7 LI: 1.1(No Huddle Shotgun) 7-B.Roethlisberger pass short middle to 84-A.Brown for 43 yards TOUCHDOWN.'>35.87</number><number>0.66</number>
+<number shadow='shadow1' tooltip='9:08 MIA 17 PIT 7 LI: 6-S.Suisham extra point is GOOD Center-60-G.Warren Holder-10-M.McBriar.'>35.91</number><number>0.66</number>
+<number shadow='shadow1' tooltip='9:08 MIA 17 PIT 14 LI: 6-S.Suisham kicks 60 yards from PIT 35 to MIA 534-M.Thigpen to MIA 20 for 15 yards(11-M.Wheaton).'>35.96</number><number>0.63</number>
+<number shadow='shadow1' tooltip='8:52 1-10-MIA 10MIA 17 PIT 14 LI: 2.3(Shotgun) 33-D.Thomas up the middle to MIA 8 for -2 yards(93-J.Worilds).'>36.13</number><number>0.6</number>
+<number shadow='shadow1' tooltip='8:17 2-12-MIA 8MIA 17 PIT 14 LI: 2(Shotgun) 17-R.Tannehill pass short middle intended for 82-B.Hartline INTERCEPTED by 43-T.Polamalu at MIA 1943-T.Polamalu for 19 yards TOUCHDOWNThe Replay Assistant challenged the runner broke the plane ruling and the play was Upheld.'>36.72</number><number>0.34</number>
+<number shadow='shadow1' tooltip='8:17 MIA 17 PIT 14 LI: 6-S.Suisham extra point is GOOD Center-60-G.Warren Holder-10-M.McBriar.'>36.76</number><number>0.34</number>
+<number shadow='shadow1' tooltip='8:17 MIA 17 PIT 21 LI: 6-S.Suisham kicks 61 yards from PIT 35 to MIA 434-M.Thigpen to MIA 29 for 25 yards(6-S.Suisham)FUMBLES (6-S.Suisham) ball out of bounds at MIA 29.'>36.81</number><number>0.34</number>
+<number shadow='shadow1' tooltip='8:05 1-10-MIA 29MIA 17 PIT 21 LI: 1.233-D.Thomas right guard to MIA 35 for 6 yards(93-J.Worilds 95-J.Jones).'>36.92</number><number>0.37</number>
+<number shadow='shadow1' tooltip='7:23 2-4-MIA 35MIA 17 PIT 21 LI: 1.417-R.Tannehill pass incomplete short right to 42-C.ClayCoverage by #94 Timmons.'>37.62</number><number>0.35</number>
+<number shadow='shadow1' tooltip='7:19 3-4-MIA 35MIA 17 PIT 21 LI: 1.2(Shotgun) 17-R.Tannehill pass deep right to 42-C.Clay pushed ob at PIT 25 for 40 yards(28-C.Allen).'>37.68</number><number>0.47</number>
+<number shadow='shadow1' tooltip='7:08 1-10-PIT 25MIA 17 PIT 21 LI: 1.7(No Huddle) 33-D.Thomas left tackle to PIT 12 for 13 yards(97-C.Heyward).'>37.87</number><number>0.56</number>
+<number shadow='shadow1' tooltip='6:21 1-10-PIT 12MIA 17 PIT 21 LI: 2.3(Shotgun) 17-R.Tannehill pass short left to 42-C.Clay to PIT 6 for 6 yards(97-C.Heyward; 25-R.Clark).'>38.65</number><number>0.58</number>
+<number shadow='shadow1' tooltip='5:37 2-4-PIT 6MIA 17 PIT 21 LI: 2.5(Shotgun) 33-D.Thomas up the middle to PIT 4 for 2 yards(93-J.Worilds 20-W.Allen).'>39.38</number><number>0.54</number>
+<number shadow='shadow1' tooltip='5:01 3-2-PIT 4MIA 17 PIT 21 LI: 2.1(Shotgun) 17-R.Tannehill pass incomplete short right to 82-B.HartlineCoverage by #24 TaylorMiami challenged the pass completion ruling and the play was REVERSED(Shotgun) 17-R.Tannehill pass short right to 82-B.Hartline for 4 yards TOUCHDOWN.'>39.98</number><number>0.61</number>
+<number shadow='shadow1' tooltip='5:01 MIA 17 PIT 21 LI: 9-C.Sturgis extra point is GOOD Center-92-J.Denney Holder-2-B.Fields.'>40.02</number><number>0.61</number>
+<number shadow='shadow1' tooltip='5:01 MIA 24 PIT 21 LI: 9-C.Sturgis kicks 58 yards from MIA 35 to PIT 788-E.Sanders to PIT 22 for 15 yards(56-J.Freeny).'>40.07</number><number>0.63</number>
+<number shadow='shadow1' tooltip='4:46 1-10-PIT 22MIA 24 PIT 21 LI: 1.3(Shotgun) 7-B.Roethlisberger pass incomplete short middle to 89-J.CotcheryPressure by #98 Odrick.'>40.23</number><number>0.63</number>
+<number shadow='shadow1' tooltip='4:42 2-10-PIT 22MIA 24 PIT 21 LI: 1.3(No Huddle Shotgun) 26-L.Bell right guard to PIT 28 for 6 yards(94-R.Starks).'>40.3</number><number>0.63</number>
+<number shadow='shadow1' tooltip='3:58 3-4-PIT 28MIA 24 PIT 21 LI: 1.2(No Huddle Shotgun) 7-B.Roethlisberger pass short middle to 89-J.Cotchery to PIT 38 for 10 yards(59-D.Ellerbe).'>41.03</number><number>0.58</number>
+<number shadow='shadow1' tooltip='3:25 1-10-PIT 38MIA 24 PIT 21 LI: 1.6(No Huddle Shotgun) 7-B.Roethlisberger pass short right to 84-A.Brown to PIT 43 for 5 yards(91-C.Wake 59-D.Ellerbe).'>41.58</number><number>0.6</number>
+<number shadow='shadow1' tooltip='2:58 1-20-PIT 28MIA 24 PIT 21 LI: 1.6(Shotgun) 7-B.Roethlisberger pass short right to 26-L.Bell to PIT 38 for 10 yards(52-P.Wheeler 30-C.Clemons).'>42.03</number><number>0.6</number>
+<number shadow='shadow1' tooltip='2:18 2-10-PIT 38MIA 24 PIT 21 LI: 1.4(No Huddle Shotgun) 7-B.Roethlisberger pass incomplete short right to 84-A.Brown (21-B.Grimes).'>42.7</number><number>0.62</number>
+<number shadow='shadow1' tooltip='2:14 3-10-PIT 38MIA 24 PIT 21 LI: 1.2(No Huddle Shotgun) 7-B.Roethlisberger pass short right to 84-A.Brown pushed ob at MIA 49 for 13 yards(21-B.Grimes).'>42.77</number><number>0.55</number>
+<number shadow='shadow1' tooltip='1:42 1-10-MIA 49MIA 24 PIT 21 LI: 1.6(No Huddle Shotgun) 7-B.Roethlisberger pass short left to 88-E.Sanders to MIA 28 for 21 yards(30-C.Clemons).'>43.3</number><number>0.5</number>
+<number shadow='shadow1' tooltip='1:06 1-10-MIA 28MIA 24 PIT 21 LI: 1.6(No Huddle Shotgun) 26-L.Bell right guard to MIA 19 for 9 yards(30-C.Clemons 52-P.Wheeler).'>43.9</number><number>0.43</number>
+<number shadow='shadow1' tooltip='0:38 2-1-MIA 19MIA 24 PIT 21 LI: 2.2(No Huddle) 26-L.Bell up the middle to MIA 16 for 3 yards(20-R.Jones; 52-P.Wheeler).'>44.37</number><number>0.47</number>
+<number shadow='shadow1' tooltip='0:02 1-10-MIA 16MIA 24 PIT 21 LI: 1.7(No Huddle Shotgun) 7-B.Roethlisberger pass incomplete short middle to 84-A.Brown (96-P.Soliai).'>44.97</number><number>0.47</number>
+<number shadow='shadow1' tooltip='15:00 2-10-MIA 16MIA 24 PIT 21 LI: 1.7(Shotgun) 7-B.Roethlisberger pass short middle to 89-J.Cotchery for 16 yards TOUCHDOWN.'>45</number><number>0.34</number>
+<number shadow='shadow1' tooltip='15:00 MIA 24 PIT 21 LI: 6-S.Suisham extra point is GOOD Center-60-G.Warren Holder-10-M.McBriar.'>45.04</number><number>0.34</number>
+<number shadow='shadow1' tooltip='15:00 MIA 24 PIT 28 LI: 6-S.Suisham kicks 64 yards from PIT 35 to MIA 134-M.Thigpen to MIA 25 for 24 yards(21-R.Golden).'>45.09</number><number>0.33</number>
+<number shadow='shadow1' tooltip='14:39 2-8-MIA 27MIA 24 PIT 28 LI: 1.317-R.Tannehill pass incomplete to 11-M.Wallace (28-C.Allen).'>45.35</number><number>0.31</number>
+<number shadow='shadow1' tooltip='13:56 3-8-MIA 27MIA 24 PIT 28 LI: 1.2(Shotgun) 17-R.Tannehill pass short right to 42-C.Clay to MIA 37 for 10 yards(97-C.Heyward).'>46.07</number><number>0.36</number>
+<number shadow='shadow1' tooltip='13:29 1-10-MIA 37MIA 24 PIT 28 LI: 1.5(Shotgun) 33-D.Thomas up the middle to MIA 44 for 7 yards(56-L.Woodley 20-W.Allen).'>46.52</number><number>0.37</number>
+<number shadow='shadow1' tooltip='12:46 2-3-MIA 44MIA 24 PIT 28 LI: 1.517-R.Tannehill pass incomplete deep left to 82-B.Hartline (43-T.Polamalu).'>47.23</number><number>0.35</number>
+<number shadow='shadow1' tooltip='12:38 3-3-MIA 44MIA 24 PIT 28 LI: 1.317-R.Tannehill sacked at MIA 38 for -6 yards(93-J.Worilds).'>47.37</number><number>0.28</number>
+<number shadow='shadow1' tooltip='12:04 4-9-MIA 38MIA 24 PIT 28 LI: 0.8(Punt formation) 2-B.Fields punts 44 yards to PIT 18 Center-92-J.Denney84-A.Brown to PIT 17 for -1 yards(14-Ma.Moore).'>47.93</number><number>0.3</number>
+<number shadow='shadow1' tooltip='11:55 1-10-PIT 17MIA 24 PIT 28 LI: 1.8(Shotgun) 7-B.Roethlisberger pass incomplete short right to 26-L.Bell.'>48.08</number><number>0.31</number>
+<number shadow='shadow1' tooltip='11:50 2-10-PIT 17MIA 24 PIT 28 LI: 1.7(No Huddle Shotgun) 7-B.Roethlisberger pass incomplete short right to 26-L.Bell (20-R.Jones).'>48.17</number><number>0.34</number>
+<number shadow='shadow1' tooltip='11:44 3-10-PIT 17MIA 24 PIT 28 LI: 1.4(No Huddle Shotgun) 7-B.Roethlisberger pass short left to 88-E.Sanders to PIT 29 for 12 yards(28-N.Carroll).'>48.27</number><number>0.26</number>
+<number shadow='shadow1' tooltip='11:14 1-10-PIT 29MIA 24 PIT 28 LI: 2(Shotgun) 7-B.Roethlisberger pass short left to 26-L.Bell to PIT 33 for 4 yards(20-R.Jones).'>48.77</number><number>0.24</number>
+<number shadow='shadow1' tooltip='10:21 2-6-PIT 33MIA 24 PIT 28 LI: 2.2(No Huddle Shotgun) 26-L.Bell up the middle to PIT 35 for 2 yards(94-R.Starks).'>49.65</number><number>0.24</number>
+<number shadow='shadow1' tooltip='9:46 3-4-PIT 35MIA 24 PIT 28 LI: 2.2(No Huddle Shotgun) 7-B.Roethlisberger pass incomplete short right to 88-E.Sanders.'>50.23</number><number>0.31</number>
+<number shadow='shadow1' tooltip='9:42 4-4-PIT 35MIA 24 PIT 28 LI: 1.5(Punt formation) 10-M.McBriar punts 44 yards to MIA 21 Center-60-G.Warren fair catch by 34-M.Thigpen.'>50.3</number><number>0.28</number>
+<number shadow='shadow1' tooltip='9:35 1-10-MIA 21MIA 24 PIT 28 LI: 1.517-R.Tannehill pass incomplete short right to 42-C.ClayPressure by #56 Woodley.'>50.42</number><number>0.27</number>
+<number shadow='shadow1' tooltip='9:29 2-10-MIA 21MIA 24 PIT 28 LI: 1.4(Shotgun) 33-D.Thomas up the middle to MIA 24 for 3 yards(94-L.Timmons 56-L.Woodley).'>50.52</number><number>0.26</number>
+<number shadow='shadow1' tooltip='8:48 3-7-MIA 24MIA 24 PIT 28 LI: 1.4(Shotgun) 17-R.Tannehill pass short right to 82-B.Hartline to MIA 29 for 5 yards(22-W.Gay).'>51.2</number><number>0.21</number>
+<number shadow='shadow1' tooltip='8:10 4-2-MIA 29MIA 24 PIT 28 LI: 0.9(Punt formation) PENALTY on MIA-36-D.Jones False Start 5 yards enforced at MIA 29 - No Play.'>51.83</number><number>0.2</number>
+<number shadow='shadow1' tooltip='8:00 4-7-MIA 24MIA 24 PIT 28 LI: 0.9(Punt formation) 2-B.Fields punts 46 yards to PIT 30 Center-92-J.Denney84-A.Brown ran ob at PIT 37 for 7 yards.'>52</number><number>0.19</number>
+<number shadow='shadow1' tooltip='7:51 1-10-PIT 37MIA 24 PIT 28 LI: 2.87-B.Roethlisberger pass deep left to 89-J.Cotchery to MIA 44 for 19 yards(30-C.Clemons).'>52.15</number><number>0.13</number>
+<number shadow='shadow1' tooltip='7:06 1-10-MIA 44MIA 24 PIT 28 LI: 2.5(No Huddle) 26-L.Bell left guard to MIA 43 for 1 yard(91-C.Wake 30-C.Clemons).'>52.9</number><number>0.14</number>
+<number shadow='shadow1' tooltip='6:21 2-9-MIA 43MIA 24 PIT 28 LI: 2.2(No Huddle Shotgun) PENALTY on PIT-72-C.Wallace False Start 5 yards enforced at MIA 43 - No Play.'>53.65</number><number>0.16</number>
+<number shadow='shadow1' tooltip='6:00 2-14-MIA 48MIA 24 PIT 28 LI: 2.3(Shotgun) 7-B.Roethlisberger pass short left to 89-J.Cotchery to MIA 36 for 12 yards(95-D.Jordan).'>54</number><number>0.2</number>
+<number shadow='shadow1' tooltip='5:29 2-19-PIT 47MIA 24 PIT 28 LI: 2.1(Shotgun) 7-B.Roethlisberger pass short right to 84-A.Brown to MIA 48 for 5 yards(95-D.Jordan).'>54.52</number><number>0.21</number>
+<number shadow='shadow1' tooltip='4:45 3-14-MIA 48MIA 24 PIT 28 LI: 1.4(Shotgun) 7-B.Roethlisberger pass incomplete deep left to 89-J.Cotchery (28-N.Carroll).'>55.25</number><number>0.23</number>
+<number shadow='shadow1' tooltip='4:39 4-14-MIA 48MIA 24 PIT 28 LI: 1.2(Punt formation) 10-M.McBriar punts 48 yards to end zone Center-60-G.Warren Touchback.'>55.35</number><number>0.23</number>
+<number shadow='shadow1' tooltip='4:31 1-10-MIA 20MIA 24 PIT 28 LI: 1.3(Shotgun) 17-R.Tannehill pass short left to 82-B.Hartline to MIA 29 for 9 yards(22-W.Gay).'>55.48</number><number>0.26</number>
+<number shadow='shadow1' tooltip='3:59 2-1-MIA 29MIA 24 PIT 28 LI: 1.4(Shotgun) 33-D.Thomas left tackle to PIT 16 for 55 yards(22-W.Gay).'>56.02</number><number>0.51</number>
+<number shadow='shadow1' tooltip='3:06 1-10-PIT 16MIA 24 PIT 28 LI: 2.4(Shotgun) 17-R.Tannehill pass short right to 34-M.Thigpen pushed ob at PIT 12 for 4 yards(96-E.Hood).'>56.9</number><number>0.57</number>
+<number shadow='shadow1' tooltip='3:02 2-6-PIT 12MIA 24 PIT 28 LI: 2.5(Shotgun) 17-R.Tannehill pass short right to 42-C.Clay for 12 yards TOUCHDOWN.'>56.97</number><number>0.73</number>
+<number shadow='shadow1' tooltip='3:02 MIA 24 PIT 28 LI: 9-C.Sturgis extra point is GOOD Center-92-J.Denney Holder-2-B.Fields.'>57.01</number><number>0.73</number>
+<number shadow='shadow1' tooltip='3:02 MIA 31 PIT 28 LI: 9-C.Sturgis kicks 71 yards from MIA 35 to PIT -688-E.Sanders to PIT 20 for 26 yards(27-J.Wilson).'>57.06</number><number>0.87</number>
+<number shadow='shadow1' tooltip='2:49 1-10-PIT 10MIA 31 PIT 28 LI: 0.7(Shotgun) 7-B.Roethlisberger pass incomplete short right to 26-L.Bell.'>57.18</number><number>0.85</number>
+<number shadow='shadow1' tooltip='2:45 2-10-PIT 10MIA 31 PIT 28 LI: 0.9(Shotgun) 7-B.Roethlisberger pass incomplete deep left to 89-J.CotcheryCoverage by #21 Grimes.'>57.25</number><number>0.85</number>
+<number shadow='shadow1' tooltip='2:38 3-10-PIT 10MIA 31 PIT 28 LI: 0.9(Shotgun) 7-B.Roethlisberger pass incomplete short middle to 88-E.SandersCoverage by #38 Carroll.'>57.37</number><number>0.85</number>
+<number shadow='shadow1' tooltip='2:33 4-10-PIT 10MIA 31 PIT 28 LI: 0.9(Shotgun) 7-B.Roethlisberger scrambles right tackle to PIT 18 for 8 yards(50-O.Vernon 26-L.Miller).'>57.45</number><number>0.93</number>
+<number shadow='shadow1' tooltip='2:23 1-10-PIT 9MIA 31 PIT 28 LI: 0.733-D.Thomas right guard to PIT 9 for no gain (96-E.Hood 98-V.Williams).'>57.62</number><number>0.92</number>
+<number shadow='shadow1' tooltip='1:59 2-10-PIT 9MIA 31 PIT 28 LI: 0.4#65 Brenner reports as an eligible receiver33-D.Thomas left end to PIT 7 for 2 yards(94-L.Timmons).'>58.02</number><number>0.89</number>
+<number shadow='shadow1' tooltip='1:56 3-7-PIT 7MIA 31 PIT 28 LI: 0.133-D.Thomas left tackle to PIT 9 for -2 yards(94-L.Timmons).'>58.07</number><number>0.88</number>
+<number shadow='shadow1' tooltip='1:12 4-9-PIT 9MIA 31 PIT 28 LI: 0.1(Field Goal formation) 9-C.Sturgis 27 yard field goal is GOOD Center-92-J.Denney Holder-2-B.Fields.'>58.8</number><number>0.84</number>
+<number shadow='shadow1' tooltip='1:12 MIA 34 PIT 28 LI: 9-C.Sturgis kicks 64 yards from MIA 35 to PIT 188-E.Sanders to PIT 20 for 19 yards(93-J.Trusnik).'>58.89</number><number>0.91</number>
+<number shadow='shadow1' tooltip='1:03 1-10-PIT 20MIA 34 PIT 28 LI: 0.8(Shotgun) 7-B.Roethlisberger pass incomplete short left to 26-L.BellCoverage by #27 Wilson Pressure by #91 Wake.'>58.95</number><number>0.95</number>
+<number shadow='shadow1' tooltip='0:57 2-10-PIT 20MIA 34 PIT 28 LI: 0.4(No Huddle Shotgun) 7-B.Roethlisberger sacked at PIT 14 for -6 yards(50-O.Vernon).'>59.05</number><number>0.98</number>
+<number shadow='shadow1' tooltip='0:27 3-16-PIT 14MIA 34 PIT 28 LI: 0.1(No Huddle Shotgun) 7-B.Roethlisberger pass short left to 26-L.Bell to PIT 11 for -3 yardsLateral to 88-E.Sanders to PIT 26 for 15 yards(52-P.Wheeler; 59-D.Ellerbe).'>59.55</number><number>0.99</number>
+<number shadow='shadow1' tooltip='0:03 4-4-PIT 26MIA 34 PIT 28 LI: 0.1(Shotgun) 7-B.Roethlisberger pass deep right to 88-E.Sanders to PIT 33 for 7 yardsLateral to 84-A.Brown ran ob at MIA 12 for 55 yards.'>59.95</number><number>1</number>
+<number>60</number><number>1</number>
+</row> </chart_data>
+       <draw>
+
+
+
+      <image x='45' y='298'  url='nfllogos/42x50png/MIA.gif'  layer='foreground' glow = 'glow1'/>
+      <image x='45' y='350'  url='nfllogos/42x50png/PIT.gif'     layer='foreground' glow = 'glow1'/>
+
+
+      <rect x='130' y='300' width='250' height='40' fill_color='006c76' bevel='bevel1' />
+      <text x='135' y='300' width='250' height='40' h_align='left' v_align='middle' color='ffffff' shadow='shadow2' glow='winnerglow'>Miami Dolphins</text>
+
+      <rect x='130' y='350' width='250' height='40' fill_color='ffac2c' bevel='bevel1'  />
+      <text x='135' y='350' width='250' height='40' h_align='left' v_align='middle' color='ffffff' shadow='shadow2' glow=''>Pittsburgh Steelers</text>
+
+      <rect x='420' y='300' width='60' height='40' fill_color='006c76' bevel='bevel1'  />
+      <text x='420' y='300' width='60' height='40' h_align='center' v_align='middle' color='ffffff' shadow='shadow2' transition='none' glow='winnerglow'>34</text>
+
+      <rect x='420' y='350' width='60' height='40' fill_color='ffac2c' bevel='bevel1' />
+      <text x='420' y='350' width='60' height='40' h_align='center' v_align='middle' color='ffffff' shadow='shadow2' transition='none' glow=''>28</text>
+
+      <text x='-3' y='12'  width='60' height='40' h_align='center' v_align='middle' size='13' shadow='shadow2'>MIAWin </text>
+      <text x='-3' y='218' width='60' height='40' h_align='center' v_align='middle' size='13' shadow='shadow2'>PITWin </text>
+
+     
+              <rect x='540' y='300' width='100' height='35' fill_color='000000' fill_alpha='50'/>
+              <text x='540' y='300' width='100' height='35' h_align='center' v_align='middle' color='ffffff' size='15' shadow='shadow2' >Final</text>
+
+              <text x='540' y='340' width='40' h_align='center' color='000000' size='12' shadow='shadow2'>CBF</text>
+              <text x='600' y='340' width='40' h_align='center' color='000000' size='12' shadow='shadow2'>EI</text>
+
+              <rect x='540' y='360' width='40' height='30' fill_color='000000' fill_alpha='50' />
+              <text x='540' y='360' width='40' height='30' size='12' h_align='center' v_align='middle' color='FFFFFF' shadow='shadow2'>8</text>
+
+              <rect x='600' y='360' width='40' height='30' fill_color='000000' fill_alpha='50' />
+              <text x='600' y='360' width='40' height='30' size='12' h_align='center' v_align='middle' color='FFFFFF' shadow='shadow2'>5.0</text>
+
+              <text x='20' y='420' width='70' height='25' size='12' h_align='left' v_align='middle' color='000000' >12/8/2013</text>
+              <text x='100' y='420' width='200' height='25' size='12' h_align='left' v_align='middle' color='000000' >Heinz Field</text>
+
+   </draw></chart>

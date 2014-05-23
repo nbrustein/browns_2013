@@ -1,0 +1,291 @@
+
+<chart>
+   <license>ETAS9P33ESHO.945CWK-2XOI1X0-7L</license>
+   <chart_type>scatter</chart_type>
+   <chart_pref trend_thickness='0' line_thickness='3' point_size='0'/>
+
+   <series_color>
+      <color>ffff00</color>
+   </series_color>
+
+   <chart_rect x='45' y='20' width='630' height='230' positive_color='cacaca'  />
+
+  <chart_border top_thickness='0'
+                 bottom_thickness='0'
+                 left_thickness='0'
+                 right_thickness='0'
+                 color='000000'
+                 />
+
+   <tooltip font='Arial' bold='true' size='11' />
+
+   <chart_note type='flag'
+               color='000000'
+               alpha='90'
+               bold='FALSE'
+               size='10'
+               background_color='ffffe0'
+               background_alpha='50'
+               shadow='shadow2'
+               />
+
+   <chart_grid_h thickness='2' color='ffffff' type='dashed'  />
+   <chart_grid_v thickness='2' color='ffffff'   />
+		>
+
+   <legend layout='hide' />
+
+   <chart_guide horizontal='TRUE'
+             vertical='TRUE'
+             thickness='1'
+             color='006400'
+             alpha='100'
+             type='solid'
+             snap_h='TRUE'
+             snap_v='TRUE'
+             radius='3'
+             fill_color='006400'
+             fill_alpha='100'
+             line_color='006400'
+             line_alpha='80'
+             line_thickness='1'
+             text_h_alpha='50'
+             text_v_alpha='00'
+             suffix_h=' WP'
+             decimals='2'
+             bold='FALSE'
+             size='11'
+             text_color='FFFFFF'
+             background_color='006400'
+             />
+   <filter>
+      <shadow id='shadow1' distance='2' angle='60' blurX='5' blurY='5' alpha='50' />
+      <bevel id='bevel1' angle='45' blurX='5' blurY='5' distance='0' />
+      <glow id='glow1' color='ffffff' alpha='0' blurX='7' blurY='7' strength='6' quality='2' inner='FALSE' knockout='FALSE' />
+      <glow id='winnerglow' color='ffffff' alpha='0' blurX='7' blurY='7' strength='5' quality='2' inner='FALSE' knockout='FALSE' />
+   </filter>
+
+    <axis_value_label>
+         <string></string>
+          <string> </string>
+          <null/>
+          <string> </string>
+          <string></string>
+
+       </axis_value_label>
+		
+	   <axis_ticks category_ticks='false'/>
+
+       <axis_value min='0' max='1' steps='4'  decimals='2' show_min='true' size='13' shadow='shadow2' />     
+            <axis_category
+               min='0'
+               max='60'
+               steps='4'
+               mode='all'
+               decimals='0'
+               size='13'
+               shadow='shadow2'
+               />
+
+       <axis_category_label>
+          <string>Kickoff</string>
+          <string></string>
+          <string>Halftime</string>
+          <string></string>
+          <string>End</string>
+
+       </axis_category_label>
+
+
+        <chart_data>
+       <row>
+	      <null/><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number>
+              <number>x</number><number>y</number>
+              </row><row><string></string>
+
+                     <number shadow='shadow1'>0</number><number>.5</number><number shadow='shadow1' tooltip='15:00 SF 0 WAS 0 LI: 9-P.Dawson kicks 56 yards from SF 35 to WAS 984-N.Paul to WAS 21 for 12 yards(32-K.Hunter).'>0.09</number><number>0.48</number>
+<number shadow='shadow1' tooltip='14:51 2-10-WAS 21SF 0 WAS 0 LI: 1.410-R.Griffin scrambles left end pushed ob at WAS 25 for 4 yards(53-N.Bowman).'>0.15</number><number>0.5</number>
+<number shadow='shadow1' tooltip='14:12 3-6-WAS 25SF 0 WAS 0 LI: 1.3(Shotgun) 10-R.Griffin pass incomplete short right to 82-L.Paulsen.'>0.8</number><number>0.54</number>
+<number shadow='shadow1' tooltip='14:07 4-6-WAS 25SF 0 WAS 0 LI: 0.96-S.Rocca punts 44 yards to SF 31 Center-40-K.Nelson fair catch by 23-L.James.'>0.88</number><number>0.54</number>
+<number shadow='shadow1' tooltip='13:59 1-10-SF 31SF 0 WAS 0 LI: 1.521-F.Gore right guard to SF 33 for 2 yards(37-R.Doughty 56-P.Riley).'>1.02</number><number>0.52</number>
+<number shadow='shadow1' tooltip='13:22 2-8-SF 33SF 0 WAS 0 LI: 1.3(Shotgun) 7-C.Kaepernick pass short left to 82-M.Manningham to SF 44 for 11 yards(26-J.Wilson).'>1.63</number><number>0.56</number>
+<number shadow='shadow1' tooltip='12:49 1-10-SF 44SF 0 WAS 0 LI: 1.421-F.Gore right guard to SF 49 for 5 yards(31-B.Meriweather 26-J.Wilson).'>2.18</number><number>0.56</number>
+<number shadow='shadow1' tooltip='12:12 2-5-SF 49SF 0 WAS 0 LI: 1.3(Shotgun) 7-C.Kaepernick sacked at SF 45 for -4 yards(98-B.Orakpo).'>2.8</number><number>0.52</number>
+<number shadow='shadow1' tooltip='11:32 3-9-SF 45SF 0 WAS 0 LI: 1(Shotgun) 7-C.Kaepernick pass incomplete short middle to 85-V.Davis (23-D.Hall).'>3.47</number><number>0.48</number>
+<number shadow='shadow1' tooltip='11:27 4-9-SF 45SF 0 WAS 0 LI: 0.64-A.Lee punts 55 yards to end zone Center-47-K.McDermott Touchback.'>3.55</number><number>0.48</number>
+<number shadow='shadow1' tooltip='11:19 1-10-WAS 20SF 0 WAS 0 LI: 1.6(Shotgun) 46-A.Morris right tackle to WAS 22 for 2 yards(55-A.Brooks).'>3.68</number><number>0.5</number>
+<number shadow='shadow1' tooltip='10:43 2-8-WAS 22SF 0 WAS 0 LI: 1.4(Shotgun) 10-R.Griffin left end pushed ob at WAS 27 for 5 yards(31-D.Whitner).'>4.28</number><number>0.5</number>
+<number shadow='shadow1' tooltip='9:59 3-3-WAS 27SF 0 WAS 0 LI: 1.2(Shotgun) 29-R.Helu left tackle to WAS 29 for 2 yards(94-J.Smith 51-D.Skuta).'>5.02</number><number>0.54</number>
+<number shadow='shadow1' tooltip='9:16 4-1-WAS 29SF 0 WAS 0 LI: 0.86-S.Rocca punts 44 yards to SF 27 Center-40-K.Nelson23-L.James to SF 31 for 4 yards(58-J.Hull; 22-E.Royster).'>5.73</number><number>0.52</number>
+<number shadow='shadow1' tooltip='9:00 1-10-SF 21SF 0 WAS 0 LI: 1.67-C.Kaepernick pass short left to 82-M.Manningham ran ob at SF 34 for 13 yards.'>6</number><number>0.54</number>
+<number shadow='shadow1' tooltip='8:38 1-10-SF 34SF 0 WAS 0 LI: 1.521-F.Gore right tackle to SF 36 for 2 yards(56-P.Riley 59-L.Fletcher).'>6.37</number><number>0.52</number>
+<number shadow='shadow1' tooltip='8:05 2-8-SF 36SF 0 WAS 0 LI: 1.2(Shotgun) 7-C.Kaepernick pass incomplete short left to 82-M.Manningham.'>6.92</number><number>0.5</number>
+<number shadow='shadow1' tooltip='8:00 3-8-SF 36SF 0 WAS 0 LI: 1(Shotgun) 7-C.Kaepernick sacked at SF 33 for -3 yards(99-J.Jenkins).'>7</number><number>0.47</number>
+<number shadow='shadow1' tooltip='7:30 4-11-SF 33SF 0 WAS 0 LI: 0.84-A.Lee punts 58 yards to WAS 9 Center-47-K.McDermott89-S.Moss to WAS 22 for 13 yards(53-N.Bowman).'>7.5</number><number>0.48</number>
+<number shadow='shadow1' tooltip='7:18 1-10-WAS 22SF 0 WAS 0 LI: 1.6(Shotgun) 10-R.Griffin pass incomplete deep right to 11-A.Robinson (55-A.Brooks).'>7.7</number><number>0.5</number>
+<number shadow='shadow1' tooltip='7:13 2-10-WAS 22SF 0 WAS 0 LI: 1.4(Shotgun) 46-A.Morris right end to WAS 22 for no gain (55-A.Brooks).'>7.78</number><number>0.52</number>
+<number shadow='shadow1' tooltip='6:32 3-10-WAS 22SF 0 WAS 0 LI: 1.2(Shotgun) 10-R.Griffin pass incomplete deep middle to 11-A.Robinson.'>8.47</number><number>0.55</number>
+<number shadow='shadow1' tooltip='6:22 4-10-WAS 22SF 0 WAS 0 LI: 0.96-S.Rocca punts 51 yards to SF 27 Center-40-K.Nelson23-L.James pushed ob at SF 38 for 11 yards(34-T.Robinson).'>8.63</number><number>0.55</number>
+<number shadow='shadow1' tooltip='6:13 1-10-SF 38SF 0 WAS 0 LI: 1.5(Shotgun) 21-F.Gore right end to SF 40 for 2 yards(59-L.Fletcher).'>8.78</number><number>0.53</number>
+<number shadow='shadow1' tooltip='5:38 2-8-SF 40SF 0 WAS 0 LI: 1.27-C.Kaepernick pass incomplete deep middle to 82-M.Manningham (26-J.Wilson).'>9.37</number><number>0.51</number>
+<number shadow='shadow1' tooltip='5:32 3-8-SF 40SF 0 WAS 0 LI: 1(Shotgun) 7-C.Kaepernick pass short middle to 82-M.Manningham to WAS 49 for 11 yards(39-D.Amerson).'>9.47</number><number>0.57</number>
+<number shadow='shadow1' tooltip='5:01 1-10-WAS 49SF 0 WAS 0 LI: 1.332-K.Hunter left end to WAS 45 for 4 yards(56-P.Riley; 91-R.Kerrigan).'>9.98</number><number>0.57</number>
+<number shadow='shadow1' tooltip='4:27 2-6-WAS 45SF 0 WAS 0 LI: 1.37-C.Kaepernick FUMBLES (Aborted) at WAS 46 and recovers at WAS 467-C.Kaepernick pushed ob at WAS 43 for 3 yards(37-R.Doughty).'>10.55</number><number>0.56</number>
+<number shadow='shadow1' tooltip='3:46 3-4-WAS 43SF 0 WAS 0 LI: 1.1(Shotgun) 7-C.Kaepernick pass deep left to 81-A.Boldin to WAS 19 for 24 yards(26-J.Wilson).'>11.23</number><number>0.64</number>
+<number shadow='shadow1' tooltip='3:02 1-10-WAS 19SF 0 WAS 0 LI: 1.57-C.Kaepernick pass deep right to 81-A.Boldin for 19 yards TOUCHDOWN.'>11.97</number><number>0.71</number>
+<number shadow='shadow1' tooltip='3:02 SF 0 WAS 0 LI: 9-P.Dawson extra point is GOOD Center-47-K.McDermott Holder-4-A.Lee.'>12.01</number><number>0.71</number>
+<number shadow='shadow1' tooltip='3:02 SF 7 WAS 0 LI: 9-P.Dawson kicks 58 yards from SF 35 to WAS 784-N.Paul to WAS 27 for 20 yards(54-N.Moody).'>12.06</number><number>0.71</number>
+<number shadow='shadow1' tooltip='2:46 1-10-WAS 27SF 7 WAS 0 LI: 1.446-A.Morris left end to WAS 27 for no gain (53-N.Bowman; 90-G.Dorsey).'>12.23</number><number>0.72</number>
+<number shadow='shadow1' tooltip='2:09 2-10-WAS 27SF 7 WAS 0 LI: 1.310-R.Griffin pass short right to 88-P.Garcon to WAS 26 for -1 yards(31-D.Whitner).'>12.85</number><number>0.74</number>
+<number shadow='shadow1' tooltip='1:28 3-11-WAS 26SF 7 WAS 0 LI: 1.1(Shotgun) 10-R.Griffin scrambles left end pushed ob at WAS 37 for 11 yards(55-A.Brooks).'>13.53</number><number>0.69</number>
+<number shadow='shadow1' tooltip='0:48 1-10-WAS 37SF 7 WAS 0 LI: 1.329-R.Helu right tackle to WAS 49 for 12 yards(35-E.Reid; 22-C.Rogers).'>14.2</number><number>0.68</number>
+<number shadow='shadow1' tooltip='0:08 1-10-WAS 49SF 7 WAS 0 LI: 1.210-R.Griffin pass deep left intended for 88-P.Garcon INTERCEPTED by 31-D.Whitner [99-A.Smith] at SF 3531-D.Whitner to SF 42 for 7 yards(82-L.Paulsen).'>14.87</number><number>0.78</number>
+<number shadow='shadow1' tooltip='15:00 1-10-SF 42SF 7 WAS 0 LI: 1.2(Shotgun) 7-C.Kaepernick pass deep middle to 85-V.Davis to WAS 18 for 40 yards(26-J.Wilson; 55-N.Barnett).'>15</number><number>0.87</number>
+<number shadow='shadow1' tooltip='14:26 1-10-WAS 18SF 7 WAS 0 LI: 1.521-F.Gore left tackle to WAS 13 for 5 yards(96-B.Cofield; 99-J.Jenkins).'>15.57</number><number>0.87</number>
+<number shadow='shadow1' tooltip='13:44 2-5-WAS 13SF 7 WAS 0 LI: 1.432-K.Hunter up the middle to WAS 13 for no gain (37-R.Doughty; 64-K.Golston).'>16.27</number><number>0.85</number>
+<number shadow='shadow1' tooltip='13:00 3-5-WAS 13SF 7 WAS 0 LI: 1.2(Shotgun) 7-C.Kaepernick scrambles left end pushed ob at WAS 11 for 2 yards(31-B.Meriweather).'>17</number><number>0.81</number>
+<number shadow='shadow1' tooltip='12:14 4-3-WAS 11SF 7 WAS 0 LI: 0.89-P.Dawson 29 yard field goal is GOOD Center-47-K.McDermott Holder-4-A.Lee.'>17.77</number><number>0.81</number>
+<number shadow='shadow1' tooltip='12:14 SF 10 WAS 0 LI: 9-P.Dawson kicks 65 yards from SF 35 to WAS 084-N.Paul pushed ob at WAS 19 for 19 yards(14-K.Osgood).'>17.86</number><number>0.82</number>
+<number shadow='shadow1' tooltip='12:04 1-10-WAS 19SF 10 WAS 0 LI: 0.546-A.Morris right end to WAS 23 for 4 yards(90-G.Dorsey 35-E.Reid).'>17.93</number><number>0.82</number>
+<number shadow='shadow1' tooltip='11:27 2-6-WAS 23SF 10 WAS 0 LI: 0.5(Shotgun) 10-R.Griffin pass short left to 88-P.Garcon to WAS 33 for 10 yards(52-P.Willis 99-A.Smith).'>18.55</number><number>0.8</number>
+<number shadow='shadow1' tooltip='10:46 1-10-WAS 33SF 10 WAS 0 LI: 0.7(Shotgun) 10-R.Griffin pass short left to 15-J.Morgan to WAS 41 for 8 yards(26-T.Brock).'>19.23</number><number>0.79</number>
+<number shadow='shadow1' tooltip='10:06 2-2-WAS 41SF 10 WAS 0 LI: 0.846-A.Morris right guard to SF 47 for 12 yards(35-E.Reid).'>19.9</number><number>0.77</number>
+<number shadow='shadow1' tooltip='9:38 1-10-SF 47SF 10 WAS 0 LI: 0.9(No Huddle Shotgun) 46-A.Morris left guard to SF 42 for 5 yards(51-D.Skuta; 35-E.Reid).'>20.37</number><number>0.78</number>
+<number shadow='shadow1' tooltip='9:16 2-5-SF 42SF 10 WAS 0 LI: 0.8(No Huddle Shotgun) 46-A.Morris right end to SF 33 for 9 yards(31-D.Whitner; 52-P.Willis).'>20.73</number><number>0.75</number>
+<number shadow='shadow1' tooltip='8:50 1-10-SF 33SF 10 WAS 0 LI: 1(No Huddle Shotgun) 10-R.Griffin pass short right to 15-J.Morgan pushed ob at SF 24 for 9 yards(22-C.Rogers).'>21.17</number><number>0.72</number>
+<number shadow='shadow1' tooltip='8:28 2-1-SF 24SF 10 WAS 0 LI: 1.3(No Huddle Shotgun) 29-R.Helu left end to SF 24 for no gain (52-P.Willis).'>21.53</number><number>0.73</number>
+<number shadow='shadow1' tooltip='8:00 3-1-SF 24SF 10 WAS 0 LI: 1.2(No Huddle Shotgun) 29-R.Helu up the middle to SF 19 for 5 yards(52-P.Willis).'>22</number><number>0.72</number>
+<number shadow='shadow1' tooltip='7:34 1-10-SF 19SF 10 WAS 0 LI: 1.2(No Huddle Shotgun) 10-R.Griffin pass incomplete short middle to 88-P.Garcon.'>22.43</number><number>0.71</number>
+<number shadow='shadow1' tooltip='7:27 2-10-SF 19SF 10 WAS 0 LI: 1.3(Shotgun) 10-R.Griffin pass short right to 15-J.Morgan pushed ob at SF 18 for 1 yard(63-T.Jerod-Eddie).'>22.55</number><number>0.72</number>
+<number shadow='shadow1' tooltip='6:51 3-9-SF 18SF 10 WAS 0 LI: 1.2(Shotgun) 10-R.Griffin pass incomplete short left to 89-S.Moss.'>23.15</number><number>0.76</number>
+<number shadow='shadow1' tooltip='6:48 4-9-SF 18SF 10 WAS 0 LI: 0.82-K.Forbath 36 yard field goal is GOOD Center-40-K.Nelson Holder-6-S.Rocca.'>23.2</number><number>0.75</number>
+<number shadow='shadow1' tooltip='6:48 SF 10 WAS 3 LI: 2-K.Forbath kicks 59 yards from WAS 35 to SF 623-L.James to SF 27 for 21 yards(22-E.Royster).'>23.29</number><number>0.75</number>
+<number shadow='shadow1' tooltip='6:37 1-10-SF 27SF 10 WAS 3 LI: 121-F.Gore left end to SF 29 for 2 yards(92-C.Baker).'>23.38</number><number>0.75</number>
+<number shadow='shadow1' tooltip='5:51 2-8-SF 29SF 10 WAS 3 LI: 1(Shotgun) 32-K.Hunter left tackle to SF 32 for 3 yards(98-B.Orakpo 59-L.Fletcher).'>24.15</number><number>0.75</number>
+<number shadow='shadow1' tooltip='5:09 3-5-SF 32SF 10 WAS 3 LI: 0.9(No Huddle Shotgun) 7-C.Kaepernick pass incomplete short middle to 81-A.Boldin (56-P.Riley).'>24.85</number><number>0.72</number>
+<number shadow='shadow1' tooltip='5:03 4-5-SF 32SF 10 WAS 3 LI: 0.64-A.Lee punts 48 yards to WAS 20 Center-47-K.McDermott fair catch by 89-S.Moss.'>24.95</number><number>0.73</number>
+<number shadow='shadow1' tooltip='4:55 1-10-WAS 20SF 10 WAS 3 LI: 1.146-A.Morris right end to WAS 21 for 1 yard(63-T.Jerod-Eddie 90-G.Dorsey).'>25.08</number><number>0.74</number>
+<number shadow='shadow1' tooltip='4:14 2-9-WAS 21SF 10 WAS 3 LI: 1(Shotgun) 46-A.Morris right tackle to WAS 21 for no gain (53-N.Bowman).'>25.77</number><number>0.75</number>
+<number shadow='shadow1' tooltip='3:29 3-9-WAS 21SF 10 WAS 3 LI: 0.9(Shotgun) 10-R.Griffin pass deep middle to 89-S.Moss to WAS 39 for 18 yards(31-D.Whitner).'>26.52</number><number>0.7</number>
+<number shadow='shadow1' tooltip='2:47 1-10-WAS 39SF 10 WAS 3 LI: 1.1(Shotgun) 10-R.Griffin pass short right to 15-J.Morgan pushed ob at SF 43 for 18 yards(35-E.Reid).'>27.22</number><number>0.67</number>
+<number shadow='shadow1' tooltip='2:22 1-10-SF 43SF 10 WAS 3 LI: 1.146-A.Morris left guard to SF 37 for 6 yards(94-J.Smith 83-D.Dobbs).'>27.63</number><number>0.68</number>
+<number shadow='shadow1' tooltip='2:00 2-4-SF 37SF 10 WAS 3 LI: 146-A.Morris left tackle to SF 36 for 1 yard(90-G.Dorsey 31-D.Whitner).'>28</number><number>0.69</number>
+<number shadow='shadow1' tooltip='1:19 3-3-SF 36SF 10 WAS 3 LI: 0.910-R.Griffin pass short right to 15-J.Morgan to SF 27 for 9 yards(52-P.Willis).'>28.68</number><number>0.65</number>
+<number shadow='shadow1' tooltip='0:47 1-10-SF 27SF 10 WAS 3 LI: 1.2(No Huddle Shotgun) 10-R.Griffin pass short left to 88-P.Garcon pushed ob at SF 18 for 9 yards(26-T.Brock).'>29.22</number><number>0.59</number>
+<number shadow='shadow1' tooltip='0:41 2-1-SF 18SF 10 WAS 3 LI: 1.7(Shotgun) 10-R.Griffin up the middle to SF 19 for -1 yards(94-J.Smith)FUMBLES (94-J.Smith) recovered by WAS-88-P.Garcon at SF 2188-P.Garcon to SF 21 for no gain (55-A.Brooks).'>29.32</number><number>0.63</number>
+<number shadow='shadow1' tooltip='0:27 3-4-SF 21SF 10 WAS 3 LI: 1.3(Shotgun) 10-R.Griffin pass short left to 88-P.Garcon to SF 18 for 3 yards(26-T.Brock).'>29.55</number><number>0.69</number>
+<number shadow='shadow1' tooltip='0:04 4-1-SF 18SF 10 WAS 3 LI: 0.7(No Huddle Shotgun) 2-K.Forbath 35 yard field goal is GOOD Center-40-K.Nelson Holder-6-S.Rocca.'>29.93</number><number>0.68</number>
+<number shadow='shadow1' tooltip='0:04 SF 10 WAS 6 LI: 2-K.Forbath kicks 62 yards from WAS 35 to SF 323-L.James to SF 35 for 32 yards(30-E.Biggers; 24-B.Rambo).'>30.02</number><number>0.69</number>
+<number shadow='shadow1' tooltip='14:53 1-10-SF 35SF 10 WAS 6 LI: 1.47-C.Kaepernick pass incomplete short left to 82-M.Manningham (56-P.Riley).'>30.12</number><number>0.69</number>
+<number shadow='shadow1' tooltip='14:48 2-10-SF 35SF 10 WAS 6 LI: 1.4(Shotgun) 32-K.Hunter right end to SF 36 for 1 yard(96-B.Cofield 37-R.Doughty).'>30.2</number><number>0.68</number>
+<number shadow='shadow1' tooltip='14:06 3-9-SF 36SF 10 WAS 6 LI: 1.3(Shotgun) 7-C.Kaepernick pass short middle to 85-V.Davis to SF 45 for 9 yards(23-D.Hall)FUMBLES (23-D.Hall) RECOVERED by WAS-31-B.Meriweather at SF 4931-B.Meriweather to SF 49 for no gain (75-A.Boone).'>30.9</number><number>0.58</number>
+<number shadow='shadow1' tooltip='13:54 1-10-SF 49SF 10 WAS 6 LI: 1.446-A.Morris left guard to SF 46 for 3 yards(53-N.Bowman 94-J.Smith).'>31.1</number><number>0.59</number>
+<number shadow='shadow1' tooltip='13:10 2-7-SF 46SF 10 WAS 6 LI: 1.3(Shotgun) 10-R.Griffin pass incomplete short left to 15-J.Morgan (35-E.Reid) [99-A.Smith]Washington challenged the incomplete pass ruling and the play was Upheld(Timeout #1.)'>31.83</number><number>0.62</number>
+<number shadow='shadow1' tooltip='13:03 3-7-SF 46SF 10 WAS 6 LI: 1(Shotgun) 10-R.Griffin pass short right to 89-S.Moss to SF 41 for 5 yards(22-C.Rogers 52-P.Willis) [94-J.Smith].'>31.95</number><number>0.67</number>
+<number shadow='shadow1' tooltip='12:18 4-2-SF 41SF 10 WAS 6 LI: 0.429-R.Helu right guard to SF 40 for 1 yard(52-P.Willis; 53-N.Bowman).'>32.7</number><number>0.71</number>
+<number shadow='shadow1' tooltip='12:06 1-10-SF 40SF 10 WAS 6 LI: 1.57-C.Kaepernick pass short middle to 21-F.Gore to SF 43 for 3 yards(59-L.Fletcher).'>32.9</number><number>0.71</number>
+<number shadow='shadow1' tooltip='11:25 2-7-SF 43SF 10 WAS 6 LI: 1.47-C.Kaepernick pass incomplete deep left to 85-V.Davis.'>33.58</number><number>0.7</number>
+<number shadow='shadow1' tooltip='11:18 3-7-SF 43SF 10 WAS 6 LI: 1.3(Shotgun) 7-C.Kaepernick pass deep right to 81-A.Boldin to WAS 25 for 32 yards(26-J.Wilson).'>33.7</number><number>0.77</number>
+<number shadow='shadow1' tooltip='10:40 1-10-WAS 25SF 10 WAS 6 LI: 1.121-F.Gore up the middle to WAS 26 for -1 yards(91-R.Kerrigan).'>34.33</number><number>0.77</number>
+<number shadow='shadow1' tooltip='10:09 2-11-WAS 26SF 10 WAS 6 LI: 1.1(Shotgun) 7-C.Kaepernick pass deep right to 85-V.Davis ran ob at WAS 6 for 20 yards.'>34.85</number><number>0.81</number>
+<number shadow='shadow1' tooltip='9:33 1-6-WAS 6SF 10 WAS 6 LI: 1.1(Shotgun) 7-C.Kaepernick pass short middle to 81-A.Boldin for 6 yards TOUCHDOWN.'>35.45</number><number>0.83</number>
+<number shadow='shadow1' tooltip='9:33 SF 10 WAS 6 LI: 9-P.Dawson extra point is GOOD Center-47-K.McDermott Holder-4-A.Lee.'>35.49</number><number>0.83</number>
+<number shadow='shadow1' tooltip='9:33 SF 17 WAS 6 LI: 9-P.Dawson kicks 64 yards from SF 35 to WAS 184-N.Paul to WAS 19 for 18 yards(57-M.Wilhoite).'>35.54</number><number>0.84</number>
+<number shadow='shadow1' tooltip='9:18 1-10-WAS 19SF 17 WAS 6 LI: 1.1(Shotgun) 10-R.Griffin sacked at WAS 11 for -8 yards(99-A.Smith).'>35.7</number><number>0.88</number>
+<number shadow='shadow1' tooltip='8:39 2-18-WAS 11SF 17 WAS 6 LI: 0.5(Shotgun) 10-R.Griffin pass incomplete short left to 82-L.Paulsen.'>36.35</number><number>0.89</number>
+<number shadow='shadow1' tooltip='8:29 3-18-WAS 11SF 17 WAS 6 LI: 0.429-R.Helu right guard to WAS 13 for 2 yards(63-T.Jerod-Eddie; 53-N.Bowman).'>36.52</number><number>0.9</number>
+<number shadow='shadow1' tooltip='7:58 4-16-WAS 13SF 17 WAS 6 LI: 0.36-S.Rocca punts 49 yards to SF 38 Center-40-K.Nelson23-L.James to WAS 45 for 17 yards(58-J.Hull).'>37.03</number><number>0.92</number>
+<number shadow='shadow1' tooltip='7:45 1-10-WAS 40SF 17 WAS 6 LI: 121-F.Gore left end to WAS 33 for 7 yards(56-P.Riley 37-R.Doughty).'>37.25</number><number>0.93</number>
+<number shadow='shadow1' tooltip='7:01 2-3-WAS 33SF 17 WAS 6 LI: 121-F.Gore left guard to WAS 34 for -1 yards(92-C.Baker 98-B.Orakpo).'>37.98</number><number>0.92</number>
+<number shadow='shadow1' tooltip='6:20 3-4-WAS 34SF 17 WAS 6 LI: 0.9(Shotgun) 7-C.Kaepernick pass incomplete short right to 23-L.James.'>38.67</number><number>0.88</number>
+<number shadow='shadow1' tooltip='6:14 4-4-WAS 34SF 17 WAS 6 LI: 0.5(Shotgun) 7-C.Kaepernick pass incomplete short left to 21-F.Gore.'>38.77</number><number>0.83</number>
+<number shadow='shadow1' tooltip='6:04 1-10-WAS 34SF 17 WAS 6 LI: 1.146-A.Morris left guard to WAS 41 for 7 yards(94-J.Smith 63-T.Jerod-Eddie).'>38.93</number><number>0.83</number>
+<number shadow='shadow1' tooltip='5:27 2-3-WAS 41SF 17 WAS 6 LI: 146-A.Morris left tackle to WAS 41 for no gain (55-A.Brooks; 63-T.Jerod-Eddie).'>39.55</number><number>0.86</number>
+<number shadow='shadow1' tooltip='4:56 2-13-WAS 31SF 17 WAS 6 LI: 0.8(Shotgun) 10-R.Griffin pass short left to 88-P.Garcon to WAS 39 for 8 yards(52-P.Willis).'>40.07</number><number>0.85</number>
+<number shadow='shadow1' tooltip='4:15 3-5-WAS 39SF 17 WAS 6 LI: 0.8(Shotgun) 10-R.Griffin scrambles to WAS 37 for -2 yards.'>40.75</number><number>0.88</number>
+<number shadow='shadow1' tooltip='3:35 1-10-WAS 39SF 17 WAS 6 LI: 0.9PENALTY on SF-81-A.Boldin False Start 5 yards enforced at WAS 39 - No Play.'>41.42</number><number>0.92</number>
+<number shadow='shadow1' tooltip='3:06 1-10-WAS 21SF 17 WAS 6 LI: 0.97-C.Kaepernick left end pushed ob at WAS 13 for 8 yards(59-L.Fletcher).'>41.9</number><number>0.97</number>
+<number shadow='shadow1' tooltip='2:33 2-2-WAS 13SF 17 WAS 6 LI: 0.921-F.Gore right guard to WAS 5 for 8 yards(31-B.Meriweather; 37-R.Doughty).'>42.45</number><number>0.97</number>
+<number shadow='shadow1' tooltip='1:50 1-5-WAS 5SF 17 WAS 6 LI: 0.821-F.Gore left guard to WAS 1 for 4 yards(59-L.Fletcher; 37-R.Doughty).'>43.17</number><number>0.97</number>
+<number shadow='shadow1' tooltip='1:09 2-1-WAS 1SF 17 WAS 6 LI: 0.77-C.Kaepernick pass short right to 85-V.Davis for 1 yard TOUCHDOWN.'>43.85</number><number>0.97</number>
+<number shadow='shadow1' tooltip='1:09 SF 17 WAS 6 LI: 9-P.Dawson extra point is GOOD Center-47-K.McDermott Holder-4-A.Lee.'>43.89</number><number>0.97</number>
+<number shadow='shadow1' tooltip='1:09 SF 24 WAS 6 LI: 9-P.Dawson kicks 61 yards from SF 35 to WAS 484-N.Paul to WAS 21 for 17 yards(54-N.Moody)WAS-84-N.Paul was injured during the play.'>43.94</number><number>0.97</number>
+<number shadow='shadow1' tooltip='0:59 1-10-WAS 21SF 24 WAS 6 LI: 0.110-R.Griffin pass incomplete deep middle to 11-A.Robinson (22-C.Rogers).'>44.02</number><number>0.97</number>
+<number shadow='shadow1' tooltip='0:50 2-10-WAS 21SF 24 WAS 6 LI: 0.1(Shotgun) 46-A.Morris right tackle to WAS 23 for 2 yards(52-P.Willis).'>44.17</number><number>0.98</number>
+<number shadow='shadow1' tooltip='0:05 3-8-WAS 23SF 24 WAS 6 LI: 0.1(Shotgun) 10-R.Griffin sacked at WAS 12 for -11 yards(55-A.Brooks).'>44.92</number><number>0.98</number>
+<number shadow='shadow1' tooltip='15:00 4-19-WAS 12SF 24 WAS 6 LI: 0.16-S.Rocca punts 40 yards to SF 48 Center-40-K.Nelson23-L.James MUFFS catch and recovers at SF 4523-L.James to SF 45 for no gain (29-R.Helu).'>45</number><number>0.98</number>
+<number shadow='shadow1' tooltip='14:48 1-10-SF 45SF 24 WAS 6 LI: 0.132-K.Hunter left end to SF 45 for no gain (59-L.Fletcher).'>45.2</number><number>0.98</number>
+<number shadow='shadow1' tooltip='14:17 2-10-SF 45SF 24 WAS 6 LI: 0.121-F.Gore right end to SF 44 for -1 yards(91-R.Kerrigan).'>45.72</number><number>0.98</number>
+<number shadow='shadow1' tooltip='13:34 3-11-SF 44SF 24 WAS 6 LI: 0.1(Shotgun) 7-C.Kaepernick pass short middle to 81-A.Boldin to WAS 43 for 13 yards(30-E.Biggers 56-P.Riley).'>46.43</number><number>0.99</number>
+<number shadow='shadow1' tooltip='12:59 1-10-WAS 43SF 24 WAS 6 LI: 0.221-F.Gore left end to WAS 46 for -3 yards(96-B.Cofield).'>47.02</number><number>0.99</number>
+<number shadow='shadow1' tooltip='12:18 2-13-WAS 46SF 24 WAS 6 LI: 0.27-C.Kaepernick pass short right to 82-M.Manningham to WAS 36 for 10 yards(26-J.Wilson).'>47.7</number><number>0.99</number>
+<number shadow='shadow1' tooltip='11:33 3-3-WAS 36SF 24 WAS 6 LI: 0.1(Shotgun) 7-C.Kaepernick scrambles left end pushed ob at WAS 35 for 1 yard(31-B.Meriweather).'>48.45</number><number>0.99</number>
+<number shadow='shadow1' tooltip='11:10 4-2-WAS 35SF 24 WAS 6 LI: 0.17-C.Kaepernick scrambles up the middle to WAS 30 for 5 yards(31-B.Meriweather).'>48.83</number><number>0.99</number>
+<number shadow='shadow1' tooltip='10:35 1-10-WAS 35SF 24 WAS 6 LI: 0.132-K.Hunter right guard to WAS 36 for -1 yards(26-J.Wilson; 54-D.Tapp).'>49.42</number><number>0.99</number>
+<number shadow='shadow1' tooltip='9:58 2-11-WAS 36SF 24 WAS 6 LI: 0.17-C.Kaepernick pass incomplete deep middle to 85-V.Davis.'>50.03</number><number>0.99</number>
+<number shadow='shadow1' tooltip='9:52 3-11-WAS 36SF 24 WAS 6 LI: 0.17-C.Kaepernick scrambles left end to WAS 31 for 5 yards(26-J.Wilson).'>50.13</number><number>0.99</number>
+<number shadow='shadow1' tooltip='9:08 4-6-WAS 31SF 24 WAS 6 LI: 0.19-P.Dawson 49 yard field goal is GOOD Center-47-K.McDermott Holder-4-A.Lee.'>50.87</number><number>0.99</number>
+<number shadow='shadow1' tooltip='9:08 SF 27 WAS 6 LI: 9-P.Dawson kicks 61 yards from SF 35 to WAS 484-N.Paul to WAS 20 for 16 yards(27-C.Spillman).'>50.96</number><number>0.99</number>
+<number shadow='shadow1' tooltip='8:56 1-10-WAS 20SF 27 WAS 6 LI: 0.1(Shotgun) 29-R.Helu up the middle to WAS 24 for 4 yards(94-J.Smith; 55-A.Brooks).'>51.07</number><number>0.99</number>
+<number shadow='shadow1' tooltip='8:28 2-6-WAS 24SF 27 WAS 6 LI: 0.1(No Huddle Shotgun) 10-R.Griffin pass short left to 88-P.Garcon to WAS 34 for 10 yards(26-T.Brock 53-N.Bowman).'>51.53</number><number>0.99</number>
+<number shadow='shadow1' tooltip='8:06 1-10-WAS 34SF 27 WAS 6 LI: 0.1(No Huddle Shotgun) 10-R.Griffin pass short left to 88-P.Garcon to WAS 39 for 5 yards(53-N.Bowman).'>51.9</number><number>0.99</number>
+<number shadow='shadow1' tooltip='7:40 2-5-WAS 39SF 27 WAS 6 LI: 0.1(No Huddle Shotgun) 10-R.Griffin sacked at WAS 33 for -6 yards(99-A.Smith).'>52.33</number><number>0.99</number>
+<number shadow='shadow1' tooltip='7:00 3-11-WAS 33SF 27 WAS 6 LI: 0.1(Shotgun) 10-R.Griffin sacked at WAS 21 for -12 yards(55-A.Brooks 83-D.Dobbs).'>53</number><number>0.99</number>
+<number shadow='shadow1' tooltip='6:27 4-23-WAS 21SF 27 WAS 6 LI: 0.16-S.Rocca punts 42 yards to SF 37 Center-40-K.Nelson fair catch by 23-L.James.'>53.55</number><number>0.99</number>
+<number shadow='shadow1' tooltip='6:20 1-10-SF 37SF 27 WAS 6 LI: 0.124-A.Dixon left guard to SF 46 for 9 yards(26-J.Wilson).'>53.67</number><number>0.99</number>
+<number shadow='shadow1' tooltip='5:39 2-1-SF 46SF 27 WAS 6 LI: 0.124-A.Dixon left guard to SF 49 for 3 yards(37-R.Doughty).'>54.35</number><number>0.99</number>
+<number shadow='shadow1' tooltip='4:56 1-10-SF 49SF 27 WAS 6 LI: 0.124-A.Dixon right end to 50 for 1 yard(26-J.Wilson).'>55.07</number><number>0.99</number>
+<number shadow='shadow1' tooltip='4:15 2-9-50SF 27 WAS 6 LI: 0.1PENALTY on SF-68-A.Snyder False Start 5 yards enforced at 50 - No Play.'>55.75</number><number>0.99</number>
+<number shadow='shadow1' tooltip='4:14 2-14-SF 45SF 27 WAS 6 LI: 0.132-K.Hunter right end to SF 49 for 4 yards(59-L.Fletcher 37-R.Doughty).'>55.77</number><number>0.99</number>
+<number shadow='shadow1' tooltip='3:31 3-10-SF 49SF 27 WAS 6 LI: 0.132-K.Hunter left end to 50 for 1 yard(92-C.Baker 54-D.Tapp).'>56.48</number><number>0.99</number>
+<number shadow='shadow1' tooltip='2:45 4-9-50SF 27 WAS 6 LI: 0.14-A.Lee punts 35 yards to WAS 15 Center-47-K.McDermott fair catch by 89-S.Moss.'>57.25</number><number>0.99</number>
+<number shadow='shadow1' tooltip='2:38 1-10-WAS 15SF 27 WAS 6 LI: 0.1(Shotgun) 10-R.Griffin pass short left to 88-P.Garcon to WAS 19 for 4 yards(52-P.Willis).'>57.37</number><number>0.99</number>
+<number shadow='shadow1' tooltip='2:12 2-6-WAS 19SF 27 WAS 6 LI: 0.1(No Huddle Shotgun) 10-R.Griffin pass deep left to 89-S.Moss pushed ob at WAS 43 for 24 yards(35-E.Reid).'>57.8</number><number>0.99</number>
+<number shadow='shadow1' tooltip='2:04 2-16-WAS 9SF 27 WAS 6 LI: 0.110-R.Griffin pass short right to 89-S.Moss to WAS 13 for 4 yards(63-T.Jerod-Eddie).'>57.93</number><number>0.99</number>
+<number shadow='shadow1' tooltip='1:57 3-12-WAS 13SF 27 WAS 6 LI: 0.1(Shotgun) PENALTY on WAS-78-K.Lichtensteiger False Start 5 yards enforced at WAS 13 - No Play.'>58.05</number><number>0.99</number>
+<number shadow='shadow1' tooltip='1:50 4-10-WAS 15SF 27 WAS 6 LI: 0.1(Shotgun) 10-R.Griffin scrambles left end to WAS 22 for 7 yards(22-C.Rogers).'>58.17</number><number>0.99</number>
+<number shadow='shadow1' tooltip='1:39 1-10-WAS 22SF 27 WAS 6 LI: 0.17-C.Kaepernick kneels to WAS 23 for -1 yards.'>58.35</number><number>0.99</number>
+<number shadow='shadow1' tooltip='1:00 2-11-WAS 23SF 27 WAS 6 LI: 0.17-C.Kaepernick kneels to WAS 24 for -1 yards.'>59</number><number>0.99</number>
+<number shadow='shadow1' tooltip='0:36 3-12-WAS 24SF 27 WAS 6 LI: 0.17-C.Kaepernick kneels to WAS 25 for -1 yards.'>59.4</number><number>1</number>
+<number>60</number><number>1</number>
+</row> </chart_data>
+       <draw>
+
+
+
+      <image x='45' y='298'  url='nfllogos/42x50png/SF.gif'  layer='foreground' glow = 'glow1'/>
+      <image x='45' y='350'  url='nfllogos/42x50png/WAS.gif'     layer='foreground' glow = 'glow1'/>
+
+
+      <rect x='130' y='300' width='250' height='40' fill_color='a9293d' bevel='bevel1' />
+      <text x='135' y='300' width='250' height='40' h_align='left' v_align='middle' color='ffffff' shadow='shadow2' glow='winnerglow'>San Francisco 49ers</text>
+
+      <rect x='130' y='350' width='250' height='40' fill_color='920001' bevel='bevel1'  />
+      <text x='135' y='350' width='250' height='40' h_align='left' v_align='middle' color='ffffff' shadow='shadow2' glow=''>Washington Redskins</text>
+
+      <rect x='420' y='300' width='60' height='40' fill_color='a9293d' bevel='bevel1'  />
+      <text x='420' y='300' width='60' height='40' h_align='center' v_align='middle' color='ffffff' shadow='shadow2' transition='none' glow='winnerglow'>27</text>
+
+      <rect x='420' y='350' width='60' height='40' fill_color='920001' bevel='bevel1' />
+      <text x='420' y='350' width='60' height='40' h_align='center' v_align='middle' color='ffffff' shadow='shadow2' transition='none' glow=''>6</text>
+
+      <text x='-3' y='12'  width='60' height='40' h_align='center' v_align='middle' size='13' shadow='shadow2'>SFWin </text>
+      <text x='-3' y='218' width='60' height='40' h_align='center' v_align='middle' size='13' shadow='shadow2'>WASWin </text>
+
+     
+              <rect x='540' y='300' width='100' height='35' fill_color='000000' fill_alpha='50'/>
+              <text x='540' y='300' width='100' height='35' h_align='center' v_align='middle' color='ffffff' size='15' shadow='shadow2' >Final</text>
+
+              <text x='540' y='340' width='40' h_align='center' color='000000' size='12' shadow='shadow2'>CBF</text>
+              <text x='600' y='340' width='40' h_align='center' color='000000' size='12' shadow='shadow2'>EI</text>
+
+              <rect x='540' y='360' width='40' height='30' fill_color='000000' fill_alpha='50' />
+              <text x='540' y='360' width='40' height='30' size='12' h_align='center' v_align='middle' color='FFFFFF' shadow='shadow2'>2</text>
+
+              <rect x='600' y='360' width='40' height='30' fill_color='000000' fill_alpha='50' />
+              <text x='600' y='360' width='40' height='30' size='12' h_align='center' v_align='middle' color='FFFFFF' shadow='shadow2'>2.4</text>
+
+              <text x='20' y='420' width='70' height='25' size='12' h_align='left' v_align='middle' color='000000' >11/25/2013</text>
+              <text x='100' y='420' width='200' height='25' size='12' h_align='left' v_align='middle' color='000000' >FedExField</text>
+
+   </draw></chart>

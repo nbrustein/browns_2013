@@ -1,0 +1,295 @@
+
+<chart>
+   <license>ETAS9P33ESHO.945CWK-2XOI1X0-7L</license>
+   <chart_type>scatter</chart_type>
+   <chart_pref trend_thickness='0' line_thickness='3' point_size='0'/>
+
+   <series_color>
+      <color>ffff00</color>
+   </series_color>
+
+   <chart_rect x='45' y='20' width='630' height='230' positive_color='cacaca'  />
+
+  <chart_border top_thickness='0'
+                 bottom_thickness='0'
+                 left_thickness='0'
+                 right_thickness='0'
+                 color='000000'
+                 />
+
+   <tooltip font='Arial' bold='true' size='11' />
+
+   <chart_note type='flag'
+               color='000000'
+               alpha='90'
+               bold='FALSE'
+               size='10'
+               background_color='ffffe0'
+               background_alpha='50'
+               shadow='shadow2'
+               />
+
+   <chart_grid_h thickness='2' color='ffffff' type='dashed'  />
+   <chart_grid_v thickness='2' color='ffffff'   />
+		>
+
+   <legend layout='hide' />
+
+   <chart_guide horizontal='TRUE'
+             vertical='TRUE'
+             thickness='1'
+             color='006400'
+             alpha='100'
+             type='solid'
+             snap_h='TRUE'
+             snap_v='TRUE'
+             radius='3'
+             fill_color='006400'
+             fill_alpha='100'
+             line_color='006400'
+             line_alpha='80'
+             line_thickness='1'
+             text_h_alpha='50'
+             text_v_alpha='00'
+             suffix_h=' WP'
+             decimals='2'
+             bold='FALSE'
+             size='11'
+             text_color='FFFFFF'
+             background_color='006400'
+             />
+   <filter>
+      <shadow id='shadow1' distance='2' angle='60' blurX='5' blurY='5' alpha='50' />
+      <bevel id='bevel1' angle='45' blurX='5' blurY='5' distance='0' />
+      <glow id='glow1' color='ffffff' alpha='0' blurX='7' blurY='7' strength='6' quality='2' inner='FALSE' knockout='FALSE' />
+      <glow id='winnerglow' color='ffffff' alpha='0' blurX='7' blurY='7' strength='5' quality='2' inner='FALSE' knockout='FALSE' />
+   </filter>
+
+    <axis_value_label>
+         <string></string>
+          <string> </string>
+          <null/>
+          <string> </string>
+          <string></string>
+
+       </axis_value_label>
+		
+	   <axis_ticks category_ticks='false'/>
+
+       <axis_value min='0' max='1' steps='4'  decimals='2' show_min='true' size='13' shadow='shadow2' />     
+            <axis_category
+               min='0'
+               max='60'
+               steps='4'
+               mode='all'
+               decimals='0'
+               size='13'
+               shadow='shadow2'
+               />
+
+       <axis_category_label>
+          <string>Kickoff</string>
+          <string></string>
+          <string>Halftime</string>
+          <string></string>
+          <string>End</string>
+
+       </axis_category_label>
+
+
+        <chart_data>
+       <row>
+	      <null/><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number>
+              <number>x</number><number>y</number>
+              </row><row><string></string>
+
+                     <number shadow='shadow1'>0</number><number>.5</number><number shadow='shadow1' tooltip='15:00 OAK 0 DAL 0 LI: 11-S.Janikowski kicks 74 yards from OAK 35 to DAL -983-T.Williams to DAL 20 for 29 yards(95-K.Burnett)FUMBLES (95-K.Burnett) RECOVERED by OAK-10-G.Jenkins at DAL 2310-G.Jenkins for 23 yards TOUCHDOWNThe Replay Assistant challenged the fumble ruling and the play was Upheld.'>0.09</number><number>0.71</number>
+<number shadow='shadow1' tooltip='14:48 1-10-DAL 20OAK 7 DAL 0 LI: 1.529-D.Murray left end to DAL 22 for 2 yards(53-N.Roach).'>0.2</number><number>0.72</number>
+<number shadow='shadow1' tooltip='14:11 2-8-DAL 22OAK 7 DAL 0 LI: 1.5(Shotgun) 29-D.Murray up the middle to DAL 25 for 3 yards(53-N.Roach).'>0.82</number><number>0.73</number>
+<number shadow='shadow1' tooltip='13:25 3-5-DAL 25OAK 7 DAL 0 LI: 1.3(Shotgun) 9-T.Romo pass incomplete short right to 19-M.Austin (58-R.Robinson)Robinson knocked the pass down at the line of scrimmage.'>1.58</number><number>0.75</number>
+<number shadow='shadow1' tooltip='13:20 4-5-DAL 25OAK 7 DAL 0 LI: 1.1(Punt formation) 6-C.Jones punts 58 yards to OAK 17 Center-91-L.Ladouceur10-G.Jenkins to OAK 22 for 5 yards(53-C.Lawrence).'>1.67</number><number>0.72</number>
+<number shadow='shadow1' tooltip='13:07 1-10-OAK 22OAK 7 DAL 0 LI: 0.927-R.Jennings up the middle to OAK 23 for 1 yard(97-J.Hatcher)OAK-65-M.Brisiel was injured during the playHis return is Questionable.'>1.88</number><number>0.73</number>
+<number shadow='shadow1' tooltip='12:31 2-9-OAK 23OAK 7 DAL 0 LI: 1(Shotgun) 14-M.McGloin pass short left to 18-A.Holmes to OAK 33 for 10 yards(54-B.Carter) [51-K.Wilber]Pass complete on a quick 3-step sideline route.'>2.48</number><number>0.74</number>
+<number shadow='shadow1' tooltip='11:54 1-10-OAK 33OAK 7 DAL 0 LI: 0.9(Shotgun) 27-R.Jennings left tackle to OAK 36 for 3 yards(59-E.Sims; 54-B.Carter).'>3.1</number><number>0.76</number>
+<number shadow='shadow1' tooltip='11:14 2-7-OAK 36OAK 7 DAL 0 LI: 1.1(Shotgun) 27-R.Jennings left guard to OAK 35 for -1 yards(38-J.Heath 54-B.Carter).'>3.77</number><number>0.74</number>
+<number shadow='shadow1' tooltip='10:32 3-8-OAK 35OAK 7 DAL 0 LI: 0.9(Shotgun) 14-M.McGloin pass incomplete deep left to 12-J.FordPass incomplete at the Dallas 42 on a "fly" pattern.'>4.47</number><number>0.71</number>
+<number shadow='shadow1' tooltip='10:26 4-8-OAK 35OAK 7 DAL 0 LI: 0.6(Punt formation) 7-M.King punts 54 yards to DAL 11 Center-59-J.Condo11-C.Beasley to DAL 7 for -4 yards(35-C.Chekwa)Injury update: Oaklands Mike Brisiel has a knee injury; return is questionable.'>4.57</number><number>0.73</number>
+<number shadow='shadow1' tooltip='10:13 1-10-DAL 7OAK 7 DAL 0 LI: 1.4(Shotgun) 9-T.Romo pass short right to 29-D.Murray pushed ob at DAL 14 for 7 yards(29-B.Ross)Pass complete on a "check off" out of the backfield.'>4.78</number><number>0.74</number>
+<number shadow='shadow1' tooltip='9:45 2-3-DAL 14OAK 7 DAL 0 LI: 1.3(Shotgun) 9-T.Romo pass short right to 19-M.Austin to DAL 32 for 18 yards(24-C.Woodson)Pass complete on a "seam" route.'>5.25</number><number>0.7</number>
+<number shadow='shadow1' tooltip='9:09 1-10-DAL 32OAK 7 DAL 0 LI: 1.429-D.Murray right tackle to DAL 36 for 4 yards(94-Ke.Burnett).'>5.85</number><number>0.7</number>
+<number shadow='shadow1' tooltip='8:23 2-6-DAL 36OAK 7 DAL 0 LI: 1.39-T.Romo sacked at DAL 26 for -10 yards(53-N.Roach).'>6.62</number><number>0.74</number>
+<number shadow='shadow1' tooltip='7:46 3-16-DAL 26OAK 7 DAL 0 LI: 1.2(Shotgun) 9-T.Romo pass short middle to 25-L.Dunbar to DAL 38 for 12 yards(26-U.Young)Screen pass.'>7.23</number><number>0.72</number>
+<number shadow='shadow1' tooltip='7:05 4-4-DAL 38OAK 7 DAL 0 LI: 1.1(Punt formation) 6-C.Jones punts 50 yards to OAK 12 Center-91-L.Ladouceur10-G.Jenkins to OAK 21 for 9 yards(59-E.Sims)Return inside the yardline numbers.'>7.92</number><number>0.71</number>
+<number shadow='shadow1' tooltip='6:50 1-10-OAK 21OAK 7 DAL 0 LI: 0.814-M.McGloin pass deep left to 80-R.Streater to OAK 48 for 27 yards(32-O.Scandrick)Pass complete on a sideline "go" route.'>8.17</number><number>0.79</number>
+<number shadow='shadow1' tooltip='6:12 1-10-OAK 48OAK 7 DAL 0 LI: 1.2(Shotgun) 27-R.Jennings up the middle to DAL 50 for 2 yards(99-G.Selvie).'>8.8</number><number>0.78</number>
+<number shadow='shadow1' tooltip='5:32 2-8-DAL 50OAK 7 DAL 0 LI: 1.1(Shotgun) 14-M.McGloin pass short middle to 45-M.Reece to DAL 45 for 5 yards(32-O.Scandrick)Pass complete on a quick "slant" route.'>9.47</number><number>0.79</number>
+<number shadow='shadow1' tooltip='4:51 3-3-DAL 45OAK 7 DAL 0 LI: 1.1(Shotgun) 14-M.McGloin pass incomplete short left to 27-R.JenningsPass incomplete in the flat.'>10.15</number><number>0.73</number>
+<number shadow='shadow1' tooltip='4:44 4-3-DAL 45OAK 7 DAL 0 LI: 0.5(Punt formation) 7-M.King punts 45 yards to end zone Center-59-J.Condo Touchback.'>10.27</number><number>0.72</number>
+<number shadow='shadow1' tooltip='4:35 1-10-DAL 20OAK 7 DAL 0 LI: 1.59-T.Romo pass incomplete short right to 88-D.Bryant.'>10.42</number><number>0.73</number>
+<number shadow='shadow1' tooltip='4:29 2-5-DAL 25OAK 7 DAL 0 LI: 1.429-D.Murray right end to DAL 24 for -1 yards(21-M.Jenkins).'>10.52</number><number>0.73</number>
+<number shadow='shadow1' tooltip='3:48 3-6-DAL 24OAK 7 DAL 0 LI: 1.3(Shotgun) 9-T.Romo pass incomplete short middle to 11-C.Beasley [90-P.Sims].'>11.2</number><number>0.69</number>
+<number shadow='shadow1' tooltip='3:42 1-10-DAL 39OAK 7 DAL 0 LI: 1.329-D.Murray left end to DAL 37 for -2 yards(94-Ke.Burnett).'>11.3</number><number>0.7</number>
+<number shadow='shadow1' tooltip='3:07 2-12-DAL 37OAK 7 DAL 0 LI: 1.3(Shotgun) 9-T.Romo pass short left to 29-D.Murray pushed ob at DAL 45 for 8 yards(26-U.Young)OAK-26-U.Young was injured during the play Pass complete on a "wheel" route.'>11.88</number><number>0.69</number>
+<number shadow='shadow1' tooltip='2:40 3-4-DAL 45OAK 7 DAL 0 LI: 1.2(Shotgun) 9-T.Romo pass short middle to 83-T.Williams to OAK 50 for 5 yards(21-M.Jenkins)Pass complete on a "drag" route.'>12.33</number><number>0.67</number>
+<number shadow='shadow1' tooltip='1:56 1-10-OAK 50OAK 7 DAL 0 LI: 1.39-T.Romo pass incomplete deep right to 83-T.WilliamsPass incomplete on a "hitch and go" route; Ross closest defender.'>13.07</number><number>0.68</number>
+<number shadow='shadow1' tooltip='1:47 2-10-OAK 50OAK 7 DAL 0 LI: 1.2(Shotgun) 9-T.Romo pass short middle to 11-C.Beasley to OAK 45 for 5 yards(53-N.Roach).'>13.22</number><number>0.68</number>
+<number shadow='shadow1' tooltip='1:08 3-5-OAK 45OAK 7 DAL 0 LI: 1(No Huddle Shotgun) 9-T.Romo pass incomplete deep middle to 19-M.Austin (21-M.Jenkins)Pass incomplete on a "post" pattern.'>13.87</number><number>0.7</number>
+<number shadow='shadow1' tooltip='1:02 4-5-OAK 45OAK 7 DAL 0 LI: 0.8(Punt formation) 6-C.Jones punts 39 yards to OAK 6 Center-91-L.Ladouceur fair catch by 10-G.Jenkins.'>13.97</number><number>0.69</number>
+<number shadow='shadow1' tooltip='0:53 1-10-OAK 6OAK 7 DAL 0 LI: 1.314-M.McGloin Aborted61-S.Wisniewski FUMBLES at OAK 6 RECOVERED by DAL-51-K.Wilber at OAK 251-K.Wilber to OAK 2 for no gain (27-R.Jennings).'>14.12</number><number>0.55</number>
+<number shadow='shadow1' tooltip='0:47 1-2-OAK 2OAK 7 DAL 0 LI: 1.429-D.Murray left tackle for 2 yards TOUCHDOWN.'>14.22</number><number>0.53</number>
+<number shadow='shadow1' tooltip='0:47 OAK 7 DAL 0 LI: 5-D.Bailey extra point is GOOD Center-91-L.Ladouceur Holder-6-C.Jones.'>14.26</number><number>0.53</number>
+<number shadow='shadow1' tooltip='0:47 OAK 7 DAL 7 LI: 5-D.Bailey kicks 70 yards from DAL 35 to OAK -522-T.Jones to OAK 21 for 26 yards(34-P.Tanner).'>14.31</number><number>0.52</number>
+<number shadow='shadow1' tooltip='0:38 1-10-OAK 21OAK 7 DAL 7 LI: 1.514-M.McGloin pass incomplete deep left to 80-R.StreaterPass incomplete on a "curl" route.'>14.37</number><number>0.5</number>
+<number shadow='shadow1' tooltip='0:31 2-10-OAK 21OAK 7 DAL 7 LI: 1.3(Shotgun) Direct snap to 27-R.Jennings 12-J.Ford left tackle to OAK 24 for 3 yards(38-J.Heath)Wildcat formation.'>14.48</number><number>0.49</number>
+<number shadow='shadow1' tooltip='15:00 3-7-OAK 24OAK 7 DAL 7 LI: 1.2(Shotgun) 14-M.McGloin pass deep right to 80-R.Streater ran ob at OAK 44 for 20 yardsPass complete on an "up and out" route.'>15</number><number>0.56</number>
+<number shadow='shadow1' tooltip='13:56 2-5-OAK 49OAK 7 DAL 7 LI: 1.3(Shotgun) 14-M.McGloin pass incomplete short left to 18-A.Holmes (32-O.Scandrick)Pass incomplete on a quick "slant" pattern; Heath closest defender.'>16.07</number><number>0.54</number>
+<number shadow='shadow1' tooltip='13:50 3-5-OAK 49OAK 7 DAL 7 LI: 1.1(Shotgun) 14-M.McGloin pass short left to 81-M.Rivera to DAL 29 for 22 yards(42-B.Church)Pass complete on an "up and out" pattern.'>16.17</number><number>0.61</number>
+<number shadow='shadow1' tooltip='13:06 1-10-DAL 29OAK 7 DAL 7 LI: 1.420-D.McFadden right tackle to DAL 29 for no gain (51-K.Wilber; 96-N.Hayden).'>16.9</number><number>0.62</number>
+<number shadow='shadow1' tooltip='12:32 2-10-DAL 29OAK 7 DAL 7 LI: 1.514-M.McGloin pass short left to 12-J.Ford to DAL 28 for 1 yard(42-B.Church)Pass complete on a "wheel" route.'>17.47</number><number>0.6</number>
+<number shadow='shadow1' tooltip='11:48 3-9-DAL 28OAK 7 DAL 7 LI: 1.3(Shotgun) 14-M.McGloin pass deep right to 18-A.Holmes to DAL 8 for 20 yards(39-B.Carr)Pass complete on a "go" route.'>18.2</number><number>0.67</number>
+<number shadow='shadow1' tooltip='11:10 1-8-DAL 8OAK 7 DAL 7 LI: 1.7(Shotgun) PENALTY on OAK-64-A.Gurode False Start 5 yards enforced at DAL 8 - No Play.'>18.83</number><number>0.66</number>
+<number shadow='shadow1' tooltip='10:33 2-16-DAL 16OAK 7 DAL 7 LI: 1.3(Shotgun) 14-M.McGloin pass short right to 18-A.Holmes for 16 yards TOUCHDOWNThe Replay Assistant challenged the runner broke the plane ruling and the play was REVERSED(Shotgun) 14-M.McGloin pass short right to 18-A.Holmes to DAL 1 for 15 yards(39-B.Carr).'>19.45</number><number>0.69</number>
+<number shadow='shadow1' tooltip='10:16 3-1-DAL 1OAK 7 DAL 7 LI: 1.9(Shotgun) 27-R.Jennings right end for 1 yard TOUCHDOWN.'>19.73</number><number>0.71</number>
+<number shadow='shadow1' tooltip='10:16 OAK 7 DAL 7 LI: 11-S.Janikowski extra point is GOOD Center-59-J.Condo Holder-7-M.King.'>19.77</number><number>0.71</number>
+<number shadow='shadow1' tooltip='10:16 OAK 14 DAL 7 LI: 11-S.Janikowski kicks 73 yards from OAK 35 to DAL -883-T.Williams Touchback.'>19.82</number><number>0.72</number>
+<number shadow='shadow1' tooltip='10:08 2-10-DAL 20OAK 14 DAL 7 LI: 1.1(Shotgun) 9-T.Romo pass incomplete deep right to 83-T.WilliamsPass incomplete sideline at the Dallas 40.'>19.87</number><number>0.75</number>
+<number shadow='shadow1' tooltip='10:01 3-10-DAL 20OAK 14 DAL 7 LI: 1(Shotgun) 9-T.Romo pass incomplete short middle to 19-M.Austin (23-T.Porter)Pass incomplete on a "curl" route at the Dallas 35.'>19.98</number><number>0.77</number>
+<number shadow='shadow1' tooltip='9:54 4-10-DAL 20OAK 14 DAL 7 LI: 0.8(Punt formation) 6-C.Jones punts 44 yards to OAK 36 Center-91-L.Ladouceur10-G.Jenkins to DAL 50 for 14 yards(53-C.Lawrence)Return left side of the field outside the yard line numbers.'>20.1</number><number>0.8</number>
+<number shadow='shadow1' tooltip='9:42 1-10-DAL 50OAK 14 DAL 7 LI: 1.2Direct snap to 27-R.Jennings 27-R.Jennings right end to DAL 50 for no gain (99-G.Selvie)Wildcat formation.'>20.3</number><number>0.78</number>
+<number shadow='shadow1' tooltip='9:04 2-10-DAL 50OAK 14 DAL 7 LI: 1(Shotgun) 14-M.McGloin pass short left to 27-R.Jennings pushed ob at DAL 34 for 16 yards(27-J.Wilcox).'>20.93</number><number>0.78</number>
+<number shadow='shadow1' tooltip='7:56 3-8-DAL 48OAK 14 DAL 7 LI: 0.7(Shotgun) 14-M.McGloin pass short middle to 81-M.Rivera to DAL 40 for 8 yards(42-B.Church)Pass complete on a "slant" pattern.'>22.07</number><number>0.81</number>
+<number shadow='shadow1' tooltip='7:17 1-10-DAL 40OAK 14 DAL 7 LI: 1.127-R.Jennings left tackle to DAL 33 for 7 yards(42-B.Church; 32-O.Scandrick).'>22.72</number><number>0.82</number>
+<number shadow='shadow1' tooltip='6:42 2-3-DAL 33OAK 14 DAL 7 LI: 1.1(Shotgun) 27-R.Jennings up the middle to DAL 24 for 9 yards(42-B.Church).'>23.3</number><number>0.84</number>
+<number shadow='shadow1' tooltip='6:03 1-10-DAL 24OAK 14 DAL 7 LI: 1.227-R.Jennings up the middle to DAL 20 for 4 yards(71-E.Brown)Injury update: Oaklands Brisiel (knee) is out for the game.'>23.95</number><number>0.84</number>
+<number shadow='shadow1' tooltip='5:05 2-11-DAL 25OAK 14 DAL 7 LI: 127-R.Jennings up the middle to DAL 22 for 3 yards(59-E.Sims).'>24.92</number><number>0.82</number>
+<number shadow='shadow1' tooltip='4:19 3-8-DAL 22OAK 14 DAL 7 LI: 0.9(Shotgun) 14-M.McGloin pass short middle to 18-A.Holmes to DAL 11 for 11 yards(39-B.Carr)Pass complete on a "crossing" pattern.'>25.68</number><number>0.87</number>
+<number shadow='shadow1' tooltip='2:57 2-9-DAL 10OAK 14 DAL 7 LI: 1.2(Shotgun) 14-M.McGloin pass short left to 12-J.Ford to DAL 3 for 7 yards(20-B.Webb).'>27.05</number><number>0.87</number>
+<number shadow='shadow1' tooltip='2:08 3-2-DAL 3OAK 14 DAL 7 LI: 1.2(Shotgun) 27-R.Jennings left tackle to DAL 1 for 2 yards(54-B.Carter).'>27.87</number><number>0.9</number>
+<number shadow='shadow1' tooltip='2:00 1-1-DAL 1OAK 14 DAL 7 LI: 1.527-R.Jennings up the middle for 1 yard TOUCHDOWN.'>28</number><number>0.9</number>
+<number shadow='shadow1' tooltip='2:00 OAK 14 DAL 7 LI: 11-S.Janikowski extra point is GOOD Center-59-J.Condo Holder-7-M.King.'>28.04</number><number>0.9</number>
+<number shadow='shadow1' tooltip='2:00 OAK 21 DAL 7 LI: 11-S.Janikowski kicks 70 yards from OAK 35 to DAL -583-T.Williams to DAL 27 for 32 yards(95-K.Burnett)Return middle of the field inside the yard line numbers.'>28.09</number><number>0.9</number>
+<number shadow='shadow1' tooltip='1:48 1-10-DAL 27OAK 21 DAL 7 LI: 0.3(Shotgun) 9-T.Romo pass short left to 82-J.Witten to DAL 39 for 12 yards(23-T.Porter).'>28.2</number><number>0.89</number>
+<number shadow='shadow1' tooltip='1:27 1-10-DAL 39OAK 21 DAL 7 LI: 0.4(No Huddle Shotgun) 9-T.Romo pass short right to 29-D.Murray to DAL 46 for 7 yards(53-N.Roach).'>28.55</number><number>0.89</number>
+<number shadow='shadow1' tooltip='1:03 2-3-DAL 46OAK 21 DAL 7 LI: 0.3(No Huddle Shotgun) 9-T.Romo pass deep right to 82-J.Witten to OAK 32 for 22 yards(24-C.Woodson)Pass complete on a "seam" route.'>28.95</number><number>0.86</number>
+<number shadow='shadow1' tooltip='0:57 1-10-OAK 32OAK 21 DAL 7 LI: 0.4(Shotgun) 9-T.Romo pass short middle to 88-D.Bryant to OAK 27 for 5 yards(21-M.Jenkins)FUMBLES (21-M.Jenkins) recovered by DAL-77-T.Smith at OAK 2977-T.Smith to OAK 29 for no gain (94-Ke.Burnett).'>29.05</number><number>0.86</number>
+<number shadow='shadow1' tooltip='0:47 2-7-OAK 29OAK 21 DAL 7 LI: 0.4(Shotgun) 9-T.Romo pass incomplete short middle to 19-M.AustinPass incomplete on a "crossing" pattern.'>29.22</number><number>0.87</number>
+<number shadow='shadow1' tooltip='0:42 3-7-OAK 29OAK 21 DAL 7 LI: 0.3(Shotgun) 9-T.Romo pass short middle to 88-D.Bryant to OAK 4 for 25 yards(23-T.Porter)Pass complete on a "skinny post."'>29.3</number><number>0.79</number>
+<number shadow='shadow1' tooltip='0:19 1-4-OAK 4OAK 21 DAL 7 LI: 1.1(Shotgun) 9-T.Romo pass incomplete to 83-T.WilliamsPass thrown incomplete out of the end zone.'>29.68</number><number>0.79</number>
+<number shadow='shadow1' tooltip='0:14 2-4-OAK 4OAK 21 DAL 7 LI: 1.1(Shotgun) 29-D.Murray up the middle for 4 yards TOUCHDOWN.'>29.77</number><number>0.77</number>
+<number shadow='shadow1' tooltip='0:14 OAK 21 DAL 7 LI: 5-D.Bailey extra point is GOOD Center-91-L.Ladouceur Holder-6-C.Jones.'>29.81</number><number>0.77</number>
+<number shadow='shadow1' tooltip='0:14 OAK 21 DAL 14 LI: 5-D.Bailey kicks 36 yards from DAL 35 to OAK 2981-M.Rivera to OAK 32 for 3 yards(53-C.Lawrence).'>29.86</number><number>0.78</number>
+<number shadow='shadow1' tooltip='0:10 OAK 21 DAL 14 LI: 5-D.Bailey kicks 72 yards from DAL 35 to OAK -722-T.Jones to OAK 20 for 27 yards(27-J.Wilcox)Return middle of the field inside the yard line numbers.'>29.92</number><number>0.76</number>
+<number shadow='shadow1' tooltip='14:54 1-10-OAK 20OAK 21 DAL 14 LI: 1.314-M.McGloin pass short middle to 18-A.Holmes to OAK 41 for 21 yards(32-O.Scandrick)Pass complete on a "skinny post."'>30.1</number><number>0.79</number>
+<number shadow='shadow1' tooltip='14:20 1-10-OAK 41OAK 21 DAL 14 LI: 1.227-R.Jennings up the middle to OAK 38 for -3 yards(97-J.Hatcher).'>30.67</number><number>0.76</number>
+<number shadow='shadow1' tooltip='13:41 2-13-OAK 38OAK 21 DAL 14 LI: 1(Shotgun) PENALTY on OAK-64-A.Gurode False Start 5 yards enforced at OAK 38 - No Play.'>31.32</number><number>0.75</number>
+<number shadow='shadow1' tooltip='13:18 2-18-OAK 33OAK 21 DAL 14 LI: 1(Shotgun) 14-M.McGloin pass short left to 45-M.Reece to OAK 33 for no gain (42-B.Church)Pass complete in the flat.'>31.7</number><number>0.74</number>
+<number shadow='shadow1' tooltip='12:21 3-13-OAK 38OAK 21 DAL 14 LI: 0.9(Shotgun) 27-R.Jennings left tackle to OAK 45 for 7 yards(54-B.Carter).'>32.65</number><number>0.75</number>
+<number shadow='shadow1' tooltip='11:42 4-6-OAK 45OAK 21 DAL 14 LI: 0.8(Punt formation) 7-M.King punts 47 yards to DAL 8 Center-59-J.Condo11-C.Beasley to DAL 13 for 5 yards(49-J.Olawale).'>33.3</number><number>0.77</number>
+<number shadow='shadow1' tooltip='11:29 1-10-DAL 13OAK 21 DAL 14 LI: 1.1(Shotgun) 29-D.Murray left end pushed ob at DAL 16 for 3 yards(23-T.Porter).'>33.52</number><number>0.76</number>
+<number shadow='shadow1' tooltip='11:02 2-7-DAL 16OAK 21 DAL 14 LI: 1(Shotgun) 9-T.Romo pass short middle to 83-T.Williams to DAL 20 for 4 yards(94-Ke.Burnett)OAK-94-Ke.Burnett was injured during the playHis return is Questionable.'>33.97</number><number>0.76</number>
+<number shadow='shadow1' tooltip='10:19 3-3-DAL 20OAK 21 DAL 14 LI: 0.9(Shotgun) 9-T.Romo pass short middle to 82-J.Witten to DAL 28 for 8 yards(26-U.Young).'>34.68</number><number>0.8</number>
+<number shadow='shadow1' tooltip='9:43 3-13-DAL 10OAK 21 DAL 14 LI: 0.9(Shotgun) 9-T.Romo pass short left to 83-T.Williams to DAL 24 for 14 yards(26-U.Young)OAK-26-U.Young was injured during the playHis return is Questionable Pass complete on a "curl" route.'>35.28</number><number>0.75</number>
+<number shadow='shadow1' tooltip='9:12 1-10-DAL 24OAK 21 DAL 14 LI: 0.925-L.Dunbar left tackle to DAL 30 for 6 yards(90-P.Sims).'>35.8</number><number>0.74</number>
+<number shadow='shadow1' tooltip='8:39 2-4-DAL 30OAK 21 DAL 14 LI: 125-L.Dunbar left guard to OAK 25 for 45 yards(28-P.Adams).'>36.35</number><number>0.64</number>
+<number shadow='shadow1' tooltip='7:46 1-10-OAK 25OAK 21 DAL 14 LI: 1.3(Shotgun) 9-T.Romo pass short middle to 29-D.Murray to OAK 15 for 10 yards(23-T.Porter; 94-Ke.Burnett)Shuffle pass.'>37.23</number><number>0.62</number>
+<number shadow='shadow1' tooltip='7:00 1-10-OAK 15OAK 21 DAL 14 LI: 1.425-L.Dunbar up the middle to OAK 8 for 7 yards(53-N.Roach).'>38</number><number>0.56</number>
+<number shadow='shadow1' tooltip='6:18 2-3-OAK 8OAK 21 DAL 14 LI: 2(Shotgun) 29-D.Murray right end for 8 yards TOUCHDOWN NULLIFIED by Penalty.'>38.7</number><number>0.65</number>
+<number shadow='shadow1' tooltip='6:08 2-13-OAK 18OAK 21 DAL 14 LI: 1.2(Shotgun) 9-T.Romo pass short left to 11-C.Beasley ran ob at OAK 13 for 5 yards.'>38.87</number><number>0.63</number>
+<number shadow='shadow1' tooltip='5:53 3-8-OAK 13OAK 21 DAL 14 LI: 1.3(No Huddle Shotgun) 9-T.Romo pass short left to 11-C.Beasley pushed ob at OAK 4 for 9 yards(28-P.Adams).'>39.12</number><number>0.56</number>
+<number shadow='shadow1' tooltip='5:31 1-4-OAK 4OAK 21 DAL 14 LI: 29-T.Romo pass short right to 88-D.Bryant for 4 yards TOUCHDOWNQuick 3-step pass 3 yards deep end zone.'>39.48</number><number>0.53</number>
+<number shadow='shadow1' tooltip='5:31 OAK 21 DAL 14 LI: 5-D.Bailey extra point is GOOD Center-91-L.Ladouceur Holder-6-C.Jones.'>39.52</number><number>0.53</number>
+<number shadow='shadow1' tooltip='5:31 OAK 21 DAL 21 LI: 5-D.Bailey kicks 70 yards from DAL 35 to OAK -522-T.Jones to OAK 15 for 20 yards(25-L.Dunbar).'>39.57</number><number>0.53</number>
+<number shadow='shadow1' tooltip='5:11 1-10-OAK 24OAK 21 DAL 21 LI: 1.614-M.McGloin pass incomplete deep left to 18-A.HolmesPass incomplete at the Dallas 40 on a "flag" pattern; Heath closest defender.'>39.82</number><number>0.5</number>
+<number shadow='shadow1' tooltip='5:03 2-10-OAK 24OAK 21 DAL 21 LI: 1.414-M.McGloin pass incomplete short right to 45-M.Reece [99-G.Selvie]Pass incomplete in the flat.'>39.95</number><number>0.48</number>
+<number shadow='shadow1' tooltip='4:59 3-10-OAK 24OAK 21 DAL 21 LI: 1.2(Shotgun) 14-M.McGloin pass incomplete short left to 81-M.RiveraPass incomplete in the flatHeavy pressure by Ware.'>40.02</number><number>0.45</number>
+<number shadow='shadow1' tooltip='4:53 4-15-OAK 19OAK 21 DAL 21 LI: 0.9(Punt formation) 7-M.King punts 60 yards to DAL 21 Center-59-J.Condo11-C.Beasley to DAL 35 for 14 yards(59-J.Condo)Return right side of the field inside the yard line numbersInjury update: Usama Young has a shoulder injuryHis return is questionable.'>40.12</number><number>0.45</number>
+<number shadow='shadow1' tooltip='4:40 1-10-DAL 35OAK 21 DAL 21 LI: 1.625-L.Dunbar up the middle to DAL 37 for 2 yards(98-V.Walker; 97-D.Muir).'>40.33</number><number>0.46</number>
+<number shadow='shadow1' tooltip='4:00 2-8-DAL 37OAK 21 DAL 21 LI: 1.5(Shotgun) 9-T.Romo pass short left to 88-D.Bryant to DAL 39 for 2 yards(28-P.Adams)Pass complete on a "sideline curl route."'>41</number><number>0.47</number>
+<number shadow='shadow1' tooltip='3:15 3-6-DAL 39OAK 21 DAL 21 LI: 1.4(Shotgun) 9-T.Romo pass short right to 82-J.Witten to OAK 42 for 19 yards(53-N.Roach)OAK-21-M.Jenkins was injured during the playHis return is Questionable Pass complete in the flat; Witten broke a tackle at the Dallas 40 before turning up field.'>41.75</number><number>0.4</number>
+<number shadow='shadow1' tooltip='2:40 1-10-OAK 42OAK 21 DAL 21 LI: 1.725-L.Dunbar right tackle to OAK 33 for 9 yards(24-C.Woodson).'>42.33</number><number>0.38</number>
+<number shadow='shadow1' tooltip='1:56 2-1-OAK 33OAK 21 DAL 21 LI: 1.625-L.Dunbar up the middle to OAK 29 for 4 yards(90-P.Sims).'>43.07</number><number>0.36</number>
+<number shadow='shadow1' tooltip='1:10 1-10-OAK 29OAK 21 DAL 21 LI: 1.89-T.Romo pass short middle to 29-D.Murray to OAK 22 for 7 yards(91-J.Crawford) [98-V.Walker]Pass complete on a "check off" play.'>43.83</number><number>0.31</number>
+<number shadow='shadow1' tooltip='0:22 2-3-OAK 22OAK 21 DAL 21 LI: 2.225-L.Dunbar left end to OAK 17 for 5 yards(28-P.Adams).'>44.63</number><number>0.33</number>
+<number shadow='shadow1' tooltip='15:00 1-10-OAK 17OAK 21 DAL 21 LI: 1.8(Shotgun) 29-D.Murray up the middle to OAK 14 for 3 yards(99-L.Houston).'>45</number><number>0.25</number>
+<number shadow='shadow1' tooltip='14:26 1-7-OAK 7OAK 21 DAL 21 LI: 2.529-D.Murray right tackle for 7 yards TOUCHDOWN.'>45.57</number><number>0.21</number>
+<number shadow='shadow1' tooltip='14:26 OAK 21 DAL 21 LI: 5-D.Bailey extra point is GOOD Center-91-L.Ladouceur Holder-6-C.Jones.'>45.61</number><number>0.21</number>
+<number shadow='shadow1' tooltip='14:26 OAK 21 DAL 28 LI: 5-D.Bailey kicks 68 yards from DAL 35 to OAK -322-T.Jones to OAK 21 for 24 yards(26-S.Moore)Return right side of the field tackled at the yard line marker.'>45.66</number><number>0.19</number>
+<number shadow='shadow1' tooltip='14:12 1-10-OAK 21OAK 21 DAL 28 LI: 0.8(Shotgun) 20-D.McFadden left end pushed ob at OAK 21 for no gain (51-K.Wilber).'>45.8</number><number>0.19</number>
+<number shadow='shadow1' tooltip='13:31 2-10-OAK 21OAK 21 DAL 28 LI: 0.820-D.McFadden left guard to OAK 27 for 6 yards(99-G.Selvie 38-J.Heath)DAL-42-B.Church was injured during the playHis return is Probable.'>46.48</number><number>0.18</number>
+<number shadow='shadow1' tooltip='13:00 3-4-OAK 27OAK 21 DAL 28 LI: 0.7(Shotgun) 14-M.McGloin pass incomplete deep right to 18-A.HolmesPass incomplete on a "fly" pattern at the Dallas 45; Carr closest defender.'>47</number><number>0.16</number>
+<number shadow='shadow1' tooltip='12:53 4-4-OAK 27OAK 21 DAL 28 LI: 0.5(Punt formation) 7-M.King punts 59 yards to DAL 14 Center-59-J.Condo11-C.Beasley to DAL 26 for 12 yards(29-B.Ross).'>47.12</number><number>0.16</number>
+<number shadow='shadow1' tooltip='12:40 1-10-DAL 26OAK 21 DAL 28 LI: 1.625-L.Dunbar right tackle to DAL 30 for 4 yards(98-V.Walker; 53-N.Roach).'>47.33</number><number>0.16</number>
+<number shadow='shadow1' tooltip='11:56 2-6-DAL 30OAK 21 DAL 28 LI: 1.525-L.Dunbar left end to DAL 30 for no gain (99-L.Houston).'>48.07</number><number>0.16</number>
+<number shadow='shadow1' tooltip='11:09 3-6-DAL 30OAK 21 DAL 28 LI: 1.5(Shotgun) 9-T.Romo sacked at DAL 23 for -7 yards(53-N.Roach)FUMBLES (53-N.Roach) and recovers at DAL 239-T.Romo to DAL 23 for no gain (90-P.Sims).'>48.85</number><number>0.21</number>
+<number shadow='shadow1' tooltip='10:25 4-13-DAL 23OAK 21 DAL 28 LI: 1.1(Punt formation) 6-C.Jones punts 47 yards to OAK 30 Center-91-L.Ladouceur10-G.Jenkins to OAK 44 for 14 yards(38-J.Heath)Injury update: Mike Jenkins has a shoulder injuryHis return is questionable.'>49.58</number><number>0.23</number>
+<number shadow='shadow1' tooltip='10:21 1-10-OAK 44OAK 21 DAL 28 LI: 1.3(Shotgun) 14-M.McGloin pass short middle to 18-A.Holmes to DAL 21 for 35 yards(38-J.Heath)Pass complete on a "post pattern."'>49.65</number><number>0.32</number>
+<number shadow='shadow1' tooltip='9:35 1-10-DAL 21OAK 21 DAL 28 LI: 1.8(Shotgun) 14-M.McGloin pass incomplete deep middle to 45-M.Reece (38-J.Heath)Pass incomplete on a "post pattern."'>50.42</number><number>0.31</number>
+<number shadow='shadow1' tooltip='9:29 2-10-DAL 21OAK 21 DAL 28 LI: 1.727-R.Jennings up the middle to DAL 20 for 1 yard(70-D.Nevis 51-K.Wilber).'>50.52</number><number>0.28</number>
+<number shadow='shadow1' tooltip='8:46 3-9-DAL 20OAK 21 DAL 28 LI: 1.4(Shotgun) 14-M.McGloin pass deep right intended for 12-J.Ford INTERCEPTED by 39-B.Carr at DAL -7Touchback.'>51.23</number><number>0.14</number>
+<number shadow='shadow1' tooltip='8:39 1-10-DAL 20OAK 21 DAL 28 LI: 1.929-D.Murray right end pushed ob at DAL 28 for 8 yards(29-B.Ross).'>51.35</number><number>0.12</number>
+<number shadow='shadow1' tooltip='8:03 2-2-DAL 28OAK 21 DAL 28 LI: 225-L.Dunbar right tackle to DAL 29 for 1 yard(23-T.Porter).'>51.95</number><number>0.12</number>
+<number shadow='shadow1' tooltip='7:11 3-1-DAL 29OAK 21 DAL 28 LI: 1.929-D.Murray left guard to DAL 33 for 4 yards(53-N.Roach).'>52.82</number><number>0.1</number>
+<number shadow='shadow1' tooltip='6:26 1-10-DAL 33OAK 21 DAL 28 LI: 1.8(Shotgun) 25-L.Dunbar up the middle to DAL 37 for 4 yards(53-N.Roach).'>53.57</number><number>0.08</number>
+<number shadow='shadow1' tooltip='5:45 2-6-DAL 37OAK 21 DAL 28 LI: 1.5(Shotgun) 9-T.Romo pass incomplete short left to 88-D.Bryant.'>54.25</number><number>0.05</number>
+<number shadow='shadow1' tooltip='5:40 1-10-OAK 49OAK 21 DAL 28 LI: 1.3(Shotgun) 25-L.Dunbar left end to DAL 46 for -5 yards(23-T.Porter)DAL-25-L.Dunbar was injured during the playHe is Out.'>54.33</number><number>0.11</number>
+<number shadow='shadow1' tooltip='5:19 2-15-DAL 46OAK 21 DAL 28 LI: 0.8(Shotgun) PENALTY on DAL-72-T.Frederick False Start 5 yards enforced at DAL 46 - No Play.'>54.68</number><number>0.13</number>
+<number shadow='shadow1' tooltip='5:02 2-20-DAL 41OAK 21 DAL 28 LI: 0.8(Shotgun) PENALTY on OAK-99-L.Houston Neutral Zone Infraction 5 yards enforced at DAL 41 - No Play.'>54.97</number><number>0.12</number>
+<number shadow='shadow1' tooltip='4:41 2-15-DAL 46OAK 21 DAL 28 LI: 0.9(Shotgun) 9-T.Romo pass short left to 88-D.Bryant pushed ob at OAK 40 for 14 yards(29-B.Ross).'>55.32</number><number>0.08</number>
+<number shadow='shadow1' tooltip='4:32 3-1-OAK 40OAK 21 DAL 28 LI: 129-D.Murray left tackle to OAK 38 for 2 yards(23-T.Porter 56-M.Burris).'>55.47</number><number>0.04</number>
+<number shadow='shadow1' tooltip='3:46 1-10-OAK 38OAK 21 DAL 28 LI: 1.229-D.Murray left end to OAK 27 for 11 yards(24-C.Woodson).'>56.23</number><number>0.03</number>
+<number shadow='shadow1' tooltip='3:39 1-10-OAK 27OAK 21 DAL 28 LI: 1.2(Shotgun) 9-T.Romo pass short left to 88-D.Bryant to OAK 18 for 9 yards(28-P.Adams)Pass complete on a "slant pattern." Injury update: Lance Dunbar has a left knee sprainHe is out.'>56.35</number><number>0.02</number>
+<number shadow='shadow1' tooltip='3:32 2-1-OAK 18OAK 21 DAL 28 LI: 1.829-D.Murray right end to OAK 10 for 8 yards(23-T.Porter).'>56.47</number><number>0.04</number>
+<number shadow='shadow1' tooltip='3:21 1-10-OAK 10OAK 21 DAL 28 LI: 229-D.Murray left tackle to OAK 7 for 3 yards(28-P.Adams).'>56.65</number><number>0.01</number>
+<number shadow='shadow1' tooltip='2:35 2-7-OAK 7OAK 21 DAL 28 LI: 2.49-T.Romo pass short left to 88-D.Bryant to OAK 3 for 4 yards(28-P.Adams).'>57.42</number><number>0.02</number>
+<number shadow='shadow1' tooltip='2:30 3-3-OAK 3OAK 21 DAL 28 LI: 2.329-D.Murray up the middle to OAK 1 for 2 yards(98-V.Walker).'>57.5</number><number>0.02</number>
+<number shadow='shadow1' tooltip='2:00 4-1-OAK 1OAK 21 DAL 28 LI: 1.3(Field Goal formation) 5-D.Bailey 19 yard field goal is GOOD Center-91-L.Ladouceur Holder-6-C.Jones.'>58</number><number>0.03</number>
+<number shadow='shadow1' tooltip='2:00 OAK 21 DAL 31 LI: 5-D.Bailey kicks 65 yards from DAL 35 to end zone TouchbackBall was kicked out of the end zone.'>58.09</number><number>0.02</number>
+<number shadow='shadow1' tooltip='1:33 2-2-OAK 28OAK 21 DAL 31 LI: 0.1(Shotgun) 14-M.McGloin pass short middle to 80-R.Streater to OAK 38 for 10 yards(38-J.Heath).'>58.45</number><number>0.03</number>
+<number shadow='shadow1' tooltip='1:16 1-10-OAK 38OAK 21 DAL 31 LI: 0.2(No Huddle Shotgun) 14-M.McGloin pass incomplete short left to 20-D.McFadden.'>58.73</number><number>0.01</number>
+<number shadow='shadow1' tooltip='1:11 2-10-OAK 38OAK 21 DAL 31 LI: 0.1(Shotgun) PENALTY on DAL-94-D.Ware Neutral Zone Infraction 5 yards enforced at OAK 38 - No Play.'>58.82</number><number>0.01</number>
+<number shadow='shadow1' tooltip='1:05 1-10-DAL 38OAK 21 DAL 31 LI: 0.1(Shotgun) 14-M.McGloin pass short middle to 12-J.Ford to DAL 27 for 11 yards(38-J.Heath).'>58.92</number><number>0.01</number>
+<number shadow='shadow1' tooltip='0:46 1-10-DAL 27OAK 21 DAL 31 LI: 0.1(No Huddle Shotgun) 14-M.McGloin pass incomplete deep left to 18-A.HolmesPass incomplete left corner front of the end zone; Scandrick closest defender.'>59.23</number><number>0.01</number>
+<number shadow='shadow1' tooltip='0:38 2-10-DAL 27OAK 21 DAL 31 LI: 0.1(Field Goal formation) 11-S.Janikowski 45 yard field goal is GOOD Center-59-J.Condo Holder-7-M.King.'>59.37</number><number>0.01</number>
+<number shadow='shadow1' tooltip='0:38 OAK 24 DAL 31 LI: 11-S.Janikowski kicks onside 7 yards from OAK 35 to OAK 4238-J.Heath (didn&#39;t try to advance) to OAK 42 for no gain (22-T.Jones).'>59.46</number><number>0.01</number>
+<number>60</number><number>0</number>
+</row> </chart_data>
+       <draw>
+
+
+
+      <image x='45' y='298'  url='nfllogos/42x50png/OAK.gif'  layer='foreground' glow = 'glow1'/>
+      <image x='45' y='350'  url='nfllogos/42x50png/DAL.gif'     layer='foreground' glow = 'glow1'/>
+
+
+      <rect x='130' y='300' width='250' height='40' fill_color='101b24' bevel='bevel1' />
+      <text x='135' y='300' width='250' height='40' h_align='left' v_align='middle' color='ffffff' shadow='shadow2' glow=''>Oakland Raiders</text>
+
+      <rect x='130' y='350' width='250' height='40' fill_color='c0c0c0' bevel='bevel1'  />
+      <text x='135' y='350' width='250' height='40' h_align='left' v_align='middle' color='ffffff' shadow='shadow2' glow='winnerglow'>Dallas Cowboys</text>
+
+      <rect x='420' y='300' width='60' height='40' fill_color='101b24' bevel='bevel1'  />
+      <text x='420' y='300' width='60' height='40' h_align='center' v_align='middle' color='ffffff' shadow='shadow2' transition='none' glow=''>24</text>
+
+      <rect x='420' y='350' width='60' height='40' fill_color='c0c0c0' bevel='bevel1' />
+      <text x='420' y='350' width='60' height='40' h_align='center' v_align='middle' color='ffffff' shadow='shadow2' transition='none' glow='winnerglow'>31</text>
+
+      <text x='-3' y='12'  width='60' height='40' h_align='center' v_align='middle' size='13' shadow='shadow2'>OAKWin </text>
+      <text x='-3' y='218' width='60' height='40' h_align='center' v_align='middle' size='13' shadow='shadow2'>DALWin </text>
+
+     
+              <rect x='540' y='300' width='100' height='35' fill_color='000000' fill_alpha='50'/>
+              <text x='540' y='300' width='100' height='35' h_align='center' v_align='middle' color='ffffff' size='15' shadow='shadow2' >Final</text>
+
+              <text x='540' y='340' width='40' h_align='center' color='000000' size='12' shadow='shadow2'>CBF</text>
+              <text x='600' y='340' width='40' h_align='center' color='000000' size='12' shadow='shadow2'>EI</text>
+
+              <rect x='540' y='360' width='40' height='30' fill_color='000000' fill_alpha='50' />
+              <text x='540' y='360' width='40' height='30' size='12' h_align='center' v_align='middle' color='FFFFFF' shadow='shadow2'>10</text>
+
+              <rect x='600' y='360' width='40' height='30' fill_color='000000' fill_alpha='50' />
+              <text x='600' y='360' width='40' height='30' size='12' h_align='center' v_align='middle' color='FFFFFF' shadow='shadow2'>3.2</text>
+
+              <text x='20' y='420' width='70' height='25' size='12' h_align='left' v_align='middle' color='000000' >11/28/2013</text>
+              <text x='100' y='420' width='200' height='25' size='12' h_align='left' v_align='middle' color='000000' >AT&T Stadium</text>
+
+   </draw></chart>

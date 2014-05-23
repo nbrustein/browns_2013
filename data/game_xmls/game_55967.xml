@@ -1,0 +1,329 @@
+
+<chart>
+   <license>ETAS9P33ESHO.945CWK-2XOI1X0-7L</license>
+   <chart_type>scatter</chart_type>
+   <chart_pref trend_thickness='0' line_thickness='3' point_size='0'/>
+
+   <series_color>
+      <color>ffff00</color>
+   </series_color>
+
+   <chart_rect x='45' y='20' width='630' height='230' positive_color='cacaca'  />
+
+  <chart_border top_thickness='0'
+                 bottom_thickness='0'
+                 left_thickness='0'
+                 right_thickness='0'
+                 color='000000'
+                 />
+
+   <tooltip font='Arial' bold='true' size='11' />
+
+   <chart_note type='flag'
+               color='000000'
+               alpha='90'
+               bold='FALSE'
+               size='10'
+               background_color='ffffe0'
+               background_alpha='50'
+               shadow='shadow2'
+               />
+
+   <chart_grid_h thickness='2' color='ffffff' type='dashed'  />
+   <chart_grid_v thickness='2' color='ffffff'   />
+		>
+
+   <legend layout='hide' />
+
+   <chart_guide horizontal='TRUE'
+             vertical='TRUE'
+             thickness='1'
+             color='006400'
+             alpha='100'
+             type='solid'
+             snap_h='TRUE'
+             snap_v='TRUE'
+             radius='3'
+             fill_color='006400'
+             fill_alpha='100'
+             line_color='006400'
+             line_alpha='80'
+             line_thickness='1'
+             text_h_alpha='50'
+             text_v_alpha='00'
+             suffix_h=' WP'
+             decimals='2'
+             bold='FALSE'
+             size='11'
+             text_color='FFFFFF'
+             background_color='006400'
+             />
+   <filter>
+      <shadow id='shadow1' distance='2' angle='60' blurX='5' blurY='5' alpha='50' />
+      <bevel id='bevel1' angle='45' blurX='5' blurY='5' distance='0' />
+      <glow id='glow1' color='ffffff' alpha='0' blurX='7' blurY='7' strength='6' quality='2' inner='FALSE' knockout='FALSE' />
+      <glow id='winnerglow' color='ffffff' alpha='0' blurX='7' blurY='7' strength='5' quality='2' inner='FALSE' knockout='FALSE' />
+   </filter>
+
+    <axis_value_label>
+         <string></string>
+          <string> </string>
+          <null/>
+          <string> </string>
+          <string></string>
+
+       </axis_value_label>
+		
+	   <axis_ticks category_ticks='false'/>
+
+       <axis_value min='0' max='1' steps='4'  decimals='2' show_min='true' size='13' shadow='shadow2' />     
+            <axis_category
+               min='0'
+               max='60'
+               steps='4'
+               mode='all'
+               decimals='0'
+               size='13'
+               shadow='shadow2'
+               />
+
+       <axis_category_label>
+          <string>Kickoff</string>
+          <string></string>
+          <string>Halftime</string>
+          <string></string>
+          <string>End</string>
+
+       </axis_category_label>
+
+
+        <chart_data>
+       <row>
+	      <null/><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number>
+              <number>x</number><number>y</number>
+              </row><row><string></string>
+
+                     <number shadow='shadow1'>0</number><number>.5</number><number shadow='shadow1' tooltip='15:00 PIT 0 NE 0 LI: 3-S.Gostkowski kicks 65 yards from NE 35 to PIT 023-F.Jones to PIT 40 for 40 yards(59-C.White).'>0.09</number><number>0.55</number>
+<number shadow='shadow1' tooltip='14:53 1-10-PIT 40PIT 0 NE 0 LI: 1.4PIT 76-Adams eligible7-B.Roethlisberger pass short left to 84-A.Brown ran ob at PIT 46 for 6 yards.'>0.12</number><number>0.55</number>
+<number shadow='shadow1' tooltip='14:23 2-4-PIT 46PIT 0 NE 0 LI: 1.326-L.Bell right end to NE 44 for 10 yards(28-S.Gregory; 50-R.Ninkovich).'>0.62</number><number>0.58</number>
+<number shadow='shadow1' tooltip='13:39 1-10-NE 44PIT 0 NE 0 LI: 1.4(Shotgun) 7-B.Roethlisberger pass short left to 88-E.Sanders to NE 36 for 8 yards(37-A.Dennard).'>1.35</number><number>0.59</number>
+<number shadow='shadow1' tooltip='12:54 2-2-NE 36PIT 0 NE 0 LI: 1.3(Shotgun) 26-L.Bell right guard to NE 36 for no gain (55-B.Spikes).'>2.1</number><number>0.57</number>
+<number shadow='shadow1' tooltip='12:12 3-2-NE 36PIT 0 NE 0 LI: 1.1(Shotgun) 7-B.Roethlisberger sacked at NE 42 for -6 yards(50-R.Ninkovich)FUMBLES (50-R.Ninkovich) RECOVERED by NE-72-J.Vellano at NE 4272-J.Vellano to NE 42 for no gain (68-K.Beachum)36th consecutive game that NE has forced a turnover longest active streak.'>2.8</number><number>0.45</number>
+<number shadow='shadow1' tooltip='12:05 1-10-NE 42PIT 0 NE 0 LI: 1.422-S.Ridley right guard to NE 46 for 4 yards(98-V.Williams; 43-T.Polamalu).'>2.92</number><number>0.46</number>
+<number shadow='shadow1' tooltip='11:42 2-6-NE 46PIT 0 NE 0 LI: 1.2(No Huddle) 22-S.Ridley up the middle to NE 48 for 2 yards(24-I.Taylor; 93-J.Worilds).'>3.3</number><number>0.46</number>
+<number shadow='shadow1' tooltip='11:01 3-4-NE 48PIT 0 NE 0 LI: 1.1(No Huddle Shotgun) 12-T.Brady sacked at NE 46 for -2 yards(93-J.Worilds).'>3.98</number><number>0.52</number>
+<number shadow='shadow1' tooltip='10:26 4-6-NE 46PIT 0 NE 0 LI: 0.66-R.Allen punts 54 yards to end zone Center-48-D.Aiken Touchback.'>4.57</number><number>0.52</number>
+<number shadow='shadow1' tooltip='10:20 1-10-PIT 20PIT 0 NE 0 LI: 1.6PIT 76-Adams eligible26-L.Bell right end to PIT 19 for -1 yards(50-R.Ninkovich).'>4.67</number><number>0.49</number>
+<number shadow='shadow1' tooltip='9:38 2-11-PIT 19PIT 0 NE 0 LI: 1.3PIT 76-Adams eligible26-L.Bell right tackle to PIT 24 for 5 yards(54-D.Hightower; 50-R.Ninkovich).'>5.37</number><number>0.5</number>
+<number shadow='shadow1' tooltip='8:52 3-6-PIT 24PIT 0 NE 0 LI: 1.3(Shotgun) 7-B.Roethlisberger pass short middle to 26-L.Bell to PIT 29 for 5 yards(28-S.Gregory; 95-Cha.Jones).'>6.13</number><number>0.46</number>
+<number shadow='shadow1' tooltip='8:14 4-1-PIT 29PIT 0 NE 0 LI: 0.810-M.McBriar punts 49 yards to NE 22 Center-60-G.Warren fair catch by 11-J.Edelman.'>6.77</number><number>0.48</number>
+<number shadow='shadow1' tooltip='8:07 1-10-NE 22PIT 0 NE 0 LI: 1.612-T.Brady pass short right to 87-R.Gronkowski pushed ob at NE 33 for 11 yards(22-W.Gay).'>6.88</number><number>0.46</number>
+<number shadow='shadow1' tooltip='7:53 1-10-NE 33PIT 0 NE 0 LI: 1.5(No Huddle) 22-S.Ridley right end to NE 33 for no gain (56-L.Woodley)PENALTY on NE-70-L.Mankins Clipping 15 yards enforced at NE 33 - No Play.'>7.12</number><number>0.49</number>
+<number shadow='shadow1' tooltip='7:28 1-25-NE 18PIT 0 NE 0 LI: 1.612-T.Brady pass incomplete short left to 11-J.Edelman [94-L.Timmons].'>7.53</number><number>0.53</number>
+<number shadow='shadow1' tooltip='7:23 2-25-NE 18PIT 0 NE 0 LI: 1.238-B.Bolden left end to NE 29 for 11 yards(25-R.Clark; 28-C.Allen).'>7.62</number><number>0.52</number>
+<number shadow='shadow1' tooltip='6:50 3-14-NE 29PIT 0 NE 0 LI: 1(No Huddle Shotgun) 12-T.Brady pass deep right to 87-R.Gronkowski pushed ob at PIT 37 for 34 yards(25-R.Clark).'>8.17</number><number>0.4</number>
+<number shadow='shadow1' tooltip='6:23 1-10-PIT 37PIT 0 NE 0 LI: 1.512-T.Brady pass deep middle to 87-R.Gronkowski to PIT 10 for 27 yards(22-W.Gay; 25-R.Clark)NE 87-Gronkowski 200th career reception.'>8.62</number><number>0.33</number>
+<number shadow='shadow1' tooltip='5:41 1-10-PIT 10PIT 0 NE 0 LI: 1.712-T.Brady pass incomplete short middle to 11-J.Edelman.'>9.32</number><number>0.35</number>
+<number shadow='shadow1' tooltip='5:37 2-10-PIT 10PIT 0 NE 0 LI: 1.522-S.Ridley right guard to PIT 7 for 3 yards(96-E.Hood; 94-L.Timmons).'>9.38</number><number>0.36</number>
+<number shadow='shadow1' tooltip='4:56 3-7-PIT 7PIT 0 NE 0 LI: 1.4(Shotgun) 12-T.Brady pass short right to 87-R.Gronkowski to PIT 1 for 6 yards(29-S.Thomas).'>10.07</number><number>0.41</number>
+<number shadow='shadow1' tooltip='4:29 4-1-PIT 1PIT 0 NE 0 LI: 0.9(No Huddle) 38-B.Bolden right end for 1 yard TOUCHDOWN.'>10.52</number><number>0.41</number>
+<number shadow='shadow1' tooltip='4:17 4-1-PIT 1PIT 0 NE 0 LI: 0.922-S.Ridley left tackle to PIT 1 for no gain (43-T.Polamalu).'>10.72</number><number>0.5</number>
+<number shadow='shadow1' tooltip='4:12 1-10-PIT 1PIT 0 NE 0 LI: 1.8PIT 76-Adams eligiblePENALTY on PIT-77-M.Gilbert False Start 0 yards enforced at PIT 1 - No Play.'>10.8</number><number>0.5</number>
+<number shadow='shadow1' tooltip='4:06 1-10-PIT 34PIT 0 NE 0 LI: 1.512-T.Brady pass deep left to 80-D.Amendola for 34 yards TOUCHDOWN.'>10.9</number><number>0.29</number>
+<number shadow='shadow1' tooltip='4:06 PIT 0 NE 0 LI: 3-S.Gostkowski extra point is GOOD Center-48-D.Aiken Holder-6-R.Allen.'>10.94</number><number>0.29</number>
+<number shadow='shadow1' tooltip='4:06 PIT 0 NE 7 LI: 3-S.Gostkowski kicks 64 yards from NE 35 to PIT 123-F.Jones pushed ob at PIT 23 for 22 yards(32-D.McCourty).'>10.99</number><number>0.28</number>
+<number shadow='shadow1' tooltip='3:54 1-10-PIT 23PIT 0 NE 7 LI: 1.4(Shotgun) 7-B.Roethlisberger pass short right to 89-J.Cotchery to PIT 38 for 15 yards(25-K.Arrington).'>11.1</number><number>0.31</number>
+<number shadow='shadow1' tooltip='3:12 1-10-PIT 38PIT 0 NE 7 LI: 1.426-L.Bell left guard to PIT 44 for 6 yards(95-Cha.Jones).'>11.8</number><number>0.32</number>
+<number shadow='shadow1' tooltip='2:37 2-4-PIT 44PIT 0 NE 7 LI: 1.326-L.Bell right tackle to PIT 45 for 1 yard(28-S.Gregory).'>12.38</number><number>0.31</number>
+<number shadow='shadow1' tooltip='1:56 3-3-PIT 45PIT 0 NE 7 LI: 1.226-L.Bell up the middle to PIT 49 for 4 yards(54-D.Hightower).'>13.07</number><number>0.32</number>
+<number shadow='shadow1' tooltip='1:12 1-10-PIT 49PIT 0 NE 7 LI: 1.2PIT 76-Adams eligible7-B.Roethlisberger pass incomplete deep left to 88-E.SandersPENALTY on PIT-26-L.Bell Chop Block 16 yards enforced at PIT 49 - No Play.'>13.8</number><number>0.3</number>
+<number shadow='shadow1' tooltip='1:05 1-26-PIT 33PIT 0 NE 7 LI: 1.3(Shotgun) 7-B.Roethlisberger sacked at PIT 29 for -4 yards(95-Cha.Jones).'>13.92</number><number>0.25</number>
+<number shadow='shadow1' tooltip='0:26 2-30-PIT 29PIT 0 NE 7 LI: 0.9(Shotgun) 7-B.Roethlisberger pass incomplete short middle to 26-L.Bell.'>14.57</number><number>0.26</number>
+<number shadow='shadow1' tooltip='0:23 3-30-PIT 29PIT 0 NE 7 LI: 1(Shotgun) 7-B.Roethlisberger pass short left to 26-L.Bell to NE 42 for 29 yards(52-D.Fletcher)measurement'>14.62</number><number>0.29</number>
+<number shadow='shadow1' tooltip='15:00 4-1-NE 42PIT 0 NE 7 LI: 0.7PIT 76-Adams eligible26-L.Bell up the middle to NE 41 for 1 yard(94-ChrJones)measurement'>15</number><number>0.34</number>
+<number shadow='shadow1' tooltip='14:26 1-10-NE 41PIT 0 NE 7 LI: 1.126-L.Bell right end to NE 41 for no gain (50-R.Ninkovich).'>15.57</number><number>0.32</number>
+<number shadow='shadow1' tooltip='13:43 2-10-NE 41PIT 0 NE 7 LI: 0.97-B.Roethlisberger pass short right to 83-H.Miller ran ob at NE 32 for 9 yards.'>16.28</number><number>0.34</number>
+<number shadow='shadow1' tooltip='13:25 3-1-NE 32PIT 0 NE 7 LI: 0.9(No Huddle) 26-L.Bell up the middle to NE 32 for no gain (72-J.Vellano; 28-S.Gregory).'>16.58</number><number>0.3</number>
+<number shadow='shadow1' tooltip='12:42 4-1-NE 32PIT 0 NE 7 LI: 0.5PIT 76-Adams eligible26-L.Bell left guard to NE 33 for -1 yards(94-ChrJones; 91-J.Collins).'>17.3</number><number>0.25</number>
+<number shadow='shadow1' tooltip='12:36 1-10-NE 33PIT 0 NE 7 LI: 0.922-S.Ridley right guard to NE 37 for 4 yards(56-L.Woodley; 25-R.Clark).'>17.4</number><number>0.24</number>
+<number shadow='shadow1' tooltip='12:10 2-6-NE 37PIT 0 NE 7 LI: 1(No Huddle) 22-S.Ridley left tackle to 50 for 13 yards(56-L.Woodley).'>17.83</number><number>0.2</number>
+<number shadow='shadow1' tooltip='11:41 1-10-50PIT 0 NE 7 LI: 1.212-T.Brady pass short left to 47-M.Hoomanawanui to PIT 33 for 17 yards(25-R.Clark; 94-L.Timmons)PIT-25-R.Clark was injured during the play.'>18.32</number><number>0.17</number>
+<number shadow='shadow1' tooltip='11:26 1-10-PIT 33PIT 0 NE 7 LI: 1.3(No Huddle) 22-S.Ridley left end to PIT 32 for 1 yard(97-C.Heyward; 94-L.Timmons).'>18.57</number><number>0.18</number>
+<number shadow='shadow1' tooltip='10:56 2-9-PIT 32PIT 0 NE 7 LI: 1.212-T.Brady pass short left to 87-R.Gronkowski pushed ob at PIT 19 for 13 yards(29-S.Thomas).'>19.07</number><number>0.14</number>
+<number shadow='shadow1' tooltip='10:35 1-10-PIT 19PIT 0 NE 7 LI: 1.412-T.Brady pass deep left to 87-R.Gronkowski for 19 yards TOUCHDOWNPENALTY on PIT-43-T.Polamalu Unnecessary Roughness 15 yards enforced between downsNE 87-Gronkowski 11th career 100-yard game extends his Patriots record for a TE.'>19.42</number><number>0.1</number>
+<number shadow='shadow1' tooltip='10:35 PIT 0 NE 7 LI: 3-S.Gostkowski extra point is GOOD Center-48-D.Aiken Holder-6-R.Allen.'>19.46</number><number>0.1</number>
+<number shadow='shadow1' tooltip='10:35 PIT 0 NE 14 LI: 3-S.Gostkowski kicks 50 yards from 50 to end zone Touchback.'>19.51</number><number>0.1</number>
+<number shadow='shadow1' tooltip='9:57 2-6-PIT 24PIT 0 NE 14 LI: 0.1(No Huddle Shotgun) 7-B.Roethlisberger pass deep left to 88-E.Sanders to NE 34 for 42 yards(25-K.Arrington).'>20.05</number><number>0.15</number>
+<number shadow='shadow1' tooltip='9:17 1-10-NE 34PIT 0 NE 14 LI: 0.3(No Huddle) 7-B.Roethlisberger pass short left to 84-A.Brown to NE 17 for 17 yards(37-A.Dennard).'>20.72</number><number>0.17</number>
+<number shadow='shadow1' tooltip='8:34 1-10-NE 17PIT 0 NE 14 LI: 0.6(No Huddle Shotgun) 7-B.Roethlisberger pass incomplete deep right to 88-E.Sanders.'>21.43</number><number>0.18</number>
+<number shadow='shadow1' tooltip='8:30 2-10-NE 17PIT 0 NE 14 LI: 0.7(No Huddle Shotgun) 23-F.Jones left guard to NE 12 for 5 yards(54-D.Hightower; 95-Cha.Jones).'>21.5</number><number>0.19</number>
+<number shadow='shadow1' tooltip='7:45 3-5-NE 12PIT 0 NE 14 LI: 0.8(Shotgun) 7-B.Roethlisberger pass incomplete short right to 88-E.Sanders.'>22.25</number><number>0.13</number>
+<number shadow='shadow1' tooltip='7:41 4-5-NE 12PIT 0 NE 14 LI: 0.26-S.Suisham 30 yard field goal is GOOD Center-60-G.Warren Holder-10-M.McBriar.'>22.32</number><number>0.13</number>
+<number shadow='shadow1' tooltip='7:41 PIT 3 NE 14 LI: 6-S.Suisham kicks 65 yards from PIT 35 to end zone Touchback.'>22.41</number><number>0.13</number>
+<number shadow='shadow1' tooltip='7:23 2-7-NE 23PIT 3 NE 14 LI: 0.9(No Huddle) 22-S.Ridley right guard to NE 24 for 1 yard(56-L.Woodley; 94-L.Timmons).'>22.62</number><number>0.15</number>
+<number shadow='shadow1' tooltip='6:48 3-6-NE 24PIT 3 NE 14 LI: 0.9(Shotgun) 12-T.Brady pass short middle to 87-R.Gronkowski to NE 33 for 9 yards(28-C.Allen).'>23.2</number><number>0.12</number>
+<number shadow='shadow1' tooltip='6:13 1-10-NE 33PIT 3 NE 14 LI: 1.112-T.Brady pass deep left to 80-D.Amendola ran ob at PIT 10 for 57 yards.'>23.78</number><number>0.08</number>
+<number shadow='shadow1' tooltip='5:48 1-10-PIT 10PIT 3 NE 14 LI: 0.722-S.Ridley left end to PIT 9 for 1 yard(94-L.Timmons).'>24.2</number><number>0.08</number>
+<number shadow='shadow1' tooltip='5:11 2-9-PIT 9PIT 3 NE 14 LI: 0.712-T.Brady sacked at PIT 17 for -8 yards(97-C.Heyward).'>24.82</number><number>0.11</number>
+<number shadow='shadow1' tooltip='4:37 3-17-PIT 17PIT 3 NE 14 LI: 0.5(Shotgun) 38-B.Bolden up the middle to PIT 3 for 14 yards(25-R.Clark; 97-C.Heyward).'>25.38</number><number>0.1</number>
+<number shadow='shadow1' tooltip='4:37 PIT 3 NE 17 LI: 3-S.Gostkowski kicks 55 yards from NE 35 to PIT 1088-E.Sanders to PIT 29 for 19 yards(23-M.Cole).'>25.47</number><number>0.1</number>
+<number shadow='shadow1' tooltip='3:46 1-10-PIT 29PIT 3 NE 17 LI: 0.326-L.Bell left end to PIT 32 for 3 yards(95-Cha.Jones; 94-ChrJones).'>26.23</number><number>0.11</number>
+<number shadow='shadow1' tooltip='3:07 2-7-PIT 32PIT 3 NE 17 LI: 0.4(No Huddle Shotgun) 7-B.Roethlisberger pass short right to 83-H.Miller pushed ob at PIT 43 for 11 yards(55-B.Spikes).'>26.88</number><number>0.12</number>
+<number shadow='shadow1' tooltip='2:34 1-10-PIT 43PIT 3 NE 17 LI: 0.4(No Huddle Shotgun) 27-J.Dwyer left tackle pushed ob at NE 27 for 30 yards(37-A.Dennard).'>27.43</number><number>0.15</number>
+<number shadow='shadow1' tooltip='2:00 1-10-NE 27PIT 3 NE 17 LI: 0.6(Shotgun) 7-B.Roethlisberger pass deep right to 84-A.Brown for 27 yards TOUCHDOWNPIT 7-Roethlisberger 200th career TD pass 2nd Steeler to reach that milestone (Bradshaw).'>28</number><number>0.24</number>
+<number shadow='shadow1' tooltip='2:00 PIT 3 NE 17 LI: 6-S.Suisham extra point is GOOD Center-60-G.Warren Holder-10-M.McBriar.'>28.04</number><number>0.24</number>
+<number shadow='shadow1' tooltip='2:00 PIT 10 NE 17 LI: 6-S.Suisham kicks 67 yards from PIT 35 to NE -229-L.Blount to NE 23 for 25 yards(29-S.Thomas).'>28.09</number><number>0.24</number>
+<number shadow='shadow1' tooltip='1:50 1-10-NE 23PIT 10 NE 17 LI: 1.222-S.Ridley left tackle to NE 31 for 8 yards(56-L.Woodley; 28-C.Allen).'>28.17</number><number>0.23</number>
+<number shadow='shadow1' tooltip='1:30 2-2-NE 31PIT 10 NE 17 LI: 1.1(No Huddle) 22-S.Ridley up the middle to NE 33 for 2 yards(94-L.Timmons; 56-L.Woodley).'>28.5</number><number>0.23</number>
+<number shadow='shadow1' tooltip='1:08 1-10-NE 33PIT 10 NE 17 LI: 1.1(No Huddle Shotgun) 12-T.Brady pass incomplete short middle to 17-A.DobsonPENALTY on PIT-43-T.Polamalu Defensive Pass Interference 15 yards enforced at NE 33 - No Play.'>28.87</number><number>0.21</number>
+<number shadow='shadow1' tooltip='1:03 1-10-NE 48PIT 10 NE 17 LI: 1.1(Shotgun) 12-T.Brady pass short left to 17-A.Dobson to PIT 46 for 6 yards(22-W.Gay).'>28.95</number><number>0.21</number>
+<number shadow='shadow1' tooltip='0:40 3-4-PIT 46PIT 10 NE 17 LI: 1(Shotgun) 12-T.Brady pass short left to 17-A.Dobson pushed ob at PIT 30 for 16 yards(43-T.Polamalu).'>29.33</number><number>0.17</number>
+<number shadow='shadow1' tooltip='0:35 1-10-PIT 30PIT 10 NE 17 LI: 1.1(No Huddle Shotgun) 12-T.Brady pass incomplete deep left to 17-A.Dobson.'>29.42</number><number>0.19</number>
+<number shadow='shadow1' tooltip='0:29 2-10-PIT 30PIT 10 NE 17 LI: 0.9(Shotgun) 38-B.Bolden up the middle to PIT 19 for 11 yards(93-J.Worilds; 56-L.Woodley).'>29.52</number><number>0.16</number>
+<number shadow='shadow1' tooltip='0:24 1-10-PIT 19PIT 10 NE 17 LI: 1(Shotgun) 12-T.Brady pass incomplete deep left to 87-R.GronkowskiPENALTY on PIT-29-S.Thomas Defensive Pass Interference 18 yards enforced at PIT 19 - No Play.'>29.6</number><number>0.1</number>
+<number shadow='shadow1' tooltip='0:18 1-1-PIT 1PIT 10 NE 17 LI: 1.512-T.Brady pass incomplete short middle to 87-R.Gronkowski.'>29.7</number><number>0.11</number>
+<number shadow='shadow1' tooltip='0:13 2-1-PIT 1PIT 10 NE 17 LI: 1.422-S.Ridley right guard for 1 yard TOUCHDOWN.'>29.78</number><number>0.1</number>
+<number shadow='shadow1' tooltip='0:13 PIT 10 NE 17 LI: 3-S.Gostkowski extra point is GOOD Center-48-D.Aiken Holder-6-R.Allen.'>29.82</number><number>0.1</number>
+<number shadow='shadow1' tooltip='0:13 PIT 10 NE 24 LI: 3-S.Gostkowski kicks 56 yards from NE 35 to PIT 927-J.Dwyer to PIT 24 for 15 yards(18-M.Slater; 59-C.White).'>29.87</number><number>0.09</number>
+<number shadow='shadow1' tooltip='0:04 1-10-PIT 24PIT 10 NE 24 LI: 0.37-B.Roethlisberger kneels to PIT 23 for -1 yards.'>29.93</number><number>0.1</number>
+<number shadow='shadow1' tooltip='0:04 PIT 10 NE 24 LI: 6-S.Suisham kicks 64 yards from PIT 35 to NE 129-L.Blount pushed ob at NE 31 for 30 yards(6-S.Suisham).'>30.02</number><number>0.1</number>
+<number shadow='shadow1' tooltip='14:55 1-10-NE 10PIT 10 NE 24 LI: 1.122-S.Ridley left tackle to NE 21 for 11 yards(25-R.Clark).'>30.08</number><number>0.1</number>
+<number shadow='shadow1' tooltip='14:26 1-10-NE 21PIT 10 NE 24 LI: 0.5(No Huddle) 12-T.Brady pass incomplete short middle to 11-J.Edelman.'>30.57</number><number>0.1</number>
+<number shadow='shadow1' tooltip='14:22 2-10-NE 21PIT 10 NE 24 LI: 0.522-S.Ridley left guard to NE 25 for 4 yards(90-S.McLendon; 99-B.Keisel).'>30.63</number><number>0.11</number>
+<number shadow='shadow1' tooltip='13:41 3-6-NE 25PIT 10 NE 24 LI: 0.4(Shotgun) 12-T.Brady pass short right to 80-D.Amendola to NE 35 for 10 yards(29-S.Thomas)NE-80 Amendola 4th career 100-yard game.'>31.32</number><number>0.1</number>
+<number shadow='shadow1' tooltip='13:07 1-10-NE 35PIT 10 NE 24 LI: 0.412-T.Brady pass short right to 22-S.Ridley to NE 36 for 1 yard(43-T.Polamalu) [99-B.Keisel]FUMBLES (43-T.Polamalu) RECOVERED by PIT-56-L.Woodley at NE 3656-L.Woodley ran ob at NE 36 for no gainThe Replay Assistant challenged the pass completion ruling and the play was Upheld.'>31.88</number><number>0.13</number>
+<number shadow='shadow1' tooltip='12:56 1-10-NE 36PIT 10 NE 24 LI: 0.3(Shotgun) 7-B.Roethlisberger pass short left to 26-L.Bell to NE 27 for 9 yards(32-D.McCourty; 28-S.Gregory).'>32.07</number><number>0.15</number>
+<number shadow='shadow1' tooltip='12:11 2-1-NE 27PIT 10 NE 24 LI: 0.4(No Huddle) 26-L.Bell right guard to NE 19 for 8 yards(25-K.Arrington).'>32.82</number><number>0.15</number>
+<number shadow='shadow1' tooltip='11:33 1-10-NE 19PIT 10 NE 24 LI: 0.5(No Huddle Shotgun) 7-B.Roethlisberger sacked at NE 20 for -1 yards(95-Cha.Jones).'>33.45</number><number>0.17</number>
+<number shadow='shadow1' tooltip='11:12 2-11-NE 20PIT 10 NE 24 LI: 0.7(No Huddle Shotgun) 7-B.Roethlisberger pass incomplete short right to 26-L.Bell (54-D.Hightower).'>33.8</number><number>0.15</number>
+<number shadow='shadow1' tooltip='11:08 3-11-NE 20PIT 10 NE 24 LI: 0.5(Shotgun) 7-B.Roethlisberger pass deep middle to 89-J.Cotchery for 20 yards TOUCHDOWN.'>33.87</number><number>0.23</number>
+<number shadow='shadow1' tooltip='11:08 PIT 10 NE 24 LI: 6-S.Suisham extra point is GOOD Center-60-G.Warren Holder-10-M.McBriar.'>33.91</number><number>0.23</number>
+<number shadow='shadow1' tooltip='11:08 PIT 17 NE 24 LI: 6-S.Suisham kicks 60 yards from PIT 35 to NE 518-M.Slater to NE 15 for 10 yards(41-A.Blake; 95-J.Jones).'>33.96</number><number>0.25</number>
+<number shadow='shadow1' tooltip='10:55 1-10-NE 15PIT 17 NE 24 LI: 1.422-S.Ridley up the middle to NE 18 for 3 yards(56-L.Woodley).'>34.08</number><number>0.25</number>
+<number shadow='shadow1' tooltip='10:30 2-7-NE 18PIT 17 NE 24 LI: 1.3(No Huddle Shotgun) 12-T.Brady pass short right to 22-S.Ridley to NE 23 for 5 yards(94-L.Timmons) [97-C.Heyward].'>34.5</number><number>0.25</number>
+<number shadow='shadow1' tooltip='9:47 3-2-NE 23PIT 17 NE 24 LI: 1.2(Shotgun) 12-T.Brady pass incomplete deep right to 17-A.Dobson.'>35.22</number><number>0.28</number>
+<number shadow='shadow1' tooltip='9:42 4-2-NE 23PIT 17 NE 24 LI: 0.96-R.Allen punts 47 yards to PIT 30 Center-48-D.Aiken84-A.Brown to NE 46 for 24 yards(43-N.Ebner).'>35.3</number><number>0.32</number>
+<number shadow='shadow1' tooltip='9:28 1-10-NE 46PIT 17 NE 24 LI: 1.2(Shotgun) 7-B.Roethlisberger pass short left to 26-L.Bell to NE 39 for 7 yards(72-J.Vellano)PENALTY on PIT-61-F.Velasco Illegal Block Above the Waist 10 yards enforced at NE 46 - No Play.'>35.53</number><number>0.29</number>
+<number shadow='shadow1' tooltip='9:04 1-20-PIT 44PIT 17 NE 24 LI: 1(Shotgun) 26-L.Bell right end pushed ob at NE 31 for 25 yards(32-D.McCourty).'>35.93</number><number>0.35</number>
+<number shadow='shadow1' tooltip='8:38 1-10-NE 31PIT 17 NE 24 LI: 1.3(No Huddle Shotgun) 7-B.Roethlisberger pass short middle to 83-H.Miller to NE 16 for 15 yards(28-S.Gregory; 32-D.McCourty)NE-28-S.Gregory was injured during the play.'>36.37</number><number>0.38</number>
+<number shadow='shadow1' tooltip='7:56 1-10-NE 16PIT 17 NE 24 LI: 1.3(Shotgun) 7-B.Roethlisberger pass incomplete deep right to 26-L.Bell.'>37.07</number><number>0.36</number>
+<number shadow='shadow1' tooltip='7:52 2-10-NE 16PIT 17 NE 24 LI: 1.1(No Huddle Shotgun) 7-B.Roethlisberger pass short middle to 84-A.Brown to NE 8 for 8 yards(30-D.Harmon).'>37.13</number><number>0.41</number>
+<number shadow='shadow1' tooltip='7:14 3-2-NE 8PIT 17 NE 24 LI: 1.6(No Huddle Shotgun) 7-B.Roethlisberger pass short left to 89-J.Cotchery for 8 yards TOUCHDOWN.'>37.77</number><number>0.47</number>
+<number shadow='shadow1' tooltip='7:14 PIT 17 NE 24 LI: 6-S.Suisham extra point is GOOD Center-60-G.Warren Holder-10-M.McBriar.'>37.81</number><number>0.47</number>
+<number shadow='shadow1' tooltip='7:14 PIT 24 NE 24 LI: 6-S.Suisham kicks 67 yards from PIT 35 to NE -229-L.Blount to NE 26 for 28 yards(55-S.Sylvester; 6-S.Suisham).'>37.86</number><number>0.47</number>
+<number shadow='shadow1' tooltip='7:03 1-10-NE 26PIT 24 NE 24 LI: 1.512-T.Brady pass short middle to 87-R.Gronkowski to NE 42 for 16 yards(25-R.Clark).'>37.95</number><number>0.44</number>
+<number shadow='shadow1' tooltip='6:26 1-10-NE 42PIT 24 NE 24 LI: 1.5PENALTY on NE-70-L.Mankins False Start 5 yards enforced at NE 42 - No Play.'>38.57</number><number>0.45</number>
+<number shadow='shadow1' tooltip='6:24 1-15-NE 37PIT 24 NE 24 LI: 1.512-T.Brady pass short right to 11-J.Edelman ran ob at NE 48 for 11 yards.'>38.6</number><number>0.44</number>
+<number shadow='shadow1' tooltip='6:13 2-4-NE 48PIT 24 NE 24 LI: 1.4(No Huddle) 22-S.Ridley left tackle to PIT 44 for 8 yards(29-S.Thomas).'>38.78</number><number>0.41</number>
+<number shadow='shadow1' tooltip='5:43 1-10-PIT 44PIT 24 NE 24 LI: 1.512-T.Brady pass incomplete deep left to 17-A.Dobson.'>39.28</number><number>0.44</number>
+<number shadow='shadow1' tooltip='5:38 2-10-PIT 44PIT 24 NE 24 LI: 1.2(Shotgun) 22-S.Ridley left tackle to PIT 35 for 9 yards(29-S.Thomas).'>39.37</number><number>0.4</number>
+<number shadow='shadow1' tooltip='5:16 3-1-PIT 35PIT 24 NE 24 LI: 1.5(No Huddle) 22-S.Ridley left tackle to PIT 33 for 2 yards(43-T.Polamalu).'>39.73</number><number>0.38</number>
+<number shadow='shadow1' tooltip='4:47 1-10-PIT 33PIT 24 NE 24 LI: 1.612-T.Brady pass deep right to 80-D.Amendola to PIT 12 for 21 yards(24-I.Taylor)NE 12-Brady 55th career 300-yard game 5th most all-time.'>40.22</number><number>0.28</number>
+<number shadow='shadow1' tooltip='4:18 1-10-PIT 12PIT 24 NE 24 LI: 2.2(No Huddle) 22-S.Ridley left tackle to PIT 9 for 3 yards(97-C.Heyward; 29-S.Thomas).'>40.7</number><number>0.28</number>
+<number shadow='shadow1' tooltip='3:43 2-7-PIT 9PIT 24 NE 24 LI: 2.2(No Huddle Shotgun) 22-S.Ridley up the middle to PIT 5 for 4 yards(56-L.Woodley; 94-L.Timmons).'>41.28</number><number>0.29</number>
+<number shadow='shadow1' tooltip='3:15 3-3-PIT 5PIT 24 NE 24 LI: 2.1(No Huddle Shotgun) 12-T.Brady sacked at PIT 14 for -9 yards(93-J.Worilds).'>41.75</number><number>0.4</number>
+<number shadow='shadow1' tooltip='2:42 4-12-PIT 14PIT 24 NE 24 LI: 13-S.Gostkowski 32 yard field goal is GOOD Center-48-D.Aiken Holder-6-R.Allen.'>42.3</number><number>0.4</number>
+<number shadow='shadow1' tooltip='2:42 PIT 24 NE 27 LI: 3-S.Gostkowski kicks 64 yards from NE 35 to PIT 123-F.Jones to PIT 11 for 10 yards(43-N.Ebner; 18-M.Slater).'>42.39</number><number>0.36</number>
+<number shadow='shadow1' tooltip='2:34 1-10-PIT 11PIT 24 NE 27 LI: 1.7(Shotgun) 26-L.Bell up the middle to PIT 20 for 9 yards(54-D.Hightower).'>42.43</number><number>0.38</number>
+<number shadow='shadow1' tooltip='2:01 2-1-PIT 20PIT 24 NE 27 LI: 1.6(No Huddle) 7-B.Roethlisberger pass short right to 89-J.Cotchery pushed ob at PIT 36 for 16 yards(26-L.Ryan).'>42.98</number><number>0.42</number>
+<number shadow='shadow1' tooltip='1:26 1-10-PIT 36PIT 24 NE 27 LI: 1.6(No Huddle) 7-B.Roethlisberger left tackle to PIT 36 for no gain (94-ChrJones).'>43.57</number><number>0.39</number>
+<number shadow='shadow1' tooltip='0:48 2-10-PIT 36PIT 24 NE 27 LI: 1.4(No Huddle Shotgun) 7-B.Roethlisberger pass incomplete deep right to 88-E.Sanders.'>44.2</number><number>0.37</number>
+<number shadow='shadow1' tooltip='0:43 3-10-PIT 36PIT 24 NE 27 LI: 1.2(Shotgun) 7-B.Roethlisberger pass incomplete deep middle to 83-H.Miller.'>44.28</number><number>0.34</number>
+<number shadow='shadow1' tooltip='0:38 4-10-PIT 36PIT 24 NE 27 LI: 0.910-M.McBriar punts 41 yards to NE 23 Center-60-G.Warren11-J.Edelman to PIT 34 for 43 yards(93-J.Worilds).'>44.37</number><number>0.24</number>
+<number shadow='shadow1' tooltip='0:24 1-10-PIT 34PIT 24 NE 27 LI: 1.729-L.Blount left tackle to PIT 30 for 4 yards(97-C.Heyward).'>44.6</number><number>0.24</number>
+<number shadow='shadow1' tooltip='15:00 2-6-PIT 30PIT 24 NE 27 LI: 1.612-T.Brady pass incomplete short left to 47-M.Hoomanawanui.'>45</number><number>0.26</number>
+<number shadow='shadow1' tooltip='14:57 3-6-PIT 30PIT 24 NE 27 LI: 1.4(No Huddle Shotgun) 12-T.Brady pass short middle to 17-A.Dobson to PIT 20 for 10 yards(22-W.Gay)NE 12-Brady 3989 career completions passing Warren Moon for 6th in NFL history.'>45.05</number><number>0.21</number>
+<number shadow='shadow1' tooltip='14:26 1-10-PIT 20PIT 24 NE 27 LI: 1.629-L.Blount left tackle to PIT 17 for 3 yards(98-V.Williams)PIT-98-V.Williams was injured during the play.'>45.57</number><number>0.18</number>
+<number shadow='shadow1' tooltip='13:51 2-7-PIT 17PIT 24 NE 27 LI: 1.812-T.Brady pass deep left to 17-A.Dobson for 17 yards TOUCHDOWNThe Replay Assistant challenged the pass completion ruling and the play was Upheld.'>46.15</number><number>0.13</number>
+<number shadow='shadow1' tooltip='13:51 PIT 24 NE 27 LI: 3-S.Gostkowski extra point is GOOD Center-48-D.Aiken Holder-6-R.Allen.'>46.19</number><number>0.13</number>
+<number shadow='shadow1' tooltip='13:51 PIT 24 NE 34 LI: 3-S.Gostkowski kicks 65 yards from NE 35 to PIT 027-J.Dwyer to PIT 23 for 23 yards(23-M.Cole).'>46.24</number><number>0.12</number>
+<number shadow='shadow1' tooltip='13:39 1-10-PIT 23PIT 24 NE 34 LI: 0.6(Shotgun) 7-B.Roethlisberger pass incomplete short middle to 23-F.Jones (90-I.Sopoaga).'>46.35</number><number>0.12</number>
+<number shadow='shadow1' tooltip='13:35 2-10-PIT 23PIT 24 NE 34 LI: 0.6(No Huddle Shotgun) 7-B.Roethlisberger pass incomplete short left to 84-A.Brown (25-K.Arrington).'>46.42</number><number>0.11</number>
+<number shadow='shadow1' tooltip='13:31 3-10-PIT 23PIT 24 NE 34 LI: 0.5(No Huddle Shotgun) 7-B.Roethlisberger sacked at PIT 11 for -12 yards(52-D.Fletcher).'>46.48</number><number>0.08</number>
+<number shadow='shadow1' tooltip='12:51 4-22-PIT 11PIT 24 NE 34 LI: 0.510-M.McBriar punts 50 yards to NE 39 Center-60-G.Warren11-J.Edelman to NE 39 for no gain (41-A.Blake).'>47.15</number><number>0.09</number>
+<number shadow='shadow1' tooltip='12:44 1-10-NE 39PIT 24 NE 34 LI: 122-S.Ridley right guard to 50 for 11 yards(94-L.Timmons).'>47.27</number><number>0.07</number>
+<number shadow='shadow1' tooltip='12:13 1-10-50PIT 24 NE 34 LI: 122-S.Ridley left end to NE 49 for -1 yards(94-L.Timmons).'>47.78</number><number>0.07</number>
+<number shadow='shadow1' tooltip='11:37 2-11-NE 49PIT 24 NE 34 LI: 112-T.Brady pass incomplete deep left to 17-A.Dobson [90-S.McLendon]PENALTY on PIT-22-W.Gay Defensive Pass Interference 22 yards enforced at NE 49 - No Play.'>48.38</number><number>0.05</number>
+<number shadow='shadow1' tooltip='11:31 1-10-PIT 29PIT 24 NE 34 LI: 0.612-T.Brady pass incomplete short middle to 22-S.Ridley.'>48.48</number><number>0.05</number>
+<number shadow='shadow1' tooltip='11:25 2-10-PIT 29PIT 24 NE 34 LI: 0.6(Shotgun) 22-S.Ridley right guard to PIT 26 for 3 yards(25-R.Clark).'>48.58</number><number>0.05</number>
+<number shadow='shadow1' tooltip='10:48 3-7-PIT 26PIT 24 NE 34 LI: 0.6(Shotgun) 12-T.Brady pass short right to 87-R.Gronkowski to PIT 18 for 8 yards(29-S.Thomas)NE 87-Gronkowski 9th reception of game new career high.'>49.2</number><number>0.04</number>
+<number shadow='shadow1' tooltip='10:10 1-10-PIT 18PIT 24 NE 34 LI: 0.522-S.Ridley right guard to PIT 11 for 7 yards(94-L.Timmons; 43-T.Polamalu)NE 22-Ridley 5th career 100-yard game.'>49.83</number><number>0.03</number>
+<number shadow='shadow1' tooltip='9:42 2-3-PIT 11PIT 24 NE 34 LI: 0.422-S.Ridley left tackle to PIT 5 for 6 yards(55-S.Sylvester; 25-R.Clark).'>50.3</number><number>0.03</number>
+<number shadow='shadow1' tooltip='9:19 1-5-PIT 5PIT 24 NE 34 LI: 0.3(No Huddle) 22-S.Ridley left guard for 5 yards TOUCHDOWN.'>50.68</number><number>0.02</number>
+<number shadow='shadow1' tooltip='9:19 PIT 24 NE 34 LI: 3-S.Gostkowski extra point is GOOD Center-48-D.Aiken Holder-6-R.Allen.'>50.72</number><number>0.02</number>
+<number shadow='shadow1' tooltip='9:19 PIT 24 NE 41 LI: 3-S.Gostkowski kicks 65 yards from NE 35 to end zone Touchback.'>50.77</number><number>0.02</number>
+<number shadow='shadow1' tooltip='8:45 1-10-PIT 44PIT 24 NE 41 LI: 0.1(Shotgun) 7-B.Roethlisberger pass incomplete deep right to 84-A.Brown (37-A.Dennard).'>51.25</number><number>0.02</number>
+<number shadow='shadow1' tooltip='8:39 2-10-PIT 44PIT 24 NE 41 LI: 0.1(No Huddle Shotgun) 7-B.Roethlisberger pass incomplete short middle to 89-J.Cotchery.'>51.35</number><number>0.01</number>
+<number shadow='shadow1' tooltip='8:32 3-10-PIT 44PIT 24 NE 41 LI: 0.1(Shotgun) 7-B.Roethlisberger pass short right to 89-J.Cotchery to NE 39 for 17 yards(23-M.Cole).'>51.47</number><number>0.03</number>
+<number shadow='shadow1' tooltip='7:52 1-10-NE 39PIT 24 NE 41 LI: 0.2(No Huddle Shotgun) 7-B.Roethlisberger pass short right to 88-E.Sanders ran ob at NE 33 for 6 yards.'>52.13</number><number>0.02</number>
+<number shadow='shadow1' tooltip='7:23 2-4-NE 33PIT 24 NE 41 LI: 0.1(No Huddle Shotgun) 7-B.Roethlisberger pass short right to 84-A.Brown pushed ob at NE 20 for 13 yards(30-D.Harmon).'>52.62</number><number>0.03</number>
+<number shadow='shadow1' tooltip='6:59 1-10-NE 20PIT 24 NE 41 LI: 0.2(No Huddle Shotgun) 7-B.Roethlisberger pass incomplete short right to 26-L.Bell.'>53.02</number><number>0.02</number>
+<number shadow='shadow1' tooltip='6:55 2-10-NE 20PIT 24 NE 41 LI: 0.1(No Huddle Shotgun) 7-B.Roethlisberger pass short middle to 89-J.Cotchery to NE 6 for 14 yards(23-M.Cole; 30-D.Harmon).'>53.08</number><number>0.03</number>
+<number shadow='shadow1' tooltip='6:26 1-6-NE 6PIT 24 NE 41 LI: 0.2(No Huddle Shotgun) 7-B.Roethlisberger pass incomplete short left to 88-E.Sanders.'>53.57</number><number>0.04</number>
+<number shadow='shadow1' tooltip='6:20 2-6-NE 6PIT 24 NE 41 LI: 0.3(No Huddle Shotgun) 7-B.Roethlisberger pass short right to 89-J.Cotchery for 6 yards TOUCHDOWN.'>53.67</number><number>0.04</number>
+<number shadow='shadow1' tooltip='6:20 PIT 24 NE 41 LI: 6-S.Suisham extra point is GOOD Center-60-G.Warren Holder-10-M.McBriar.'>53.71</number><number>0.04</number>
+<number shadow='shadow1' tooltip='6:20 PIT 31 NE 41 LI: 6-S.Suisham kicks 65 yards from PIT 35 to NE 032-D.McCourty to NE 7 for 7 yards(41-A.Blake).'>53.76</number><number>0.04</number>
+<number shadow='shadow1' tooltip='6:12 1-10-NE 7PIT 31 NE 41 LI: 1.529-L.Blount left tackle to NE 19 for 12 yards(24-I.Taylor; 95-J.Jones).'>53.8</number><number>0.05</number>
+<number shadow='shadow1' tooltip='5:25 1-10-NE 19PIT 31 NE 41 LI: 1.312-T.Brady pass deep left to 17-A.Dobson for 81 yards TOUCHDOWNNE 12-Brady 3rd career 400-yard gameNE 17-Dobson 1st career 100-yard game NE 12-Brady 47062 career pass yards passing Fran Tarkenton for 7th in NFL historyNE 12-Brady 37th career game with 3+ TD passes & no interceptions passing Brett Favre for 2nd most all-time (PManning 41)NE 12-Brady 19th career game with 4+ TD passes 5th most all-timeNE 12-Brady 15th career game with 4+ TD passes & no interceptions most all-time.'>54.58</number><number>0.01</number>
+<number shadow='shadow1' tooltip='5:25 PIT 31 NE 41 LI: 3-S.Gostkowski extra point is GOOD Center-48-D.Aiken Holder-6-R.Allen.'>54.62</number><number>0.01</number>
+<number shadow='shadow1' tooltip='5:25 PIT 31 NE 48 LI: 3-S.Gostkowski kicks 65 yards from NE 35 to end zone Touchback.'>54.67</number><number>0.01</number>
+<number shadow='shadow1' tooltip='5:15 1-10-PIT 20PIT 31 NE 48 LI: 0.1(Shotgun) 7-B.Roethlisberger sacked at PIT 14 for -6 yards(96-A.Carter).'>54.75</number><number>0.01</number>
+<number shadow='shadow1' tooltip='4:41 2-16-PIT 14PIT 31 NE 48 LI: 0.1(No Huddle Shotgun) 7-B.Roethlisberger pass short right to 27-J.Dwyer to PIT 37 for 23 yards(32-D.McCourty).'>55.32</number><number>0.01</number>
+<number shadow='shadow1' tooltip='3:58 1-10-PIT 37PIT 31 NE 48 LI: 0.1(No Huddle Shotgun) 7-B.Roethlisberger pass short right to 88-E.Sanders to PIT 48 for 11 yards(25-K.Arrington).'>56.03</number><number>0.01</number>
+<number shadow='shadow1' tooltip='3:32 1-10-PIT 48PIT 31 NE 48 LI: 0.1(No Huddle Shotgun) 7-B.Roethlisberger pass deep left intended for 84-A.Brown INTERCEPTED by 30-D.Harmon at NE 3030-D.Harmon pushed ob at PIT 28 for 42 yards(78-G.Whimper).'>56.47</number><number>0.01</number>
+<number shadow='shadow1' tooltip='3:19 1-10-PIT 28PIT 31 NE 48 LI: 0.129-L.Blount left guard to PIT 5 for 23 yards(43-T.Polamalu)PIT-24-I.Taylor was injured during the play.'>56.68</number><number>0.01</number>
+<number shadow='shadow1' tooltip='2:49 1-5-PIT 5PIT 31 NE 48 LI: 0.129-L.Blount up the middle for 5 yards TOUCHDOWN.'>57.18</number><number>0.01</number>
+<number shadow='shadow1' tooltip='2:49 PIT 31 NE 48 LI: 3-S.Gostkowski extra point is GOOD Center-48-D.Aiken Holder-6-R.Allen.'>57.22</number><number>0.01</number>
+<number shadow='shadow1' tooltip='2:49 PIT 31 NE 55 LI: 3-S.Gostkowski kicks 65 yards from NE 35 to end zone Touchback.'>57.27</number><number>0.01</number>
+<number shadow='shadow1' tooltip='2:41 1-10-PIT 20PIT 31 NE 55 LI: 0.1(Shotgun) 7-B.Roethlisberger pass incomplete short right to 88-E.Sanders.'>57.32</number><number>0.01</number>
+<number shadow='shadow1' tooltip='2:32 2-10-PIT 20PIT 31 NE 55 LI: 0.1(No Huddle Shotgun) 7-B.Roethlisberger pass short middle to 88-E.Sanders to PIT 27 for 7 yards(25-K.Arrington).'>57.47</number><number>0.01</number>
+<number shadow='shadow1' tooltip='2:05 3-3-PIT 27PIT 31 NE 55 LI: 0.1(No Huddle Shotgun) 7-B.Roethlisberger pass short left to 83-H.Miller to PIT 35 for 8 yards(26-L.Ryan).'>57.92</number><number>0.01</number>
+<number shadow='shadow1' tooltip='1:58 1-10-PIT 35PIT 31 NE 55 LI: 0.1(Shotgun) 7-B.Roethlisberger pass incomplete short left to 23-F.Jones [96-A.Carter].'>58.03</number><number>0.01</number>
+<number shadow='shadow1' tooltip='1:54 2-10-PIT 35PIT 31 NE 55 LI: 0.1(No Huddle Shotgun) 7-B.Roethlisberger pass short right to 26-L.Bell to NE 43 for 22 yards(32-D.McCourty).'>58.1</number><number>0.01</number>
+<number shadow='shadow1' tooltip='1:24 1-10-NE 43PIT 31 NE 55 LI: 0.1(No Huddle Shotgun) 7-B.Roethlisberger pass incomplete deep right to 26-L.Bell [96-A.Carter].'>58.6</number><number>0.01</number>
+<number shadow='shadow1' tooltip='1:16 2-10-NE 43PIT 31 NE 55 LI: 0.1(No Huddle Shotgun) 7-B.Roethlisberger pass incomplete deep right to 14-D.Moye.'>58.73</number><number>0.01</number>
+<number shadow='shadow1' tooltip='1:11 3-10-NE 43PIT 31 NE 55 LI: 0.1(Shotgun) 26-L.Bell right end to NE 39 for 4 yards(26-L.Ryan).'>58.82</number><number>0.01</number>
+<number shadow='shadow1' tooltip='0:38 4-6-NE 39PIT 31 NE 55 LI: 0.1(No Huddle Shotgun) 7-B.Roethlisberger pass incomplete short middle to 26-L.Bell.'>59.37</number><number>0.01</number>
+<number shadow='shadow1' tooltip='0:33 1-10-NE 39PIT 31 NE 55 LI: 0.112-T.Brady kneels to NE 38 for -1 yards.'>59.45</number><number>0</number>
+<number>60</number><number>0</number>
+</row> </chart_data>
+       <draw>
+
+
+
+      <image x='45' y='298'  url='nfllogos/42x50png/PIT.gif'  layer='foreground' glow = 'glow1'/>
+      <image x='45' y='350'  url='nfllogos/42x50png/NE.gif'     layer='foreground' glow = 'glow1'/>
+
+
+      <rect x='130' y='300' width='250' height='40' fill_color='ffac2c' bevel='bevel1' />
+      <text x='135' y='300' width='250' height='40' h_align='left' v_align='middle' color='ffffff' shadow='shadow2' glow=''>Pittsburgh Steelers</text>
+
+      <rect x='130' y='350' width='250' height='40' fill_color='003052' bevel='bevel1'  />
+      <text x='135' y='350' width='250' height='40' h_align='left' v_align='middle' color='ffffff' shadow='shadow2' glow='winnerglow'>New England Patriots</text>
+
+      <rect x='420' y='300' width='60' height='40' fill_color='ffac2c' bevel='bevel1'  />
+      <text x='420' y='300' width='60' height='40' h_align='center' v_align='middle' color='ffffff' shadow='shadow2' transition='none' glow=''>31</text>
+
+      <rect x='420' y='350' width='60' height='40' fill_color='003052' bevel='bevel1' />
+      <text x='420' y='350' width='60' height='40' h_align='center' v_align='middle' color='ffffff' shadow='shadow2' transition='none' glow='winnerglow'>55</text>
+
+      <text x='-3' y='12'  width='60' height='40' h_align='center' v_align='middle' size='13' shadow='shadow2'>PITWin </text>
+      <text x='-3' y='218' width='60' height='40' h_align='center' v_align='middle' size='13' shadow='shadow2'>NEWin </text>
+
+     
+              <rect x='540' y='300' width='100' height='35' fill_color='000000' fill_alpha='50'/>
+              <text x='540' y='300' width='100' height='35' h_align='center' v_align='middle' color='ffffff' size='15' shadow='shadow2' >Final</text>
+
+              <text x='540' y='340' width='40' h_align='center' color='000000' size='12' shadow='shadow2'>CBF</text>
+              <text x='600' y='340' width='40' h_align='center' color='000000' size='12' shadow='shadow2'>EI</text>
+
+              <rect x='540' y='360' width='40' height='30' fill_color='000000' fill_alpha='50' />
+              <text x='540' y='360' width='40' height='30' size='12' h_align='center' v_align='middle' color='FFFFFF' shadow='shadow2'>2</text>
+
+              <rect x='600' y='360' width='40' height='30' fill_color='000000' fill_alpha='50' />
+              <text x='600' y='360' width='40' height='30' size='12' h_align='center' v_align='middle' color='FFFFFF' shadow='shadow2'>3.8</text>
+
+              <text x='20' y='420' width='70' height='25' size='12' h_align='left' v_align='middle' color='000000' >11/3/2013</text>
+              <text x='100' y='420' width='200' height='25' size='12' h_align='left' v_align='middle' color='000000' >Gillette Stadium</text>
+
+   </draw></chart>

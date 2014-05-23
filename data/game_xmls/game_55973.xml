@@ -1,0 +1,308 @@
+
+<chart>
+   <license>ETAS9P33ESHO.945CWK-2XOI1X0-7L</license>
+   <chart_type>scatter</chart_type>
+   <chart_pref trend_thickness='0' line_thickness='3' point_size='0'/>
+
+   <series_color>
+      <color>ffff00</color>
+   </series_color>
+
+   <chart_rect x='45' y='20' width='630' height='230' positive_color='cacaca'  />
+
+  <chart_border top_thickness='0'
+                 bottom_thickness='0'
+                 left_thickness='0'
+                 right_thickness='0'
+                 color='000000'
+                 />
+
+   <tooltip font='Arial' bold='true' size='11' />
+
+   <chart_note type='flag'
+               color='000000'
+               alpha='90'
+               bold='FALSE'
+               size='10'
+               background_color='ffffe0'
+               background_alpha='50'
+               shadow='shadow2'
+               />
+
+   <chart_grid_h thickness='2' color='ffffff' type='dashed'  />
+   <chart_grid_v thickness='2' color='ffffff'   />
+		>
+
+   <legend layout='hide' />
+
+   <chart_guide horizontal='TRUE'
+             vertical='TRUE'
+             thickness='1'
+             color='006400'
+             alpha='100'
+             type='solid'
+             snap_h='TRUE'
+             snap_v='TRUE'
+             radius='3'
+             fill_color='006400'
+             fill_alpha='100'
+             line_color='006400'
+             line_alpha='80'
+             line_thickness='1'
+             text_h_alpha='50'
+             text_v_alpha='00'
+             suffix_h=' WP'
+             decimals='2'
+             bold='FALSE'
+             size='11'
+             text_color='FFFFFF'
+             background_color='006400'
+             />
+   <filter>
+      <shadow id='shadow1' distance='2' angle='60' blurX='5' blurY='5' alpha='50' />
+      <bevel id='bevel1' angle='45' blurX='5' blurY='5' distance='0' />
+      <glow id='glow1' color='ffffff' alpha='0' blurX='7' blurY='7' strength='6' quality='2' inner='FALSE' knockout='FALSE' />
+      <glow id='winnerglow' color='ffffff' alpha='0' blurX='7' blurY='7' strength='5' quality='2' inner='FALSE' knockout='FALSE' />
+   </filter>
+
+    <axis_value_label>
+         <string></string>
+          <string> </string>
+          <null/>
+          <string> </string>
+          <string></string>
+
+       </axis_value_label>
+		
+	   <axis_ticks category_ticks='false'/>
+
+       <axis_value min='0' max='1' steps='4'  decimals='2' show_min='true' size='13' shadow='shadow2' />     
+            <axis_category
+               min='0'
+               max='60'
+               steps='4'
+               mode='all'
+               decimals='0'
+               size='13'
+               shadow='shadow2'
+               />
+
+       <axis_category_label>
+          <string>Kickoff</string>
+          <string></string>
+          <string>Halftime</string>
+          <string></string>
+          <string>End</string>
+
+       </axis_category_label>
+
+
+        <chart_data>
+       <row>
+	      <null/><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number><number>x</number><number>y</number>
+              <number>x</number><number>y</number>
+              </row><row><string></string>
+
+                     <number shadow='shadow1'>0</number><number>.5</number><number shadow='shadow1' tooltip='15:00 DET 0 CHI 0 LI: 6-S.Martin kicks 69 yards from DET 35 to CHI -423-D.Hester to CHI 35 for 39 yards(24-D.Gomes).'>0.09</number><number>0.46</number>
+<number shadow='shadow1' tooltip='14:54 1-10-CHI 35DET 0 CHI 0 LI: 1.4(Shotgun) 22-M.Forte left end to CHI 39 for 4 yards(58-A.Palmer).'>0.1</number><number>0.46</number>
+<number shadow='shadow1' tooltip='14:19 2-6-CHI 39DET 0 CHI 0 LI: 1.3(Shotgun) 6-J.Cutler pass incomplete short right to 17-A.Jeffery.'>0.68</number><number>0.48</number>
+<number shadow='shadow1' tooltip='14:16 3-6-CHI 39DET 0 CHI 0 LI: 1.1(Shotgun) 6-J.Cutler pass deep middle to 15-B.Marshall to DET 44 for 17 yards(31-R.Mathis).'>0.73</number><number>0.42</number>
+<number shadow='shadow1' tooltip='13:28 1-10-DET 44DET 0 CHI 0 LI: 1.4(Shotgun) 6-J.Cutler pass short left to 15-B.Marshall to DET 32 for 12 yards(26-L.Delmas).'>1.53</number><number>0.39</number>
+<number shadow='shadow1' tooltip='12:45 1-10-DET 32DET 0 CHI 0 LI: 1.5(Shotgun) 6-J.Cutler pass deep left to 15-B.Marshall for 32 yards TOUCHDOWN.'>2.25</number><number>0.29</number>
+<number shadow='shadow1' tooltip='12:45 DET 0 CHI 0 LI: 9-R.Gould extra point is GOOD Center-44-J.Cain Holder-8-A.Podlesh.'>2.29</number><number>0.29</number>
+<number shadow='shadow1' tooltip='12:45 DET 0 CHI 7 LI: 9-R.Gould kicks 67 yards from CHI 35 to DET -215-M.Spurlock to DET 15 for 17 yards(20-C.Steltz).'>2.34</number><number>0.27</number>
+<number shadow='shadow1' tooltip='12:33 1-10-DET 15DET 0 CHI 7 LI: 1.521-R.Bush right tackle to DET 18 for 3 yards(92-S.Paea).'>2.45</number><number>0.27</number>
+<number shadow='shadow1' tooltip='11:59 2-7-DET 18DET 0 CHI 7 LI: 1.521-R.Bush left guard to DET 23 for 5 yards(91-D.Bass).'>3.02</number><number>0.27</number>
+<number shadow='shadow1' tooltip='11:17 3-2-DET 23DET 0 CHI 7 LI: 1.3(Shotgun) 9-M.Stafford pass short middle to 81-C.Johnson to DET 38 for 15 yards(33-C.Tillman).'>3.72</number><number>0.31</number>
+<number shadow='shadow1' tooltip='10:43 1-10-DET 38DET 0 CHI 7 LI: 1.421-R.Bush left tackle to DET 40 for 2 yards(33-C.Tillman).'>4.28</number><number>0.31</number>
+<number shadow='shadow1' tooltip='10:01 2-8-DET 40DET 0 CHI 7 LI: 1.3(Shotgun) 9-M.Stafford pass short left to 21-R.Bush pushed ob at DET 44 for 4 yards(38-Z.Bowman).'>4.98</number><number>0.31</number>
+<number shadow='shadow1' tooltip='9:29 3-4-DET 44DET 0 CHI 7 LI: 1.2(Shotgun) 9-M.Stafford pass deep middle to 81-C.Johnson to CHI 39 for 17 yards(21-M.Wright).'>5.52</number><number>0.34</number>
+<number shadow='shadow1' tooltip='8:49 1-10-CHI 39DET 0 CHI 7 LI: 135-J.Bell right guard to CHI 37 for 2 yards(91-D.Bass; 97-L.Cohen).'>6.18</number><number>0.34</number>
+<number shadow='shadow1' tooltip='8:06 2-8-CHI 37DET 0 CHI 7 LI: 121-R.Bush right tackle to CHI 33 for 4 yards(31-I.Frey).'>6.9</number><number>0.33</number>
+<number shadow='shadow1' tooltip='7:23 3-4-CHI 33DET 0 CHI 7 LI: 0.7(Shotgun) 9-M.Stafford pass short middle to 87-B.Pettigrew to CHI 27 for 6 yards(57-J.Bostic).'>7.62</number><number>0.36</number>
+<number shadow='shadow1' tooltip='6:48 1-10-CHI 27DET 0 CHI 7 LI: 0.99-M.Stafford pass incomplete short right to 21-R.Bush.'>8.2</number><number>0.38</number>
+<number shadow='shadow1' tooltip='6:44 2-10-CHI 27DET 0 CHI 7 LI: 1.19-M.Stafford pass deep left to 87-B.Pettigrew to CHI 5 for 22 yards(21-M.Wright).'>8.27</number><number>0.45</number>
+<number shadow='shadow1' tooltip='6:01 1-5-CHI 5DET 0 CHI 7 LI: 1.4(Shotgun) 9-M.Stafford pass short right to 18-K.Durham for 5 yards TOUCHDOWN.'>8.98</number><number>0.47</number>
+<number shadow='shadow1' tooltip='6:01 DET 0 CHI 7 LI: 2-D.Akers extra point is GOOD Center-48-D.Muhlbach Holder-6-S.Martin.'>9.02</number><number>0.47</number>
+<number shadow='shadow1' tooltip='6:01 DET 7 CHI 7 LI: 6-S.Martin kicks 73 yards from DET 35 to CHI -823-D.Hester to CHI 14 for 22 yards(29-J.Wendling).'>9.07</number><number>0.5</number>
+<number shadow='shadow1' tooltip='5:52 1-10-CHI 14DET 7 CHI 7 LI: 1.7#62 EBritton reports eligible(Shotgun) 22-M.Forte right tackle to CHI 17 for 3 yards(23-C.Houston).'>9.13</number><number>0.5</number>
+<number shadow='shadow1' tooltip='5:11 2-7-CHI 17DET 7 CHI 7 LI: 1.5(Shotgun) 6-J.Cutler pass incomplete short middle to 22-M.Forte.'>9.82</number><number>0.52</number>
+<number shadow='shadow1' tooltip='5:07 3-7-CHI 17DET 7 CHI 7 LI: 1.3(Shotgun) 6-J.Cutler sacked at CHI 8 for -9 yards(90-N.Suh)PENALTY on DET-79-W.Young Face Mask (15 Yards) 15 yards enforced at CHI 8.'>9.88</number><number>0.48</number>
+<number shadow='shadow1' tooltip='4:42 1-10-CHI 23DET 7 CHI 7 LI: 1.5(Shotgun) 6-J.Cutler pass short left to 83-M.Bennett to CHI 22 for -1 yards(26-L.Delmas).'>10.3</number><number>0.5</number>
+<number shadow='shadow1' tooltip='4:00 2-11-CHI 22DET 7 CHI 7 LI: 1.4#62 EBritton reports eligible17-A.Jeffery left end pushed ob at CHI 22 for no gain (31-R.Mathis).'>11</number><number>0.52</number>
+<number shadow='shadow1' tooltip='3:27 3-11-CHI 22DET 7 CHI 7 LI: 1.2(Shotgun) 6-J.Cutler pass short right to 22-M.Forte to CHI 28 for 6 yards(55-S.Tulloch).'>11.55</number><number>0.54</number>
+<number shadow='shadow1' tooltip='2:46 4-5-CHI 28DET 7 CHI 7 LI: 0.8(Punt formation) PENALTY on CHI-52-B.Costanzo False Start 5 yards enforced at CHI 28 - No Play.'>12.23</number><number>0.55</number>
+<number shadow='shadow1' tooltip='2:27 4-10-CHI 23DET 7 CHI 7 LI: 0.8(Punt formation) 8-A.Podlesh punts 36 yards to DET 41 Center-44-J.Cain fair catch by 15-M.Spurlock.'>12.55</number><number>0.55</number>
+<number shadow='shadow1' tooltip='2:19 1-10-DET 41DET 7 CHI 7 LI: 1.49-M.Stafford pass incomplete short right to 81-C.Johnson (33-C.Tillman).'>12.68</number><number>0.53</number>
+<number shadow='shadow1' tooltip='2:13 2-10-DET 41DET 7 CHI 7 LI: 1.221-R.Bush right guard to DET 43 for 2 yards(57-J.Bostic; 92-S.Paea).'>12.78</number><number>0.52</number>
+<number shadow='shadow1' tooltip='1:29 3-8-DET 43DET 7 CHI 7 LI: 1(Shotgun) 9-M.Stafford pass incomplete short middle to 81-C.Johnson (98-C.Wootton).'>13.52</number><number>0.48</number>
+<number shadow='shadow1' tooltip='1:26 4-8-DET 43DET 7 CHI 7 LI: 0.6(Punt formation) 6-S.Martin punts 34 yards to CHI 23 Center-48-D.Muhlbach fair catch by 23-D.Hester.'>13.57</number><number>0.48</number>
+<number shadow='shadow1' tooltip='1:19 1-10-CHI 23DET 7 CHI 7 LI: 1.5(Shotgun) 6-J.Cutler pass short left to 17-A.Jeffery to CHI 34 for 11 yards(26-L.Delmas).'>13.68</number><number>0.46</number>
+<number shadow='shadow1' tooltip='0:44 1-10-CHI 34DET 7 CHI 7 LI: 1.5(Shotgun) 6-J.Cutler pass incomplete short right to 83-M.Bennett (79-W.Young).'>14.27</number><number>0.48</number>
+<number shadow='shadow1' tooltip='0:40 2-10-CHI 34DET 7 CHI 7 LI: 1.3(Shotgun) 22-M.Forte left guard to CHI 36 for 2 yards(54-D.Levy).'>14.33</number><number>0.5</number>
+<number shadow='shadow1' tooltip='15:00 3-8-CHI 36DET 7 CHI 7 LI: 1(Shotgun) 6-J.Cutler pass short left to 83-M.Bennett pushed ob at CHI 49 for 13 yards(54-D.Levy).'>15</number><number>0.44</number>
+<number shadow='shadow1' tooltip='14:33 1-10-CHI 49DET 7 CHI 7 LI: 1.3(Shotgun) 22-M.Forte left guard to DET 49 for 2 yards(58-A.Palmer).'>15.45</number><number>0.45</number>
+<number shadow='shadow1' tooltip='13:52 2-8-DET 49DET 7 CHI 7 LI: 1.16-J.Cutler pass short right to 83-M.Bennett to DET 36 for 13 yards(54-D.Levy).'>16.13</number><number>0.4</number>
+<number shadow='shadow1' tooltip='13:09 1-10-DET 36DET 7 CHI 7 LI: 1.4#62 EBritton reports eligible17-A.Jeffery right end pushed ob at DET 31 for 5 yards(99-C.Mosley).'>16.85</number><number>0.4</number>
+<number shadow='shadow1' tooltip='12:31 2-5-DET 31DET 7 CHI 7 LI: 1.422-M.Forte left tackle to DET 27 for 4 yards(54-D.Levy; 26-L.Delmas).'>17.48</number><number>0.39</number>
+<number shadow='shadow1' tooltip='11:51 3-1-DET 27DET 7 CHI 7 LI: 1.422-M.Forte left end to DET 27 for no gain (23-C.Houston).'>18.15</number><number>0.44</number>
+<number shadow='shadow1' tooltip='11:04 4-1-DET 27DET 7 CHI 7 LI: 0.929-M.Bush right guard to DET 27 for no gain (52-R.McIntosh).'>18.93</number><number>0.53</number>
+<number shadow='shadow1' tooltip='10:59 1-10-DET 27DET 7 CHI 7 LI: 1.4(Shotgun) 35-J.Bell left guard to DET 31 for 4 yards(31-I.Frey; 50-Ja.Anderson).'>19.02</number><number>0.52</number>
+<number shadow='shadow1' tooltip='10:24 2-6-DET 31DET 7 CHI 7 LI: 1.235-J.Bell left tackle pushed ob at DET 37 for 6 yards(26-T.Jennings).'>19.6</number><number>0.55</number>
+<number shadow='shadow1' tooltip='9:54 1-10-DET 37DET 7 CHI 7 LI: 1.4(Shotgun) 9-M.Stafford pass incomplete short right to 12-J.Ross.'>20.1</number><number>0.52</number>
+<number shadow='shadow1' tooltip='9:51 2-10-DET 37DET 7 CHI 7 LI: 1.1(Shotgun) 9-M.Stafford pass deep left to 87-B.Pettigrew to CHI 40 for 23 yards(21-M.Wright).'>20.15</number><number>0.59</number>
+<number shadow='shadow1' tooltip='9:06 1-10-CHI 40DET 7 CHI 7 LI: 1.49-M.Stafford FUMBLES (Aborted) at CHI 46 recovered by DET-21-R.Bush at CHI 4421-R.Bush to CHI 44 for no gain (94-C.Washington).'>20.9</number><number>0.55</number>
+<number shadow='shadow1' tooltip='8:26 2-14-CHI 44DET 7 CHI 7 LI: 1.1(Shotgun) 9-M.Stafford pass incomplete short right to 81-C.Johnson (33-C.Tillman).'>21.57</number><number>0.52</number>
+<number shadow='shadow1' tooltip='8:23 3-14-CHI 44DET 7 CHI 7 LI: 0.8(Shotgun) 9-M.Stafford pass short left to 87-B.Pettigrew to CHI 31 for 13 yards(31-I.Frey).'>21.62</number><number>0.55</number>
+<number shadow='shadow1' tooltip='7:34 4-1-CHI 31DET 7 CHI 7 LI: 0.9(Shotgun) 9-M.Stafford pass incomplete short left to 81-C.Johnson (47-C.Conte).'>22.43</number><number>0.46</number>
+<number shadow='shadow1' tooltip='7:30 1-10-CHI 31DET 7 CHI 7 LI: 1.46-J.Cutler pass incomplete deep left to 15-B.Marshall (31-R.Mathis).'>22.5</number><number>0.49</number>
+<number shadow='shadow1' tooltip='7:23 2-10-CHI 31DET 7 CHI 7 LI: 1.1(Shotgun) 22-M.Forte right guard to CHI 33 for 2 yards(79-W.Young; 27-G.Quin).'>22.62</number><number>0.5</number>
+<number shadow='shadow1' tooltip='6:42 3-8-CHI 33DET 7 CHI 7 LI: 1(Shotgun) 6-J.Cutler pass deep middle to 17-A.Jeffery to DET 49 for 18 yards(26-L.Delmas) [90-N.Suh].'>23.3</number><number>0.43</number>
+<number shadow='shadow1' tooltip='5:59 1-10-DET 49DET 7 CHI 7 LI: 1.3(Shotgun) 6-J.Cutler pass short right to 80-E.Bennett to DET 47 for 2 yards(23-C.Houston).'>24.02</number><number>0.45</number>
+<number shadow='shadow1' tooltip='5:19 2-8-DET 47DET 7 CHI 7 LI: 1.1#62 EBritton reports eligible6-J.Cutler pass incomplete deep left to 17-A.Jeffery [97-A.Lane].'>24.68</number><number>0.47</number>
+<number shadow='shadow1' tooltip='5:13 3-8-DET 47DET 7 CHI 7 LI: 0.9(Shotgun) 6-J.Cutler pass short left to 17-A.Jeffery to DET 34 for 13 yards(30-D.Slay).'>24.78</number><number>0.39</number>
+<number shadow='shadow1' tooltip='4:25 1-10-DET 34DET 7 CHI 7 LI: 1.5(Shotgun) 22-M.Forte left guard to DET 30 for 4 yards(55-S.Tulloch).'>25.58</number><number>0.39</number>
+<number shadow='shadow1' tooltip='3:40 2-6-DET 30DET 7 CHI 7 LI: 1.5#62 EBritton reports eligible(Shotgun) 22-M.Forte left guard to DET 31 for -1 yards(90-N.Suh).'>26.33</number><number>0.41</number>
+<number shadow='shadow1' tooltip='2:56 3-7-DET 31DET 7 CHI 7 LI: 1.3(Shotgun) 6-J.Cutler pass short left to 17-A.Jeffery to DET 19 for 12 yards(30-D.Slay) [90-N.Suh].'>27.07</number><number>0.36</number>
+<number shadow='shadow1' tooltip='2:18 1-10-DET 19DET 7 CHI 7 LI: 1.5(Shotgun) 22-M.Forte right end to DET 14 for 5 yards(55-S.Tulloch).'>27.7</number><number>0.31</number>
+<number shadow='shadow1' tooltip='2:00 2-5-DET 14DET 7 CHI 7 LI: 1.9(Shotgun) 22-M.Forte left end to DET 7 for 7 yards(31-R.Mathis).'>28</number><number>0.31</number>
+<number shadow='shadow1' tooltip='1:12 1-7-DET 7DET 7 CHI 7 LI: 1.9#62 EBritton reports eligible(Shotgun) 22-M.Forte left guard to DET 4 for 3 yards(27-G.Quin).'>28.8</number><number>0.29</number>
+<number shadow='shadow1' tooltip='0:31 2-4-DET 4DET 7 CHI 7 LI: 2.1#62 EBritton reports eligible(Shotgun) 6-J.Cutler pass short left intended for 83-M.Bennett INTERCEPTED by 54-D.Levy (90-N.Suh) at DET -1Touchback.'>29.48</number><number>0.52</number>
+<number shadow='shadow1' tooltip='0:24 1-10-DET 20DET 7 CHI 7 LI: 1.6(Shotgun) 9-M.Stafford pass short middle to 21-R.Bush to DET 21 for 1 yard(57-J.Bostic).'>29.6</number><number>0.47</number>
+<number shadow='shadow1' tooltip='0:24 DET 7 CHI 7 LI: 9-R.Gould kicks 65 yards from CHI 35 to DET 015-M.Spurlock pushed ob at DET 34 for 34 yards(53-J.Franklin).'>29.69</number><number>0.54</number>
+<number shadow='shadow1' tooltip='14:55 1-10-DET 34DET 7 CHI 7 LI: 1.5(Shotgun) 35-J.Bell left guard to DET 42 for 8 yards(90-J.Peppers).'>30.08</number><number>0.54</number>
+<number shadow='shadow1' tooltip='14:15 2-2-DET 42DET 7 CHI 7 LI: 1.3(Shotgun) 9-M.Stafford pass short left to 12-J.Ross to CHI 47 for 11 yards(26-T.Jennings; 57-J.Bostic).'>30.75</number><number>0.57</number>
+<number shadow='shadow1' tooltip='13:35 1-10-CHI 47DET 7 CHI 7 LI: 1.321-R.Bush right guard to CHI 8 for 39 yards(33-C.Tillman)PENALTY on CHI-33-C.Tillman Horse Collar Tackle 4 yards enforced at CHI 8.'>31.42</number><number>0.71</number>
+<number shadow='shadow1' tooltip='13:06 1-4-CHI 4DET 7 CHI 7 LI: 2.1#65 DGandy reports eligible9-M.Stafford pass incomplete short right to 80-J.Fauria.'>31.9</number><number>0.71</number>
+<number shadow='shadow1' tooltip='13:02 2-4-CHI 4DET 7 CHI 7 LI: 2.19-M.Stafford pass short right to 81-C.Johnson for 4 yards TOUCHDOWNThe Replay Assistant challenged the pass completion ruling and the play was Upheld.'>31.97</number><number>0.73</number>
+<number shadow='shadow1' tooltip='13:02 DET 7 CHI 7 LI: 2-D.Akers extra point is GOOD Center-48-D.Muhlbach Holder-6-S.Martin.'>32.01</number><number>0.73</number>
+<number shadow='shadow1' tooltip='13:02 DET 14 CHI 7 LI: 6-S.Martin kicks 73 yards from DET 35 to CHI -823-D.Hester to CHI 20 for 28 yards(41-T.Riddick).'>32.06</number><number>0.74</number>
+<number shadow='shadow1' tooltip='12:54 1-10-CHI 20DET 14 CHI 7 LI: 1#62 EBritton reports eligible22-M.Forte left end to CHI 16 for -4 yards(31-R.Mathis).'>32.1</number><number>0.76</number>
+<number shadow='shadow1' tooltip='12:14 2-14-CHI 16DET 14 CHI 7 LI: 0.9(Shotgun) 6-J.Cutler pass short middle to 15-B.Marshall to CHI 25 for 9 yards(31-R.Mathis).'>32.77</number><number>0.75</number>
+<number shadow='shadow1' tooltip='11:30 3-5-CHI 25DET 14 CHI 7 LI: 0.9(Shotgun) 6-J.Cutler pass incomplete deep left to 15-B.Marshall.'>33.5</number><number>0.78</number>
+<number shadow='shadow1' tooltip='11:25 4-5-CHI 25DET 14 CHI 7 LI: 0.6(Punt formation) 8-A.Podlesh punts 50 yards to DET 25 Center-44-J.Cain fair catch by 15-M.Spurlock.'>33.58</number><number>0.77</number>
+<number shadow='shadow1' tooltip='11:17 1-10-DET 25DET 14 CHI 7 LI: 1.4(Shotgun) 21-R.Bush left guard to DET 26 for 1 yard(50-Ja.Anderson).'>33.72</number><number>0.76</number>
+<number shadow='shadow1' tooltip='10:40 2-9-DET 26DET 14 CHI 7 LI: 1.2(Shotgun) 9-M.Stafford pass incomplete short right to 21-R.Bush.'>34.33</number><number>0.75</number>
+<number shadow='shadow1' tooltip='10:35 3-9-DET 26DET 14 CHI 7 LI: 1.1(Shotgun) 9-M.Stafford pass short right to 87-B.Pettigrew to DET 32 for 6 yards(26-T.Jennings).'>34.42</number><number>0.74</number>
+<number shadow='shadow1' tooltip='10:01 4-3-DET 32DET 14 CHI 7 LI: 0.9(Punt formation) 6-S.Martin punts 44 yards to CHI 24 Center-48-D.Muhlbach fair catch by 23-D.Hester.'>34.98</number><number>0.75</number>
+<number shadow='shadow1' tooltip='9:52 1-10-CHI 24DET 14 CHI 7 LI: 0.96-J.Cutler pass incomplete short middle to 22-M.Forte [92-D.Taylor].'>35.13</number><number>0.75</number>
+<number shadow='shadow1' tooltip='9:48 2-10-CHI 24DET 14 CHI 7 LI: 0.9#62 EBritton reports eligible6-J.Cutler pass deep middle to 15-B.Marshall to DET 32 for 44 yards(31-R.Mathis).'>35.2</number><number>0.65</number>
+<number shadow='shadow1' tooltip='9:03 1-10-DET 32DET 14 CHI 7 LI: 1.3#62 EBritton reports eligible(Shotgun) 6-J.Cutler pass incomplete short left to 17-A.Jeffery (79-W.Young).'>35.95</number><number>0.67</number>
+<number shadow='shadow1' tooltip='8:56 2-10-DET 32DET 14 CHI 7 LI: 1.16-J.Cutler pass deep right to 17-A.Jeffery pushed ob at DET 14 for 18 yards(23-C.Houston) [98-N.Fairley].'>36.07</number><number>0.58</number>
+<number shadow='shadow1' tooltip='8:19 1-10-DET 14DET 14 CHI 7 LI: 1.7(Shotgun) 6-J.Cutler pass incomplete short middle to 17-A.Jeffery.'>36.68</number><number>0.61</number>
+<number shadow='shadow1' tooltip='8:15 2-10-DET 14DET 14 CHI 7 LI: 1.4(Shotgun) 6-J.Cutler pass incomplete short left to 88-D.Rosario.'>36.75</number><number>0.64</number>
+<number shadow='shadow1' tooltip='8:11 3-10-DET 14DET 14 CHI 7 LI: 1.1(Shotgun) 6-J.Cutler pass short middle to 22-M.Forte to DET 7 for 7 yards(55-S.Tulloch).'>36.82</number><number>0.69</number>
+<number shadow='shadow1' tooltip='7:30 4-3-DET 7DET 14 CHI 7 LI: 0.6(Field Goal formation) 9-R.Gould 25 yard field goal is GOOD Center-44-J.Cain Holder-8-A.Podlesh.'>37.5</number><number>0.7</number>
+<number shadow='shadow1' tooltip='7:30 DET 14 CHI 10 LI: 9-R.Gould kicks 71 yards from CHI 35 to DET -615-M.Spurlock to DET 14 for 20 yards(20-C.Steltz).'>37.59</number><number>0.67</number>
+<number shadow='shadow1' tooltip='7:20 1-10-DET 14DET 14 CHI 10 LI: 2.421-R.Bush left guard to DET 28 for 14 yards(47-C.Conte).'>37.67</number><number>0.7</number>
+<number shadow='shadow1' tooltip='6:40 1-10-DET 28DET 14 CHI 10 LI: 1.6(Shotgun) 35-J.Bell left tackle to DET 34 for 6 yards(47-C.Conte).'>38.33</number><number>0.71</number>
+<number shadow='shadow1' tooltip='6:01 2-4-DET 34DET 14 CHI 10 LI: 1.635-J.Bell right tackle to DET 32 for -2 yards(50-Ja.Anderson).'>38.98</number><number>0.69</number>
+<number shadow='shadow1' tooltip='5:15 3-6-DET 32DET 14 CHI 10 LI: 1.4(Shotgun) 9-M.Stafford pass incomplete short right to 81-C.Johnson.'>39.75</number><number>0.65</number>
+<number shadow='shadow1' tooltip='5:11 4-6-DET 32DET 14 CHI 10 LI: 1(Punt formation) 6-S.Martin punts 59 yards to CHI 9 Center-48-D.Muhlbach23-D.Hester to CHI 25 for 16 yards(41-T.Riddick).'>39.82</number><number>0.66</number>
+<number shadow='shadow1' tooltip='4:58 1-10-CHI 25DET 14 CHI 10 LI: 1.3#62 EBritton reports eligible6-J.Cutler pass incomplete short right to 22-M.Forte.'>40.03</number><number>0.67</number>
+<number shadow='shadow1' tooltip='4:54 2-10-CHI 25DET 14 CHI 10 LI: 1.2(Shotgun) 6-J.Cutler pass incomplete short middle to 88-D.Rosario.'>40.1</number><number>0.69</number>
+<number shadow='shadow1' tooltip='4:50 3-10-CHI 25DET 14 CHI 10 LI: 1(Shotgun) 6-J.Cutler pass incomplete deep middle to 15-B.Marshall [90-N.Suh]PENALTY on DET-32-D.Carey Illegal Contact 5 yards enforced at CHI 25 - No Play.'>40.17</number><number>0.64</number>
+<number shadow='shadow1' tooltip='4:43 1-10-CHI 30DET 14 CHI 10 LI: 1.4(Shotgun) 22-M.Forte right end to CHI 31 for 1 yard(32-D.Carey).'>40.28</number><number>0.65</number>
+<number shadow='shadow1' tooltip='3:57 2-9-CHI 31DET 14 CHI 10 LI: 1.3#62 EBritton reports eligible(Shotgun) 22-M.Forte left guard to CHI 32 for 1 yard(77-I.Idonije).'>41.05</number><number>0.67</number>
+<number shadow='shadow1' tooltip='3:17 3-8-CHI 32DET 14 CHI 10 LI: 1.1(Shotgun) 6-J.Cutler pass incomplete deep right to 17-A.Jeffery.'>41.72</number><number>0.7</number>
+<number shadow='shadow1' tooltip='3:10 4-8-CHI 32DET 14 CHI 10 LI: 0.8(Punt formation) 8-A.Podlesh punts 44 yards to DET 24 Center-44-J.Cain fair catch by 15-M.Spurlock.'>41.83</number><number>0.69</number>
+<number shadow='shadow1' tooltip='3:03 1-10-DET 24DET 14 CHI 10 LI: 1.5(Shotgun) 35-J.Bell right guard to DET 33 for 9 yards(21-M.Wright; 47-C.Conte).'>41.95</number><number>0.71</number>
+<number shadow='shadow1' tooltip='2:25 2-1-DET 33DET 14 CHI 10 LI: 1.5(Shotgun) 21-R.Bush left tackle to DET 38 for 5 yards(50-Ja.Anderson).'>42.58</number><number>0.72</number>
+<number shadow='shadow1' tooltip='1:45 1-10-DET 38DET 14 CHI 10 LI: 1.5PENALTY on CHI-98-C.Wootton Encroachment 5 yards enforced at DET 38 - No Play.'>43.25</number><number>0.73</number>
+<number shadow='shadow1' tooltip='1:26 1-5-DET 43DET 14 CHI 10 LI: 1.435-J.Bell right guard to DET 42 for -1 yards(91-D.Bass).'>43.57</number><number>0.73</number>
+<number shadow='shadow1' tooltip='0:46 2-6-DET 42DET 14 CHI 10 LI: 1.5(Shotgun) 9-M.Stafford pass short middle to 21-R.Bush to DET 45 for 3 yards(92-S.Paea).'>44.23</number><number>0.72</number>
+<number shadow='shadow1' tooltip='15:00 3-3-DET 45DET 14 CHI 10 LI: 1.3(Shotgun) 9-M.Stafford pass incomplete short left to 21-R.Bush.'>45</number><number>0.68</number>
+<number shadow='shadow1' tooltip='14:57 4-3-DET 45DET 14 CHI 10 LI: 0.9(Punt formation) 6-S.Martin punts 41 yards to CHI 14 Center-48-D.Muhlbach fair catch by 23-D.Hester.'>45.05</number><number>0.69</number>
+<number shadow='shadow1' tooltip='14:50 1-10-CHI 14DET 14 CHI 10 LI: 1.76-J.Cutler pass short left to 43-T.Fiammetta to CHI 18 for 4 yards(54-D.Levy).'>45.17</number><number>0.69</number>
+<number shadow='shadow1' tooltip='14:11 2-6-CHI 18DET 14 CHI 10 LI: 1.4(Shotgun) 6-J.Cutler pass incomplete short left to 17-A.Jeffery [98-N.Fairley].'>45.82</number><number>0.71</number>
+<number shadow='shadow1' tooltip='14:07 3-6-CHI 18DET 14 CHI 10 LI: 1.2(Shotgun) 6-J.Cutler pass short middle to 17-A.Jeffery to CHI 30 for 12 yards(27-G.Quin).'>45.88</number><number>0.65</number>
+<number shadow='shadow1' tooltip='13:21 1-10-CHI 30DET 14 CHI 10 LI: 1.6(Shotgun) 22-M.Forte left tackle to CHI 31 for 1 yard(54-D.Levy).'>46.65</number><number>0.67</number>
+<number shadow='shadow1' tooltip='12:46 2-9-CHI 31DET 14 CHI 10 LI: 1.36-J.Cutler pass incomplete short left to 15-B.Marshall (31-R.Mathis).'>47.23</number><number>0.69</number>
+<number shadow='shadow1' tooltip='12:41 3-9-CHI 31DET 14 CHI 10 LI: 1.1(Shotgun) 6-J.Cutler pass short left to 22-M.Forte to CHI 34 for 3 yards(31-R.Mathis).'>47.32</number><number>0.73</number>
+<number shadow='shadow1' tooltip='12:06 4-6-CHI 34DET 14 CHI 10 LI: 0.8(Punt formation) 8-A.Podlesh punts 44 yards to DET 22 Center-44-J.Cain fair catch by 15-M.Spurlock.'>47.9</number><number>0.71</number>
+<number shadow='shadow1' tooltip='11:59 1-10-DET 22DET 14 CHI 10 LI: 1.8(Shotgun) 9-M.Stafford pass incomplete short middle to 81-C.Johnson.'>48.02</number><number>0.7</number>
+<number shadow='shadow1' tooltip='11:54 2-10-DET 22DET 14 CHI 10 LI: 1.7(Shotgun) 21-R.Bush right guard to DET 23 for 1 yard(97-L.Cohen).'>48.1</number><number>0.69</number>
+<number shadow='shadow1' tooltip='11:08 3-9-DET 23DET 14 CHI 10 LI: 1.6(Shotgun) 9-M.Stafford pass deep middle intended for 81-C.Johnson INTERCEPTED by 47-C.Conte at DET 4447-C.Conte to DET 9 for 35 yards(51-D.Raiola).'>48.87</number><number>0.46</number>
+<number shadow='shadow1' tooltip='10:57 1-9-DET 9DET 14 CHI 10 LI: 2.5(Shotgun) 22-M.Forte left end for 9 yards TOUCHDOWN NULLIFIED by PenaltyPENALTY on CHI-68-M.Slauson Offensive Holding 10 yards enforced at DET 9 - No Play.'>49.05</number><number>0.52</number>
+<number shadow='shadow1' tooltip='10:52 1-19-DET 19DET 14 CHI 10 LI: 2.1#62 EBritton reports eligible6-J.Cutler pass short right to 17-A.Jeffery to DET 14 for 5 yards(55-S.Tulloch) [99-C.Mosley].'>49.13</number><number>0.49</number>
+<number shadow='shadow1' tooltip='10:12 2-14-DET 14DET 14 CHI 10 LI: 2.4(Shotgun) 6-J.Cutler pass short middle to 22-M.Forte to DET 14 for no gain (32-D.Carey) [90-N.Suh].'>49.8</number><number>0.55</number>
+<number shadow='shadow1' tooltip='9:30 3-14-DET 14DET 14 CHI 10 LI: 1.86-J.Cutler pass short right to 17-A.Jeffery for 14 yards TOUCHDOWNThe Replay Assistant challenged the pass completion ruling and the play was REVERSED6-J.Cutler pass incomplete short right to 17-A.Jeffery.'>50.5</number><number>0.61</number>
+<number shadow='shadow1' tooltip='9:22 4-14-DET 14DET 14 CHI 10 LI: 1.2(Field Goal formation) 9-R.Gould 32 yard field goal is GOOD Center-44-J.Cain Holder-8-A.Podlesh.'>50.63</number><number>0.61</number>
+<number shadow='shadow1' tooltip='9:22 DET 14 CHI 13 LI: 9-R.Gould kicks 65 yards from CHI 35 to end zone Touchback.'>50.72</number><number>0.59</number>
+<number shadow='shadow1' tooltip='8:37 2-6-DET 24DET 14 CHI 13 LI: 2.79-M.Stafford pass deep middle to 80-J.Fauria to DET 49 for 25 yards(59-K.Greene).'>51.38</number><number>0.73</number>
+<number shadow='shadow1' tooltip='7:55 1-10-DET 49DET 14 CHI 13 LI: 3.49-M.Stafford pass incomplete short right to 81-C.Johnson.'>52.08</number><number>0.68</number>
+<number shadow='shadow1' tooltip='7:53 2-10-DET 49DET 14 CHI 13 LI: 2.9(Shotgun) 9-M.Stafford pass deep middle to 81-C.Johnson to CHI 32 for 19 yards(33-C.Tillman)PENALTY on CHI-33-C.Tillman Face Mask (15 Yards) 15 yards enforced at CHI 32.'>52.12</number><number>0.81</number>
+<number shadow='shadow1' tooltip='7:23 1-10-CHI 17DET 14 CHI 13 LI: 2.4(Shotgun) 9-M.Stafford pass incomplete deep left to 80-J.FauriaPENALTY on DET-80-J.Fauria Face Mask (15 Yards) 15 yards enforced at CHI 17 - No Play.'>52.62</number><number>0.8</number>
+<number shadow='shadow1' tooltip='7:17 1-25-CHI 32DET 14 CHI 13 LI: 2.935-J.Bell right tackle to CHI 27 for 5 yards(57-J.Bostic).'>52.72</number><number>0.73</number>
+<number shadow='shadow1' tooltip='6:37 2-20-CHI 27DET 14 CHI 13 LI: 1.9(Shotgun) 9-M.Stafford pass incomplete short right to 35-J.Bell (92-S.Paea).'>53.38</number><number>0.7</number>
+<number shadow='shadow1' tooltip='6:33 3-20-CHI 27DET 14 CHI 13 LI: 1.6(Shotgun) 9-M.Stafford pass incomplete deep left to 81-C.Johnson (47-C.Conte).'>53.45</number><number>0.68</number>
+<number shadow='shadow1' tooltip='6:25 4-20-CHI 27DET 14 CHI 13 LI: 1.4(Field Goal formation) 2-D.Akers 45 yard field goal is No Good Wide Right Center-48-D.Muhlbach Holder-6-S.Martin.'>53.58</number><number>0.49</number>
+<number shadow='shadow1' tooltip='6:20 1-10-CHI 36DET 14 CHI 13 LI: 2.922-M.Forte left tackle to CHI 35 for -1 yards(55-S.Tulloch).'>53.67</number><number>0.59</number>
+<number shadow='shadow1' tooltip='5:46 2-11-CHI 35DET 14 CHI 13 LI: 2(Shotgun) 6-J.Cutler pass incomplete deep right to 15-B.Marshall.'>54.23</number><number>0.62</number>
+<number shadow='shadow1' tooltip='5:41 3-11-CHI 35DET 14 CHI 13 LI: 1.7#62 EBritton reports eligible(Shotgun) 6-J.Cutler pass incomplete short left to 17-A.Jeffery [98-N.Fairley].'>54.32</number><number>0.66</number>
+<number shadow='shadow1' tooltip='5:36 4-11-CHI 35DET 14 CHI 13 LI: 1.3(Punt formation) 8-A.Podlesh punts 39 yards to DET 26 Center-44-J.Cain out of bounds.'>54.4</number><number>0.66</number>
+<number shadow='shadow1' tooltip='5:28 1-10-DET 26DET 14 CHI 13 LI: 49-M.Stafford pass deep left to 12-J.Ross to DET 43 for 17 yards(26-T.Jennings; 31-I.Frey).'>54.53</number><number>0.73</number>
+<number shadow='shadow1' tooltip='4:49 1-10-DET 43DET 14 CHI 13 LI: 321-R.Bush left guard to 50 for 7 yards(50-Ja.Anderson).'>55.18</number><number>0.77</number>
+<number shadow='shadow1' tooltip='4:11 2-3-50DET 14 CHI 13 LI: 2.7(Shotgun) 9-M.Stafford pass incomplete short right to 81-C.Johnson.'>55.82</number><number>0.72</number>
+<number shadow='shadow1' tooltip='4:05 3-3-50DET 14 CHI 13 LI: 2.1(Shotgun) 9-M.Stafford pass short middle to 81-C.Johnson to CHI 36 for 14 yards(33-C.Tillman).'>55.92</number><number>0.89</number>
+<number shadow='shadow1' tooltip='3:28 1-10-CHI 36DET 14 CHI 13 LI: 4.321-R.Bush right tackle to CHI 25 for 11 yards(21-M.Wright).'>56.53</number><number>0.97</number>
+<number shadow='shadow1' tooltip='2:43 1-10-CHI 25DET 14 CHI 13 LI: 4.721-R.Bush right tackle to CHI 14 for 11 yards(21-M.Wright; 57-J.Bostic).'>57.28</number><number>0.92</number>
+<number shadow='shadow1' tooltip='2:36 1-10-CHI 14DET 14 CHI 13 LI: 3.321-R.Bush right guard to CHI 14 for no gain (92-S.Paea).'>57.4</number><number>0.83</number>
+<number shadow='shadow1' tooltip='2:31 2-10-CHI 14DET 14 CHI 13 LI: 2.4(Shotgun) 9-M.Stafford pass incomplete short right to 81-C.Johnson.'>57.48</number><number>0.78</number>
+<number shadow='shadow1' tooltip='2:28 3-10-CHI 14DET 14 CHI 13 LI: 1.8(Shotgun) 9-M.Stafford pass short left to 81-C.Johnson for 14 yards TOUCHDOWN.'>57.53</number><number>0.82</number>
+<number shadow='shadow1' tooltip='2:28 DET 14 CHI 13 LI: 2-D.Akers extra point is GOOD Center-48-D.Muhlbach Holder-6-S.Martin.'>57.57</number><number>0.82</number>
+<number shadow='shadow1' tooltip='2:28 DET 21 CHI 13 LI: 6-S.Martin kicks 64 yards from DET 35 to CHI 123-D.Hester to CHI 26 for 25 yards(41-T.Riddick).'>57.62</number><number>0.84</number>
+<number shadow='shadow1' tooltip='2:17 1-10-CHI 26DET 21 CHI 13 LI: 1.5#12 JMcCown in at QB (Shotgun) 12-J.McCown pass incomplete short right to 80-E.Bennett.'>57.72</number><number>0.93</number>
+<number shadow='shadow1' tooltip='2:13 2-10-CHI 26DET 21 CHI 13 LI: 0.6(Shotgun) 12-J.McCown pass short left to 80-E.Bennett ran ob at CHI 34 for 8 yardsPENALTY on DET-98-N.Fairley Unnecessary Roughness 15 yards enforced at CHI 34.'>57.78</number><number>0.87</number>
+<number shadow='shadow1' tooltip='2:07 1-10-CHI 49DET 21 CHI 13 LI: 1.2(Shotgun) 12-J.McCown sacked at CHI 46 for -3 yards(98-N.Fairley).'>57.88</number><number>0.91</number>
+<number shadow='shadow1' tooltip='2:00 2-13-CHI 46DET 21 CHI 13 LI: 0.8(Shotgun) 12-J.McCown pass incomplete short left to 15-B.Marshall.'>58</number><number>0.95</number>
+<number shadow='shadow1' tooltip='1:56 3-13-CHI 46DET 21 CHI 13 LI: 0.412-J.McCown pass short right to 17-A.Jeffery ran ob at DET 42 for 12 yards.'>58.07</number><number>0.99</number>
+<number shadow='shadow1' tooltip='1:50 4-1-DET 42DET 21 CHI 13 LI: 0.1(Shotgun) 12-J.McCown pass short left to 15-B.Marshall to DET 28 for 14 yards(31-R.Mathis).'>58.17</number><number>0.77</number>
+<number shadow='shadow1' tooltip='1:24 1-10-DET 28DET 21 CHI 13 LI: 2.2(Shotgun) 12-J.McCown pass short right to 17-A.Jeffery ran ob at DET 15 for 13 yards.'>58.6</number><number>0.81</number>
+<number shadow='shadow1' tooltip='1:17 1-10-DET 15DET 21 CHI 13 LI: 1.8(Shotgun) 12-J.McCown pass short left to 83-M.Bennett to DET 11 for 4 yards(55-S.Tulloch).'>58.72</number><number>0.99</number>
+<number shadow='shadow1' tooltip='0:52 2-6-DET 11DET 21 CHI 13 LI: 0.1(No Huddle Shotgun) 12-J.McCown pass incomplete short left to 17-A.Jeffery.'>59.13</number><number>0.99</number>
+<number shadow='shadow1' tooltip='0:47 3-6-DET 11DET 21 CHI 13 LI: 0.1(Shotgun) 12-J.McCown pass short left to 15-B.Marshall for 11 yards TOUCHDOWN.'>59.22</number><number>0.98</number>
+<number shadow='shadow1' tooltip='0:47 DET 21 CHI 19 LI: 9-R.Gould kicks onside 9 yards from CHI 35 to CHI 4435-J.Bell (didn t try to advance) to CHI 44 for no gain (52-B.Costanzo).'>59.31</number><number>0.99</number>
+<number shadow='shadow1' tooltip='0:39 1-10-CHI 44DET 21 CHI 19 LI: 1.39-M.Stafford kneels to CHI 45 for -1 yards.'>59.35</number><number>1</number>
+<number>60</number><number>1</number>
+</row> </chart_data>
+       <draw>
+
+
+
+      <image x='45' y='298'  url='nfllogos/42x50png/DET.gif'  layer='foreground' glow = 'glow1'/>
+      <image x='45' y='350'  url='nfllogos/42x50png/CHI.gif'     layer='foreground' glow = 'glow1'/>
+
+
+      <rect x='130' y='300' width='250' height='40' fill_color='0064ae' bevel='bevel1' />
+      <text x='135' y='300' width='250' height='40' h_align='left' v_align='middle' color='ffffff' shadow='shadow2' glow='winnerglow'>Detroit Lions</text>
+
+      <rect x='130' y='350' width='250' height='40' fill_color='002a46' bevel='bevel1'  />
+      <text x='135' y='350' width='250' height='40' h_align='left' v_align='middle' color='ffffff' shadow='shadow2' glow=''>Chicago Bears</text>
+
+      <rect x='420' y='300' width='60' height='40' fill_color='0064ae' bevel='bevel1'  />
+      <text x='420' y='300' width='60' height='40' h_align='center' v_align='middle' color='ffffff' shadow='shadow2' transition='none' glow='winnerglow'>21</text>
+
+      <rect x='420' y='350' width='60' height='40' fill_color='002a46' bevel='bevel1' />
+      <text x='420' y='350' width='60' height='40' h_align='center' v_align='middle' color='ffffff' shadow='shadow2' transition='none' glow=''>19</text>
+
+      <text x='-3' y='12'  width='60' height='40' h_align='center' v_align='middle' size='13' shadow='shadow2'>DETWin </text>
+      <text x='-3' y='218' width='60' height='40' h_align='center' v_align='middle' size='13' shadow='shadow2'>CHIWin </text>
+
+     
+              <rect x='540' y='300' width='100' height='35' fill_color='000000' fill_alpha='50'/>
+              <text x='540' y='300' width='100' height='35' h_align='center' v_align='middle' color='ffffff' size='15' shadow='shadow2' >Final</text>
+
+              <text x='540' y='340' width='40' h_align='center' color='000000' size='12' shadow='shadow2'>CBF</text>
+              <text x='600' y='340' width='40' h_align='center' color='000000' size='12' shadow='shadow2'>EI</text>
+
+              <rect x='540' y='360' width='40' height='30' fill_color='000000' fill_alpha='50' />
+              <text x='540' y='360' width='40' height='30' size='12' h_align='center' v_align='middle' color='FFFFFF' shadow='shadow2'>4</text>
+
+              <rect x='600' y='360' width='40' height='30' fill_color='000000' fill_alpha='50' />
+              <text x='600' y='360' width='40' height='30' size='12' h_align='center' v_align='middle' color='FFFFFF' shadow='shadow2'>6.0</text>
+
+              <text x='20' y='420' width='70' height='25' size='12' h_align='left' v_align='middle' color='000000' >11/10/2013</text>
+              <text x='100' y='420' width='200' height='25' size='12' h_align='left' v_align='middle' color='000000' >Soldier Field</text>
+
+   </draw></chart>
