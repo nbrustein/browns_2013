@@ -1,8 +1,8 @@
 source 'https://rubygems.org'
-ruby '2.0.0'
+ruby '1.9.3'
 gem 'activesupport'
 gem 'hpricot'
-gem 'fastercsv'
+gem 'debugger'
 
 # gem 'rails', '4.0.2'
 # gem 'activerecord-postgresql-adapter'

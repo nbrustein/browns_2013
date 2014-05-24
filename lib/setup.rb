@@ -4,6 +4,7 @@ require 'pp'
 require 'hpricot'
 require 'open-uri'
 require 'fileutils'
+require 'ruby-debug'
 
 ROOT_PATH = File.expand_path('../../', __FILE__)
 
